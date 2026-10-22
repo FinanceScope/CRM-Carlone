@@ -1,0 +1,493 @@
+[
+ {
+  "siren": "498917202",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Cédric TISSIER",
+   "fonction": "Gérant (cogérance avec Ghislaine TISSIER)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ambulances-tissier_498917202"
+  },
+  "dirigeant_principal": {
+   "nom": "Cédric TISSIER",
+   "fonction": "Gérant (cogérant avec Ghislaine TISSIER, gérante)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ambulances-tissier_498917202"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Ghislaine TISSIER",
+    "fonction": "Gérante (cogérante)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/ambulances-tissier_498917202"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun site web ni numéro fiable trouvé. Numéro candidat 03 86 57 02 39 vu dans un extrait associé au 119 rue de Marzy, mais sur une fiche Cylex intitulée 'Ambulance Express, Nevers' (https://www.cylex-locale.fr/entreprises/ambulance-express-10612389.html) : attribution non confirmée, non retenu. SARL créée en 2007, sans établissement secondaire ; CA 2024 3,2 M€ (Xerfi). Arrêté ARS 2024 (recueil des actes Nièvre) : transfert d'un véhicule sanitaire à la SARL Ambulances TISSIER. Pas de responsable financier identifié (20-49 salariés)."
+ },
+ {
+  "siren": "442496816",
+  "standard": {
+   "tel": "03 86 70 93 00",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": "https://www.bricomarche.com/magasin/la-charite-sur-loire/04656",
+  "decideur_financier": {
+   "nom": "Isabelle JOBY",
+   "fonction": "Présidente (depuis septembre 2026)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/clemenciel-442496816"
+  },
+  "dirigeant_principal": {
+   "nom": "Isabelle JOBY",
+   "fonction": "Présidente (depuis septembre 2026)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/clemenciel-442496816"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin franchisé Bricomarché (groupement Les Mousquetaires). Le numéro 03 86 70 93 00 provient uniquement des données déjà connues ; aucune page publique ne l'a confirmé dans les résultats de recherche (à vérifier sur la fiche magasin bricomarche.com). Un résultat bricomarche.com mentionne une adresse 'rue de Gerigny' pour le magasin, différente de l'adresse du siège (130 rue Plantes des Religieuses). Magasin rénové et agrandi, réouverture vers 2020-2021 (ac-franchise.com). Aucune trace publique de la présidente dans les résultats ; changement de dirigeant récent (septembre 2026) d'après les données connues."
+ },
+ {
+  "siren": "321816571",
+  "standard": {
+   "tel": "03 86 61 13 66",
+   "source": "https://www.santeenfrance.fr/etablissement/47914-snc-pharmacie-colbert",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Stéphane JOLY",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pharmacie-colbert-321816571"
+  },
+  "dirigeant_principal": {
+   "nom": "Stéphane JOLY",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pharmacie-colbert-321816571"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SNC Pharmacie Colbert, 37 avenue Colbert, Nevers. Téléphone vu sur des annuaires (Santé en France, repris par Bottin.fr) ; fax 03 86 57 01 75. Un annuaire (au-magasin.fr) liste aussi une 'Pharmacie Bouzat' au 37 bis avenue Colbert : possible ancienne/autre dénomination de l'officine, à vérifier. Gérant d'après le registre uniquement, aucune source publique récente ne le confirme. Ne pas confondre avec la Pharmacie Noizat-Joly (2 rue Blaise Pascal, Nevers)."
+ },
+ {
+  "siren": "479140758",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Monique ANSSEMS",
+   "fonction": "Gérante (cogérance avec Thijs VAN EIJNDHOVEN)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
+  },
+  "dirigeant_principal": {
+   "nom": "Monique ANSSEMS",
+   "fonction": "Gérante (cogérante avec Thijs VAN EIJNDHOVEN)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Thijs VAN EIJNDHOVEN",
+    "fonction": "Gérant (cogérant)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun numéro ni site trouvé en 3 recherches. Un annuaire 118000.fr (https://www.118000.fr/v_didenheim_68/c_concessionnaire-automobile/52) liste 'Anssems Remorques', rue Pierre Brossolette, 58600 Garchizy, catégorie concessionnaire automobile, sans numéro visible dans l'extrait ; une fiche 118712 (https://www.118712.fr/professionnels/X0FRXFNVGQY) apparaît dans les résultats mais le numéro est masqué. Probablement filiale/distributeur français du fabricant néerlandais Anssems Aanhangwagens B.V. (Rijen, Pays-Bas) : la décision financière peut se prendre côté maison mère. Dirigeants d'après le registre uniquement."
+ },
+ {
+  "siren": "528031750",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Yannick ANDRIEUX",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/v-2-restauration-528031750"
+  },
+  "dirigeant_principal": {
+   "nom": "Yannick ANDRIEUX",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/v-2-restauration-528031750"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune enseigne ni numéro trouvés en 3 recherches (nom de société, adresse, dirigeant). L'enseigne exploitée au 88 boulevard Camille Dagonneau n'apparaît pas dans les annuaires consultés ; avec 20-49 salariés et 2,9 M€ de CA, il s'agit probablement d'un restaurant franchisé (restauration rapide) dont l'enseigne reste à identifier. Président d'après le registre uniquement."
+ },
+ {
+  "siren": "393762919",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Paul PONCELET",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/la-bussiere-393762919"
+  },
+  "dirigeant_principal": {
+   "nom": "Paul PONCELET",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/la-bussiere-393762919"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Élevage porcin (NAF 01.46Z), créé en décembre 1993, siège au lieu-dit La Bussière à Rix, deux autres établissements à Diges et Chevannes (89240, Yonne) ; CA 2024 2,84 M€ (Xerfi, https://www.xerfi.com/etudes-par-entreprise/la-bussiere_393762919). Xerfi le présente comme SARL avec Paul Poncelet gérant, le registre le donne Président : même personne, titre à confirmer. Aucun numéro ni site trouvé en 3 recherches."
+ },
+ {
+  "siren": "691880454",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Marc-Olivier FRANCO",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-franco-et-fils-691880454"
+  },
+  "dirigeant_principal": {
+   "nom": "Marc-Olivier FRANCO",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-franco-et-fils-691880454"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Pierre FRANCO",
+    "fonction": "Directeur général (également président de Franco et Fils Distribution, même adresse)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/etablissements-franco-et-fils-691880454"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun numéro ni site trouvé en 3 recherches. Seule trace : fiche avis gowork.fr 'Franco et Fils', avenue de Paris, 58320 Pougues-les-Eaux (https://gowork.fr/franco-et-fils-pougues-les-eaux), où un internaute évoque des champs opératoires / compresses stériles (activité non confirmée). Société sœur Franco et Fils Distribution (SIREN 309916021) à la même adresse. Dirigeants d'après le registre uniquement."
+ },
+ {
+  "siren": "444489033",
+  "standard": {
+   "tel": "03 86 57 91 26",
+   "source": "https://www.bible-marques.fr/magasins/58240-saint-pierre-le-moutier/biocoop",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Angélique CHERMAIN",
+   "fonction": "Présidente",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/distri-bio-444489033"
+  },
+  "dirigeant_principal": {
+   "nom": "Angélique CHERMAIN",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/distri-bio-444489033"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Maxime Théo CHERMAIN",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/distri-bio-444489033"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Enseigne probable : Biocoop Nevers, 47 boulevard du Grand Pré des Bordes (même adresse que le siège) — correspondance par l'adresse, le lien Distri Bio / Biocoop n'est affiché explicitement dans aucun résultat. Numéro vu sur l'annuaire Bible-Marques (fiche 'Biocoop Nevers' listée parmi les magasins proches sur les pages d'autres Biocoop) ; adresse confirmée par justacote.com (https://www.justacote.com/sermoise-sur-loire-58000/alimentation-bio/). Page magasin biocoop.fr non trouvée. Dirigeants d'après le registre uniquement."
+ },
+ {
+  "siren": "421129891",
+  "standard": {
+   "tel": "03 86 28 16 52",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": "https://www.lacdirect.com",
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de l'entreprise sont retenues. Standard 03 86 28 16 52, e-mail contact@lacdirect.com et site lacdirect.com repris des données déjà connues ; 3 recherches n'ont fait remonter aucune page (ni le site, ni un annuaire) les confirmant, d'où email_generique laissé à null faute de source vérifiée. Aucun nom de dirigeant ou de responsable financier vu sur le site de l'entreprise dans les résultats : non repris (cf. interlocuteur déjà connu)."
+ },
+ {
+  "siren": "519373401",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Présidente : la société GAIA TR (holding) ; la personne physique qui la dirige n'a pas été trouvée en 3 recherches (à lire sur la fiche Pappers de GAIA TR). Société immatriculée au RCS de Nevers en 2010, capital 10 000 €, maçonnerie générale et gros œuvre (https://www.pappers.fr/entreprise/519373401). Les annuaires Obat (https://travaux.obat.fr/travaux-gros-oeuvre/nievre) la listent à Fourchambault (58600) comme maçon / couvreur / carreleur, sans coordonnées — adresse différente du siège de Varennes-Vauzelles (ancienne adresse ou établissement). Aucun numéro ni site trouvé."
+ },
+ {
+  "siren": "489664300",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Barbara PESCAGLINI",
+   "fonction": "Présidente",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
+  },
+  "dirigeant_principal": {
+   "nom": "Barbara PESCAGLINI",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Marc PESCAGLINI",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Entreprise de plâtrerie / plaquisterie (NAF 43.31Z) créée en 2005, ZA Les Belles Barbes à Marzy, qualifiée QUALIBAT-RGE ; CA ~2,7 M€ (Xerfi, https://www.xerfi.com/etudes-par-entreprise/marc-pescaglini_489664300). Listée sur Obat comme 'SARL MARC PESCAGLINI' (https://travaux.obat.fr/platrier-plaquiste/nievre) sans coordonnées ; Xerfi la donne en SAS. Aucun numéro ni site trouvé en 3 recherches. Pas de responsable financier identifié (20-49 salariés) ; dirigeants d'après le registre."
+ },
+ {
+  "siren": "512311390",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Mario SALERNO",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/salerno-construction-512311390"
+  },
+  "dirigeant_principal": {
+   "nom": "Mario SALERNO",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/salerno-construction-512311390"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro ni site trouvé en 3 recherches. Un annuaire (https://www.annuaire-mairie.fr/professionnels-du-batiment-sermoise-sur-loire.html) liste 'Salerno', ZI des Trappes, 58000 Sermoise-sur-Loire, rubrique maçonnerie, sans coordonnées visibles. Effectif déclaré 0 salarié (2026) pour 2,63 M€ de CA : activité probablement sous-traitée ou structure de type holding/promotion — à vérifier. Gérant d'après le registre uniquement."
+ },
+ {
+  "siren": "484649561",
+  "standard": {
+   "tel": "03 86 58 48 18",
+   "source": "https://eau.selectra.info/delegataire/8651",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Zoran MILOSEVIC",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/484649561"
+  },
+  "dirigeant_principal": {
+   "nom": "Zoran MILOSEVIC",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/484649561"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SAS créée en 2005 : maintenance et construction de stations de pompage, traitement des eaux, chaudronnerie (Pappers). Numéro vu uniquement sur la fiche Selectra 'Hydr Elec' (délégataire du service d'eau potable de Raveau et Myennes, adresse rue de la Badelle à Saint-Benin-d'Azy) — source agrégateur, non confirmé ailleurs ; pas de site ni d'e-mail connus d'après Selectra. Une fiche 118712 (https://www.118712.fr/fiches/WUFSXlZQHwc) apparaît aussi dans les résultats, numéro masqué. Président d'après le registre."
+ },
+ {
+  "siren": "804785566",
+  "standard": {
+   "tel": "03 86 30 55 03",
+   "source": "https://www.bible-marques.fr/magasins/58300-decize/mcdonalds",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Enseigne : McDonald's Decize, 83 avenue du 14 Juillet (même adresse que le siège ; restaurant franchisé). Numéro et horaires vus sur l'annuaire Bible-Marques ; adresse confirmée par Cybo (https://www.cybo.com/FR/decize/pizza). Présidente : la société STAG (holding du franchisé) ; la personne physique qui la dirige n'a été trouvée dans aucun résultat (à lire sur la fiche Pappers de STAG). La décision financière se prend probablement au niveau de la holding, qui peut exploiter d'autres McDonald's de la Nièvre."
+ },
+ {
+  "siren": "309916021",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Pierre FRANCO",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/franco-et-fils-distribution-309916021"
+  },
+  "dirigeant_principal": {
+   "nom": "Pierre FRANCO",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/franco-et-fils-distribution-309916021"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro, site ni trace publique trouvés en 3 recherches (nom, dirigeant, SIREN). Société sœur des Établissements Franco et Fils (SIREN 691880454), même adresse 760 avenue de Paris à Pougues-les-Eaux, où Pierre FRANCO est directeur général : un même appel peut couvrir les deux sociétés. Président d'après le registre uniquement."
+ },
+ {
+  "siren": "504703588",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jérôme LEDHUY",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rhevea-504703588"
+  },
+  "dirigeant_principal": {
+   "nom": "Jérôme LEDHUY",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rhevea-504703588"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune enseigne, numéro ni site trouvés en 3 recherches. Les garages de Cercy-la-Tour visibles dans les résultats sont d'autres sociétés (AMP Automobile, 1 rue de la Guette ; EURL Garage de Cercy La Tour, agent Citroën, 44 avenue Louis Coudant) : l'enseigne exploitée au 37 rue de la Guette reste à identifier. Président d'après le registre uniquement."
+ }
+]

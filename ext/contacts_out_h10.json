@@ -1,0 +1,533 @@
+[
+ {
+  "siren": "414871772",
+  "standard": {
+   "tel": "03 86 21 92 88",
+   "source": "https://www.cylex-locale.fr/varennes-vauzelles/meubles.html",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Rozenn GAUTRAIS",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/varv-414871772"
+  },
+  "dirigeant_principal": {
+   "nom": "Rozenn GAUTRAIS",
+   "fonction": "Gérante (cogérance avec les sociétés TOP BOOSTER, IMPULSE & CO et TRAINER & CO)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/varv-414871772"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Enseigne du magasin non identifiée. Le numéro vient d'une fiche Cylex sans nom d'enseigne pour le 33 bd Camille Dagonneau (catégories déstockage, meubles, livres, électroménager, prêt-à-porter, bricolage) : source faible, à confirmer à l'appel. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "883750721",
+  "standard": {
+   "tel": "03 86 25 19 48",
+   "source": "https://www.santeenfrance.fr/etablissement/47942-pharmacie-rignaud",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://pharmacie-des-vignes-saint-leger-des-vignes.giropharm.fr",
+  "decideur_financier": {
+   "nom": "Hélène DAVEAU",
+   "fonction": "Cogérante (pharmacienne titulaire, cogérance avec Sophie GAUTHIER)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
+  },
+  "dirigeant_principal": {
+   "nom": "Hélène DAVEAU",
+   "fonction": "Cogérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Sophie GAUTHIER (MUNSCH)",
+    "fonction": "Cogérante",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Le numéro est listé sous l'ancien nom « Pharmacie Rignaud » à la même adresse (58 route Nationale), seule pharmacie de la commune : très probablement la même ligne, à confirmer. Site Giropharm de la pharmacie (pas de numéro visible dans l'extrait). Gérantes d'après le registre uniquement ; « titulaire » est une déduction de leur statut de gérantes."
+ },
+ {
+  "siren": "952050292",
+  "standard": {
+   "tel": "03 73 58 01 15",
+   "source": "https://www.cylex-locale.fr/cosne-cours-sur-loire/restaurant/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.burgerking.fr",
+  "decideur_financier": {
+   "nom": "DPLF (personne morale)",
+   "fonction": "Présidente de BKCSL (holding ; personne physique qui la représente non identifiée)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/bkcsl-952050292"
+  },
+  "dirigeant_principal": {
+   "nom": "DPLF (personne morale)",
+   "fonction": "Présidente (holding ; personne physique qui la représente non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/bkcsl-952050292"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Restaurant Burger King franchisé (132 av. du 85e de Ligne). Numéro vu seulement sur Cylex : source faible. Aucune source publique trouvée sur la holding DPLF ni sur la personne qui la dirige ; à demander à l'accueil. site_web = site de l'enseigne."
+ },
+ {
+  "siren": "538141094",
+  "standard": {
+   "tel": "03 86 21 27 18",
+   "source": "https://www.cbinsights.com/company/texys-group",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "TECHUSFAR (personne morale)",
+   "fonction": "Présidente de TEXYS HD (personne physique qui la représente non identifiée)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/texys-hd-538141094"
+  },
+  "dirigeant_principal": {
+   "nom": "TECHUSFAR (personne morale)",
+   "fonction": "Présidente (personne physique qui la représente non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/texys-hd-538141094"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Thomas BATAS-BJELIC",
+    "fonction": "Responsable commercial et marketing de Texys",
+    "tel": null,
+    "email": null,
+    "source": "https://www.usinenouvelle.com/publi-redactionnel/publiscopie/publiscopie-fogale-texys-et-thermo-est-la-dream-team-francaise-de-la-mesure-de-precision.YZRIUD2K7ZERHIWN6ZMPWJD6VY"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "TEXYS HD est une société du groupe Texys (capteurs, 16 rue Edouard Branly, ZA des Chamonds), cédé en 2024 par Isatis Capital et son président-fondateur Philippe Leuwers à Fogale Sensors (lemondedudroit.fr, cfnews.net). Le standard est celui du groupe Texys vu sur un agrégateur (CB Insights) : à confirmer. La holding TECHUSFAR n'apparaît dans aucune source publique ; le dirigeant actuel est à demander à l'accueil. Un groupe de cette taille peut avoir un responsable financier au niveau Texys/Fogale, non trouvé."
+ },
+ {
+  "siren": "792018814",
+  "standard": {
+   "tel": "03 86 21 21 30",
+   "source": "https://coparking.ch/en/France/parkings/4463",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.carrefour.fr",
+  "decideur_financier": {
+   "nom": "Lionel DECOSSE",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/mlkmc-792018814"
+  },
+  "dirigeant_principal": {
+   "nom": "Lionel DECOSSE",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/mlkmc-792018814"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Carrefour City franchisé, 10 av. du Général de Gaulle. Le 03 86 21 21 30 apparaît dans deux annuaires (Bible-Marques et coparking.ch) ; Bonial donne un autre numéro (03 86 90 00 77) pour un Carrefour City « 12 rue du Général de Gaulle » : à vérifier. Lionel DECOSSE est aussi gérant de DLS DISTRIBUTION (Carrefour Contact Fourchambault). site_web = site de l'enseigne. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "309230084",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Roman CHARLES",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
+  },
+  "dirigeant_principal": {
+   "nom": "Roman CHARLES",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
+  },
+  "adresse": {
+   "adresse": "Rue du 19 Mars 1962, 58230 Dun-les-Places",
+   "source": "https://fr.mappy.com/poi/50acdc3884aec628abe6e4bd"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Autocariste (cars de 9 à 61 places, transport scolaire, excursions). Aucun numéro visible dans les extraits de recherche ; fiches existantes sur Mappy, PagesJaunes (pagesjaunes.fr/pros/00756779) et Mariages.net (mariages.net/bus-mariage/les-cars-charles--e38409) à consulter. Adresse d'après Mappy (pas de numéro de rue). Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "422413567",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Samuel GAUTHIER",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sport-comm-422413567"
+  },
+  "dirigeant_principal": {
+   "nom": "Samuel GAUTHIER",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sport-comm-422413567"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace publique de SPORT COMM (41 bd du Pré Plantin, Nevers) dans les résultats de recherche (3 requêtes : nom + adresse, nom + gérant, nom + activité) ; activité exacte et numéro inconnus. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "790066799",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Christophe MONTAGNON",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tc-services-790066799"
+  },
+  "dirigeant_principal": {
+   "nom": "Christophe MONTAGNON",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tc-services-790066799"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune fiche « TC SERVICES » trouvée à Cercy-la-Tour (45 rue de la Guette) ; les annuaires de la commune listent d'autres garages (AMP Automobile au 1 rue de la Guette, Garage de Cercy La Tour, Garage des 3 R) sans lien établi avec TC SERVICES. Numéro inconnu. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "530717867",
+  "standard": {
+   "tel": "03 86 71 65 30",
+   "source": "https://www.koifaire.com/bourgogne/cafa,agricole-6835.html",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://brasserie-lagricole.fr",
+  "decideur_financier": {
+   "nom": "Jean-Pierre THIBAULT",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.fooderise.com/en/societes/530717867"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Pierre THIBAULT",
+   "fonction": "Directeur général (la présidence est tenue par la société FT PRESTATIONS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.fooderise.com/en/societes/530717867"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Flavien THIBAULT",
+    "fonction": "Contact employeur cité dans une offre d'emploi de la brasserie (rôle exact non précisé)",
+    "tel": null,
+    "email": null,
+    "source": "https://candidat.francetravail.fr/offres/recherche/detail/188ZJWD"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Brasserie L'Agricole, 10 place Carnot. Numéro dans deux annuaires (koifaire « Café Agricole » et enprimeurclub.com). Présidente = holding FT PRESTATIONS : la personne physique qui la représente n'est pas confirmée (les initiales évoquent Flavien Thibault, simple hypothèse non vérifiée). Site brasserie-lagricole.fr cité dans un résultat mais non vérifié directement."
+ },
+ {
+  "siren": "445382310",
+  "standard": {
+   "tel": "03 86 26 64 56",
+   "source": "https://www.pharmao.fr/pharmacies/bourgogne-franche-comte/nievre/corbigny/pharmacie-du-pays-corbigeois",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Marie-Anne BONGARD",
+   "fonction": "Présidente",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
+  },
+  "dirigeant_principal": {
+   "nom": "Marie-Anne BONGARD",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Eugénie MARTIN",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Officine issue du regroupement en 2023 de la Pharmacie Saint-Louis et de la Pharmacie de l'Anguison (arrêté ARS BFC 2023-1103, recueil des actes de la préfecture de la Nièvre) au 26 av. du Champ de Foire. Numéro vu uniquement sur Pharmao. Dirigeantes d'après le registre uniquement."
+ },
+ {
+  "siren": "491904207",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.gentlemen-demenagement.com/en/movers/demenageur-nievre-58-varennes-vauzelles/",
+  "decideur_financier": {
+   "nom": "Loïc ANDRÉ",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/assistance-demenagement-491904207"
+  },
+  "dirigeant_principal": {
+   "nom": "Loïc ANDRÉ",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/assistance-demenagement-491904207"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Déménageur membre du réseau Les Gentlemen du Déménagement (agences « André » à Varennes-Vauzelles, Cosne-Cours-sur-Loire, Bourges ; Xerfi signale aussi Châteauroux). Aucun numéro local visible dans les extraits ; le seul numéro trouvé est la ligne nationale du réseau (0 806 110 205, gentlemen-demenagement.com/en/quote-contact/contact/), qui n'est pas le standard de la société. site_web = page de l'agence sur le site du réseau. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "799045968",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Caroline TERRIER",
+   "fonction": "Direction de SAS Elisée selon l'annuaire Cosmebio (présidente en titre au registre : la société L OLIVERAIE)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.cosmebio.org/en/professional-information/cosmebio-members-directory/sas-elisee-2284/"
+  },
+  "dirigeant_principal": {
+   "nom": "Caroline TERRIER",
+   "fonction": "Direction de SAS Elisée selon l'annuaire Cosmebio (présidente en titre au registre : la société L OLIVERAIE ; son lien avec cette holding n'est pas confirmé)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.cosmebio.org/en/professional-information/cosmebio-members-directory/sas-elisee-2284/"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SAS Elisée (33 rue des Grands Prés, Nevers) est membre de Cosmebio : cosmétiques bio vendus sous marque propre (nom de la marque non trouvé). La holding L OLIVERAIE préside aussi FRENCH BOOK DISTRIBUTION (Nevers) depuis 2021 (origami-entreprises.fr). Aucun numéro ni site trouvé dans les extraits ; la fiche Cosmebio contient peut-être des coordonnées."
+ },
+ {
+  "siren": "538548199",
+  "standard": {
+   "tel": "03 86 78 22 25",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/3185-evrard-fils/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "http://www.evrard-chauffage.com",
+  "decideur_financier": {
+   "nom": "Benoît EVRARD",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/evrard-fils-538548199"
+  },
+  "dirigeant_principal": {
+   "nom": "Benoît EVRARD",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/evrard-fils-538548199"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Chauffagiste (installation de chaudières gaz/fioul, climatisation, carrelage), qualifié QUALIBAT-RGE, 1 ter rue Diderot. Numéro et site d'après un annuaire qui précise ne pas vérifier ses données ; le site evrard-chauffage.com propose un formulaire de contact (aucune adresse e-mail publiée vue). Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "379781610",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "ROSAWOOD (personne morale)",
+   "fonction": "Présidente de DENIS ET FILS (holding ; personne physique qui la représente non identifiée)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/denis-et-fils-379781610"
+  },
+  "dirigeant_principal": {
+   "nom": "ROSAWOOD (personne morale)",
+   "fonction": "Présidente (holding ; personne physique qui la représente non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/denis-et-fils-379781610"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Menuiserie / charpente (annuaires Obat : travaux.obat.fr/menuisier/nievre, et Villepratique : « Denis et Fils (sarl) - menuisier », zone industrielle de Villemenant). Aucun numéro trouvé (attention : le 03 86 90 90 13 vu dans la même zone est celui d'une autre entreprise, LAGOUTTE & FILS). L'adresse d'entrée (ZI de Villemenant) n'a pas de rue et aucune adresse plus précise n'a été trouvée. Personne physique derrière ROSAWOOD non identifiée."
+ },
+ {
+  "siren": "538153586",
+  "standard": {
+   "tel": "03 86 84 33 66",
+   "source": "https://www.ventsdumorvan.org/pdfs/pdfs/vdm-0104.pdf",
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Arnaud SABATIER",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/terrines-du-morvan-538153586"
+  },
+  "dirigeant_principal": {
+   "nom": "Arnaud SABATIER",
+   "fonction": "Gérant (également repreneur en 2004 de la salaison Fernand Dussert à Arleuf)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/terrines-du-morvan-538153586"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Conserverie (terrines, plats cuisinés) avec magasin d'usine, route du Mont Beuvray à Onlay (Gault&Millau, Burgundy Tourism). Le numéro vient d'un ancien numéro du magazine Vents du Morvan : possiblement périmé, à vérifier. Lien Sabatier / Fernand Dussert : burgundy-tourism.com/regional-products/fernand-dussert et agriculture.gouv.fr (« Le jambon sec du Morvan d'Arnaud Sabatier »). Dirigeant de Terrines du Morvan d'après le registre."
+ },
+ {
+  "siren": "979433992",
+  "standard": {
+   "tel": "03 86 58 18 27",
+   "source": "https://www.bible-marques.fr/magasins/18150-la-guerche-sur-l-aubois/carrefour",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.carrefour.fr",
+  "decideur_financier": {
+   "nom": "Lionel DECOSSE",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/dls-distribution-979433992"
+  },
+  "dirigeant_principal": {
+   "nom": "Lionel DECOSSE",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/dls-distribution-979433992"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Carrefour Contact franchisé, 12 rue Gambetta. Le 03 86 58 18 27 apparaît sur une page Bible-Marques (liste des Carrefour proches) ; Bonial donne un autre numéro, 09 50 42 04 85, pour un « Carrefour Proximité » à la même adresse : à vérifier. Même gérant que M.L.K.M.C. (Carrefour City Nevers). site_web = site de l'enseigne. Dirigeant d'après le registre uniquement."
+ }
+]

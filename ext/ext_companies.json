@@ -3667,7 +3667,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Cédric TISSIER",
+"fonction": "Gérant (cogérance avec Ghislaine TISSIER)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.xerfi.com/etudes-par-entreprise/ambulances-tissier_498917202"
+},
+"contact_dirigeant": {
+"nom": "Cédric TISSIER",
+"fonction": "Gérant (cogérant avec Ghislaine TISSIER, gérante)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.xerfi.com/etudes-par-entreprise/ambulances-tissier_498917202"
+},
+"autres_contacts": [
+{
+"nom": "Ghislaine TISSIER",
+"fonction": "Gérante (cogérante)",
+"tel": null,
+"email": null,
+"source": "https://www.xerfi.com/etudes-par-entreprise/ambulances-tissier_498917202"
+}
+]
 },
 {
 "rang": 158,
@@ -3722,7 +3749,26 @@
 },
 "angle_partenariat": "Magasin de bricolage de 10-19 salariés à La Charité-sur-Loire (29 km de Cosne), sous nouvelle présidence depuis septembre 2026 : repas d'équipe, pots et repas de fin d'année, et visibilité croisée auprès de la clientèle d'artisans du secteur.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Isabelle JOBY",
+"fonction": "Présidente (depuis septembre 2026)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/clemenciel-442496816"
+},
+"contact_dirigeant": {
+"nom": "Isabelle JOBY",
+"fonction": "Présidente (depuis septembre 2026)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/clemenciel-442496816"
+}
 },
 {
 "rang": 159,
@@ -3763,7 +3809,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 61 13 66",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Stéphane JOLY",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-colbert-321816571"
+},
+"contact_dirigeant": {
+"nom": "Stéphane JOLY",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-colbert-321816571"
+}
 },
 {
 "rang": 160,
@@ -3808,7 +3874,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Monique ANSSEMS",
+"fonction": "Gérante (cogérance avec Thijs VAN EIJNDHOVEN)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
+},
+"contact_dirigeant": {
+"nom": "Monique ANSSEMS",
+"fonction": "Gérante (cogérante avec Thijs VAN EIJNDHOVEN)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
+},
+"autres_contacts": [
+{
+"nom": "Thijs VAN EIJNDHOVEN",
+"fonction": "Gérant (cogérant)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
+}
+]
 },
 {
 "rang": 161,
@@ -3849,7 +3942,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Yannick ANDRIEUX",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/v-2-restauration-528031750"
+},
+"contact_dirigeant": {
+"nom": "Yannick ANDRIEUX",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/v-2-restauration-528031750"
+}
 },
 {
 "rang": 162,
@@ -3890,7 +4001,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Paul PONCELET",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/la-bussiere-393762919"
+},
+"contact_dirigeant": {
+"nom": "Paul PONCELET",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/la-bussiere-393762919"
+}
 },
 {
 "rang": 163,
@@ -3935,7 +4064,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Marc-Olivier FRANCO",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/etablissements-franco-et-fils-691880454"
+},
+"contact_dirigeant": {
+"nom": "Marc-Olivier FRANCO",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/etablissements-franco-et-fils-691880454"
+},
+"autres_contacts": [
+{
+"nom": "Pierre FRANCO",
+"fonction": "Directeur général (également président de Franco et Fils Distribution, même adresse)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/etablissements-franco-et-fils-691880454"
+}
+]
 },
 {
 "rang": 164,
@@ -3980,7 +4136,36 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 57 91 26",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Angélique CHERMAIN",
+"fonction": "Présidente",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/distri-bio-444489033"
+},
+"contact_dirigeant": {
+"nom": "Angélique CHERMAIN",
+"fonction": "Présidente",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/distri-bio-444489033"
+},
+"autres_contacts": [
+{
+"nom": "Maxime Théo CHERMAIN",
+"fonction": "Directeur général",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/distri-bio-444489033"
+}
+]
 },
 {
 "rang": 165,
@@ -4134,7 +4319,9 @@
 "angle_partenariat": "PME industrielle installée à Cosne (10-19 salariés, rue des Forgerons) et travaillant pour des marques nationales : déjeuners d'affaires avec clients ou fournisseurs de passage, repas d'équipe et de fin d'année ; partenariat local possible (fabrication de signalétique ou de PLV, visibilité croisée).",
 "site_local": "4 rue des Forgerons, Champ du Tremblat, P.A. du Val de Loire, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": true,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"telephone_a_confirmer": true
 },
 {
 "rang": 167,
@@ -4216,7 +4403,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 169,
@@ -4261,7 +4449,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Barbara PESCAGLINI",
+"fonction": "Présidente",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
+},
+"contact_dirigeant": {
+"nom": "Barbara PESCAGLINI",
+"fonction": "Présidente",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
+},
+"autres_contacts": [
+{
+"nom": "Marc PESCAGLINI",
+"fonction": "Directeur général",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
+}
+]
 },
 {
 "rang": 170,
@@ -4302,7 +4517,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Mario SALERNO",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/salerno-construction-512311390"
+},
+"contact_dirigeant": {
+"nom": "Mario SALERNO",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/salerno-construction-512311390"
+}
 },
 {
 "rang": 171,
@@ -4421,7 +4654,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 58 48 18",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Zoran MILOSEVIC",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/484649561"
+},
+"contact_dirigeant": {
+"nom": "Zoran MILOSEVIC",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/484649561"
+}
 },
 {
 "rang": 173,
@@ -4462,7 +4715,10 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 30 55 03",
+"telephone_a_confirmer": true
 },
 {
 "rang": 174,
@@ -4503,7 +4759,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Pierre FRANCO",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/franco-et-fils-distribution-309916021"
+},
+"contact_dirigeant": {
+"nom": "Pierre FRANCO",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/franco-et-fils-distribution-309916021"
+}
 },
 {
 "rang": 175,
@@ -4618,7 +4892,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jérôme LEDHUY",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/rhevea-504703588"
+},
+"contact_dirigeant": {
+"nom": "Jérôme LEDHUY",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/rhevea-504703588"
+}
 },
 {
 "rang": 177,
@@ -4742,7 +5034,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 21 92 88",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Rozenn GAUTRAIS",
+"fonction": "Gérante",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/varv-414871772"
+},
+"contact_dirigeant": {
+"nom": "Rozenn GAUTRAIS",
+"fonction": "Gérante (cogérance avec les sociétés TOP BOOSTER, IMPULSE & CO et TRAINER & CO)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/varv-414871772"
+}
 },
 {
 "rang": 179,
@@ -4828,7 +5140,37 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"contacts_ok": true,
+"telephone": "03 86 25 19 48",
+"telephone_a_confirmer": true,
+"site_web": "https://pharmacie-des-vignes-saint-leger-des-vignes.giropharm.fr",
+"contact_finance": {
+"nom": "Hélène DAVEAU",
+"fonction": "Cogérante (pharmacienne titulaire, cogérance avec Sophie GAUTHIER)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
+},
+"contact_dirigeant": {
+"nom": "Hélène DAVEAU",
+"fonction": "Cogérante",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
+},
+"autres_contacts": [
+{
+"nom": "Sophie GAUTHIER (MUNSCH)",
+"fonction": "Cogérante",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
+}
+]
 },
 {
 "rang": 181,
@@ -4869,7 +5211,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)",
+"contacts_ok": true,
+"telephone": "03 73 58 01 15",
+"telephone_a_confirmer": true,
+"site_web": "https://www.burgerking.fr",
+"contact_finance": {
+"nom": "DPLF (personne morale)",
+"fonction": "Présidente de BKCSL (holding ; personne physique qui la représente non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/bkcsl-952050292"
+},
+"contact_dirigeant": {
+"nom": "DPLF (personne morale)",
+"fonction": "Présidente (holding ; personne physique qui la représente non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/bkcsl-952050292"
+}
 },
 {
 "rang": 182,
@@ -4910,7 +5273,36 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)",
+"contacts_ok": true,
+"telephone": "03 86 21 27 18",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "TECHUSFAR (personne morale)",
+"fonction": "Présidente de TEXYS HD (personne physique qui la représente non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/texys-hd-538141094"
+},
+"contact_dirigeant": {
+"nom": "TECHUSFAR (personne morale)",
+"fonction": "Présidente (personne physique qui la représente non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/texys-hd-538141094"
+},
+"autres_contacts": [
+{
+"nom": "Thomas BATAS-BJELIC",
+"fonction": "Responsable commercial et marketing de Texys",
+"tel": null,
+"email": null,
+"source": "https://www.usinenouvelle.com/publi-redactionnel/publiscopie/publiscopie-fogale-texys-et-thermo-est-la-dream-team-francaise-de-la-mesure-de-precision.YZRIUD2K7ZERHIWN6ZMPWJD6VY"
+}
+]
 },
 {
 "rang": 183,
@@ -4992,7 +5384,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 21 21 30",
+"telephone_a_confirmer": true,
+"site_web": "https://www.carrefour.fr",
+"contact_finance": {
+"nom": "Lionel DECOSSE",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/mlkmc-792018814"
+},
+"contact_dirigeant": {
+"nom": "Lionel DECOSSE",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/mlkmc-792018814"
+}
 },
 {
 "rang": 185,
@@ -5033,7 +5446,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Roman CHARLES",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
+},
+"contact_dirigeant": {
+"nom": "Roman CHARLES",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
+}
 },
 {
 "rang": 186,
@@ -5074,7 +5505,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Samuel GAUTHIER",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sport-comm-422413567"
+},
+"contact_dirigeant": {
+"nom": "Samuel GAUTHIER",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sport-comm-422413567"
+}
 },
 {
 "rang": 187,
@@ -5115,7 +5564,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Christophe MONTAGNON",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/tc-services-790066799"
+},
+"contact_dirigeant": {
+"nom": "Christophe MONTAGNON",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/tc-services-790066799"
+}
 },
 {
 "rang": 188,
@@ -5160,7 +5627,37 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 71 65 30",
+"telephone_a_confirmer": true,
+"site_web": "https://brasserie-lagricole.fr",
+"contact_finance": {
+"nom": "Jean-Pierre THIBAULT",
+"fonction": "Directeur général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.fooderise.com/en/societes/530717867"
+},
+"contact_dirigeant": {
+"nom": "Jean-Pierre THIBAULT",
+"fonction": "Directeur général (la présidence est tenue par la société FT PRESTATIONS)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.fooderise.com/en/societes/530717867"
+},
+"autres_contacts": [
+{
+"nom": "Flavien THIBAULT",
+"fonction": "Contact employeur cité dans une offre d'emploi de la brasserie (rôle exact non précisé)",
+"tel": null,
+"email": null,
+"source": "https://candidat.francetravail.fr/offres/recherche/detail/188ZJWD"
+}
+]
 },
 {
 "rang": 189,
@@ -5246,7 +5743,36 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 26 64 56",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Marie-Anne BONGARD",
+"fonction": "Présidente",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
+},
+"contact_dirigeant": {
+"nom": "Marie-Anne BONGARD",
+"fonction": "Présidente",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
+},
+"autres_contacts": [
+{
+"nom": "Eugénie MARTIN",
+"fonction": "Directrice générale",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
+}
+]
 },
 {
 "rang": 191,
@@ -5287,7 +5813,26 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"site_web": "https://www.gentlemen-demenagement.com/en/movers/demenageur-nievre-58-varennes-vauzelles/",
+"contact_finance": {
+"nom": "Loïc ANDRÉ",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/assistance-demenagement-491904207"
+},
+"contact_dirigeant": {
+"nom": "Loïc ANDRÉ",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/assistance-demenagement-491904207"
+}
 },
 {
 "rang": 192,
@@ -5328,7 +5873,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Caroline TERRIER",
+"fonction": "Direction de SAS Elisée selon l'annuaire Cosmebio (présidente en titre au registre : la société L OLIVERAIE)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.cosmebio.org/en/professional-information/cosmebio-members-directory/sas-elisee-2284/"
+},
+"contact_dirigeant": {
+"nom": "Caroline TERRIER",
+"fonction": "Direction de SAS Elisée selon l'annuaire Cosmebio (présidente en titre au registre : la société L OLIVERAIE ; son lien avec cette holding n'est pas confirmé)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.cosmebio.org/en/professional-information/cosmebio-members-directory/sas-elisee-2284/"
+}
 },
 {
 "rang": 193,
@@ -5369,7 +5932,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 78 22 25",
+"telephone_a_confirmer": true,
+"site_web": "http://www.evrard-chauffage.com",
+"contact_finance": {
+"nom": "Benoît EVRARD",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/evrard-fils-538548199"
+},
+"contact_dirigeant": {
+"nom": "Benoît EVRARD",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/evrard-fils-538548199"
+}
 },
 {
 "rang": 194,
@@ -5492,7 +6076,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "ROSAWOOD (personne morale)",
+"fonction": "Présidente de DENIS ET FILS (holding ; personne physique qui la représente non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/denis-et-fils-379781610"
+},
+"contact_dirigeant": {
+"nom": "ROSAWOOD (personne morale)",
+"fonction": "Présidente (holding ; personne physique qui la représente non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/denis-et-fils-379781610"
+}
 },
 {
 "rang": 197,
@@ -5533,7 +6135,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 84 33 66",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Arnaud SABATIER",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/terrines-du-morvan-538153586"
+},
+"contact_dirigeant": {
+"nom": "Arnaud SABATIER",
+"fonction": "Gérant (également repreneur en 2004 de la salaison Fernand Dussert à Arleuf)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/terrines-du-morvan-538153586"
+}
 },
 {
 "rang": 198,
@@ -5574,7 +6196,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 58 18 27",
+"telephone_a_confirmer": true,
+"site_web": "https://www.carrefour.fr",
+"contact_finance": {
+"nom": "Lionel DECOSSE",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/dls-distribution-979433992"
+},
+"contact_dirigeant": {
+"nom": "Lionel DECOSSE",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/dls-distribution-979433992"
+}
 },
 {
 "rang": 199,
