@@ -443,5 +443,44 @@
   ],
   "format_email_observe": null,
   "note": "Isolation (RGE Qualibat). Le numéro provient d'un annuaire tiers (fiche 'ANQUETIL SARL', 62 route de Nevers, Marzy, SIRET 50811954200019 = même SIREN) qui précise que ses données ne sont pas contrôlées : à vérifier. Aucun site ni email trouvé. Dirigeants d'après le registre (deja)."
+ },
+ {
+  "siren": "420533093",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Benoît LECROT",
+   "fonction": "Co-gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/eleas-assurances-420533093"
+  },
+  "dirigeant_principal": {
+   "nom": "Benoît LECROT",
+   "fonction": "Co-gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/eleas-assurances-420533093"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Patrick MERCIER",
+    "fonction": "Co-gérant",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/eleas-assurances-420533093"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Enseigne 'Cabinet Mercier Lecrot'. Un agrégateur d'avis (https://fr.custplace.com/varennes-vauzelles-781) mentionne une agence MMA rue Paul Éluard à Varennes-Vauzelles, même rue que le siège (1 B rue Paul Éluard) : il s'agit probablement de l'agence MMA des agents Mercier et Lecrot, mais ce lien n'est confirmé par aucune source et aucun numéro n'a été trouvé (3 recherches). Deux co-gérants d'après le registre (deja)."
  }
 ]
