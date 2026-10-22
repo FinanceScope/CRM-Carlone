@@ -707,8 +707,8 @@ for c in base + ext:
 print('vérifications :', len(VERIF), dict(n_vf))
 
 # relecture du 22/10/2026 : coordonnées sans source publiée, profils LinkedIn personnels, libellés
-RETIRER = {'823687033': ('email',),       # adresse hotmail nominative, introuvable sur une page publique
-           '331967943': ('telephone',)}   # mobile présenté comme standard, sans source
+RETIRER = {'823687033': ('email',)}       # adresse hotmail nominative, introuvable sur une page publique
+# le mobile d'Aizen (331967943), d'abord retiré faute de source, figure dans la présentation 2024 de l'entreprise (lot h23)
 AUDITEURS = re.compile(r'(KPMG|DELOITTE|MAZARS|ERNST|PRICEWATERHOUSE|GRANT THORNTON|BDO)\b', re.I)
 for c in base + ext:
     for k in RETIRER.get(sid(c.get('siren')), ()): c[k] = None

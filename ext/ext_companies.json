@@ -317,7 +317,17 @@
 "linkedin": "https://www.linkedin.com/company/armatis",
 "angle_partenariat": "Grand employeur de Nevers (211 salariés en 2025, CSE en place) à 57 km de Cosne : avantages pour les salariés via le CSE, repas de fin d'année, séminaires et journées d'équipe pour les plateaux de conseillers.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"autres_contacts": [
+{
+"nom": "Franck Berthier",
+"fonction": "Directeur général délégué du groupe Armatis",
+"tel": null,
+"email": null,
+"source": "https://www.planetegrandesecoles.com/?p=100692"
+}
+]
 },
 {
 "rang": 106,
@@ -2574,7 +2584,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Alexandre ANIER",
+"fonction": "Directeur Général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sica-medicavet-950003723"
+},
+"contact_dirigeant": {
+"nom": "Alexandre ANIER",
+"fonction": "Directeur Général",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sica-medicavet-950003723"
+},
+"autres_contacts": [
+{
+"nom": "Françoise SAULGEOT (LESENFANT)",
+"fonction": "Présidente du conseil d'administration",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/sica-medicavet-950003723"
+}
+]
 },
 {
 "rang": 141,
@@ -3270,7 +3307,41 @@
 "angle_partenariat": "Site industriel implanté à Cosne (ZI du Tremblat, 2 km, 10-19 salariés) et rattaché au groupe Novarc : déjeuners d'affaires avec clients, fournisseurs et cadres du groupe en visite, repas d'équipe et repas de fin d'année.",
 "site_local": "ZI du Tremblat, rue de Villechaud, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Cédric BRA",
+"fonction": "Directeur général délégué",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222"
+},
+"contact_dirigeant": {
+"nom": "Cédric BRA",
+"fonction": "Directeur général délégué (présidence assurée par la personne morale NOVARC, direction générale par la personne morale M&I PRO)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222"
+},
+"autres_contacts": [
+{
+"nom": "Vincent PHEBY",
+"fonction": "Directeur général délégué (directeur du développement de la BU Motion & Industry de Novarc selon les données internes)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222"
+},
+{
+"nom": "David ROLLÉ",
+"fonction": "Dirigeant listé par Xerfi (fonction exacte non précisée ; probablement représentant d'une personne morale dirigeante)",
+"tel": null,
+"email": null,
+"source": "https://www.xerfi.com/etudes-par-entreprise/detergence-industrielle-francaise_302555222"
+}
+]
 },
 {
 "rang": 152,
@@ -4362,7 +4433,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Laurent REDON",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/rpm-property-390681260"
+},
+"contact_dirigeant": {
+"nom": "Laurent REDON",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/rpm-property-390681260"
+}
 },
 {
 "rang": 168,
@@ -5095,7 +5184,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 69 66 67",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Laurent MINGEAU",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-des-recollets-494516925"
+},
+"contact_dirigeant": {
+"nom": "Laurent MINGEAU",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pharmacie-des-recollets-494516925"
+}
 },
 {
 "rang": 180,
@@ -5343,7 +5452,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)",
+"contacts_ok": true,
+"telephone": "03 86 37 56 00",
+"telephone_a_confirmer": true,
+"site_web": "https://all.accor.com/hotel/0882/index.fr.shtml",
+"contact_finance": {
+"nom": "HPVA PARTICIPATIONS (personne morale)",
+"fonction": "Président (personne morale) ; représentant personne physique non identifié",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/abchotels-317750313"
+},
+"contact_dirigeant": {
+"nom": "HPVA PARTICIPATIONS (personne morale)",
+"fonction": "Président (personne morale) ; représentant personne physique non identifié",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/abchotels-317750313"
+}
 },
 {
 "rang": 184,
@@ -5698,7 +5828,36 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 38 10 82",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Louis-Mathieu PERRIN",
+"fonction": "Président du directoire de GROUPE ADEQUAT (présidente de la société) ; directeur financier du groupe nommé en février 2025",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.optionfinance.fr/nominations/nomination/louis-mathieu-perrin/directeur-financier/adequat.html"
+},
+"contact_dirigeant": {
+"nom": "Louis-Mathieu PERRIN",
+"fonction": "Président du directoire de la holding GROUPE ADEQUAT (depuis le 7 octobre 2025), présidente de la société",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.societe.com/manager/Louis-Mathieu.PERRIN.t_vxQS01fj5.html"
+},
+"autres_contacts": [
+{
+"nom": "Arnaud BRUN",
+"fonction": "Président du conseil de surveillance de GROUPE ADEQUAT",
+"tel": null,
+"email": null,
+"source": "https://www.staffingindustry.com/lists/staffing-100-europe/2026-staffing-100-europe/entrants/arnaud-brun"
+}
+]
 },
 {
 "rang": 190,
@@ -5994,7 +6153,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Nicolas NOGIER",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/hnj-418515938"
+},
+"contact_dirigeant": {
+"nom": "Nicolas NOGIER",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/hnj-418515938"
+}
 },
 {
 "rang": 195,
@@ -6035,7 +6212,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 27 04 01",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Jean-Luc BOUVART",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://pappers.fr/entreprise/344037098"
+},
+"contact_dirigeant": {
+"nom": "Jean-Luc BOUVART",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://pappers.fr/entreprise/344037098"
+}
 },
 {
 "rang": 196,
@@ -6330,7 +6527,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 84 14 67",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Remy RENE",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/garage-du-bazois-481303451"
+},
+"contact_dirigeant": {
+"nom": "Remy RENE",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/garage-du-bazois-481303451"
+}
 },
 {
 "rang": 201,
@@ -6430,7 +6647,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "HOLDING CASSIER (personne morale)",
+"fonction": "Président (personne morale) ; représentant personne physique non identifié",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/tc-environnement-752881839"
+},
+"contact_dirigeant": {
+"nom": "HOLDING CASSIER (personne morale)",
+"fonction": "Président (personne morale) ; représentant personne physique non identifié",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/tc-environnement-752881839"
+}
 },
 {
 "rang": 203,
@@ -6576,7 +6811,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Eric DAVID",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/dacom-477827778"
+},
+"contact_dirigeant": {
+"nom": "Eric DAVID",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/dacom-477827778"
+}
 },
 {
 "rang": 206,
@@ -6617,7 +6870,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Vincent PICQ",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/saint-saulge-distribution-348537135"
+},
+"contact_dirigeant": {
+"nom": "Vincent PICQ",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/saint-saulge-distribution-348537135"
+}
 },
 {
 "rang": 207,
@@ -7788,7 +8059,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Arnaud SABATIER",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://agriculture.gouv.fr/region-bourgogne-franche-comte?pg=3"
+},
+"contact_dirigeant": {
+"nom": "Arnaud SABATIER",
+"fonction": "Gérant (repreneur de la maison en 2004)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://agriculture.gouv.fr/region-bourgogne-franche-comte?pg=3"
+}
 },
 {
 "rang": 227,
@@ -7972,7 +8261,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Bernard Delaporte",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/groupe-danielson-507748283"
+},
+"contact_dirigeant": {
+"nom": "Bernard Delaporte",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/groupe-danielson-507748283"
+},
+"autres_contacts": [
+{
+"nom": "Benoît Delaporte",
+"fonction": "Directeur adjoint (assistant director) de Danielson Aircraft Systems, filiale du groupe",
+"tel": null,
+"email": null,
+"source": "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/"
+}
+]
 },
 {
 "rang": 230,
@@ -8206,7 +8522,19 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 21 88 10",
+"telephone_a_confirmer": true,
+"autres_contacts": [
+{
+"nom": "Benoît Delaporte",
+"fonction": "Directeur adjoint (assistant director) de Danielson Aircraft Systems",
+"tel": null,
+"email": null,
+"source": "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/"
+}
+]
 },
 {
 "rang": 234,
@@ -8314,7 +8642,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Olivier Prinet",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/prinet-753197946"
+},
+"contact_dirigeant": {
+"nom": "Olivier Prinet",
+"fonction": "Gérant (cogérant avec Tom Parrain)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/prinet-753197946"
+},
+"autres_contacts": [
+{
+"nom": "Tom Parrain",
+"fonction": "Cogérant",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/prinet-753197946"
+}
+]
 },
 {
 "rang": 236,
@@ -8454,7 +8809,8 @@
 "site_local": "Zone industrielle Le Tremblat, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": true,
 "enrichie": true,
-"note_classement": "Activité suspendue en décembre 2025, l'abattoir a rouvert depuis : sujet à aborder avec tact."
+"note_classement": "Activité suspendue en décembre 2025, l'abattoir a rouvert depuis : sujet à aborder avec tact.",
+"contacts_ok": true
 },
 {
 "rang": 238,
@@ -8578,7 +8934,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 240,
@@ -9014,7 +9371,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jean-Luc Bouvart",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/entreprise-viode-339913428"
+},
+"contact_dirigeant": {
+"nom": "Jean-Luc Bouvart",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/entreprise-viode-339913428"
+}
 },
 {
 "rang": 247,
@@ -9424,7 +9799,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Wilfried Sejeau",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/le-cypres-gens-de-la-lune-402891774"
+},
+"contact_dirigeant": {
+"nom": "Wilfried Sejeau",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/le-cypres-gens-de-la-lune-402891774"
+}
 },
 {
 "rang": 254,
@@ -9510,7 +9903,41 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Cyril Milliet de Faverges et de Challes",
+"fonction": "Cogérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+},
+"contact_dirigeant": {
+"nom": "Cyril Milliet de Faverges et de Challes",
+"fonction": "Cogérant (avec Ludovic et Olivier Milliet de Faverges et de Challes)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+},
+"autres_contacts": [
+{
+"nom": "Ludovic Milliet de Faverges et de Challes",
+"fonction": "Cogérant",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+},
+{
+"nom": "Olivier Milliet de Faverges et de Challes",
+"fonction": "Cogérant",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+}
+]
 },
 {
 "rang": 256,
@@ -9693,7 +10120,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 259,
@@ -9984,7 +10412,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Alain Moreau",
+"fonction": "Président du conseil d'administration et directeur général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
+},
+"contact_dirigeant": {
+"nom": "Alain Moreau",
+"fonction": "Président du conseil d'administration et directeur général (PDG)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
+}
 },
 {
 "rang": 264,
@@ -10545,7 +10991,34 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "David Maudry",
+"fonction": "Cogérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/lispaul-878108075"
+},
+"contact_dirigeant": {
+"nom": "David Maudry",
+"fonction": "Cogérant (avec Shirley Gaucher)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/lispaul-878108075"
+},
+"autres_contacts": [
+{
+"nom": "Shirley Gaucher",
+"fonction": "Cogérante",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/lispaul-878108075"
+}
+]
 },
 {
 "rang": 274,
@@ -10586,7 +11059,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 61 19 09",
+"email": "bouchonnivernais@orange.fr",
+"site_web": "https://logishotels.com/en/hotel/logis-hotel-au-relais-nivernais-186946",
+"contact_finance": {
+"nom": "Fabien Guichard",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-tms-58-891398190"
+},
+"contact_dirigeant": {
+"nom": "Fabien Guichard",
+"fonction": "Président (référent de l'établissement Hôtel Au Relais Nivernais)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://mnt.entreprises.gouv.fr/en/all/etablissement/58948-hotel-au-relais-nivernais"
+}
 },
 {
 "rang": 275,
@@ -10937,7 +11431,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Gérard Provost",
+"fonction": "Représentant de MECAMACHINE HOLDING, présidente de la société",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://origami-entreprises.fr/entreprise/503336471.txt"
+},
+"contact_dirigeant": {
+"nom": "Gérard Provost",
+"fonction": "Représentant de MECAMACHINE HOLDING, présidente de la société",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://origami-entreprises.fr/entreprise/503336471.txt"
+}
 },
 {
 "rang": 281,
@@ -11101,7 +11613,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 21 09 21",
+"site_web": "https://www.capfun.com/camping-france-bourgogne-grand_cerf-FR.html",
+"contact_finance": {
+"nom": "Xavier Campanella",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/grand-cerf-821299328"
+},
+"contact_dirigeant": {
+"nom": "Xavier Campanella",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/grand-cerf-821299328"
+}
 },
 {
 "rang": 284,
@@ -11142,7 +11674,35 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"site_web": "http://www.exagon-motors.com",
+"contact_finance": {
+"nom": "Luc Marchetti",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/exagon-engineering-478725278"
+},
+"contact_dirigeant": {
+"nom": "Luc Marchetti",
+"fonction": "Gérant, fondateur (2004)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://franco.wiki/fr/Exagon_Motors.html"
+},
+"autres_contacts": [
+{
+"nom": "Cathy Muller",
+"fonction": "Manager de l'équipe course (selon Wikipédia, information possiblement ancienne)",
+"tel": null,
+"email": null,
+"source": "https://en.wikipedia.org/wiki/Exagon_Engineering"
+}
+]
 },
 {
 "rang": 285,
@@ -11183,7 +11743,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Pascal Douet",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ma-boutique-velo-909830408"
+},
+"contact_dirigeant": {
+"nom": "Pascal Douet",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ma-boutique-velo-909830408"
+}
 },
 {
 "rang": 286,

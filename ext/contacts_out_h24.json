@@ -1,23 +1,62 @@
 [
  {
   "siren": "631880374",
-  "standard": {"tel": "03 86 69 50 00", "source": "https://www.etablissementsdesante.fr/etablissement/48105-centre-medical-de-la-venerie"},
+  "standard": {
+   "tel": "03 86 69 50 00",
+   "source": "https://www.etablissementsdesante.fr/etablissement/48105-centre-medical-de-la-venerie"
+  },
   "email_generique": null,
   "site_web": null,
-  "decideur_financier": {"nom": "VP SANTE (personne morale)", "fonction": "Président (personne morale) ; représentant personne physique non identifié", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"},
-  "dirigeant_principal": {"nom": "VP SANTE (personne morale)", "fonction": "Président (personne morale) ; représentant personne physique non identifié", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"},
-  "adresse": {"adresse": "Lieu-dit La Vénerie, 58210 Champlemy", "source": "https://www.etablissementsdesante.fr/etablissement/48105-centre-medical-de-la-venerie"},
+  "decideur_financier": {
+   "nom": "VP SANTE (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"
+  },
+  "dirigeant_principal": {
+   "nom": "VP SANTE (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"
+  },
+  "adresse": {
+   "adresse": "Lieu-dit La Vénerie, 58210 Champlemy",
+   "source": "https://www.etablissementsdesante.fr/etablissement/48105-centre-medical-de-la-venerie"
+  },
   "autres_contacts": [],
   "format_email_observe": null,
   "note": "Centre de soins médicaux et de réadaptation (SMR). Standard 03 86 69 50 00 (fax 03 86 69 23 60) concordant sur plusieurs annuaires (etablissementsdesante.fr, santeenfrance.fr, gowork.fr) : source agrégateur. Directeur d'établissement et représentant de VP SANTE non trouvés ; le décideur financier est probablement au niveau du groupe VP SANTE. Recherche interrompue : quota de recherches web de la session épuisé."
  },
  {
   "siren": "493716625",
-  "standard": {"tel": null, "source": null},
+  "standard": {
+   "tel": null,
+   "source": null
+  },
   "email_generique": null,
   "site_web": null,
-  "decideur_financier": {"nom": "Jacques BEAUVOIS", "fonction": "Président", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/nivertel-493716625"},
-  "dirigeant_principal": {"nom": "Jacques BEAUVOIS", "fonction": "Président", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/nivertel-493716625"},
+  "decideur_financier": {
+   "nom": "Jacques BEAUVOIS",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/nivertel-493716625"
+  },
+  "dirigeant_principal": {
+   "nom": "Jacques BEAUVOIS",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/nivertel-493716625"
+  },
   "adresse": null,
   "autres_contacts": [],
   "format_email_observe": null,
@@ -25,17 +64,481 @@
  },
  {
   "siren": "780060190",
-  "standard": {"tel": null, "source": null},
+  "standard": {
+   "tel": null,
+   "source": null
+  },
   "email_generique": null,
   "site_web": null,
-  "decideur_financier": {"nom": "Didier PETITRENAUD", "fonction": "Directeur Général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"},
-  "dirigeant_principal": {"nom": "Didier PETITRENAUD", "fonction": "Directeur Général (la présidence est assurée par la personne morale TONNELLERIE FRANCOIS FRERES)", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"},
+  "decideur_financier": {
+   "nom": "Didier PETITRENAUD",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"
+  },
+  "dirigeant_principal": {
+   "nom": "Didier PETITRENAUD",
+   "fonction": "Directeur Général (la présidence est assurée par la personne morale TONNELLERIE FRANCOIS FRERES)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"
+  },
   "adresse": null,
   "autres_contacts": [
-   {"nom": "Remi PETITRENAUD", "fonction": "Directeur Général", "tel": null, "email": null, "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"},
-   {"nom": "Xavier PETITRENAUD", "fonction": "Directeur Général", "tel": null, "email": null, "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"}
+   {
+    "nom": "Remi PETITRENAUD",
+    "fonction": "Directeur Général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"
+   },
+   {
+    "nom": "Xavier PETITRENAUD",
+    "fonction": "Directeur Général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"
+   }
   ],
   "format_email_observe": null,
   "note": "Président : TONNELLERIE FRANCOIS FRERES (TFF Group, Saint-Romain, Côte-d'Or) ; représentant personne physique non identifié dans les recherches. Le contrôle financier relève probablement de TFF Group. Didier René Emile Petitrenaud apparaît aussi comme gérant de groupements fonciers ruraux à Dirol (https://www.verif.com/en/leaders/Dider-PETITRENAUD-J37037997/). Aucun téléphone trouvé (les résultats ne donnaient que la mairie de Dirol). Recherche interrompue : quota de recherches web de la session épuisé."
+ },
+ {
+  "siren": "950003723",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Alexandre ANIER",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sica-medicavet-950003723"
+  },
+  "dirigeant_principal": {
+   "nom": "Alexandre ANIER",
+   "fonction": "Directeur Général",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sica-medicavet-950003723"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Françoise SAULGEOT (LESENFANT)",
+    "fonction": "Présidente du conseil d'administration",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/sica-medicavet-950003723"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "SICA (coopérative, commerce de gros, 6-9 salariés) : aucune trace en ligne dans 3 recherches (ni téléphone, ni site, ni presse) ; les résultats renvoyaient à des homonymes (Medivet, Centravet). Dirigeants issus du registre uniquement, non revérifiés par une source récente. Structure trop petite pour un DAF : le DG est l'interlocuteur financier probable."
+ },
+ {
+  "siren": "302555222",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Cédric BRA",
+   "fonction": "Directeur général délégué",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222"
+  },
+  "dirigeant_principal": {
+   "nom": "Cédric BRA",
+   "fonction": "Directeur général délégué (présidence assurée par la personne morale NOVARC, direction générale par la personne morale M&I PRO)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Vincent PHEBY",
+    "fonction": "Directeur général délégué (directeur du développement de la BU Motion & Industry de Novarc selon les données internes)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222"
+   },
+   {
+    "nom": "David ROLLÉ",
+    "fonction": "Dirigeant listé par Xerfi (fonction exacte non précisée ; probablement représentant d'une personne morale dirigeante)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/detergence-industrielle-francaise_302555222"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Filiale du groupe NOVARC (commerce de gros de produits chimiques, NAF 46.75Z ; 16 salariés et CA 2024 d'environ 3,6 M€ selon Xerfi). Aucun téléphone, site ni email trouvé en 3 recherches. La finance relève probablement du groupe Novarc : aucun DAF identifié pour le site de Cosne. LinkedIn société connu : https://www.linkedin.com/company/detergence-industrielle-francaise."
+ },
+ {
+  "siren": "390681260",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent REDON",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rpm-property-390681260"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent REDON",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rpm-property-390681260"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Laurent Redon est l'ancien pilote (champion de France F3 1995, essayeur F1, IndyCar) fondateur de l'école de pilotage LRS Formula au circuit de Magny-Cours (https://motoiq.com/lrs-formula-at-magny-cours). Une recherche « LRS Formula Magny-Cours » renvoie la fiche annuaire-entreprises du SIREN 390681260 (créé le 1er avril 1993, Technopole du Circuit), ce qui suggère que RPM PROPERTY exploite ou a exploité LRS Formula : lien probable mais non confirmé. Aucun numéro propre trouvé ; le 03 86 21 80 00 est le standard du circuit de Nevers Magny-Cours, pas celui de la société. Une fiche Yumping place aujourd'hui LRS Formula à Barcelone."
+ },
+ {
+  "siren": "494516925",
+  "standard": {
+   "tel": "03 86 69 66 67",
+   "source": "https://www.santeenfrance.fr/etablissement/47853-pharmacie-appert-philippe",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent MINGEAU",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pharmacie-des-recollets-494516925"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent MINGEAU",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pharmacie-des-recollets-494516925"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "L'officine du 63 Grande Rue, La Charité-sur-Loire, est référencée dans les annuaires sous les noms « Pharmacie Appert » (ancien titulaire Philippe Appert) et « Giropharm » (enseigne). Standard 03 86 69 66 67 (fax 03 86 70 24 64) vu uniquement sur un agrégateur (santeenfrance.fr) sous le nom Pharmacie Appert ; Pharmao affiche un numéro tronqué commençant différemment (« 03 86 31… ») : à confirmer. Le gérant Laurent Mingeau (registre) n'apparaît dans aucun résultat de recherche."
+ },
+ {
+  "siren": "317750313",
+  "standard": {
+   "tel": "03 86 37 56 00",
+   "source": "https://momondo.in/hotels/nevers/Ibis-Nevers.mhd83711.ksp",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://all.accor.com/hotel/0882/index.fr.shtml",
+  "decideur_financier": {
+   "nom": "HPVA PARTICIPATIONS (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/abchotels-317750313"
+  },
+  "dirigeant_principal": {
+   "nom": "HPVA PARTICIPATIONS (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/abchotels-317750313"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Exploite l'hôtel ibis Nevers (56 chambres, code Accor 0882 d'après https://www.businesstravelnews.com/Hotels/Nevers-France/Ibis-Hotel-Nevers-p3213145), 3 rue du Plateau de la Bonne Dame (RN 7). Standard vu sur des sites de réservation (momondo) : source agrégateur ; certains annuaires hôteliers américains affichent un numéro erroné. HPVA est un groupe d'investissement et de gestion hôtelière créé en 2013, environ 20 hôtels (https://hospitality-on.com/fr/ouverture/hpva-et-ihg-sassocient-pour-un-nouveau-projet) : la finance est vraisemblablement gérée au siège du groupe, mais ni le président ni le DAF de HPVA n'ont été identifiés en 3 recherches. Directeur de l'hôtel non identifié."
+ },
+ {
+  "siren": "821884632",
+  "standard": {
+   "tel": "03 86 38 10 82",
+   "source": "https://www.wizbii.com/company/adequat-nevers/job/agent-de-maintenance-industrielle-f-h-171",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Louis-Mathieu PERRIN",
+   "fonction": "Président du directoire de GROUPE ADEQUAT (présidente de la société) ; directeur financier du groupe nommé en février 2025",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.optionfinance.fr/nominations/nomination/louis-mathieu-perrin/directeur-financier/adequat.html"
+  },
+  "dirigeant_principal": {
+   "nom": "Louis-Mathieu PERRIN",
+   "fonction": "Président du directoire de la holding GROUPE ADEQUAT (depuis le 7 octobre 2025), présidente de la société",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Louis-Mathieu.PERRIN.t_vxQS01fj5.html"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Arnaud BRUN",
+    "fonction": "Président du conseil de surveillance de GROUPE ADEQUAT",
+    "tel": null,
+    "email": null,
+    "source": "https://www.staffingindustry.com/lists/staffing-100-europe/2026-staffing-100-europe/entrants/arnaud-brun"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Agence Adéquat Intérim de Nevers (1-2 salariés), filiale du réseau Groupe Adéquat (plus de 350 agences). Standard tiré d'une offre d'emploi de l'agence « ADEQUAT NEVERS » reprise sur Wizbii (« vous pouvez nous joindre au 03 86 38 10 82 ») ; adresse rue du Ravelin non confirmée par la source. Aucun site ni fiche agence trouvé dans les résultats. Louis-Mathieu Perrin, nommé directeur financier en février 2025, est devenu président du directoire du groupe le 7 octobre 2025 : son successeur à la direction financière n'a pas été identifié. Pour une agence de cette taille, la finance est gérée au siège du groupe."
+ },
+ {
+  "siren": "418515938",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Nicolas NOGIER",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/hnj-418515938"
+  },
+  "dirigeant_principal": {
+   "nom": "Nicolas NOGIER",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/hnj-418515938"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Enseigne « Sopadec » (commerce de gros, 10-19 salariés) introuvable en ligne en 3 recherches (ni téléphone, ni site, ni presse) ; une fiche PagesJaunes non identifiée est apparue sur la recherche « Sopadec rue des Docks » sans permettre de la rattacher. Président issu du registre uniquement (nom complet Nicolas Jean-Claude Daniel Nogier), non revérifié par une source récente."
+ },
+ {
+  "siren": "344037098",
+  "standard": {
+   "tel": "03 86 27 04 01",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/15060-pousseaux-bat-renovation/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean-Luc BOUVART",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://pappers.fr/entreprise/344037098"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Luc BOUVART",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://pappers.fr/entreprise/344037098"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Entreprise familiale de maçonnerie, gros œuvre, couverture et rénovation (« POUSSEAUX BATIMENT », plus de 30 ans d'activité, une trentaine de compagnons selon PagesJaunes : https://www.pagesjaunes.fr/annuaire/departement/nievre-58/amenagement-exterieur). Standard vu uniquement sur des annuaires (les-energies-renouvelables.eu, repris par d'autres annuaires) : à confirmer. Une société « POUSSEAUX BTP » à Clamecy apparaît aussi, peut-être une entité distincte. Aucun site, email ni responsable administratif ou comptable trouvé."
+ },
+ {
+  "siren": "481303451",
+  "standard": {
+   "tel": "03 86 84 14 67",
+   "source": "https://lesvoitures.fr/adresse/citroen-garage-du-bazois-sarl-chatillon-en-bazois/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Remy RENE",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/garage-du-bazois-481303451"
+  },
+  "dirigeant_principal": {
+   "nom": "Remy RENE",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/garage-du-bazois-481303451"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Garage agent Citroën (atelier après-vente) avec station-service AVIA, 68 route d'Alluy / lieu-dit Petite Come d'Ouron (D978), Châtillon-en-Bazois. Standard vu uniquement sur un annuaire automobile (lesvoitures.fr) : à confirmer. Annonces de véhicules d'occasion sur AutoScout24 (https://www.autoscout24.fr/garages/garage-du-bazois). Gérant issu du registre uniquement, non cité dans les résultats."
+ },
+ {
+  "siren": "752881839",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "HOLDING CASSIER (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tc-environnement-752881839"
+  },
+  "dirigeant_principal": {
+   "nom": "HOLDING CASSIER (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tc-environnement-752881839"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SAS créée en 2012, filiale du groupe Holding Cassier : tri, transit et préparation de déchets non dangereux et projet de plateforme de broyage de pneumatiques usagés à Cercy-la-Tour (dossier ICPE 2023 de la préfecture : https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Ce dossier de 2023 indique comme président la SARL CASSIER DÉVELOPPEMENT, alors que le registre (deja) donne HOLDING CASSIER : à vérifier. Les pièces préfectorales mentionnent un siège au 45 rue de la Guette, 58340 Cercy-la-Tour. Aucun téléphone propre trouvé (seul celui de la mairie est ressorti). Le groupe compte aussi la société Cassier Combustible à Cercy-la-Tour. Personne physique dirigeante non identifiée en 3 recherches."
+ },
+ {
+  "siren": "477827778",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Eric DAVID",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/dacom-477827778"
+  },
+  "dirigeant_principal": {
+   "nom": "Eric DAVID",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/dacom-477827778"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace en ligne de DACOM (commerce de gros, 3-5 salariés, 40 route de Bourgogne à Saint-Éloi) en 3 recherches : ni téléphone, ni site, ni activité précise. Gérant issu du registre uniquement, non revérifié."
+ },
+ {
+  "siren": "348537135",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Vincent PICQ",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/saint-saulge-distribution-348537135"
+  },
+  "dirigeant_principal": {
+   "nom": "Vincent PICQ",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/saint-saulge-distribution-348537135"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Supérette de la route de Prémery à Saint-Saulge : les annuaires la référencent encore sous l'enseigne Maximarché (https://www.au-magasin.fr/58330-saint-saulge/maximarche-198925.html, numéro masqué), alors que l'enseigne actuelle indiquée est Utile (Système U) ; aucune fiche magasin Utile trouvée. Aucun numéro visible dans les résultats après 3 recherches. Gérant issu du registre uniquement."
+ },
+ {
+  "siren": "479602021",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Arnaud SABATIER",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://agriculture.gouv.fr/region-bourgogne-franche-comte?pg=3"
+  },
+  "dirigeant_principal": {
+   "nom": "Arnaud SABATIER",
+   "fonction": "Gérant (repreneur de la maison en 2004)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://agriculture.gouv.fr/region-bourgogne-franche-comte?pg=3"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Maison de salaisons fondée par Joseph Dussert au début du XXe siècle (1903 ou 1906 selon les sources), spécialiste du jambon sec du Morvan affiné 9 à 24 mois ; reprise en 2004 par Arnaud Sabatier (famille de charcutiers dijonnais), qui a relancé une filière de porcs du Morvan élevés en plein air (ministère de l'Agriculture). Fiche producteur sur Bourgogne Tourisme (https://www.burgundy-tourism.com/regional-products/fernand-dussert) avec horaires de retrait des commandes, mais aucun numéro visible dans les extraits. Xerfi : SARL, CA 2024 d'environ 1,5 M€, 6-9 salariés."
  }
 ]

@@ -1,0 +1,496 @@
+[
+ {
+  "siren": "507748283",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Bernard Delaporte",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/groupe-danielson-507748283"
+  },
+  "dirigeant_principal": {
+   "nom": "Bernard Delaporte",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/groupe-danielson-507748283"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Benoît Delaporte",
+    "fonction": "Directeur adjoint (assistant director) de Danielson Aircraft Systems, filiale du groupe",
+    "tel": null,
+    "email": null,
+    "source": "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun standard propre trouvé pour la holding (3 recherches). La filiale Danielson Aircraft Systems, même adresse (Technopole Magny-Cours), affiche le 03 86 21 88 10 sur gowork.fr (annuaire) — à utiliser comme point d'entrée du groupe. Site officiel non trouvé dans les résultats. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "509591103",
+  "standard": {
+   "tel": "03 86 21 88 10",
+   "source": "https://gowork.fr/danielson-aircraft-system-magny-cours/salary",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Benoît Delaporte",
+    "fonction": "Directeur adjoint (assistant director) de Danielson Aircraft Systems",
+    "tel": null,
+    "email": null,
+    "source": "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Filiale propulsion drones (moteurs TRIDENT) du Groupe Danielson (SIREN 507748283, président Bernard Delaporte selon le registre). Aucun dirigeant listé dans les données d'entrée et aucun représentant légal trouvé en recherche ; le décideur est probablement celui du groupe. Numéro vu seulement sur un annuaire d'emploi (gowork)."
+ },
+ {
+  "siren": "753197946",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Olivier Prinet",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/prinet-753197946"
+  },
+  "dirigeant_principal": {
+   "nom": "Olivier Prinet",
+   "fonction": "Gérant (cogérant avec Tom Parrain)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/prinet-753197946"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Tom Parrain",
+    "fonction": "Cogérant",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/prinet-753197946"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Franchise Les Boucheries du Bœuf Tricolore (galerie du Pont Midou, Cosne). Aucun numéro du magasin trouvé dans les résultats (3 recherches) ; les pages de l'enseigne trouvées ne listent pas ce point de vente. Dirigeants d'après le registre uniquement."
+ },
+ {
+  "siren": "387932437",
+  "standard": {
+   "tel": "03 86 28 57 02",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "OPPOSITION PROSPECTION (Pappers) : contacts société uniquement. Standard repris des données existantes (deja), non confirmé par une recherche (aucun résultat pour ce numéro). Site web et email générique non trouvés. ATTENTION : activité de l'abattoir suspendue temporairement par arrêté préfectoral le 10/12/2025 après une plainte de L214 (https://www.macommune.info/nievre-un-abattoir-suspendu-apres-des-accusations-de-l214/ ; https://nievre.fr/wp-content/uploads/2025/12/CP-Abattoir-de-Cosne.pdf) ; aucune information de réouverture trouvée pour 2026. Dirigeant non renseigné (opposition + absence de site officiel)."
+ },
+ {
+  "siren": "450605357",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin Intersport (15 rue du Champ des Noyers, Varennes-Vauzelles). Aucun numéro trouvé pour ce magasin (3 recherches). Les annuaires citent un « Intersport Nevers » au 81 rue de Nièvre, Nevers (https://www.au-magasin.fr/58000-nevers/intersport-108441.html ; fiche accessibilité https://acceslibre.beta.gouv.fr/app/58-nevers/a/vente-location-darticles-de-sport/erp/intersport-nevers/rpa_pdf) sans numéro visible et sans lien établi avec NEVERSPORTS. Président : R.G.HOLDING (personne morale) ; personne physique qui la dirige non identifiée — à demander au magasin."
+ },
+ {
+  "siren": "339913428",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean-Luc Bouvart",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-viode-339913428"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Luc Bouvart",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-viode-339913428"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Entreprise de plomberie-chauffage, couverture, maçonnerie, rénovation énergétique (QualiBAT), Route de Clamecy à Corbigny. Fiches annuaires : https://www.118000.fr/e_C0003575341 (« Viodé Entreprise SA », sans numéro visible) et https://www.hellowatt.fr/artisans/viode-sarl/ (un numéro y est affiché mais n'apparaît pas dans les extraits de recherche) — standard non relevé faute de pouvoir lire la page. Site web non trouvé. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "402891774",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Wilfried Sejeau",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-cypres-gens-de-la-lune-402891774"
+  },
+  "dirigeant_principal": {
+   "nom": "Wilfried Sejeau",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-cypres-gens-de-la-lune-402891774"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace web trouvée pour « Le Cyprès » / « Gens de la Lune » ni pour son gérant (3 recherches) ; activité exacte et enseigne commerciale inconnues (commerce de détail, 17 rue du Pont Cizeau, Nevers). Pas de standard, d'email ni de site trouvés. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "533513594",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Cyril Milliet de Faverges et de Challes",
+   "fonction": "Cogérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+  },
+  "dirigeant_principal": {
+   "nom": "Cyril Milliet de Faverges et de Challes",
+   "fonction": "Cogérant (avec Ludovic et Olivier Milliet de Faverges et de Challes)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Ludovic Milliet de Faverges et de Challes",
+    "fonction": "Cogérant",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+   },
+   {
+    "nom": "Olivier Milliet de Faverges et de Challes",
+    "fonction": "Cogérant",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Concession locale probable du réseau Techno Pieux (pieux vissés, groupe québécois, ~30 concessions en France). Aucun numéro ni page de concession pour la Nièvre trouvés (3 recherches) ; contact national de la marque vu dans une brochure : info.france@technopieux.fr (https://www.solscope.fr/medias/Technopieux.pdf) — adresse de la marque, pas de cette société. Trois cogérants d'après le registre, ordre arbitraire ; aucun ne ressort comme dirigeant principal."
+ },
+ {
+  "siren": "804178879",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace web trouvée pour « Le Fromager de Nevers » (rue Henry Bouquillard, Nevers) en 3 recherches. Société en nom collectif gérée par la personne morale CREMERIE EXPLOITATION, avec PROPART comme associé : ce montage ressemble à celui des rayons crèmerie des magasins Grand Frais, mais ce n'est PAS confirmé (recherche « Grand Frais Nevers Bouquillard » sans résultat). Personne physique dirigeante non identifiée ; standard, email et site non trouvés."
+ },
+ {
+  "siren": "750984064",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Alain Moreau",
+   "fonction": "Président du conseil d'administration et directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
+  },
+  "dirigeant_principal": {
+   "nom": "Alain Moreau",
+   "fonction": "Président du conseil d'administration et directeur général (PDG)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société publique locale créée en mai 2012 par la Communauté de communes Sud Nivernais et ses communes (actionnaires uniquement publics) : gère le port de Decize (La Jonction), le Stade nautique, l'Office de tourisme Confluence (place du Champ de Foire, Decize) et le salon SINUO (https://nievre.fr/wp-content/uploads/2021/06/EP1-GEN-NTE-0122-A_Analyse_socio-ecoAnnexes.pdf ; https://www.lesepl.fr/epl-en-action/decize-nievre-un-village-portuaire-pour-un-carrefour-fluvial/?pdf=77867). Le PDG est un élu (registre) ; en 2014 c'était Jean-Noël Le Bras. Une fiche Pappers citant une « direction commune » depuis le 28/06/2024 apparaît dans les résultats sans nom confirmé : un directeur salarié existe peut-être — à demander. Standard et email non trouvés ; domaine decize-confluence.fr vu (builtwith) mais non confirmé comme site de la SPL. Cible atypique (structure publique)."
+ },
+ {
+  "siren": "878108075",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "David Maudry",
+   "fonction": "Cogérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/lispaul-878108075"
+  },
+  "dirigeant_principal": {
+   "nom": "David Maudry",
+   "fonction": "Cogérant (avec Shirley Gaucher)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/lispaul-878108075"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Shirley Gaucher",
+    "fonction": "Cogérante",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/lispaul-878108075"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucune trace web de « Lispaul » (3 recherches). Même lieu-dit (Fontenille, Tracy-sur-Loire) que le Domaine de Fontenille – Maudry Père & Fils (Pouilly-Fumé, fondé par Patrick Maudry ; David Maudry, fils, y travaille depuis 2009) : https://www.vinoscout.de/en/collections/domaine-de-fontenille ; fiche IGP 2018 citant le site domfontenillemaudry.com : https://interigp.alwaysdata.net/media/2019/fiche_technique/fiche_technique_2018_VAL_LOIRE.pdf (numéro et email présents dans la fiche mais non visibles dans l'extrait). Lien LISPAUL ↔ domaine probable mais non confirmé. 0 salarié déclaré. Ne pas confondre avec le Domaine de Maltaverne (Gilles Maudry) ni avec le Domaine de Fontenille à Lauris (84)."
+ },
+ {
+  "siren": "891398190",
+  "standard": {
+   "tel": "03 86 61 19 09",
+   "source": "https://mnt.entreprises.gouv.fr/en/all/etablissement/58948-hotel-au-relais-nivernais",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "bouchonnivernais@orange.fr",
+   "source": "https://mnt.entreprises.gouv.fr/en/all/etablissement/58948-hotel-au-relais-nivernais"
+  },
+  "site_web": "https://logishotels.com/en/hotel/logis-hotel-au-relais-nivernais-186946",
+  "decideur_financier": {
+   "nom": "Fabien Guichard",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-tms-58-891398190"
+  },
+  "dirigeant_principal": {
+   "nom": "Fabien Guichard",
+   "fonction": "Président (référent de l'établissement Hôtel Au Relais Nivernais)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://mnt.entreprises.gouv.fr/en/all/etablissement/58948-hotel-au-relais-nivernais"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Exploite le Logis Hôtel Au Relais Nivernais (3*, 14 chambres, Marque Qualité Tourisme) et son restaurant Le Bouchon Nivernais, 85 faubourg du Grand Mouësse, Nevers. Standard et email (adresse orange.fr de l'établissement) publiés sur l'annuaire Marque Qualité Tourisme (entreprises.gouv.fr). Site web = page de l'hôtel sur le réseau Logis (pas de site propre trouvé). Fabien Guichard : président au registre, référent de l'établissement et accueil des clients selon la page Logis."
+ },
+ {
+  "siren": "503336471",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Gérard Provost",
+   "fonction": "Représentant de MECAMACHINE HOLDING, présidente de la société",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://origami-entreprises.fr/entreprise/503336471.txt"
+  },
+  "dirigeant_principal": {
+   "nom": "Gérard Provost",
+   "fonction": "Représentant de MECAMACHINE HOLDING, présidente de la société",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://origami-entreprises.fr/entreprise/503336471.txt"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Décolletage (NAF 25.62A), SAS créée en 2008, Les Zagots, La Machine. Aucun standard, email ni site trouvés (3 recherches). Dirigeant identifié via un agrégateur des données SIRENE/INPI (origami-entreprises.fr)."
+ },
+ {
+  "siren": "821299328",
+  "standard": {
+   "tel": "03 86 21 09 21",
+   "source": "https://www.capfun.com/camping-france-bourgogne-grand_cerf-FR.html?mois=07",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.capfun.com/camping-france-bourgogne-grand_cerf-FR.html",
+  "decideur_financier": {
+   "nom": "Xavier Campanella",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/grand-cerf-821299328"
+  },
+  "dirigeant_principal": {
+   "nom": "Xavier Campanella",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/grand-cerf-821299328"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Camping Capfun Le Grand Cerf (route de Fertot, Gimouille ; à 9 km du circuit de Magny-Cours) : mobil-homes, piscines, 9,4/10 sur Capfun. Numéro et page vus sur le site de la chaîne Capfun (commercialisation). Lien capitalistique avec le groupe Capfun non vérifié : si la société en est une filiale, la décision financière peut être prise au siège du groupe. Aucun email générique publié trouvé. Dirigeant d'après le registre ; non retrouvé en ligne."
+ },
+ {
+  "siren": "478725278",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "http://www.exagon-motors.com",
+  "decideur_financier": {
+   "nom": "Luc Marchetti",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/exagon-engineering-478725278"
+  },
+  "dirigeant_principal": {
+   "nom": "Luc Marchetti",
+   "fonction": "Gérant, fondateur (2004)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://franco.wiki/fr/Exagon_Motors.html"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Cathy Muller",
+    "fonction": "Manager de l'équipe course (selon Wikipédia, information possiblement ancienne)",
+    "tel": null,
+    "email": null,
+    "source": "https://en.wikipedia.org/wiki/Exagon_Engineering"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Équipe de course et préparateur automobile sur la Technopole du circuit de Magny-Cours ; division Exagon Motors (voiture électrique Furtive-eGT). Site exagon-motors.com cité par un wiki (non vérifié en ligne). Aucun standard ni email propres trouvés (3 recherches) ; seuls les numéros du circuit / de la Technopole apparaissent (non retenus)."
+ },
+ {
+  "siren": "909830408",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Pascal Douet",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ma-boutique-velo-909830408"
+  },
+  "dirigeant_principal": {
+   "nom": "Pascal Douet",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ma-boutique-velo-909830408"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace web trouvée pour « Ma Boutique Vélo » (16 rue de la Banne, Sauvigny-les-Bois) ni pour son gérant (3 recherches) ; CA ~957 k€ avec 3-5 salariés, peut-être vente en ligne ou sous une autre enseigne — non vérifié. Pas de standard, d'email ni de site trouvés. Dirigeant d'après le registre uniquement. Ne pas confondre avec Sauvigny-le-Bois (Yonne)."
+ }
+]

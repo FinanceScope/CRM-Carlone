@@ -1,7 +1,10 @@
 [
  {
   "siren": "581880044",
-  "standard": {"tel": null, "source": null},
+  "standard": {
+   "tel": null,
+   "source": null
+  },
   "email_generique": null,
   "site_web": "http://www.groupevincent.fr/",
   "decideur_financier": {
@@ -25,5 +28,497 @@
   "autres_contacts": [],
   "format_email_observe": null,
   "note": "Recherche incomplète : le quota de recherches web de la session a été atteint après 4 requêtes sur cette société. Adresse 102 rue Henri Bouquillard confirmée par idGarages (atelier du réseau Peugeot, https://www.idgarages.com/fr-fr/garage/nevers/GB16934_societe-c-a-t-a-r) mais aucun numéro de standard ni email générique visible dans les extraits. Aucun DAF/RAF du Groupe Vincent trouvé (le groupe a aussi repris des concessions à Vierzon et Bourges en 2019, décision Autorité de la concurrence) : décideur financier = président par défaut."
+ },
+ {
+  "siren": "621880012",
+  "standard": {
+   "tel": "03 86 26 81 81",
+   "source": "https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "contact@groupesimonneau.fr",
+   "source": null
+  },
+  "site_web": "https://www.renault-cosne.fr",
+  "decideur_financier": {
+   "nom": "Philippe Simonneau",
+   "fonction": "Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "dirigeant_principal": {
+   "nom": "Philippe Simonneau",
+   "fonction": "Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard 03 86 26 81 81 (déjà connu) confirmé par la liste des ateliers Renault (renault.fr, document non daté). Email contact@groupesimonneau.fr repris de « deja », non revu dans les résultats de recherche. Aucun DAF/RAF/comptable du groupe Simonneau trouvé (le groupe a une entité à Saint-Doulchard, 18) : décideur financier = dirigeant par défaut."
+ },
+ {
+  "siren": "552032237",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://axasecurity.com",
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro ni email trouvé pour l'usine de Clamecy (les recherches renvoient vers l'assureur AXA, homonyme). Site web = site de la marque AXA (antivols et éclairage vélo, groupe néerlandais AXA Stenman / Stenman Holding BV, https://www.preqin.com/data/profile/asset/stenman-holding-bv/35896). Président = AXA STENMAN HOLDING (personne morale) ; aucune personne physique (directeur d'usine, DAF) identifiée. La fiche Xerfi (https://www.xerfi.com/etudes-par-entreprise/axa-stenman-france_552032237) indique un effectif de 100 à 199 salariés, siège unique à Beaulieu, Clamecy. Une recherche LinkedIn ciblée a été refusée par l'outil."
+ },
+ {
+  "siren": "819621194",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Emmanuel Biallais",
+   "fonction": "Représentant permanent de E.B.P., présidente de la société",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/819621194"
+  },
+  "dirigeant_principal": {
+   "nom": "Emmanuel Biallais",
+   "fonction": "Représentant permanent de E.B.P., présidente de la société",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/819621194"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Filiale du groupe Astradec (siège à Arques, 62 ; ~300 salariés, ~70 M€ de CA selon une offre France Travail : https://candidat.francetravail.fr/offres/recherche/detail/4923071). Pas de numéro trouvé pour le site de Saint-Éloi (6 route de la Zone industrielle selon Géorisques/travail-industrie.com). Le seul numéro vu est celui du siège du groupe à Arques, 03 21 93 60 60, dans un dossier ICPE de 2021 (https://www.pas-de-calais.gouv.fr/contenu/telechargement/64684/369634/file/PJ 5_1 demande enregistrement ASTRADEC_v2_PJ 5 GROUPE ASTRADEC 2021.pdf) : utilisable pour joindre la direction financière du groupe, mais ce n'est pas le standard du site nivernais. Aucun DAF du groupe trouvé ; dirigeant tiré du registre (deja), non confirmé par une autre source."
+ },
+ {
+  "siren": "518482013",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://anvisgroup.com",
+  "decideur_financier": {
+   "nom": "Olaf Hahn",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/518482013"
+  },
+  "dirigeant_principal": {
+   "nom": "Olaf Hahn",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/518482013"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Laurent Cobigo",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/518482013"
+   },
+   {
+    "nom": "Fabien Lhullier",
+    "fonction": "Directeur général délégué",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/518482013"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun standard ni email trouvé dans les extraits. Pas de nom de DAF/RAF : le groupe Anvis a publié en 2023 des offres de « Directeur financier » (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-DIRECTEUR-FINANCIER.pdf) et de contrôleur de gestion industriel senior basé à Decize (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-Controleur-de-Gestion-industrielle-senior.pdf ; nouvelle annonce France Travail en avril 2025 : https://candidat.francetravail.fr/offres/recherche/detail/189HYHP), donc une fonction finance existe sur place mais sans titulaire identifié. Marc Ritzenthaler (DGD au registre) est présenté par societe.com comme ancien dirigeant d'Anvis Decize (mandat terminé en juillet 2020), aujourd'hui DG d'Anvis Epinal et DG de Bioscovery France depuis le 28/12/2023 (https://www.societe.com/manager/Marc.RITZENTHALER.sQCCJWm2PWI.html) : liste du registre possiblement pas à jour. Wikipédia (https://en.wikipedia.org/wiki/Anvis_Group) indique que la production de Decize a été transférée en 2023 dans une installation plus petite. Dirigeants tirés du registre (deja), non confirmés par une source récente."
+ },
+ {
+  "siren": "411012107",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "order.foresta@altona.fr",
+   "source": "https://www.bricocash.fr/p/abri-de-jardin-foresta-en-bois-massif-16.81m2/3760161072281"
+  },
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Eric Bouvier",
+   "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411012107"
+  },
+  "dirigeant_principal": {
+   "nom": "Eric Bouvier",
+   "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411012107"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé. L'email order.foresta@altona.fr (adresse de commande, domaine altona.fr) figure dans les fiches fabricant des abris Habrita/Foresta chez des revendeurs (Bricocash, Mr Bricolage) avec l'adresse route de Bourges, Challuy : source revendeur, pas le site de l'entreprise. Aucun site web propre confirmé. Personne physique derrière Burgundy Garden non identifiée ; DG tiré du registre (deja), non confirmé par une autre source (homonymes Eric Bouvier sans lien)."
+ },
+ {
+  "siren": "701880486",
+  "standard": {
+   "tel": "03 86 68 21 70",
+   "source": "https://lesvoitures.fr/adresse/etoile-58-nevers/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.groupechopard.com/concessions/mercedes-benz-nevers",
+  "decideur_financier": {
+   "nom": "Erik Chopard-Lallier",
+   "fonction": "Président du Groupe Chopard (E.C.L., présidente de la société)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-chopard-valorise-sa-politique-rse/"
+  },
+  "dirigeant_principal": {
+   "nom": "Erik Chopard-Lallier",
+   "fonction": "Président du Groupe Chopard (E.C.L., présidente de la société)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-chopard-valorise-sa-politique-rse/"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard 03 86 68 21 70 (déjà connu) confirmé seulement par un annuaire (lesvoitures.fr, 38 bd du Pré Plantin) ; la page contact officielle du groupe (https://www.groupechopard.com/mercedes-benz/contact/mercedes-nevers/) confirme qu'Étoile 58 = Mercedes-Benz Nevers, groupe Chopard depuis 2016, mais son numéro n'apparaît pas dans l'extrait. Groupe Chopard : siège à Besançon, ~3 000 salariés, 1,9 Md€ de CA 2024, président Erik Chopard-Lallier, vice-président Quentin Chopard-Lallier depuis 2024 (journalauto.com). Lien E.C.L. = holding d'Erik Chopard-Lallier déduit des initiales, non confirmé par une source. Aucun DAF du groupe identifié : décideur financier = dirigeant par défaut."
+ },
+ {
+  "siren": "711880021",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Sandrine Bertrand",
+   "fonction": "Directrice générale",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/711880021"
+  },
+  "dirigeant_principal": {
+   "nom": "Sandrine Bertrand",
+   "fonction": "Directrice générale",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/711880021"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Jocelyne Guérin",
+    "fonction": "Présidente du conseil d'administration (conseillère départementale de la Nièvre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/mars_2022_rna_nievre_amgt.pdf"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "SEM d'aménagement du Département (capital mixte 2,5 M€). Aucun numéro, email ni site web trouvé dans les extraits. La présentation du Réseau national des aménageurs de mars 2022 citait comme directeur général Cédric Duhem et mentionnait un(e) responsable administratif(ve) et financier(ère) non nommé(e) dans l'équipe de 15 personnes : le registre (deja) donne aujourd'hui Sandrine Bertrand comme directrice générale, non confirmée par une autre source. Pour un appel, demander le/la RAF via le standard."
+ },
+ {
+  "siren": "513917922",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "contact@usonrugbyplus.com",
+   "source": null
+  },
+  "site_web": "https://usonneversrugby.com",
+  "decideur_financier": {
+   "nom": "Régis Dumange",
+   "fonction": "Président du conseil d'administration et directeur général (président de l'USON Nevers Rugby)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.usonneversrugby.com/_files/ugd/890962_60332dcecc2a4e27903affda93d1cc68.pdf"
+  },
+  "dirigeant_principal": {
+   "nom": "Régis Dumange",
+   "fonction": "Président du conseil d'administration et directeur général (président de l'USON Nevers Rugby)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.usonneversrugby.com/_files/ugd/890962_60332dcecc2a4e27903affda93d1cc68.pdf"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Sébastien Dumange",
+    "fonction": "Directeur général délégué",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/513917922"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun numéro de standard trouvé dans les extraits (adresse 5 rue Denis Papin, Varennes-Vauzelles confirmée par globalsportsarchive.com). Email contact@usonrugbyplus.com repris de « deja », non revu. Aucun DAF/RAF nommé trouvé (effectif composé surtout de joueurs et staff sportif ; Xavier Péméja est directeur sportif selon rugbypass.com) : décideur financier = président-DG. Régis Dumange signe comme « Président de l'USON Nevers Rugby » dans un document de partenariat publié sur le site du club."
+ },
+ {
+  "siren": "331967943",
+  "standard": {
+   "tel": "07 45 89 14 30",
+   "source": "https://vehiculedufutur.com/uploads/images/News-et-opportunites/AISAN%20Industry/2024_article/AISAN%2520INDUSTRY%2520FRANCE_presentation2111.pdf",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "http://www.aisanindustryfrance.fr",
+  "decideur_financier": {
+   "nom": "Shelaindra Bhardwaj",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/331967943"
+  },
+  "dirigeant_principal": {
+   "nom": "Shelaindra Bhardwaj",
+   "fonction": "Directeur général",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/331967943"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Ambrish Kumar Gupta",
+    "fonction": "Président du conseil d'administration",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/331967943"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Le numéro de contact est un 07 (mobile) publié comme contact de l'entreprise dans la présentation Aisan Industry France de 2024 (pôle Véhicule du Futur) : numéro professionnel publié, mais antérieur au changement de nom en Aizen Industries France, à revérifier. Aucune source en ligne sur la reprise par Aizen ni sur les nouveaux dirigeants indiens (registre uniquement). Sources anciennes : MarketScreener citait Koji Tanaka (Chairman & GM) et un document de 2020 citait Nicolas Berhault comme directeur d'usine — ce dernier est aujourd'hui DG de COMMAND-SMFI (Cosne) depuis 04/2026. Aucun DAF/RAF trouvé : décideur financier = DG par défaut."
+ },
+ {
+  "siren": "331066639",
+  "standard": {
+   "tel": "03 86 28 49 70",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": "https://www.groupevincent.fr/",
+  "decideur_financier": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+  },
+  "dirigeant_principal": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Le numéro 03 86 28 49 70 vient seulement de « deja » : une recherche exacte sur ce numéro ne renvoie aucune page, donc non confirmé. Le garage est bien listé comme atelier Peugeot (Chemin rural du Grand Champ, 58204 Cosne-sur-Loire Cedex : https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB17007_garage-grv) et Citroën (https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB20025_sa-garage-grv-cosne-sur-loire), sans numéro dans les extraits. Groupe Vincent : 16 concessions (Cher, Loiret, Nièvre, Allier), 367 salariés en 2019 (journalauto.com) ; aucun DAF/RAF du groupe identifié, décideur financier = président par défaut."
+ },
+ {
+  "siren": "955500194",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Urbain Nourissat",
+    "fonction": "Directeur d'exploitation (carrière de Picampoix)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.bourgogne-franche-comte.developpement-durable.gouv.fr/IMG/pdf/t1_da_et_mt_carrieres_et_materiaux_-_picampoix_58__partie_2-1-137.pdf"
+   },
+   {
+    "nom": "Jean-François Bontems",
+    "fonction": "Chef d'exploitation (carrière de Picampoix)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.bourgogne-franche-comte.developpement-durable.gouv.fr/IMG/pdf/t1_da_et_mt_carrieres_et_materiaux_-_picampoix_58__partie_2-1-137.pdf"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Filiale du groupe Eiffage (carrière de microgranite de Picampoix, Sardy-lès-Épiry/Pazy, exploitée depuis 1974). Aucun numéro, email ni site propre trouvé. Présidente = EIFFAGE INFRASTRUCTURES GESTION ET DEVELOPPEMENT (personne morale) ; aucune personne physique ni responsable financier identifié (finance vraisemblablement centralisée chez Eiffage). Les deux contacts de site viennent de l'organigramme du dossier « porter à connaissance » déposé à la DREAL Bourgogne-Franche-Comté (date non visible dans l'extrait, noms possiblement non à jour)."
+ },
+ {
+  "siren": "671880227",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Frédéric Soyez",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/soyez-freres_671880227"
+  },
+  "dirigeant_principal": {
+   "nom": "Frédéric Soyez",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/soyez-freres_671880227"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Pierre Soyez",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/671880227"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun numéro, email ni site web trouvé (3 recherches ; les résultats renvoient vers des papeteries homonymes). Xerfi confirme l'adresse (Usine de la Bertine, Donzy), l'activité NAF 17.22Z (articles en papier à usage sanitaire ou domestique), un CA de 7,3 M€ en 2023, 75 salariés, et cite Frédéric Soyez parmi les dirigeants. Malgré l'effectif (75), aucun RAF/comptable nommé trouvé : décideur financier = président par défaut."
+ },
+ {
+  "siren": "450817200",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Carlos Jimenez",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/450817200"
+  },
+  "dirigeant_principal": {
+   "nom": "Carlos Jimenez",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/450817200"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Stéphane Birebent",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/450817200"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Filiale du groupe japonais Sumitomo Riko (ex-Anvis SD France), sur le même site que Anvis Decize (Usine des Caillots). Aucun numéro, email ni site propre trouvé, ni pour cette société ni pour le site des Caillots. Dirigeants tirés du registre (deja), non confirmés en ligne ; verif.com présente Axel Edwin Benz comme directeur général de SumiRiko SD France depuis 2014 (https://www.verif.com/en/leaders/Axel-BENZ-3623766/), information probablement périmée. Aucun responsable financier identifié."
+ },
+ {
+  "siren": "880515994",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Opposition à la prospection (Pappers) : seules les coordonnées de l'entreprise ont été recherchées. Aucun numéro, email ni site web trouvé (3 recherches). Xerfi (https://www.xerfi.com/etudes-par-entreprise/command-smfi_880515994) : société créée en janvier 2020, fabrication et vente de matériel de forage (NAF tubes et profilés en acier), CA 7,3 M€ en 2024, 20-49 salariés — vraisemblablement l'ancienne activité produits de forage de Vallourec/SMF International à Cosne (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638). Aucun site de l'entreprise trouvé, donc aucun nom de décideur repris."
+ },
+ {
+  "siren": "501271068",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.armatis.com",
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Franck Berthier",
+    "fonction": "Directeur général délégué du groupe Armatis",
+    "tel": null,
+    "email": null,
+    "source": "https://www.planetegrandesecoles.com/?p=100692"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Centre de contacts du groupe Armatis à Nevers (ZI Saint-Éloi, La Barbouillère) ; Xerfi indique environ 258 salariés (https://www.xerfi.com/etudes-par-entreprise/ARMATIS-BOURGOGNE_501271068). Aucun numéro du site ni email trouvé, aucun directeur de site ni DAF du groupe nommé dans les extraits. Présidente = ARMATIS FRANCE (personne morale) ; dirigeant personne physique du groupe non confirmé par une source récente (le groupe a fait l'objet d'un nouveau LBO avec fusion, https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Armatis-se-rapproche-d-un-autre-centre-d-appel-et-repart-en-LBO-138782). Franck Berthier est cité comme directeur général délégué du groupe dans un article non daté sur la nomination d'une DRH. Finance vraisemblablement centralisée au siège parisien du groupe."
  }
 ]
