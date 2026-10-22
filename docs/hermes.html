@@ -1,0 +1,757 @@
+<title>Hermès, utile pour notre prospection ?</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Figtree:wght@400;500;600;700&display=swap">
+<style>
+/* Mise en page : bandeau du CRM (même palette et mêmes polices), verdict en tête,
+   sommaire collant à gauche sur grand écran, texte de lecture à droite, sources en petit. */
+:root{
+  --bg:#F7F1EA; --wash:#EFE3D4; --surface:#FFFCF8; --sunk:#F1E9DE; --line:#E5D9C9; --line-2:#EEE5D9;
+  --ink:#2B211A; --muted:#6C5D50; --faint:#9E8D7D;
+  --accent:#7B2D3A; --accent-ink:#FFF8F2; --accent-soft:#F3E0E1;
+  --v2:#5E7A34; --v2-soft:#E7EDD8; --warm:#9A6408; --warm-soft:#F6EACD;
+  --shadow:0 1px 2px rgba(70,45,20,.06),0 8px 24px rgba(70,45,20,.07);
+  --font-display:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;
+  --font-body:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --r:18px; --r-sm:11px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1B1612; --wash:#261D17; --surface:#241D18; --sunk:#2D251F; --line:#3A3029; --line-2:#312821;
+  --ink:#F2E9DE; --muted:#C3B4A4; --faint:#8F8072;
+  --accent:#E6A3AE; --accent-ink:#2A1015; --accent-soft:#46262D;
+  --v2:#AAC37B; --v2-soft:#2D3620; --warm:#E8B85A; --warm-soft:#3F3117;
+  --shadow:0 1px 2px rgba(0,0,0,.35),0 10px 26px rgba(0,0,0,.3);
+  color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#1B1612; --wash:#261D17; --surface:#241D18; --sunk:#2D251F; --line:#3A3029; --line-2:#312821;
+  --ink:#F2E9DE; --muted:#C3B4A4; --faint:#8F8072;
+  --accent:#E6A3AE; --accent-ink:#2A1015; --accent-soft:#46262D;
+  --v2:#AAC37B; --v2-soft:#2D3620; --warm:#E8B85A; --warm-soft:#3F3117;
+  --shadow:0 1px 2px rgba(0,0,0,.35),0 10px 26px rgba(0,0,0,.3);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:15.5px;line-height:1.6;margin:0}
+a{color:var(--accent);text-underline-offset:2px;overflow-wrap:anywhere}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.gutter{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.band{background:linear-gradient(to bottom,var(--wash),var(--bg) 90%);border-bottom:1px solid var(--line)}
+.band .gutter{padding-block:34px 30px;display:flex;flex-direction:column;gap:14px}
+.eyebrow{font-size:13.5px;font-weight:600;color:var(--v2)}
+h1{font-family:var(--font-display);font-weight:800;font-size:clamp(32px,4.6vw,50px);line-height:1.04;letter-spacing:-.025em;margin:0;text-wrap:balance;max-width:20ch}
+.lead{margin:0;color:var(--muted);max-width:68ch}
+.verdicts{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:600;padding:7px 14px;border-radius:999px;background:var(--surface);border:1px solid var(--line);box-shadow:var(--shadow)}
+.chip b{color:var(--accent)}
+.layout{display:grid;grid-template-columns:220px minmax(0,1fr);gap:40px;padding-block:30px 72px;align-items:start}
+@media (max-width:900px){.layout{grid-template-columns:minmax(0,1fr);gap:18px}}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 18px)}
+nav.toc b{display:block;font-size:12.5px;color:var(--muted);font-weight:700;margin-bottom:8px;letter-spacing:.02em}
+nav.toc ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{display:flex;gap:10px;padding:6px 10px;border-radius:var(--r-sm);color:var(--ink);text-decoration:none;font-size:14px;line-height:1.35}
+nav.toc a::before{content:counter(t);color:var(--faint);font-variant-numeric:tabular-nums;min-width:1.2em}
+nav.toc a:hover{background:var(--sunk);color:var(--accent)}
+@media (max-width:900px){nav.toc{position:static;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px}}
+main{min-width:0;display:flex;flex-direction:column;gap:30px}
+.sec{min-width:0;scroll-margin-top:16px}
+.sec h2{font-family:var(--font-display);font-weight:800;font-size:clamp(24px,2.6vw,30px);line-height:1.12;letter-spacing:-.02em;margin:0 0 12px;display:flex;align-items:baseline;gap:12px;text-wrap:balance}
+.sec h2 .num{font-size:15px;font-weight:700;color:var(--accent-ink);background:var(--accent);border-radius:999px;min-width:28px;height:28px;display:inline-grid;place-items:center;flex:none;transform:translateY(-3px)}
+.sec h3{font-family:var(--font-display);font-weight:700;font-size:19px;letter-spacing:-.01em;margin:22px 0 8px}
+.sec p,.sec li{max-width:70ch}
+.sec p{margin:0 0 12px}
+.sec ul,.sec ol{margin:0 0 14px;padding-left:22px;display:flex;flex-direction:column;gap:6px}
+.sec strong{font-weight:700}
+.brief{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:22px 24px}
+.brief ul{gap:10px}
+.ref{display:inline-block;font-size:11px;font-weight:700;line-height:1;padding:3px 5px;margin-left:2px;border-radius:6px;background:var(--sunk);color:var(--muted);text-decoration:none;vertical-align:2px;font-variant-numeric:tabular-nums}
+.ref:hover{background:var(--accent-soft);color:var(--accent)}
+.nc{display:inline-block;font-size:12px;font-weight:600;padding:1px 8px;border-radius:999px;background:var(--warm-soft);color:var(--warm);font-style:normal;white-space:nowrap}
+.tbl{overflow-x:auto;margin:6px 0 16px;border:1px solid var(--line);border-radius:var(--r-sm);background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line-2)}
+th{background:var(--sunk);font-size:13px;color:var(--muted);font-weight:700}
+tr:last-child td{border-bottom:0}
+td code,p code,li code{font-size:13px;background:var(--sunk);padding:1px 6px;border-radius:6px;overflow-wrap:anywhere}
+.sources ol{font-size:13px;color:var(--muted);gap:4px}
+.sources li{max-width:none}
+.foot{font-size:13px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
+</style>
+
+<header class="band"><div class="gutter">
+  <span class="eyebrow">Note du 22/10/2026 pour les associés · CRM Entreprises Nièvre</span>
+  <h1>Hermès, utile pour notre prospection ?</h1>
+  <p class="lead">On nous a conseillé « Hermès Pro » pour démarcher par téléphone et par e-mail environ 500 entreprises de la Nièvre, à qui nous proposons d'acheter des œuvres originales d'artistes vivants (déduction fiscale de l'article 238 bis AB du Code général des impôts). Cette note dit ce qu'est ce logiciel, s'il nous convient, ce qu'il coûte et par quoi le remplacer.</p>
+  <div class="verdicts">
+    <span class="chip"><b>Hermès :</b> non, surdimensionné pour 2 à 4 appelants</span>
+    <span class="chip"><b>Prix :</b> sur devis, 55 à 190 $ par poste estimés</span>
+    <span class="chip"><b>D'abord :</b> notre CRM et nos téléphones</span>
+  </div>
+</div></header>
+
+<div class="gutter layout">
+  <nav class="toc" aria-label="Sommaire"><b>Sommaire</b><ol><li><a href="#s1">En bref</a></li><li><a href="#s2">Comment ça marche</a></li><li><a href="#s3">Le connecteur HUCC et l&#x27;import de nos fiches</a></li><li><a href="#s4">Combien ça coûte</a></li><li><a href="#s5">Les alternatives</a></li><li><a href="#s6">Le cadre légal de la prospection B2B en 2026</a></li><li><a href="#s7">Questions à poser avant de s&#x27;abonner</a></li><li><a href="#s8">Sources</a></li></ol></nav>
+  <main>
+    <div class="sec intro"><p><strong>Comment lire cette note.</strong> Elle repose uniquement sur des résultats de recherche web (titres et extraits de pages), sans contact avec l'éditeur ni accès direct aux pages. Chaque information renvoie à sa source par un numéro entre crochets ; la liste complète, avec les dates, est à la fin.</p>
+<ul>
+<li>Une information écrite normalement a été recoupée par plusieurs sources ou vient d'une source officielle. Quand elle vient de l'éditeur lui-même, ou quand c'est notre propre analyse, le texte le dit.</li>
+<li>La mention <span class="nc">non confirmé</span> signale une information qui ne repose que sur une source, sur le discours commercial de l'éditeur ou sur une estimation.</li>
+<li>Les prix sont hors taxes, sauf mention contraire. Les prix en dollars ($) n'ont pas été convertis.</li>
+</ul>
+</div>
+    <section class="sec brief" id="s1"><h2><span class="num">1</span>En bref</h2>
+<ul>
+<li>« Hermès » est la gamme de logiciels de <strong>centre de contacts</strong> (le logiciel qui gère les appels, e-mails et messages d'un centre d'appels) de Vocalcom, un éditeur français fondé à Paris en 1995 <a class="ref" href="https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2011/05/FCACT014733_20110518.pdf" target="_blank" rel="noopener" title="Source 1">1</a>. Le produit vendu aujourd'hui s'appelle <strong>Hermes360</strong>. « Hermès Pro » et « Hermès.Net » sont d'anciens noms <a class="ref" href="https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Vocalcom-Updates-Its-Contact-Center-Suite-94176.aspx" target="_blank" rel="noopener" title="Source 2">2</a><a class="ref" href="https://www.gartner.com/reviews/product/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 3">3</a><a class="ref" href="https://www.getapp.co.uk/software/2053433/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 4">4</a>.</li>
+<li>Il est conçu pour des centres d'appels de plusieurs dizaines à plusieurs milliers de postes : ses clients cités sont Concentrix, Blancheporte ou Meilleurtaux Santé <a class="ref" href="https://www.cuspera.com/compare/super-receptionist-vs-vocalcom/8136/8223" target="_blank" rel="noopener" title="Source 5">5</a><a class="ref" href="https://en-contact.com/meilleurtaux-sante-a-railway-company-vocalcom-signs-its-comeback-with-two-significant-deals" target="_blank" rel="noopener" title="Source 6">6</a>.</li>
+<li>Les prix ne sont pas publiés : tout se fait sur devis <a class="ref" href="https://www.capterra.co.nz/software/1022651/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 7">7</a>. Des sites tiers estiment l'abonnement entre 55 et 190 $ par poste et par mois <a class="ref" href="https://test.spendbase.co/?p=38978" target="_blank" rel="noopener" title="Source 8">8</a> <span class="nc">non confirmé</span>, sans compter des frais annexes inconnus (communications, mise en service).</li>
+<li>Son connecteur HUCC ne se branche que sur des CRM du marché (Salesforce, Microsoft Dynamics, Zendesk), pas sur notre page web maison <a class="ref" href="https://yespress.io/vocalcom.md" target="_blank" rel="noopener" title="Source 9">9</a><a class="ref" href="https://appexchange.salesforce.com/image_host/ebf1cc4c-c612-424a-a848-3e48d99b70c4.pdf" target="_blank" rel="noopener" title="Source 10">10</a>.</li>
+<li><strong>Notre avis : Hermès est surdimensionné pour 2 à 4 associés qui ont environ 500 entreprises à appeler</strong> (125 à 250 fiches chacun). Commençons avec notre CRM actuel et nos téléphones. Si le volume le justifie, testons ensuite un outil de téléphonie pour petites équipes (Aircall ou Ringover : environ 90 à 200 € par mois avec un numéroteur, selon l'outil et le nombre d'utilisateurs).</li>
+<li>Côté légal, le consentement préalable obligatoire depuis le 11/08/2026 vise les consommateurs : nos appels vers des entreprises en sont très probablement exclus, mais il faut le vérifier sur Légifrance.</li>
+</ul>
+</section>
+<section class="sec" id="s2"><h2><span class="num">2</span>Comment ça marche</h2>
+<h3>2.1 Le produit</h3>
+<p><strong>Ce que fait Hermes360.</strong> C'est une plateforme de centre de contacts « omnicanale » : un seul écran pour téléphoner, répondre aux e-mails, au chat, aux SMS et aux réseaux sociaux <a class="ref" href="https://www.kmworld.com/Articles/News/News/Vocalcom-reveals-new-contact-center-solution-powered-by-AI-140529.aspx" target="_blank" rel="noopener" title="Source 11">11</a><a class="ref" href="https://www.softwareadvice.com.au/software/340225/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 12">12</a><a class="ref" href="https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Vocalcom-Updates-Its-Contact-Center-Suite-94176.aspx" target="_blank" rel="noopener" title="Source 2">2</a>. Elle se vend en abonnement en ligne (le logiciel tourne chez l'éditeur et s'utilise dans le navigateur) ou s'installe sur les serveurs du client <a class="ref" href="https://www.kmworld.com/Articles/News/News/Vocalcom-reveals-new-contact-center-solution-powered-by-AI-140529.aspx" target="_blank" rel="noopener" title="Source 11">11</a><a class="ref" href="https://platform.softwareone.com/product/call-center-solution/PCP-2874-8339" target="_blank" rel="noopener" title="Source 13">13</a>. L'hébergement en ligne serait chez Amazon Web Services <a class="ref" href="https://zoftwarehub.com/en-ae/products/vocalcom-hermes360/zoftware-analysis" target="_blank" rel="noopener" title="Source 14">14</a> <span class="nc">non confirmé</span>.</p>
+<p><strong>Ses briques de base</strong>, confirmées par une source indépendante <a class="ref" href="https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Vocalcom-Updates-Its-Contact-Center-Suite-94176.aspx" target="_blank" rel="noopener" title="Source 2">2</a> :</p>
+<ul>
+<li>un <strong>numéroteur</strong> automatique, qui compose les numéros à la place de l'appelant ;</li>
+<li>la <strong>distribution automatique des appels</strong> entre les agents (en anglais ACD) ;</li>
+<li>un <strong>serveur vocal interactif</strong> (SVI, le « tapez 1, tapez 2 »).</li>
+</ul>
+<p><strong>Les autres fonctions annoncées</strong>, non recoupées :</p>
+<ul>
+<li>routage intelligent, statistiques en temps réel, analyse automatique des conversations et gestion des plannings des agents, d'après Gartner <a class="ref" href="https://www.gartner.com/reviews/product/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 3">3</a> <span class="nc">non confirmé</span> ;</li>
+<li>enregistrement des appels, cité par un comparateur <a class="ref" href="https://softwarefinder.com/call-center/vocalcom" target="_blank" rel="noopener" title="Source 15">15</a> <span class="nc">non confirmé</span> ;</li>
+<li>supervision en direct avec tableaux de bord et seuils d'alerte, d'après une brochure non datée <a class="ref" href="https://cdn-assets.inwink.com/883856e7-7fad-4876-bb09-b02fa0d3c3a8/e795d0cf-94fc-41f5-8f08-797e70df29e9" target="_blank" rel="noopener" title="Source 16">16</a> <span class="nc">non confirmé</span> ;</li>
+<li>scripts d'appel qui s'adaptent aux réponses, d'après une page commerciale de l'éditeur <a class="ref" href="https://www.vocalcom.com/telecommunications/" target="_blank" rel="noopener" title="Source 17">17</a> <span class="nc">non confirmé</span>.</li>
+</ul>
+<p>Hermes360 intègre désormais des « agents IA » (assistants automatiques), et l'éditeur se présente depuis 2026 comme « AI-first » <a class="ref" href="https://www.gartner.com/reviews/product/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 3">3</a><a class="ref" href="https://www.cuspera.com/compare/vocalcom-vs-voicebase/8223/8403" target="_blank" rel="noopener" title="Source 18">18</a>.</p>
+<p><strong>D'où vient le nom « Hermès Pro ».</strong></p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Nom</th>
+<th>Époque</th>
+<th>Statut</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hermes Pro</td>
+<td>années 2000</td>
+<td>ancien nom <a class="ref" href="https://www.speechtechmag.com/Articles/News/Speech-Technology-News/VOCALCOM-Introduces-Smart-Customer-Interaction-34345.aspx" target="_blank" rel="noopener" title="Source 19">19</a></td>
+</tr>
+<tr>
+<td>Hermès.Net</td>
+<td>vers 2008 <span class="nc">date non confirmée</span></td>
+<td>ancien nom <a class="ref" href="https://www.gartner.com/reviews/product/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 3">3</a><a class="ref" href="https://www.sourcewatch.org/index.php/Vocalcom" target="_blank" rel="noopener" title="Source 20">20</a></td>
+</tr>
+<tr>
+<td>Hermes E3 / EC3</td>
+<td>vers 2014</td>
+<td>génération intermédiaire <a class="ref" href="https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Vocalcom-Updates-Its-Contact-Center-Suite-94176.aspx" target="_blank" rel="noopener" title="Source 2">2</a></td>
+</tr>
+<tr>
+<td>Hermes360</td>
+<td>depuis 2020 environ</td>
+<td>produit actuel <a class="ref" href="https://www.kmworld.com/Articles/News/News/Vocalcom-reveals-new-contact-center-solution-powered-by-AI-140529.aspx" target="_blank" rel="noopener" title="Source 11">11</a><a class="ref" href="https://www.gartner.com/reviews/product/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 3">3</a></td>
+</tr>
+</tbody>
+</table></div>
+<p>Toutes les fiches actuelles des comparateurs vendent « Vocalcom Hermes360 », jamais « Hermes Pro » <a class="ref" href="https://www.getapp.co.uk/software/2053433/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 4">4</a><a class="ref" href="https://www.softwareadvice.com.au/software/340225/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 12">12</a>. « Hermès Cloud » n'apparaît pas non plus comme nom commercial. Certains comparateurs listent une formule « Pro » de Hermes360, ce qui explique sans doute le nom qu'on nous a donné <a class="ref" href="https://zoftwarehub.com/products/vocalcom-hermes360/pricing" target="_blank" rel="noopener" title="Source 21">21</a><a class="ref" href="https://www.itqlick.com/vocalcom-cloud-contact-center/pricing" target="_blank" rel="noopener" title="Source 22">22</a> <span class="nc">non confirmé</span>. La personne qui nous l'a conseillé s'appuie probablement sur une information datée.</p>
+<p><strong>L'éditeur.</strong></p>
+<ul>
+<li>Vocalcom a été fondé à Paris en 1995 par Anthony Dinis. En 2011, des fonds gérés par Apax Partners ont pris 65 % du capital <a class="ref" href="https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2011/05/FCACT014733_20110518.pdf" target="_blank" rel="noopener" title="Source 1">1</a>.</li>
+<li>En avril 2025, le fonds Seven2 (ex-Apax) aurait mandaté une banque pour vendre sa participation <a class="ref" href="https://en-contact.com/seven2-puts-vocalcom-the-software-star-of-outbound-calls-in-call-centres-up-for-sale" target="_blank" rel="noopener" title="Source 23">23</a> <span class="nc">non confirmé : information non officielle à l'époque</span>.</li>
+<li>En mars 2026, le fondateur est revenu à la tête de l'entreprise. Il annonce un virage vers l'IA et plus de 10 millions investis ; des clients comme Blancheporte et Concentrix ont renouvelé leur contrat <a class="ref" href="https://www.cuspera.com/compare/super-receptionist-vs-vocalcom/8136/8223" target="_blank" rel="noopener" title="Source 5">5</a><a class="ref" href="https://www.cuspera.com/compare/vocalcom-vs-voicebase/8223/8403" target="_blank" rel="noopener" title="Source 18">18</a><a class="ref" href="https://www.cuspera.com/compare/vocalcom-vs-onavaya/8223/8252" target="_blank" rel="noopener" title="Source 24">24</a>. Le rachat aurait été conclu fin décembre 2025 avec un petit groupe d'investisseurs comprenant Olivier Duha <a class="ref" href="https://en-contact.com/vocalcom-qui-equipe-des-milliers-de-call-centers-rachete-par-son-fondateur-anthony-dinis" target="_blank" rel="noopener" title="Source 25">25</a> <span class="nc">non confirmé : une seule source</span>.</li>
+<li>L'entreprise compterait environ 220 salariés en 2026 <a class="ref" href="https://pitchbook.com/profiles/company/52191-82" target="_blank" rel="noopener" title="Source 26">26</a> <span class="nc">non confirmé</span>. Aucun chiffre d'affaires récent n'a été trouvé.</li>
+</ul>
+<p>En résumé, le produit est toujours vendu et développé. Mais l'entreprise sort d'un changement d'actionnaires : prudence avant un engagement de plusieurs années.</p>
+<h3>2.2 Les modes de numérotation</h3>
+<p>D'après le site de Vocalcom <a class="ref" href="https://www.vocalcom.com/outbound-call-center-solution/dialer/" target="_blank" rel="noopener" title="Source 27">27</a> <span class="nc">source commerciale, non recoupée</span>, le numéroteur propose trois modes :</p>
+<ul>
+<li><strong>Preview (aperçu)</strong> : l'appelant voit la fiche de l'entreprise, la lit, puis décide quand lancer l'appel.</li>
+<li><strong>Progressif</strong> : dès que l'appelant raccroche, le logiciel compose le numéro suivant et lui affiche la fiche.</li>
+<li><strong>Prédictif</strong> : le logiciel compose plusieurs numéros à l'avance en prévoyant quand les agents seront libres. Il tient compte du type de numéro, de la détection des répondeurs, du nombre de tentatives, de l'heure et de la disponibilité des agents.</li>
+</ul>
+<p>Un quatrième mode, le <strong>power</strong> (une cadence fixe réglée par l'administrateur), est courant dans le secteur <a class="ref" href="https://help.puzzel.com/node/1583" target="_blank" rel="noopener" title="Source 28">28</a><a class="ref" href="https://www.vonage.com/resources/articles/what-is-the-difference-between-preview-progressive-and-predictive-diallers/" target="_blank" rel="noopener" title="Source 29">29</a>. Il n'apparaît pas dans les extraits de Vocalcom, ce qui ne prouve pas qu'il n'existe pas.</p>
+<p>Pour nous, seuls les modes preview et progressif ont un intérêt. Chaque appel se prépare (montant déductible, bon interlocuteur), et le prédictif est conçu pour de grandes équipes.</p>
+<h3>2.3 Une journée type d'un appelant</h3>
+<p>La documentation détaillée de l'écran de travail n'est pas publique. Le déroulé ci-dessous est donc reconstitué à partir des fonctions décrites plus haut : c'est une illustration, pas un mode d'emploi.</p>
+<ol>
+<li>Le matin, l'un de nous charge la liste du jour (un fichier CSV) dans une campagne et choisit le mode preview <a class="ref" href="https://www.vocalcom.com/outbound-call-center-solution/dialer/" target="_blank" rel="noopener" title="Source 27">27</a>.</li>
+<li>Chaque appelant se connecte dans son navigateur, avec un casque : le téléphone est intégré à la page <a class="ref" href="https://appexchange.salesforce.com/image_host/ebf1cc4c-c612-424a-a848-3e48d99b70c4.pdf" target="_blank" rel="noopener" title="Source 10">10</a>.</li>
+<li>La fiche de l'entreprise s'affiche avec les informations utiles. L'appelant la lit, puis clique pour appeler.</li>
+<li>Pendant l'appel, un script peut le guider <span class="nc">non confirmé</span>.</li>
+<li>À la fin, il note le résultat (pas de réponse, à rappeler, refus, rendez-vous) et programme un rappel si besoin. La planification des rappels est citée par des annuaires de logiciels, sans détail <a class="ref" href="https://www.getapp.com/customer-management-software/a/vocalcom-hermes360/" target="_blank" rel="noopener" title="Source 30">30</a> <span class="nc">non confirmé</span>.</li>
+<li>Pendant la journée, un responsable suit les statistiques en direct <span class="nc">non confirmé</span>.</li>
+<li>Le soir, on exporte les résultats pour les reporter dans notre CRM (voir la partie 3).</li>
+</ol>
+<p>Sans Hermès, nous faisons déjà presque tout cela avec notre CRM (colonnes <code>statut_prospection</code>, <code>date_relance</code>, <code>prochaine_action</code>) et un téléphone. Il ne nous manque que la composition automatique et les statistiques d'appel.</p>
+</section>
+<section class="sec" id="s3"><h2><span class="num">3</span>Le connecteur HUCC et l&#x27;import de nos fiches</h2>
+<h3>3.1 Ce que fait le HUCC</h3>
+<p>Le <strong>HUCC</strong> (Hermes Universal CRM Connector) est un module qui fait apparaître le téléphone Hermès à l'intérieur d'un CRM du marché <a class="ref" href="https://appexchange.salesforce.com/image_host/ebf1cc4c-c612-424a-a848-3e48d99b70c4.pdf" target="_blank" rel="noopener" title="Source 10">10</a><a class="ref" href="https://yespress.io/vocalcom.md" target="_blank" rel="noopener" title="Source 9">9</a><a class="ref" href="https://zoftwarehub.com/en-sa/products/vocalcom-hermes360/product-details" target="_blank" rel="noopener" title="Source 31">31</a>. D'après la fiche de l'éditeur <a class="ref" href="https://appexchange.salesforce.com/image_host/ebf1cc4c-c612-424a-a848-3e48d99b70c4.pdf" target="_blank" rel="noopener" title="Source 10">10</a>, il apporte :</p>
+<ul>
+<li><strong>un identifiant unique</strong> pour le CRM et le téléphone (en anglais SSO) ;</li>
+<li><strong>le clic pour appeler</strong> : on clique sur un numéro dans le CRM et l'appel part ;</li>
+<li><strong>un téléphone dans le navigateur</strong> (technologie WebRTC, sans appareil à installer) ;</li>
+<li><strong>la « levée de fiche »</strong> : la fiche du client s'ouvre toute seule quand un appel arrive ou part ;</li>
+<li>les appels entrants et sortants, l'état des files d'attente en direct, et le parcours du correspondant dans le serveur vocal transmis à l'agent et au CRM.</li>
+</ul>
+<p><strong>Les CRM pris en charge</strong> sont Salesforce, Microsoft Dynamics 365 et Zendesk <a class="ref" href="https://yespress.io/vocalcom.md" target="_blank" rel="noopener" title="Source 9">9</a><a class="ref" href="https://my.motherbase.ai/company/43351-vocalcom" target="_blank" rel="noopener" title="Source 32">32</a><a class="ref" href="https://www.vocalcom.com/fr/logiciel-call-center/integration-centre-contact/multi-connecteurs-crm/" target="_blank" rel="noopener" title="Source 33">33</a>, pour des centres de contacts hébergés en ligne ou chez le client <a class="ref" href="https://www.vocalcom.com/fr/logiciel-call-center/integration-centre-contact/multi-connecteurs-crm/" target="_blank" rel="noopener" title="Source 33">33</a>. Le site de Vocalcom cite aussi HubSpot, Zoho et Oracle parmi « plus de 200 intégrations », sans dire s'ils passent par le HUCC <a class="ref" href="https://www.vocalcom.com/" target="_blank" rel="noopener" title="Source 34">34</a><a class="ref" href="https://www.zawya.com/en/press-release/africa-press-releases/vocalcom-reaffirms-its-historical-position-as-an-innovative-global-leader-in-customer-relations-during-gitex-wyooszra" target="_blank" rel="noopener" title="Source 35">35</a> <span class="nc">non confirmé</span>.</p>
+<p><strong>Un produit voisin.</strong> Vocalcom vend aussi une « Salesforce Edition », un produit distinct, intégré directement dans Salesforce <a class="ref" href="https://www.capterra.com/p/240475/Vocalcom-Salesforce-Edition/" target="_blank" rel="noopener" title="Source 36">36</a><a class="ref" href="https://www.getapp.com/customer-management-software/a/vocalcom-salesforce-edition/" target="_blank" rel="noopener" title="Source 37">37</a>.</p>
+<p><strong>Un exemple d'usage.</strong> Chez Intelcia, un grand centre d'appels externalisé, la fiche du client dans Microsoft Dynamics s'ouvre dès que l'appel arrive. Le centre traite environ 7 000 dossiers par jour <a class="ref" href="https://en-contact.com/thanks-to-vocalcoms-universal-connector-intelcia-simplifies-7000-benefit-claims-per-day" target="_blank" rel="noopener" title="Source 38">38</a> <span class="nc">non confirmé : une seule source</span>. Ce sont des appels entrants dans un très grand centre, loin de notre situation.</p>
+<p><strong>Ce qui n'est pas documenté publiquement :</strong></p>
+<ul>
+<li>comment les campagnes et les résultats d'appel se synchronisent entre Hermès et le CRM <a class="ref" href="https://appexchange.salesforce.com/image_host/ebf1cc4c-c612-424a-a848-3e48d99b70c4.pdf" target="_blank" rel="noopener" title="Source 10">10</a> ;</li>
+<li>la création automatique de tickets dans le CRM, annoncée sur le blog de l'éditeur <a class="ref" href="https://vocalcom.com/blog/new-distribution-of-crm-in-customer-services" target="_blank" rel="noopener" title="Source 39">39</a> <span class="nc">non confirmé</span>.</li>
+</ul>
+<p><strong>Ce que cela veut dire pour nous.</strong> Notre CRM est une page web unique, pas un CRM du marché. Aucun connecteur n'est documenté pour ce cas. L'existence d'une API (une interface de programmation qui permettrait de relier notre page à Hermès) n'est ni prouvée ni exclue, car la documentation n'est pas publique : il faut poser la question à Vocalcom. Pour profiter du HUCC, il faudrait passer à Salesforce, Dynamics ou Zendesk, ce qui ajouterait un abonnement CRM au coût du téléphone <a class="ref" href="https://www.capterra.com/p/240475/Vocalcom-Salesforce-Edition/" target="_blank" rel="noopener" title="Source 36">36</a><a class="ref" href="https://yespress.io/vocalcom.md" target="_blank" rel="noopener" title="Source 9">9</a>.</p>
+<h3>3.2 Comment une liste de contacts entre dans une campagne</h3>
+<p>Selon Vocalcom, une campagne se crée « en quelques clics », et les fichiers d'appel se chargent avec un assistant pas à pas. Les numéros viennent d'un fichier CSV, du CRM ou de formulaires web <a class="ref" href="https://www.vocalcom.com/outbound-call-center-solution/dialer/" target="_blank" rel="noopener" title="Source 27">27</a><a class="ref" href="https://www.vocalcom.com/fr/logiciel-teleprospection/dialer/" target="_blank" rel="noopener" title="Source 40">40</a> <span class="nc">discours commercial, non recoupé</span>.</p>
+<p>Le reste n'est pas public : format exact du fichier (colonnes obligatoires, écriture des numéros, séparateur, encodage, taille maximale), ajout de contacts par API, gestion des rappels et des listes d'exclusion. La documentation semble réservée aux clients.</p>
+<p>Chez d'autres éditeurs, les règles varient. Certains exigent l'indicatif du pays (+33) <a class="ref" href="https://www.zoho.com/voice/help/import-and-customize-campaign-contacts-via-csv-file.html" target="_blank" rel="noopener" title="Source 41">41</a>, d'autres le format national (0X…) ou 0033 <a class="ref" href="https://docs.frontstage.online/supervisor/calls/outbound-lists.html" target="_blank" rel="noopener" title="Source 42">42</a>. Les listes d'exclusion (numéros à ne jamais appeler) s'importent souvent à part <a class="ref" href="https://help.brightpattern.com/latest:Tutorials-for-admins/HowtoConfigureOutboundCampaigns" target="_blank" rel="noopener" title="Source 43">43</a>.</p>
+<p>Si nous prenions Hermès, le circuit serait probablement le suivant :</p>
+<ol>
+<li>Dans notre CRM, filtrer les fiches à appeler : bon statut, pas d'opposition, points <code>a_confirmer</code> réglés.</li>
+<li>Exporter en CSV et adapter le fichier (numéros, colonnes).</li>
+<li>Importer le fichier dans une campagne Hermès et appeler.</li>
+<li>Exporter les résultats et les reporter dans le CRM, à la main ou par un petit script, en se servant du SIREN pour retrouver chaque fiche.</li>
+</ol>
+<h3>3.3 Nos colonnes face à un import Hermès</h3>
+<p>Hermès ne publie pas de format d'import. Le tableau ci-dessous est donc une <strong>proposition</strong>, à valider avec Vocalcom ou dans l'assistant d'import.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Colonne(s) de notre CSV</th>
+<th>Rôle proposé dans la campagne</th>
+<th>Ce qu'on sait / ce qu'il faut demander</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>siren</code></td>
+<td>Identifiant unique de chaque fiche</td>
+<td>Indispensable pour rapprocher les résultats de notre CRM. <strong>À demander :</strong> peut-on importer un identifiant libre, et ressort-il tel quel dans l'export des résultats ?</td>
+</tr>
+<tr>
+<td><code>rang</code></td>
+<td>Aucun (au mieux, ordre d'appel)</td>
+<td>C'est la première colonne. Avec l'encodage UTF-8 « avec BOM » (un marqueur invisible en début de fichier), certains outils collent ce marqueur au nom de la colonne. <strong>À tester.</strong></td>
+</tr>
+<tr>
+<td><code>nom</code>, <code>nom_commercial</code></td>
+<td>Nom de l'entreprise affiché</td>
+<td>Champ standard. Choisir lequel afficher.</td>
+</tr>
+<tr>
+<td><code>telephone</code></td>
+<td>Téléphone 1 (standard)</td>
+<td>Format non publié : +33…, 0X… ou 0033… selon les outils <a class="ref" href="https://docs.frontstage.online/supervisor/calls/outbound-lists.html" target="_blank" rel="noopener" title="Source 42">42</a><a class="ref" href="https://www.zoho.com/voice/help/import-and-customize-campaign-contacts-via-csv-file.html" target="_blank" rel="noopener" title="Source 41">41</a>. <strong>À demander.</strong> Préciser aussi le type de ligne.</td>
+</tr>
+<tr>
+<td><code>tel_direct_decideur</code>, <code>coordonnees_directes</code></td>
+<td>Téléphone 2 (ligne directe)</td>
+<td><strong>À demander :</strong> combien de numéros par fiche, et dans quel ordre sont-ils essayés ? <code>coordonnees_directes</code> peut mêler téléphone et e-mail : à séparer avant l'import.</td>
+</tr>
+<tr>
+<td><code>decideur_financier</code>, <code>fonction_decideur</code>, <code>type_decideur</code>, <code>interlocuteur</code>, <code>interlocuteur_cible</code></td>
+<td>Nom et fonction de la personne à joindre</td>
+<td>Il faudra sans doute séparer civilité, prénom et nom. <strong>À demander :</strong> quels champs « contact » existent ?</td>
+</tr>
+<tr>
+<td><code>email</code>, <code>email_decideur</code></td>
+<td>Inutile pour les appels ; campagne e-mail seulement</td>
+<td>Hermes360 gère l'e-mail, mais l'envoi d'e-mails en série (séquences) n'est pas documenté.</td>
+</tr>
+<tr>
+<td><code>adresse</code>, <code>code_postal</code>, <code>ville</code></td>
+<td>Adresse</td>
+<td>Champs standard probables.</td>
+</tr>
+<tr>
+<td><code>activite</code>, <code>effectif</code>, <code>ca</code>, <code>resultat</code>, <code>resultat_retenu</code>, <code>exercice</code>, <code>regime_fiscal</code>, <code>plafond_annuel</code>, <code>oeuvres_deductibles_5_ans</code>, <code>lieu_exposition</code>, <code>notes_premiere_etude</code></td>
+<td>Champs personnalisés affichés à l'appelant (fiche ou script)</td>
+<td>C'est notre argumentaire, notamment le montant déductible. <strong>À demander :</strong> combien de champs personnalisés, et peut-on les afficher dans le script ?</td>
+</tr>
+<tr>
+<td><code>priorite</code>, <code>vague</code>, <code>distance_cosne_km</code></td>
+<td>Découpage en listes ou ordre d'appel</td>
+<td>Le plus simple : filtrer dans notre CRM et importer une liste par vague.</td>
+</tr>
+<tr>
+<td><code>responsable</code></td>
+<td>Appelant attitré (rappels personnels)</td>
+<td><strong>À demander :</strong> peut-on réserver un rappel à un appelant précis ?</td>
+</tr>
+<tr>
+<td><code>date_relance</code>, <code>prochaine_action</code></td>
+<td>Rappel planifié</td>
+<td><code>date_relance</code> ne contient pas d'heure. La fonction de rappel est citée sans détail <a class="ref" href="https://www.getapp.com/customer-management-software/a/vocalcom-hermes360/" target="_blank" rel="noopener" title="Source 30">30</a> <span class="nc">non confirmé</span>.</td>
+</tr>
+<tr>
+<td><code>statut_prospection</code>, <code>a_confirmer</code></td>
+<td>Filtres avant l'export</td>
+<td>Ne sont pas importés : ils servent à choisir les fiches « à appeler ».</td>
+</tr>
+<tr>
+<td><code>opposition_prospection</code></td>
+<td>Filtre avant l'export, et liste d'exclusion</td>
+<td>Ne jamais exporter ces fiches. Les <strong>garder</strong> dans notre CRM : la CNIL recommande de conserver la liste des oppositions au moins 3 ans <a class="ref" href="https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel" target="_blank" rel="noopener" title="Source 44">44</a>. <strong>À demander :</strong> format de la liste d'exclusion.</td>
+</tr>
+<tr>
+<td><code>notes</code></td>
+<td>Commentaire libre (aller et retour)</td>
+<td><strong>À demander :</strong> le commentaire saisi pendant l'appel ressort-il dans l'export ?</td>
+</tr>
+<tr>
+<td><code>site_web</code>, <code>linkedin_decideur</code>, <code>dirigeants</code>, <code>source_decideur</code></td>
+<td>Consultation seulement</td>
+<td>Peuvent rester dans notre CRM.</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Ce qui manque dans notre fichier pour une campagne d'appels</strong> (à ajouter avant tout import) :</p>
+<ul>
+<li>le numéro écrit dans le format demandé par l'outil, et le type de ligne (standard, ligne directe, mobile) ;</li>
+<li>l'<strong>heure</strong> du rappel, en plus de la date ;</li>
+<li>les créneaux d'appel autorisés (horaires d'ouverture de l'entreprise) ;</li>
+<li>un code de résultat standard : ne répond pas, faux numéro, refus, rendez-vous, à rappeler ;</li>
+<li>le nombre de tentatives, et la date et l'heure du dernier appel ;</li>
+<li>la civilité, le prénom et le nom du décideur dans des colonnes séparées ;</li>
+<li>la date et le canal de l'opposition (téléphone, e-mail), utiles pour la conservation de 3 ans demandée par la CNIL <a class="ref" href="https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel" target="_blank" rel="noopener" title="Source 44">44</a> ;</li>
+<li>un identifiant de campagne ou de liste.</li>
+</ul>
+<p>Il faudra aussi vérifier que l'import accepte le point-virgule comme séparateur et l'UTF-8 avec BOM.</p>
+</section>
+<section class="sec" id="s4"><h2><span class="num">4</span>Combien ça coûte</h2>
+<h3>4.1 Hermes360 : pas de prix public</h3>
+<p><strong>Pas de grille publique.</strong> Vocalcom ne publie aucun tarif : il faut demander un devis <a class="ref" href="https://www.capterra.co.nz/software/1022651/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 7">7</a><a class="ref" href="https://zoftwarehub.com/products/vocalcom-hermes360/pricing" target="_blank" rel="noopener" title="Source 21">21</a>. Le prix se calcule par agent (par poste), au mois ou à l'année. Il dépend du nombre d'agents, des fonctions choisies, du mode d'hébergement et du niveau de service, avec des contrats sur mesure pour les gros déploiements <a class="ref" href="https://www.gartner.com/reviews/product/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 3">3</a><a class="ref" href="https://zoftwarehub.com/products/vocalcom-hermes360/pricing" target="_blank" rel="noopener" title="Source 21">21</a>.</p>
+<p><strong>Les estimations qui circulent</strong> viennent toutes de sites tiers et se contredisent : à prendre avec beaucoup de prudence.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Source (date)</th>
+<th>Ce qu'elle affiche</th>
+<th>Fiabilité</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Spendbase (extrait d'octobre 2026) <a class="ref" href="https://test.spendbase.co/?p=38978" target="_blank" rel="noopener" title="Source 8">8</a></td>
+<td>Essentials 55-70 $, Professional 75-100 $, Advanced CX 110-140 $, Enterprise Unlimited 145-190 $ par agent et par mois, en engagement annuel</td>
+<td>Estimation affichée comme telle, sur un sous-domaine « test » <span class="nc">non confirmé</span></td>
+</tr>
+<tr>
+<td>Softwarefinder (non datée) <a class="ref" href="https://softwarefinder.com/call-center/vocalcom" target="_blank" rel="noopener" title="Source 15">15</a></td>
+<td>Click2Start 76 $, Business Plus 115 $, Enterprise 146 $ par mois, sans préciser si c'est par agent</td>
+<td>Repris de sites tiers ; anciennes formules <span class="nc">non confirmé</span></td>
+</tr>
+<tr>
+<td>SoftwareSuggest (30/04/2026) <a class="ref" href="https://www.softwaresuggest.com/vocalcom" target="_blank" rel="noopener" title="Source 45">45</a></td>
+<td>Click2Start à 61 $ par utilisateur et par mois, jusqu'à 25 agents</td>
+<td>Offre pour PME lancée en 2015 <a class="ref" href="https://kyodonewsprwire.jp/release/201509163683" target="_blank" rel="noopener" title="Source 46">46</a>, sans doute plus vendue <span class="nc">non confirmé</span></td>
+</tr>
+<tr>
+<td>ITQlick (non datée) <a class="ref" href="https://www.itqlick.com/vocalcom-cloud-contact-center/pricing" target="_blank" rel="noopener" title="Source 22">22</a></td>
+<td>Pro 200 $, Enterprise 350 $ par utilisateur et par mois</td>
+<td>Isolé, très au-dessus des autres <span class="nc">non confirmé</span></td>
+</tr>
+<tr>
+<td>Capterra, fiche n° 255174 (2026) <a class="ref" href="https://www.capterra.com/p/255174/Vocalcom/" target="_blank" rel="noopener" title="Source 47">47</a></td>
+<td>« À partir de 65 € par mois »</td>
+<td>Probablement une ancienne fiche produit, pas Hermes360 <span class="nc">non confirmé</span></td>
+</tr>
+<tr>
+<td>Spendbase (non datée) <a class="ref" href="https://www.spendbase.co/?p=41144" target="_blank" rel="noopener" title="Source 48">48</a></td>
+<td>Salesforce Edition : environ 80 $ par utilisateur et par mois en Starter</td>
+<td>Estimation d'un seul site <span class="nc">non confirmé</span></td>
+</tr>
+<tr>
+<td>Zoftwarehub (non datée) <a class="ref" href="https://zoftwarehub.com/products/vocalcom-hermes360/pricing" target="_blank" rel="noopener" title="Source 21">21</a></td>
+<td>Formules Pro, Enterprise, Premium sur devis ; version gratuite limitée ; licence définitive possible</td>
+<td>Source unique ; la version gratuite n'apparaît nulle part ailleurs <span class="nc">non confirmé</span></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Ordre de grandeur.</strong> Retenons environ 55 à 190 $ par poste et par mois en engagement annuel, à confirmer sur devis <a class="ref" href="https://test.spendbase.co/?p=38978" target="_blank" rel="noopener" title="Source 8">8</a>. Pour 2 à 4 postes, cela ferait environ 110 à 760 $ par mois. Ce calcul est le nôtre, à partir d'estimations. Il ne comprend pas :</p>
+<ul>
+<li>les minutes de téléphone et les numéros ;</li>
+<li>la mise en service et la formation ;</li>
+<li>un éventuel nombre minimum de postes.</li>
+</ul>
+<p>Aucun de ces coûts n'est connu. Spendbase évoque jusqu'à 40 % de remise en échange d'un engagement d'un à trois ans <a class="ref" href="https://www.spendbase.co/fr/?p=38977" target="_blank" rel="noopener" title="Source 49">49</a> <span class="nc">non confirmé</span>.</p>
+<p><strong>Introuvables :</strong></p>
+<ul>
+<li>le prix du connecteur HUCC ;</li>
+<li>le nombre minimum de postes ;</li>
+<li>les frais de mise en service ;</li>
+<li>la durée d'engagement ;</li>
+<li>le coût des communications ;</li>
+<li>les conditions de l'essai gratuit, mentionné sans détail par Capterra, SoftwareSuggest et Appvizer <a class="ref" href="https://www.capterra.com/p/255174/Vocalcom/" target="_blank" rel="noopener" title="Source 47">47</a><a class="ref" href="https://www.softwaresuggest.com/vocalcom" target="_blank" rel="noopener" title="Source 45">45</a><a class="ref" href="https://www.appvizer.fr/relation-client/centre-appel/vocalcom" target="_blank" rel="noopener" title="Source 50">50</a> ;</li>
+<li>un revendeur français.</li>
+</ul>
+<p><strong>Les avis d'utilisateurs</strong> sont peu nombreux et ont été relevés sans être revérifiés :</p>
+<ul>
+<li>Capterra France : 4,9/5 sur 17 avis <a class="ref" href="https://www.capterra.fr/software/1022651/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 51">51</a> ;</li>
+<li>G2 : 4,6/5 sur 11 avis <a class="ref" href="https://www.g2.com/products/vocalcom/reviews" target="_blank" rel="noopener" title="Source 52">52</a>. Les points forts cités sont la mise en place, la stabilité et les intégrations. Les points faibles sont les délais du support quand un problème remonte, les statistiques fournies et l'interface ;</li>
+<li>Software Advice : un utilisateur juge l'outil efficace pour la prospection commerciale <a class="ref" href="https://softwareadvice.fr/software/340225/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 53">53</a> ;</li>
+<li>GetApp : les avis détaillés datent de 2013 et 2018 <a class="ref" href="https://www.getapp.co.uk/software/2053433/vocalcom-hermes360" target="_blank" rel="noopener" title="Source 4">4</a>.</li>
+</ul>
+<p>Tous ces avis viennent surtout de moyennes et grandes entreprises <span class="nc">non confirmé</span>. Nous n'avons trouvé aucun retour récent d'une petite équipe.</p>
+<h3>4.2 Pour comparer : les autres grandes suites de centre de contacts</h3>
+<ul>
+<li><strong>Genesys Cloud CX</strong> : 75 $ (voix seule), 115 $, 155 $ et 240 $ par utilisateur et par mois en facturation annuelle, communications en plus <a class="ref" href="https://www.cekura.ai/blogs/genesys-cloud-cx-pricing" target="_blank" rel="noopener" title="Source 54">54</a><a class="ref" href="https://www.ringly.io/blog/genesys-pricing" target="_blank" rel="noopener" title="Source 55">55</a><a class="ref" href="https://www.cloudtalk.io/fr/blog/tarification-genesys/" target="_blank" rel="noopener" title="Source 56">56</a>.</li>
+<li><strong>Five9</strong> : la formule Core (159 $ par poste et par mois) est la première qui inclut la voix, avec un <strong>minimum de 50 postes</strong>, soit environ 7 950 $ par mois <a class="ref" href="https://aloware.com/blog/five9-pricing" target="_blank" rel="noopener" title="Source 57">57</a><a class="ref" href="https://www.ringly.io/blog/five9-pricing" target="_blank" rel="noopener" title="Source 58">58</a>.</li>
+<li><strong>NICE CXone</strong> (110 à 249 $) et <strong>Talkdesk</strong> (85 à 225 $) <a class="ref" href="https://www.getmacha.com/blog/five9-vs-genesys-vs-talkdesk" target="_blank" rel="noopener" title="Source 59">59</a> <span class="nc">non confirmé</span>.</li>
+</ul>
+<p>Hermès joue dans cette catégorie : des outils faits pour des centres d'appels, pas pour une équipe de quatre.</p>
+<h3>4.3 Questions de prix à poser à un commercial Vocalcom</h3>
+<ul>
+<li>Y a-t-il un nombre minimum de postes ? Une offre pour 2 à 4 utilisateurs ?</li>
+<li>Quel est le prix par poste et par mois, en mensuel et en annuel ? Quelle formule faut-il pour le numéroteur en mode preview ou progressif ?</li>
+<li>Combien coûtent la mise en service, la formation et le connecteur HUCC ?</li>
+<li>Les communications vers les fixes et les mobiles français sont-elles comprises ? Sinon, quel est leur prix ? Combien coûte un numéro sortant ?</li>
+<li>Quelle est la durée d'engagement, quel est le préavis de résiliation, et comment le prix évolue-t-il au renouvellement ?</li>
+<li>Existe-t-il un essai gratuit ? Pour combien de temps et combien de postes ?</li>
+</ul>
+</section>
+<section class="sec" id="s5"><h2><span class="num">5</span>Les alternatives</h2>
+<p>Les prix ci-dessous sont des relevés de sites tiers, en euros hors taxes par utilisateur et par mois sauf mention contraire. Nos sources ne confirment l'import CSV et l'envoi d'e-mails en série (séquences) pour <strong>aucun</strong> outil. Seul le numéroteur est confirmé, chez Aircall (formule Professional) et Ringover (formule Business). Dans le tableau, « à vérifier » veut dire qu'il faut tester pendant l'essai gratuit.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Outil</th>
+<th>Prix par utilisateur et par mois</th>
+<th>Numéroteur</th>
+<th>Import CSV</th>
+<th>Séquences e-mail</th>
+<th>Adapté à notre équipe ?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Notre CRM actuel + nos téléphones</strong></td>
+<td>0 € (déjà en place)</td>
+<td>Non : on compose à la main</td>
+<td>Oui : notre CRM exporte déjà en CSV</td>
+<td>Non</td>
+<td><strong>Oui, pour une première vague</strong></td>
+</tr>
+<tr>
+<td>Onoff Business (second numéro professionnel sur le mobile)</td>
+<td>Environ 9 € par numéro, sans engagement <a class="ref" href="https://entreprises.selectra.info/telecom/byod" target="_blank" rel="noopener" title="Source 60">60</a> <span class="nc">non confirmé</span></td>
+<td>Non indiqué</td>
+<td>Sans objet</td>
+<td>Non</td>
+<td>Utile pour séparer appels pro et perso</td>
+</tr>
+<tr>
+<td>Ringover Smart</td>
+<td>21 € en annuel, avec 12 mois d'engagement ; environ 29 € en mensuel <a class="ref" href="https://skipcall.io/avis/ringover" target="_blank" rel="noopener" title="Source 61">61</a><a class="ref" href="https://ses-info.fr/ringover-avis-fonctionnalites-tarifs-et-alternatives-en-2026/" target="_blank" rel="noopener" title="Source 62">62</a><a class="ref" href="https://www.logiciels.pro/ringover/" target="_blank" rel="noopener" title="Source 63">63</a></td>
+<td><strong>Non</strong> (pas de numéroteur de prospection) <a class="ref" href="https://skipcall.io/avis/ringover" target="_blank" rel="noopener" title="Source 61">61</a></td>
+<td>À vérifier</td>
+<td>Messagerie en option, environ 29 $ <a class="ref" href="https://squaretalk.com/resources/ringover-pricing/" target="_blank" rel="noopener" title="Source 64">64</a> <span class="nc">non confirmé</span></td>
+<td>Possible pour la téléphonie seule</td>
+</tr>
+<tr>
+<td>Ringover Business</td>
+<td>44 € en annuel, avec 12 mois d'engagement (parfois relevé à 47 €) ; environ 54 € en mensuel <a class="ref" href="https://ses-info.fr/ringover-avis-fonctionnalites-tarifs-et-alternatives-en-2026/" target="_blank" rel="noopener" title="Source 62">62</a><a class="ref" href="https://www.appvizer.fr/technologie/telecommunication/ringover-group" target="_blank" rel="noopener" title="Source 65">65</a><a class="ref" href="https://www.prospection-ciblee.com/ringover-tarif/" target="_blank" rel="noopener" title="Source 66">66</a>. Minimum de 3 licences selon certaines sources, soit au moins 132 € par mois <a class="ref" href="https://skipcall.io/avis/ringover" target="_blank" rel="noopener" title="Source 61">61</a></td>
+<td><strong>Oui</strong></td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>Oui, si le volume d'appels le justifie</td>
+</tr>
+<tr>
+<td>Aircall Essentials</td>
+<td>30 € en annuel, 40 € en mensuel ; <strong>3 licences minimum</strong>, soit au moins 90 € par mois <a class="ref" href="https://www.cloudtalk.io/fr/blog/tarification-aircall/" target="_blank" rel="noopener" title="Source 67">67</a><a class="ref" href="https://paradial.io/aircall-tarifs" target="_blank" rel="noopener" title="Source 68">68</a><a class="ref" href="https://aircall.io/pricing/" target="_blank" rel="noopener" title="Source 69">69</a></td>
+<td>Non</td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>Moyen : on paie 3 licences même à deux</td>
+</tr>
+<tr>
+<td>Aircall Professional</td>
+<td>50 € en annuel, 70 € en mensuel ; 3 licences minimum, soit au moins 150 € par mois (environ 1 800 € par an) <a class="ref" href="https://www.cloudtalk.io/fr/blog/tarification-aircall/" target="_blank" rel="noopener" title="Source 67">67</a><a class="ref" href="https://paradial.io/aircall-tarifs" target="_blank" rel="noopener" title="Source 68">68</a><a class="ref" href="https://www.unkoa.com/aircall-review/" target="_blank" rel="noopener" title="Source 70">70</a></td>
+<td><strong>Oui</strong></td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>Oui, si le volume d'appels le justifie</td>
+</tr>
+<tr>
+<td>Kavkom</td>
+<td>Pack Basic à 8 €, qui ne fait que recevoir des appels ; le Pack Plus, nécessaire pour appeler, n'a pas de prix publié <a class="ref" href="https://skipcall.io/comparatif/ringover-vs-kavkom" target="_blank" rel="noopener" title="Source 71">71</a><a class="ref" href="https://skipcall.io/alternative-a-kavkom" target="_blank" rel="noopener" title="Source 72">72</a> <span class="nc">non confirmé</span> ; « à partir de 10 € » selon Capterra <a class="ref" href="https://www.capterra.fr/software/140624/predictive-dialer-pbx" target="_blank" rel="noopener" title="Source 73">73</a> <span class="nc">non confirmé</span></td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>À étudier, prix réel inconnu</td>
+</tr>
+<tr>
+<td>Pipedrive (CRM)</td>
+<td>Lite 14 €, Growth 39 €, Premium 59 €, Ultimate 79 € par siège en annuel ; 24, 49, 79 et 99 € en mensuel ; essai de 14 jours <a class="ref" href="https://www.hellocognito.fr/blog/pipedrive-tarifs" target="_blank" rel="noopener" title="Source 74">74</a><a class="ref" href="https://meetergo.com/fr/blog/pipedrive-tarif" target="_blank" rel="noopener" title="Source 75">75</a><a class="ref" href="https://bizzy.ai/blog/pipedrive-pricing" target="_blank" rel="noopener" title="Source 76">76</a></td>
+<td>Non vérifié</td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>Seulement si notre CRM ne suffit plus</td>
+</tr>
+<tr>
+<td>HubSpot Sales Hub Starter (CRM)</td>
+<td>20 € par siège (prix catalogue). Le prix de 7 € en annuel est une promotion temporaire qui peut remonter à 20 € au renouvellement <a class="ref" href="https://bizzy.ai/blog/hubspot-sales-hub-pricing" target="_blank" rel="noopener" title="Source 77">77</a><a class="ref" href="https://www.rerow.fr/post/hubspot-prix-tarifs" target="_blank" rel="noopener" title="Source 78">78</a><a class="ref" href="https://www.hublead.io/fr/hubspot-pricing-calculator" target="_blank" rel="noopener" title="Source 79">79</a></td>
+<td>Non vérifié</td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>Idem</td>
+</tr>
+<tr>
+<td>Zoho CRM Standard</td>
+<td>14 $ en annuel <a class="ref" href="https://hackceleration.com/fr/labs/comparatif/hubspot-vs-zoho" target="_blank" rel="noopener" title="Source 80">80</a> <span class="nc">non confirmé</span></td>
+<td>Non vérifié</td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>Idem</td>
+</tr>
+<tr>
+<td>noCRM.io (CRM de prospection français)</td>
+<td>22 à 33 €, ou « dès 13 $ », selon les comparatifs <a class="ref" href="https://rotek.fr/?p=45816" target="_blank" rel="noopener" title="Source 81">81</a><a class="ref" href="https://www.formalive.fr/meilleur-crm-commercial/" target="_blank" rel="noopener" title="Source 82">82</a> <span class="nc">non confirmé, chiffres contradictoires</span></td>
+<td>Non vérifié</td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>Idem</td>
+</tr>
+<tr>
+<td>Sellsy, Axonaut (CRM et gestion)</td>
+<td>Sellsy de 29 à 49 € (2 utilisateurs minimum selon un comparatif) <a class="ref" href="https://go.sellsy.com/blog/meilleurs-logiciels-crm" target="_blank" rel="noopener" title="Source 83">83</a> ; Axonaut de 28 à 70 € par mois selon l'engagement <a class="ref" href="https://www.codeur.com/comparatif/logiciel-crm" target="_blank" rel="noopener" title="Source 84">84</a> <span class="nc">non confirmé</span></td>
+<td>Non vérifié</td>
+<td>À vérifier</td>
+<td>À vérifier</td>
+<td>Idem</td>
+</tr>
+<tr>
+<td>Hermes360 (Vocalcom)</td>
+<td>Sur devis ; estimations de 55 à 190 $ par poste <a class="ref" href="https://test.spendbase.co/?p=38978" target="_blank" rel="noopener" title="Source 8">8</a> <span class="nc">non confirmé</span></td>
+<td>Oui : preview, progressif, prédictif <a class="ref" href="https://www.vocalcom.com/outbound-call-center-solution/dialer/" target="_blank" rel="noopener" title="Source 27">27</a> <span class="nc">source éditeur</span></td>
+<td>Oui, par assistant <a class="ref" href="https://www.vocalcom.com/outbound-call-center-solution/dialer/" target="_blank" rel="noopener" title="Source 27">27</a> <span class="nc">source éditeur, format non public</span></td>
+<td>Canal e-mail inclus ; séquences non documentées</td>
+<td><strong>Non, surdimensionné</strong></td>
+</tr>
+<tr>
+<td>Genesys, Five9</td>
+<td>75 à 240 $ ; Five9 à 159 $ avec 50 postes minimum <a class="ref" href="https://www.cekura.ai/blogs/genesys-cloud-cx-pricing" target="_blank" rel="noopener" title="Source 54">54</a><a class="ref" href="https://aloware.com/blog/five9-pricing" target="_blank" rel="noopener" title="Source 57">57</a></td>
+<td>Oui</td>
+<td>Non vérifié</td>
+<td>Non vérifié</td>
+<td><strong>Non</strong></td>
+</tr>
+</tbody>
+</table></div>
+<p>Diabolocom, Kiamo, Axialys et Keyyo n'affichent pas de prix. Diabolocom vise les grands comptes <a class="ref" href="https://justcall.io/fr/blog/meilleurs-outils-centres-appel-virtuels.html" target="_blank" rel="noopener" title="Source 85">85</a> <span class="nc">non confirmé</span>.</p>
+<p><strong>Notre recommandation.</strong></p>
+<ol>
+<li><strong>Dès maintenant (presque 0 €).</strong> Appelons avec notre CRM et nos téléphones. Avec 125 à 250 fiches par personne, un numéroteur n'est pas indispensable. Le CRM suit déjà le statut, le responsable, les relances et les oppositions. Pour séparer les appels professionnels, un second numéro Onoff (environ 9 € par mois) peut suffire <span class="nc">prix non confirmé</span>. Envoyons les e-mails depuis nos messageries, un par un ou par petits lots, en respectant les règles de la partie 6.</li>
+<li><strong>Si le volume ou le suivi le justifient.</strong> Si l'on n'arrive pas à composer assez d'appels à la main, ou si l'on veut des statistiques d'appel, testons Aircall Professional ou Ringover Business pendant leur essai, avant tout engagement. Il faut alors compter, avec un engagement d'un an le plus souvent : Ringover Business à 88 € par mois à deux, ou 132 € si 3 licences sont imposées (point non tranché) ; Aircall Professional à 150 € par mois au minimum (3 licences) ; environ 176 à 200 € par mois à quatre. Pendant l'essai, vérifions trois points : l'import de notre CSV, l'export des résultats, et le numéro affiché (voir la règle de l'ARCEP en partie 6).</li>
+<li><strong>Un CRM du marché</strong> (Pipedrive, HubSpot) ne servirait que si notre page ne suffisait plus. Pour l'instant, il ferait double emploi.</li>
+<li><strong>Hermès / Vocalcom : non</strong>, sauf à devenir un vrai centre d'appels.</li>
+</ol>
+</section>
+<section class="sec" id="s6"><h2><span class="num">6</span>Le cadre légal de la prospection B2B en 2026</h2>
+<p>Les textes eux-mêmes n'ont pas été lus sur Légifrance, et la décision de l'ARCEP n'a pas été consultée à la source. Les sources officielles utilisées sont la DGCCRF, la CNIL et la jurisprudence de la Cour de cassation (rapportée par Dalloz).</p>
+<h3>6.1 Le téléphone</h3>
+<p><strong>Le nouveau régime, en vigueur depuis le 11/08/2026.</strong> Il découle de la loi n° 2025-594 du 30 juin 2025 (article 13, qui réécrit l'article L223-1 du Code de la consommation) et du décret n° 2026-662 du 23 juillet 2026. Pour démarcher un <strong>consommateur</strong> par téléphone, il faut désormais son accord préalable, et Bloctel disparaît <a class="ref" href="https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/demarchage-telephonique-professionnels-mettez-vous-en-conformite-avec-la-reglementation" target="_blank" rel="noopener" title="Source 86">86</a><a class="ref" href="https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-regles-du-demarchage-telephonique-simposant-aux-entreprises?lang=en" target="_blank" rel="noopener" title="Source 87">87</a><a class="ref" href="https://www.donneespersonnelles.fr/demarchage-telephonique" target="_blank" rel="noopener" title="Source 88">88</a><a class="ref" href="https://www.leclubdesjuristes.com/en-bref/demarchage-telephonique-le-consentement-prealable-devient-obligatoire-a-partir-du-11-aout-2026-17147/" target="_blank" rel="noopener" title="Source 89">89</a><a class="ref" href="https://next.ink/249950/fin-de-bloctel-interdiction-du-demarchage-des-le-11-aout-on-fait-le-point/" target="_blank" rel="noopener" title="Source 90">90</a>.</p>
+<ul>
+<li><strong>Le consentement</strong> doit être libre, spécifique, éclairé, univoque et révocable. C'est au professionnel de le prouver, et il doit garder cette preuve au moins 3 ans <a class="ref" href="https://www.ghr.fr/reglementation-fiscalite/demarchage-telephonique-ce-qui-change-depuis-le-11-aout-2026" target="_blank" rel="noopener" title="Source 91">91</a><a class="ref" href="https://www.consoglobe.com/?p=10410133" target="_blank" rel="noopener" title="Source 92">92</a><a class="ref" href="https://www.aesio.fr/articles/demarchage-telephonique-un-nouveau-dispositif-entre-en-vigueur" target="_blank" rel="noopener" title="Source 93">93</a><a class="ref" href="https://www.donneespersonnelles.fr/demarchage-telephonique" target="_blank" rel="noopener" title="Source 88">88</a>. Il vaudrait au plus un an <span class="nc">non confirmé</span>.</li>
+<li><strong>Les exceptions</strong> : un contrat en cours d'exécution, et la vente de journaux et de magazines <a class="ref" href="https://www.ghr.fr/reglementation-fiscalite/demarchage-telephonique-ce-qui-change-depuis-le-11-aout-2026" target="_blank" rel="noopener" title="Source 91">91</a><a class="ref" href="https://www.donneespersonnelles.fr/demarchage-telephonique" target="_blank" rel="noopener" title="Source 88">88</a>.</li>
+<li><strong>Les sanctions</strong> : jusqu'à 375 000 € d'amende pour une société (personne morale) <a class="ref" href="https://blog.hubspot.fr/sales/alternatives-demarchage-telephonique" target="_blank" rel="noopener" title="Source 94">94</a><a class="ref" href="https://www.legalplace.fr/actualites/demarchage-telephonique/" target="_blank" rel="noopener" title="Source 95">95</a>. La nullité des contrats conclus en infraction est évoquée, sans confirmation <span class="nc">non confirmé</span>.</li>
+</ul>
+<p><strong>Et pour nous, qui appelons des entreprises ?</strong> Les fiches de la DGCCRF visent le cas d'un professionnel qui contacte un consommateur <a class="ref" href="https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/demarchage-telephonique-professionnels-mettez-vous-en-conformite-avec-la-reglementation" target="_blank" rel="noopener" title="Source 86">86</a>. Le cabinet CMS, donneespersonnelles.fr et HubSpot décrivent eux aussi l'interdiction pour le consommateur, c'est-à-dire une personne qui agit pour ses besoins privés <a class="ref" href="https://cms.law/en/fra/news-information/interdiction-prochaine-du-demarchage-telephonique-sans-consentement-prealable-du-consommateur" target="_blank" rel="noopener" title="Source 96">96</a><a class="ref" href="https://www.donneespersonnelles.fr/demarchage-telephonique" target="_blank" rel="noopener" title="Source 88">88</a><a class="ref" href="https://blog.hubspot.fr/sales/alternatives-demarchage-telephonique" target="_blank" rel="noopener" title="Source 94">94</a>. Un seul guide non officiel parle aussi d'un « professionnel non sollicité » <a class="ref" href="https://ztienbgltzuajvpvzhdo.supabase.co/storage/v1/object/public/vapi-assets/Guide_Loi_Teleprospection_2026.pdf" target="_blank" rel="noopener" title="Source 97">97</a>. <strong>Conclusion : nos appels vers des entreprises échappent très probablement au consentement préalable, mais il faut le vérifier dans l'article L223-1 sur Légifrance ou auprès d'un juriste.</strong> Deux précautions s'imposent :</p>
+<ul>
+<li>prudence avec les entrepreneurs individuels joints sur une ligne personnelle, car la frontière avec le consommateur est floue <a class="ref" href="https://www.ghr.fr/reglementation-fiscalite/demarchage-telephonique-ce-qui-change-depuis-le-11-aout-2026" target="_blank" rel="noopener" title="Source 91">91</a> ;</li>
+<li>le RGPD s'applique toujours. Il faut informer la personne, s'appuyer sur notre « intérêt légitime » à prospecter, et respecter son droit de refuser, d'où la colonne <code>opposition_prospection</code> <a class="ref" href="https://www.donneespersonnelles.fr/demarchage-telephonique" target="_blank" rel="noopener" title="Source 88">88</a><a class="ref" href="https://www.swim.legal/blog/demarchage-telephonique-2026-loi" target="_blank" rel="noopener" title="Source 98">98</a>.</li>
+</ul>
+<p><strong>Les jours et heures d'appel.</strong> Le décret n° 2022-1313, en vigueur depuis le 01/03/2023, limite le démarchage des consommateurs <a class="ref" href="https://www.economie.gouv.fr/dgccrf/un-nouveau-decret-pour-lencadrement-des-jours-horaires-et-frequence-pour-le-demarchage-0" target="_blank" rel="noopener" title="Source 99">99</a> :</p>
+<ul>
+<li>du lundi au vendredi, de 10 h à 13 h et de 14 h à 20 h ;</li>
+<li>jamais le samedi, le dimanche ni les jours fériés ;</li>
+<li>au plus 4 sollicitations par période de 30 jours.</li>
+</ul>
+<p>Ce texte ne vise que les consommateurs, et nous ne savons pas s'il reste en vigueur après la réforme d'août 2026. C'est néanmoins une bonne pratique à suivre.</p>
+<p><strong>Le numéro affiché (règle de l'ARCEP, décision n° 2022-1583).</strong> Depuis le 01/01/2023, les plateformes de démarchage et les systèmes d'appel automatisés ne peuvent plus afficher un numéro de mobile (06, 07) ni un numéro fixe classique (01 à 05). Ils doivent utiliser les préfixes 0162/0163, 0270/0271, 0377/0378, 0424/0425, 0568/0569 ou 0948/0949 <a class="ref" href="https://tranquilitel.com/blogs/infos/indicatifs-demarchage-telephonique-0162-0163-0948" target="_blank" rel="noopener" title="Source 100">100</a><a class="ref" href="https://nordvpn.com/fr/blog/numeros-0948-demarchage-telephonique/" target="_blank" rel="noopener" title="Source 101">101</a><a class="ref" href="https://www.justgeek.fr/evitez-le-demarchage-telephonique-grace-aux-nouvelles-regles-de-larcep-103958/" target="_blank" rel="noopener" title="Source 102">102</a><a class="ref" href="https://www.quechoisir.org/actualite-demarchage-telephonique-interdit-a-partir-de-numeros-de-telephone-mobile-n105035/" target="_blank" rel="noopener" title="Source 103">103</a><a class="ref" href="https://selectra.info/telecom/actualites/marche/numeros-demarchage-0162-0948-automates" target="_blank" rel="noopener" title="Source 104">104</a>.</p>
+<ul>
+<li>Pour la Nièvre (indicatif 03 86, zone 03), cela donnerait un numéro en 0377/0378, ou en 0948/0949.</li>
+<li>La règle vise surtout les numéroteurs et les plateformes d'appels. Pour des appels passés à la main, depuis nos mobiles ou depuis un outil de téléphonie en ligne, nos sources ne tranchent pas : certaines parlent des « systèmes automatisés », d'autres de tous les « démarcheurs » <span class="nc">non confirmé</span>.</li>
+<li>Selon la presse, ces préfixes faciles à repérer sont souvent filtrés, ce qui fait baisser le taux de réponse <a class="ref" href="https://www.blogdumoderateur.com/demarchage-telephonique-detecter-appels-spams/" target="_blank" rel="noopener" title="Source 105">105</a><a class="ref" href="https://www.ffbatiment.fr/actualites-batiment/actualite-ba/demarchage-telephonique-des-numeros-plus-faciles-a-reperer-et-a-bloquer" target="_blank" rel="noopener" title="Source 106">106</a>.</li>
+</ul>
+<p><strong>Si un outil enregistre les appels.</strong> Selon la CNIL, la personne doit être informée oralement dès le début de l'appel : existence de l'enregistrement, but, droit de s'y opposer. Elle doit pouvoir s'y opposer avant la fin de la conversation <a class="ref" href="https://cnil.fr/fr/lenregistrement-des-conversations-telephoniques-afin-detablir-la-preuve-de-la-formation-dun-contrat" target="_blank" rel="noopener" title="Source 107">107</a> <span class="nc">non recoupé</span>. Les durées de conservation de référence sont de 6 mois pour l'enregistrement et d'un an pour les analyses <a class="ref" href="https://www.donneespersonnelles.fr/enregistrement-appels-telephoniques-rgpd" target="_blank" rel="noopener" title="Source 108">108</a> <span class="nc">non confirmé</span>. Le plus simple pour nous : ne pas enregistrer.</p>
+<h3>6.2 L'e-mail</h3>
+<p>D'après la CNIL <a class="ref" href="https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel" target="_blank" rel="noopener" title="Source 44">44</a>, voici ce qui s'applique à la prospection par e-mail entre professionnels :</p>
+<ul>
+<li>On peut écrire sans accord préalable, sur la base de notre « intérêt légitime », <strong>si le message a un rapport avec la profession de la personne</strong>. Ce régime « d'opposition » vient de l'article L34-5 du Code des postes et des communications électroniques, selon la CCI Paris Île-de-France <a class="ref" href="https://www.entreprises.cci-paris-idf.fr/fiches-pratiques/prospection-commerciale-par-voie-electronique" target="_blank" rel="noopener" title="Source 109">109</a>.</li>
+<li>La personne doit être informée de l'usage de son adresse dès que nous la recueillons. La CNIL appuie ce point sur un arrêt de la Cour de justice de l'Union européenne du 13/11/2025.</li>
+<li>Chaque message doit indiquer qui l'envoie, et offrir un moyen simple et gratuit de ne plus rien recevoir (lien ou adresse de désinscription).</li>
+<li>La liste des personnes qui ont refusé (« liste repoussoir ») doit être conservée au moins 3 ans. Il ne faut donc pas effacer ces fiches, mais les marquer dans <code>opposition_prospection</code>, avec une date.</li>
+</ul>
+<p><strong>Pour notre offre.</strong> Le lien avec la fonction est défendable quand on écrit au dirigeant ou au responsable financier, car il s'agit d'une décision d'achat et de fiscalité. D'où l'intérêt des colonnes <code>decideur_financier</code> et <code>email_decideur</code>. Ce point reste à argumenter : c'est notre interprétation.</p>
+<p><strong>Deux points incertains.</strong></p>
+<ul>
+<li>Les adresses génériques (contact@…) seraient des coordonnées de l'entreprise et non d'une personne. Les adresses nominatives professionnelles pourraient être utilisées si le message concerne la fonction <a class="ref" href="https://donneespersonnelles.fr/prospection-commerciale-rgpd" target="_blank" rel="noopener" title="Source 110">110</a><a class="ref" href="https://www.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE65678.pdf" target="_blank" rel="noopener" title="Source 111">111</a> <span class="nc">non confirmé</span>.</li>
+<li>Selon un site tiers, la CNIL aurait admis le 16/10/2026 qu'on peut deviner l'adresse e-mail professionnelle d'un prospect, sous conditions <a class="ref" href="https://tensoria.fr/blog/cnil-reconstitution-email-professionnel-prospection-b2b" target="_blank" rel="noopener" title="Source 112">112</a> <span class="nc">non confirmé : aucune page de la CNIL ne le montre</span>. En attendant, mieux vaut n'utiliser que des adresses trouvées.</li>
+</ul>
+<h3>6.3 La vente : le droit de rétractation des très petites entreprises</h3>
+<p>L'article L221-3 du Code de la consommation étend certaines protections du consommateur à une entreprise qui signe un contrat <strong>hors de nos locaux</strong> (par exemple chez elle, lors d'un rendez-vous). Deux conditions doivent être réunies :</p>
+<ul>
+<li>l'achat sort de son activité principale ;</li>
+<li>elle compte <strong>5 salariés au plus</strong>.</li>
+</ul>
+<p>Elle a alors droit à une information précontractuelle et à un <strong>délai de rétractation de 14 jours</strong> <a class="ref" href="https://www.actu-juridique.fr/civil/obligations-contrats/retour-sur-lapplication-entre-professionnels-des-regles-relatives-aux-contrats-conclus-hors-etablissements/" target="_blank" rel="noopener" title="Source 113">113</a><a class="ref" href="https://www.lemondedudroit.fr/affaires/272-contrats/60586-droit-de-retraction-un-professionnel-peut-sen-prevaloir-si-lobjet-du-contrat-ne-concerne-pas-son-activite-principale.html" target="_blank" rel="noopener" title="Source 114">114</a><a class="ref" href="https://www.dalloz-actualite.fr/document/civ-1re-31-aout-2022-f-b-n-21-11455" target="_blank" rel="noopener" title="Source 115">115</a>. La Cour de cassation (1re chambre civile, 31/08/2022, n° 21-11.455) apprécie l'« activité principale » d'après le métier réellement exercé, et non d'après l'utilité du bien <a class="ref" href="https://www.dalloz-actualite.fr/document/civ-1re-31-aout-2022-f-b-n-21-11455" target="_blank" rel="noopener" title="Source 115">115</a>.</p>
+<p>Une petite entreprise qui achète une œuvre lors d'un rendez-vous chez elle entre donc très probablement dans ce cas. Nos documents de vente doivent prévoir l'information précontractuelle et un formulaire de rétractation. Par prudence, mieux vaut ne pas encaisser avant la fin du délai (conseil tiré de nos recherches, à confirmer avec un juriste).</p>
+</section>
+<section class="sec" id="s7"><h2><span class="num">7</span>Questions à poser avant de s&#x27;abonner</h2>
+<p><strong>À Vocalcom (et à tout autre fournisseur) :</strong></p>
+<ol>
+<li>Quel est le nombre minimum de postes ? Le prix total pour 2, 3 ou 4 utilisateurs, mise en service, formation et communications comprises ?</li>
+<li>Quelle est la durée d'engagement, le préavis de résiliation, la règle de hausse des prix ? Récupère-t-on nos données en partant, et sous quel format ?</li>
+<li>Le numéroteur en mode preview ou progressif est-il inclus dans la formule d'entrée ?</li>
+<li>Quel est le format d'import exact ? Colonnes obligatoires, écriture des numéros (+33, 0X ou 0033), séparateur point-virgule, UTF-8 avec BOM, nombre de champs personnalisés, taille maximale.</li>
+<li>Peut-on exporter les résultats d'appel (code, commentaire, date et heure, nombre de tentatives, rappel prévu) avec notre identifiant (SIREN), pour les réimporter dans notre CRM ?</li>
+<li>Existe-t-il une API publique ou un connecteur générique pour un CRM maison ? Combien coûte le HUCC, et fonctionne-t-il sans Salesforce, Dynamics ou Zendesk ?</li>
+<li>Peut-on planifier un rappel à une date et une heure précises, réservé à un appelant ? Comment fonctionne la liste d'exclusion ?</li>
+<li>Fournissez-vous un numéro sortant conforme à la règle de l'ARCEP (0377/0378 ou 0948/0949) ? Quel est l'effet constaté sur le taux de réponse ?</li>
+<li>L'enregistrement des appels peut-il être désactivé ? Sinon, le message d'information est-il prévu ?</li>
+<li>Où sont hébergées nos données (dans l'Union européenne ?) ? Fournissez-vous un contrat de sous-traitance conforme au RGPD ?</li>
+<li>Le support est-il en français ? À quels horaires, et dans quels délais ?</li>
+<li>Existe-t-il un essai gratuit ? Pour combien de temps et combien de postes ?</li>
+<li>Pour Vocalcom en particulier : qui est l'actionnaire aujourd'hui, et quelle est la feuille de route du produit après le changement de 2025-2026 ?</li>
+</ol>
+<p><strong>À vérifier de notre côté :</strong></p>
+<ol>
+<li>Sur Légifrance, ou auprès d'un juriste, que l'article L223-1 du Code de la consommation (consentement préalable) ne s'applique pas à nos appels vers des entreprises, ni aux entrepreneurs individuels.</li>
+<li>Si la règle de l'ARCEP sur les numéros affichés concerne des appels manuels passés depuis nos mobiles.</li>
+<li>Que nos documents de vente respectent l'article L221-3 : information précontractuelle et formulaire de rétractation de 14 jours pour les entreprises de 5 salariés au plus.</li>
+<li>Que chaque e-mail indique l'expéditeur et un moyen gratuit de se désinscrire, et que chaque refus est daté et conservé dans <code>opposition_prospection</code>.</li>
+</ol>
+</section>
+<section class="sec sources" id="s8"><h2><span class="num">8</span>Sources</h2>
+<p>Toutes les sources ont été trouvées par recherche web le 22/10/2026 ou peu avant ; seuls les titres et extraits ont été lus. « Date inconnue » signifie que la date n'apparaissait pas dans l'extrait.</p>
+<ol>
+<li>AMF, document Altamir Amboise sur l'entrée au capital de Vocalcom — mai 2011. <a href="https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2011/05/FCACT014733_20110518.pdf" target="_blank" rel="noopener">https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2011/05/FCACT014733_20110518.pdf</a></li>
+<li>DestinationCRM, « Vocalcom Updates Its Contact Center Suite » (Hermes E3) — vers 2014. <a href="https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Vocalcom-Updates-Its-Contact-Center-Suite-94176.aspx" target="_blank" rel="noopener">https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Vocalcom-Updates-Its-Contact-Center-Suite-94176.aspx</a></li>
+<li>Gartner Peer Insights, Vocalcom Hermes360 — mise à jour en octobre 2025. <a href="https://www.gartner.com/reviews/product/vocalcom-hermes360" target="_blank" rel="noopener">https://www.gartner.com/reviews/product/vocalcom-hermes360</a></li>
+<li>GetApp (Royaume-Uni), Vocalcom Hermes360 — date inconnue (avis détaillés de 2013 et 2018). <a href="https://www.getapp.co.uk/software/2053433/vocalcom-hermes360" target="_blank" rel="noopener">https://www.getapp.co.uk/software/2053433/vocalcom-hermes360</a></li>
+<li>Cuspera, reprise de la brève « Vocalcom is back » — brève du 22/03/2026. <a href="https://www.cuspera.com/compare/super-receptionist-vs-vocalcom/8136/8223" target="_blank" rel="noopener">https://www.cuspera.com/compare/super-receptionist-vs-vocalcom/8136/8223</a></li>
+<li>En-Contact, « Meilleurtaux Santé, a railway company: Vocalcom signs its comeback » — mars 2024. <a href="https://en-contact.com/meilleurtaux-sante-a-railway-company-vocalcom-signs-its-comeback-with-two-significant-deals" target="_blank" rel="noopener">https://en-contact.com/meilleurtaux-sante-a-railway-company-vocalcom-signs-its-comeback-with-two-significant-deals</a></li>
+<li>Capterra (Nouvelle-Zélande), Vocalcom Hermes360 — date inconnue. <a href="https://www.capterra.co.nz/software/1022651/vocalcom-hermes360" target="_blank" rel="noopener">https://www.capterra.co.nz/software/1022651/vocalcom-hermes360</a></li>
+<li>Spendbase (sous-domaine « test »), prix estimés de Hermes360 — extrait d'octobre 2026. <a href="https://test.spendbase.co/?p=38978" target="_blank" rel="noopener">https://test.spendbase.co/?p=38978</a></li>
+<li>Yespress, fiche Vocalcom — août 2026. <a href="https://yespress.io/vocalcom.md" target="_blank" rel="noopener">https://yespress.io/vocalcom.md</a></li>
+<li>Fiche produit HUCC de Vocalcom (PDF publié sur l'AppExchange de Salesforce) — date inconnue. <a href="https://appexchange.salesforce.com/image_host/ebf1cc4c-c612-424a-a848-3e48d99b70c4.pdf" target="_blank" rel="noopener">https://appexchange.salesforce.com/image_host/ebf1cc4c-c612-424a-a848-3e48d99b70c4.pdf</a></li>
+<li>KMWorld, « Vocalcom reveals new contact center solution powered by AI » — vers 2020. <a href="https://www.kmworld.com/Articles/News/News/Vocalcom-reveals-new-contact-center-solution-powered-by-AI-140529.aspx" target="_blank" rel="noopener">https://www.kmworld.com/Articles/News/News/Vocalcom-reveals-new-contact-center-solution-powered-by-AI-140529.aspx</a></li>
+<li>Software Advice (Australie), fiche Vocalcom Hermes360 — date inconnue. <a href="https://www.softwareadvice.com.au/software/340225/vocalcom-hermes360" target="_blank" rel="noopener">https://www.softwareadvice.com.au/software/340225/vocalcom-hermes360</a></li>
+<li>SoftwareOne, fiche Vocalcom Hermes360 — date inconnue. <a href="https://platform.softwareone.com/product/call-center-solution/PCP-2874-8339" target="_blank" rel="noopener">https://platform.softwareone.com/product/call-center-solution/PCP-2874-8339</a></li>
+<li>Zoftwarehub, analyse de Vocalcom Hermes360 — date inconnue. <a href="https://zoftwarehub.com/en-ae/products/vocalcom-hermes360/zoftware-analysis" target="_blank" rel="noopener">https://zoftwarehub.com/en-ae/products/vocalcom-hermes360/zoftware-analysis</a></li>
+<li>Softwarefinder, Vocalcom (fonctions et prix) — date inconnue. <a href="https://softwarefinder.com/call-center/vocalcom" target="_blank" rel="noopener">https://softwarefinder.com/call-center/vocalcom</a></li>
+<li>Brochure Vocalcom en français (hébergée chez inwink) — date inconnue. <a href="https://cdn-assets.inwink.com/883856e7-7fad-4876-bb09-b02fa0d3c3a8/e795d0cf-94fc-41f5-8f08-797e70df29e9" target="_blank" rel="noopener">https://cdn-assets.inwink.com/883856e7-7fad-4876-bb09-b02fa0d3c3a8/e795d0cf-94fc-41f5-8f08-797e70df29e9</a></li>
+<li>Vocalcom, page « Télécommunications » — date inconnue. <a href="https://www.vocalcom.com/telecommunications/" target="_blank" rel="noopener">https://www.vocalcom.com/telecommunications/</a></li>
+<li>Cuspera, reprise d'une brève Vocalcom — 2026. <a href="https://www.cuspera.com/compare/vocalcom-vs-voicebase/8223/8403" target="_blank" rel="noopener">https://www.cuspera.com/compare/vocalcom-vs-voicebase/8223/8403</a></li>
+<li>Speech Technology Magazine, Vocalcom (suite Hermes Pro) — années 2000, date exacte inconnue. <a href="https://www.speechtechmag.com/Articles/News/Speech-Technology-News/VOCALCOM-Introduces-Smart-Customer-Interaction-34345.aspx" target="_blank" rel="noopener">https://www.speechtechmag.com/Articles/News/Speech-Technology-News/VOCALCOM-Introduces-Smart-Customer-Interaction-34345.aspx</a></li>
+<li>SourceWatch, Vocalcom — date inconnue (fait de 2008). <a href="https://www.sourcewatch.org/index.php/Vocalcom" target="_blank" rel="noopener">https://www.sourcewatch.org/index.php/Vocalcom</a></li>
+<li>Zoftwarehub, prix de Vocalcom Hermes360 — date inconnue. <a href="https://zoftwarehub.com/products/vocalcom-hermes360/pricing" target="_blank" rel="noopener">https://zoftwarehub.com/products/vocalcom-hermes360/pricing</a></li>
+<li>ITQlick, prix de Vocalcom — date inconnue. <a href="https://www.itqlick.com/vocalcom-cloud-contact-center/pricing" target="_blank" rel="noopener">https://www.itqlick.com/vocalcom-cloud-contact-center/pricing</a></li>
+<li>En-Contact, « Seven2 puts Vocalcom up for sale » — avril 2025. <a href="https://en-contact.com/seven2-puts-vocalcom-the-software-star-of-outbound-calls-in-call-centres-up-for-sale" target="_blank" rel="noopener">https://en-contact.com/seven2-puts-vocalcom-the-software-star-of-outbound-calls-in-call-centres-up-for-sale</a></li>
+<li>Cuspera, reprise d'une brève Vocalcom — 2026. <a href="https://www.cuspera.com/compare/vocalcom-vs-onavaya/8223/8252" target="_blank" rel="noopener">https://www.cuspera.com/compare/vocalcom-vs-onavaya/8223/8252</a></li>
+<li>En-Contact, « Vocalcom racheté par son fondateur Anthony Dinis » — 26/12/2025. <a href="https://en-contact.com/vocalcom-qui-equipe-des-milliers-de-call-centers-rachete-par-son-fondateur-anthony-dinis" target="_blank" rel="noopener">https://en-contact.com/vocalcom-qui-equipe-des-milliers-de-call-centers-rachete-par-son-fondateur-anthony-dinis</a></li>
+<li>PitchBook, profil Vocalcom — 2026. <a href="https://pitchbook.com/profiles/company/52191-82" target="_blank" rel="noopener">https://pitchbook.com/profiles/company/52191-82</a></li>
+<li>Vocalcom, page « Dialer » (numérotation sortante) — publiée vers 2022-2024. <a href="https://www.vocalcom.com/outbound-call-center-solution/dialer/" target="_blank" rel="noopener">https://www.vocalcom.com/outbound-call-center-solution/dialer/</a></li>
+<li>Puzzel (éditeur concurrent), documentation des modes de numérotation — date inconnue. <a href="https://help.puzzel.com/node/1583" target="_blank" rel="noopener">https://help.puzzel.com/node/1583</a></li>
+<li>Vonage, « preview, progressive and predictive diallers » — date inconnue. <a href="https://www.vonage.com/resources/articles/what-is-the-difference-between-preview-progressive-and-predictive-diallers/" target="_blank" rel="noopener">https://www.vonage.com/resources/articles/what-is-the-difference-between-preview-progressive-and-predictive-diallers/</a></li>
+<li>GetApp, Vocalcom Hermes360 — date inconnue. <a href="https://www.getapp.com/customer-management-software/a/vocalcom-hermes360/" target="_blank" rel="noopener">https://www.getapp.com/customer-management-software/a/vocalcom-hermes360/</a></li>
+<li>Zoftwarehub, détails produit Hermes360 — date inconnue. <a href="https://zoftwarehub.com/en-sa/products/vocalcom-hermes360/product-details" target="_blank" rel="noopener">https://zoftwarehub.com/en-sa/products/vocalcom-hermes360/product-details</a></li>
+<li>Motherbase, fiche Vocalcom — date inconnue. <a href="https://my.motherbase.ai/company/43351-vocalcom" target="_blank" rel="noopener">https://my.motherbase.ai/company/43351-vocalcom</a></li>
+<li>Vocalcom, page « Hermes Universal CRM Connectors » (version française) — date inconnue. <a href="https://www.vocalcom.com/fr/logiciel-call-center/integration-centre-contact/multi-connecteurs-crm/" target="_blank" rel="noopener">https://www.vocalcom.com/fr/logiciel-call-center/integration-centre-contact/multi-connecteurs-crm/</a></li>
+<li>Vocalcom, page d'accueil — date inconnue. <a href="https://www.vocalcom.com/" target="_blank" rel="noopener">https://www.vocalcom.com/</a></li>
+<li>Zawya, communiqué Vocalcom au GITEX Africa — probablement 2023. <a href="https://www.zawya.com/en/press-release/africa-press-releases/vocalcom-reaffirms-its-historical-position-as-an-innovative-global-leader-in-customer-relations-during-gitex-wyooszra" target="_blank" rel="noopener">https://www.zawya.com/en/press-release/africa-press-releases/vocalcom-reaffirms-its-historical-position-as-an-innovative-global-leader-in-customer-relations-during-gitex-wyooszra</a></li>
+<li>Capterra, Vocalcom Salesforce Edition — 2026. <a href="https://www.capterra.com/p/240475/Vocalcom-Salesforce-Edition/" target="_blank" rel="noopener">https://www.capterra.com/p/240475/Vocalcom-Salesforce-Edition/</a></li>
+<li>GetApp, Vocalcom Salesforce Edition — date inconnue. <a href="https://www.getapp.com/customer-management-software/a/vocalcom-salesforce-edition/" target="_blank" rel="noopener">https://www.getapp.com/customer-management-software/a/vocalcom-salesforce-edition/</a></li>
+<li>En-Contact, « Intelcia simplifies 7,000 benefit claims per day » — date inconnue (2025 probable). <a href="https://en-contact.com/thanks-to-vocalcoms-universal-connector-intelcia-simplifies-7000-benefit-claims-per-day" target="_blank" rel="noopener">https://en-contact.com/thanks-to-vocalcoms-universal-connector-intelcia-simplifies-7000-benefit-claims-per-day</a></li>
+<li>Blog Vocalcom, « New distribution of CRM in customer services » — date inconnue. <a href="https://vocalcom.com/blog/new-distribution-of-crm-in-customer-services" target="_blank" rel="noopener">https://vocalcom.com/blog/new-distribution-of-crm-in-customer-services</a></li>
+<li>Vocalcom, page « Logiciel de phoning » (version française) — vers 2022-2024. <a href="https://www.vocalcom.com/fr/logiciel-teleprospection/dialer/" target="_blank" rel="noopener">https://www.vocalcom.com/fr/logiciel-teleprospection/dialer/</a></li>
+<li>Zoho Voice, import des contacts d'une campagne par fichier CSV — 2025. <a href="https://www.zoho.com/voice/help/import-and-customize-campaign-contacts-via-csv-file.html" target="_blank" rel="noopener">https://www.zoho.com/voice/help/import-and-customize-campaign-contacts-via-csv-file.html</a></li>
+<li>Frontstage, listes d'appels sortants — date inconnue. <a href="https://docs.frontstage.online/supervisor/calls/outbound-lists.html" target="_blank" rel="noopener">https://docs.frontstage.online/supervisor/calls/outbound-lists.html</a></li>
+<li>Bright Pattern, configurer des campagnes sortantes — date inconnue. <a href="https://help.brightpattern.com/latest:Tutorials-for-admins/HowtoConfigureOutboundCampaigns" target="_blank" rel="noopener">https://help.brightpattern.com/latest:Tutorials-for-admins/HowtoConfigureOutboundCampaigns</a></li>
+<li>CNIL, « La prospection commerciale par courrier électronique, SMS, MMS et automate d'appel » (source officielle) — date inconnue (cite un arrêt de la CJUE du 13/11/2025). <a href="https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel" target="_blank" rel="noopener">https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique-sms-mms-et-automate-dappel</a></li>
+<li>SoftwareSuggest, Vocalcom — mise à jour du 30/04/2026. <a href="https://www.softwaresuggest.com/vocalcom" target="_blank" rel="noopener">https://www.softwaresuggest.com/vocalcom</a></li>
+<li>Kyodo News PR Wire, lancement de Click2Start par Vocalcom — 16/09/2015. <a href="https://kyodonewsprwire.jp/release/201509163683" target="_blank" rel="noopener">https://kyodonewsprwire.jp/release/201509163683</a></li>
+<li>Capterra, fiche Vocalcom n° 255174 — 2026. <a href="https://www.capterra.com/p/255174/Vocalcom/" target="_blank" rel="noopener">https://www.capterra.com/p/255174/Vocalcom/</a></li>
+<li>Spendbase, prix estimés de Vocalcom Salesforce Edition — date inconnue. <a href="https://www.spendbase.co/?p=41144" target="_blank" rel="noopener">https://www.spendbase.co/?p=41144</a></li>
+<li>Spendbase, remises sur Hermes360 — date inconnue. <a href="https://www.spendbase.co/fr/?p=38977" target="_blank" rel="noopener">https://www.spendbase.co/fr/?p=38977</a></li>
+<li>Appvizer, fiche Vocalcom — date inconnue. <a href="https://www.appvizer.fr/relation-client/centre-appel/vocalcom" target="_blank" rel="noopener">https://www.appvizer.fr/relation-client/centre-appel/vocalcom</a></li>
+<li>Capterra France, Vocalcom Hermes360 — 2026. <a href="https://www.capterra.fr/software/1022651/vocalcom-hermes360" target="_blank" rel="noopener">https://www.capterra.fr/software/1022651/vocalcom-hermes360</a></li>
+<li>G2, avis sur Vocalcom — 2026. <a href="https://www.g2.com/products/vocalcom/reviews" target="_blank" rel="noopener">https://www.g2.com/products/vocalcom/reviews</a></li>
+<li>Software Advice France, Vocalcom Hermes360 — date inconnue. <a href="https://softwareadvice.fr/software/340225/vocalcom-hermes360" target="_blank" rel="noopener">https://softwareadvice.fr/software/340225/vocalcom-hermes360</a></li>
+<li>Cekura, prix de Genesys Cloud CX — 2026. <a href="https://www.cekura.ai/blogs/genesys-cloud-cx-pricing" target="_blank" rel="noopener">https://www.cekura.ai/blogs/genesys-cloud-cx-pricing</a></li>
+<li>Ringly, prix de Genesys — 2026. <a href="https://www.ringly.io/blog/genesys-pricing" target="_blank" rel="noopener">https://www.ringly.io/blog/genesys-pricing</a></li>
+<li>CloudTalk, tarification de Genesys — 16/07/2026. <a href="https://www.cloudtalk.io/fr/blog/tarification-genesys/" target="_blank" rel="noopener">https://www.cloudtalk.io/fr/blog/tarification-genesys/</a></li>
+<li>Aloware, prix de Five9 — septembre-octobre 2026. <a href="https://aloware.com/blog/five9-pricing" target="_blank" rel="noopener">https://aloware.com/blog/five9-pricing</a></li>
+<li>Ringly, prix de Five9 — septembre-octobre 2026. <a href="https://www.ringly.io/blog/five9-pricing" target="_blank" rel="noopener">https://www.ringly.io/blog/five9-pricing</a></li>
+<li>Macha, « Five9 vs Genesys vs Talkdesk » — 2026. <a href="https://www.getmacha.com/blog/five9-vs-genesys-vs-talkdesk" target="_blank" rel="noopener">https://www.getmacha.com/blog/five9-vs-genesys-vs-talkdesk</a></li>
+<li>Selectra Entreprises, téléphonie BYOD (Onoff Business) — date inconnue. <a href="https://entreprises.selectra.info/telecom/byod" target="_blank" rel="noopener">https://entreprises.selectra.info/telecom/byod</a></li>
+<li>Skipcall, avis sur Ringover — relevé du 07/09/2026. <a href="https://skipcall.io/avis/ringover" target="_blank" rel="noopener">https://skipcall.io/avis/ringover</a></li>
+<li>SES-Info, « Ringover : avis, fonctionnalités, tarifs et alternatives en 2026 » — 2026. <a href="https://ses-info.fr/ringover-avis-fonctionnalites-tarifs-et-alternatives-en-2026/" target="_blank" rel="noopener">https://ses-info.fr/ringover-avis-fonctionnalites-tarifs-et-alternatives-en-2026/</a></li>
+<li>Logiciels.pro, fiche Ringover — 2026. <a href="https://www.logiciels.pro/ringover/" target="_blank" rel="noopener">https://www.logiciels.pro/ringover/</a></li>
+<li>Squaretalk, prix de Ringover — date inconnue. <a href="https://squaretalk.com/resources/ringover-pricing/" target="_blank" rel="noopener">https://squaretalk.com/resources/ringover-pricing/</a></li>
+<li>Appvizer, fiche Ringover — 2026. <a href="https://www.appvizer.fr/technologie/telecommunication/ringover-group" target="_blank" rel="noopener">https://www.appvizer.fr/technologie/telecommunication/ringover-group</a></li>
+<li>Prospection-ciblee.com, tarifs Ringover — date inconnue. <a href="https://www.prospection-ciblee.com/ringover-tarif/" target="_blank" rel="noopener">https://www.prospection-ciblee.com/ringover-tarif/</a></li>
+<li>CloudTalk (éditeur concurrent), tarification Aircall — 07/07/2026. <a href="https://www.cloudtalk.io/fr/blog/tarification-aircall/" target="_blank" rel="noopener">https://www.cloudtalk.io/fr/blog/tarification-aircall/</a></li>
+<li>Paradial, tarifs Aircall — relevé du 21/09/2026. <a href="https://paradial.io/aircall-tarifs" target="_blank" rel="noopener">https://paradial.io/aircall-tarifs</a></li>
+<li>Aircall, page tarifs officielle (prix affichés en dollars) — consultée en 2026. <a href="https://aircall.io/pricing/" target="_blank" rel="noopener">https://aircall.io/pricing/</a></li>
+<li>Unkoa, avis sur Aircall — 2026. <a href="https://www.unkoa.com/aircall-review/" target="_blank" rel="noopener">https://www.unkoa.com/aircall-review/</a></li>
+<li>Skipcall, comparatif Ringover et Kavkom — 2026. <a href="https://skipcall.io/comparatif/ringover-vs-kavkom" target="_blank" rel="noopener">https://skipcall.io/comparatif/ringover-vs-kavkom</a></li>
+<li>Skipcall, alternative à Kavkom — 03/09/2026. <a href="https://skipcall.io/alternative-a-kavkom" target="_blank" rel="noopener">https://skipcall.io/alternative-a-kavkom</a></li>
+<li>Capterra France, Kavkom — date inconnue. <a href="https://www.capterra.fr/software/140624/predictive-dialer-pbx" target="_blank" rel="noopener">https://www.capterra.fr/software/140624/predictive-dialer-pbx</a></li>
+<li>HelloCognito, tarifs Pipedrive — 2026. <a href="https://www.hellocognito.fr/blog/pipedrive-tarifs" target="_blank" rel="noopener">https://www.hellocognito.fr/blog/pipedrive-tarifs</a></li>
+<li>Meetergo, tarif Pipedrive — 07/08/2026. <a href="https://meetergo.com/fr/blog/pipedrive-tarif" target="_blank" rel="noopener">https://meetergo.com/fr/blog/pipedrive-tarif</a></li>
+<li>Bizzy, prix de Pipedrive — 2026. <a href="https://bizzy.ai/blog/pipedrive-pricing" target="_blank" rel="noopener">https://bizzy.ai/blog/pipedrive-pricing</a></li>
+<li>Bizzy, prix de HubSpot Sales Hub — consulté fin septembre 2026. <a href="https://bizzy.ai/blog/hubspot-sales-hub-pricing" target="_blank" rel="noopener">https://bizzy.ai/blog/hubspot-sales-hub-pricing</a></li>
+<li>Rerow, prix de HubSpot — 2026. <a href="https://www.rerow.fr/post/hubspot-prix-tarifs" target="_blank" rel="noopener">https://www.rerow.fr/post/hubspot-prix-tarifs</a></li>
+<li>Hublead, calculateur de prix HubSpot — relevé du 19/09/2026. <a href="https://www.hublead.io/fr/hubspot-pricing-calculator" target="_blank" rel="noopener">https://www.hublead.io/fr/hubspot-pricing-calculator</a></li>
+<li>Hackceleration, comparatif HubSpot et Zoho — juin 2026. <a href="https://hackceleration.com/fr/labs/comparatif/hubspot-vs-zoho" target="_blank" rel="noopener">https://hackceleration.com/fr/labs/comparatif/hubspot-vs-zoho</a></li>
+<li>Rotek, comparatif de CRM (noCRM.io) — date inconnue. <a href="https://rotek.fr/?p=45816" target="_blank" rel="noopener">https://rotek.fr/?p=45816</a></li>
+<li>Formalive, meilleur CRM commercial — date inconnue. <a href="https://www.formalive.fr/meilleur-crm-commercial/" target="_blank" rel="noopener">https://www.formalive.fr/meilleur-crm-commercial/</a></li>
+<li>Blog Sellsy, meilleurs logiciels CRM — date inconnue. <a href="https://go.sellsy.com/blog/meilleurs-logiciels-crm" target="_blank" rel="noopener">https://go.sellsy.com/blog/meilleurs-logiciels-crm</a></li>
+<li>Codeur.com, comparatif de logiciels CRM — avril 2026. <a href="https://www.codeur.com/comparatif/logiciel-crm" target="_blank" rel="noopener">https://www.codeur.com/comparatif/logiciel-crm</a></li>
+<li>JustCall (éditeur concurrent), meilleurs outils de centre d'appels virtuel — tarifs vérifiés en août 2026. <a href="https://justcall.io/fr/blog/meilleurs-outils-centres-appel-virtuels.html" target="_blank" rel="noopener">https://justcall.io/fr/blog/meilleurs-outils-centres-appel-virtuels.html</a></li>
+<li>DGCCRF, « Démarchage téléphonique : professionnels, mettez-vous en conformité avec la réglementation » (source officielle) — 27/07/2026. <a href="https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/demarchage-telephonique-professionnels-mettez-vous-en-conformite-avec-la-reglementation" target="_blank" rel="noopener">https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/demarchage-telephonique-professionnels-mettez-vous-en-conformite-avec-la-reglementation</a></li>
+<li>DGCCRF, « Les règles du démarchage téléphonique s'imposant aux entreprises » (source officielle) — 27/07/2026. <a href="https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-regles-du-demarchage-telephonique-simposant-aux-entreprises?lang=en" target="_blank" rel="noopener">https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-regles-du-demarchage-telephonique-simposant-aux-entreprises?lang=en</a></li>
+<li>Donneespersonnelles.fr, démarchage téléphonique — 2026. <a href="https://www.donneespersonnelles.fr/demarchage-telephonique" target="_blank" rel="noopener">https://www.donneespersonnelles.fr/demarchage-telephonique</a></li>
+<li>Le Club des juristes, consentement préalable obligatoire à partir du 11 août 2026 — 2026. <a href="https://www.leclubdesjuristes.com/en-bref/demarchage-telephonique-le-consentement-prealable-devient-obligatoire-a-partir-du-11-aout-2026-17147/" target="_blank" rel="noopener">https://www.leclubdesjuristes.com/en-bref/demarchage-telephonique-le-consentement-prealable-devient-obligatoire-a-partir-du-11-aout-2026-17147/</a></li>
+<li>Next, « Fin de Bloctel, interdiction du démarchage dès le 11 août : on fait le point » — 2025. <a href="https://next.ink/249950/fin-de-bloctel-interdiction-du-demarchage-des-le-11-aout-on-fait-le-point/" target="_blank" rel="noopener">https://next.ink/249950/fin-de-bloctel-interdiction-du-demarchage-des-le-11-aout-on-fait-le-point/</a></li>
+<li>GHR, « Démarchage téléphonique : ce qui change depuis le 11 août 2026 » — 2026. <a href="https://www.ghr.fr/reglementation-fiscalite/demarchage-telephonique-ce-qui-change-depuis-le-11-aout-2026" target="_blank" rel="noopener">https://www.ghr.fr/reglementation-fiscalite/demarchage-telephonique-ce-qui-change-depuis-le-11-aout-2026</a></li>
+<li>Consoglobe, démarchage téléphonique — 2026. <a href="https://www.consoglobe.com/?p=10410133" target="_blank" rel="noopener">https://www.consoglobe.com/?p=10410133</a></li>
+<li>Aésio, « Démarchage téléphonique : un nouveau dispositif entre en vigueur » — 2026. <a href="https://www.aesio.fr/articles/demarchage-telephonique-un-nouveau-dispositif-entre-en-vigueur" target="_blank" rel="noopener">https://www.aesio.fr/articles/demarchage-telephonique-un-nouveau-dispositif-entre-en-vigueur</a></li>
+<li>Blog HubSpot France, alternatives au démarchage téléphonique — 2026. <a href="https://blog.hubspot.fr/sales/alternatives-demarchage-telephonique" target="_blank" rel="noopener">https://blog.hubspot.fr/sales/alternatives-demarchage-telephonique</a></li>
+<li>LegalPlace, démarchage téléphonique — 2026. <a href="https://www.legalplace.fr/actualites/demarchage-telephonique/" target="_blank" rel="noopener">https://www.legalplace.fr/actualites/demarchage-telephonique/</a></li>
+<li>CMS (cabinet d'avocats), interdiction du démarchage téléphonique sans consentement préalable du consommateur — date inconnue. <a href="https://cms.law/en/fra/news-information/interdiction-prochaine-du-demarchage-telephonique-sans-consentement-prealable-du-consommateur" target="_blank" rel="noopener">https://cms.law/en/fra/news-information/interdiction-prochaine-du-demarchage-telephonique-sans-consentement-prealable-du-consommateur</a></li>
+<li>Guide non officiel « Loi téléprospection 2026 » (PDF) — 2026. <a href="https://ztienbgltzuajvpvzhdo.supabase.co/storage/v1/object/public/vapi-assets/Guide_Loi_Teleprospection_2026.pdf" target="_blank" rel="noopener">https://ztienbgltzuajvpvzhdo.supabase.co/storage/v1/object/public/vapi-assets/Guide_Loi_Teleprospection_2026.pdf</a></li>
+<li>Swim Legal, démarchage téléphonique et loi de 2026 — 2026. <a href="https://www.swim.legal/blog/demarchage-telephonique-2026-loi" target="_blank" rel="noopener">https://www.swim.legal/blog/demarchage-telephonique-2026-loi</a></li>
+<li>DGCCRF, décret sur les jours, horaires et fréquence du démarchage (source officielle) — 10/11/2022. <a href="https://www.economie.gouv.fr/dgccrf/un-nouveau-decret-pour-lencadrement-des-jours-horaires-et-frequence-pour-le-demarchage-0" target="_blank" rel="noopener">https://www.economie.gouv.fr/dgccrf/un-nouveau-decret-pour-lencadrement-des-jours-horaires-et-frequence-pour-le-demarchage-0</a></li>
+<li>Tranquilitel, indicatifs du démarchage téléphonique — date inconnue. <a href="https://tranquilitel.com/blogs/infos/indicatifs-demarchage-telephonique-0162-0163-0948" target="_blank" rel="noopener">https://tranquilitel.com/blogs/infos/indicatifs-demarchage-telephonique-0162-0163-0948</a></li>
+<li>NordVPN, numéros en 0948 et démarchage — date inconnue. <a href="https://nordvpn.com/fr/blog/numeros-0948-demarchage-telephonique/" target="_blank" rel="noopener">https://nordvpn.com/fr/blog/numeros-0948-demarchage-telephonique/</a></li>
+<li>JustGeek, nouvelles règles de l'ARCEP — date inconnue. <a href="https://www.justgeek.fr/evitez-le-demarchage-telephonique-grace-aux-nouvelles-regles-de-larcep-103958/" target="_blank" rel="noopener">https://www.justgeek.fr/evitez-le-demarchage-telephonique-grace-aux-nouvelles-regles-de-larcep-103958/</a></li>
+<li>UFC-Que Choisir, démarchage interdit depuis des numéros mobiles — fin 2022. <a href="https://www.quechoisir.org/actualite-demarchage-telephonique-interdit-a-partir-de-numeros-de-telephone-mobile-n105035/" target="_blank" rel="noopener">https://www.quechoisir.org/actualite-demarchage-telephonique-interdit-a-partir-de-numeros-de-telephone-mobile-n105035/</a></li>
+<li>Selectra, numéros de démarchage 0162 à 0948 — fin 2022. <a href="https://selectra.info/telecom/actualites/marche/numeros-demarchage-0162-0948-automates" target="_blank" rel="noopener">https://selectra.info/telecom/actualites/marche/numeros-demarchage-0162-0948-automates</a></li>
+<li>Blog du Modérateur, détecter les appels de démarchage — date inconnue. <a href="https://www.blogdumoderateur.com/demarchage-telephonique-detecter-appels-spams/" target="_blank" rel="noopener">https://www.blogdumoderateur.com/demarchage-telephonique-detecter-appels-spams/</a></li>
+<li>Fédération française du bâtiment, des numéros de démarchage plus faciles à repérer et à bloquer — date inconnue. <a href="https://www.ffbatiment.fr/actualites-batiment/actualite-ba/demarchage-telephonique-des-numeros-plus-faciles-a-reperer-et-a-bloquer" target="_blank" rel="noopener">https://www.ffbatiment.fr/actualites-batiment/actualite-ba/demarchage-telephonique-des-numeros-plus-faciles-a-reperer-et-a-bloquer</a></li>
+<li>CNIL, enregistrement des conversations téléphoniques (source officielle) — date inconnue. <a href="https://cnil.fr/fr/lenregistrement-des-conversations-telephoniques-afin-detablir-la-preuve-de-la-formation-dun-contrat" target="_blank" rel="noopener">https://cnil.fr/fr/lenregistrement-des-conversations-telephoniques-afin-detablir-la-preuve-de-la-formation-dun-contrat</a></li>
+<li>Donneespersonnelles.fr, enregistrement des appels et RGPD — date inconnue. <a href="https://www.donneespersonnelles.fr/enregistrement-appels-telephoniques-rgpd" target="_blank" rel="noopener">https://www.donneespersonnelles.fr/enregistrement-appels-telephoniques-rgpd</a></li>
+<li>CCI Paris Île-de-France, prospection commerciale par voie électronique — date inconnue. <a href="https://www.entreprises.cci-paris-idf.fr/fiches-pratiques/prospection-commerciale-par-voie-electronique" target="_blank" rel="noopener">https://www.entreprises.cci-paris-idf.fr/fiches-pratiques/prospection-commerciale-par-voie-electronique</a></li>
+<li>Donneespersonnelles.fr, prospection commerciale et RGPD — date inconnue. <a href="https://donneespersonnelles.fr/prospection-commerciale-rgpd" target="_blank" rel="noopener">https://donneespersonnelles.fr/prospection-commerciale-rgpd</a></li>
+<li>Assemblée nationale, réponse ministérielle à la question n° 65678 — XIIe législature (2002-2007). <a href="https://www.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE65678.pdf" target="_blank" rel="noopener">https://www.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE65678.pdf</a></li>
+<li>Tensoria, reconstitution d'adresses e-mail professionnelles et prospection B2B — 2026. <a href="https://tensoria.fr/blog/cnil-reconstitution-email-professionnel-prospection-b2b" target="_blank" rel="noopener">https://tensoria.fr/blog/cnil-reconstitution-email-professionnel-prospection-b2b</a></li>
+<li>Actu-Juridique, application entre professionnels des règles des contrats hors établissement — date inconnue. <a href="https://www.actu-juridique.fr/civil/obligations-contrats/retour-sur-lapplication-entre-professionnels-des-regles-relatives-aux-contrats-conclus-hors-etablissements/" target="_blank" rel="noopener">https://www.actu-juridique.fr/civil/obligations-contrats/retour-sur-lapplication-entre-professionnels-des-regles-relatives-aux-contrats-conclus-hors-etablissements/</a></li>
+<li>Le Monde du droit, droit de rétractation d'un professionnel hors de son activité principale — date inconnue. <a href="https://www.lemondedudroit.fr/affaires/272-contrats/60586-droit-de-retraction-un-professionnel-peut-sen-prevaloir-si-lobjet-du-contrat-ne-concerne-pas-son-activite-principale.html" target="_blank" rel="noopener">https://www.lemondedudroit.fr/affaires/272-contrats/60586-droit-de-retraction-un-professionnel-peut-sen-prevaloir-si-lobjet-du-contrat-ne-concerne-pas-son-activite-principale.html</a></li>
+<li>Dalloz Actualité, Cour de cassation, 1re chambre civile, 31/08/2022, n° 21-11.455 — 2022. <a href="https://www.dalloz-actualite.fr/document/civ-1re-31-aout-2022-f-b-n-21-11455" target="_blank" rel="noopener">https://www.dalloz-actualite.fr/document/civ-1re-31-aout-2022-f-b-n-21-11455</a></li>
+</ol></section>
+    <p class="foot">Note établie à partir de résultats de recherche web contre-vérifiés, sans contact avec l'éditeur. Tout montant, toute règle et tout format d'import sont à confirmer avant engagement.</p>
+  </main>
+</div>
