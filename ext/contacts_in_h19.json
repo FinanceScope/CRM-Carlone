@@ -1,0 +1,364 @@
+[
+ {
+  "rang": 378,
+  "siren": "501266480",
+  "nom": "AGENCE BERRY NIVERNAIS",
+  "enseigne": null,
+  "ville": "La Charité-sur-Loire",
+  "adresse": "5 PLACE DU GENERAL DE GAULLE, 58400 La Charité-sur-Loire",
+  "ca": 411330,
+  "effectif": "6-9 salariés",
+  "activite": "Activités immobilières",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "MARIE-LOUISE WATINE (BOULET) (Gérant)",
+    "REMI WATINE (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/agence-berry-nivernais-501266480"
+ },
+ {
+  "rang": 379,
+  "siren": "884510207",
+  "nom": "RIGNAULT JULIE",
+  "enseigne": "TAXI JULIE RIGNAULT",
+  "ville": "Rouy",
+  "adresse": "LE GRAND CHAMP, 58110 Rouy",
+  "ca": 408267,
+  "effectif": "6-9 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "JULIE RIGNAULT (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/rignault-julie-884510207"
+ },
+ {
+  "rang": 380,
+  "siren": "480634682",
+  "nom": "MILLE ET 1 SERVICES",
+  "enseigne": null,
+  "ville": "Corvol-d'Embernard",
+  "adresse": "CIDEX 209, LE BOURG, 58210 Corvol-d'Embernard",
+  "ca": 404815,
+  "effectif": "3-5 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Fabrice DUBOIS (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/mille-et-1-services-480634682"
+ },
+ {
+  "rang": 382,
+  "siren": "853880086",
+  "nom": "HPT & COMPAGNIE",
+  "enseigne": null,
+  "ville": "Champvert",
+  "adresse": "Champvert",
+  "ca": 401200,
+  "effectif": "1-2 salariés",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/hpt-compagnie-853880086"
+ },
+ {
+  "rang": 383,
+  "siren": "814733986",
+  "nom": "FORET ENVIRONNEMENT (FORET ENVIRONNEMENT)",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "1 PETITE RUE DU RIVAGE, 58000 Nevers",
+  "ca": 399113,
+  "effectif": "10-19 salariés",
+  "activite": "Sylviculture et exploitation forestière",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "SAID AGUEJDAD (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/814733986"
+ },
+ {
+  "rang": 385,
+  "siren": "891083107",
+  "nom": "NEXSON CORPORATION",
+  "enseigne": null,
+  "ville": "Fourchambault",
+  "adresse": "Fourchambault",
+  "ca": 394756,
+  "effectif": "1-2 salariés",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/nexson-corporation-891083107"
+ },
+ {
+  "rang": 386,
+  "siren": "888401601",
+  "nom": "NEVERS HOTEL",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "28 RUE DU PETIT MOUESSE, 58000 Nevers",
+  "ca": 393738,
+  "effectif": "3-5 salariés",
+  "activite": "Hébergement",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "YOUCEF BENBERRAH (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/888401601"
+ },
+ {
+  "rang": 387,
+  "siren": "819284621",
+  "nom": "AUX DEUX COQS",
+  "enseigne": null,
+  "ville": "Chaumot",
+  "adresse": "Chaumot",
+  "ca": 388842,
+  "effectif": "1-2 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/aux-deux-coqs-819284621"
+ },
+ {
+  "rang": 388,
+  "siren": "922366125",
+  "nom": "MenAuto 58",
+  "enseigne": null,
+  "ville": "Corbigny",
+  "adresse": "38 AVENUE SAINT-JEAN, 58800 Corbigny",
+  "ca": 387078,
+  "effectif": "1-2 salariés",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "MENSOUR MAKAREVIC (Gérant)",
+    "MENSUR MAKAREVIC (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/menauto-58-922366125"
+ },
+ {
+  "rang": 389,
+  "siren": "827816042",
+  "nom": "VSC VINS STEPHANE CHARLOT",
+  "enseigne": null,
+  "ville": "Corvol-l'Orgueilleux",
+  "adresse": "53 GRANDE RUE, 58460 Corvol-l'Orgueilleux",
+  "ca": 386377,
+  "effectif": "1-2 salariés",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "STEPHANE CHARLOT (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/vsc-vins-stephane-charlot-827816042"
+ },
+ {
+  "rang": 390,
+  "siren": "441775632",
+  "nom": "ACD",
+  "enseigne": null,
+  "ville": "Bulcy",
+  "adresse": "Bulcy",
+  "ca": 376838,
+  "effectif": "6-9 salariés",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/acd-441775632"
+ },
+ {
+  "rang": 391,
+  "siren": "918444506",
+  "nom": "L'ALISHA",
+  "enseigne": "LE KASHMIR",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "74 BOULEVARD CAMILLE DAGONNEAU, 58640 Varennes-Vauzelles",
+  "ca": 369953,
+  "effectif": "3-5 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "GHAFOOR ALAM (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/918444506"
+ },
+ {
+  "rang": 392,
+  "siren": "853573731",
+  "nom": "H2MOTRONICS (H2MOTRONICS ADVANCED RESEARCH)",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "BATIMENT L'INKUB 7 RUE DU 13E DE LIGNE, 58000 Nevers",
+  "ca": 362855,
+  "effectif": "3-5 salariés",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "TEXYS HD (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/853573731"
+ },
+ {
+  "rang": 393,
+  "siren": "804505493",
+  "nom": "QUALIJURIS",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "2 AVENUE SAINT JUST, 58000 Nevers",
+  "ca": 361033,
+  "effectif": "1-2 salariés",
+  "activite": "Activités juridiques et comptables",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "ALEXANDRE JOËL SERGE LOVATO (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/804505493"
+ },
+ {
+  "rang": 394,
+  "siren": "531191898",
+  "nom": "XENT",
+  "enseigne": null,
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "PARC DU VAL DE LOIRE RUE DES FONDEURS, 58200 Cosne-Cours-sur-Loire",
+  "ca": 360976,
+  "effectif": "1-2 salariés",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "THIERRY DARRIGADE (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/xent-531191898"
+ },
+ {
+  "rang": 395,
+  "siren": "803677749",
+  "nom": "CAMORELLO (CAVIAR ET COQUILLETTES)",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "14 RUE DENIS PAPIN, 58640 Varennes-Vauzelles",
+  "ca": 348874,
+  "effectif": "3-5 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "AURELIEN RAIMOND (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/803677749"
+ }
+]

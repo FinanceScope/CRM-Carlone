@@ -1,0 +1,364 @@
+[
+ {
+  "rang": 425,
+  "siren": "951603471",
+  "nom": "LE FOURNIL ADRIEN",
+  "enseigne": null,
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "Pouilly-sur-Loire",
+  "ca": 291733,
+  "effectif": "3-5 salariés",
+  "activite": "Industries alimentaires",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/le-fournil-adrien-951603471"
+ },
+ {
+  "rang": 426,
+  "siren": "388006702",
+  "nom": "CALISTE",
+  "enseigne": null,
+  "ville": "Montenoison",
+  "adresse": "Montenoison",
+  "ca": 287373,
+  "effectif": "1-2 salariés",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/caliste-388006702"
+ },
+ {
+  "rang": 427,
+  "siren": "887715563",
+  "nom": "LRV LE RELAIS VAUBAN",
+  "enseigne": null,
+  "ville": "Saint-Didier",
+  "adresse": "Saint-Didier",
+  "ca": 286976,
+  "effectif": "1-2 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/lrv-le-relais-vauban-887715563"
+ },
+ {
+  "rang": 431,
+  "siren": "834691594",
+  "nom": "LES MESANGES",
+  "enseigne": null,
+  "ville": "Dun-les-Places",
+  "adresse": "Dun-les-Places",
+  "ca": 280048,
+  "effectif": "0 salarié",
+  "activite": "Hébergement",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/les-mesanges-834691594"
+ },
+ {
+  "rang": 432,
+  "siren": "901616516",
+  "nom": "MAISON ROLLON",
+  "enseigne": null,
+  "ville": "Saint-Père",
+  "adresse": "Saint-Père",
+  "ca": 278235,
+  "effectif": "3-5 salariés",
+  "activite": "Industries alimentaires",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/maison-rollon-901616516"
+ },
+ {
+  "rang": 433,
+  "siren": "403027485",
+  "nom": "ALLIANCE PROPRETE SERVICES",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "63 BOULEVARD CAMILLE DAGONNEAU, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "100-199 salariés",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "deja": {
+   "telephone": "03 86 23 00 22",
+   "email": "contact@alliance-proprete-services.fr",
+   "site_web": "https://www.alliance-proprete-services.fr",
+   "linkedin": "https://www.linkedin.com/company/alliance-proprete-services",
+   "dirigeants": [
+    "Bruno ZAMORA (Gérant)"
+   ],
+   "interlocuteur": "Bruno ZAMORA — Gérant"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/alliance-proprete-services-403027485"
+ },
+ {
+  "rang": 434,
+  "siren": "412077745",
+  "nom": "FLEURON",
+  "enseigne": "Intermarché Hyper Varennes Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "RTE NATIONALE 7, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "100-199 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": "03 86 71 68 68",
+   "email": null,
+   "site_web": "https://www.intermarche.com/magasins/02267/varennes-vauzelles-58640/infos-pratiques",
+   "linkedin": null,
+   "dirigeants": [
+    "ALMATHORIA (Président)",
+    "Catherine BAILLOU (DESAIVRES) (Directeur Général)"
+   ],
+   "interlocuteur": "Catherine BAILLOU — Directrice générale (présidence assurée par la holding ALMATHORIA, présidée par Alain Baillou)"
+  },
+  "opposition_prospection": true,
+  "pappers_url": "https://www.pappers.fr/entreprise/fleuron-412077745"
+ },
+ {
+  "rang": 435,
+  "siren": "408194686",
+  "nom": "J.L. TRANSPORTS",
+  "enseigne": null,
+  "ville": "Clamecy",
+  "adresse": "LA VIGNE DOREE MOULOT, 58500 Clamecy",
+  "ca": null,
+  "effectif": "50-99 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "KERAL INVESTISSEMENTS (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/jl-transports-408194686"
+ },
+ {
+  "rang": 436,
+  "siren": "879402949",
+  "nom": "SARL CHRONO'TRANS 58",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "5 RUE LEON BLUM, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "50-99 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Anthony BERANGER (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/sarl-chronotrans-58-879402949"
+ },
+ {
+  "rang": 437,
+  "siren": "482066487",
+  "nom": "TRANSPORTS RESSAT",
+  "enseigne": null,
+  "ville": "Langeron",
+  "adresse": "16 RUE DES CRAIES, 58240 Langeron",
+  "ca": null,
+  "effectif": "50-99 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "HPR (Président)",
+    "Lucas RESSAT (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/transports-ressat-482066487"
+ },
+ {
+  "rang": 438,
+  "siren": "340991926",
+  "nom": "VOYAGES GONIN",
+  "enseigne": null,
+  "ville": "Saint-Léger-des-Vignes",
+  "adresse": "52 ROUTE DE LA MACHINE, 58300 Saint-Léger-des-Vignes",
+  "ca": null,
+  "effectif": "50-99 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Olivier ROUSSAT (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+ },
+ {
+  "rang": 439,
+  "siren": "852030253",
+  "nom": "DL INTERNATIONAL",
+  "enseigne": "David Lange",
+  "ville": "Varzy",
+  "adresse": "2 ROUTE DE CORVOL, 58210 Varzy",
+  "ca": null,
+  "effectif": "20-49 salariés",
+  "activite": "Fabrication de meubles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "JAMES EBENISTES (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/dl-international-852030253"
+ },
+ {
+  "rang": 440,
+  "siren": "753975994",
+  "nom": "SARL MTMS",
+  "enseigne": null,
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "18 RUE DU PERE CASTOR, 58420 Brinon-sur-Beuvron",
+  "ca": null,
+  "effectif": "20-49 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Tony METTENDORFF (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
+ },
+ {
+  "rang": 441,
+  "siren": "914452230",
+  "nom": "BGN",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "116 RUE HENRI BOUQUILLARD, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "20-49 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "SMART FOOD (Président)",
+    "FOOD & SEE (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/bgn-914452230"
+ },
+ {
+  "rang": 442,
+  "siren": "497496430",
+  "nom": "FRANCOIS POUENAT",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "MODULE NO 3 20 RUE JOSEPH MARIE JACQUARD, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "20-49 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Francois POUENAT (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
+ },
+ {
+  "rang": 443,
+  "siren": "731880258",
+  "nom": "GENEOL GENIE CLIMATIQUE",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "Z.A. DES CHAMONDS RUE EDOUARD BRANLY, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "20-49 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "AURIA HOLDING (Président)",
+    "Loïc PANSE (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
+ }
+]

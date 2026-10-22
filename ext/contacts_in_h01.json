@@ -1,0 +1,384 @@
+[
+ {
+  "rang": 19,
+  "siren": "349431254",
+  "nom": "GRANDS CHAMPS AUTOMOBILES",
+  "enseigne": "SUMA Volkswagen (Nevers et Cosne)",
+  "ville": "Nevers",
+  "adresse": "ZAC rue des Grands Champs, 58000 Nevers, 58000 Nevers",
+  "ca": 38965411,
+  "effectif": "50-99",
+  "activite": "Commerce et réparation automobile",
+  "deja": {
+   "telephone": "03 86 36 18 74",
+   "email": null,
+   "site_web": "https://www.suma-auto.com",
+   "linkedin": "https://www.linkedin.com/company/suma-auto/",
+   "dirigeants": [
+    "Richard VIVES (Président de SAS)",
+    "Eddy MICHEL (Directeur général délégué)"
+   ],
+   "interlocuteur": "Eddy Michel — Directeur général délégué (aussi DG délégué de Nevers Premium Motors – Audi Nevers) ; président : Richard Vives"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/349431254"
+ },
+ {
+  "rang": 49,
+  "siren": "350293221",
+  "nom": "PASORI",
+  "enseigne": "Pasori (centre de rééducation)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "9 ter rue Franc-Nohain, 58200 Cosne-Cours-sur-Loire",
+  "ca": 16968091,
+  "effectif": "200-249 (207 salariés en 2025)",
+  "activite": "Santé humaine",
+  "deja": {
+   "telephone": "03 86 28 43 89",
+   "email": "contact@pasori.fr",
+   "site_web": "https://www.pasori.fr",
+   "linkedin": "https://www.linkedin.com/company/pasori-reeducation/",
+   "dirigeants": [
+    "Frédérique BORDET (Présidente)",
+    "Pascale BORDET (Directrice générale)"
+   ],
+   "interlocuteur": "Pascale BORDET — Directrice générale (Frédérique Bordet est présidente)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/350293221"
+ },
+ {
+  "rang": 59,
+  "siren": "400674875",
+  "nom": "GMDE CHR BOISSONS",
+  "enseigne": "CHR Boissons / Cave du Val d'Or",
+  "ville": "Decize",
+  "adresse": "31 B rue de Caqueret (siège) ; établissements à Cosne : Le Tremblat et 13 place Georges Clemenceau (Caves du Val d'Or), 58300 Decize",
+  "ca": 13230370,
+  "effectif": "20-49 (environ 40 salariés selon le site)",
+  "activite": "Commerce de gros",
+  "deja": {
+   "telephone": "03 86 25 08 35",
+   "email": null,
+   "site_web": "https://www.chrboissons.com",
+   "linkedin": "https://www.linkedin.com/company/chr-boissons",
+   "dirigeants": [
+    "CHR FINANCES (Président (personne morale, depuis le 01/11/2024))",
+    "Frédéric COUSSEMENT (Directeur général (depuis le 16/04/2025))"
+   ],
+   "interlocuteur": "Frédéric Coussement — Directeur général (depuis le 16/04/2025)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/400674875"
+ },
+ {
+  "rang": 60,
+  "siren": "333222214",
+  "nom": "GEFICCA",
+  "enseigne": "GEFICCA",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ZI Le Tremblat, 5 allée des Entrepreneurs, 58200 Cosne-Cours-sur-Loire",
+  "ca": 12615989,
+  "effectif": "50-99",
+  "activite": "Caoutchouc et plastique",
+  "deja": {
+   "telephone": "03 86 39 59 75",
+   "email": "contact@geficca.fr",
+   "site_web": "https://www.geficca.fr",
+   "linkedin": "https://www.linkedin.com/company/geficca-s-a-",
+   "dirigeants": [
+    "GEFICCA TECHNOLOGIES (Président (personne morale, depuis le 01/01/2024))",
+    "Vincent DESNOST (Directeur général)",
+    "Abel KAICHOUH (Directeur général)"
+   ],
+   "interlocuteur": "Vincent Desnost — Directeur général"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/333222214"
+ },
+ {
+  "rang": 66,
+  "siren": "328162284",
+  "nom": "EVORIAL",
+  "enseigne": "Laboratoire de biologie médicale Evorial",
+  "ville": "Nevers",
+  "adresse": "37 rue Saint-Martin, 58000 Nevers (site à Cosne-Cours-sur-Loire, rue Croix Janvier), 58000 Nevers",
+  "ca": 11584870,
+  "effectif": "50-99",
+  "activite": "Santé humaine",
+  "deja": {
+   "telephone": "03 86 61 41 30",
+   "email": null,
+   "site_web": "https://www.evorial.fr",
+   "linkedin": "https://www.linkedin.com/company/evorial",
+   "dirigeants": [
+    "David LONG (Président de SAS)",
+    "Arel DESJARDIN (Directeur général)",
+    "Caroline FAURE (Directrice générale)"
+   ],
+   "interlocuteur": "David Long — Président depuis le 10/08/2026 (directeurs généraux : Caroline Faure, Arel Desjardin)"
+  },
+  "opposition_prospection": true,
+  "pappers_url": "https://www.pappers.fr/entreprise/328162284"
+ },
+ {
+  "rang": 88,
+  "siren": "571880301",
+  "nom": "LE JOURNAL DU CENTRE",
+  "enseigne": "Le Journal du Centre",
+  "ville": "Nevers",
+  "adresse": "3 rue du Chemin de Fer, 58000 Nevers (agence de Cosne : 31 rue Saint-Agnan, 58200 Cosne-Cours-sur-Loire), 58000 Nevers",
+  "ca": 8624193,
+  "effectif": "50-99",
+  "activite": "Édition",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://www.lejdc.fr",
+   "linkedin": "https://www.linkedin.com/company/le-jdc",
+   "dirigeants": [
+    "Didier Martinez (Président du conseil d'administration et Directeur Général)",
+    "Marlène Martin (Administrateur)",
+    "Nicolas Mérindol (Administrateur)",
+    "Ludovic Pillevesse (Administrateur)",
+    "Alain Védrine (Administrateur)",
+    "SA LA MONTAGNE (Administrateur)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/571880301"
+ },
+ {
+  "rang": 90,
+  "siren": "338657604",
+  "nom": "STYL'HABITAT",
+  "enseigne": "Styl'Habitat",
+  "ville": "Nevers",
+  "adresse": "21 rue des Merciers, 58000 Nevers (agence : 29 boulevard de la République, 58200 Cosne-Cours-sur-Loire), 58000 Nevers",
+  "ca": 8332303,
+  "effectif": "10-19 (10 salariés en 2025)",
+  "activite": "Construction de bâtiments",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://www.styl-habitat.fr",
+   "linkedin": null,
+   "dirigeants": [
+    "GBS II (personne morale) (Président de SAS)",
+    "Arnaud Labaune (Directeur Général)"
+   ],
+   "interlocuteur": "Arnaud Labaune — Directeur général (depuis 04/2025)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/338657604"
+ },
+ {
+  "rang": 94,
+  "siren": "950376566",
+  "nom": "DISTANCE LA LOCATION AUTOMOBILE",
+  "enseigne": "Distance location auto (groupe Vincent)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "30 Route de Paris, 58640 Varennes-Vauzelles (agence : Chemin rural du Grand Champ, 58200 Cosne-Cours-sur-Loire), 58640 Varennes-Vauzelles",
+  "ca": 7953284,
+  "effectif": "10-19",
+  "activite": "Location et location-bail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": "https://www.linkedin.com/company/distance-la-location-automobile",
+   "dirigeants": [
+    "Rodolphe Vincent (Président de SAS)"
+   ],
+   "interlocuteur": "Rodolphe Vincent — Président (depuis 2021) ; préside aussi la holding VINCENT SAS"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/950376566"
+ },
+ {
+  "rang": 97,
+  "siren": "335275319",
+  "nom": "ASM ANDRE STOCKAGE MANUTENTION",
+  "enseigne": "ASM",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "123 La Bichatte, 58200 Cosne-Cours-sur-Loire, 58200 Cosne-Cours-sur-Loire",
+  "ca": 6959452,
+  "effectif": "20-49 (45 salariés en 2025)",
+  "activite": "Transports terrestres",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": "https://www.linkedin.com/company/andr-chenue",
+   "dirigeants": [
+    "RAVE CROISSANCE (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/335275319"
+ },
+ {
+  "rang": 104,
+  "siren": "412880445",
+  "nom": "RAVINE",
+  "enseigne": "Bricomarché Cosne",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "PARC DU VAL DE LOIRE RUE DES FONDEURS, 58200 Cosne-Cours-sur-Loire",
+  "ca": 6630196,
+  "effectif": "20-49 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": "03 86 28 80 40",
+   "email": null,
+   "site_web": "https://www.bricomarche.com/magasin/cosne-cours-sur-loire/02241",
+   "linkedin": null,
+   "dirigeants": [
+    "XENT (Président)"
+   ],
+   "interlocuteur": "Thierry DARRIGADE — Gérant de la holding XENT, présidente de RAVINE (Bricomarché Cosne)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/ravine-412880445"
+ },
+ {
+  "rang": 135,
+  "siren": "444611933",
+  "nom": "THE DEAL",
+  "enseigne": null,
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "PARKING STOC CHAMPS DE LA DISPUTE, 58200 Cosne-Cours-sur-Loire",
+  "ca": 3910909,
+  "effectif": "20-49 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Yannick ANDRIEUX (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/the-deal-444611933"
+ },
+ {
+  "rang": 165,
+  "siren": "305065658",
+  "nom": "ETABLISSEMENTS GAUBIER",
+  "enseigne": "Pompes Funèbres Gaubier",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "92 RUE SAINT-AGNAN, 58200 Cosne-Cours-sur-Loire",
+  "ca": 2782267,
+  "effectif": "20-49 salariés",
+  "activite": "Autres services personnels",
+  "deja": {
+   "telephone": "03 86 26 60 62",
+   "email": null,
+   "site_web": "https://www.pfgaubier.com",
+   "linkedin": null,
+   "dirigeants": [
+    "Bruno SPAGNUOLO (Directeur Général)",
+    "INFINI DEVELOPPEMENT (Président)"
+   ],
+   "interlocuteur": "Bruno SPAGNUOLO — Directeur général"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/etablissements-gaubier-305065658"
+ },
+ {
+  "rang": 175,
+  "siren": "794456921",
+  "nom": "ENERGIE 2000 PLUS",
+  "enseigne": null,
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "7 ALLEE DES ENTREPRENEURS, 58200 Cosne-Cours-sur-Loire",
+  "ca": 2549355,
+  "effectif": "20-49 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": "03 86 28 33 67",
+   "email": "energie-2000@wanadoo.fr",
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "GROUPE ENERGIE BATIMENT SARL (Président)"
+   ],
+   "interlocuteur": "Sébastien Thomas — Gérant de Groupe Energie Bâtiment, société présidente"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/energie-2000-plus-794456921"
+ },
+ {
+  "rang": 177,
+  "siren": "394518096",
+  "nom": "C.V.L. CONSTRUCTIONS DU VAL DE LOIRE",
+  "enseigne": null,
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "16 RUE ROBERT NABERIS, 58200 Cosne-Cours-sur-Loire",
+  "ca": 2502903,
+  "effectif": "20-49 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": "03 86 26 76 92",
+   "email": "accueil@cvloire.fr",
+   "site_web": "https://www.cvloire58.fr",
+   "linkedin": null,
+   "dirigeants": [
+    "Sebastien CORMIER (Gérant)"
+   ],
+   "interlocuteur": "Sébastien CORMIER — Gérant"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/cvl-constructions-du-val-de-loire-394518096"
+ },
+ {
+  "rang": 268,
+  "siren": "522099209",
+  "nom": "CARS AND CO",
+  "enseigne": null,
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "97 AVENUE DU MARECHAL LECLERC, 58200 Cosne-Cours-sur-Loire",
+  "ca": 1092661,
+  "effectif": "1-2 salariés",
+  "activite": "Activités de location et location-bail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Philippe MEISNER (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/cars-and-co-522099209"
+ },
+ {
+  "rang": 279,
+  "siren": "752896159",
+  "nom": "MIMA",
+  "enseigne": "PANDA RESTO",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "CHAMP DE LA DISPUTE, AVENUE DU 85EME DE LIGNE, 58200 Cosne-Cours-sur-Loire",
+  "ca": 1005652,
+  "effectif": "6-9 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Laurent ZHOU (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/mima-752896159"
+ }
+]

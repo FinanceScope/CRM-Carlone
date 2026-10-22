@@ -1,0 +1,385 @@
+[
+ {
+  "rang": 37,
+  "siren": "581880044",
+  "nom": "CATAR SOC",
+  "enseigne": "Peugeot Nevers (CATAR) / CORAD Decize",
+  "ville": "Nevers",
+  "adresse": "102 rue Henri Bouquillard, 58000 Nevers, 58000 Nevers",
+  "ca": 22432572,
+  "effectif": "50-99",
+  "activite": "Commerce et réparation automobile",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "http://www.groupevincent.fr/",
+   "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+   "dirigeants": [
+    "Rodolphe Dimitri VINCENT (Président de SAS)"
+   ],
+   "interlocuteur": "Rodolphe VINCENT — Président (dirigeant du Groupe Vincent)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/581880044"
+ },
+ {
+  "rang": 38,
+  "siren": "621880012",
+  "nom": "ETABLISSEMENTS SIMONNEAU",
+  "enseigne": "Renault Cosne (groupe Simonneau)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "80 avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire, 58200 Cosne-Cours-sur-Loire",
+  "ca": 18201665,
+  "effectif": "20-49",
+  "activite": "Commerce et réparation automobile",
+  "deja": {
+   "telephone": "03 86 26 81 81",
+   "email": "contact@groupesimonneau.fr",
+   "site_web": "https://www.renault-cosne.fr",
+   "linkedin": "https://www.linkedin.com/company/groupe-simonneau/",
+   "dirigeants": [
+    "PHILIPPE SIMONNEAU HOLDING (Président de SAS)"
+   ],
+   "interlocuteur": "Philippe Simonneau — Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société) ; son fils Pierre Simonneau était directeur adjoint du groupe en 2020"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/621880012"
+ },
+ {
+  "rang": 40,
+  "siren": "552032237",
+  "nom": "AXA STENMAN FRANCE",
+  "enseigne": "AXA",
+  "ville": "Clamecy",
+  "adresse": "Usine de Beaulieu 2, Beaulieu, 58500 Clamecy, 58500 Clamecy",
+  "ca": 14131816,
+  "effectif": "50-99",
+  "activite": "Fabrication d'autres matériels de transport",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "AXA STENMAN HOLDING (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/552032237"
+ },
+ {
+  "rang": 45,
+  "siren": "819621194",
+  "nom": "ASTRA RECYCLAGE",
+  "enseigne": "Groupe Astradec Environnement",
+  "ville": "Saint-Éloi",
+  "adresse": "6 ZI de Nevers - Saint-Éloi, 58000 Saint-Éloi",
+  "ca": 12200308,
+  "effectif": "20-49",
+  "activite": "Collecte et traitement des déchets",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "E.B.P. (Président (personne morale))",
+    "Emmanuel BIALLAIS (Autre (représentant))"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/819621194"
+ },
+ {
+  "rang": 46,
+  "siren": "518482013",
+  "nom": "ANVIS DECIZE SAS",
+  "enseigne": "Anvis",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, 12 rue Henri Darcy, 58300 Decize",
+  "ca": 18637655,
+  "effectif": "100-199 (119 salariés en 2025)",
+  "activite": "Caoutchouc et plastique",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://anvisgroup.com",
+   "linkedin": "https://www.linkedin.com/company/anvis-group",
+   "dirigeants": [
+    "Olaf HAHN (Président)",
+    "Laurent COBIGO (Directeur général)",
+    "Fabien LHULLIER (Directeur général délégué)",
+    "Marc RITZENTHALER (Directeur général délégué)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/518482013"
+ },
+ {
+  "rang": 47,
+  "siren": "411012107",
+  "nom": "FORESTA",
+  "enseigne": "Foresta (marques Foresta, Habrita)",
+  "ville": "Challuy",
+  "adresse": "63 route de Bourges, 58000 Challuy",
+  "ca": 8898654,
+  "effectif": "20-49",
+  "activite": "Commerce de gros",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": "https://www.linkedin.com/company/foresta-sa",
+   "dirigeants": [
+    "BURGUNDY GARDEN (Président (personne morale))",
+    "Eric BOUVIER (Directeur général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/411012107"
+ },
+ {
+  "rang": 48,
+  "siren": "701880486",
+  "nom": "ETOILE 58",
+  "enseigne": "Mercedes-Benz Nevers (Groupe Chopard)",
+  "ville": "Nevers",
+  "adresse": "38 boulevard du Pré Plantin, 58000 Nevers",
+  "ca": 17591324,
+  "effectif": "20-49 (24 salariés en 2025)",
+  "activite": "Commerce et réparation automobile",
+  "deja": {
+   "telephone": "03 86 68 21 70",
+   "email": null,
+   "site_web": "https://www.groupechopard.com/concessions/mercedes-benz-nevers",
+   "linkedin": "https://www.linkedin.com/company/etoile-58",
+   "dirigeants": [
+    "E.C.L. (Président (personne morale))"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/701880486"
+ },
+ {
+  "rang": 63,
+  "siren": "711880021",
+  "nom": "SAEMAN NIEVRE",
+  "enseigne": "Nièvre Aménagement",
+  "ville": "Nevers",
+  "adresse": "Hôtel du Département, 64 rue de la Préfecture, 58000 Nevers (établissement principal : 11 rue Bovet, Nevers), 58000 Nevers",
+  "ca": 8315829,
+  "effectif": "10-19 (15 salariés)",
+  "activite": "Génie civil",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Sandrine Anne BERTRAND (Directrice générale)",
+    "Jocelyne Marie GUERIN (Présidente du conseil d'administration)",
+    "Denis THURIOT (Vice-président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/711880021"
+ },
+ {
+  "rang": 64,
+  "siren": "513917922",
+  "nom": "USON RUGBY PLUS",
+  "enseigne": "USON Nevers Rugby",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZI, 5 rue Denis Papin, 58640 Varennes-Vauzelles, 58640 Varennes-Vauzelles",
+  "ca": 11206942,
+  "effectif": "50-99 (96 salariés en 2023)",
+  "activite": "Activités sportives et de loisirs",
+  "deja": {
+   "telephone": null,
+   "email": "contact@usonrugbyplus.com",
+   "site_web": "https://usonneversrugby.com",
+   "linkedin": "https://www.linkedin.com/company/uson-nevers-rugby-event/",
+   "dirigeants": [
+    "Régis DUMANGE (Président du conseil d'administration et directeur général)",
+    "Sébastien DUMANGE (Directeur général délégué)",
+    "Delphine DUMANGE (Directrice générale déléguée)",
+    "Catherine DUMANGE (Directrice générale déléguée)"
+   ],
+   "interlocuteur": "Régis DUMANGE — Président du conseil d'administration et directeur général (président du club)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/513917922"
+ },
+ {
+  "rang": 71,
+  "siren": "331967943",
+  "nom": "AIZEN INDUSTRIES FRANCE S.A.",
+  "enseigne": "ex-Aisan Industry France",
+  "ville": "Nevers",
+  "adresse": "1-6 rue des Grands Champs, 58000 Nevers, 58000 Nevers",
+  "ca": 9935156,
+  "effectif": "20-49 (37 salariés en 2024 ; ~60 annoncés en 2023)",
+  "activite": "Fabrication de machines et équipements",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "http://www.aisanindustryfrance.fr",
+   "linkedin": "https://www.linkedin.com/company/aisan-industry-fr-sa",
+   "dirigeants": [
+    "Ambrish Kumar GUPTA (Président du conseil d'administration)",
+    "Shelaindra BHARDWAJ (Directeur général)",
+    "Karan GUPTA (Administrateur)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/331967943"
+ },
+ {
+  "rang": 75,
+  "siren": "331066639",
+  "nom": "SOC GARAGE G R V",
+  "enseigne": "Garage GRV (Citroën et Peugeot Cosne)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "Chemin Rural du Grand Champ, Avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire, 58200 Cosne-Cours-sur-Loire",
+  "ca": 8763220,
+  "effectif": "20-49",
+  "activite": "Commerce et réparation automobile",
+  "deja": {
+   "telephone": "03 86 28 49 70",
+   "email": null,
+   "site_web": "https://www.groupevincent.fr/",
+   "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+   "dirigeants": [
+    "Rodolphe Dimitri VINCENT (Président de SAS)"
+   ],
+   "interlocuteur": "Rodolphe VINCENT — Président depuis 2011 (dirigeant du Groupe Vincent)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/331066639"
+ },
+ {
+  "rang": 85,
+  "siren": "955500194",
+  "nom": "CARRIERES ET MATERIAUX",
+  "enseigne": null,
+  "ville": "Sardy-lès-Épiry",
+  "adresse": "Lieu-dit Picampoix, 58800 Sardy-lès-Épiry, 58800 Sardy-lès-Épiry",
+  "ca": 6353448,
+  "effectif": "10-19 (20 salariés en 2025)",
+  "activite": "Autres industries extractives",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "EIFFAGE INFRASTRUCTURES GESTION ET DEVELOPPEMENT (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/955500194"
+ },
+ {
+  "rang": 89,
+  "siren": "671880227",
+  "nom": "SOYEZ FRERES SA",
+  "enseigne": "Soyez Frères",
+  "ville": "Donzy",
+  "adresse": "Lieu-dit Usine de la Bertine, 58220 Donzy, 58220 Donzy",
+  "ca": 6902816,
+  "effectif": "50-99 (75 salariés)",
+  "activite": "Industrie du papier et du carton",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": "https://www.linkedin.com/company/soyez-freres",
+   "dirigeants": [
+    "Frédéric Soyez (Président de SAS)",
+    "Pierre Soyez (Directeur Général)"
+   ],
+   "interlocuteur": "Frédéric Soyez — Président (depuis 09/2023)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/671880227"
+ },
+ {
+  "rang": 98,
+  "siren": "450817200",
+  "nom": "SUMIRIKO SD FRANCE SAS",
+  "enseigne": "SumiRiko SD France (ex-Anvis SD France)",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, Les Caillots, 58300 Decize, 58300 Decize",
+  "ca": 5666060,
+  "effectif": "20-49",
+  "activite": "Recherche-développement scientifique",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Carlos Jimenez (Président de SAS)",
+    "Stéphane Birebent (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/450817200"
+ },
+ {
+  "rang": 100,
+  "siren": "880515994",
+  "nom": "COMMAND-SMFI",
+  "enseigne": "SMFI",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "5 rue des Guérins, 58200 Cosne-Cours-sur-Loire, 58200 Cosne-Cours-sur-Loire",
+  "ca": 3951320,
+  "effectif": "20-49",
+  "activite": "Métallurgie",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Charles Garvey (Président de SAS)",
+    "Nicolas Berhault (Directeur Général)"
+   ],
+   "interlocuteur": "Nicolas Berhault — Directeur général (depuis le 01/04/2026) ; président : Charles Garvey"
+  },
+  "opposition_prospection": true,
+  "pappers_url": "https://www.pappers.fr/entreprise/880515994"
+ },
+ {
+  "rang": 105,
+  "siren": "501271068",
+  "nom": "ARMATIS BOURGOGNE",
+  "enseigne": "Armatis",
+  "ville": "Nevers",
+  "adresse": "ZI DE NEVERS SAINT ELOI RUE DE LA BARBOUILLERE, 58000 Nevers",
+  "ca": 6306788,
+  "effectif": "200-249 salariés",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://www.armatis.com",
+   "linkedin": "https://www.linkedin.com/company/armatis",
+   "dirigeants": [
+    "ARMATIS FRANCE (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/armatis-bourgogne-501271068"
+ }
+]

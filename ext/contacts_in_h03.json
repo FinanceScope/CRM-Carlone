@@ -1,0 +1,379 @@
+[
+ {
+  "rang": 270,
+  "siren": "840688428",
+  "nom": "EMH",
+  "enseigne": null,
+  "ville": "Mesves-sur-Loire",
+  "adresse": "114 ROUTE D'ANTIBES, 58400 Mesves-sur-Loire",
+  "ca": 1089649,
+  "effectif": "10-19 salariés",
+  "activite": "Hébergement",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "ERIC MORIN ENTREPRISES (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/emh-840688428"
+ },
+ {
+  "rang": 366,
+  "siren": "892315128",
+  "nom": "TÝR Sécurité",
+  "enseigne": null,
+  "ville": "Raveau",
+  "adresse": "5 ROUTE DES BERTRANGES, 58400 Raveau",
+  "ca": 495138,
+  "effectif": "10-19 salariés",
+  "activite": "Enquêtes et sécurité",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Rudy RUELLE (Gérant)"
+   ],
+   "interlocuteur": "Rudy RUELLE — Gérant (dirigeant fondateur)"
+  },
+  "opposition_prospection": true,
+  "pappers_url": "https://www.pappers.fr/entreprise/tyr-securite-892315128"
+ },
+ {
+  "rang": 2,
+  "siren": "350693586",
+  "nom": "FPT POWERTRAIN TECHNOLOGIES FRANCE",
+  "enseigne": "FPT Industrial",
+  "ville": "Garchizy",
+  "adresse": "5 rue Pierre Timbaud, 58600 Garchizy, 58600 Garchizy",
+  "ca": 580664685,
+  "effectif": "1000-1999 (≈1 200 salariés en 2024 ; siège de Garchizy : tranche 100-199)",
+  "activite": "Industrie automobile",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://www.fptindustrial.com",
+   "linkedin": "https://www.linkedin.com/company/fpt-industrial",
+   "dirigeants": [
+    "Simone CURTI (Président de SAS)",
+    "Vincent BARBOSA (Directeur Général)"
+   ],
+   "interlocuteur": "Vincent BARBOSA — Directeur général de la filiale française"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/350693586"
+ },
+ {
+  "rang": 6,
+  "siren": "334934304",
+  "nom": "BOIS ET SCIAGES DE SOUGY",
+  "enseigne": "MS Bois (Monnet-Sève Sougy)",
+  "ville": "Sougy-sur-Loire",
+  "adresse": "ZI de Teinte, 58300 Sougy-sur-Loire, 58300 Sougy-sur-Loire",
+  "ca": 94049348,
+  "effectif": "100-249",
+  "activite": "Travail du bois",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "http://monnet-seve.com",
+   "linkedin": "https://www.linkedin.com/company/monnet-seve-sougy/",
+   "dirigeants": [
+    "Stéphane VIVES (Président du conseil d'administration et directeur général)",
+    "Guillaume CRUZILLE (Directeur général délégué)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/334934304"
+ },
+ {
+  "rang": 10,
+  "siren": "327098364",
+  "nom": "SOC NEVERS DIS",
+  "enseigne": "E.Leclerc Nevers",
+  "ville": "Coulanges-lès-Nevers",
+  "adresse": "Boulevard Beauregard, 58660 Coulanges-lès-Nevers, 58660 Coulanges-lès-Nevers",
+  "ca": 64111376,
+  "effectif": "200-249",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": "03 86 71 84 10",
+   "email": null,
+   "site_web": "https://www.e.leclerc/mag/e-leclerc-nevers",
+   "linkedin": null,
+   "dirigeants": [
+    "Jean-François MOUSSET (Président de SAS)",
+    "Nadia MOUSSET (MADAIRE) (Directeur Général)"
+   ],
+   "interlocuteur": "Jean-François Mousset — Président (adhérent Leclerc)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/327098364"
+ },
+ {
+  "rang": 13,
+  "siren": "334898277",
+  "nom": "CLAMECY DISTRIBUTION",
+  "enseigne": "E.Leclerc Clamecy",
+  "ville": "Clamecy",
+  "adresse": "2 avenue Saint-Exupéry, 58500 Clamecy, 58500 Clamecy",
+  "ca": 52212855,
+  "effectif": "100-199",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Letitia BELLANGER (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/334898277"
+ },
+ {
+  "rang": 14,
+  "siren": "393635230",
+  "nom": "TRANSPORTS ROUSSEAU ERIC",
+  "enseigne": "Transports Rousseau",
+  "ville": "Corvol-l'Orgueilleux",
+  "adresse": "Quartier de la Gare, 58460 Corvol-l'Orgueilleux, 58460 Corvol-l'Orgueilleux",
+  "ca": 49999926,
+  "effectif": "250-499 (≈360 salariés selon une offre France Travail d'avril 2025 ; groupe de plus de 700)",
+  "activite": "Transports terrestres",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": "https://www.linkedin.com/company/transports-rousseau-eric",
+   "dirigeants": [
+    "GROUPE ROUSSEAU (personne morale) (Président de SAS)",
+    "Eric Ernest ROUSSEAU (Autre (dirigeant))"
+   ],
+   "interlocuteur": "Eric ROUSSEAU — Dirigeant (la holding Groupe Rousseau est présidente de la société)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/393635230"
+ },
+ {
+  "rang": 15,
+  "siren": "523229268",
+  "nom": "SIMONNEAU AUTOMOBILES",
+  "enseigne": "Renault Nevers (groupe Simonneau)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZA Les Commailles, 2 rue Léonard de Vinci, 58640 Varennes-Vauzelles, 58640 Varennes-Vauzelles",
+  "ca": 44612109,
+  "effectif": "50-99",
+  "activite": "Commerce et réparation automobile",
+  "deja": {
+   "telephone": "03 86 93 00 00",
+   "email": "contact@groupesimonneau.fr",
+   "site_web": "https://www.renault-nevers.fr",
+   "linkedin": "https://www.linkedin.com/company/groupe-simonneau/",
+   "dirigeants": [
+    "PHILIPPE SIMONNEAU HOLDING (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": "Philippe Simonneau — Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société) ; son fils Pierre Simonneau était directeur adjoint du groupe en 2020"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/523229268"
+ },
+ {
+  "rang": 16,
+  "siren": "422593491",
+  "nom": "TOYOTA CONCES NEVERS CENTRAL PARC AUTOMOBILE",
+  "enseigne": "Toyota Nevers / Central Parc Automobile",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "1 route de Paris, 58640 Varennes-Vauzelles, 58640 Varennes-Vauzelles",
+  "ca": 44575907,
+  "effectif": "50-99",
+  "activite": "Commerce et réparation automobile",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://www.groupevincent.fr",
+   "linkedin": null,
+   "dirigeants": [
+    "Rodolphe Dimitri VINCENT (Président de SAS)"
+   ],
+   "interlocuteur": "Rodolphe Vincent — Président"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/422593491"
+ },
+ {
+  "rang": 18,
+  "siren": "507757672",
+  "nom": "DECIZE DISTRIBUTION",
+  "enseigne": "E.Leclerc Decize",
+  "ville": "Decize",
+  "adresse": "Route de Champvert, 58300 Decize, 58300 Decize",
+  "ca": 40020643,
+  "effectif": "100-199",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Jean-François MARTIN (Président de SAS)",
+    "Laetitia MARTIN (GAGNE) (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/507757672"
+ },
+ {
+  "rang": 20,
+  "siren": "775732811",
+  "nom": "EUROSIT",
+  "enseigne": "Eurosit",
+  "ville": "Saint-Éloi",
+  "adresse": "ZI de Nevers – Saint-Éloi, 58000 Saint-Éloi, 58000 Saint-Éloi",
+  "ca": 30785528,
+  "effectif": "100-199",
+  "activite": "Fabrication de meubles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Timothée ACHERITOGARAY (Président du conseil d'administration)",
+    "Massimiliano PRESTIFILIPPO (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/775732811"
+ },
+ {
+  "rang": 21,
+  "siren": "530572775",
+  "nom": "NEXSON GROUP - INDUSTRY",
+  "enseigne": "Nexson Group",
+  "ville": "Garchizy",
+  "adresse": "685 rue Jules Verne, 58600 Garchizy, 58600 Garchizy",
+  "ca": 26799673,
+  "effectif": "100-199 (131 salariés selon L'industrie recrute)",
+  "activite": "Fabrication de machines et équipements",
+  "deja": {
+   "telephone": "+33 3 86 60 13 04",
+   "email": "contact@nexson-group.com",
+   "site_web": "https://www.nexson-group.com",
+   "linkedin": "https://www.linkedin.com/company/nexson-group/",
+   "dirigeants": [
+    "NEXSON CORPORATION (personne morale, SIREN 891083107) (Président de SAS (depuis le 01/09/2025, en remplacement de Charles Bonnafous))"
+   ],
+   "interlocuteur": "Charles BONNAFOUS — Fondateur et CEO de Nexson Group"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/530572775"
+ },
+ {
+  "rang": 22,
+  "siren": "651880437",
+  "nom": "POLYCLINIQUE DU VAL DE LOIRE",
+  "enseigne": "Polyclinique du Val de Loire - Elsan",
+  "ville": "Nevers",
+  "adresse": "49 boulevard Jérôme Trésaguet, 58000 Nevers, 58000 Nevers",
+  "ca": 29778512,
+  "effectif": "100-199 (160 salariés en 2025)",
+  "activite": "Santé humaine",
+  "deja": {
+   "telephone": "03 86 93 52 58",
+   "email": "pvl@elsan.care",
+   "site_web": "https://www.elsan.care/fr/polyclinique-val-de-loire",
+   "linkedin": "https://www.linkedin.com/company/elsan/",
+   "dirigeants": [
+    "ELSAN SAS (Président de SAS)"
+   ],
+   "interlocuteur": "Jean-Claude Penet — Directeur de la polyclinique (responsable RH : Marianne Save)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/651880437"
+ },
+ {
+  "rang": 23,
+  "siren": "483276820",
+  "nom": "LIGIER AUTOMOTIVE",
+  "enseigne": "Ligier Automotive",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 8 rue du Champ de Magny, 58470 Magny-Cours, 58470 Magny-Cours",
+  "ca": 29320370,
+  "effectif": "50-99",
+  "activite": "Industrie automobile",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://ligierautomotive.com",
+   "linkedin": null,
+   "dirigeants": [
+    "Jacques NICOLET (Président de SAS)",
+    "Pierre NICOLET (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/483276820"
+ },
+ {
+  "rang": 24,
+  "siren": "488376278",
+  "nom": "A.B.S AVENIR BENNES ET SERVICES",
+  "enseigne": "A.B.S",
+  "ville": "Clamecy",
+  "adresse": "ZI Bagatelle, avenue Saint-Exupéry, 58500 Clamecy, 58500 Clamecy",
+  "ca": 28777360,
+  "effectif": "10-19",
+  "activite": "Entreposage et services auxiliaires des transports",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Gilles BETHERY (Gérant)",
+    "Romain SAGNE (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/488376278"
+ },
+ {
+  "rang": 30,
+  "siren": "825065279",
+  "nom": "NEVINO",
+  "enseigne": "Intermarché (Nevers)",
+  "ville": "Nevers",
+  "adresse": "Boulevard Jean Moulin, 58000 Nevers, 58000 Nevers",
+  "ca": 26212653,
+  "effectif": "50-99",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Laurent POMMIER (Président de SAS)",
+    "Diego FERNANDEZ (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/825065279"
+ }
+]

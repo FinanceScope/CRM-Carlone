@@ -1,0 +1,374 @@
+[
+ {
+  "rang": 429,
+  "siren": "921816757",
+  "nom": "DELAFI",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "24 BOULEVARD DU GRAND PRE DES BORDES, 58000 Nevers",
+  "ca": 286422,
+  "effectif": "1-2 salariés",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "FRANCIS DELALANDE (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/921816757"
+ },
+ {
+  "rang": 430,
+  "siren": "852583665",
+  "nom": "ENTREPRISE MANNEVY - LOC'58",
+  "enseigne": null,
+  "ville": "Arbourse",
+  "adresse": "Arbourse",
+  "ca": 285972,
+  "effectif": "3-5 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/entreprise-mannevy-loc58-852583665"
+ },
+ {
+  "rang": 456,
+  "siren": "808472484",
+  "nom": "LE CHENE ET LE ROSEAU",
+  "enseigne": "Biocoop Cosne",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ZI DES PRES MAILLARDS 108 AVENUE DU 85EME DE LIGNE, 58200 Cosne-Cours-sur-Loire",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": "03 86 22 42 94",
+   "email": null,
+   "site_web": "http://www.biocoop-cosne.com",
+   "linkedin": null,
+   "dirigeants": [
+    "Maya BERGERON (AZGUI) (Président)"
+   ],
+   "interlocuteur": "Maya BERGERON — Présidente (depuis le 16/09/2025)"
+  },
+  "opposition_prospection": true,
+  "pappers_url": "https://www.pappers.fr/entreprise/le-chene-et-le-roseau-808472484"
+ },
+ {
+  "rang": 457,
+  "siren": "393733191",
+  "nom": "OPTIQUE BAPTESTE",
+  "enseigne": "Opticien Krys Cosne Saint-Jacques",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "17-19-21 17 RUE SAINT-JACQUES, 58200 Cosne-Cours-sur-Loire",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": "03 86 28 58 55",
+   "email": null,
+   "site_web": "https://www.krys.com/opticien/france/nievre/opticien-cosne-cours-sur-loire/cosne-stjacques",
+   "linkedin": "https://www.linkedin.com/company/sarl-optique-bapteste",
+   "dirigeants": [
+    "Olivier BAPTESTE (Président)"
+   ],
+   "interlocuteur": "Olivier BAPTESTE — Président, opticien et directeur du magasin Krys (Sandrine Bapteste gère Le Collectif des Lunetiers)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
+ },
+ {
+  "rang": 458,
+  "siren": "382085215",
+  "nom": "CHATEAU DE TRACY COMTESSE A.D ASSAY",
+  "enseigne": "Château de Tracy",
+  "ville": "Tracy-sur-Loire",
+  "adresse": "LE CHATEAU DE TRACY, 58150 Tracy-sur-Loire",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "deja": {
+   "telephone": "03.86.26.15.12",
+   "email": "contact@chateau-de-tracy.com",
+   "site_web": "https://www.chateau-de-tracy.com/",
+   "linkedin": null,
+   "dirigeants": [
+    "Juliette Pauline Marie D'ESTUTT D'ASSAY (Président du directoire)",
+    "Maxime BOURRET (Membre du directoire)",
+    "Marie-Caroline D'ESTUTT D'ASSAY (Président du conseil de surveillance)",
+    "Nathalie D'ESTUTT D'ASSAY (Autre)"
+   ],
+   "interlocuteur": "Juliette D'ESTUTT D'ASSAY — Présidente du directoire, dirige le domaine"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215"
+ },
+ {
+  "rang": 459,
+  "siren": "394326854",
+  "nom": "SARL DELIN J.",
+  "enseigne": null,
+  "ville": "Guérigny",
+  "adresse": "57 GRANDE RUE, 58130 Guérigny",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "FRANCK DELIN (Gérant)",
+    "SEVERINE DELIN (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+ },
+ {
+  "rang": 460,
+  "siren": "351271127",
+  "nom": "MORVAN CHARCUTERIES SALAISONS",
+  "enseigne": null,
+  "ville": "Clamecy",
+  "adresse": "ZI DE SURGY RUE HELENE BOUCHER, 58500 Clamecy",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Industries alimentaires",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "GUSTEO (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/morvan-charcuteries-salaisons-351271127"
+ },
+ {
+  "rang": 461,
+  "siren": "405156274",
+  "nom": "SARL AMBULANCES MARTIN",
+  "enseigne": null,
+  "ville": "Clamecy",
+  "adresse": "PRESSURES 16 RUE DES HIRONDELLES, 58500 Clamecy",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Activités pour la santé humaine",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Kelly MARTIN (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+ },
+ {
+  "rang": 462,
+  "siren": "352722649",
+  "nom": "SARL HOSTELLERIE DE LA POSTE",
+  "enseigne": null,
+  "ville": "Clamecy",
+  "adresse": "9 PLACE EMILE ZOLA, 58500 Clamecy",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Hébergement",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Denis GUENOT (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/sarl-hostellerie-de-la-poste-352722649"
+ },
+ {
+  "rang": 463,
+  "siren": "315548925",
+  "nom": "SAS AMBULANCE JACSON",
+  "enseigne": null,
+  "ville": "Clamecy",
+  "adresse": "ZONE ARTISANALE RUE HELENE BOUCHER, 58500 Clamecy",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Activités pour la santé humaine",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Christopher SANCHEZ (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+ },
+ {
+  "rang": 464,
+  "siren": "840504427",
+  "nom": "LES PATTES DOUCES",
+  "enseigne": "Unae",
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "2 RUE DE VEAUPOULE, 58420 Brinon-sur-Beuvron",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Industries alimentaires",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "HOLDING VEGEO GROUPE (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/les-pattes-douces-840504427"
+ },
+ {
+  "rang": 465,
+  "siren": "381751171",
+  "nom": "A.MAILHARRO SARL",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZONE INDUSTRIELLE LES CHAMPS MALES, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "CAREMA INVESTISSEMENTS (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/amailharro-sarl-381751171"
+ },
+ {
+  "rang": 466,
+  "siren": "489272518",
+  "nom": "ALFONSO BUJAN ASSOCIES",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZONE INDUSTRIELLE, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Franck MYSKOWIAK (Président)",
+    "Karin MYSKOWIAK (DRU) (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+ },
+ {
+  "rang": 467,
+  "siren": "385244009",
+  "nom": "COPIEFAX",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "52 B BOULEVARD CAMILLE DAGONNEAU, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "JEAN-PIERRE BOURDILLAT (Gérant)",
+    "THIBAUT BOURDILLAT (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/copiefax-385244009"
+ },
+ {
+  "rang": 468,
+  "siren": "434598173",
+  "nom": "GALLOIS ROBERT ET ASSOCIES",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "50 RUE MARCEL ROBIN, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "LAURENT GALLOIS (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+ },
+ {
+  "rang": 469,
+  "siren": "343056628",
+  "nom": "GUYON & ASSOCIEE",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "15 RUE DU BENGY, 58640 Varennes-Vauzelles",
+  "ca": null,
+  "effectif": "10-19 salariés",
+  "activite": "Activités comptables",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "SONIA JEANNE LOUISE GUYON (MOUILLERON) (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/guyon-associee-343056628"
+ }
+]

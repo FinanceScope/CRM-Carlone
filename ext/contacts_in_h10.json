@@ -1,0 +1,376 @@
+[
+ {
+  "rang": 178,
+  "siren": "414871772",
+  "nom": "V.A.R.V.",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "33 BOULEVARD CAMILLE DAGONNEAU, 58640 Varennes-Vauzelles",
+  "ca": 2478464,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Rozenn GAUTRAIS (Gérant)",
+    "TOP BOOSTER (Gérant)",
+    "IMPULSE & CO (Gérant)",
+    "TRAINER & CO (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/varv-414871772"
+ },
+ {
+  "rang": 180,
+  "siren": "883750721",
+  "nom": "PHARMACIE DES VIGNES",
+  "enseigne": null,
+  "ville": "Saint-Léger-des-Vignes",
+  "adresse": "58 ROUTE NATIONALE, 58300 Saint-Léger-des-Vignes",
+  "ca": 2450000,
+  "effectif": "6-9 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Helene Solange Huguette DAVEAU (Gérant)",
+    "Sophie Catherine Marie GAUTHIER (MUNSCH) (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
+ },
+ {
+  "rang": 181,
+  "siren": "952050292",
+  "nom": "BKCSL",
+  "enseigne": "Burger King",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "132 AVENUE DU 85EME DE LIGNE, 58200 Cosne-Cours-sur-Loire",
+  "ca": 2380000,
+  "effectif": "20-49 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "DPLF (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/bkcsl-952050292"
+ },
+ {
+  "rang": 182,
+  "siren": "538141094",
+  "nom": "TEXYS HD",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZA DES CHAMONDS 16 RUE EDOUARD BRANLY, 58640 Varennes-Vauzelles",
+  "ca": 2370000,
+  "effectif": "6-9 salariés",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "TECHUSFAR (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/texys-hd-538141094"
+ },
+ {
+  "rang": 184,
+  "siren": "792018814",
+  "nom": "M.L.K.M.C.",
+  "enseigne": "Carrefour City",
+  "ville": "Nevers",
+  "adresse": "10 AVENUE DU GENERAL DE GAULLE, 58000 Nevers",
+  "ca": 2358913,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Lionel Aime DECOSSE (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/mlkmc-792018814"
+ },
+ {
+  "rang": 185,
+  "siren": "309230084",
+  "nom": "LES CARS CHARLES",
+  "enseigne": null,
+  "ville": "Dun-les-Places",
+  "adresse": "LE BOURG, 58230 Dun-les-Places",
+  "ca": 2347611,
+  "effectif": "20-49 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Roman CHARLES (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
+ },
+ {
+  "rang": 186,
+  "siren": "422413567",
+  "nom": "SPORT COMM",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "41 BOULEVARD DU PRE PLANTIN, 58000 Nevers",
+  "ca": 2329567,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Samuel GAUTHIER (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/sport-comm-422413567"
+ },
+ {
+  "rang": 187,
+  "siren": "790066799",
+  "nom": "TC SERVICES",
+  "enseigne": null,
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 RUE DE LA GUETTE, 58340 Cercy-la-Tour",
+  "ca": 2301356,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Christophe MONTAGNON (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/tc-services-790066799"
+ },
+ {
+  "rang": 188,
+  "siren": "530717867",
+  "nom": "L'AGRICOLE",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "10 PLACE CARNOT, 58000 Nevers",
+  "ca": 2300886,
+  "effectif": "20-49 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Jean-Pierre THIBAULT (Directeur Général)",
+    "FT PRESTATIONS (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/lagricole-530717867"
+ },
+ {
+  "rang": 190,
+  "siren": "445382310",
+  "nom": "PHARMACIE DU PAYS CORBIGEOIS",
+  "enseigne": null,
+  "ville": "Corbigny",
+  "adresse": "26 AVENUE DU CHAMP DE FOIRE, 58800 Corbigny",
+  "ca": 2192827,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Marie Anne Dominique BONGARD (Président)",
+    "Eugenie Francoise Jacqueline MARTIN (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
+ },
+ {
+  "rang": 191,
+  "siren": "491904207",
+  "nom": "ASSISTANCE DEMENAGEMENT",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "39 RUE DE VERDUN, 58640 Varennes-Vauzelles",
+  "ca": 2184086,
+  "effectif": "10-19 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Loic Pierre ANDRE (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/assistance-demenagement-491904207"
+ },
+ {
+  "rang": 192,
+  "siren": "799045968",
+  "nom": "SOCIETE ELISEE",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "33 RUE DES GRANDS PRES, 58000 Nevers",
+  "ca": 2170662,
+  "effectif": "3-5 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "L OLIVERAIE (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/societe-elisee-799045968"
+ },
+ {
+  "rang": 193,
+  "siren": "538548199",
+  "nom": "EVRARD & FILS",
+  "enseigne": null,
+  "ville": "Château-Chinon (Ville)",
+  "adresse": "1 T RUE DIDEROT, 58120 Château-Chinon (Ville)",
+  "ca": 2131423,
+  "effectif": "20-49 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Benoit Claude EVRARD (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/evrard-fils-538548199"
+ },
+ {
+  "rang": 196,
+  "siren": "379781610",
+  "nom": "DENIS ET FILS",
+  "enseigne": null,
+  "ville": "Guérigny",
+  "adresse": "ZI DE VILLEMENANT, 58130 Guérigny",
+  "ca": 2070500,
+  "effectif": "10-19 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "ROSAWOOD (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/denis-et-fils-379781610"
+ },
+ {
+  "rang": 197,
+  "siren": "538153586",
+  "nom": "TERRINES DU MORVAN",
+  "enseigne": null,
+  "ville": "Onlay",
+  "adresse": "RTE DU MONT BEUVRAY, 58370 Onlay",
+  "ca": 2049825,
+  "effectif": "10-19 salariés",
+  "activite": "Industries alimentaires",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Arnaud SABATIER (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/terrines-du-morvan-538153586"
+ },
+ {
+  "rang": 198,
+  "siren": "979433992",
+  "nom": "DLS DISTRIBUTION",
+  "enseigne": "Carrefour Contact",
+  "ville": "Fourchambault",
+  "adresse": "12 RUE GAMBETTA, 58600 Fourchambault",
+  "ca": 2031092,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Lionel Aimé DECOSSE (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/dls-distribution-979433992"
+ }
+]

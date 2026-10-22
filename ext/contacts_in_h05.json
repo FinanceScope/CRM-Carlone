@@ -1,0 +1,381 @@
+[
+ {
+  "rang": 70,
+  "siren": "490935756",
+  "nom": "TEXYS INTERNATIONAL",
+  "enseigne": "Texys Group / Texense",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZA des Chamonds, 16 rue Edouard Branly, 58640 Varennes-Vauzelles, 58640 Varennes-Vauzelles",
+  "ca": 11254070,
+  "effectif": "20-49 (42 salariés en 2025)",
+  "activite": "Produits informatiques, électroniques et optiques",
+  "deja": {
+   "telephone": "+33 3 86 21 27 18",
+   "email": null,
+   "site_web": "https://www.texysgroup.com",
+   "linkedin": "https://www.linkedin.com/company/texys-group",
+   "dirigeants": [
+    "TEXYS HD (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": "Philippe Leuwers — Directeur général de Texys Group (signataire du communiqué de janvier 2024)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/490935756"
+ },
+ {
+  "rang": 72,
+  "siren": "418048591",
+  "nom": "FOURCHAMB",
+  "enseigne": "Intermarché Super Fourchambault",
+  "ville": "Fourchambault",
+  "adresse": "9 rue du 4 Septembre, 58600 Fourchambault, 58600 Fourchambault",
+  "ca": 11116182,
+  "effectif": "20-49",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": "03 86 60 99 30",
+   "email": null,
+   "site_web": "https://www.intermarche.com/magasin?pdvref=02520",
+   "linkedin": null,
+   "dirigeants": [
+    "Alain BAILLOU (Président de SAS)",
+    "Thomas Aurélien KERBOURC'H (Directeur général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/418048591"
+ },
+ {
+  "rang": 73,
+  "siren": "611880204",
+  "nom": "IGOL CENTRE",
+  "enseigne": "IGOL Centre",
+  "ville": "Nevers",
+  "adresse": "72 rue d'Alsace-Lorraine, 58000 Nevers, 58000 Nevers",
+  "ca": 11078219,
+  "effectif": "20-49",
+  "activite": "Cokéfaction et raffinage",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://www.igol.com",
+   "linkedin": null,
+   "dirigeants": [
+    "CIPELIA (personne morale) (Président de SAS)",
+    "Isabelle BILLOUE MEUNIER (Personne ayant le pouvoir d'engager la société)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/611880204"
+ },
+ {
+  "rang": 74,
+  "siren": "453481244",
+  "nom": "SARL BOUILLET FRERES",
+  "enseigne": "Bouillet Frères",
+  "ville": "Decize",
+  "adresse": "ZA Les Champs Monarès, 58300 Decize, 58300 Decize",
+  "ca": 9694681,
+  "effectif": "10-19 (tranche INSEE la plus récente : 6-9)",
+  "activite": "Commerce de gros",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Guillaume BOUILLET (Gérant)",
+    "Jérôme BOUILLET (Gérant)",
+    "Sébastien BOUILLET (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/453481244"
+ },
+ {
+  "rang": 77,
+  "siren": "885820217",
+  "nom": "SO.DI.TAN",
+  "enseigne": "Super U Tannay (probable)",
+  "ville": "Tannay",
+  "adresse": "Avenue de la Fringale, 58190 Tannay, 58190 Tannay",
+  "ca": 10487726,
+  "effectif": "20-49 (27 salariés)",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "GERMAIN'S DEVELOPMENT (personne morale) (Président de SAS (depuis 24/08/2026))"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/885820217"
+ },
+ {
+  "rang": 80,
+  "siren": "919448043",
+  "nom": "VALENJE",
+  "enseigne": "Carrefour Market Decize",
+  "ville": "Decize",
+  "adresse": "18 route de Champvert, 58300 Decize, 58300 Decize",
+  "ca": 10182041,
+  "effectif": "20-49",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "CORVAHIE (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/919448043"
+ },
+ {
+  "rang": 81,
+  "siren": "428223531",
+  "nom": "ALBEN",
+  "enseigne": "Intermarché (Sauvigny-les-Bois)",
+  "ville": "Sauvigny-les-Bois",
+  "adresse": "Avenue de Marigny, 58160 Sauvigny-les-Bois, 58160 Sauvigny-les-Bois",
+  "ca": 9228083,
+  "effectif": "20-49",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Laurent Pommier (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/428223531"
+ },
+ {
+  "rang": 82,
+  "siren": "701880155",
+  "nom": "TRANSPORTS CHARRIER ET COMPAGNIE",
+  "enseigne": "Transports Charrier",
+  "ville": "Decize",
+  "adresse": "44 Route des Feuillats, 58300 Decize, 58300 Decize",
+  "ca": 9205056,
+  "effectif": "50-99 (75 salariés en 2025)",
+  "activite": "Transports terrestres",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://www.transports-charrier.fr",
+   "linkedin": null,
+   "dirigeants": [
+    "GROUPE ROUSSEAU (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/701880155"
+ },
+ {
+  "rang": 83,
+  "siren": "398711283",
+  "nom": "TECHNIC'ELEC 58",
+  "enseigne": "Technic Elec 58",
+  "ville": "Nevers",
+  "adresse": "31 Boulevard du Pré Plantin, 58000 Nevers, 58000 Nevers",
+  "ca": 9021831,
+  "effectif": "20-49",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": "03 86 57 56 33",
+   "email": "technic.e.58@wanadoo.fr",
+   "site_web": null,
+   "linkedin": "https://www.linkedin.com/company/technic-elec-58",
+   "dirigeants": [
+    "Thierry Bourbon (Président de SAS)",
+    "Romain Blond (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/398711283"
+ },
+ {
+  "rang": 84,
+  "siren": "411741440",
+  "nom": "CNMC CIRCUIT DE NEVERS MAGNY-COURS",
+  "enseigne": "Circuit de Nevers Magny-Cours",
+  "ville": "Magny-Cours",
+  "adresse": "Technopôle, CS 80001, 58470 Magny-Cours, 58470 Magny-Cours",
+  "ca": 8994319,
+  "effectif": "20-49 (32 salariés en 2024)",
+  "activite": "Activités sportives et de loisirs",
+  "deja": {
+   "telephone": "03 86 21 80 00",
+   "email": null,
+   "site_web": "https://www.circuitmagnycours.com",
+   "linkedin": "https://www.linkedin.com/company/circuit-de-nevers-magny-cours",
+   "dirigeants": [
+    "Serge Saulnier (Président du directoire)",
+    "Romain Daguenet (Membre du directoire)",
+    "Katia Favaretto (Membre du directoire)",
+    "Fabien Bazin (Président du conseil de surveillance)",
+    "Dominique Bonnet (Vice-Président du conseil de surveillance)"
+   ],
+   "interlocuteur": "Serge SAULNIER — Président du directoire (depuis 2010)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/411741440"
+ },
+ {
+  "rang": 86,
+  "siren": "420237398",
+  "nom": "DAJAZY",
+  "enseigne": "Intermarché Contact (Saint-Benin-d'Azy)",
+  "ville": "Saint-Benin-d'Azy",
+  "adresse": "ZAC de la Badelle, 58270 Saint-Benin-d'Azy, 58270 Saint-Benin-d'Azy",
+  "ca": 8716137,
+  "effectif": "10-19",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Myriam Mordzialek (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/420237398"
+ },
+ {
+  "rang": 87,
+  "siren": "631880192",
+  "nom": "CLINIQUE DU CHATEAU DU TREMBLAY",
+  "enseigne": "Clinique du Château du Tremblay (Ramsay Santé)",
+  "ville": "Chaulgnes",
+  "adresse": "Lieu-dit Château du Tremblay, 58400 Chaulgnes, 58400 Chaulgnes",
+  "ca": 8663553,
+  "effectif": "50-99 (64 salariés en 2025)",
+  "activite": "Santé humaine",
+  "deja": {
+   "telephone": "03 86 59 75 75",
+   "email": null,
+   "site_web": "https://clinique-chateau-du-tremblay.ramsaysante.fr",
+   "linkedin": "https://www.linkedin.com/company/clinique-chateau-tremblay",
+   "dirigeants": [
+    "Benoît Hue (Président de SAS)",
+    "Tanguy Charbonnier (Directeur Général)"
+   ],
+   "interlocuteur": "Tanguy Charbonnier — Directeur général de la SAS (depuis le 01/07/2023) ; président : Benoît Hue (Ramsay Santé)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/631880192"
+ },
+ {
+  "rang": 92,
+  "siren": "844428623",
+  "nom": "KEOLIS NEVERS",
+  "enseigne": "Taneo (réseau de bus de Nevers Agglomération)",
+  "ville": "Nevers",
+  "adresse": "120 rue de Marzy, 58000 Nevers, 58000 Nevers",
+  "ca": 8132313,
+  "effectif": "50-99",
+  "activite": "Transports terrestres",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": "https://www.taneo-bus.fr",
+   "linkedin": "https://www.linkedin.com/company/keolis-nevers",
+   "dirigeants": [
+    "Nathalie Juston (Barbrel) (Gérante)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/844428623"
+ },
+ {
+  "rang": 93,
+  "siren": "692007768",
+  "nom": "LITHOPRESS",
+  "enseigne": null,
+  "ville": "Luzy",
+  "adresse": "La Maladière, 58170 Luzy, 58170 Luzy",
+  "ca": 8092171,
+  "effectif": "10-19 (16 salariés en 2025)",
+  "activite": "Imprimerie",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "SAS GRAPHILYS (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/692007768"
+ },
+ {
+  "rang": 96,
+  "siren": "404816712",
+  "nom": "CIA IMPRIMERIE",
+  "enseigne": "CIA Graphic (enseignes CIA Bourgogne, IB Imprimerie, CIA Direct, CIA Com)",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "Zone Industrielle, 58320 Pougues-les-Eaux, 58320 Pougues-les-Eaux",
+  "ca": 7725252,
+  "effectif": "20-49 (30 salariés en 2025)",
+  "activite": "Imprimerie",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": "https://www.linkedin.com/company/imprimerie-ciagraphic",
+   "dirigeants": [
+    "2B FINANCE ET CONSEILS (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": "Xavier Boulot — Président de 2B Finance et Conseils, holding présidente de CIA Imprimerie"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/404816712"
+ },
+ {
+  "rang": 99,
+  "siren": "887120046",
+  "nom": "MORVAN DISTRIBUTION",
+  "enseigne": "Weldom Clamecy / U Express Lormes",
+  "ville": "Clamecy",
+  "adresse": "Route d'Orléans, La Vanne du Gour, 58500 Clamecy, 58500 Clamecy",
+  "ca": 7322689,
+  "effectif": "20-49",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "ANCIENS ETABLISSEMENTS GEORGES SCHIEVER ET FILS (personne morale) (Président de SAS)",
+    "Dominique De Matteis (Autre (mandataire))"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/887120046"
+ }
+]

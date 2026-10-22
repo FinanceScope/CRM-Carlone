@@ -10,17 +10,17 @@ For each company, find:
    • the directeur administratif et financier (DAF), responsable administratif et financier (RAF), directeur financier, responsable comptable or contrôleur de gestion, when the company is large enough to have one (usually 50+ employees, or part of a group — for a group, prefer the finance person for this site/company);
    • otherwise the dirigeant (gérant / président / directeur général) — say so with type "dirigeant".
    Give name + exact job title + source. Good sources: the company website (équipe, organigramme, actualités), local press, Kompass company pages (they list executives by function), LinkedIn as it appears in WebSearch results (search e.g. "directeur administratif et financier" "COMPANY NAME" or "RAF" "COMPANY NAME" Nevers — use the result title/snippet only, do NOT fetch linkedin.com pages; you may record the public LinkedIn profile URL shown in the result), the registry (deja.dirigeants) for dirigeants.
-   Their direct professional phone and professional email ONLY if published on a public page for professional contact (company site, press release, a directory listing for that person). NEVER guess or construct an email address. If other staff emails on the company's own site show a pattern (e.g. prenom.nom@domaine.fr), you may record that pattern in "format_email_observe" with the page where you saw it, but do not apply it to anyone.
+   Their direct professional phone and professional email ONLY if published on a public page for professional contact (company site, press release, a directory listing for that person). NEVER guess or construct an email address, and do not record email patterns ("format_email_observe" is always null).
 5. autres_contacts — at most 2 other useful professional contacts if found on the way (e.g. directeur de site, RH/CSE), same rules.
 
 Rules:
 - Collect only names, job titles and professional contact points. Do not collect private mobile numbers or private emails (e.g. a personal gmail/hotmail not published by the company for business contact), home addresses, or any other personal information.
 - If opposition_prospection is true: collect company-level contacts only (standard, generic email, website); for decideur_financier give only the name and title if they appear on the company's own website, with no personal contact details.
 - Never invent: use null when not found. Note when a number comes from a weak source (aggregator) or looks outdated.
-- Budget: about 3–5 searches/fetches per company, then move on. Prefer WebSearch first (snippets often show the phone number and LinkedIn job titles), then WebFetch the company website contact/équipe page, Kompass or Pappers if needed. Keep at most 2 fetches in flight; Pappers and Kompass rate-limit, so retry after a pause. If WebFetch reports an hourly limit, keep going with WebSearch only; if searches are refused too, wait until the next full UTC hour (background `sleep`) and continue.
+- Budget: about 3 searches per company (5 at most for the large ones), then move on. Only WebSearch works in this environment: WebFetch, curl and any direct page access are blocked by the network policy, so do not try them. Work from search-result titles and snippets (they often show the phone number, the contact page text and LinkedIn job titles); useful queries: "NOM" VILLE téléphone ; "NOM" contact ; "directeur administratif et financier" "NOM" ; site:kompass.com "NOM". Record as source the URL of the result whose snippet shows the information. If searches are refused, stop and write what you have.
 - Phone numbers in French format "03 86 12 34 56".
 
-Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one object per input company, same order:
+Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one object per company you have actually researched, in input order (no placeholder entries for companies not yet done):
 {"siren": "9 digits",
  "standard": {"tel": "..." or null, "source": "url" or null},
  "email_generique": {"email": "...", "source": "url"} or null,

@@ -1,0 +1,380 @@
+[
+ {
+  "rang": 101,
+  "siren": "950499673",
+  "nom": "SALDIA",
+  "enseigne": "Intermarché",
+  "ville": "Guérigny",
+  "adresse": "RUE DE LANESSAN, 58130 Guérigny",
+  "ca": 16600000,
+  "effectif": "20-49 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "FANALONA (Président)",
+    "SA SALVAN ET ASSOCIES"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/saldia-950499673"
+ },
+ {
+  "rang": 107,
+  "siren": "530610187",
+  "nom": "CF2C (ex-ACORDIA)",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "30 AVENUE PIERRE BEREGOVOY, 58000 Nevers",
+  "ca": 5968256,
+  "effectif": "20-49 salariés",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Louis BAUVILLARD (Directeur Général)",
+    "Constance Martine Marie DENJEAN (GAUME) (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/acordia-530610187"
+ },
+ {
+  "rang": 108,
+  "siren": "431863752",
+  "nom": "NAUDET SAPINS DE NOEL",
+  "enseigne": null,
+  "ville": "Planchez",
+  "adresse": "LA GUTTELEAU PLANCHEZ EN MORVAN, 58230 Planchez",
+  "ca": 5872892,
+  "effectif": "10-19 salariés",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Martin Jean-Raymond NAUDET (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+ },
+ {
+  "rang": 116,
+  "siren": "350408183",
+  "nom": "TPI TRAVAUX PUBLICS ET INDUSTRIELS",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZI DES CHAMONDS RUE THOMAS EDISON, 58640 Varennes-Vauzelles",
+  "ca": 5096936,
+  "effectif": "20-49 salariés",
+  "activite": "Activités de location et location-bail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "AFIC (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+ },
+ {
+  "rang": 120,
+  "siren": "354045205",
+  "nom": "A.E. PRODUCTION ALAIN ELINAS PRODUCTION",
+  "enseigne": null,
+  "ville": "Pougues-les-Eaux",
+  "adresse": "1298 AVENUE DE PARIS, 58320 Pougues-les-Eaux",
+  "ca": 4732145,
+  "effectif": "20-49 salariés",
+  "activite": "Fabrication de meubles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Alain MANNS"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+ },
+ {
+  "rang": 123,
+  "siren": "430086165",
+  "nom": "JOREST",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "RUE DU RAVELIN, 58000 Nevers",
+  "ca": 4465397,
+  "effectif": "50-99 salariés",
+  "activite": "Restauration",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Yannick ANDRIEUX (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/jorest-430086165"
+ },
+ {
+  "rang": 124,
+  "siren": "888572831",
+  "nom": "GERMAIN'S DEVELOPMENT",
+  "enseigne": null,
+  "ville": "Tannay",
+  "adresse": "AVENUE DE LA FRINGALE, 58190 Tannay",
+  "ca": 4410000,
+  "effectif": "0 salarié (donnée 2023)",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Julien Claude Henri GERMAIN (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/germains-development-888572831"
+ },
+ {
+  "rang": 126,
+  "siren": "393717863",
+  "nom": "LES ETABLISSEMENTS HUGUET",
+  "enseigne": null,
+  "ville": "Saint-Honoré-les-Bains",
+  "adresse": "24 RUE DU CHEMIN FERRE, 58360 Saint-Honoré-les-Bains",
+  "ca": 4318861,
+  "effectif": "20-49 salariés",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Fabien HUGUET (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+ },
+ {
+  "rang": 128,
+  "siren": "311665913",
+  "nom": "ENTREPRISE BERNARD POTIER ANCIENNE ENTREPRISE RENE PERROT",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "101 FAUBOURG DE LA BARATTE, 58000 Nevers",
+  "ca": 4220000,
+  "effectif": "20-49 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Alexis Florent DE WITTE (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
+ },
+ {
+  "rang": 130,
+  "siren": "792570335",
+  "nom": "CORIMAR",
+  "enseigne": "Intermarché",
+  "ville": "Magny-Cours",
+  "adresse": "LD DU PRE AUX SAINTS RUE DE PARIS, 58470 Magny-Cours",
+  "ca": 4094565,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "REGULAR (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/corimar-792570335"
+ },
+ {
+  "rang": 131,
+  "siren": "333857605",
+  "nom": "EIFFAGE ENERGIE SYSTEMES - BOURGEOT",
+  "enseigne": null,
+  "ville": "Fourchambault",
+  "adresse": "33 RUE GAMBETTA, 58600 Fourchambault",
+  "ca": 4063307,
+  "effectif": "20-49 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "EIFFAGE ENERGIE SYSTEMES - REGIONS FRANCE (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
+ },
+ {
+  "rang": 3,
+  "siren": "571881002",
+  "nom": "VINCENT SAS",
+  "enseigne": "Groupe Vincent (holding)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "3 route de Paris, 58640 Varennes-Vauzelles, 58640 Varennes-Vauzelles",
+  "ca": 184028385,
+  "effectif": "10-19 (holding) ; ≈450 salariés pour le groupe",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "deja": {
+   "telephone": "03 86 68 22 00 (concession Citroën SAS Garage Vincent, 3 route de Paris – même adresse que le siège)",
+   "email": null,
+   "site_web": "https://www.groupevincent.fr",
+   "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+   "dirigeants": [
+    "Rodolphe Dimitri VINCENT (Président de SAS)",
+    "Guillaume VINCENT (Directeur général délégué)"
+   ],
+   "interlocuteur": "Rodolphe Vincent — Président de Vincent SAS et de Soc Garage GRV (site de Cosne)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/571881002"
+ },
+ {
+  "rang": 5,
+  "siren": "978029817",
+  "nom": "DUMANGE FAMILY",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "5 rue Denis Papin, 58640 Varennes-Vauzelles, 58640 Varennes-Vauzelles",
+  "ca": 173114000,
+  "effectif": "3-5 (holding)",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Sébastien DUMANGE (Président de SAS)",
+    "Delphine DUMANGE (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/978029817"
+ },
+ {
+  "rang": 9,
+  "siren": "510317191",
+  "nom": "GROUPE ROUSSEAU",
+  "enseigne": null,
+  "ville": "Clamecy",
+  "adresse": "Allée Clément Ader, 58500 Clamecy, 58500 Clamecy",
+  "ca": 91334000,
+  "effectif": "20-49 (registre) ; 10-19 selon le classement",
+  "activite": "Services financiers",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Eric ROUSSEAU (Président de SAS)",
+    "Jade ROUSSEAU (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/510317191"
+ },
+ {
+  "rang": 11,
+  "siren": "833243801",
+  "nom": "VANAJEF",
+  "enseigne": null,
+  "ville": "Coulanges-lès-Nevers",
+  "adresse": "Boulevard Beauregard, 58660 Coulanges-lès-Nevers, 58660 Coulanges-lès-Nevers",
+  "ca": 64111376,
+  "effectif": "0",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Jean-François MOUSSET (Président de SAS)",
+    "Nadia MOUSSET (MADAIRE) (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/833243801"
+ },
+ {
+  "rang": 12,
+  "siren": "399502897",
+  "nom": "HOLDING CASSIER",
+  "enseigne": null,
+  "ville": "Cercy-la-Tour",
+  "adresse": "33 avenue Louis Coudant, 58340 Cercy-la-Tour, 58340 Cercy-la-Tour",
+  "ca": 71530000,
+  "effectif": "10-19",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Jean-François CASSIER (Président de SAS)",
+    "Alain CASSIER (Président du conseil de surveillance)",
+    "Luc CASSIER (Membre du directoire)",
+    "Jean-Luc FUMOUX (Membre du directoire)",
+    "Pierre RACOUCHOT (Membre du directoire)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/399502897"
+ }
+]

@@ -1,5 +1,12 @@
 # Passation — CRM Entreprises Nièvre (projet Vieux Relais / le M)
 
+## Mise à jour du 22/10/2026 (nouveau compte, dépôt FinanceScope/CRM-Carlone)
+- **Page CRM republiée** depuis le nouveau compte (privée) : https://claude.ai/artifact/CrKrSAuH9mUAaey2wN8uSV — capacités `db` (collection « suivi », vide au départ), `user` (noms des associés dans l'historique), `downloads` (export CSV). Le suivi saisi sur l'ancienne page n'a pas été repris.
+- **Réorientation vers la vente d'œuvres d'art faite** (`art_merge.py`, à lancer après `ext_merge.py`) : régime fiscal probable, bénéfice, plafond de déduction par entreprise (20 000 € ou 5 ‰ du CA, plancher confirmé par le BOFiP), lieu d'exposition, nouvelles priorités et vagues (96 cibles prioritaires : 16 à Cosne, 18 dans le bassin, 62 grands comptes). Page : dispositif en cinq conditions, calcul de la déduction, discours, objections, cadre légal sourcé, mail neutre par fiche.
+- **Contacts** : sur les 59 entrées des anciens fichiers `contacts_out_*`, 48 étaient des emplacements « non traité » / « PENDING » ; 11 entreprises seulement avaient été recherchées (corrigé dans `ext_merge.py`). Nouveaux lots par priorité art : `contacts_lots.py` → `ext/contacts_in_hNN.json` (h01 à h06 = les 96 cibles prioritaires), résultats dans `ext/contacts_out_hNN.json`.
+- **Réseau** : l'environnement cloud bloque l'accès direct aux sites (bofip, legifrance, pappers, API recherche-entreprises) ; seule la recherche web fonctionne. Élargir l'accès réseau dans les réglages de l'environnement pour les recherches qui demandent d'ouvrir des pages.
+- **Point à faire valider** : exposer des œuvres achetées par une entreprise dans un lieu tiers ouvert au public (piste du Vieux Relais) n'est pas explicitement prévu par le BOFiP (qui cite les locaux de l'entreprise, les événements et le dépôt dans un musée) : à valider par un expert-comptable ou un avocat fiscaliste.
+
 Document de reprise, rédigé le 22/10/2026, pour continuer le projet depuis un autre compte Claude.
 À joindre dans la nouvelle conversation avec l'archive `crm-nievre-projet.zip`.
 

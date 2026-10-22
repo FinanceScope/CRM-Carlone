@@ -1,0 +1,391 @@
+[
+ {
+  "rang": 76,
+  "siren": "391484730",
+  "nom": "MADELIE",
+  "enseigne": "Intermarché Super La Machine",
+  "ville": "La Machine",
+  "adresse": "Route de Decize, Forêt des Glénons, 58260 La Machine, 58260 La Machine",
+  "ca": 9126027,
+  "effectif": "20-49",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Fabrice PONTI (Président de SAS)",
+    "Pierre PONTI (Directeur général)",
+    "Sylvie PONTI (Directrice générale)",
+    "REGULAR (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/391484730"
+ },
+ {
+  "rang": 78,
+  "siren": "778492009",
+  "nom": "CMG CENTRE DE MATERIEL GENERAL",
+  "enseigne": "CMG TP",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "2 B rue Thomas Edison, 58640 Varennes-Vauzelles, 58640 Varennes-Vauzelles",
+  "ca": 8058595,
+  "effectif": "20-49",
+  "activite": "Commerce de gros",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": "https://www.linkedin.com/company/cmgtp",
+   "dirigeants": [
+    "AFIC (personne morale) (Président de SAS)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/778492009"
+ },
+ {
+  "rang": 79,
+  "siren": "799292206",
+  "nom": "ENERGIES NEVERS AGGLOMERATION - ENEA",
+  "enseigne": "ENEA – réseau de chaleur de Nevers",
+  "ville": "Nevers",
+  "adresse": "32 rue de Barcelone, 58000 Nevers, 58000 Nevers",
+  "ca": 6970521,
+  "effectif": "0",
+  "activite": "Production et distribution d'électricité, gaz, vapeur",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Jérôme AGUESSE (Président de SAS)",
+    "Nicolas VOLTZ (Directeur général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/799292206"
+ },
+ {
+  "rang": 95,
+  "siren": "823921739",
+  "nom": "MAELANN",
+  "enseigne": "Intermarché (Dornes)",
+  "ville": "Dornes",
+  "adresse": "Lieu-dit Les Blondeaux, Route de Moulins, 58390 Dornes, 58390 Dornes",
+  "ca": 7790567,
+  "effectif": "20-49",
+  "activite": "Commerce de détail",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Mikaël Le Guillou (Président de SAS)",
+    "Aurore Jeandeau (Directeur Général)",
+    "Déborah Lefebvre (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/823921739"
+ },
+ {
+  "rang": 102,
+  "siren": "834179566",
+  "nom": "SOLILOIRE",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "44 T BOULEVARD MARECHAL JUIN, 58000 Nevers",
+  "ca": 6909946,
+  "effectif": "20-49 salariés",
+  "activite": "Activités pour la santé humaine",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Laurent BAIL (Gérant)",
+    "Nicolas CHAILLET (Gérant)",
+    "Mehdi CHERFAOUI (Gérant)",
+    "Marc FOINANT (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/soliloire-834179566"
+ },
+ {
+  "rang": 103,
+  "siren": "493717102",
+  "nom": "TC VRAC",
+  "enseigne": "TC Transports",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 RUE DE LA GUETTE, 58340 Cercy-la-Tour",
+  "ca": 6826577,
+  "effectif": "20-49 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "HOLDING CASSIER (Président)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/tc-vrac-493717102"
+ },
+ {
+  "rang": 106,
+  "siren": "909990079",
+  "nom": "APOCF",
+  "enseigne": "Carrefour Contact",
+  "ville": "Saint-Amand-en-Puisaye",
+  "adresse": "56 ROUTE DE COSNE, 58310 Saint-Amand-en-Puisaye",
+  "ca": 6055221,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": "03 86 39 78 15",
+   "email": null,
+   "site_web": "https://www.carrefour.fr/magasin/contact-saint-amand-en-puisaye",
+   "linkedin": null,
+   "dirigeants": [
+    "Frederic BEAUFILS (Gérant)"
+   ],
+   "interlocuteur": "Frederic BEAUFILS — Gérant"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/apocf-909990079"
+ },
+ {
+  "rang": 109,
+  "siren": "345375661",
+  "nom": "EGTN ENTREPRISE GENERALE DE TRAVAUX ET DE NETTOYAGE",
+  "enseigne": "DeCA Propreté",
+  "ville": "Nevers",
+  "adresse": "7 et 9 RUE DES PRES, 58000 Nevers",
+  "ca": 5810535,
+  "effectif": "250-499 salariés",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "deja": {
+   "telephone": "03 86 57 25 05",
+   "email": null,
+   "site_web": "https://www.deca-proprete.fr/notre-groupe-deca-proprete/nos-entreprises-de-nettoyage/entreprise-nettoyage-nevers-nievre-03/",
+   "linkedin": "https://www.linkedin.com/company/deca-propret%C3%A9/",
+   "dirigeants": [
+    "Bruno DECEUNYNCK (Président)"
+   ],
+   "interlocuteur": "Bruno Deceunynck — Président (fondateur du groupe DeCA Propreté)"
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/egtn-entreprise-generale-de-travaux-et-de-nettoyage-345375661"
+ },
+ {
+  "rang": 110,
+  "siren": "500113691",
+  "nom": "LE PRIMEUR DE NEVERS",
+  "enseigne": null,
+  "ville": "Varennes-Vauzelles",
+  "adresse": "LES COMMAILLES, 58640 Varennes-Vauzelles",
+  "ca": 5590313,
+  "effectif": "6-9 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "SARL PROPART (Associé indéfiniment et solidairement responsable)",
+    "PROSOL EXPLOITATION (Gérant et associé indéfiniment responsable)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/le-primeur-de-nevers-500113691"
+ },
+ {
+  "rang": 111,
+  "siren": "400672762",
+  "nom": "FOUCHER-LEBRUN VAL DE LOIRE",
+  "enseigne": null,
+  "ville": "Alligny-Cosne",
+  "adresse": "29 ROUTE DE BOUHY, 58200 Alligny-Cosne",
+  "ca": 5560113,
+  "effectif": "6-9 salariés",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Gabriel PICARD (Président du conseil d’administration)",
+    "Marc VAPPEREAU (Directeur Général)",
+    "Francine PICARD (Administrateur)",
+    "Liliane PICARD (REBOURS) (Administrateur)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/foucher-lebrun-val-de-loire-400672762"
+ },
+ {
+  "rang": 113,
+  "siren": "449840974",
+  "nom": "LES JARDINS DE NEVERS",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "RUE HENRY BOUQUILLARD, 58000 Nevers",
+  "ca": 5215890,
+  "effectif": "6-9 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "PROSOL EXPLOITATION (Gérant et associé indéfiniment et solidairement responsable)",
+    "PROPART (Associé indéfiniment et solidairement responsable)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/les-jardins-de-nevers-449840974"
+ },
+ {
+  "rang": 115,
+  "siren": "929918241",
+  "nom": "AQUACLAIRE",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "ZI SAINT 24 RUE GEORGES DUFAUD, 58000 Nevers",
+  "ca": 5170253,
+  "effectif": "10-19 salariés",
+  "activite": "Collecte et traitement des eaux usées",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Jérôme Robert MALUS (Président du conseil d’administration)",
+    "David VERHILLE (Directeur Général)",
+    "Sandrine AZEMARD (Administrateur)",
+    "Bénédicte AMELAINE (BASTIEN) (Administrateur)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+ },
+ {
+  "rang": 117,
+  "siren": "811119403",
+  "nom": "EL FAYZI",
+  "enseigne": null,
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE DES FONDEURS, 58200 Cosne-Cours-sur-Loire",
+  "ca": 4918626,
+  "effectif": "20-49 salariés",
+  "activite": "Transports terrestres et transport par conduites",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Ibrahim EL FAYZI (Gérant)",
+    "Mustapha EL FAYZI (Gérant)"
+   ],
+   "interlocuteur": "Mustapha El Fayzi — Co-gérant (avec Ibrahim El Fayzi)"
+  },
+  "opposition_prospection": true,
+  "pappers_url": "https://www.pappers.fr/entreprise/el-fayzi-811119403"
+ },
+ {
+  "rang": 118,
+  "siren": "535209654",
+  "nom": "DAVEMARIS",
+  "enseigne": "Carrefour Contact",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "95 RUE ALFRED MASSE, 58320 Pougues-les-Eaux",
+  "ca": 4798770,
+  "effectif": "10-19 salariés",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "David VEYRET (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/davemaris-535209654"
+ },
+ {
+  "rang": 122,
+  "siren": "749981304",
+  "nom": "MALVICHE DISTRIBUTION",
+  "enseigne": null,
+  "ville": "Saint-Martin-du-Puy",
+  "adresse": "1/3 ROUTE DE CHALAUX, 58140 Saint-Martin-du-Puy",
+  "ca": 4526800,
+  "effectif": "6-9 salariés",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Michel MALVICHE (Président)",
+    "Jocelyne BARGEOT-MALVICHE (BARGEOT) (Directeur Général)",
+    "Karine MALVICHE (Directeur Général)",
+    "Sophie RADEL (MALVICHE) (Directeur Général)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+ },
+ {
+  "rang": 132,
+  "siren": "320130735",
+  "nom": "SOCIETE LAGOUTTE & FILS",
+  "enseigne": null,
+  "ville": "Guérigny",
+  "adresse": "ZONE DE VILLEMENANT RUE DE VILLEMENANT, 58130 Guérigny",
+  "ca": 4030000,
+  "effectif": "20-49 salariés",
+  "activite": "Travaux de construction spécialisés",
+  "deja": {
+   "telephone": null,
+   "email": null,
+   "site_web": null,
+   "linkedin": null,
+   "dirigeants": [
+    "Patrice LAGOUTTE (Gérant)"
+   ],
+   "interlocuteur": null
+  },
+  "opposition_prospection": false,
+  "pappers_url": "https://www.pappers.fr/entreprise/societe-lagoutte-fils-320130735"
+ }
+]
