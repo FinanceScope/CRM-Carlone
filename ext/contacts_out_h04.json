@@ -1,0 +1,360 @@
+[
+ {
+  "siren": "631880408",
+  "standard": {
+   "tel": "03 86 84 40 12",
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "email_generique": null,
+  "site_web": "http://www.bongard-bazot.fr",
+  "decideur_financier": {
+   "nom": "Jean-Philippe BAZOT",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Philippe BAZOT",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard = numéro déjà connu (entrée), non revérifié : les extraits Cylex (https://www.cylex-locale.fr/entreprises/bongard-bazot-et-fils-11307240.html) n'affichaient pas le numéro. Aucun DAF/RAF/comptable trouvé malgré 100-199 salariés. Un dossier ICPE de la préfecture (https://www.nievre.gouv.fr/index.php/contenu/telechargement/6361/71729/file/Dossier_enregistrement_BBF.pdf) situe la scierie à La Machine (route de Decize, 58260). Directeurs généraux au registre : Eric BAZOT (BONGARD) et Jean-Luc BONGARD."
+ },
+ {
+  "siren": "322804931",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Carlos JIMENEZ",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/sumiriko-rubber-compounding-france_322804931"
+  },
+  "dirigeant_principal": {
+   "nom": "Carlos JIMENEZ",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/sumiriko-rubber-compounding-france_322804931"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Stéphane BIREBENT",
+    "fonction": "Directeur Général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/sumiriko-rubber-compounding-france_322804931"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Filiale du groupe japonais Sumitomo Riko ; aucun standard publié trouvé dans les extraits (adresse postale : Usine des Caillots, BP 101, 58302 Decize). Une offre France Travail de contrôleur de gestion industriel à Decize (https://candidat.francetravail.fr/offres/recherche/detail/189HYHP) mentionne un rattachement au responsable financier, mais l'employeur n'est pas nommé : finance non identifiée. Le président est probablement un dirigeant du groupe ; le DG (S. Birebent) est sans doute l'interlocuteur local, non confirmé."
+ },
+ {
+  "siren": "379437387",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Olivier DUBREUILH",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ets-buchez_379437387"
+  },
+  "dirigeant_principal": {
+   "nom": "Olivier DUBREUILH",
+   "fonction": "Directeur Général (la présidence est tenue par la holding PROCURIUM INVESTISSEMENT, dont le représentant n'a pas été identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ets-buchez_379437387"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Commerce de gros de matériel agricole (NAF 46.61Z). Établissements secondaires à Moulins-Engilbert (route de Châtillon) et Autun (24 rue Nicéphore Niépce) selon Xerfi. Aucun numéro ni site trouvé dans les extraits ; une recherche a été refusée car le nom a été pris pour celui d'un particulier."
+ },
+ {
+  "siren": "397727397",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.lookcycle.com",
+  "decideur_financier": {
+   "nom": "Damien OLAGNE",
+   "fonction": "Président de SAS (LOOK Fixations)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/397727397"
+  },
+  "dirigeant_principal": {
+   "nom": "Damien OLAGNE",
+   "fonction": "Président de SAS (LOOK Fixations)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/397727397"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Federico MUSI",
+    "fonction": "CEO de LOOK Cycle (groupe)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.activacapital.com/en/activa-capital-investment-portfolio/activa-capital-current-investments/510-look-cycle"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun DAF trouvé dans les extraits. Le président D. Olagne vient du registre seul (aucune source web ne le confirme). F. Musi est CEO du groupe depuis 2016 (rachat par Activa Capital) ; il est cité comme CEO dans un article récent sur le rachat de Pembree (https://cyclingindustry.news/look-cycle-acquires-uk-brand-pembree/), mais le poste est peut-être à revérifier. Le 118500 (https://118500.fr/telephone-service-client-look-cycle) donne le siège groupe au 27 rue du Docteur Léveillé, Nevers, sans afficher le numéro."
+ },
+ {
+  "siren": "308530690",
+  "standard": {
+   "tel": "03 86 20 04 34",
+   "source": "https://www.bible-marques.fr/magasins/58800-corbigny/atac"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "dirigeant_principal": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Catherine DE MATTEIS (MOUGNEAU)",
+    "fonction": "Directeur Général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/308530690"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Le standard (déjà connu) est confirmé par l'annuaire Bible-Marques (fiche Atac, 5 place du Champ de Foire). C'est un agrégateur, et l'enseigne Atac est devenue Auchan Supermarché (station 'Auchan Supermarché Corbigny'), donc la fiche est peut-être datée. Le SIRENE rattache aussi un établissement MAXIBRICO au 5 avenue du Champ de Foire."
+ },
+ {
+  "siren": "392607545",
+  "standard": {
+   "tel": "03 86 27 55 55",
+   "source": "https://www.laballery.fr"
+  },
+  "email_generique": {
+   "email": "contact@laballery.fr",
+   "source": "https://www.laballery.fr"
+  },
+  "site_web": "https://www.laballery.fr",
+  "decideur_financier": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration et Directrice générale",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "dirigeant_principal": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration et Directrice générale",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard, e-mail et site déjà connus (entrée), conservés : ils n'ont pas été recontrôlés car les extraits ne les montraient pas. SCOP (SA coopérative à conseil d'administration, environ 85 salariés). Aucun RAF/DAF/comptable trouvé (ni sur LinkedIn, ni dans la presse Livres Hebdo). Les anciens dirigeants cités dans la presse (David Perrain, Hubert Pedurand) sont obsolètes."
+ },
+ {
+  "siren": "338339146",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "dirigeant_principal": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (la présidence est tenue par la personne morale HOLDING CASSIER, dont le représentant n'a pas été identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "TC Transports est un groupe familial de transport et logistique créé en 1981 : 11 sites en France, plus de 700 salariés selon un dossier préfectoral (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Le site de Cercy-la-Tour fait aussi du tri de pneus (ALIAPUR). Le siège du groupe est indiqué avenue Louis Coudant à Cercy-la-Tour (ContactOut, https://contactout.com/company/TC-TRANSPORTS-6049). Un DAF de groupe existe probablement mais n'a pas été trouvé. Aucun standard trouvé dans les extraits."
+ },
+ {
+  "siren": "529213050",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Richard VIVES",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/529213050"
+  },
+  "dirigeant_principal": {
+   "nom": "Richard VIVES",
+   "fonction": "Président (dirigeant du groupe SUMA)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-suma-sur-le-point-de-reprendre-deux-affaires-a-vgrf/"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/529213050"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Concession du groupe SUMA (Richard Vivès, groupe basé dans la région lyonnaise : VW/Seat/Skoda/Cupra à Nevers et Cosne, Hyundai Nevers). L'annuaire Justacôté place 'Ducati Nevers - Suma' au 135 rue de Marzy (https://www.justacote.com/marzy-58180/moto-et-scooter/), soit la même adresse que la société. Aucun standard ni service comptable identifié, et une recherche dédiée au téléphone n'a rien donné. Pour la finance, le service comptable du groupe SUMA est probablement centralisé hors Nièvre (non confirmé)."
+ },
+ {
+  "siren": "307049437",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Le président est la personne morale FINANCIERE BONGARD. Son représentant n'a pas été identifié, et aucun dirigeant personne physique n'est connu. L'annuaire 118712 (https://www.118712.fr/professionnels/X0JRVl9UFQk, numéro masqué) lie FINANCIERE BONGARD aux noms 'Renault Garage Nevers Agent', 'Garage Nevers' et 'Financière Nevers' : il s'agit probablement d'une concession Renault/Dacia, à confirmer. Un lien familial avec Bongard Bazot et Fils (Jean-Luc et Eric Bongard, DG) est possible mais non vérifié. Aucun numéro trouvé dans les extraits pour le 183-185 route de Lyon à Challuy."
+ },
+ {
+  "siren": "921426086",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "dirigeant_principal": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Frédéric LONGO",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/921426086"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Exploite l'usine d'incinération d'ordures ménagères (UIOM) de Fourchambault, anciennement SONIRVAL puis VALEST, au 38 route de Vauzelles (rapport d'inspection Géorisques de 2025 : https://www.georisques.gouv.fr/webappReport/ws/installations/inspection/IAobM3aziW4I6l01V4ghaGeHiPi9ISyX). Groupe parent non identifié. Président récent (mars 2026). Aucun standard trouvé."
+ },
+ {
+  "siren": "409564481",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://danielson-groupe.fr",
+  "decideur_financier": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de Groupe Danielson (holding présidente de Danielson Engineering)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481"
+  },
+  "dirigeant_principal": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de Groupe Danielson (holding présidente de Danielson Engineering)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Recherche interrompue après une seule requête (aucun DAF/RAF trouvé) : le quota global de recherches web de la session était épuisé. Le nom de B. Delaporte vient de l'entrée (champ interlocuteur) et n'a pas été revérifié ; Pappers indique seulement la personne morale GROUPE DANIELSON comme présidente. Le site et le LinkedIn sont déjà connus. Standard à rechercher, et un DAF de groupe est probable (environ 130 salariés)."
+ }
+]

@@ -637,6 +637,17 @@ for c in base + ext:
         c['contact_finance'] = cf; n_ct['décideur'] += 1
         if cf.get('type') in ('DAF/RAF', 'comptable'): n_ct['dont finance'] += 1
         if cf.get('tel_direct') or cf.get('email'): n_ct['dont coordonnées directes'] += 1
+    dp = e.get('dirigeant_principal')
+    if isinstance(dp, dict) and dp.get('nom'):
+        cd = {k: dp.get(k) for k in ('nom', 'fonction', 'tel_direct', 'email', 'linkedin', 'source')}
+        cd['tel_direct'] = clean_tel(cd.get('tel_direct'))
+        if c.get('opposition_prospection'): cd['tel_direct'] = cd['email'] = None
+        c['contact_dirigeant'] = cd; n_ct['dirigeant'] += 1
+    ad = e.get('adresse')
+    if isinstance(ad, dict) and ad.get('adresse') and not c.get('adresse'):
+        c['adresse'] = ad['adresse'].strip(); n_ct['adresse ajoutée'] += 1
+        m = re.search(r'\b(58\d{3})\b', c['adresse'])
+        if m and not c.get('code_postal'): c['code_postal'] = m.group(1)
     ac = [x for x in (e.get('autres_contacts') or []) if isinstance(x, dict) and x.get('nom')][:2]
     if ac and not c.get('opposition_prospection'): c['autres_contacts'] = ac
     # format_email_observe non repris : afficher un format inviterait à deviner des adresses
@@ -674,6 +685,17 @@ for c in base + ext:
             del c['contact_finance']; n_vf['décideur retiré'] += 1
     elif cf and verdict(x) == 'non_confirme' and cf.get('type') != 'dirigeant':   # un dirigeant du registre n'a pas à être retrouvé sur le web
         cf['a_confirmer'] = True; n_vf['décideur à confirmer'] += 1
+    cd, x = c.get('contact_dirigeant'), v.get('dirigeant_principal')
+    if cd and verdict(x) == 'contredit':
+        if x.get('corrige'):
+            nom, _, fct = str(x['corrige']).partition(' — ')
+            cd.update(nom=nom.strip(), fonction=fct.strip() or None, tel_direct=None, email=None, linkedin=None, source=x.get('source'))
+            n_vf['dirigeant corrigé'] += 1
+        else:
+            del c['contact_dirigeant']; n_vf['dirigeant retiré'] += 1
+    adr, x = ((e.get('adresse') or {}).get('adresse') or '').strip(), v.get('adresse')
+    if adr and c.get('adresse') == adr and verdict(x) == 'contredit':
+        c['adresse'] = x['corrige'].strip() if x.get('corrige') else None; n_vf['adresse ' + ('corrigée' if x.get('corrige') else 'retirée')] += 1
     if c.get('autres_contacts'):
         faux = {y.get('nom') for y in (v.get('autres_contacts') or []) if verdict(y) == 'contredit'}
         c['autres_contacts'] = [y for y in c['autres_contacts'] if y.get('nom') not in faux]

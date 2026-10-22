@@ -1,0 +1,284 @@
+[
+ {
+  "siren": "419013297",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.cylex-locale.fr/la-charite-sur-loire/supermarch%C3%A9.html"
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "autres_contacts": [],
+  "note": "Numéro retrouvé sur Cylex (supermarché, 2 rue Plantes des Religieuses) en plus d'au-magasin.fr : deux annuaires, aucune source officielle Intermarché. Fanny Jaudon (DG) : uniquement au registre (Pappers), aucune source indépendante trouvée."
+ },
+ {
+  "siren": "312057318",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "autres_contacts": [],
+  "note": "Le 03 86 26 43 28 n'apparaît dans aucun résultat (118712 masque le numéro). Guillaume Coignet (DG) : registre seulement, aucune source indépendante."
+ },
+ {
+  "siren": "300822335",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335"
+  },
+  "autres_contacts": [],
+  "note": "Xerfi cite Christophe Maréchal parmi les dirigeants (fonction DG non précisée par Xerfi, cohérente avec le registre)."
+ },
+ {
+  "siren": "304890817",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.falstaff.com/nordics/wineries/saget-la-perriere"
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://vineo.kork.ca/en/wineries/saget-la-perriere"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Merlin Vignal",
+    "verdict": "non_confirme",
+    "corrige": null,
+    "source": null
+   }
+  ],
+  "note": "Numéro repris par Falstaff et guides vins. Laurent Saget présenté comme codirigeant de la maison avec son frère Arnaud (Hachette, Vineo) ; titre exact selon registre. Merlin Vignal introuvable hors de la fiche exposant Millésime Bio."
+ },
+ {
+  "siren": "562010454",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jean-Marc Perreau",
+    "verdict": "non_confirme",
+    "corrige": null,
+    "source": null
+   },
+   {
+    "nom": "Flavien Dubiel",
+    "verdict": "non_confirme",
+    "corrige": null,
+    "source": null
+   }
+  ],
+  "note": "Le 03 86 69 46 20 n'apparaît que dans le catalogue GCE de 2019 (non retrouvé ailleurs) : à traiter comme ancien. Mathieu Benier : aucune source hors registre/catalogue. Les deux commerciaux viennent du seul catalogue 2019, probablement obsolètes."
+ },
+ {
+  "siren": "401453188",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "autres_contacts": [],
+  "note": "Le 03 86 39 47 28 n'est retrouvé que sur coparking.ch (source déjà citée) ; PagesJaunes ne montre pas le numéro dans les extraits. Thierry Thomas : registre seulement."
+ },
+ {
+  "siren": "330907205",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/deromedi-carrieres_330907205"
+  },
+  "autres_contacts": [],
+  "note": "Xerfi liste Gilles Deromedi comme dirigeant (avec Creatis Audit)."
+ },
+ {
+  "siren": "323685453",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.batiweb.com/fabricant/parqueterie-du-beau-soleil-3392"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Thierry Simonel",
+    "verdict": "confirme",
+    "corrige": null,
+    "source": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/01/FCECO080790_20260127.pdf"
+   }
+  ],
+  "note": "Le 03 86 39 56 00 n'apparaît dans aucun résultat (Batiweb/Batiproduits masquent les coordonnées). Batiweb présente Xavier Petitrenaud comme pilotant la stratégie de Beau Soleil depuis 2009. Thierry Simonel toujours DAF de TFF Group dans le communiqué AMF du 27/01/2026 (contact financier groupe 03 80 21 23 33, standard TFF en Côte-d'Or, pas la parqueterie)."
+ },
+ {
+  "siren": "334925070",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Opposition à la prospection : seuls les éléments société vérifiés. Le 03 86 39 24 70 n'apparaît dans aucun résultat (Cylex et copeps.fr sans numéro dans les extraits)."
+ },
+ {
+  "siren": "925318248",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.capretraite.fr:443/maisons-de-retraite/nievre-58/varennes-les-narcy/le-champ-de-la-dame"
+  },
+  "email_generique": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Opposition à la prospection : seuls les éléments société vérifiés. Numéro confirmé par Cap Retraite, Santé en France et l'annuaire officiel. E-mail contact@champdeladame.fr : uniquement etablissementsdesante.fr / santeenfrance.fr (même base, fiche 48029), domaine champdeladame.fr introuvable ; adresse possiblement antérieure à la reprise par DOMIDEP (nouvelle société créée en 2023)."
+ },
+ {
+  "siren": "353323843",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.thewinedoctor.com/loire/didierdagueneau.shtml"
+  },
+  "autres_contacts": [],
+  "note": "Louis-Benjamin Dagueneau dirige le domaine depuis 2008 avec sa sœur Charlotte ; une source indique que Charlotte s'occupe de la partie commerciale et Louis-Benjamin de la viticulture."
+ },
+ {
+  "siren": "329779284",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.lapassionduvin.com/loire/36344-domaine-michel-redde-et-fils?start=30"
+  },
+  "email_generique": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://jeroboams.co.uk/?p=104113"
+  },
+  "autres_contacts": [],
+  "note": "Numéro repris dans un message de forum de 2023 (avec fax 03 86 39 04 36) en plus de Hachette. lamoynerie@michel-redde.com introuvable dans les résultats (seule une adresse nominative du président sur le même domaine apparaît). Thierry Redde a transmis la responsabilité du domaine à ses fils Sébastien et Romain (Jeroboams)."
+ },
+ {
+  "siren": "378966931",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.nataliemaclean.com/wineries/info/patrice-moreux/39909"
+  },
+  "email_generique": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.hachette-vins.com/guide-vins/producteurs/9031/sarl-patrice-moreux"
+  },
+  "autres_contacts": [],
+  "note": "Numéro aussi sur Natalie MacLean (1 chemin des Vallées, Les Loges). patrice.moreux@wanadoo.fr : uniquement sur un vieux forum (vers 2003) ; adresse nominative chez un FAI, au nom du fondateur, pas un e-mail générique publié par le domaine : à ne pas utiliser sans vérification. Arnaud et Julien Moreux cités comme exploitants actuels (Hachette, Jancis Robinson, Decanter)."
+ },
+ {
+  "siren": "384831046",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ste-d-exploitation-des-ambulances-charitoises_384831046"
+  },
+  "autres_contacts": [],
+  "note": "Xerfi cite Laurent Girard et David Gonin comme dirigeants (fonction de président non précisée par Xerfi)."
+ },
+ {
+  "siren": "340352939",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "autres_contacts": [
+   {
+    "nom": "Gérard Ordan",
+    "verdict": "non_confirme",
+    "corrige": null,
+    "source": null
+   }
+  ],
+  "note": "Le 03 86 39 03 00 ne figure que dans les fiches du même éditeur (successfulmeetings / northstarmeetingsgroup / meetings-conventions, une seule base) ; ni Logis ni Bourgogne Tourisme ne le montrent dans les extraits. 'M. Farcy' : aucun résultat ne relie un Farcy à l'hôtel, ni ne donne le dirigeant de RELAIS FARCY. Gérard Ordan : cité seulement par Gault&Millau."
+ },
+ {
+  "siren": "849322359",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "autres_contacts": [],
+  "note": "Ni le numéro, ni l'e-mail, ni le site boulangerie-gauthier.fr n'apparaissent dans les résultats. Seule fiche trouvée : myboulange.fr (https://www.myboulange.fr/58/garchy/boulangerie-gauthier-172283) indiquant 20 rue de Maizières, Garchy, ouverture jeudi-vendredi 16h-20h, pain distribué en Biocoop ; ne nomme pas Pascal Gauthier."
+ }
+]

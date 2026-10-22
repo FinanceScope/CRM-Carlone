@@ -1,0 +1,29 @@
+[
+ {
+  "siren": "581880044",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": "http://www.groupevincent.fr/",
+  "decideur_financier": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/581880044"
+  },
+  "dirigeant_principal": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/581880044"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Recherche incomplète : le quota de recherches web de la session a été atteint après 4 requêtes sur cette société. Adresse 102 rue Henri Bouquillard confirmée par idGarages (atelier du réseau Peugeot, https://www.idgarages.com/fr-fr/garage/nevers/GB16934_societe-c-a-t-a-r) mais aucun numéro de standard ni email générique visible dans les extraits. Aucun DAF/RAF du Groupe Vincent trouvé (le groupe a aussi repris des concessions à Vierzon et Bourges en 2019, décision Autorité de la concurrence) : décideur financier = président par défaut."
+ }
+]

@@ -1,0 +1,329 @@
+[
+ {
+  "siren": "349431254",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://lesvoitures.fr/adresse/volkswagen-sa-grands-champs-automobiles-nevers/"
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/349431254"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Richard VIVES",
+    "verdict": "confirme",
+    "corrige": null,
+    "source": "https://www.caradisiac.com/ducati-se-rapproche-d-audi-et-ouvre-une-nouvelle-concession-213290.htm"
+   }
+  ],
+  "note": "Lesvoitures.fr lie le 03 86 36 18 74 à « Volkswagen SA Grands Champs Automobiles », ZAC Grands Champs, Nevers ; la page volkswagen.fr citée n'est pas ressortie. Leboncoin et Mappy placent SUMA Nevers au 41 bd du Grand Pré des Bordes (adresse non vérifiée). Eddy Michel : dirigeant du registre, aucune trace de départ. Richard Vivès est cité comme président du groupe SUMA par Caradisiac et Journal de l'Automobile."
+ },
+ {
+  "siren": "350293221",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.etablissementsdesante.fr/etablissement/48202-centre-de-reeducation-fonctionnelle-pasori"
+  },
+  "email_generique": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.etablissementsdesante.fr/etablissement/48202-centre-de-reeducation-fonctionnelle-pasori"
+  },
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Frédérique BORDET",
+    "verdict": "confirme",
+    "corrige": null,
+    "source": "https://www.pappers.fr/entreprise/350293221"
+   }
+  ],
+  "note": "Email et téléphone publiés dans les annuaires santé (etablissementsdesante.fr / santeenfrance.fr, cylex) ; pas vus sur pasori.fr lui-même. Les Bordet viennent du registre, sans source web plus récente indiquant un changement."
+ },
+ {
+  "siren": "400674875",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.societe.com/manager/Frederic.COUSSEMENT.263qO-yHG89.html"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Thomas COUSSEMENT",
+    "verdict": "contredit",
+    "corrige": "Thomas COUSSEMENT — Directeur général de CHR FINANCES (holding présidente de CHR BOISSONS) ; a quitté la direction générale de CHR BOISSONS le 18/04/2025",
+    "source": "https://www.societe.com/manager/Thomas.COUSSEMENT.3VyFNHyrgpw.html"
+   }
+  ],
+  "note": "Le 03 86 25 08 35 n'apparaît dans aucun résultat (recherche du numéro, du nom et de Decize). Selon societe.com, Frédéric Coussement a démissionné de la présidence le 18/04/2025 et est devenu directeur général. Thomas Coussement n'est plus DG de CHR BOISSONS : il est passé à CHR FINANCES à la même date."
+ },
+ {
+  "siren": "333222214",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://industrie.usinenouvelle.com/fiche/etablissement/groupe-detude-de-fabrication-industrielle-de-commercialisation-du-caoutchouc-100882831"
+  },
+  "email_generique": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/333222214"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Abel KAICHOUH",
+    "verdict": "confirme",
+    "corrige": null,
+    "source": "https://www.pappers.fr/entreprise/333222214"
+   },
+   {
+    "nom": "Dominique FROUX",
+    "verdict": "confirme",
+    "corrige": null,
+    "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html"
+   }
+  ],
+  "note": "Standard +33 3 86 39 59 75 confirmé par la fiche L'Usine Nouvelle. contact@geficca.fr ne figure dans aucun résultat. Desnost et Kaichouh : dirigeants du registre, aucune trace de départ. D. Froux : président de GEFICCA TECHNOLOGIES depuis le 14/08/2013, président du directoire depuis le 12/01/2024 (données du registre via societe.com)."
+ },
+ {
+  "siren": "328162284",
+  "standard": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.nonsurtaxe.com/covid/centre-de-depistage/bZTh0j6G1by8UMtz-LBM-EVORIAL-NEVERS"
+  },
+  "email_generique": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Opposition à la prospection : seul le standard a été vérifié. Le numéro est associé au LBM Evorial Nevers, 37 rue Saint-Martin, dans plusieurs annuaires (nonsurtaxe, keskeces), mais ces sources sont faibles et datent de la période COVID."
+ },
+ {
+  "siren": "571880301",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Didier MARTINEZ",
+    "verdict": "confirme",
+    "corrige": null,
+    "source": "https://www.pappers.fr/entreprise/571880301"
+   },
+   {
+    "nom": "Soizic BOUJU",
+    "verdict": "contredit",
+    "corrige": "Francis GAUNAND — Directeur général du groupe Centre France La Montagne (depuis le 17/12/2025)",
+    "source": "https://www.cbnews.fr/node/97656"
+   }
+  ],
+  "note": "P. de Lambertye : une seule source, l'article CB News de fin 2023 ; rien de plus récent, alors que le groupe a changé de DG en décembre 2025 et annoncé 152 suppressions de postes en avril 2026. À reconfirmer. Une offre d'emploi de 2025 mentionne une directrice administrative et financière, sans la nommer. S. Bouju a quitté Centre France fin 2025 ; elle est DG du Bien Public / JSL / Le Progrès (EBRA) depuis le 01/06/2026 (https://www.cbnews.fr/node/101029). D. Martinez : dirigeant du registre."
+ },
+ {
+  "siren": "338657604",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/338657604"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "A. Labaune : dirigeant du registre, aucune source web ne le cite et rien n'indique un départ. Babeau Seguin (Creney-près-Troyes) a aussi GBS II pour président, ce qui va dans le sens du rattachement au groupe."
+ },
+ {
+  "siren": "950376566",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/950376566"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Rodolphe Vincent : président du registre. Journal de l'Automobile le cite à la tête du groupe Vincent (articles 2013-2019)."
+ },
+ {
+  "siren": "335275319",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": "https://www.societe.com/manager/Xavier.CHARBON.vj35ILbmW6s.html"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "X. Charbon n'apparaît que sur societe.com : DG de RAVE CROISSANCE depuis 05/2020 et membre (pas président) du directoire depuis 01/2023. Le président du directoire de la holding n'a pas été identifié et rien ne relie Charbon directement à ASM. 118000.fr liste ASM au 44 av. du 85e de Ligne à Cosne sans numéro (opposé au marketing direct)."
+ },
+ {
+  "siren": "412880445",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "La recherche du numéro entre guillemets n'a rien donné ; la recherche par nom de magasin n'a pas pu être lancée (budget de recherches web épuisé avant revérification). T. Darrigade vient de deja et non du registre, qui ne cite que XENT : non vérifié."
+ },
+ {
+  "siren": "444611933",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/the-deal-444611933"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Gérant du registre, non recherché sur le web (budget de recherches web épuisé avant revérification)."
+ },
+ {
+  "siren": "305065658",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": "https://www.cylex-locale.fr/cosne-cours-sur-loire/inhumation.html"
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-gaubier-305065658"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Standard non revérifié (budget de recherches web épuisé avant revérification) ; seule source : l'annuaire Cylex cité par le chercheur. B. Spagnuolo : DG du registre."
+ },
+ {
+  "siren": "794456921",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/3175-energie-2000-plus/"
+  },
+  "email_generique": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "decideur_financier": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Rien de cette fiche n'a été revérifié (budget de recherches web épuisé avant revérification). Standard : un seul annuaire. Email wanadoo sans source publiée. Sébastien Thomas vient de deja et non du registre, qui ne cite que GROUPE ENERGIE BATIMENT."
+ },
+ {
+  "siren": "394518096",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/15041-constructions-du-val-de-loire/"
+  },
+  "email_generique": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": null
+  },
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/cvl-constructions-du-val-de-loire-394518096"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Standard et email non revérifiés (budget de recherches web épuisé avant revérification) ; l'email (cvloire.fr) n'est pas sur le même domaine que le site (cvloire58.fr). S. Cormier : gérant du registre."
+ },
+ {
+  "siren": "522099209",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": "https://gowork.fr/cars-and-co-cosne-cours-sur-loire"
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/cars-and-co-522099209"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Le 03 86 24 24 24 vient d'une seule source faible (gowork) et n'a pas été revérifié (budget de recherches web épuisé avant revérification). P. Meisner : gérant du registre."
+ },
+ {
+  "siren": "752896159",
+  "standard": {
+   "verdict": "non_confirme",
+   "corrige": null,
+   "source": "https://uk.trip.com/travel-guide/foods/Cosne%20Cours%20sur%20Loire-12470-restaurant/Panda%20Wok-34151170"
+  },
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://www.pappers.fr/entreprise/mima-752896159"
+  },
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Le numéro vient d'une seule source faible (Trip.com, enseigne « Panda Wok » et non « Panda Resto ») et n'a pas été revérifié (budget de recherches web épuisé avant revérification). L. Zhou : gérant du registre."
+ }
+]

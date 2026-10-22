@@ -1,0 +1,250 @@
+[
+ {
+  "siren": "391484730",
+  "standard": {
+   "tel": "03 86 50 44 21",
+   "source": "https://www.bonial.fr/Magasins/La-Machine/Intermarche-La-Machine-Route-de-Decize-Foret-des-Glenons-Intermarche-Super/v-f421312114"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Diego Fernandez",
+   "fonction": "Exploitant (repreneur) de l'Intermarché Super de La Machine, avec son épouse Carole ; lien juridique avec MADELIE (présidence via la personne morale REGULAR ?) non confirmé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ac-franchise.com/article/le-groupement-les-mousquetaires-annonce-des-reprises-et-des-transformations"
+  },
+  "dirigeant_principal": {
+   "nom": "Diego Fernandez",
+   "fonction": "Exploitant (repreneur) de l'Intermarché Super de La Machine depuis un mois de mai (année non précisée), successeur de Fabrice et Sylvie Ponti ; mandat exact dans MADELIE non confirmé",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ac-franchise.com/article/le-groupement-les-mousquetaires-annonce-des-reprises-et-des-transformations"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro du magasin vu uniquement sur un agrégateur (Bonial) — à vérifier. Le registre liste encore Fabrice PONTI (président) et Pierre/Sylvie PONTI (DG) mais aussi une personne morale REGULAR comme présidente : ac-franchise annonce la reprise du magasin par Diego et Carole Fernandez (succédant à Fabrice et Sylvie Ponti) ; à confirmer au téléphone qui préside MADELIE aujourd'hui. Zagaz signale un nouveau supermarché en construction à l'entrée sud de La Machine (déménagement possible)."
+ },
+ {
+  "siren": "778492009",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun résultat exploitable via WebSearch (5 requêtes : CMG TP, Centre de Matériel Général, Varennes-Vauzelles, rue Thomas Edison). Présidence assurée par la personne morale AFIC, dont le représentant n'a pas été identifié. Seule la page LinkedIn entreprise déjà connue (linkedin.com/company/cmgtp) existe. À rechercher directement (PagesJaunes / Google Maps)."
+ },
+ {
+  "siren": "799292206",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jérôme AGUESSE",
+   "fonction": "Président de SAS (registre) — société filiale de Dalkia sans salarié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/799292206"
+  },
+  "dirigeant_principal": {
+   "nom": "Jérôme AGUESSE",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/799292206"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Nicolas VOLTZ",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/799292206"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "ENEA est une société dédiée (0 salarié) de Dalkia France (groupe EDF) qui exploite depuis 2013 la centrale de cogénération biomasse et le réseau de chaleur de Nevers (source : https://www.nevers.fr/sites/default/files/Fichiers/Actus/2021/2021-12/NCMB%20243%20Le%20r%C3%A9seau%20de%20chaleur%20urbain%202021.pdf). Pas de standard propre trouvé ; décisions financières prises au niveau de Dalkia Centre-Est (achats : marche.centre.est@dalkia.fr, 15A avenue Albert Einstein, Villeurbanne, vu sur https://ted.europa.eu/en/notice/080626-2023/pdf — adresse achats/marchés, non un standard). Seul numéro trouvé : service client national Dalkia 08 10 80 48 05 (agrégateur 118500.fr, payant) — non retenu. Aucune source publique ne confirme le poste de J. Aguesse ou N. Voltz chez Dalkia. Prospect peu pertinent (filiale de grand groupe)."
+ },
+ {
+  "siren": "823921739",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Mikaël Le Guillou",
+   "fonction": "Président de SAS (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/823921739"
+  },
+  "dirigeant_principal": {
+   "nom": "Mikaël Le Guillou",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/823921739"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Aurore Jeandeau",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/823921739"
+   },
+   {
+    "nom": "Déborah Lefebvre",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/823921739"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun numéro de magasin trouvé dans les extraits (Que Choisir, Zagaz, ac-franchise, prix-carburant ne donnent pas de téléphone). Magasin Intermarché Super/Contact, route de Moulins, lieu-dit Les Blondeaux, Dornes (https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm6558/). Aucune source publique ne confirme les mandats au-delà du registre."
+ },
+ {
+  "siren": "834179566",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Marc FOINANT",
+   "fonction": "Co-gérant (registre) — médecin radiologue, SELARL Soliloire",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://lemedecin.fr/nevers/selarl-soliloire/radiologue/docteur-foinant-marc/813ee9edb2e37f952349df1c38242cb9-2/pro/"
+  },
+  "dirigeant_principal": {
+   "nom": "Marc FOINANT",
+   "fonction": "Co-gérant (un des 4 co-gérants inscrits au registre) — médecin radiologue",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://lemedecin.fr/nevers/selarl-soliloire/radiologue/docteur-foinant-marc/813ee9edb2e37f952349df1c38242cb9-2/pro/"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Laurent BAIL",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/soliloire-834179566"
+   },
+   {
+    "nom": "Nicolas CHAILLET",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/soliloire-834179566"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "SELARL de médecins radiologues (imagerie médicale) exerçant sur plusieurs sites à Nevers : 44 ter bd Maréchal Juin, 49 bd Jérôme Trésaguet (centre d'imagerie de la Polyclinique du Val de Loire) et IRM du Centre hospitalier, 1 av. Patrick Guillot (sources lemedecin.fr, ex. https://lemedecin.fr/nevers/selarl-soliloire/radiologue/docteur-rouquette-christophe/4cacee3439484ed59822e90c312bdfc1-2/pro/). 4 co-gérants au registre (Laurent BAIL, Nicolas CHAILLET, Mehdi CHERFAOUI, Marc FOINANT), pas de hiérarchie connue. Un résumé de recherche cite un site radiologie-nevers.com, non vérifié (non retenu). Aucun téléphone de secrétariat trouvé dans les extraits."
+ },
+ {
+  "siren": "493717102",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun téléphone ni dirigeant personne physique trouvé (4 requêtes). Présidente : personne morale HOLDING CASSIER, dont le représentant n'a pas été identifié. Au même 45 rue de la Guette (Cercy-la-Tour), la fiche SIRENE d'une autre société, TC 58 (SIRET 338 339 146 00023), porte aussi l'enseigne TC TRANSPORTS (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023) : TC VRAC semble faire partie d'un petit groupe familial Cassier (une société Cassier Combustible est aussi citée à Cercy-la-Tour dans le recueil des actes de la préfecture de janvier 2024). À compléter par PagesJaunes / appel."
+ },
+ {
+  "siren": "909990079",
+  "standard": {
+   "tel": "03 86 39 78 15",
+   "source": "https://www.bible-marques.fr/magasins/58310-saint-amand-en-puisaye/carrefour"
+  },
+  "email_generique": null,
+  "site_web": "https://www.carrefour.fr/magasin/contact-saint-amand-en-puisaye",
+  "decideur_financier": {
+   "nom": "Frederic BEAUFILS",
+   "fonction": "Gérant (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/apocf-909990079"
+  },
+  "dirigeant_principal": {
+   "nom": "Frederic BEAUFILS",
+   "fonction": "Gérant (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/apocf-909990079"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro déjà connu confirmé par un annuaire de magasins (bible-marques.fr, agrégateur). Magasin franchisé Carrefour Contact, 56 route de Cosne (D955), société créée le 01/03/2022 (https://ac-franchise.com/store/carrefour-contact-354/). Aucune source publique ne mentionne le gérant en dehors du registre."
+ },
+ {
+  "siren": "345375661",
+  "standard": {
+   "tel": "03 86 57 25 05",
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.deca-proprete.fr/notre-groupe-deca-proprete/nos-entreprises-de-nettoyage/entreprise-nettoyage-nevers-nievre-03/",
+  "decideur_financier": {
+   "nom": "Bruno DECEUNYNCK",
+   "fonction": "Président (registre) — fondateur du groupe DeCA Propreté",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/egtn-entreprise-generale-de-travaux-et-de-nettoyage-345375661"
+  },
+  "dirigeant_principal": {
+   "nom": "Bruno DECEUNYNCK",
+   "fonction": "Président (registre) — fondateur du groupe DeCA Propreté",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/egtn-entreprise-generale-de-travaux-et-de-nettoyage-345375661"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro déjà connu conservé (non recoupé : aucun extrait ne l'affiche). Filiale nivernaise du groupe DeCA Propreté (siège Nantes, ~4 500 salariés) : établissement « EGTN DeCA Propreté », 7 rue des Prés, Nevers (https://fr.mappy.com/poi/5a58b1c20351d13be4cd73e6) ; une fiche Bottin l'indique « fermé » (https://www.bottin.fr/fiche-locale/ggdeigfhfhbeagefdbc--egtn-entreprise-de-nettoyage--nevers.htm), Mappy l'indique ouvert — à vérifier. Finance probablement centralisée au siège du groupe à Nantes : aucun DAF/RAF nommé trouvé dans les résultats (5 requêtes, polluées par l'homonyme américain DeCA). Agence DeCA voisine d'Auxerre : ao.ca@deca-proprete.fr / 03 86 51 21 96 (DECA PROPRETE CHAMPAGNE ARDENNES 2, https://www.boamp.fr/telechargements/FILES/PDF/2024/04/24-41425.pdf) — autre entité, non retenu comme contact de EGTN."
+ }
+]

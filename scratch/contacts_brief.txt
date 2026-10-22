@@ -11,13 +11,15 @@ For each company, find:
    • otherwise the dirigeant (gérant / président / directeur général) — say so with type "dirigeant".
    Give name + exact job title + source. Good sources: the company website (équipe, organigramme, actualités), local press, Kompass company pages (they list executives by function), LinkedIn as it appears in WebSearch results (search e.g. "directeur administratif et financier" "COMPANY NAME" or "RAF" "COMPANY NAME" Nevers — use the result title/snippet only, do NOT fetch linkedin.com pages; you may record the public LinkedIn profile URL shown in the result), the registry (deja.dirigeants) for dirigeants.
    Their direct professional phone and professional email ONLY if published on a public page for professional contact (company site, press release, a directory listing for that person). NEVER guess or construct an email address, and do not record email patterns ("format_email_observe" is always null).
-5. autres_contacts — at most 2 other useful professional contacts if found on the way (e.g. directeur de site, RH/CSE), same rules.
+5. dirigeant_principal — the top executive currently in office (PDG, président, gérant or directeur général): name, exact title, source, and their direct professional phone / professional email ONLY if published (same rules as above). The registry list (deja.dirigeants) can be out of date: prefer a recent source when one shows a change. If the président is a company (holding), give the natural person who runs it and say so in "fonction" (e.g. "président de la holding X, présidente de la société"). When no finance person exists, decideur_financier repeats this person with type "dirigeant".
+6. adresse — only when the input "adresse" has no street (just a postcode and town): the street address of the registered office or the main site in the Nièvre, with its source. Otherwise null.
+7. autres_contacts — at most 2 other useful professional contacts if found on the way (e.g. directeur de site, RH/CSE), same rules.
 
 Rules:
 - Collect only names, job titles and professional contact points. Do not collect private mobile numbers or private emails (e.g. a personal gmail/hotmail not published by the company for business contact), home addresses, or any other personal information.
 - If opposition_prospection is true: collect company-level contacts only (standard, generic email, website); for decideur_financier give only the name and title if they appear on the company's own website, with no personal contact details.
 - Never invent: use null when not found. Note when a number comes from a weak source (aggregator) or looks outdated.
-- Budget: about 3 searches per company (5 at most for the large ones), then move on. Only WebSearch works in this environment: WebFetch, curl and any direct page access are blocked by the network policy, so do not try them. Work from search-result titles and snippets (they often show the phone number, the contact page text and LinkedIn job titles); useful queries: "NOM" VILLE téléphone ; "NOM" contact ; "directeur administratif et financier" "NOM" ; site:kompass.com "NOM". Record as source the URL of the result whose snippet shows the information. If searches are refused, stop and write what you have.
+- Budget: about 3 searches per company (5 at most for the large ones), then move on. Only WebSearch works in this environment: WebFetch, curl and any direct page access are blocked by the network policy, so do not try them. Work from search-result titles and snippets (they often show the phone number, the contact page text and LinkedIn job titles); useful queries: "NOM" VILLE téléphone ; "NOM" contact ; "directeur administratif et financier" "NOM" ; site:kompass.com "NOM". Record as source the URL of the result whose snippet shows the information. If a search is refused, rephrase it (some names are mistaken for private persons) and go on; if searches are refused three times in a row, stop and write what you have.
 - Phone numbers in French format "03 86 12 34 56".
 
 Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one object per company you have actually researched, in input order (no placeholder entries for companies not yet done):
@@ -26,9 +28,11 @@ Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one 
  "email_generique": {"email": "...", "source": "url"} or null,
  "site_web": "url" or null,
  "decideur_financier": {"nom": "...", "fonction": "exact title", "type": "DAF/RAF" | "dirigeant" | "comptable" | "autre", "tel_direct": "..." or null, "email": "..." or null, "linkedin": "url" or null, "source": "url"} or null,
+ "dirigeant_principal": {"nom": "...", "fonction": "exact title", "tel_direct": "..." or null, "email": "..." or null, "linkedin": "url" or null, "source": "url"} or null,
+ "adresse": {"adresse": "street, postcode town", "source": "url"} or null,
  "autres_contacts": [{"nom": "...", "fonction": "...", "tel": "..." or null, "email": "..." or null, "source": "url"}],
  "format_email_observe": "pattern (vu sur url)" or null,
  "note": "..." or null}
 Write the file progressively (e.g. every 5 companies) so that partial results survive, and validate the final JSON with a small python3 -I script.
 
-Reply briefly: companies done; how many with a standard number; with a generic email; with a finance person (DAF/RAF/comptable) identified vs only the dirigeant; with a direct phone or email for the decision-maker; anything surprising.
+Reply briefly: companies done; how many with a standard number; with a generic email; with a finance person (DAF/RAF/comptable) identified vs only the dirigeant; with a direct phone or email for the dirigeant or the finance person; addresses added; anything surprising.

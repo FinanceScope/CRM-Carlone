@@ -1,0 +1,41 @@
+[
+ {
+  "siren": "631880374",
+  "standard": {"tel": "03 86 69 50 00", "source": "https://www.etablissementsdesante.fr/etablissement/48105-centre-medical-de-la-venerie"},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "VP SANTE (personne morale)", "fonction": "Président (personne morale) ; représentant personne physique non identifié", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"},
+  "dirigeant_principal": {"nom": "VP SANTE (personne morale)", "fonction": "Président (personne morale) ; représentant personne physique non identifié", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"},
+  "adresse": {"adresse": "Lieu-dit La Vénerie, 58210 Champlemy", "source": "https://www.etablissementsdesante.fr/etablissement/48105-centre-medical-de-la-venerie"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Centre de soins médicaux et de réadaptation (SMR). Standard 03 86 69 50 00 (fax 03 86 69 23 60) concordant sur plusieurs annuaires (etablissementsdesante.fr, santeenfrance.fr, gowork.fr) : source agrégateur. Directeur d'établissement et représentant de VP SANTE non trouvés ; le décideur financier est probablement au niveau du groupe VP SANTE. Recherche interrompue : quota de recherches web de la session épuisé."
+ },
+ {
+  "siren": "493716625",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Jacques BEAUVOIS", "fonction": "Président", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/nivertel-493716625"},
+  "dirigeant_principal": {"nom": "Jacques BEAUVOIS", "fonction": "Président", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/nivertel-493716625"},
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "NiverTel est la société délégataire du réseau d'initiative publique haut débit de Nièvre Numérique, filiale du groupe Axione/ETDE (Bouygues) selon https://my.motherbase.ai/startup/186467-nievre-numerique. Société sans salarié : la finance est très probablement gérée au niveau du groupe Axione. Aucun standard propre trouvé. Président issu du registre, non revérifié par une source récente. Recherche interrompue : quota de recherches web de la session épuisé."
+ },
+ {
+  "siren": "780060190",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Didier PETITRENAUD", "fonction": "Directeur Général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"},
+  "dirigeant_principal": {"nom": "Didier PETITRENAUD", "fonction": "Directeur Général (la présidence est assurée par la personne morale TONNELLERIE FRANCOIS FRERES)", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"},
+  "adresse": null,
+  "autres_contacts": [
+   {"nom": "Remi PETITRENAUD", "fonction": "Directeur Général", "tel": null, "email": null, "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"},
+   {"nom": "Xavier PETITRENAUD", "fonction": "Directeur Général", "tel": null, "email": null, "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"}
+  ],
+  "format_email_observe": null,
+  "note": "Président : TONNELLERIE FRANCOIS FRERES (TFF Group, Saint-Romain, Côte-d'Or) ; représentant personne physique non identifié dans les recherches. Le contrôle financier relève probablement de TFF Group. Didier René Emile Petitrenaud apparaît aussi comme gérant de groupements fonciers ruraux à Dirol (https://www.verif.com/en/leaders/Dider-PETITRENAUD-J37037997/). Aucun téléphone trouvé (les résultats ne donnaient que la mairie de Dirol). Recherche interrompue : quota de recherches web de la session épuisé."
+ }
+]

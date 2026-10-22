@@ -194,6 +194,7 @@ a{color:var(--accent);text-underline-offset:2px}
 @media (max-width:860px){.calc{grid-template-columns:minmax(0,1fr)}.calc .out{border-left:0;border-top:1px solid var(--line-2)}}
 @media (max-width:480px){.calc .in{grid-template-columns:minmax(0,1fr)}.calc .out .figs{grid-template-columns:minmax(0,1fr)}}
 .acts{display:flex;gap:8px;flex-wrap:wrap}
+.who-h{font-size:12.5px;font-weight:700;color:var(--accent);margin-top:4px}
 
 /* Discours */
 .scripts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
@@ -799,7 +800,7 @@ function filtered(){
     if(filt.art==="pub"&&!(c.art&&c.art.public))return false;
     if(filt.art==="big"&&!(c.art&&c.art.plafond>PLANCHER))return false;
     if(filt.statut&&statutOf(c)!==filt.statut)return false;
-    if(q){const s=S(c);const hay=[c.nom,c.nom_commercial,c.nom_court,c.ville,c.activite,c.groupe,(c.dirigeants||[]).map(d=>d.nom).join(" "),s.contact_nom,s.notes].join(" ").toLowerCase();if(!hay.includes(q))return false}
+    if(q){const s=S(c);const hay=[c.nom,c.nom_commercial,c.nom_court,c.ville,c.activite,c.groupe,(c.dirigeants||[]).map(d=>d.nom).join(" "),(c.contact_dirigeant||{}).nom,(c.contact_finance||{}).nom,s.contact_nom,s.notes].join(" ").toLowerCase();if(!hay.includes(q))return false}
     return true});
   const rel=c=>S(c).date_relance||"9999";
   const by={
@@ -832,6 +833,13 @@ function renderList(){
 }
 function line(label,val){return val?`<dt>${label}</dt><dd>${val}</dd>`:""}
 const ACONF=`<span class="muted" style="display:block;font-size:12.5px">Source unique, à confirmer à l'appel</span>`;
+function personKV(p){return `<dl class="kv">
+  ${line("Nom",esc(p.nom)+(p.fonction?` <span class="muted">— ${esc(p.fonction)}</span>`:"")+(p.a_confirmer?ACONF:""))}
+  ${line("Ligne directe",copyable(p.tel_direct))}
+  ${line("E-mail",copyable(p.email))}
+  ${line("LinkedIn",p.linkedin?linkOut(p.linkedin,"Profil public"):"")}
+  ${line("Source",p.source?linkOut(p.source):"")}
+</dl>`}
 function copyable(v){if(!v)return"";return `<span class="contact"><span class="mono">${esc(v)}</span><button class="copy" type="button" data-copy="${esc(v)}">copier</button></span>`}
 function linkOut(url,label){if(!url)return"";const u=/^https?:/i.test(url)?url:"https://"+url;return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(label||url.replace(/^https?:\/\/(www\.)?/,"").replace(/\/$/,""))}</a>`}
 const PLACEHOLDER=t=>`<div class="placeholder"><span class="ico">${icon("building")}</span>${t}</div>`;
@@ -851,7 +859,10 @@ function renderDetail(force){
   const dir=(c.dirigeants||[]).length?`<ul class="dir">${c.dirigeants.map(d=>`<li>${esc(d.nom)} <span>— ${esc(d.fonction||"")}</span></li>`).join("")}</ul>`:`<span class="muted">${c.ext?"Pas encore recherchés : voir la fiche Pappers.":"Non trouvés"}</span>`;
   const addr=c.adresse&&c.code_postal&&String(c.adresse).includes(c.code_postal)?c.adresse:[c.adresse,[c.code_postal,c.ville].filter(Boolean).join(" ")].filter(Boolean).join(", ");
   const a=c.art||{notes:[]},cf=c.contact_finance,d0=(c.dirigeants||[])[0],ic=c.interlocuteur_cible;
-  const who=cf&&cf.nom?esc(cf.nom)+(cf.fonction?` <span class="muted">— ${esc(cf.fonction)}</span>`:""):d0?esc(d0.nom)+` <span class="muted">— ${esc(d0.fonction||"dirigeant")}, d'après le registre</span>`:`<span class="muted">Demander la direction au standard</span>`;
+  const cd=c.contact_dirigeant&&c.contact_dirigeant.nom?c.contact_dirigeant:null;
+  const cfin=cf&&cf.nom&&!(cd&&cf.type==="dirigeant")?cf:null;   // un dirigeant récent remplace le « décideur = dirigeant » d'une recherche plus ancienne
+  const pick=cfin&&cfin.type!=="dirigeant"?cfin:(cd||cfin);
+  const who=pick?esc(pick.nom)+(pick.fonction?` <span class="muted">— ${esc(pick.fonction)}</span>`:""):d0?esc(d0.nom)+` <span class="muted">— ${esc(d0.fonction||"dirigeant")}, d'après le registre</span>`:`<span class="muted">Demander la direction au standard</span>`;
   box.innerHTML=`
   <div class="d-head">
     <button class="btn close" type="button" data-close="1">← Retour à la liste</button>
@@ -915,17 +926,13 @@ function renderDetail(force){
     </dl>
     ${!c.telephone&&!c.email&&!c.site_web?`<span class="muted">${c.ext&&!c.enrichie&&!c.contacts_ok?"Coordonnées pas encore recherchées.":"Pas de coordonnées publiques trouvées."}</span>`:""}
   </div>
-  ${c.contact_finance&&c.contact_finance.nom?`<div class="d-sec">
-    <h3>Décideur financier</h3>
-    <dl class="kv">
-      ${line("Nom",esc(c.contact_finance.nom)+(c.contact_finance.fonction?` <span class="muted">— ${esc(c.contact_finance.fonction)}</span>`:"")+(c.contact_finance.a_confirmer?ACONF:""))}
-      ${line("Ligne directe",copyable(c.contact_finance.tel_direct))}
-      ${line("E-mail",copyable(c.contact_finance.email))}
-      ${line("LinkedIn",c.contact_finance.linkedin?linkOut(c.contact_finance.linkedin,"Profil public"):"")}
-      ${line("Source",c.contact_finance.source?linkOut(c.contact_finance.source):"")}
-    </dl>
-    ${!c.contact_finance.tel_direct&&!c.contact_finance.email?`<span class="muted" style="font-size:12.5px;display:block;margin-top:6px">Pas de ligne directe publiée : passer par le standard et demander ${c.contact_finance.type==="dirigeant"?"la direction":"le service administratif et financier"}.</span>`:""}
-    ${(c.autres_contacts||[]).length?`<dl class="kv" style="margin-top:8px">${c.autres_contacts.map(o=>line(esc(o.fonction||"Contact"),esc(o.nom||"")+(o.tel?" · "+esc(o.tel):"")+(o.email?" · "+esc(o.email):""))).join("")}</dl>`:""}
+  ${cd||cfin||(c.autres_contacts||[]).length?`<div class="d-sec">
+    <h3>Décideurs</h3>
+    ${cd?`<span class="who-h">Dirigeant</span>${personKV(cd)}`:""}
+    ${cfin?`<span class="who-h">${cfin.type==="dirigeant"?"Dirigeant, qui décide aussi des finances":"Décideur financier"}</span>${personKV(cfin)}`:""}
+    ${cd&&!cfin?`<span class="muted" style="font-size:12.5px">Pas de directeur financier identifié : c'est le dirigeant qui décide.</span>`:""}
+    ${(cd||cfin)&&![cd,cfin].some(p=>p&&(p.tel_direct||p.email))?`<span class="muted" style="font-size:12.5px">Pas de ligne directe publiée : passer par le standard et demander ${cfin&&cfin.type!=="dirigeant"?"le service administratif et financier":"la direction"}.</span>`:""}
+    ${(c.autres_contacts||[]).length?`<span class="who-h">Autres contacts</span><dl class="kv">${c.autres_contacts.map(o=>line(esc(o.fonction||"Contact"),esc(o.nom||"")+(o.tel?" · "+esc(o.tel):"")+(o.email?" · "+esc(o.email):""))).join("")}</dl>`:""}
   </div>`:""}
   <div class="d-sec">
     <h3>Dirigeants (registre)</h3>
@@ -1187,8 +1194,8 @@ $("#exportBtn").addEventListener("click",async()=>{
     const rows=cPros().map(x=>{const s=S(x);const ct=x.contact||{};const rp=x.responsable||{};return [x.nom,x.famille,x.type,x.discipline,x.ville,x.distance_cosne_km,x.priorite,rp.nom?rp.nom+(rp.fonction?" ("+rp.fonction+")":""):"",ct.telephone,ct.email,ct.site,ct.facebook,ct.instagram,x.idee_evenement,SLABEL[statutOf(x)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.notes].map(csvq).join(";")});
     filename="prospects-culture-cosne.csv";csv="﻿"+cols.join(";")+"\n"+rows.join("\n");
   }else{
-    const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","email","site_web","dirigeants","interlocuteur_cible","notes_premiere_etude","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_relance","notes","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","a_confirmer","opposition_prospection","adresse","code_postal"];
-    const rows=companies.map(c=>{const s=S(c);const ic=c.interlocuteur_cible||{};const cf=c.contact_finance||{};const a=c.art||{};return [c.rang,c.nom,nameOf(c),c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+" ("+d.fonction+")").join(" / "),ic.nom?ic.nom+(ic.fonction?" ("+ic.fonction+")":""):"",c.angle_partenariat,SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.notes,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":"",c.adresse,c.code_postal].map(csvq).join(";")});
+    const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","email","site_web","dirigeants","interlocuteur_cible","notes_premiere_etude","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_relance","notes","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","a_confirmer","opposition_prospection","adresse","code_postal"];
+    const rows=companies.map(c=>{const s=S(c);const ic=c.interlocuteur_cible||{};const cf=c.contact_finance||{};const a=c.art||{};return [c.rang,c.nom,nameOf(c),c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+" ("+d.fonction+")").join(" / "),ic.nom?ic.nom+(ic.fonction?" ("+ic.fonction+")":""):"",c.angle_partenariat,SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.notes,(c.contact_dirigeant||{}).nom,(c.contact_dirigeant||{}).fonction,(c.contact_dirigeant||{}).tel_direct,(c.contact_dirigeant||{}).email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":"",c.adresse,c.code_postal].map(csvq).join(";")});
     filename="crm-entreprises-nievre.csv";csv="﻿"+cols.join(";")+"\n"+rows.join("\n");
   }
   const dl=window.claude&&window.claude.use?await window.claude.use("downloads").catch(()=>null):null;

@@ -1,0 +1,280 @@
+[
+ {
+  "siren": "478129612",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "EARSHAPE (personne morale)",
+   "fonction": "Présidente de la société (représentant personne physique non identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/supembouts-478129612"
+  },
+  "dirigeant_principal": {
+   "nom": "EARSHAPE (personne morale)",
+   "fonction": "Présidente de la société (représentant personne physique non identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/supembouts-478129612"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace web de Supembouts ni d'Earshape dans les résultats de recherche (4 requêtes) : ni téléphone, ni site. Activité probable : fabrication d'embouts auriculaires sur mesure (audioprothèse). Personne physique derrière la holding EARSHAPE non identifiée."
+ },
+ {
+  "siren": "378124291",
+  "standard": {
+   "tel": "03 86 58 82 82",
+   "source": "https://www.cylex-locale.fr/service+de+r%C3%A9paration+de+moteurs+%C3%A9lectriques.html"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent MICHOT",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ste-michot_378124291"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent MICHOT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ste-michot_378124291"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Téléphone issu d'un agrégateur (Cylex, fiche 'Michot SARL', 1 rue Durand, 58600 Garchizy : maintenance industrielle électromécanique, bobinage de moteurs électriques) — source faible, à vérifier. Pas de site web trouvé."
+ },
+ {
+  "siren": "448807214",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Guillaume VAUDENAY",
+   "fonction": "Cogérant (avec Marie et Agnès Vaudenay)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/centre-du-gue-de-frise-448807214"
+  },
+  "dirigeant_principal": {
+   "nom": "Guillaume VAUDENAY",
+   "fonction": "Cogérant (cogérantes : Marie Vaudenay (Pallu de La Barrière) et Agnès Vaudenay)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/centre-du-gue-de-frise-448807214"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun résultat web pour 'Centre du Gué de Frise' / Arquian (3 requêtes) : ni téléphone, ni site, ni nature exacte de l'activité d'enseignement. Trois cogérants au registre ; le choix de Guillaume Vaudenay comme interlocuteur est arbitraire (aucune source ne précise lequel gère les finances)."
+ },
+ {
+  "siren": "378800726",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "NOUVELLE IMPRIMERIE LABALLERY (SCOP)",
+   "fonction": "Présidente de la société (personne morale ; représentant non identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/socofig-societe-commerciale-et-financiere-des-industries-graphiques-378800726"
+  },
+  "dirigeant_principal": {
+   "nom": "NOUVELLE IMPRIMERIE LABALLERY (SCOP)",
+   "fonction": "Présidente de la société (personne morale ; représentant non identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/socofig-societe-commerciale-et-financiere-des-industries-graphiques-378800726"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Hubert PÉDURAND",
+    "fonction": "Directeur général de Laballery (mention presse vers 2015, probablement périmée)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.livreshebdo.fr/article/laballery-reprend-floch-et-compte-sur-les-editeurs"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "SOCOFIG est une structure financière sans salarié de l'imprimerie Nouvelle Imprimerie Laballery (SCOP, SIREN 392607545, ZI allée Louis Blériot, 58500 Clamecy, ~84 salariés, CA ~17 M€ selon Xerfi) : l'interlocuteur réel est la direction/la comptabilité de Laballery. Aucun numéro de standard ni DAF/RAF trouvé dans les extraits (4 requêtes). Les dirigeants cités par la presse (Gilles Mure-Ravaud DG en 2014, Hubert Pédurand DG vers 2015, David Perrain président de la Scop — non confirmé) sont anciens."
+ },
+ {
+  "siren": "711880229",
+  "standard": {
+   "tel": "03 86 57 66 80",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/3170-libault-sa/"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Vincent CHAMON",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/libault-711880229"
+  },
+  "dirigeant_principal": {
+   "nom": "Vincent CHAMON",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/libault-711880229"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Entreprise de plomberie-chauffage (RGE Qualibat), 28 rue de la Rotonde, Nevers. Téléphone issu d'un annuaire agrégateur (les-energies-renouvelables.eu, fiche 'LIBAULT SA') — source faible, non recoupée. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "400110318",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Claude PERREAU",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-garage-perreau-400110318"
+  },
+  "dirigeant_principal": {
+   "nom": "Claude PERREAU",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-garage-perreau-400110318"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Agent Peugeot. idGarages liste 'Garage Perreau', route de Cosne, 58500 Clamecy (https://www.idgarages.com/fr-fr/garage/clamecy/GB17174_garage-perreau) et 'SARL Garage Perreau', route de Clamecy, 58800 Corbigny (https://www.idgarages.com/fr-fr/garage/corbigny/GB17138_sarl-garage-perreau ; aussi https://lesvoitures.fr/adresse/sarl-garage-perreau-58800/) — lien exact avec le SIREN à confirmer. Aucun numéro de téléphone dans les extraits (3 requêtes). Gérant d'après le registre uniquement (Claude Perreau, à vérifier s'il est toujours en fonction)."
+ },
+ {
+  "siren": "328899141",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Georges PARENT",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/328899141"
+  },
+  "dirigeant_principal": {
+   "nom": "Georges PARENT",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/328899141"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Entreprise d'électricité générale (NAF 43.21A, enseigne 'Electricité Générale'), 1 impasse Ambroise Croizat, Varennes-Vauzelles. Aucun téléphone ni site trouvé dans les extraits (3 requêtes)."
+ },
+ {
+  "siren": "898704309",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "José SIMOES RAMOS",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/certus-beton-898704309"
+  },
+  "dirigeant_principal": {
+   "nom": "José SIMOES RAMOS",
+   "fonction": "Directeur général (la présidence est assurée par la société portugaise CERTUS STRUCTURES, LDA)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/certus-beton-898704309"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SAS créée le 05/03/2021, filiale d'un groupe portugais (Certus Structures, LDA), 10-19 salariés en 2022 selon l'annuaire des entreprises (https://production-sbg-01.annuaire-entreprises.infra.api.gouv.fr/documents/898704309). Aucune présence web trouvée (3 requêtes) : ni téléphone, ni site."
+ },
+ {
+  "siren": "348765199",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Didier DE SOUZA",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/de-souza-fils-348765199"
+  },
+  "dirigeant_principal": {
+   "nom": "Didier DE SOUZA",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/de-souza-fils-348765199"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Recherche incomplète (1 requête seulement, quota de recherche atteint). Activité : pompes funèbres — villepratique.fr liste 'De Souza (SARL)', pompes funèbres, 43 av. Saint-Jean, 58800 Corbigny (https://www.villepratique.fr/pompes-funebres/guipy-58420), numéro différent de l'adresse du registre (62 av. Saint-Jean) ; téléphone non affiché dans l'extrait."
+ }
+]
