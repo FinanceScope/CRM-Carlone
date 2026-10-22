@@ -19,12 +19,12 @@ Rules:
 - Collect only names, job titles and professional contact points. Do not collect private mobile numbers or private emails (e.g. a personal gmail/hotmail not published by the company for business contact), home addresses, or any other personal information.
 - If opposition_prospection is true: collect company-level contacts only (standard, generic email, website); for decideur_financier give only the name and title if they appear on the company's own website, with no personal contact details.
 - Never invent: use null when not found. Note when a number comes from a weak source (aggregator) or looks outdated.
-- Budget: about 3 searches per company (5 at most for the large ones), then move on. Only WebSearch works in this environment: WebFetch, curl and any direct page access are blocked by the network policy, so do not try them. Work from search-result titles and snippets (they often show the phone number, the contact page text and LinkedIn job titles); useful queries: "NOM" VILLE téléphone ; "NOM" contact ; "directeur administratif et financier" "NOM" ; site:kompass.com "NOM". Record as source the URL of the result whose snippet shows the information. If a search is refused, rephrase it (some names are mistaken for private persons) and go on; if searches are refused three times in a row, stop and write what you have.
+- Budget: at most 3 searches per company (the whole session shares a hard quota of web searches), then move on. Only WebSearch works in this environment: WebFetch, curl and any direct page access are blocked by the network policy, so do not try them. Work from search-result titles and snippets (they often show the phone number, the contact page text and LinkedIn job titles); useful queries: "NOM" VILLE téléphone ; "NOM" contact ; "directeur administratif et financier" "NOM" ; site:kompass.com "NOM". Record as source the URL of the result whose snippet shows the information. If a search is refused, rephrase it (some names are mistaken for private persons) and go on; if searches are refused three times in a row, stop and write what you have.
 - Phone numbers in French format "03 86 12 34 56".
 
 Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one object per company you have actually researched, in input order (no placeholder entries for companies not yet done):
 {"siren": "9 digits",
- "standard": {"tel": "..." or null, "source": "url" or null},
+ "standard": {"tel": "..." or null, "source": "url" or null, "fiabilite": "officielle" (company or brand site, official registry or press) | "annuaire" (directory or aggregator only) | "ancienne" (seen only in a source older than 2023, or only in "deja") or null},
  "email_generique": {"email": "...", "source": "url"} or null,
  "site_web": "url" or null,
  "decideur_financier": {"nom": "...", "fonction": "exact title", "type": "DAF/RAF" | "dirigeant" | "comptable" | "autre", "tel_direct": "..." or null, "email": "..." or null, "linkedin": "url" or null, "source": "url"} or null,
@@ -34,5 +34,6 @@ Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one 
  "format_email_observe": "pattern (vu sur url)" or null,
  "note": "..." or null}
 Write the file progressively (e.g. every 5 companies) so that partial results survive, and validate the final JSON with a small python3 -I script.
+If the output file already exists, keep its entries unchanged and research only the input companies that are missing from it, inserting them so that the file stays in input order.
 
 Reply briefly: companies done; how many with a standard number; with a generic email; with a finance person (DAF/RAF/comptable) identified vs only the dirigeant; with a direct phone or email for the dirigeant or the finance person; addresses added; anything surprising.

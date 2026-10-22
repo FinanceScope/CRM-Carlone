@@ -1,0 +1,20 @@
+[
+ {
+  "siren": "581880044",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://recherche-entreprises.api.gouv.fr/search?q=581880044"
+  },
+  "dirigeant_principal": {
+   "verdict": "confirme",
+   "corrige": null,
+   "source": "https://recherche-entreprises.api.gouv.fr/search?q=581880044"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Seuls items enregistrés : le président (Rodolphe VINCENT), repris comme décideur financier faute de DAF. Il figure au registre officiel (Pappers et l'API recherche-entreprises, déjà consultée pour la vérif du lot 2 : research/verif_out_2.json) ; pas de web confirmation nécessaire pour un dirigeant du registre. Quota WebSearch épuisé (limite par tour atteinte) : impossible de chercher un départ récent ou un DAF/RAF du Groupe Vincent. Aucun standard ni email générique enregistré : rien à vérifier."
+ }
+]

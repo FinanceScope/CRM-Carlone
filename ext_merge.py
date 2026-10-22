@@ -626,6 +626,8 @@ for c in base + ext:
     c['contacts_ok'] = True
     std = e.get('standard') or {}
     if std.get('tel') and not c.get('telephone'): c['telephone'] = clean_tel(std['tel']); n_ct['tel ajouté'] += 1
+    if std.get('tel') and c.get('telephone') == clean_tel(std['tel']) and std.get('fiabilite') in ('annuaire', 'ancienne'):
+        c['telephone_a_confirmer'] = True                    # annuaire seul ou source ancienne (levé si la vérification confirme)
     eg = e.get('email_generique') or {}
     if eg.get('email') and not c.get('email'): c['email'] = eg['email'].strip(); n_ct['email ajouté'] += 1
     if e.get('site_web') and not c.get('site_web'): c['site_web'] = e['site_web']
@@ -675,6 +677,8 @@ for c in base + ext:
             n_vf[champ + (' corrigé' if x.get('corrige') else ' retiré')] += 1
         elif verdict(x) == 'non_confirme':
             c[champ + '_a_confirmer'] = True; n_vf[champ + ' à confirmer'] += 1
+        elif verdict(x) == 'confirme':
+            c.pop(champ + '_a_confirmer', None)
     cf, x = c.get('contact_finance'), v.get('decideur_financier')
     if cf and verdict(x) == 'contredit':
         if x.get('corrige'):
