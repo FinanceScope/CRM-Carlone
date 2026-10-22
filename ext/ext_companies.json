@@ -13941,7 +13941,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Isabelle Bourgeois",
+"fonction": "Présidente du conseil d'administration et directrice générale",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/etablissements-bourgeois-sa-651880031"
+},
+"contact_dirigeant": {
+"nom": "Isabelle Bourgeois",
+"fonction": "Présidente du conseil d'administration et directrice générale",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/etablissements-bourgeois-sa-651880031"
+}
 },
 {
 "rang": 332,
@@ -13994,7 +14012,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jocelyne Guérin",
+"fonction": "Présidente du conseil d'administration et directrice générale",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/societe-patrimoniale-de-la-nievre-502997745"
+},
+"contact_dirigeant": {
+"nom": "Jocelyne Guérin",
+"fonction": "Présidente du conseil d'administration et directrice générale",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/societe-patrimoniale-de-la-nievre-502997745"
+}
 },
 {
 "rang": 333,
@@ -14076,7 +14112,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Emmanuelle Paillé",
+"fonction": "Gérante et associée indéfiniment responsable",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/spfpl-e-paille-882956204"
+},
+"contact_dirigeant": {
+"nom": "Emmanuelle Paillé",
+"fonction": "Gérante et associée indéfiniment responsable",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/spfpl-e-paille-882956204"
+}
 },
 {
 "rang": 335,
@@ -14117,7 +14171,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Abdel Ouaghlani",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/au-bon-marche-830768529"
+},
+"contact_dirigeant": {
+"nom": "Abdel Ouaghlani",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/au-bon-marche-830768529"
+}
 },
 {
 "rang": 336,
@@ -14244,7 +14316,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jean-Claude Gomes",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/gomes-383622479"
+},
+"contact_dirigeant": {
+"nom": "Jean-Claude Gomes",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/gomes-383622479"
+}
 },
 {
 "rang": 339,
@@ -14285,7 +14375,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "L'Oliveraie (société présidente ; représentant personne physique non identifié)",
+"fonction": "Président (personne morale)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/french-book-distribution-511672032"
+},
+"contact_dirigeant": {
+"nom": "L'Oliveraie (société présidente ; représentant personne physique non identifié)",
+"fonction": "Président (personne morale)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/french-book-distribution-511672032"
+}
 },
 {
 "rang": 340,
@@ -14330,7 +14438,36 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 90 17 00",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Romain Tranchant",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
+},
+"contact_dirigeant": {
+"nom": "Romain Tranchant",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
+},
+"autres_contacts": [
+{
+"nom": "Béatrice Loret",
+"fonction": "Directrice générale",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
+}
+]
 },
 {
 "rang": 341,
@@ -14371,7 +14508,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 28 34 11",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Christophe Roux",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/cgr-384042107"
+},
+"contact_dirigeant": {
+"nom": "Christophe Roux",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/cgr-384042107"
+}
 },
 {
 "rang": 342,
@@ -14453,7 +14610,29 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 30 48 11",
+"telephone_a_confirmer": true,
+"email": "info@la-gagere.com",
+"site_web": "https://la-gagere.com",
+"contact_finance": {
+"nom": "Tim van der Broek",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-domaine-de-la-gagere-408482636"
+},
+"contact_dirigeant": {
+"nom": "Tim van der Broek",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-domaine-de-la-gagere-408482636"
+}
 },
 {
 "rang": 344,
@@ -14549,7 +14728,16 @@
 },
 "angle_partenariat": "Atelier du bois de La Celle-sur-Loire (11 km, 10-19 salariés), sous nouvelle direction depuis 2025 : repas d'équipe et de fin d'année, et partenariat local (moulures et encadrement d'œuvres pour des expositions, visibilité croisée d'un savoir-faire du territoire).",
 "opposition_prospection": true,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_dirigeant": {
+"nom": "François-Régis de Reboul",
+"fonction": "Président de la holding INIGO, présidente de la société depuis le 01/02/2025",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/etablissements-billebault-320926249"
+}
 },
 {
 "rang": 346,
@@ -14590,7 +14778,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Laurent Pacaud",
+"fonction": "Gérant et associé indéfiniment responsable",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/opade-802750471"
+},
+"contact_dirigeant": {
+"nom": "Laurent Pacaud",
+"fonction": "Gérant et associé indéfiniment responsable",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/opade-802750471"
+}
 },
 {
 "rang": 347,
@@ -14680,7 +14886,37 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 36 00 31",
+"telephone_a_confirmer": true,
+"site_web": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/",
+"contact_finance": {
+"nom": "David Racaut",
+"fonction": "Gérant, agent général Generali",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/"
+},
+"contact_dirigeant": {
+"nom": "David Racaut",
+"fonction": "Gérant, agent général Generali",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/"
+},
+"autres_contacts": [
+{
+"nom": "Sophie Robert",
+"fonction": "Collaboratrice de l'agence",
+"tel": null,
+"email": null,
+"source": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/"
+}
+]
 },
 {
 "rang": 349,
@@ -14721,7 +14957,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Savas Keskin",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/952338515"
+},
+"contact_dirigeant": {
+"nom": "Savas Keskin",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/952338515"
+}
 },
 {
 "rang": 350,
@@ -14762,7 +15016,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Marie-Claude Plantade",
+"fonction": "Gérante",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-cp-419212816"
+},
+"contact_dirigeant": {
+"nom": "Marie-Claude Plantade",
+"fonction": "Gérante",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-cp-419212816"
+}
 },
 {
 "rang": 351,
@@ -14807,7 +15079,36 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 36 00 50",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Fabien Mourlon",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-miroiterie-du-centre-319559829"
+},
+"contact_dirigeant": {
+"nom": "Fabien Mourlon",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-miroiterie-du-centre-319559829"
+},
+"autres_contacts": [
+{
+"nom": "Cindy-Laure Mourlon",
+"fonction": "Directrice générale",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/sas-miroiterie-du-centre-319559829"
+}
+]
 },
 {
 "rang": 352,
@@ -14893,7 +15194,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 20 02 13",
+"telephone_a_confirmer": true,
+"site_web": "http://www.hotel-buissonniere-corbigny.fr",
+"contact_finance": {
+"nom": "Mohammed Maatallah",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583"
+},
+"contact_dirigeant": {
+"nom": "Mohammed Maatallah",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583"
+}
 },
 {
 "rang": 354,
@@ -14975,7 +15297,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jérôme Tardivat",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sotec-societe-tardivat-et-chardonneret-491233797"
+},
+"contact_dirigeant": {
+"nom": "Jérôme Tardivat",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sotec-societe-tardivat-et-chardonneret-491233797"
+}
 },
 {
 "rang": 356,
@@ -15024,7 +15364,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Michael Hervé",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/europub-mpe-922477708"
+},
+"contact_dirigeant": {
+"nom": "Michael Hervé",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/europub-mpe-922477708"
+}
 },
 {
 "rang": 357,
@@ -15067,7 +15425,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Julien Moreux",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-domaine-michel-dutarte-388705444"
+},
+"contact_dirigeant": {
+"nom": "Julien Moreux",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-domaine-michel-dutarte-388705444"
+}
 },
 {
 "rang": 358,
@@ -15116,7 +15492,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Grégory Brade",
+"fonction": "Cogérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/menuiserie-brade-879790616"
+},
+"contact_dirigeant": {
+"nom": "Grégory Brade",
+"fonction": "Cogérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/menuiserie-brade-879790616"
+}
 },
 {
 "rang": 359,
@@ -15157,7 +15551,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Ludovic Manon",
+"fonction": "Dirigeant ; agent Allianz (agence Allianz Nevers Préfecture, 3 rue de la Préfecture)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.justacote.com/magny-cours-58470/assurance/"
+},
+"contact_dirigeant": {
+"nom": "Ludovic Manon",
+"fonction": "Dirigeant ; agent Allianz (agence Allianz Nevers Préfecture, 3 rue de la Préfecture)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.justacote.com/magny-cours-58470/assurance/"
+}
 },
 {
 "rang": 360,
@@ -15198,7 +15610,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Marie-Hélène Bernard",
+"fonction": "Présidente",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/afic-438561789"
+},
+"contact_dirigeant": {
+"nom": "Marie-Hélène Bernard",
+"fonction": "Présidente",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/afic-438561789"
+}
 },
 {
 "rang": 361,
@@ -15243,7 +15673,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Olivier Raveau",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-boulangerie-patisserie-raveau-884511155"
+},
+"contact_dirigeant": {
+"nom": "Olivier Raveau",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-boulangerie-patisserie-raveau-884511155"
+}
 },
 {
 "rang": 362,
@@ -15288,7 +15736,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Julien Venesson",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/holding-vegeo-groupe-901643510"
+},
+"contact_dirigeant": {
+"nom": "Julien Venesson",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/holding-vegeo-groupe-901643510"
+},
+"autres_contacts": [
+{
+"nom": "Emilie Venesson",
+"fonction": "Directrice générale",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/holding-vegeo-groupe-901643510"
+}
+]
 },
 {
 "rang": 363,
@@ -15372,7 +15847,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Gabriel Fevre",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/851257634"
+},
+"contact_dirigeant": {
+"nom": "Gabriel Fevre",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/851257634"
+}
 },
 {
 "rang": 365,
@@ -15648,7 +16141,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Pascal Jolivet",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/mathusalem-949641534"
+},
+"contact_dirigeant": {
+"nom": "Pascal Jolivet",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/mathusalem-949641534"
+},
+"autres_contacts": [
+{
+"nom": "Maxence Malochet",
+"fonction": "Directeur général",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/mathusalem-949641534"
+}
+]
 },
 {
 "rang": 371,
@@ -15730,7 +16250,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Gérard Provost",
+"fonction": "Président (de Mecamachine Holding, elle-même présidente de la SAS Mecamachine)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://origami-entreprises.fr/entreprise/503336471.txt"
+},
+"contact_dirigeant": {
+"nom": "Gérard Provost",
+"fonction": "Président (de Mecamachine Holding, elle-même présidente de la SAS Mecamachine)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://origami-entreprises.fr/entreprise/503336471.txt"
+}
 },
 {
 "rang": 373,
@@ -15775,7 +16313,34 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Christian Frère",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/elina-324950039"
+},
+"contact_dirigeant": {
+"nom": "Christian Frère",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/elina-324950039"
+},
+"autres_contacts": [
+{
+"nom": "Fabienne Frère",
+"fonction": "Directrice générale",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/elina-324950039"
+}
+]
 },
 {
 "rang": 374,
@@ -15816,7 +16381,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "David Cloix",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/daroto-840106405"
+},
+"contact_dirigeant": {
+"nom": "David Cloix",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/daroto-840106405"
+}
 },
 {
 "rang": 375,
@@ -15857,7 +16440,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Ertugrul Karadas",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sasu-erka-construction-878196088"
+},
+"contact_dirigeant": {
+"nom": "Ertugrul Karadas",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sasu-erka-construction-878196088"
+}
 },
 {
 "rang": 376,
@@ -15898,7 +16499,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "AOC NONET HOLDING (personne morale ; représentant personne physique non identifié)",
+"fonction": "Présidente (personne morale)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/domaine-de-bacchus-812962827"
+},
+"contact_dirigeant": {
+"nom": "AOC NONET HOLDING (personne morale ; représentant personne physique non identifié)",
+"fonction": "Présidente (personne morale)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/domaine-de-bacchus-812962827"
+}
 },
 {
 "rang": 377,
@@ -15939,7 +16558,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Cédric Durand",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/eurl-cedric-durand-821770286"
+},
+"contact_dirigeant": {
+"nom": "Cédric Durand",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/eurl-cedric-durand-821770286"
+}
 },
 {
 "rang": 378,
@@ -15984,7 +16621,36 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 70 14 56",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Rémi Watine",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/agence-berry-nivernais-501266480"
+},
+"contact_dirigeant": {
+"nom": "Rémi Watine",
+"fonction": "Gérant (cogérant avec Marie-Louise Watine)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/agence-berry-nivernais-501266480"
+},
+"autres_contacts": [
+{
+"nom": "Marie-Louise Watine (Boulet)",
+"fonction": "Cogérante",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/agence-berry-nivernais-501266480"
+}
+]
 },
 {
 "rang": 379,
@@ -16025,7 +16691,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Julie Rignault",
+"fonction": "Présidente",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/rignault-julie-884510207"
+},
+"contact_dirigeant": {
+"nom": "Julie Rignault",
+"fonction": "Présidente",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/rignault-julie-884510207"
+}
 },
 {
 "rang": 380,
@@ -16066,7 +16750,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Fabrice Dubois",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/mille-et-1-services-480634682"
+},
+"contact_dirigeant": {
+"nom": "Fabrice Dubois",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/mille-et-1-services-480634682"
+}
 },
 {
 "rang": 381,
@@ -16138,7 +16840,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Philippe Tournand",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.societe.com/manager/Philippe.TOURNAND.tFEOwn18AMX.html"
+},
+"contact_dirigeant": {
+"nom": "Philippe Tournand",
+"fonction": "Président (depuis le 21/09/2019)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.societe.com/manager/Philippe.TOURNAND.tFEOwn18AMX.html"
+}
 },
 {
 "rang": 383,
@@ -16179,7 +16899,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Said Aguejdad",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/814733986"
+},
+"contact_dirigeant": {
+"nom": "Said Aguejdad",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/814733986"
+}
 },
 {
 "rang": 384,
@@ -16256,7 +16994,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 386,
@@ -16297,7 +17036,27 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 36 00 65",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Youcef Benberrah",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/888401601"
+},
+"contact_dirigeant": {
+"nom": "Youcef Benberrah",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/888401601"
+}
 },
 {
 "rang": 387,
@@ -16333,7 +17092,8 @@
 "statut": "Active",
 "eff_annee": "2023",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 388,
@@ -16378,7 +17138,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Mensur Makarevic",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/menauto-58-922366125"
+},
+"contact_dirigeant": {
+"nom": "Mensur Makarevic",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/menauto-58-922366125"
+}
 },
 {
 "rang": 389,
@@ -16419,7 +17197,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Stéphane Charlot",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/vsc-vins-stephane-charlot-827816042"
+},
+"contact_dirigeant": {
+"nom": "Stéphane Charlot",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/vsc-vins-stephane-charlot-827816042"
+}
 },
 {
 "rang": 390,
@@ -16455,7 +17251,8 @@
 "statut": "Active",
 "eff_annee": "2023",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 391,
@@ -16496,7 +17293,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Ghafoor Alam",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/918444506"
+},
+"contact_dirigeant": {
+"nom": "Ghafoor Alam",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/918444506"
+}
 },
 {
 "rang": 392,
@@ -16537,7 +17352,34 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Philippe Leuwers",
+"fonction": "Président de Texys Group (groupe dont la holding TEXYS HD préside H2Motronics)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.hydrogenfuelnews.com/insights/org/texys-group/"
+},
+"contact_dirigeant": {
+"nom": "Philippe Leuwers",
+"fonction": "Président de Texys Group ; la présidente de H2Motronics est la holding TEXYS HD (représentant légal de la holding non confirmé)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.hydrogenfuelnews.com/insights/org/texys-group/"
+},
+"autres_contacts": [
+{
+"nom": "Emmanuel Esnault",
+"fonction": "PDG (CEO) de Texys Group, maison mère de H2 Motronics (selon presse 2021-2022)",
+"tel": null,
+"email": null,
+"source": "https://www.rideapart.com/news/543748/h2-motronics-hydrogen-race-bike/"
+}
+]
 },
 {
 "rang": 393,
@@ -16578,7 +17420,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Alexandre Lovato",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/804505493"
+},
+"contact_dirigeant": {
+"nom": "Alexandre Lovato",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/804505493"
+}
 },
 {
 "rang": 394,
@@ -16619,7 +17479,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Thierry Darrigade",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/xent-531191898"
+},
+"contact_dirigeant": {
+"nom": "Thierry Darrigade",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/xent-531191898"
+}
 },
 {
 "rang": 395,
@@ -16660,7 +17538,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Aurélien Raimond",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/803677749"
+},
+"contact_dirigeant": {
+"nom": "Aurélien Raimond",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/803677749"
+}
 },
 {
 "rang": 396,

@@ -1,0 +1,517 @@
+[
+ {
+  "siren": "651880031",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Isabelle Bourgeois",
+   "fonction": "Présidente du conseil d'administration et directrice générale",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-bourgeois-sa-651880031"
+  },
+  "dirigeant_principal": {
+   "nom": "Isabelle Bourgeois",
+   "fonction": "Présidente du conseil d'administration et directrice générale",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-bourgeois-sa-651880031"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune présence web trouvée (3 recherches : nom + ville, activité, SIREN) ; aucun numéro dans les extraits. Dirigeante d'après le registre (deja.dirigeants) uniquement."
+ },
+ {
+  "siren": "502997745",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jocelyne Guérin",
+   "fonction": "Présidente du conseil d'administration et directrice générale",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/societe-patrimoniale-de-la-nievre-502997745"
+  },
+  "dirigeant_principal": {
+   "nom": "Jocelyne Guérin",
+   "fonction": "Présidente du conseil d'administration et directrice générale",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/societe-patrimoniale-de-la-nievre-502997745"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Structure para-publique sans salarié (siège à l'Hôtel du Département ; administrateurs Caisse des dépôts, Conseil départemental de la Nièvre, Batifranc). Aucune page web propre trouvée. Jocelyne Guérin (conseillère départementale) préside aussi Nièvre Aménagement (SA d'économie mixte, DG Cédric Duhem en mars 2022, source https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/mars_2022_rna_nievre_amgt.pdf) : gestion probablement assurée par Nièvre Aménagement, lien non confirmé. Interlocuteur peu pertinent pour une prospection commerciale classique."
+ },
+ {
+  "siren": "882956204",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Emmanuelle Paillé",
+   "fonction": "Gérante et associée indéfiniment responsable",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/spfpl-e-paille-882956204"
+  },
+  "dirigeant_principal": {
+   "nom": "Emmanuelle Paillé",
+   "fonction": "Gérante et associée indéfiniment responsable",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/spfpl-e-paille-882956204"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SPFPL (holding de profession libérale, 0 salarié). Profession exercée non identifiée : aucune notaire/avocate/commissaire de justice à ce nom trouvée dans les annuaires indexés (3 recherches). Aucun numéro trouvé."
+ },
+ {
+  "siren": "830768529",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Abdel Ouaghlani",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/au-bon-marche-830768529"
+  },
+  "dirigeant_principal": {
+   "nom": "Abdel Ouaghlani",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/au-bon-marche-830768529"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin Coccimarket de Donzy confirmé au 46 bis rue du Général Leclerc (https://www.au-magasin.fr/58220-donzy/), mais aucun numéro visible dans les extraits (PagesJaunes / au-magasin / promocatalogues). Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "383622479",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean-Claude Gomes",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/gomes-383622479"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Claude Gomes",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/gomes-383622479"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune présence web trouvée (3 recherches : nom + adresse, activité, SIREN) ; aucun numéro. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "511672032",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "L'Oliveraie (société présidente ; représentant personne physique non identifié)",
+   "fonction": "Président (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/french-book-distribution-511672032"
+  },
+  "dirigeant_principal": {
+   "nom": "L'Oliveraie (société présidente ; représentant personne physique non identifié)",
+   "fonction": "Président (personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/french-book-distribution-511672032"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "0 salarié ; activité de vente de livres et matériel pédagogique selon https://origami-entreprises.fr/entreprise/511672032/histoire/ (extrait). Aucun site, numéro ni personne physique derrière la holding L'Oliveraie trouvés (3 recherches)."
+ },
+ {
+  "siren": "802626952",
+  "standard": {
+   "tel": "03 86 90 17 00",
+   "source": "https://www.worldcasinodirectory.com/casino/casino-de-pougues-les-eaux-660",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Romain Tranchant",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
+  },
+  "dirigeant_principal": {
+   "nom": "Romain Tranchant",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Béatrice Loret",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Le siège (1315 avenue de Paris) est l'adresse du Casino de Pougues-les-Eaux (Casino Tranchant) : la SHPE est vraisemblablement la société hôtelière/restauration du casino, filiale du Groupe Tranchant. Le numéro donné est celui du casino (annuaire de casinos, fax 03 86 90 17 09), pas un numéro propre à la SHPE. Pour la finance, la direction financière du Groupe Tranchant serait l'interlocuteur pertinent (non identifiée ici)."
+ },
+ {
+  "siren": "384042107",
+  "standard": {
+   "tel": "03 86 28 34 11",
+   "source": "https://www.cylex-locale.fr/cours-cosne-cours-sur-loire/restaurant.html",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Christophe Roux",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/cgr-384042107"
+  },
+  "dirigeant_principal": {
+   "nom": "Christophe Roux",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/cgr-384042107"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro rattaché à l'adresse 3 rue Saint-Agnan par deux annuaires (Cylex, mots-clés « pizzeria » ; koifaire https://www.koifaire.com/bourgogne/la,petite,venise-6514.html sous le nom « La Petite Venise », fiche probablement ancienne). Enseigne actuelle non confirmée (une Pizza Plazza est signalée au 4 rue Saint-Agnan). Lien C.G.R. / Christophe Roux non confirmé en ligne."
+ },
+ {
+  "siren": "408482636",
+  "standard": {
+   "tel": "03 86 30 48 11",
+   "source": "https://geotrek.parcdumorvan.org/api/fr/touristiccontents/92/camping-domaine-de-la-gagere.pdf",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": {
+   "email": "info@la-gagere.com",
+   "source": "https://geotrek.parcdumorvan.org/api/fr/touristiccontents/92/camping-domaine-de-la-gagere.pdf"
+  },
+  "site_web": "https://la-gagere.com",
+  "decideur_financier": {
+   "nom": "Tim van der Broek",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-domaine-de-la-gagere-408482636"
+  },
+  "dirigeant_principal": {
+   "nom": "Tim van der Broek",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-domaine-de-la-gagere-408482636"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Centre de vacances naturiste (camping). Téléphone et e-mail issus de la fiche touristique du Parc naturel régional du Morvan. Repris en avril 2019 par un couple néerlandais « Tim et Floor » (https://bn.org.uk/holidays/index/overseas/domaine-de-la-gag%C3%A8re-r776/), cohérent avec le président Tim van der Broek du registre. Activité saisonnière : standard possiblement non joignable hors saison."
+ },
+ {
+  "siren": "320926249",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": {
+   "nom": "François-Régis de Reboul",
+   "fonction": "Président de la holding INIGO, présidente de la société depuis le 01/02/2025",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-billebault-320926249"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Opposition à la prospection : seules des coordonnées d'entreprise ont été recherchées. Avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/32092624900014) : société active, siège 1 rue Jolin, NAF 16.29Z. Aucun site ni numéro trouvés (3 recherches) ; pas de décideur sur un site propre, d'où decideur_financier null. Dirigeant d'après le registre."
+ },
+ {
+  "siren": "802750471",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent Pacaud",
+   "fonction": "Gérant et associé indéfiniment responsable",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/opade-802750471"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent Pacaud",
+   "fonction": "Gérant et associé indéfiniment responsable",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/opade-802750471"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SNC de commerce de détail située dans la zone commerciale du Champ des Noyers (rue Henri Bouquillard), probablement un magasin franchisé ; enseigne non identifiée (magasins de la rue : Saint Maclou, Centrakor, Interior's, Heytens, Bricomarché…). Aucun numéro attribuable trouvé (3 recherches)."
+ },
+ {
+  "siren": "843966995",
+  "standard": {
+   "tel": "03 86 36 00 31",
+   "source": "https://www.cylex-locale.fr/nevers/agence-d-assurance/?he=1&hw=1",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/",
+  "decideur_financier": {
+   "nom": "David Racaut",
+   "fonction": "Gérant, agent général Generali",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/"
+  },
+  "dirigeant_principal": {
+   "nom": "David Racaut",
+   "fonction": "Gérant, agent général Generali",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Sophie Robert",
+    "fonction": "Collaboratrice de l'agence",
+    "tel": null,
+    "email": null,
+    "source": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Agence générale Generali « SARL D RACAUT - NEVERS », 81 boulevard Dagonneau, Varennes-Vauzelles. Le numéro vient d'une fiche Cylex « agence d'assurance » à cette adresse, sans mention explicite de Generali : à confirmer (le numéro n'apparaissait pas dans les extraits generali.fr). Generali référence aussi une agence D. Racaut à Moulins (https://www.generali.fr/agence/dracaut-moulins/auvergne/assurance/mentions-legales)."
+ },
+ {
+  "siren": "952338515",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Savas Keskin",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/952338515"
+  },
+  "dirigeant_principal": {
+   "nom": "Savas Keskin",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/952338515"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société récente (SIREN 952…, créée vers 2023), aucune présence web trouvée (3 recherches : nom, nom + adresse, dirigeant). Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "419212816",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Marie-Claude Plantade",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-cp-419212816"
+  },
+  "dirigeant_principal": {
+   "nom": "Marie-Claude Plantade",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-cp-419212816"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin Proximarché listé place de l'Église à Chantenay-Saint-Imbert (https://ac-franchise.com/store/proximarche-4/), sans numéro. Aucun numéro trouvé (3 recherches) ; ne pas confondre avec la pharmacie de la même place (03 86 38 64 00). Un annuaire de services (https://habity.fr/ville/chantenay-saint-imbert-58/services) n'indique pas de supermarché dans la commune : activité du magasin à vérifier. Dirigeante d'après le registre uniquement."
+ },
+ {
+  "siren": "319559829",
+  "standard": {
+   "tel": "03 86 36 00 50",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/17925-miroiterie-du-centre-sarl/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Fabien Mourlon",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-miroiterie-du-centre-319559829"
+  },
+  "dirigeant_principal": {
+   "nom": "Fabien Mourlon",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-miroiterie-du-centre-319559829"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Cindy-Laure Mourlon",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/sas-miroiterie-du-centre-319559829"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Numéro issu d'un seul annuaire RGE non vérifié (fiche « Miroiterie du Centre SARL », Le Clos de la Pique, Coulanges-lès-Nevers, QUALIBAT-RGE) qui reprend le SIRET 31955982900019, établissement fermé depuis 1994 à Varennes-Vauzelles selon SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/31955982900019) : numéro possiblement ancien, à confirmer. Aucun site web trouvé."
+ },
+ {
+  "siren": "497960583",
+  "standard": {
+   "tel": "03 86 20 02 13",
+   "source": "https://www.successfulmeetings.com/Meeting-Event-Venues/Corbigny-France/Convention-Hotel/Hotel-La-Buissonniere-Corbigny-p51755797",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "http://www.hotel-buissonniere-corbigny.fr",
+  "decideur_financier": {
+   "nom": "Mohammed Maatallah",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583"
+  },
+  "dirigeant_principal": {
+   "nom": "Mohammed Maatallah",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Hôtel 3* La Buissonnière (23 chambres) et restaurant Le Marode. Numéro et site web vus uniquement dans un annuaire de salles de séminaire (non recoupés). Les plateformes de réservation donnent l'adresse « 36 avenue Saint-Jean » (registre : 36 place Saint-Jean). Dirigeant d'après le registre uniquement."
+ }
+]
