@@ -196,7 +196,17 @@
 "angle_partenariat": "Employeur du commerce cosnois (20-49 salariés, Parc du Val de Loire, à 4 km) : afterworks et repas d'équipe, repas de fin d'année, avantages pour les salariés, et visibilité croisée auprès des artisans et particuliers qui fréquentent le magasin.",
 "site_local": "Parc du Val de Loire, rue des Fondeurs, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Thierry DARRIGADE",
+"fonction": "Gérant de la holding XENT, présidente de RAVINE (Bricomarché Cosne)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ravine-412880445"
+}
 },
 {
 "rang": 105,
@@ -609,7 +619,8 @@
 },
 "angle_partenariat": "Entreprise forestière de Neuvy-sur-Loire (18 km, 20-49 salariés) : repas d'équipe et de fin d'année pour les équipes de chantier, déjeuners d'affaires avec propriétaires forestiers et acheteurs de bois ; partenariat local autour du bois du territoire (visibilité croisée).",
 "opposition_prospection": true,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true
 },
 {
 "rang": 113,
@@ -1219,7 +1230,9 @@
 "telephone": "03 86 69 14 15",
 "angle_partenariat": "EHPAD de 84 lits à Varennes-lès-Narcy (27 km de Cosne, 50-99 salariés en horaires décalés) : repas d'équipe et pots, repas de fin d'année du personnel, avantages salariés via le CSE ; contact à passer par la direction de l'EHPAD, le groupe DOMIDEP étant national.",
 "opposition_prospection": true,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"email": "contact@champdeladame.fr"
 },
 {
 "rang": 126,
@@ -1319,7 +1332,17 @@
 },
 "angle_partenariat": "Domaine de prestige à 12 km de Cosne (10-19 salariés) : partenariat local autour des vins du territoire (mise en avant de ses cuvées, soirées dégustation co-organisées) et déjeuners d'affaires avec les visiteurs professionnels reçus sur rendez-vous.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Louis Dagueneau (Louis-Benjamin Dagueneau)",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843"
+}
 },
 {
 "rang": 128,
@@ -1678,7 +1701,17 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Yannick ANDRIEUX",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/the-deal-444611933"
+}
 },
 {
 "rang": 136,
@@ -3141,7 +3174,17 @@
 "angle_partenariat": "Siège et agence à Cosne (rue Saint-Agnan), 20-49 salariés répartis sur quatre agences de la Nièvre et du Cher : repas d'équipe et de fin d'année, et partenariat local de recommandation pour l'accueil des familles lors des collations ou repas après obsèques.",
 "site_local": "92 rue Saint-Agnan, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Bruno SPAGNUOLO",
+"fonction": "Directeur général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.xerfi.com/etudes-par-entreprise/ets-gaubier_305065658"
+}
 },
 {
 "rang": 166,
@@ -3450,7 +3493,17 @@
 },
 "angle_partenariat": "Domaine de Pouilly-Fumé réputé à 16 km de Cosne (10-19 salariés, caveau sur la RN7) : partenariat local en circuit court sur les vins du domaine, soirées dégustation co-organisées, et repas d'équipe ou de fin de vendanges.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Sébastien Redde",
+"fonction": "Directeur Général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/michel-redde-et-fils-329779284"
+}
 },
 {
 "rang": 172,
@@ -3635,7 +3688,17 @@
 "angle_partenariat": "Employeur du bâtiment basé à Cosne (4 km, 21 salariés) : repas d'équipe et afterworks, repas de fin d'année, déjeuners avec fournisseurs et maîtres d'ouvrage ; partenariat local possible avec cet artisan RGE du territoire (entretien chauffage-climatisation, visibilité croisée).",
 "site_local": "7 allée des Entrepreneurs, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Sébastien THOMAS",
+"fonction": "Gérant de GROUPE ENERGIE BATIMENT SARL, société présidente d'ENERGIE 2000 PLUS",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/energie-2000-plus-794456921"
+}
 },
 {
 "rang": 176,
@@ -3735,7 +3798,17 @@
 "angle_partenariat": "Entreprise du bâtiment implantée à Cosne même (24 salariés selon son site) : repas d'équipe, pots de fin de chantier et repas de fin d'année, et déjeuners d'affaires avec clients particuliers, collectivités, agriculteurs et industriels.",
 "site_local": "16 rue Robert Naberis, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Sébastien CORMIER",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/cvl-constructions-du-val-de-loire-394518096"
+}
 },
 {
 "rang": 178,
@@ -5111,7 +5184,17 @@
 },
 "angle_partenariat": "Domaine de Pouilly-sur-Loire à 13 km de Cosne (10-19 salariés), Coup de cœur Hachette 2027 : partenariat local en circuit court sur les Pouilly-Fumé Corty Artisan, soirées dégustation co-organisées et visibilité croisée ; repas d'équipe en fin de vendanges.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Julien Moreux",
+"fonction": "Co-gérant (en charge de la cave, de la clientèle France et de l'administration)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.decanter.com/premium/domaine-moreux-corty-pouilly-fume-purists-plus-the-2019s-tasted-453154"
+}
 },
 {
 "rang": 210,
@@ -5609,7 +5692,17 @@
 },
 "angle_partenariat": "Entreprise d'ambulances et de taxi de La Charité-sur-Loire (30 km, 20-49 salariés) : repas d'équipe et de fin d'année, avantages pour les salariés ; partenariat local possible autour de son activité taxi (transport de convives lors d'événements).",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Laurent Girard",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/societe-dexploitation-des-ambulances-charitoises-384831046"
+}
 },
 {
 "rang": 221,
@@ -6125,7 +6218,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"contacts_ok": true,
+"telephone": "03 86 39 03 00",
+"site_web": "https://www.relaisdepouilly.com",
+"contact_finance": {
+"nom": "M. Farcy (prénom non trouvé)",
+"fonction": "Exploitant de l'hôtel cité par Bourgogne Tourisme ; la présidence de la société est assurée par la personne morale RELAIS FARCY",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.burgundy-tourism.com/hotel/hotel-restaurant-le-relais-de-pouilly"
+},
+"autres_contacts": [
+{
+"nom": "Gérard Ordan",
+"fonction": "Chef de cuisine",
+"tel": null,
+"email": null,
+"source": "https://fr.gaultmillau.com/fr/restaurants/le-relais-de-pouilly"
+}
+]
 },
 {
 "rang": 233,
@@ -7329,7 +7443,17 @@
 },
 "angle_partenariat": "Boulangerie bio au levain et au four à bois de Garchy (10-19 salariés, 19 km de Cosne) : partenariat local de producteur du territoire (pains bio pour buffets, réceptions et déjeuners d'affaires) et visibilité croisée.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Pascal Gauthier",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/boulangerie-gauthier-849322359"
+}
 },
 {
 "rang": 260,
@@ -7710,7 +7834,18 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 24 24 24",
+"contact_finance": {
+"nom": "Philippe MEISNER",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/cars-and-co-522099209"
+}
 },
 {
 "rang": 269,
@@ -8188,7 +8323,18 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 20 15 15",
+"contact_finance": {
+"nom": "Laurent ZHOU",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/mima-752896159"
+}
 },
 {
 "rang": 280,

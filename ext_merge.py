@@ -642,6 +642,44 @@ for c in base + ext:
     # format_email_observe non repris : afficher un format inviterait à deviner des adresses
 print('contacts :', len(CONTACTS), dict(n_ct), '| avec téléphone :', sum(1 for c in base + ext if c.get('telephone')), '/ 500')
 
+# vérification indépendante (contacts_verif_*.json) : valeur contredite corrigée ou retirée, valeur non confirmée signalée
+VERIF = {}
+for f in sorted(glob.glob(EXT + '/contacts_verif_*.json')):
+    try: data = json.load(open(f, encoding='utf-8'))
+    except Exception: continue
+    for v in data:
+        k = sid(v.get('siren'))
+        if k: VERIF[k] = v
+def verdict(x): return x.get('verdict') if isinstance(x, dict) else None
+n_vf = Counter()
+for c in base + ext:
+    k = sid(c.get('siren')); v = VERIF.get(k); e = CONTACTS.get(k)
+    if not v or not e: continue
+    for champ, cle, val in (('telephone', 'standard', clean_tel((e.get('standard') or {}).get('tel'))),
+                            ('email', 'email_generique', ((e.get('email_generique') or {}).get('email') or '').strip() or None)):
+        x = v.get(cle)
+        if not val or c.get(champ) != val: continue          # valeur déjà connue avant la recherche : non concernée
+        if verdict(x) == 'contredit':
+            c[champ] = (clean_tel(x['corrige']) if champ == 'telephone' else x['corrige'].strip()) if x.get('corrige') else None
+            n_vf[champ + (' corrigé' if x.get('corrige') else ' retiré')] += 1
+        elif verdict(x) == 'non_confirme':
+            c[champ + '_a_confirmer'] = True; n_vf[champ + ' à confirmer'] += 1
+    cf, x = c.get('contact_finance'), v.get('decideur_financier')
+    if cf and verdict(x) == 'contredit':
+        if x.get('corrige'):
+            nom, _, fct = str(x['corrige']).partition(' — ')
+            cf.update(nom=nom.strip(), fonction=fct.strip() or None, tel_direct=None, email=None, linkedin=None, source=x.get('source'))
+            n_vf['décideur corrigé'] += 1
+        else:
+            del c['contact_finance']; n_vf['décideur retiré'] += 1
+    elif cf and verdict(x) == 'non_confirme' and cf.get('type') != 'dirigeant':   # un dirigeant du registre n'a pas à être retrouvé sur le web
+        cf['a_confirmer'] = True; n_vf['décideur à confirmer'] += 1
+    if c.get('autres_contacts'):
+        faux = {y.get('nom') for y in (v.get('autres_contacts') or []) if verdict(y) == 'contredit'}
+        c['autres_contacts'] = [y for y in c['autres_contacts'] if y.get('nom') not in faux]
+        if not c['autres_contacts']: del c['autres_contacts']
+print('vérifications :', len(VERIF), dict(n_vf))
+
 # relecture du 22/10/2026 : coordonnées sans source publiée, profils LinkedIn personnels, libellés
 RETIRER = {'823687033': ('email',),       # adresse hotmail nominative, introuvable sur une page publique
            '331967943': ('telephone',)}   # mobile présenté comme standard, sans source

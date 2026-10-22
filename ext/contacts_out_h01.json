@@ -1,0 +1,174 @@
+[
+ {
+  "siren": "349431254",
+  "standard": {"tel": "03 86 36 18 74", "source": "https://www.volkswagen.fr/fr/partenaire/suma-nevers.html"},
+  "email_generique": null,
+  "site_web": "https://www.suma-auto.com",
+  "decideur_financier": {"nom": "Eddy MICHEL", "fonction": "Directeur général délégué", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/349431254"},
+  "autres_contacts": [
+   {"nom": "Richard VIVES", "fonction": "Président (dirige le groupe SUMA, siège à Limonest 69)", "tel": null, "email": null, "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"}
+  ],
+  "format_email_observe": null,
+  "note": "Concession du groupe SUMA (26 sites, ~370 salariés, siège 210 chemin de Paisy, Limonest). La fonction finance est centralisée au niveau groupe (SUMA INVEST, Limonest : offre de RAF vue sur France Travail https://candidat.francetravail.fr/offres/recherche/detail/189JCTR et fiche https://gowork.fr/suma-invest-limonest/salary) mais aucun nom de DAF/RAF trouvé. Standard confirmé par la page partenaire Volkswagen et lesvoitures.fr. Aucun email générique publié trouvé."
+ },
+ {
+  "siren": "350293221",
+  "standard": {"tel": "03 86 28 43 89", "source": "https://santeenfrance.fr/etablissement/48202-centre-de-reeducation-fonctionnelle-pasori"},
+  "email_generique": {"email": "contact@pasori.fr", "source": null},
+  "site_web": "https://www.pasori.fr",
+  "decideur_financier": {"nom": "Pascale BORDET", "fonction": "Directrice générale", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/350293221"},
+  "autres_contacts": [
+   {"nom": "Frédérique BORDET", "fonction": "Présidente", "tel": null, "email": null, "source": "https://www.pappers.fr/entreprise/350293221"}
+  ],
+  "format_email_observe": null,
+  "note": "Aucun DAF/RAF ou responsable comptable trouvé malgré la taille (~207 salariés). Fax 03 86 28 77 10 (santeenfrance.fr). Email contact@pasori.fr déjà connu (deja) et repris dans un résumé de recherche sans source précise : source réelle non confirmée. Xerfi cite aussi Agnès Perrot parmi les dirigeants (fonction non précisée) : https://www.xerfi.com/etudes-par-entreprise/pasori_350293221"
+ },
+ {
+  "siren": "400674875",
+  "standard": {"tel": "03 86 25 08 35", "source": null},
+  "email_generique": null,
+  "site_web": "https://www.chrboissons.com",
+  "decideur_financier": {"nom": "Frédéric COUSSEMENT", "fonction": "Directeur général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/400674875"},
+  "autres_contacts": [
+   {"nom": "Thomas COUSSEMENT", "fonction": "Directeur général de CHR BOISSONS (depuis le 10/02/2024 selon societe.com)", "tel": null, "email": null, "source": "https://www.societe.com/manager/Thomas.COUSSEMENT.3VyFNHyrgpw.html"}
+  ],
+  "format_email_observe": null,
+  "note": "Standard 03 86 25 08 35 déjà connu (deja) mais non retrouvé dans les résultats de recherche (non revérifié). Président = holding CHR FINANCES ; pas de DAF/RAF trouvé (~40 salariés). Aucun numéro trouvé pour les Caves du Val d'Or à Cosne. Societe.com indique que Frédéric Coussement a été président jusqu'au 18/04/2025, cohérent avec son passage à DG."
+ },
+ {
+  "siren": "333222214",
+  "standard": {"tel": "03 86 39 59 75", "source": null},
+  "email_generique": {"email": "contact@geficca.fr", "source": null},
+  "site_web": "https://www.geficca.fr",
+  "decideur_financier": {"nom": "Vincent DESNOST", "fonction": "Directeur général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/333222214"},
+  "autres_contacts": [
+   {"nom": "Abel KAICHOUH", "fonction": "Directeur général", "tel": null, "email": null, "source": "https://www.pappers.fr/entreprise/333222214"},
+   {"nom": "Dominique FROUX", "fonction": "Président de GEFICCA TECHNOLOGIES (société présidente de GEFICCA)", "tel": null, "email": null, "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html"}
+  ],
+  "format_email_observe": null,
+  "note": "Standard et email déjà connus (deja) mais non retrouvés dans les résultats de recherche (non revérifiés). Aucun DAF/RAF/comptable trouvé (recherches LinkedIn, Kompass sans résultat ; pas de fiche Kompass). 50-99 salariés, filiale de GEFICCA TECHNOLOGIES."
+ },
+ {
+  "siren": "328162284",
+  "standard": {"tel": "03 86 61 41 30", "source": "https://www.nonsurtaxe.com/covid/centre-de-vaccination/274-Nevers-Les-Eduens"},
+  "email_generique": null,
+  "site_web": "https://www.evorial.fr",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "OPPOSITION À LA PROSPECTION : uniquement coordonnées société. Aucun nom de décideur trouvé sur le site evorial.fr via les résultats, donc decideur_financier laissé à null (les dirigeants du registre sont dans deja). Standard Nevers issu d'un annuaire COVID (source faible, possiblement ancienne). Site de Cosne (9 rue Croix Janvier) : 03 86 28 04 66 selon https://www.nonsurtaxe.com/covid/centre-de-depistage/pTwglB8dZwgpUQJH- (source faible). Laboratoire multisite : Nevers, Cosne, Decize, Briare, Sully-sur-Loire, Sancoins."
+ },
+ {
+  "siren": "571880301",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": "https://www.lejdc.fr",
+  "decideur_financier": {"nom": "Philippe de LAMBERTYE", "fonction": "Directeur général adjoint Opérations, Finance et Support du groupe Centre France La Montagne (nommé à partir de janvier 2024)", "type": "DAF/RAF", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.cbnews.fr/node/81152"},
+  "autres_contacts": [
+   {"nom": "Didier MARTINEZ", "fonction": "Président du conseil d'administration et Directeur général", "tel": null, "email": null, "source": "https://www.pappers.fr/entreprise/571880301"},
+   {"nom": "Soizic BOUJU", "fonction": "Directrice générale du groupe Centre France La Montagne", "tel": null, "email": null, "source": "https://www.cbnews.fr/node/81152"}
+  ],
+  "format_email_observe": null,
+  "note": "Filiale du groupe Centre France La Montagne (siège Clermont-Ferrand) : la finance est pilotée au niveau groupe ; le décideur indiqué est le responsable finance du groupe (article CB News de fin 2023, ancien DAF du groupe Ligier) — fonction à reconfirmer, possiblement datée. Aucun responsable finance propre au JDC trouvé. Aucun numéro de standard trouvé dans les résultats (ni siège Nevers ni agence de Cosne)."
+ },
+ {
+  "siren": "338657604",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": "https://www.styl-habitat.fr",
+  "decideur_financier": {"nom": "Arnaud LABAUNE", "fonction": "Directeur général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/338657604"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro ni email trouvé dans les résultats. ForumConstruire indique un siège à Varennes-Vauzelles et des agences à Cosne-Cours-sur-Loire et Varennes-Vauzelles (https://www.forumconstruire.com/recits/constructeur-1056-styl-habitat.php) ; l'établissement de Cosne (29 bd de la République) est confirmé par INSEE (https://api-avis-situation-sirene.insee.fr/identification/pdf/33865760400082). Président = GBS II ; un CV de 2014 rattache Styl'Habitat au groupe Babeau Seguin (source faible)."
+ },
+ {
+  "siren": "950376566",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Rodolphe VINCENT", "fonction": "Président", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/950376566"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro, email ni site trouvés (les recherches sur « Distance » renvoient des calculateurs d'itinéraires). Rodolphe Vincent dirige le groupe Vincent (concessions Fiat/Alfa Romeo/Jeep autour de Nevers, Varennes-Vauzelles et Moulins selon https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/, article de 2018). Aucun responsable finance du groupe trouvé."
+ },
+ {
+  "siren": "335275319",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Xavier CHARBON", "fonction": "Directeur général et membre du directoire de RAVE CROISSANCE (société présidente d'ASM)", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.societe.com/manager/Xavier.CHARBON.vj35ILbmW6s.html"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Le registre ne donne qu'une personne morale (RAVE CROISSANCE, holding basée à Torcy 71) ; le décideur indiqué est le DG de cette holding, pas un dirigeant direct d'ASM — à confirmer. Aucun numéro trouvé : 118000.fr liste « André Stockage Manutention » au 44 avenue du 85e de Ligne à Cosne mais sans numéro visible (https://www.118000.fr/v_cosne-cours-sur-loire_58/c_demenagement). Lien possible avec l'agence de déménagement « André » / Gentlemen du Déménagement au 123 route des Cours (https://www.gentlemen-demenagement.com/en/movers/demenageur-nievre-58-cosne-cours-sur-loire/) et avec André Chenue (LinkedIn de deja), non confirmé."
+ },
+ {
+  "siren": "412880445",
+  "standard": {"tel": "03 86 28 80 40", "source": null},
+  "email_generique": null,
+  "site_web": "https://www.bricomarche.com/magasin/cosne-cours-sur-loire/02241",
+  "decideur_financier": {"nom": "Thierry DARRIGADE", "fonction": "Gérant de la holding XENT, présidente de RAVINE (Bricomarché Cosne)", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/ravine-412880445"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin Bricomarché franchisé (adhérent Mousquetaires), rue des Fondeurs, Parc du Val de Loire. Standard 03 86 28 80 40 déjà connu (deja) : non retrouvé dans les extraits de résultats (la page magasin bricomarche.com n'affiche pas le numéro dans l'extrait), donc non revérifié. Le lien Thierry Darrigade / XENT provient de deja ; aucune source web trouvée le citant (le registre de RAVINE ne mentionne que XENT comme présidente)."
+ },
+ {
+  "siren": "444611933",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Yannick ANDRIEUX", "fonction": "Gérant", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/the-deal-444611933"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Enseigne non identifiée avec certitude. Hypothèse (non confirmée) : THE DEAL exploiterait le McDonald's de Cosne, situé « Parking Carrefour Market, avenue du 85e de Ligne » (ex-Stoc, Champ de la Dispute) — adresse et profil (restauration, CA 3,9 M€, 20-49 salariés) concordants ; numéro du McDonald's Cosne : 03 71 55 00 56 selon https://www.bible-marques.fr/magasins/58200-cosne-cours-sur-loire/mcdonalds et https://www.au-magasin.fr/58200-cosne-cours-sur-loire/mcdonalds-64109.html (annuaires). Non reporté dans « standard » faute de confirmation du lien société/enseigne."
+ },
+ {
+  "siren": "305065658",
+  "standard": {"tel": "03 86 26 60 62", "source": "https://www.cylex-locale.fr/cosne-cours-sur-loire/inhumation.html"},
+  "email_generique": null,
+  "site_web": "https://www.pfgaubier.com",
+  "decideur_financier": {"nom": "Bruno SPAGNUOLO", "fonction": "Directeur général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.xerfi.com/etudes-par-entreprise/ets-gaubier_305065658"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Agence « Le Choix Funéraire Cosne-sur-Loire - Ets Gaubier » (réseau en franchise), 92 rue Saint-Agnan, ouverte 24h/24 (https://www.justacote.com/saint-loup-58200/service-funeraire/). Standard confirmé par Cylex (annuaire). Présidente : INFINI DEVELOPPEMENT (holding). Site pfgaubier.com (deja) non retrouvé dans les résultats. Ne pas confondre avec PFG, boulevard de la République (03 86 26 63 71)."
+ },
+ {
+  "siren": "794456921",
+  "standard": {"tel": "03 86 28 33 67", "source": "https://les-energies-renouvelables.eu/annuaire_search_result/3175-energie-2000-plus/"},
+  "email_generique": {"email": "energie-2000@wanadoo.fr", "source": null},
+  "site_web": null,
+  "decideur_financier": {"nom": "Sébastien THOMAS", "fonction": "Gérant de GROUPE ENERGIE BATIMENT SARL, société présidente d'ENERGIE 2000 PLUS", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/energie-2000-plus-794456921"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard confirmé par un annuaire RGE (source tierce, non contrôlée). Email energie-2000@wanadoo.fr déjà connu (deja) mais introuvable dans les résultats de recherche (non revérifié). Le nom de Sébastien Thomas provient de deja ; aucune source web trouvée le citant. Chauffagiste/thermique QUALIBAT-RGE, 4 établissements. Un annuaire mentionne aussi une « Energie 2000 » en ZI du Tremblat (lien non établi)."
+ },
+ {
+  "siren": "394518096",
+  "standard": {"tel": "03 86 26 76 92", "source": "https://les-energies-renouvelables.eu/annuaire_search_result/15041-constructions-du-val-de-loire/"},
+  "email_generique": {"email": "accueil@cvloire.fr", "source": null},
+  "site_web": "https://www.cvloire58.fr",
+  "decideur_financier": {"nom": "Sébastien CORMIER", "fonction": "Gérant", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/cvl-constructions-du-val-de-loire-394518096"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard confirmé par un annuaire RGE (source tierce, non contrôlée) ; adresse 16 rue Robert Naberis, ZI Le Tremblat. Email accueil@cvloire.fr et site cvloire58.fr déjà connus (deja) mais non retrouvés dans les résultats (non revérifiés ; noter que le domaine de l'email diffère de celui du site)."
+ },
+ {
+  "siren": "522099209",
+  "standard": {"tel": "03 86 24 24 24", "source": "https://gowork.fr/cars-and-co-cosne-cours-sur-loire"},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Philippe MEISNER", "fonction": "Gérant", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/cars-and-co-522099209"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro vu dans une réponse de l'entreprise à un avis client sur gowork.fr (source faible, non confirmée ailleurs). Même adresse (97 av. du Maréchal Leclerc) qu'une agence de location Ucar (https://www.tiendeo.fr/Magasins/cosne-cours-sur-loire/ucar-rue-marechal-leclerc/78975) : CARS AND CO est probablement le franchisé Ucar de Cosne, non confirmé. Très petite structure (1-2 salariés)."
+ },
+ {
+  "siren": "752896159",
+  "standard": {"tel": "03 86 20 15 15", "source": "https://uk.trip.com/travel-guide/foods/Cosne%20Cours%20sur%20Loire-12470-restaurant/Panda%20Wok-34151170"},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Laurent ZHOU", "fonction": "Gérant", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/mima-752896159"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro issu d'un agrégateur touristique (Trip.com) pour un restaurant « Panda Wok », avenue du 85e de Ligne à Cosne : même avenue que PANDA RESTO, mais nom légèrement différent — à confirmer à l'appel (source faible, peut-être ancienne)."
+ }
+]

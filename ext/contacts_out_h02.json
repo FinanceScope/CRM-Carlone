@@ -1,0 +1,171 @@
+[
+ {
+  "siren": "419013297",
+  "standard": {"tel": "03 86 70 28 62", "source": "https://www.au-magasin.fr/58400-la-charite-sur-loire/intermarche-12506.html"},
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasin?pdvref=02766",
+  "decideur_financier": {"nom": "Fanny Jaudon", "fonction": "Directeur Général (Directrice générale)", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/419013297"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Supermarché Intermarché indépendant (adhérent), 20-49 salariés : pas de DAF identifié, la directrice générale est l'interlocutrice finance. Numéro du magasin issu d'un agrégateur (au-magasin.fr) ; attention, une fiche Cylex attribue le même numéro et la même adresse à un 'SPAR' (erreur d'annuaire probable). Président : ALFOCEA (personne morale, holding probable)."
+ },
+ {
+  "siren": "312057318",
+  "standard": {"tel": "03 86 26 43 28", "source": null},
+  "email_generique": null,
+  "site_web": "http://www.etablissements-coignet.fr",
+  "decideur_financier": {"nom": "Guillaume Coignet", "fonction": "Directeur Général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/312057318"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro déjà connu (deja.telephone), conservé mais non reconfirmé par un extrait de recherche (la fiche 118712 'Garage Coignet' à Ciez, https://www.118712.fr/professionnels/X0JSVlVRFAQ, masque le numéro). Activité réelle : distribution de fioul domestique / carburants (station 'Coignet Carburant' aux Naslots), malgré un code APE vente à distance ; 3 établissements (Ciez, Clamecy, La Charité-sur-Loire). Présidente : Sophie Coignet. Aucun responsable financier trouvé (10-19 salariés)."
+ },
+ {
+  "siren": "300822335",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Christophe Maréchal", "fonction": "Directeur Général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/300822335"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Négoce / location de matériel agricole (NAF 46.61Z), siège à Donzy + 4 autres établissements dont Corbigny ; 48 salariés selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335), qui cite aussi COGEP Audit / Groupe COGEP parmi les mandataires (probablement commissaire aux comptes). Ni téléphone, ni site web, ni responsable comptable/financier trouvés après 5 recherches. Président : Claude Maréchal."
+ },
+ {
+  "siren": "304890817",
+  "standard": {"tel": "03 86 39 57 75", "source": "https://gynecologie-obstetrique.lequotidiendumedecin.fr/loisirs/sancerre-blanc-la-perriere-2010"},
+  "email_generique": null,
+  "site_web": "https://www.sagetlaperriere.com",
+  "decideur_financier": {"nom": "Laurent Saget", "fonction": "Président du conseil d'administration et directeur général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/304890817"},
+  "autres_contacts": [
+   {"nom": "Merlin Vignal", "fonction": "Responsable de la communication", "tel": null, "email": null, "source": "https://www.millesime-bio.com/en/liste-des-exposants/68b01ddaec4573065cbc9644"}
+  ],
+  "format_email_observe": null,
+  "note": "Maison de vins familiale (50-99 salariés, SA à conseil d'administration, holding SARL Financière Saget) : un responsable financier/comptable est probable mais aucun n'a été trouvé (recherches LinkedIn/DAF sans résultat). Standard confirmé par plusieurs guides vins (Hachette, Le Quotidien du Médecin, Falstaff). Aucun e-mail générique publié trouvé. Directeur général délégué : Arnaud Saget."
+ },
+ {
+  "siren": "562010454",
+  "standard": {"tel": "03 86 69 46 20", "source": "https://www.gcegroup.com/files/pdf-downloads/French/CATFRMED19_MED_Healthcare_FR.pdf"},
+  "email_generique": null,
+  "site_web": "https://www.gascontrol.com",
+  "decideur_financier": {"nom": "Mathieu Benier", "fonction": "Président (registre) ; cité comme Directeur Général de GCE SAS dans le catalogue GCE Healthcare 2019", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/562010454"},
+  "autres_contacts": [
+   {"nom": "Jean-Marc Perreau", "fonction": "Délégué Commercial Régional (catalogue 2019)", "tel": null, "email": null, "source": "https://www.gcegroup.com/files/pdf-downloads/French/CATFRMED19_MED_Healthcare_FR.pdf"},
+   {"nom": "Flavien Dubiel", "fonction": "Responsable Commercial (catalogue 2019)", "tel": null, "email": null, "source": "https://www.gcegroup.com/files/pdf-downloads/French/CATFRMED19_MED_Healthcare_FR.pdf"}
+  ],
+  "format_email_observe": null,
+  "note": "Filiale française du groupe GCE (siège groupe : Steinhausen, Suisse, +41 41 560 07 00 ; site groupe https://gcegroup.com). Standard et fax (03 86 70 09 81) issus d'un catalogue de 2019 : à vérifier. Les autres DG au registre (Jewell, Sheth, Toffolo) sont des dirigeants du groupe ; la finance est probablement gérée au niveau groupe, aucun responsable financier France trouvé. Le catalogue mentionne des e-mails @gcegroup.com pour les contacts mais ils n'apparaissent pas dans les extraits : non relevés."
+ },
+ {
+  "siren": "401453188",
+  "standard": {"tel": "03 86 39 47 28", "source": "https://coparking.ch/en/France/parkings/4803"},
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasin?pdvref=01255",
+  "decideur_financier": {"nom": "Thierry Thomas", "fonction": "Président", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/401453188"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Intermarché Super indépendant (20-49 salariés) : pas de responsable financier, le couple dirigeant exploite le magasin (Corinne Thomas, directrice générale). Numéro confirmé uniquement par un agrégateur (coparking.ch) ; PagesJaunes (https://www.pagesjaunes.fr/pros/59482582) rattache l'adresse à POPIANE."
+ },
+ {
+  "siren": "330907205",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": "https://www.deromedicarrieres.fr",
+  "decideur_financier": {"nom": "Gilles Deromedi", "fonction": "Gérant", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/330907205"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Carrière de sables et argiles (APE 08.12Z, site ICPE à Jussy, Ciez) ; CA 2024 ~13 M€ selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/deromedi-carrieres_330907205). Gilles Deromedi préside aussi Deromedi Carrières et Matériaux (structure de groupe probable). Aucun numéro de standard ni e-mail trouvé dans les extraits (4 recherches) : à chercher sur la page contact du site."
+ },
+ {
+  "siren": "323685453",
+  "standard": {"tel": "03 86 39 56 00", "source": null},
+  "email_generique": null,
+  "site_web": "https://www.parquet-beausoleil.fr/",
+  "decideur_financier": {"nom": "Xavier Petitrenaud", "fonction": "Directeur Général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/323685453"},
+  "autres_contacts": [
+   {"nom": "Thierry Simonel", "fonction": "Directeur Administratif et Financier de TFF Group (maison mère, actionnaire à 51 % depuis mai 2024)", "tel": null, "email": null, "source": "https://www.abcbourse.com/analyses/chiffres/TFFp"}
+  ],
+  "format_email_observe": null,
+  "note": "Numéro déjà connu (deja.telephone), conservé mais non reconfirmé par les extraits. Depuis mai 2024, TFF Group (Tonnellerie François Frères, coté) détient 51 % du groupe Petitrenaud (Scierie Petitrenaud + Parqueterie Beausoleil) ; les Petitrenaud restent aux commandes opérationnelles (AMF : https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2024/05/FCECO074978_20240531.pdf). Trois DG au registre : Didier, Rémi et Xavier Petitrenaud (Xavier, à l'initiative du rapprochement, retenu comme interlocuteur). Finance probablement remontée au niveau groupe : le DAF de TFF Group est indiqué en autre contact (donnée abcbourse 2025, à vérifier). ~32 personnes selon A@W."
+ },
+ {
+  "siren": "334925070",
+  "standard": {"tel": "03 86 39 24 70", "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "OPPOSITION À LA PROSPECTION : seules les coordonnées société sont collectées ; pas de site web propre, donc aucun décideur relevé (le gérant figure déjà au registre dans deja.dirigeants). Numéro déjà connu, non reconfirmé (fiche Cylex https://www.cylex-locale.fr/entreprises/beauvois-fr%c3%a8res-sarl-13046603.html sans numéro dans l'extrait). Activité : abattage, débardage, négoce de bois, sciage."
+ },
+ {
+  "siren": "925318248",
+  "standard": {"tel": "03 86 69 14 15", "source": "https://www.pour-les-personnes-agees.gouv.fr/annuaire-ehpad-et-maisons-de-retraite/ehpad/nievre-58/varennes-les-narcy-58400/ehpad-le-champ-de-la-dame/580004919"},
+  "email_generique": {"email": "contact@champdeladame.fr", "source": "https://etablissementsdesante.fr/etablissement/48029-ehpad-le-champ-de-la-dame"},
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "OPPOSITION À LA PROSPECTION : coordonnées société uniquement. EHPAD de 84 lits (FINESS 580004919) détenu par le groupe DOMIDEP (président) : la finance est gérée au niveau du groupe. Standard = secrétariat (sante.fr et annuaire officiel pour-les-personnes-agees.gouv.fr) ; fax 03 86 69 17 25. E-mail générique issu d'un agrégateur seulement (etablissementsdesante.fr), site champdeladame.fr non trouvé : à vérifier. Aucun nom de direction trouvé sur un site propre."
+ },
+ {
+  "siren": "353323843",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Louis Dagueneau (Louis-Benjamin Dagueneau)", "fonction": "Gérant", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Domaine viticole très réputé (Pouilly-Fumé, 'Le Bourg', Saint-Andelain), dirigé depuis 2008 par Louis-Benjamin Dagueneau avec sa sœur Charlotte (https://mwwines.com.au/museum-wine-shop/about-us/news-offers/news-item/2026/06/04/dagueneau-one-of-france's-most-uncompromising-estates) ; vins sortis de l'AOC (Vin de France). Pas de site web, et aucun numéro de téléphone ni e-mail publié trouvé (3 recherches) : domaine notoirement discret."
+ },
+ {
+  "siren": "329779284",
+  "standard": {"tel": "03 86 39 14 72", "source": "https://www.hachette-vins.com/guide-vins/producteurs/9030/michel-redde-et-fils"},
+  "email_generique": {"email": "lamoynerie@michel-redde.com", "source": null},
+  "site_web": "http://michel-redde.fr/",
+  "decideur_financier": {"nom": "Sébastien Redde", "fonction": "Directeur Général", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/michel-redde-et-fils-329779284"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard confirmé (Hachette Vins, wein-plus) ; fax 03 86 39 04 36 (forum 2014). E-mail générique déjà connu (deja.email), non reconfirmé par un extrait de recherche. Domaine d'environ 40 ha dirigé par Thierry Redde (président) et ses fils Sébastien et Romain (DG). Un e-mail nominatif du président apparaît sur un forum de 2014 : non relevé (pas une page de contact officielle)."
+ },
+ {
+  "siren": "378966931",
+  "standard": {"tel": "03 86 39 13 55", "source": "https://www.hachette-vins.com/guide-vins/producteurs/9031/sarl-patrice-moreux"},
+  "email_generique": {"email": "patrice.moreux@wanadoo.fr", "source": "https://www.lapassionduvin.com/loire/1558-vignobles-patrice-moreux"},
+  "site_web": "http://www.pouilly.com",
+  "decideur_financier": {"nom": "Julien Moreux", "fonction": "Co-gérant (en charge de la cave, de la clientèle France et de l'administration)", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.decanter.com/premium/domaine-moreux-corty-pouilly-fume-purists-plus-the-2019s-tasted-453154"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Adresse : 1 chemin des Vallées, Les Loges. E-mail de contact du domaine sur une adresse wanadoo au nom du fondateur, publié sur un forum ancien (fax 03 86 39 17 79) : probablement ancien, à vérifier. Arnaud Moreux (co-gérant) gère vigne, vinification et export ; Julien gère l'administration, donc interlocuteur finance naturel."
+ },
+ {
+  "siren": "384831046",
+  "standard": {"tel": null, "source": null},
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {"nom": "Laurent Girard", "fonction": "Président", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/societe-dexploitation-des-ambulances-charitoises-384831046"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société d'ambulances (APE 86.90A), 75 rue Camille Barrère ; CA 2024 ~1,67 M€ selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/ste-d-exploitation-des-ambulances-charitoises_384831046). Aucun numéro ni site trouvé après 3 recherches (le moteur confond avec 'Ambulances Choletaises'). David Gonin est directeur général."
+ },
+ {
+  "siren": "340352939",
+  "standard": {"tel": "03 86 39 03 00", "source": "https://www.successfulmeetings.com/Meeting-Event-Venues/Pouilly-sur-Loire-France/Convention-Hotel/Le-Relais-De-Pouilly-p53280443"},
+  "email_generique": null,
+  "site_web": "https://www.relaisdepouilly.com",
+  "decideur_financier": {"nom": "M. Farcy (prénom non trouvé)", "fonction": "Exploitant de l'hôtel cité par Bourgogne Tourisme ; la présidence de la société est assurée par la personne morale RELAIS FARCY", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.burgundy-tourism.com/hotel/hotel-restaurant-le-relais-de-pouilly"},
+  "autres_contacts": [
+   {"nom": "Gérard Ordan", "fonction": "Chef de cuisine", "tel": null, "email": null, "source": "https://fr.gaultmillau.com/fr/restaurants/le-relais-de-pouilly"}
+  ],
+  "format_email_observe": null,
+  "note": "Hôtel-restaurant Logis 3 étoiles (23 chambres), quai de Loire. Standard issu d'un seul annuaire (successfulmeetings.com, agrégateur) ; site relaisdepouilly.com indiqué par ce même annuaire, non vérifié. Le dirigeant personne physique de RELAIS FARCY reste à confirmer au registre. Ne pas utiliser le 01 41 40 99 80 affiché sur Gault&Millau (standard du guide)."
+ },
+ {
+  "siren": "849322359",
+  "standard": {"tel": "03 86 69 10 24", "source": null},
+  "email_generique": {"email": "commandes@boulangerie-gauthier.fr", "source": null},
+  "site_web": "https://www.boulangerie-gauthier.fr/",
+  "decideur_financier": {"nom": "Pascal Gauthier", "fonction": "Gérant", "type": "dirigeant", "tel_direct": null, "email": null, "linkedin": null, "source": "https://www.pappers.fr/entreprise/boulangerie-gauthier-849322359"},
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Téléphone, e-mail et site déjà connus (deja), conservés mais non reconfirmés : aucune des 3 recherches n'a fait remonter la boulangerie ni ce numéro. Cogérante : Geneviève Gauthier (Lecointe)."
+ }
+]
