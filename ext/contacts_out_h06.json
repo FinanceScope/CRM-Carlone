@@ -1,0 +1,516 @@
+[
+ {
+  "siren": "950499673",
+  "standard": {
+   "tel": "03 86 90 09 34",
+   "source": "https://coparking.ch/en/France/parkings/5112",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "FANALONA (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/saldia-950499673"
+  },
+  "dirigeant_principal": {
+   "nom": "FANALONA (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale) de SALDIA",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/saldia-950499673"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Exploitant de l'Intermarché Super de Guérigny, 5 rue de Lanessan (lien SALDIA / magasin vu sur zagaz.com). Numéro du magasin vu uniquement sur un annuaire tiers (coparking.ch), à vérifier sur la page magasin intermarche.com. Personne physique derrière la holding FANALONA non trouvée en 3 recherches. Commissaire aux comptes : SA SALVAN ET ASSOCIES."
+ },
+ {
+  "siren": "530610187",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Constance DENJEAN (GAUME)",
+   "fonction": "Présidente",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+  },
+  "dirigeant_principal": {
+   "nom": "Constance DENJEAN (GAUME)",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Louis BAUVILLARD",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun numéro ni site trouvé en 3 recherches. Selon verif.com, CF2C relève des activités des agences de recouvrement / sociétés d'information financière, avec un établissement à Baie-Mahault (Guadeloupe) et le siège à Nevers (https://www.verif.com/en/company/CF2C-68d9c19012992303383daf43/). Dirigeants issus du registre uniquement."
+ },
+ {
+  "siren": "431863752",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Martin Jean-Raymond NAUDET",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+  },
+  "dirigeant_principal": {
+   "nom": "Martin Jean-Raymond NAUDET",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Frédéric NAUDET",
+    "fonction": "Dirigeant de « Naudet Sapins de Noël » (présenté ainsi par Sud Radio, exploite avec son fils ; président de l'association française du sapin de Noël naturel)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.sudradio.fr/emission/la-france-qui-se-leve-tot-1020"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé (seul numéro vu : celui du groupement Excellence Végétale, non retenu). Adresse postale La Gutteleau, 58230 Planchez confirmée sur une fiche produit Bricomarché. Le registre donne Martin Naudet président ; la presse présente Frédéric Naudet (probablement son père) comme dirigeant : à clarifier à l'appel. Entreprise liée au groupe familial Pépinières Naudet (Leuglay, 21)."
+ },
+ {
+  "siren": "350408183",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "AFIC (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+  },
+  "dirigeant_principal": {
+   "nom": "AFIC (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale) de TPI",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro, site ni contact trouvé en 3 recherches. SIRENE : SAS TRAVAUX PUBLICS ET INDUSTRIELS (TPI), active depuis 1990, APE 77.32Z (location de machines et équipements pour la construction) ; l'ancien établissement ZA Champ Mâle, rue Jacques Duclos est fermé depuis 2009 (https://api-avis-situation-sirene.insee.fr/identification/pdf/35040818300019). Personne physique derrière AFIC non identifiée."
+ },
+ {
+  "siren": "354045205",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Alain MANNS",
+   "fonction": "Dirigeant (titre exact non précisé dans le registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+  },
+  "dirigeant_principal": {
+   "nom": "Alain MANNS",
+   "fonction": "Dirigeant (titre exact non précisé dans le registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro ni site trouvé en 3 recherches. Xerfi : fabrication de meubles de bureau et de magasin (31.01Z), CA 4 732 k€ en 2024, 36 personnes, siège avenue de Paris à Pougues-les-Eaux sans établissement secondaire (https://www.xerfi.com/etudes-par-entreprise/alain-elinas-production_354045205)."
+ },
+ {
+  "siren": "430086165",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Yannick ANDRIEUX",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/jorest-430086165"
+  },
+  "dirigeant_principal": {
+   "nom": "Yannick ANDRIEUX",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/jorest-430086165"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun résultat en 3 recherches (nom de la société, du gérant et adresse rue du Ravelin) : l'enseigne exploitée n'est pas identifiée (50-99 salariés, probablement une enseigne de restauration rapide ou collective sous un autre nom). Dirigeant issu du registre uniquement."
+ },
+ {
+  "siren": "888572831",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Julien Claude Henri GERMAIN",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/germains-development-888572831"
+  },
+  "dirigeant_principal": {
+   "nom": "Julien Claude Henri GERMAIN",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/germains-development-888572831"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun résultat en 3 recherches (raison sociale, adresse avenue de la Fringale, dirigeant). Le magasin exploité n'est pas identifié : 4,4 M€ de CA en commerce de détail avec 0 salarié déclaré (2023) ; un Super U / U Express existe à Tannay (https://www.promocatalogues.fr/villes/tannay-nievre) mais aucun lien avec cette société n'a été vérifié. Dirigeant issu du registre uniquement."
+ },
+ {
+  "siren": "393717863",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Fabien HUGUET",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+  },
+  "dirigeant_principal": {
+   "nom": "Fabien HUGUET",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro ni site trouvé en 3 recherches (les résultats « Huguet » concernent d'autres sociétés : groupe Huguet de Luçon en Vendée, notaire à Houilles). Dirigeant issu du registre uniquement."
+ },
+ {
+  "siren": "311665913",
+  "standard": {
+   "tel": "03 86 61 02 25",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/21875-potier-bernard-sarl/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": {
+   "email": "sarl.bernard.potier@wanadoo.fr",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/21875-potier-bernard-sarl/"
+  },
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Alexis Florent DE WITTE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
+  },
+  "dirigeant_principal": {
+   "nom": "Alexis Florent DE WITTE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société connue sous le nom « Potier Bernard (SARL) », couverture-plomberie-chauffage, RGE QualiBat, 101 faubourg de la Baratte, Nevers. Téléphone identique sur deux annuaires RGE (les-energies-renouvelables.eu et https://www.hellowatt.fr/artisans/potier-bernard-sarl/). Email générique (adresse wanadoo au nom de la société) vu sur ces annuaires, non confirmé sur un site officiel. Les deux annuaires donnent des SIRET différents (…00019 / …00035), possible transfert d'établissement. Aucun résultat sur Alexis De Witte en ligne ; président issu du registre uniquement."
+ },
+ {
+  "siren": "792570335",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "REGULAR (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/corimar-792570335"
+  },
+  "dirigeant_principal": {
+   "nom": "REGULAR (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale) de CORIMAR",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/corimar-792570335"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin Intermarché Contact, rue de Paris (lieu-dit Le Pré aux Saints), 58470 Magny-Cours (https://www.118000.fr/e_C0102020066) : aucun numéro affiché dans les extraits (118000.fr, Que Choisir, zagaz) ; à vérifier sur la page magasin intermarche.com. Surprise : zagaz indique la station-service Intermarché Contact de Magny-Cours exploitée par « Mousin SA » (https://www.zagaz.com/station.php?id_s=18379), donnée possiblement ancienne (ancien exploitant ?). Personne physique derrière la holding REGULAR non identifiée."
+ },
+ {
+  "siren": "333857605",
+  "standard": null,
+  "email_generique": null,
+  "site_web": "https://www.eiffageenergiesystemes.com",
+  "decideur_financier": {
+   "nom": "EIFFAGE ENERGIE SYSTEMES - REGIONS FRANCE (personne morale, représentant non identifié)",
+   "fonction": "Président (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
+  },
+  "dirigeant_principal": {
+   "nom": "EIFFAGE ENERGIE SYSTEMES - REGIONS FRANCE (personne morale, représentant non identifié)",
+   "fonction": "Président (personne morale) de EIFFAGE ENERGIE SYSTEMES - BOURGEOT",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Filiale du groupe Eiffage (Eiffage Énergie Systèmes, siège Vélizy-Villacoublay) ; site web = site de la marque du groupe, pas de page agence trouvée. Aucun numéro d'agence pour Fourchambault trouvé en 3 recherches ; une offre d'emploi Eiffage (technicien de maintenance CVC) est basée à Fourchambault (https://www.wizbii.com/company/eiffage/job/technicien-de-maintenance-cvc-f-h-840). La finance est probablement gérée au niveau régional du groupe ; aucun responsable financier ni chef d'agence identifié. SIRENE : un ancien établissement à La Guerche-sur-l'Aubois (18) fermé en 2006."
+ },
+ {
+  "siren": "571881002",
+  "standard": {
+   "tel": "03 86 68 22 00",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": "https://www.groupevincent.fr",
+  "decideur_financier": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/571881002"
+  },
+  "dirigeant_principal": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Guillaume VINCENT",
+    "fonction": "Directeur général délégué",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/571881002"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Numéro standard repris de « deja » (concession Citroën SAS Garage Vincent, 3 route de Paris, même adresse que le siège), non reconfirmé par les recherches. Builtwith attribue au Groupe Vincent le +33 3 81 31 19 89 (indicatif du Doubs, incohérent, non retenu : https://builtwith.com/meta/groupevincent.fr). Aucun DAF / RAF / contrôleur de gestion trouvé en 3 recherches malgré la taille du groupe (≈450 salariés, concessions Citroën, Peugeot, Toyota, Fiat/Jeep dans le Cher, le Loiret, la Nièvre et l'Allier) : à demander au standard."
+ },
+ {
+  "siren": "978029817",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Sébastien DUMANGE",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/978029817"
+  },
+  "dirigeant_principal": {
+   "nom": "Sébastien DUMANGE",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/978029817"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Delphine DUMANGE",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/978029817"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Holding (3-5 salariés) au CA consolidé déclaré de 173 M€ : aucun résultat en 3 recherches (raison sociale + adresse 5 rue Denis Papin, président, nom de famille dans la Nièvre) ; les filiales opérationnelles ne sont pas identifiées. Dirigeants issus du registre uniquement."
+ },
+ {
+  "siren": "510317191",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/510317191"
+  },
+  "dirigeant_principal": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/510317191"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Jade ROUSSEAU",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/510317191"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun résultat pertinent en 3 recherches : les résultats « Groupe Rousseau » concernent un homonyme (groupe normand de construction métallique / mobilier urbain, Turenne et Bpifrance au capital), sans lien établi avec Clamecy. Activité opérationnelle du groupe de Clamecy (91 M€ de CA) non identifiée. Dirigeants issus du registre uniquement."
+ },
+ {
+  "siren": "833243801",
+  "standard": {
+   "tel": "03 86 71 84 10",
+   "source": "https://www.e.leclerc/mag/e-leclerc-nevers",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.e.leclerc/mag/e-leclerc-nevers",
+  "decideur_financier": {
+   "nom": "Jean-François MOUSSET",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/833243801"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-François MOUSSET",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/833243801"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Nadia MOUSSET (MADAIRE)",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/833243801"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "HYPOTHÈSE à confirmer : holding (0 salarié, 64 M€ de CA) domiciliée boulevard Beauregard à Coulanges-lès-Nevers, adresse de l'hypermarché E.Leclerc Nevers ; le standard et le site indiqués sont ceux de ce magasin (numéro 03 86 71 84 10 aussi donné par l'agence Voyages Leclerc du même site : https://www.voyages.leclerc/agences/coulanges-les-nevers-302). Aucune source ne relie nommément la famille Mousset à ce Leclerc. Dirigeants issus du registre uniquement."
+ },
+ {
+  "siren": "399502897",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean-François CASSIER",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/399502897"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-François CASSIER",
+   "fonction": "Président de SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/399502897"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Jean-Luc FUMOUX",
+    "fonction": "Membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/399502897"
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/399502897"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun résultat en 3 recherches (raison sociale + adresse, nom dans la commune, noms des dirigeants) ; activité opérationnelle du groupe (71,5 M€) non identifiée. Le registre mélange président de SAS et organes de SA à directoire (Alain CASSIER président du conseil de surveillance, Luc CASSIER, J.-L. FUMOUX et P. RACOUCHOT membres du directoire) : liste probablement en partie ancienne. Les membres du directoire hors famille pourraient porter la fonction financière, non vérifié."
+ }
+]

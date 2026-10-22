@@ -1,7 +1,10 @@
 [
  {
   "siren": "490935756",
-  "standard": {"tel": "03 86 21 27 18", "source": null},
+  "standard": {
+   "tel": "03 86 21 27 18",
+   "source": null
+  },
   "email_generique": null,
   "site_web": "https://www.texysgroup.com",
   "decideur_financier": {
@@ -25,5 +28,430 @@
   "autres_contacts": [],
   "format_email_observe": null,
   "note": "Standard repris de deja.telephone, non reconfirmé par une source en ligne (aucun extrait trouvé). Aucun DAF/RAF identifié. Texys a rejoint FOGALE Sensors (groupe formé le 19/12/2023, cession par Isatis Capital) ; CFNews (https://www.cfnews.net/L-actualite/Build-up/Texys-demarre-une-nouvelle-course-469586) indique que l'opération 'offre une sortie à son président' (Philippe Leuwers) : il peut ne plus être en poste, la direction actuelle est peut-être côté FOGALE Sensors. Thermo Est a intégré le groupe fin 2025. Recherche interrompue : quota de recherches web épuisé."
+ },
+ {
+  "siren": "418048591",
+  "standard": {
+   "tel": "03 86 60 99 30",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasin?pdvref=02520",
+  "decideur_financier": {
+   "nom": "Alain Baillou",
+   "fonction": "Président de SAS (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/418048591"
+  },
+  "dirigeant_principal": {
+   "nom": "Alain Baillou",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/418048591"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Thomas Aurélien Kerbourc'h",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/418048591"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Standard repris de deja.telephone : aucun extrait de recherche ne l'a confirmé (fiche 118000 https://www.118000.fr/e_C0101982804 confirme le magasin Intermarché SUPER au 9 rue du 4 Septembre mais sans numéro visible). Aucun nom de dirigeant trouvé en ligne : dirigeants repris du registre uniquement. Magasin de 20-49 salariés : pas de DAF attendu, la comptabilité est souvent suivie par le groupement Les Mousquetaires / expert-comptable."
+ },
+ {
+  "siren": "611880204",
+  "standard": null,
+  "email_generique": null,
+  "site_web": "https://www.igol.com",
+  "decideur_financier": {
+   "nom": "Isabelle Billoue Meunier",
+   "fonction": "Personne ayant le pouvoir d'engager la société (registre) ; présidente de la SAS : CIPELIA (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/611880204"
+  },
+  "dirigeant_principal": {
+   "nom": "Isabelle Billoue Meunier",
+   "fonction": "Personne ayant le pouvoir d'engager la société (registre) ; présidente de la SAS : CIPELIA (personne morale, dirigeant personne physique non identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/611880204"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé pour IGOL Centre (3 recherches). Le site du groupe IGOL (https://www.igol.com/?p=2614) confirme un site de production à Nevers (58), siège du groupe à Amiens. Xerfi (https://www.xerfi.com/etudes-par-entreprise/igol-centre_611880204) confirme l'adresse 72 rue d'Alsace-Lorraine, 58000 Nevers, SAS, 28 salariés, CA 11 M€ en 2024. Filiale d'un groupe (CIPELIA) : la fonction finance est probablement centralisée au siège d'Amiens ; aucun DAF identifié. Passer par le standard du groupe IGOL si besoin."
+ },
+ {
+  "siren": "453481244",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Guillaume Bouillet",
+   "fonction": "Gérant (co-gérant avec Jérôme et Sébastien Bouillet, registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/453481244"
+  },
+  "dirigeant_principal": {
+   "nom": "Guillaume Bouillet",
+   "fonction": "Gérant (co-gérant avec Jérôme et Sébastien Bouillet, registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/453481244"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Jérôme Bouillet",
+    "fonction": "Gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   },
+   {
+    "nom": "Sébastien Bouillet",
+    "fonction": "Gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucune trace en ligne de la société dans les résultats de recherche (3 recherches : nom + Decize, ZA des Champs Monarès, raison sociale exacte) : ni téléphone, ni site, ni activité précise. Trois co-gérants égaux au registre ; le choix de Guillaume Bouillet comme interlocuteur est arbitraire (premier listé). À compléter via PagesJaunes ou annuaire-entreprises."
+ },
+ {
+  "siren": "885820217",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Le Super U de Tannay existe bien avenue de la Fringale (D119), 58190 Tannay (station-service listée sur https://www.zagaz.com/station-avis.php?id_s=16310 et https://www.auto-selection.com/services/annuaire/stations-services/super-u-1020467-tannay-58-fiche-14719, cette dernière n'affichant qu'un numéro surtaxé de mise en relation, non retenu), mais le lien SO.DI.TAN = Super U Tannay reste non confirmé et aucun numéro du magasin n'a été trouvé. Présidente au registre : GERMAIN'S DEVELOPMENT (personne morale, depuis le 24/08/2026 : changement de direction récent) ; la personne physique qui dirige cette holding n'a pas été identifiée (aucun résultat). Aucun dirigeant personne physique connu : à identifier via le registre de GERMAIN'S DEVELOPMENT."
+ },
+ {
+  "siren": "919448043",
+  "standard": {
+   "tel": "03 86 25 11 77",
+   "source": "https://www.bible-marques.fr/magasins/58300-decize/carrefour",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard du magasin Carrefour Market Decize (18 route de Champvert) vu sur un annuaire de magasins (bible-marques) ; ne pas confondre avec le numéro du Carrefour Drive (09 80 98 09 86, https://www.bonial.fr/Magasins/Decize/Carrefour-Drive-route-de-Champvert/v-f541027171), service centralisé. Présidente au registre : CORVAHIE (personne morale) ; la personne physique qui la dirige n'a pas été identifiée (3 recherches sans résultat) : pas de dirigeant ni de décideur financier nommé. Magasin franchisé (ac-franchise : https://ac-franchise.com/store/carrefour-market-776/)."
+ },
+ {
+  "siren": "428223531",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent Pommier",
+   "fonction": "Président de SAS (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428223531"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent Pommier",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428223531"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin Intermarché Super Sauvigny-les-Bois confirmé (ac-franchise https://ac-franchise.com/store/intermarche-265/ : av. de Marigny, 20-49 salariés ; Que Choisir https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm3143/ donne 'Route de Nevers RN 81'), mais aucun numéro de téléphone du magasin trouvé (seul un numéro surtaxé de mise en relation sur auto-selection, non retenu). Dirigeant repris du registre uniquement, non confirmé par une source récente."
+ },
+ {
+  "siren": "701880155",
+  "standard": null,
+  "email_generique": null,
+  "site_web": "https://www.transports-charrier.fr",
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun téléphone ni nom trouvé (3 recherches). Société confirmée au 44 route des Feuillats, 58300 Decize (fiche avis/emploi GoWork https://gowork.fr/transports-charrier-et-co-decize). Présidente au registre : GROUPE ROUSSEAU (personne morale) ; la personne physique qui dirige le groupe n'a pas été identifiée. Avec ~75 salariés et un groupe actionnaire, la fonction finance est probablement tenue au niveau de GROUPE ROUSSEAU (RAF/DAF de groupe à rechercher). Site web repris de deja, non vérifié (aucun résultat de recherche ne le montre). Ne pas confondre avec l'entreprise individuelle 'Transports Charrier' de Courville-sur-Eure (28)."
+ },
+ {
+  "siren": "398711283",
+  "standard": {
+   "tel": "03 86 57 56 33",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": {
+   "email": "technic.e.58@wanadoo.fr",
+   "source": null
+  },
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Thierry Bourbon",
+   "fonction": "Président de SAS (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/398711283"
+  },
+  "dirigeant_principal": {
+   "nom": "Thierry Bourbon",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/398711283"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Romain Blond",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/398711283"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Standard et e-mail (adresse générique d'entreprise chez Wanadoo) repris de deja : aucun des deux n'a été retrouvé dans les résultats de recherche (recherche du numéro exact sans résultat), donc non reconfirmés et sans source. Aucune trace en ligne de 'Technic'Elec 58' à Nevers dans les résultats (homonymes à Toulouse, Saint-Malo, Saint-Mitre-les-Remparts sans rapport). Dirigeants repris du registre ; Romain Blond (DG) peut être l'interlocuteur opérationnel."
+ },
+ {
+  "siren": "411741440",
+  "standard": {
+   "tel": "03 86 21 80 00",
+   "source": "https://securepre.worldsbk.com/en/event/FRA/2026",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "info@circuitmagnycours.com",
+   "source": "https://securepre.worldsbk.com/en/event/FRA/2026"
+  },
+  "site_web": "https://www.circuitmagnycours.com",
+  "decideur_financier": {
+   "nom": "Serge Saulnier",
+   "fonction": "Président du directoire",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411741440"
+  },
+  "dirigeant_principal": {
+   "nom": "Serge Saulnier",
+   "fonction": "Président du directoire (depuis 2010)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411741440"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Romain Daguenet",
+    "fonction": "Directeur adjoint du circuit ; membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.flashscore.fr/actualites/le-circuit-de-nevers-magny-cours-joue-sur-sa-polyvalence/EmzUL6Am/"
+   },
+   {
+    "nom": "Katia Favaretto",
+    "fonction": "Membre du directoire (registre ; fonction opérationnelle non trouvée)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/411741440"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Standard et e-mail générique confirmés par les fiches événement WorldSBK (2017 à 2026, organisateur officiel du championnat) et la fiche Google ; fax 03 86 21 81 41. Aucun DAF/RAF identifié (2 recherches) : Katia Favaretto, 3e membre du directoire, pourrait tenir l'administratif/finance mais rien ne le confirme. Société d'économie mixte : actionnaire majoritaire le Conseil départemental de la Nièvre ; président du conseil de surveillance Fabien Bazin (registre)."
+ },
+ {
+  "siren": "420237398",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Myriam Mordzialek",
+   "fonction": "Présidente de SAS (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/420237398"
+  },
+  "dirigeant_principal": {
+   "nom": "Myriam Mordzialek",
+   "fonction": "Présidente de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/420237398"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin Intermarché Contact confirmé à la ZAC de la Badelle, 58270 Saint-Benin-d'Azy (Tiendeo https://www.tiendeo.fr/Magasins/saint-benin-dazy/intermarche-contact-zac-de-la-badelle/227244, ac-franchise https://ac-franchise.com/store/intermarche-237/), station-service avenue François Mitterrand (D978). Aucun numéro du magasin trouvé (le 03 86 58 41 15 vu dans les résultats est celui de la mairie, non retenu). Dirigeante reprise du registre uniquement, non confirmée en ligne."
+ },
+ {
+  "siren": "631880192",
+  "standard": {
+   "tel": "03 86 59 75 75",
+   "source": "https://www.santeenfrance.fr/etablissement/48106-clinique-du-chateau-du-tremblay",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://clinique-chateau-du-tremblay.ramsaysante.fr",
+  "decideur_financier": {
+   "nom": "Tanguy Charbonnier",
+   "fonction": "Directeur général de la SAS (depuis le 01/07/2023, registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880192"
+  },
+  "dirigeant_principal": {
+   "nom": "Tanguy Charbonnier",
+   "fonction": "Directeur général de la SAS (depuis le 01/07/2023, registre) ; président : Benoît Hue (Ramsay Santé)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880192"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Benoît Hue",
+    "fonction": "Président de la SAS (représentant du groupe Ramsay Santé, registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/631880192"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Standard (identique à deja) confirmé par l'annuaire Santé en France (lieu-dit Le Tremblay, 58400 Chaulgnes). Clinique du groupe Ramsay Santé : la finance est pilotée au niveau du groupe/région, aucun RAF identifié pour le site (3 recherches). Le seul directeur d'établissement nommé en ligne est Augustin Roiret (communiqué Ramsay GDS de mai 2017, https://presse.ramsaygds.fr/Handlers/HTFile.ashx?Id=102240) : information ancienne, il n'est probablement plus en poste ; aucune trace en ligne de Tanguy Charbonnier dans les résultats (fonction reprise du registre)."
+ },
+ {
+  "siren": "844428623",
+  "standard": {
+   "tel": "03 86 71 94 20",
+   "source": "https://tsi.mobigo.cityway.fr/en/bus-and-trams/53/taneo-network-nevers/264",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.taneo-bus.fr",
+  "decideur_financier": {
+   "nom": "Nathalie Juston (Barbrel)",
+   "fonction": "Gérante (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/844428623"
+  },
+  "dirigeant_principal": {
+   "nom": "Nathalie Juston (Barbrel)",
+   "fonction": "Gérante (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/844428623"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Le numéro retenu est celui de l'Espace Taneo (accueil clientèle, 31 avenue Pierre Bérégovoy, 58000 Nevers) publié sur Mobigo, le service régional d'information transport : ce n'est pas forcément la ligne administrative du dépôt (120 rue de Marzy). Le 03 86 61 81 60 vu dans les résultats est celui de Nevers Agglomération (autorité organisatrice), non retenu. Filiale du groupe Keolis (~100 salariés selon une offre d'emploi 2026) : finance pilotée au niveau du groupe/région, aucun RAF local identifié ; le directeur financier France du groupe (Jean-Michel Archambault, nomination ancienne) n'est pas un interlocuteur local. Gérante reprise du registre, non confirmée en ligne (3 recherches)."
+ },
+ {
+  "siren": "692007768",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun téléphone ni dirigeant personne physique trouvé (3 recherches). Xerfi (https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768) : SAS, La Maladière 58170 Luzy, créée en 1980, CA 2024 ~7,66 M€, NAF 18.12Z, mandataires COMPTAFRANCE et SAS GRAPHILYS (personnes morales). GRAPHILYS est un fabricant d'étiquettes adhésives dont le siège est à Perpignan (ZI Torremila ; ~33 M€ de CA, 60+ salariés selon une offre d'emploi) et qui présente Luzy comme l'un de ses sites de production : la finance est vraisemblablement pilotée depuis le siège de Perpignan (DAF/RAF du groupe non identifié). Le nom de la personne qui préside GRAPHILYS n'a pas été trouvé."
+ },
+ {
+  "siren": "404816712",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Xavier Boulot",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS, présidente de CIA Imprimerie",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712"
+  },
+  "dirigeant_principal": {
+   "nom": "Xavier Boulot",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS, présidente de CIA Imprimerie",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712"
+  },
+  "adresse": {
+   "adresse": "1A Impasse des Montais, 58320 Pougues-les-Eaux",
+   "source": "https://my.motherbase.ai/company/202689-imprimerie-ciagraphic"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé (3 recherches). Imprimerie CIA Graphic membre du réseau Imprifrance (profil Motherbase, auto-déclaratif). Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712) : créée en mars 1996, capital 604 k€, siège à Pougues-les-Eaux. Dirigeant repris de deja/registre (Xavier Boulot via la holding 2B Finance et Conseils), non confirmé par une source en ligne. Adresse issue d'un agrégateur (Motherbase) : à vérifier."
+ },
+ {
+  "siren": "887120046",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Dominique De Matteis",
+    "fonction": "Autre mandataire (registre ; rôle exact non précisé)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/887120046"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé (3 recherches). Le magasin Weldom de Clamecy est listé au 8 route de Beaugy, 58500 Clamecy (118000 https://www.118000.fr/e_C0070527250, ac-franchise https://ac-franchise.com/store/weldom-66/), et non à l'adresse du siège (route d'Orléans, La Vanne du Gour) ; numéro non visible dans les extraits (le 03 86 24 01 83 vu dans les résultats est celui de la PMI de l'hôpital, non retenu). Présidente au registre : ANCIENS ETABLISSEMENTS GEORGES SCHIEVER ET FILS (groupe Schiever, personne morale) : la personne physique qui la dirige et le DAF du groupe n'ont pas été identifiés ; la finance est vraisemblablement centralisée au niveau du groupe Schiever."
  }
 ]

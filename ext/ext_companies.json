@@ -43,7 +43,27 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)",
-"note_classement": "Absente du classement Pappers du 02/09/2026 : avec ce chiffre d'affaires, elle se placerait aujourd'hui dans le top 100."
+"note_classement": "Absente du classement Pappers du 02/09/2026 : avec ce chiffre d'affaires, elle se placerait aujourd'hui dans le top 100.",
+"contacts_ok": true,
+"telephone": "03 86 90 09 34",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "FANALONA (société holding, personne physique non identifiée)",
+"fonction": "Président (personne morale)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/saldia-950499673"
+},
+"contact_dirigeant": {
+"nom": "FANALONA (société holding, personne physique non identifiée)",
+"fonction": "Président (personne morale) de SALDIA",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/saldia-950499673"
+}
 },
 {
 "rang": 102,
@@ -418,7 +438,34 @@
 "statut": "Active",
 "eff_annee": "2023",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Constance DENJEAN (GAUME)",
+"fonction": "Présidente",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/acordia-530610187"
+},
+"contact_dirigeant": {
+"nom": "Constance DENJEAN (GAUME)",
+"fonction": "Présidente",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/acordia-530610187"
+},
+"autres_contacts": [
+{
+"nom": "Louis BAUVILLARD",
+"fonction": "Directeur général",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/acordia-530610187"
+}
+]
 },
 {
 "rang": 108,
@@ -459,7 +506,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Martin Jean-Raymond NAUDET",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+},
+"contact_dirigeant": {
+"nom": "Martin Jean-Raymond NAUDET",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+},
+"autres_contacts": [
+{
+"nom": "Frédéric NAUDET",
+"fonction": "Dirigeant de « Naudet Sapins de Noël » (présenté ainsi par Sud Radio, exploite avec son fils ; président de l'association française du sapin de Noël naturel)",
+"tel": null,
+"email": null,
+"source": "https://www.sudradio.fr/emission/la-france-qui-se-leve-tot-1020"
+}
+]
 },
 {
 "rang": 109,
@@ -891,7 +965,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "AFIC (société holding, personne physique non identifiée)",
+"fonction": "Président (personne morale)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+},
+"contact_dirigeant": {
+"nom": "AFIC (société holding, personne physique non identifiée)",
+"fonction": "Président (personne morale) de TPI",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+}
 },
 {
 "rang": 117,
@@ -1093,7 +1185,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Alain MANNS",
+"fonction": "Dirigeant (titre exact non précisé dans le registre)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+},
+"contact_dirigeant": {
+"nom": "Alain MANNS",
+"fonction": "Dirigeant (titre exact non précisé dans le registre)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+}
 },
 {
 "rang": 121,
@@ -1274,7 +1384,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Yannick ANDRIEUX",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/jorest-430086165"
+},
+"contact_dirigeant": {
+"nom": "Yannick ANDRIEUX",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/jorest-430086165"
+}
 },
 {
 "rang": 124,
@@ -1315,7 +1443,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Julien Claude Henri GERMAIN",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/germains-development-888572831"
+},
+"contact_dirigeant": {
+"nom": "Julien Claude Henri GERMAIN",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/germains-development-888572831"
+}
 },
 {
 "rang": 125,
@@ -1417,7 +1563,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Fabien HUGUET",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+},
+"contact_dirigeant": {
+"nom": "Fabien HUGUET",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+}
 },
 {
 "rang": 127,
@@ -1527,7 +1691,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)",
+"contacts_ok": true,
+"telephone": "03 86 61 02 25",
+"telephone_a_confirmer": true,
+"email": "sarl.bernard.potier@wanadoo.fr",
+"contact_finance": {
+"nom": "Alexis Florent DE WITTE",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
+},
+"contact_dirigeant": {
+"nom": "Alexis Florent DE WITTE",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
+}
 },
 {
 "rang": 129,
@@ -1617,7 +1802,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "REGULAR (société holding, personne physique non identifiée)",
+"fonction": "Président (personne morale)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/corimar-792570335"
+},
+"contact_dirigeant": {
+"nom": "REGULAR (société holding, personne physique non identifiée)",
+"fonction": "Président (personne morale) de CORIMAR",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/corimar-792570335"
+}
 },
 {
 "rang": 131,
@@ -1658,7 +1861,26 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"site_web": "https://www.eiffageenergiesystemes.com",
+"contact_finance": {
+"nom": "EIFFAGE ENERGIE SYSTEMES - REGIONS FRANCE (personne morale, représentant non identifié)",
+"fonction": "Président (personne morale)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
+},
+"contact_dirigeant": {
+"nom": "EIFFAGE ENERGIE SYSTEMES - REGIONS FRANCE (personne morale, représentant non identifié)",
+"fonction": "Président (personne morale) de EIFFAGE ENERGIE SYSTEMES - BOURGEOT",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
+}
 },
 {
 "rang": 132,
