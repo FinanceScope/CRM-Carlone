@@ -935,6 +935,7 @@ function renderDetail(force){
       ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise"):"")}
     </dl>
     ${!c.telephone&&!c.email&&!c.site_web?`<span class="muted">${c.ext&&!c.enrichie&&!c.contacts_ok?"Coordonnées pas encore recherchées.":"Pas de coordonnées publiques trouvées."}</span>`:""}
+    ${c.note_contacts?`<details class="mailer"><summary>Notes de la recherche de coordonnées</summary><p class="txt muted" style="margin-top:8px;font-size:13.5px">${esc(c.note_contacts)}</p></details>`:""}
   </div>
   ${cd||cfin||(c.autres_contacts||[]).length?`<div class="d-sec">
     <h3>Décideurs</h3>

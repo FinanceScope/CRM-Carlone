@@ -612,7 +612,13 @@ for f in sorted(glob.glob(EXT + '/contacts_out_*.json')):
     for e in data:
         k = sid(e.get('siren'))
         if re.match(r'\s*(non traité|pending)', str(e.get('note') or ''), re.I): continue   # lot interrompu : entreprise pas encore recherchée
-        if k: CONTACTS[k] = e
+        if not k: continue
+        old = CONTACTS.get(k)
+        if old:   # une passe plus récente complète la précédente sans effacer ce qu'elle avait trouvé
+            e = dict(old, **{kk: vv for kk, vv in e.items() if vv not in (None, '', [], {}) and not (kk == 'standard' and not (vv or {}).get('tel'))})
+            if old.get('note') and e.get('note') != old.get('note') and old['note'] not in (e.get('note') or ''):
+                e['note'] = old['note'] + ' ' + (e.get('note') or '')
+        CONTACTS[k] = e
 def clean_tel(t):
     if not t: return None
     d = re.sub(r'\D', '', str(t))
@@ -626,6 +632,7 @@ for c in base + ext:
     e = CONTACTS.get(sid(c.get('siren')))
     if not e: continue
     c['contacts_ok'] = True
+    if e.get('note'): c['note_contacts'] = str(e['note']).strip()
     std = e.get('standard') or {}
     if std.get('tel') and not c.get('telephone'): c['telephone'] = clean_tel(std['tel']); n_ct['tel ajouté'] += 1
     if std.get('tel') and c.get('telephone') == clean_tel(std['tel']) and std.get('fiabilite') in ('annuaire', 'ancienne'):
