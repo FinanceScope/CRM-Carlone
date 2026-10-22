@@ -17601,7 +17601,36 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 58 05 14 41",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Elisabeth Dargneau",
+"fonction": "Gérante (co-gérante)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/infirmiers-du-beuvron-537867970"
+},
+"contact_dirigeant": {
+"nom": "Elisabeth Dargneau",
+"fonction": "Gérante (co-gérante avec Thomas Pioux)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/infirmiers-du-beuvron-537867970"
+},
+"autres_contacts": [
+{
+"nom": "Thomas Pioux",
+"fonction": "Gérant (co-gérant), infirmier",
+"tel": null,
+"email": null,
+"source": "https://www.pagesjaunes.fr/pros/54003942"
+}
+]
 },
 {
 "rang": 397,
@@ -17678,7 +17707,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 399,
@@ -17719,7 +17749,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Yann Clément",
+"fonction": "Exploitant (entrepreneur individuel)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/517424685"
+},
+"contact_dirigeant": {
+"nom": "Yann Clément",
+"fonction": "Exploitant (entrepreneur individuel), bureau de tabac La Tabatière",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/517424685"
+}
 },
 {
 "rang": 400,
@@ -17760,7 +17808,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Lucien Lamberts",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/477803357"
+},
+"contact_dirigeant": {
+"nom": "Lucien Lamberts",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/477803357"
+}
 },
 {
 "rang": 401,
@@ -17796,7 +17862,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 402,
@@ -17832,7 +17899,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 403,
@@ -17873,7 +17941,35 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"site_web": "https://www.de-oliveira-couverture.fr",
+"contact_finance": {
+"nom": "Vincent Deplanque",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/amandio-de-oliveira-399006063"
+},
+"contact_dirigeant": {
+"nom": "Vincent Deplanque",
+"fonction": "Président (présenté comme gérant, couvreur-zingueur, sur l'annuaire 118712)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.118712.fr/professionnels/WUJUWlZXFAI"
+},
+"autres_contacts": [
+{
+"nom": "Amandio De Oliveira",
+"fonction": "Contact indiqué sur l'annuaire (fondateur, dont la société porte le nom)",
+"tel": null,
+"email": null,
+"source": "https://www.118712.fr/professionnels/WUJUWlZXFAI"
+}
+]
 },
 {
 "rang": 404,
@@ -18130,7 +18226,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 411,
@@ -18207,7 +18304,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 413,
@@ -18248,7 +18346,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "David Michael Carola",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/927460154"
+},
+"contact_dirigeant": {
+"nom": "David Michael Carola",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/927460154"
+}
 },
 {
 "rang": 414,
@@ -18289,7 +18405,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Nebi Akturk",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/922199443"
+},
+"contact_dirigeant": {
+"nom": "Nebi Akturk",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/922199443"
+}
 },
 {
 "rang": 415,
@@ -18406,7 +18540,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 418,
@@ -18460,8 +18595,8 @@
 "ca_non_publie": false,
 "effectif": "6-9 salariés",
 "ville": "Saint-Père",
-"code_postal": null,
-"adresse": null,
+"code_postal": "58200",
+"adresse": "45 rue du Général Binot, 58200 Cosne-Cours-sur-Loire",
 "distance_cosne_km": 3,
 "siren": "510376668",
 "pappers_url": "https://www.pappers.fr/entreprise/devcsi-developpement-et-conception-de-systemes-dinformation-510376668",
@@ -18483,7 +18618,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Abdelilah Sanif",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://ch.kompass.com/fr/c/devcsi/fr6170992/"
+},
+"contact_dirigeant": {
+"nom": "Abdelilah Sanif",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://ch.kompass.com/fr/c/devcsi/fr6170992/"
+}
 },
 {
 "rang": 420,
@@ -18519,7 +18672,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 421,
@@ -18568,8 +18722,8 @@
 "ca_non_publie": false,
 "effectif": "3-5 salariés",
 "ville": "Armes",
-"code_postal": null,
-"adresse": null,
+"code_postal": "58500",
+"adresse": "13 rue de la Monnaie, 58500 Clamecy",
 "distance_cosne_km": 54,
 "siren": "341389096",
 "pappers_url": "https://www.pappers.fr/entreprise/parfumerie-lechoppe-341389096",
@@ -18591,7 +18745,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 423,
@@ -18632,7 +18787,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Mehmet Konus",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/980267769"
+},
+"contact_dirigeant": {
+"nom": "Mehmet Konus",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/980267769"
+}
 },
 {
 "rang": 424,
@@ -18681,8 +18854,8 @@
 "ca_non_publie": false,
 "effectif": "3-5 salariés",
 "ville": "Pouilly-sur-Loire",
-"code_postal": null,
-"adresse": null,
+"code_postal": "58150",
+"adresse": "9 place des Frères Mollet, 58150 Pouilly-sur-Loire",
 "distance_cosne_km": 16,
 "siren": "951603471",
 "pappers_url": "https://www.pappers.fr/entreprise/le-fournil-adrien-951603471",
@@ -18706,7 +18879,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 426,
@@ -18742,7 +18916,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 427,
@@ -18778,7 +18953,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 428,
@@ -18927,7 +19103,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 432,
@@ -18965,7 +19142,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 433,
@@ -19023,7 +19201,26 @@
 },
 "angle_partenariat": "Employeur de 100-199 salariés à Varennes-Vauzelles (50 km de Cosne) : avantages pour les salariés via le CSE, repas de fin d'année et journées d'équipe ; partenariat fournisseur local possible pour l'entretien des locaux et la vitrerie.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Bruno ZAMORA",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/alliance-proprete-services-403027485"
+},
+"contact_dirigeant": {
+"nom": "Bruno ZAMORA",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/alliance-proprete-services-403027485"
+}
 },
 {
 "rang": 434,
@@ -19083,7 +19280,9 @@
 },
 "angle_partenariat": "Grand employeur de la distribution (100-199 salariés) à Varennes-Vauzelles, à 50 km de Cosne : avantages pour les salariés relayés par le CSE, repas de fin d'année et journées d'équipe ; la distance limite les pots et afterworks réguliers.",
 "opposition_prospection": true,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"telephone_a_confirmer": true
 },
 {
 "rang": 435,
@@ -19125,7 +19324,8 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true
 },
 {
 "rang": 436,
@@ -19167,7 +19367,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Anthony BERANGER",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-chronotrans-58-879402949"
+},
+"contact_dirigeant": {
+"nom": "Anthony BERANGER",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-chronotrans-58-879402949"
+}
 },
 {
 "rang": 437,
@@ -19211,7 +19429,27 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"telephone": "03 86 90 70 00",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Lucas RESSAT",
+"fonction": "Directeur Général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/transports-ressat-482066487"
+},
+"contact_dirigeant": {
+"nom": "Lucas RESSAT",
+"fonction": "Directeur Général (présidence assurée par la holding HPR, dont le dirigeant n'a pas été identifié)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/transports-ressat-482066487"
+}
 },
 {
 "rang": 438,
@@ -19251,7 +19489,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Olivier ROUSSAT",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+},
+"contact_dirigeant": {
+"nom": "Olivier ROUSSAT",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+}
 },
 {
 "rang": 439,
@@ -19291,7 +19547,8 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true
 },
 {
 "rang": 440,
@@ -19331,7 +19588,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Tony METTENDORFF",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
+},
+"contact_dirigeant": {
+"nom": "Tony METTENDORFF",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
+}
 },
 {
 "rang": 441,
@@ -19375,7 +19650,8 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true
 },
 {
 "rang": 442,
@@ -19415,7 +19691,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "François POUENAT",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
+},
+"contact_dirigeant": {
+"nom": "François POUENAT",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
+}
 },
 {
 "rang": 443,
@@ -19459,7 +19753,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Loïc PANSE",
+"fonction": "Directeur Général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
+},
+"contact_dirigeant": {
+"nom": "Loïc PANSE",
+"fonction": "Directeur Général (présidence assurée par la holding AURIA HOLDING, dont le dirigeant n'a pas été identifié)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
+}
 },
 {
 "rang": 444,
@@ -19499,7 +19811,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "LECHAT ET LA SOURIS (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/inore-groupe-impression-323326512"
+},
+"contact_dirigeant": {
+"nom": "LECHAT ET LA SOURIS (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/inore-groupe-impression-323326512"
+}
 },
 {
 "rang": 445,
@@ -19539,7 +19869,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2023",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "HOLSER (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/samicolor-452446586"
+},
+"contact_dirigeant": {
+"nom": "HOLSER (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/samicolor-452446586"
+}
 },
 {
 "rang": 446,
@@ -19579,7 +19927,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "HOLSER (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sertip-ste-detudes-et-de-realisations-techniques-industrielles-et-publicitaires-306809716"
+},
+"contact_dirigeant": {
+"nom": "HOLSER (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sertip-ste-detudes-et-de-realisations-techniques-industrielles-et-publicitaires-306809716"
+}
 },
 {
 "rang": 447,
@@ -19619,7 +19985,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2023",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "HOLDING R.C (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/societe-louis-charpenet-429628324"
+},
+"contact_dirigeant": {
+"nom": "HOLDING R.C (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/societe-louis-charpenet-429628324"
+}
 },
 {
 "rang": 448,
@@ -19667,7 +20051,34 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "François COLINOT",
+"fonction": "Président du conseil d'administration et directeur général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/stdc-dumas-et-colinot-soc-581880382"
+},
+"contact_dirigeant": {
+"nom": "François COLINOT",
+"fonction": "Président du conseil d'administration et directeur général",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/stdc-dumas-et-colinot-soc-581880382"
+},
+"autres_contacts": [
+{
+"nom": "Julien COLINOT",
+"fonction": "Directeur général délégué",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/stdc-dumas-et-colinot-soc-581880382"
+}
+]
 },
 {
 "rang": 449,
@@ -19707,7 +20118,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Romain SAGNE",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/t3c-442587440"
+},
+"contact_dirigeant": {
+"nom": "Romain SAGNE",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/t3c-442587440"
+}
 },
 {
 "rang": 450,
@@ -19751,7 +20180,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2023",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Maud BELIN",
+"fonction": "Directrice générale (président : SERENIUM, personne morale)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/bkn-817976657"
+},
+"contact_dirigeant": {
+"nom": "Maud BELIN",
+"fonction": "Directrice générale (président : SERENIUM, personne morale ; personne physique la représentant non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/bkn-817976657"
+}
 },
 {
 "rang": 451,
@@ -19792,7 +20239,34 @@
 "statut": "Active",
 "eff_annee": "2023",
 "fig_src": "Comptes non publiés",
-"note_comptes": "Derniers chiffres publiés : exercice 2022 (CA 4,3 M€), rien depuis."
+"note_comptes": "Derniers chiffres publiés : exercice 2022 (CA 4,3 M€), rien depuis.",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Gilles CHARPIN",
+"fonction": "Dirigeant de Cegeplast depuis 2010 (présidence statutaire : DRAGONFLY ENGINEERING, personne morale)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://fusacq.com/buzz/triple-c-rachete-cegeplast-et-elargit-son-positionnement-dans-la-plasturgie-a259067"
+},
+"contact_dirigeant": {
+"nom": "Gilles CHARPIN",
+"fonction": "Dirigeant de Cegeplast depuis 2010 (présidence statutaire : DRAGONFLY ENGINEERING, personne morale) — à confirmer après le rachat par Triple C (mai 2026)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://fusacq.com/buzz/triple-c-rachete-cegeplast-et-elargit-son-positionnement-dans-la-plasturgie-a259067"
+},
+"autres_contacts": [
+{
+"nom": "Christophe AUFORT",
+"fonction": "Dirigeant du groupe Triple C (Gond-Pontouvre, 16), acquéreur de Cegeplast",
+"tel": null,
+"email": null,
+"source": "https://fusacq.com/buzz/triple-c-rachete-cegeplast-et-elargit-son-positionnement-dans-la-plasturgie-a259067"
+}
+]
 },
 {
 "rang": 452,
@@ -19832,7 +20306,29 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"telephone": "03 86 29 66 23",
+"telephone_a_confirmer": true,
+"email": "info@ponge.fr",
+"site_web": "https://www.ponge.fr",
+"contact_finance": {
+"nom": "GROUPE PONGE SAS (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ponge-materiel-agricole-325843050"
+},
+"contact_dirigeant": {
+"nom": "GROUPE PONGE SAS (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ponge-materiel-agricole-325843050"
+}
 },
 {
 "rang": 453,
@@ -19872,7 +20368,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Pierre MICHEL",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sndft-societe-nivernaise-de-debardage-forestier-de-transports-691880389"
+},
+"contact_dirigeant": {
+"nom": "Pierre MICHEL",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sndft-societe-nivernaise-de-debardage-forestier-de-transports-691880389"
+}
 },
 {
 "rang": 454,
@@ -19912,7 +20426,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "SOCIETE D'INVESTISSEMENT J.W (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/decize-carrelages-493995484"
+},
+"contact_dirigeant": {
+"nom": "SOCIETE D'INVESTISSEMENT J.W (personne morale)",
+"fonction": "Président (holding ; personne physique la représentant non identifiée)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/decize-carrelages-493995484"
+}
 },
 {
 "rang": 455,
@@ -19952,7 +20484,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Thomas DAMIEN",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-ambulances-picaut-perrot-805308004"
+},
+"contact_dirigeant": {
+"nom": "Thomas DAMIEN",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-ambulances-picaut-perrot-805308004"
+}
 },
 {
 "rang": 456,

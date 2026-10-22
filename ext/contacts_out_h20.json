@@ -1,0 +1,400 @@
+[
+ {
+  "siren": "537867970",
+  "standard": {
+   "tel": "03 58 05 14 41",
+   "source": "https://www.pagesjaunes.fr/pros/54003942",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Elisabeth Dargneau",
+   "fonction": "Gérante (co-gérante)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/infirmiers-du-beuvron-537867970"
+  },
+  "dirigeant_principal": {
+   "nom": "Elisabeth Dargneau",
+   "fonction": "Gérante (co-gérante avec Thomas Pioux)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/infirmiers-du-beuvron-537867970"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Thomas Pioux",
+    "fonction": "Gérant (co-gérant), infirmier",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pagesjaunes.fr/pros/54003942"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Cabinet infirmier sans salarié, 2 co-gérants (registre). Le 03 58 05 14 41 vient de la fiche PagesJaunes de l'infirmier Thomas Pioux à l'adresse du siège (2 rue Victor Guerreau) : ligne du cabinet probable. La fiche affiche aussi un portable, non repris. Aucun site web trouvé."
+ },
+ {
+  "siren": "980519524",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune source trouvée pour cette SAS (SIREN 980519524, siège à Fléty) ni pour son dirigeant. Piste non confirmée : un annuaire liste une menuiserie « LEMAITRE FRANCOIS » (autre SIRET : 430 020 255 00021), rue Ledru-Rollin à Luzy (commune voisine), tél. 03 86 30 04 67 (https://les-energies-renouvelables.eu/annuaire_search_result/17968-lemaitre-francois/, annuaire non contrôlé). C'est peut-être l'entreprise individuelle qui a précédé la SAS, mais aucun lien n'est établi. Numéro donc non repris en standard."
+ },
+ {
+  "siren": "517424685",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Yann Clément",
+   "fonction": "Exploitant (entrepreneur individuel)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/517424685"
+  },
+  "dirigeant_principal": {
+   "nom": "Yann Clément",
+   "fonction": "Exploitant (entrepreneur individuel), bureau de tabac La Tabatière",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/517424685"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Entreprise individuelle : bureau de tabac « La Tabatière », 88 Grande Rue, 58700 Prémery (https://www.villepratique.fr/bureaux-tabac/arbourse-58350, annuaire). Aucun numéro trouvé dans les extraits de recherche (3 recherches)."
+ },
+ {
+  "siren": "477803357",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Lucien Lamberts",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/477803357"
+  },
+  "dirigeant_principal": {
+   "nom": "Lucien Lamberts",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/477803357"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Organisme de formation « Bourgogne Formation Incendie et Sécurité au Travail (BFI) – Site de Nevers » (SSIAP 1, SST, PSE1), vu sur https://www.maformation.fr/detailformation/service-de-securite-incendie-et-d-assistance-aux-personnes-de-niveau-1-ssiap-1-346963. Ni site propre, ni téléphone, ni email trouvés dans les extraits ; dirigeant uniquement d'après le registre."
+ },
+ {
+  "siren": "884750811",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace de « Montespan Events » (Entrains-sur-Nohain) dans les résultats de recherche (3 recherches) : ni téléphone, ni site, ni dirigeant, ni adresse de rue. Registre sans dirigeant renseigné ; à vérifier sur la fiche Pappers."
+ },
+ {
+  "siren": "922361506",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace de MAALONE (Bulcy, services financiers) dans les résultats de recherche (3 recherches) : probablement une société holding sans présence publique. Ni téléphone, ni dirigeant, ni adresse de rue trouvés."
+ },
+ {
+  "siren": "399006063",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.de-oliveira-couverture.fr",
+  "decideur_financier": {
+   "nom": "Vincent Deplanque",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/amandio-de-oliveira-399006063"
+  },
+  "dirigeant_principal": {
+   "nom": "Vincent Deplanque",
+   "fonction": "Président (présenté comme gérant, couvreur-zingueur, sur l'annuaire 118712)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.118712.fr/professionnels/WUJUWlZXFAI"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Amandio De Oliveira",
+    "fonction": "Contact indiqué sur l'annuaire (fondateur, dont la société porte le nom)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.118712.fr/professionnels/WUJUWlZXFAI"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Entreprise de couverture-zinguerie (« De Oliveira Couverture ») : siège à Bussy, 58270 Saint-Firmin, dépôt à Chaulgnes (58400), ouverte en semaine de 8 h à 19 h (118712). Le numéro est masqué derrière « Afficher le n° » sur la fiche 118712 et n'apparaît dans aucun extrait : téléphone à relever sur cette fiche ou sur le site."
+ },
+ {
+  "siren": "952823607",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace de GAIA TR (Marzy) dans les résultats de recherche (2 recherches, sans résultat pertinent) : ni téléphone, ni site, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "siren": "931083836",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace de « Délivrer des mots » (Champvert, commerce de détail) dans les résultats de recherche (2 recherches) : ni téléphone, ni site, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "siren": "927460154",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "David Michael Carola",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/927460154"
+  },
+  "dirigeant_principal": {
+   "nom": "David Michael Carola",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/927460154"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société non employeuse (activités auxiliaires de services financiers), sans présence en ligne trouvée (2 recherches) : peut-être une holding ou un intermédiaire indépendant. Dirigeant d'après le registre uniquement ; aucun téléphone trouvé."
+ },
+ {
+  "siren": "922199443",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Nebi Akturk",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/922199443"
+  },
+  "dirigeant_principal": {
+   "nom": "Nebi Akturk",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/922199443"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Entreprise d'isolation (6 à 9 salariés) sans présence en ligne trouvée (3 recherches) : ni site, ni fiche annuaire avec téléphone. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "404439200",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace de « Bourgogne Automeca » (Armes, près de Clamecy) dans les résultats de recherche (3 recherches, dont annuaires de garages) : ni téléphone, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "siren": "510376668",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Abdelilah Sanif",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ch.kompass.com/fr/c/devcsi/fr6170992/"
+  },
+  "dirigeant_principal": {
+   "nom": "Abdelilah Sanif",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ch.kompass.com/fr/c/devcsi/fr6170992/"
+  },
+  "adresse": {
+   "adresse": "45 rue du Général Binot, 58200 Cosne-Cours-sur-Loire",
+   "source": "https://ch.kompass.com/fr/c/devcsi/fr6170992/"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SARL de conseil et programmation informatique créée en 2009. Kompass (annuaire) donne le gérant et une adresse à Cosne-Cours-sur-Loire, alors que le registre situe le siège à Saint-Père (commune voisine) : l'adresse de Cosne peut être ancienne ou un autre site, à vérifier. Le gérant n'est pas confirmé par le registre (dirigeants absents de l'entrée). Ni téléphone ni site trouvés dans les extraits."
+ },
+ {
+  "siren": "889275467",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace de BATI HOMME 58 (Varennes-Vauzelles) dans les résultats de recherche (2 recherches) : ni téléphone, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "siren": "341389096",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": {
+   "adresse": "13 rue de la Monnaie, 58500 Clamecy",
+   "source": "https://www.xerfi.com/etudes-par-entreprise/parfumerie-l-echoppe_341389096"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Parfumerie avec institut de beauté à l'étage, dans une rue piétonne de Clamecy, installée depuis plus de 30 ans (page de réservation Planity : https://www.planity.com/manucure-et-pedicure/beaute-des-pieds/58500-clamecy). Adresse du magasin d'après Xerfi (agrégateur), alors que le registre donne Armes comme commune du siège. Aucun numéro dans les extraits : une fiche 118712 (https://www.118712.fr/professionnels/X0JUXF5QHwQ) le masque derrière « Afficher le n° », mais rien ne confirme qu'elle concerne ce commerce. Dirigeant non trouvé (registre vide dans l'entrée)."
+ },
+ {
+  "siren": "980267769",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Mehmet Konus",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/980267769"
+  },
+  "dirigeant_principal": {
+   "nom": "Mehmet Konus",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/980267769"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SAS d'exploitation forestière créée en 2023, sans présence en ligne trouvée (2 recherches) : ni site, ni téléphone. Dirigeant d'après le registre uniquement."
+ }
+]

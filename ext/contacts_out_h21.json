@@ -1,0 +1,369 @@
+[
+ {
+  "siren": "951603471",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": {
+   "adresse": "9 place des Frères Mollet, 58150 Pouilly-sur-Loire",
+   "source": "https://www.myboulange.fr/58/pouilly-sur-loire/le-fournil-adrien-271328"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Boulangerie 'Le fournil adrien' ; adresse vue uniquement sur un annuaire (MyBoulange), qui indique une création en 2023 et une reprise récente. Aucun téléphone publié trouvé (3 recherches) ; dirigeant non trouvé et absent du registre fourni."
+ },
+ {
+  "siren": "388006702",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace en ligne de CALISTE à Montenoison (58700) dans les résultats de recherche (3 recherches) : ni téléphone, ni dirigeant, ni adresse de rue. À vérifier sur le registre (Pappers)."
+ },
+ {
+  "siren": "887715563",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Rien trouvé au nom de LRV LE RELAIS VAUBAN à Saint-Didier (3 recherches). Piste non confirmée : un établissement 'Le Relais Vauban' (hébergement/restauration) existe à Bazoches (58190, même code postal que Saint-Didier) selon https://www.burgundy-tourism.com/sit/le-relais-vauban-9 — aucun numéro trouvé ; le 03 86 22 10 22 vu dans les résultats est celui du Château de Bazoches, pas du relais."
+ },
+ {
+  "siren": "834691594",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun hébergement 'Les Mésanges' trouvé à Dun-les-Places (3 recherches) ; les homonymes trouvés sont dans d'autres départements (ou à Ménessaire, 21). Ni téléphone, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "siren": "901616516",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace en ligne de MAISON ROLLON à Saint-Père (58200) dans les résultats (3 recherches) : ni téléphone, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "siren": "403027485",
+  "standard": {
+   "tel": "03 86 23 00 22",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": {
+   "email": "contact@alliance-proprete-services.fr",
+   "source": null
+  },
+  "site_web": "https://www.alliance-proprete-services.fr",
+  "decideur_financier": {
+   "nom": "Bruno ZAMORA",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/alliance-proprete-services-403027485"
+  },
+  "dirigeant_principal": {
+   "nom": "Bruno ZAMORA",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/alliance-proprete-services-403027485"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Téléphone et email générique repris de 'deja', non revérifiés (aucun résultat de recherche ne les montre). SARL de nettoyage de 100-199 salariés, mais aucun DAF/RAF/comptable nommé trouvé (3 recherches) : le gérant reste l'interlocuteur finances."
+ },
+ {
+  "siren": "412077745",
+  "standard": {
+   "tel": "03 86 71 68 68",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasins/02267/varennes-vauzelles-58640/infos-pratiques",
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Opposition à la prospection : contacts société uniquement. Le 03 86 71 68 68 (deja) n'a été confirmé par aucun résultat ; seul le numéro national Intermarché 0800 008 180 apparaît sur un annuaire (https://www.au-magasin.fr/58640-varennes-vauzelles/), sans intérêt pour joindre le magasin. Magasin situé boulevard Camille Dagonneau / RN 7 (Que Choisir, Zagaz). Aucun responsable financier nommé sur le site de l'enseigne ; dirigeants non repris (opposition)."
+ },
+ {
+  "siren": "408194686",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun téléphone ni site trouvé (3 recherches) ; seule la fiche SIRENE confirme SAS active, transport routier de fret de proximité, \"La Vigne Dorée\" Moulot 58500 Clamecy. Présidence assurée par la holding KERAL INVESTISSEMENTS : personne physique qui la dirige non trouvée. Aucun responsable financier identifié malgré 50-99 salariés."
+ },
+ {
+  "siren": "879402949",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Anthony BERANGER",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-chronotrans-58-879402949"
+  },
+  "dirigeant_principal": {
+   "nom": "Anthony BERANGER",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-chronotrans-58-879402949"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace en ligne de CHRONO'TRANS 58 (3 recherches) : pas de téléphone ni de site. Une société homonyme CHRONO'TRANS (transport routier, siège à Montierchaume, 36) existe ; lien non établi. Gérant repris du registre (deja), non revérifié."
+ },
+ {
+  "siren": "482066487",
+  "standard": {
+   "tel": "03 86 90 70 00",
+   "source": "https://www.cbinsights.com/company/transports-ressat",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Lucas RESSAT",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/transports-ressat-482066487"
+  },
+  "dirigeant_principal": {
+   "nom": "Lucas RESSAT",
+   "fonction": "Directeur Général (présidence assurée par la holding HPR, dont le dirigeant n'a pas été identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/transports-ressat-482066487"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Téléphone vu uniquement sur un agrégateur (CB Insights), qui situe le siège 'ZA la Maison Rouge, Langeron' (le registre donne 16 rue des Craies). Aucun responsable financier nommé trouvé malgré 50-99 salariés ; dirigeants repris du registre (deja)."
+ },
+ {
+  "siren": "340991926",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Olivier ROUSSAT",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+  },
+  "dirigeant_principal": {
+   "nom": "Olivier ROUSSAT",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Nom commercial 'Voyages Gonin - Transports Gaulier' (Pappers) ; transport de voyageurs/scolaire (secteurs Decize, Luzy, Saint-Saulge, Châtillon-en-Bazois). Aucun téléphone publié trouvé (3 recherches). Pappers cite aussi une holding financière et Emmanuel Chevalier parmi les dirigeants (fonction non précisée dans l'extrait). Marché de navettes/autocars attribué en juin 2026 (https://www.marchesonline.com/appels-offres/attribution/transport-collectif-en-navette-et-autocar/am-9609887-1). Aucun responsable financier nommé malgré 50-99 salariés."
+ },
+ {
+  "siren": "852030253",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Enseigne David Lange (marque historique de mobilier en plexiglas/PMMA fondée vers 1969). Aucun résultat ne relie la marque à Varzy ni ne donne de coordonnées (3 recherches). Présidence assurée par la holding JAMES EBENISTES : personne physique qui la dirige non trouvée."
+ },
+ {
+  "siren": "753975994",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Tony METTENDORFF",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
+  },
+  "dirigeant_principal": {
+   "nom": "Tony METTENDORFF",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun téléphone trouvé (3 recherches). Une fiche PagesJaunes (https://www.pagesjaunes.fr/pros/51050907) semble correspondre à la SARL MTMS, 18 rue du Père Castor, mais le numéro n'apparaît pas dans l'extrait. Gérant repris du registre (deja), non revérifié."
+ },
+ {
+  "siren": "914452230",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Enseigne non identifiée (3 recherches). Piste non confirmée : rue Henri Bouquillard accueille un Buffalo Grill (03 86 61 01 69 selon un annuaire, mais adressé RD 40) et un 'Grillardin Steak House' ; rien ne relie BGN à l'un d'eux, numéro non retenu. Président SMART FOOD et DG FOOD & SEE sont des sociétés : personnes physiques non trouvées."
+ },
+ {
+  "siren": "497496430",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "François POUENAT",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
+  },
+  "dirigeant_principal": {
+   "nom": "François POUENAT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune trace en ligne de l'entreprise (3 recherches) : ni téléphone, ni site, ni corps de métier précis. Gérant repris du registre (deja), non revérifié."
+ },
+ {
+  "siren": "731880258",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Loïc PANSE",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
+  },
+  "dirigeant_principal": {
+   "nom": "Loïc PANSE",
+   "fonction": "Directeur Général (présidence assurée par la holding AURIA HOLDING, dont le dirigeant n'a pas été identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun téléphone trouvé (3 recherches). Entreprise RGE / Qualibat-RGE créée en 2009 (Pappers) ; l'annuaire Justacoté la liste comme 'Societe Geneol', 11 rue Edouard Branly, vente et installation de chauffage (https://www.justacote.com/varennes-vauzelles-58640/chauffage/). Dirigeants repris du registre (deja)."
+ }
+]
