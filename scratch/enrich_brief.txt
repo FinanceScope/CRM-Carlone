@@ -1,6 +1,6 @@
 You are enriching CRM records for companies headquartered in the Nièvre (58, France). Context: a local entrepreneur is building a list of companies around Cosne-Cours-sur-Loire to approach for business partnerships (business lunches and receptions, team moments and afterworks, end-of-year meals and corporate events, an employee perks programme relayed by the CSE, local supplier / cross-visibility / sponsoring partnerships).
 
-Input: /home/claude/crm/ext/{INFILE} — one company per line: SIREN|name|siège commune|distance to Cosne (km, road estimate)|employees|activity|Pappers URL.
+Input: <racine du dépôt>/ext/{INFILE} — one company per line: SIREN|name|siège commune|distance to Cosne (km, road estimate)|employees|activity|Pappers URL.
 
 For each company, research public information with WebSearch and WebFetch (the shell has no internet). Useful sources: the company's own website, its Pappers page (URL given; Pappers rate-limits, so at most 2 fetches in flight), annuaire-entreprises.data.gouv.fr, societe.com, PagesJaunes, LinkedIn, local press (Le Journal du Centre, France 3 Bourgogne-Franche-Comté), BODACC. Spend effort proportionally: a few searches per company is enough.
 
@@ -23,7 +23,7 @@ Collect, for each company:
 
 Never invent anything: use null when you could not confirm a value. Copy phone numbers, addresses and names exactly.
 
-Write valid JSON (UTF-8) to /home/claude/crm/ext/{OUTFILE} — an array with one object per input company, same order:
+Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array with one object per input company, same order:
 {"siren": "9 digits", "nom_commercial": ..., "groupe": ..., "description": ..., "actualite": ..., "site_web": ..., "telephone": ..., "email": ..., "linkedin": ..., "interlocuteur_cible": {...} or null, "site_local": ..., "site_cosne": true/false, "statut": "...", "opposition_prospection": true/false, "angle_partenariat": "...", "sources": [...]}
 Assemble and validate it with a small Python script (python3 -I), including a check that none of the forbidden words above appears in angle_partenariat, description or actualite.
 

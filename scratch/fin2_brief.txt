@@ -1,6 +1,6 @@
 Goal: complete the latest published financial figures of a few companies headquartered in the Nièvre (58, France).
 
-Input: /home/claude/crm/ext/{INFILE} — one company per line: SIREN|name|Pappers URL|todo. "todo" contains A (query the government API) and/or P (open the Pappers page).
+Input: <racine du dépôt>/ext/{INFILE} — one company per line: SIREN|name|Pappers URL|todo. "todo" contains A (query the government API) and/or P (open the Pappers page).
 
 A — WebFetch https://recherche-entreprises.api.gouv.fr/search?q=SIREN and ask for, VERBATIM, from the TOP-LEVEL company object (not "siege", not "matching_etablissements"): etat_administratif, tranche_effectif_salarie, annee_tranche_effectif_salarie, and the complete "finances" object (every year with ca and resultat_net), or "finances: absent".
 
@@ -8,7 +8,7 @@ P — WebFetch the Pappers page and ask for: the financial table for the most re
 
 Keep ONE fetch in flight at a time and wait between fetches if you are rate-limited. If WebFetch reports an hourly limit, wait until the next full UTC hour and continue (use a background sleep, e.g. `sleep 600` run in the background, then retry). Never invent or round numbers; copy them exactly. The shell has no internet; do not use WebSearch.
 
-Write valid JSON (UTF-8) to /home/claude/crm/ext/{OUTFILE} — an array, one object per input line, same order:
+Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one object per input line, same order:
 {"siren": "9 digits",
  "api": null or {"etat_administratif": "...", "tranche_effectif": "code", "annee_tranche_effectif": "YYYY" or null, "finances": {"YYYY": {"ca": int or null, "resultat_net": int or null}} or null},
  "pappers": null or {"exercices": [{"annee": "YYYY", "date_cloture": "DD/MM/YYYY" or null, "ca": int or null, "resultat": int or null, "ca_txt": "text as shown" or null, "resultat_txt": "text as shown" or null}],

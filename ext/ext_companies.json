@@ -2032,7 +2032,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 25 45 24",
+"site_web": "https://www.bricomarche.com/magasin/decize/01832",
+"contact_finance": {
+"nom": "Mathias MARDELE",
+"fonction": "Directeur Général",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/vertine-409109360"
+},
+"autres_contacts": [
+{
+"nom": "Marie-Christine MARDELE (DOS SANTOS)",
+"fonction": "Directeur Général",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/vertine-409109360"
+}
+]
 },
 {
 "rang": 144,
@@ -2073,7 +2094,27 @@
 "statut": "Active",
 "eff_annee": "2023",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 36 02 14",
+"contact_finance": {
+"nom": "Frédéric SIGNORET",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sifleurs-452486673"
+},
+"autres_contacts": [
+{
+"nom": "Pascal SIGNORET",
+"fonction": "Co-exploitant (avec son frère Frédéric) des franchises Monceau Fleurs ; rôle dans SIFLEURS non confirmé",
+"tel": null,
+"email": null,
+"source": "https://www.toute-la-franchise.com/news-monceau-fleurs-nevers"
+}
+]
 },
 {
 "rang": 145,
@@ -2114,7 +2155,29 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 71 99 40",
+"email": "magasin.nevers@faurie.fr",
+"contact_finance": {
+"nom": "Eric MARTIN",
+"fonction": "General manager (fiche concession Renault Trucks)",
+"type": "autre",
+"tel_direct": "04 70 44 42 55",
+"email": "e.martin@faurie.fr",
+"linkedin": null,
+"source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
+},
+"autres_contacts": [
+{
+"nom": "Laurent BERNARDIN",
+"fonction": "Service contact (après-vente / atelier)",
+"tel": "03 86 71 99 40",
+"email": "l.bernardin@faurie.fr",
+"source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
+}
+],
+"format_email": "initiale.nom@faurie.fr (vu sur la fiche concession Renault Trucks, pas sur un site propre : https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576)"
 },
 {
 "rang": 146,
@@ -2155,7 +2218,11 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 58 39 90",
+"email": "commercial@sapem-sa.com",
+"site_web": "https://www.sapem-sa.com"
 },
 {
 "rang": 147,
@@ -2196,7 +2263,9 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 71 42 02 19"
 },
 {
 "rang": 148,

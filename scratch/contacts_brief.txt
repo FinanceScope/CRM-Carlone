@@ -1,6 +1,6 @@
 Goal: find professional contact details for companies headquartered in the Nièvre (58, France), for a B2B calling list. The calls will be about a financial/tax topic, so the key person is whoever decides on finances.
 
-Input: /home/claude/crm/ext/{INFILE} — a JSON array. Each company has: siren, nom, enseigne (trade name, may be null), ville, adresse, ca (turnover €), effectif, activite, deja (what we already know: telephone, email, site_web, linkedin, dirigeants, interlocuteur), opposition_prospection (true = the company opted out of commercial prospecting on Pappers), pappers_url.
+Input: <racine du dépôt>/ext/{INFILE} — a JSON array. Each company has: siren, nom, enseigne (trade name, may be null), ville, adresse, ca (turnover €), effectif, activite, deja (what we already know: telephone, email, site_web, linkedin, dirigeants, interlocuteur), opposition_prospection (true = the company opted out of commercial prospecting on Pappers), pappers_url.
 
 For each company, find:
 1. standard — the company's main phone line (switchboard / accueil / the shop for a franchise store). Sources: the company website (contact page, mentions légales), search-result snippets (PagesJaunes, societe.com, annuaire-entreprises, 118712, Kompass, Cylex…), the brand's store page for franchise stores. Record the source URL. If "deja.telephone" exists, keep it unless you find it is wrong.
@@ -20,7 +20,7 @@ Rules:
 - Budget: about 3–5 searches/fetches per company, then move on. Prefer WebSearch first (snippets often show the phone number and LinkedIn job titles), then WebFetch the company website contact/équipe page, Kompass or Pappers if needed. Keep at most 2 fetches in flight; Pappers and Kompass rate-limit, so retry after a pause. If WebFetch reports an hourly limit, keep going with WebSearch only; if searches are refused too, wait until the next full UTC hour (background `sleep`) and continue.
 - Phone numbers in French format "03 86 12 34 56".
 
-Write valid JSON (UTF-8) to /home/claude/crm/ext/{OUTFILE} — an array, one object per input company, same order:
+Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one object per input company, same order:
 {"siren": "9 digits",
  "standard": {"tel": "..." or null, "source": "url" or null},
  "email_generique": {"email": "...", "source": "url"} or null,

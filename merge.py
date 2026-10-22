@@ -1,7 +1,9 @@
-import json, glob, re, sys
+import json, glob, os, re, sys
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
 
 base = {}
-for line in open('/home/claude/crm/base.tsv', encoding='utf-8'):
+for line in open(ROOT + '/base.tsv', encoding='utf-8'):
     r, nom, act, ca, res, eff = line.rstrip('\n').split('\t')
     base[int(r)] = dict(rang=int(r), nom=nom, activite=act, ca=int(ca), resultat=int(res),
                         effectif=(eff + ' salariés') if eff[0].isdigit() and eff not in ('0',) else ('0 salarié' if eff == '0' else eff))
@@ -27,12 +29,12 @@ def secteur(act):
     return 'Industrie'
 
 research = {}
-for f in sorted(glob.glob('/home/claude/crm/research/batch_*.json')):
+for f in sorted(glob.glob(ROOT + '/research/batch_*.json')):
     for o in json.load(open(f, encoding='utf-8')):
         research[int(o['rang'])] = o
 
 verif = {}
-for f in sorted(glob.glob('/home/claude/crm/research/verif_out_*.json')):
+for f in sorted(glob.glob(ROOT + '/research/verif_out_*.json')):
     for o in json.load(open(f, encoding='utf-8')):
         verif[int(o['rang'])] = o
 out, missing = [], []
@@ -67,7 +69,7 @@ for r in sorted(base):
     c['dirigeants'] = [x for x in (c.get('dirigeants') or []) if isinstance(x, dict) and x.get('nom')]
     out.append(c)
 
-json.dump(out, open('/home/claude/crm/site/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+json.dump(out, open(ROOT + '/site/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 print('total', len(out), 'missing research', missing)
 for k in ('siren', 'site_web', 'telephone', 'email', 'linkedin', 'adresse'):
     print(k, sum(1 for c in out if c.get(k)))
@@ -134,7 +136,7 @@ for r, t in ANGLE_OVERRIDES.items():
 INTERDIT = re.compile(r"vieux relais|\ble m\b|\bdu m\b|\bau m\b|nos établissements|\bbar\b|\brestaurants?\b|chambres|bar-restaurant", re.I)
 for c in out:
     assert not INTERDIT.search(c.get('angle_partenariat') or ''), (c['rang'], c.get('angle_partenariat'))
-json.dump(out, open('/home/claude/crm/site/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+json.dump(out, open(ROOT + '/site/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 print(Counter(c['vague'] for c in out))
 for v in (1, 2, 3):
     print(v, [(c['rang'], c.get('nom_commercial') or c['nom'], c.get('distance_cosne_km')) for c in out if c['vague'] == v])

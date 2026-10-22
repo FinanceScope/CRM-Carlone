@@ -1,6 +1,7 @@
 import json, os, re
 
-BASE = '/home/claude/crm/culture'
+ROOT = os.path.dirname(os.path.abspath(__file__))
+BASE = ROOT + '/culture'
 FAM = {
     'Artiste': 'Artistes', "Collectif d'artistes": 'Artistes', "Artisan d'art": 'Artistes',
     "Galerie & lieu d'expo": 'Lieux & institutions', 'Institution culturelle': 'Lieux & institutions', "Atelier & école d'art": 'Lieux & institutions',
@@ -88,7 +89,7 @@ for pid in ('c-a02', 'c-a08', 'c-a22', 'c-a23', 'c-a24'):
 
 playbook = load('playbook.json')
 out = {'prospects': prospects, 'playbook': playbook}
-json.dump(out, open('/home/claude/crm/site/culture.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+json.dump(out, open(ROOT + '/site/culture.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 
 from collections import Counter
 print('prospects', len(prospects), Counter(p['famille'] for p in prospects), Counter(p['priorite'] for p in prospects))

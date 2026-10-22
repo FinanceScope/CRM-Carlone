@@ -1,11 +1,12 @@
 """Ajoute au CRM les entreprises 101 à 500 de la Nièvre.
 Sources : classements Pappers par commune (relevés le 22/10/2026), passe complémentaire sous 500 k€,
 registre officiel (API Recherche d'entreprises, à défaut fiche Pappers) pour le siège exact, les dirigeants, l'état."""
-import json, glob, re, math, unicodedata
+import json, glob, os, re, math, unicodedata
 from collections import Counter
 
-EXT = '/home/claude/crm/ext'
-SITE = '/home/claude/crm/site'
+ROOT = os.path.dirname(os.path.abspath(__file__))
+EXT = ROOT + '/ext'
+SITE = ROOT + '/site'
 
 def norm(s):
     s = unicodedata.normalize('NFD', s or '')
@@ -610,6 +611,7 @@ for f in sorted(glob.glob(EXT + '/contacts_out_*.json')):
     except Exception: continue   # fichier en cours d'écriture par un agent
     for e in data:
         k = sid(e.get('siren'))
+        if re.match(r'\s*(non traité|pending)', str(e.get('note') or ''), re.I): continue   # lot interrompu : entreprise pas encore recherchée
         if k: CONTACTS[k] = e
 def clean_tel(t):
     if not t: return None
