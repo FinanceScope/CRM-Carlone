@@ -1,0 +1,487 @@
+[
+ {
+  "siren": "448447771",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Louis BAUVILLARD",
+   "fonction": "Directeur Général (président : la société CF2C)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/mercure-finances-448447771"
+  },
+  "dirigeant_principal": {
+   "nom": "Louis BAUVILLARD",
+   "fonction": "Directeur Général (président : la société CF2C, personne physique non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/mercure-finances-448447771"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "3 recherches sans résultat exploitable (homonymie avec l'hôtel Mercure de Nevers ; rien sur CF2C ni sur le 30 av. Pierre Bérégovoy). Dirigeant repris du registre (deja), non confirmé par une source récente. Holding (sièges sociaux / conseil de gestion) : aucune ligne standard publiée trouvée."
+ },
+ {
+  "siren": "701880023",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Nicolas BARATHON",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-mario-longo-701880023"
+  },
+  "dirigeant_principal": {
+   "nom": "Nicolas BARATHON",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-mario-longo-701880023"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "3 recherches sans résultat (le nom est noyé par des résultats « Super Mario »). Aucun numéro ni site trouvé. Dirigeant repris du registre (deja), non confirmé par une source récente."
+ },
+ {
+  "siren": "842208597",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Redouane FRIFRA",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rf-elec-842208597"
+  },
+  "dirigeant_principal": {
+   "nom": "Redouane FRIFRA",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rf-elec-842208597"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé en 3 recherches. Mappy cite « SAS RF Elec, 47 bis rue Henri Bouquillard, 58000 Nevers » (simple suggestion de proximité sur https://fr.mappy.com/poi/60b8d1a4f83b3f0ba2f38e57), adresse différente du siège au registre (7 rue Jacques Monod, Varennes-Vauzelles) : probablement ancienne adresse ou autre local, à vérifier. Dirigeant repris du registre (deja)."
+ },
+ {
+  "siren": "392638243",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Chryss VANNIER",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-vannier-392638243"
+  },
+  "dirigeant_principal": {
+   "nom": "Chryss VANNIER",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-vannier-392638243"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Yoann VANNIER",
+    "fonction": "Directeur Général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/sas-vannier-392638243"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "3 recherches sans résultat sur l'entreprise (seul le numéro de la mairie de Saint-Martin-d'Heuille ressort, non retenu). Dirigeants repris du registre (deja), non confirmés par une source récente."
+ },
+ {
+  "siren": "505017194",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Alexandre LEFEVRE",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/avipur-505017194"
+  },
+  "dirigeant_principal": {
+   "nom": "Alexandre LEFEVRE",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/avipur-505017194"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Avipur est un réseau national de sociétés de dératisation / désinsectisation / dépigeonnisation / hygiène du bâtiment (une trentaine de filiales régionales selon https://www.lejournaldesentreprises.com/article/nord-pas-de-calais-avipur-publie-ses-resultats-105879, article de 2014-2015). Aucune fiche ni numéro trouvés pour l'entité de Varennes-Vauzelles en 3 recherches. Dirigeant repris du registre (deja)."
+ },
+ {
+  "siren": "323448175",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Philippe Adolphe Armand ROH",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/societe-clamecycoise-dameublement-323448175"
+  },
+  "dirigeant_principal": {
+   "nom": "Philippe Adolphe Armand ROH",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/societe-clamecycoise-dameublement-323448175"
+  },
+  "adresse": {
+   "adresse": "Lieu-dit La Galette, 8 route de Pressures, 58500 Clamecy",
+   "source": "https://www.118000.fr/e_C0072544906"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Le magasin exploité semble être « Les Experts Meubles Lecreux Clamecy » (enseigne Les Experts Meubles, réseau de magasins franchisés), au lieu-dit La Galette, route de Pressures (fiche 118000 : https://www.118000.fr/e_C0072544906). Rattachement à la société déduit de l'adresse identique (La Galette, Clamecy), non confirmé. Aucun numéro visible dans les extraits (118000, Tiendeo). Tiendeo indique une autre adresse, 8 route d'Orléans à Clamecy (https://www.tiendeo.fr/Magasins/clamecy/les-experts-meubles-route-d-orleans/145942), probablement ancienne. Dirigeant repris du registre (deja)."
+ },
+ {
+  "siren": "418762761",
+  "standard": {
+   "tel": "03 86 59 24 66",
+   "source": "https://www.cylex-locale.fr/nevers/atelier-de-menuiserie/?he=1&hw=1",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Fabrice SILVESTRI",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/418762761"
+  },
+  "dirigeant_principal": {
+   "nom": "Fabrice SILVESTRI",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/418762761"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro vu uniquement sur l'annuaire Cylex (fiche « Menuiseries Qualité Service », Faubourg de la Baratte, Nevers, menuiserie bois/PVC certifiée Qualibat RGE) : à confirmer par appel. Aucun site ni email trouvés."
+ },
+ {
+  "siren": "820232791",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Filiale (SAS) de l'association ADAPEI de la Nièvre, dont le siège est à la même adresse (120 route de Beauregard, 58130 Urzy : IME, ESAT, foyer de vie, MAS, FAM) selon https://www.pour-les-personnes-agees.gouv.fr/annuaire-association-parents-usagers-familles-soutien/nievre-58. Cet annuaire n'affiche qu'un numéro de portable pour l'association, non retenu (pas un standard, peut être personnel). Aucun dirigeant au registre (deja vide) et aucun DAF / directeur général de l'ADAPEI de la Nièvre trouvé en 3 recherches. Site officiel non confirmé dans les résultats."
+ },
+ {
+  "siren": "753956606",
+  "standard": {
+   "tel": "03 86 36 40 06",
+   "source": "https://gowork.fr/roc-eclerc-nevers/2",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://roc-eclerc.com/nos-agences/nievre/nevers/pompes-funebres-roc-eclerc-nevers-fun_fra058_007",
+  "decideur_financier": {
+   "nom": "Jean-Marc VILLENEUVE",
+   "fonction": "Directeur Général (président : la société INFINI DEVELOPPEMENT)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pompes-funebres-bulot-753956606"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Marc VILLENEUVE",
+   "fonction": "Directeur Général (président : la société INFINI DEVELOPPEMENT, personne physique non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/pompes-funebres-bulot-753956606"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Agence franchisée Roc-Eclerc, 1 place des Grands Jardins, Nevers. Numéro vu seulement sur le site d'avis gowork.fr (agrégateur) ; page agence de la marque citée par acceslibre (https://acceslibre.beta.gouv.fr/app/58-nevers/a/fleuriste/erp/pompes-funebres-roc-eclerc-nevers-2/rpa_pdf), contenu non vu. Une liste préfectorale 2019 des opérateurs funéraires (https://www.nievre.gouv.fr/contenu/telechargement/8274/81294/file/liste_2019.pdf) mentionne « Pompes Funèbres BULOT – ROC ECLERC » avec un responsable autre que M. Villeneuve, nom non visible dans l'extrait. Dirigeants repris du registre (deja)."
+ },
+ {
+  "siren": "889322970",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent PELEYRAS",
+   "fonction": "Gérant (cogérant avec Sophie COLLOMB)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/essian-889322970"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent PELEYRAS",
+   "fonction": "Gérant (cogérant avec Sophie COLLOMB)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/essian-889322970"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Sophie COLLOMB",
+    "fonction": "Gérante (cogérante)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/essian-889322970"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Les deux cogérants apparaissent comme chirurgiens-dentistes à Nevers dans l'annuaire keskeces (https://www.keskeces.com/dentiste/58000-marzy.html) : ESSIAN est probablement leur structure d'exercice dentaire. Aucun numéro trouvé en 3 recherches (un « cabinet dentaire » est référencé au 10 rue André Lhote sur acceslibre, sans nom de praticien, rattachement non confirmé). Ordre des cogérants arbitraire ; dirigeants repris du registre (deja)."
+ },
+ {
+  "siren": "404191702",
+  "standard": {
+   "tel": "03 86 37 85 99",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/15303-sarl-a2g-isolation/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "http://www.a2g-couverture-bois.com",
+  "decideur_financier": {
+   "nom": "Pierre ANNE",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/a2g-isolation-404191702"
+  },
+  "dirigeant_principal": {
+   "nom": "Pierre ANNE",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/a2g-isolation-404191702"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro et site web vus uniquement sur l'annuaire les-energies-renouvelables.eu (fiche SARL A2G Isolation, 13 Les Gouards, Marzy, installateur photovoltaïque QualiPV ; l'annuaire précise que ses données ne sont pas vérifiées). Site non retrouvé directement dans les résultats de recherche. Dirigeant repris du registre (deja)."
+ },
+ {
+  "siren": "883417917",
+  "standard": {
+   "tel": "03 86 24 47 92",
+   "source": "https://www.carrefour.fr/magasin/city-clamecy",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.carrefour.fr/magasin/city-clamecy",
+  "decideur_financier": {
+   "nom": "Sabrina PLOCIENNIK",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ssn-distrib-883417917"
+  },
+  "dirigeant_principal": {
+   "nom": "Sabrina PLOCIENNIK",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ssn-distrib-883417917"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin franchisé Carrefour City, 10 rue Marie Davy, Clamecy. Numéros discordants : 03 86 24 47 92 sur la page magasin Carrefour.fr (retenu), 03 86 27 12 77 sur PagesJaunes (https://www.pagesjaunes.fr/pros/00774835) et au-magasin (https://www.au-magasin.fr/58500-clamecy/carrefour-city-4181.html), et un 09 67 72 47 92 également signalé côté PagesJaunes. Numéros lus dans des résumés d'extraits, à confirmer par appel. Dirigeante reprise du registre (deja)."
+ },
+ {
+  "siren": "495186884",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Olivier PINO MARTINEZ",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/menuiserie-pino-495186884"
+  },
+  "dirigeant_principal": {
+   "nom": "Olivier PINO MARTINEZ",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/menuiserie-pino-495186884"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Entreprise listée sur Obat (https://travaux.obat.fr/menuiserie/nievre : MENUISERIE PINO, La Charité-sur-Loire, menuisier / charpentier / ébéniste) mais sans coordonnées. Aucun numéro trouvé en 3 recherches. Dirigeant repris du registre (deja)."
+ },
+ {
+  "siren": "849343512",
+  "standard": {
+   "tel": "03 86 68 63 08",
+   "source": "https://www.cylex-locale.fr/sermoise-sur-loire/paysagiste.html",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Au 116 route de Nevers à Marzy (adresse du siège) l'annuaire Cylex liste un paysagiste sous l'enseigne Daniel Moquet (réseau franchisé d'aménagement d'allées, cours et terrasses) avec le numéro retenu : rattachement à ENT. BAZOT déduit de l'adresse identique, non confirmé par une source nommant Bazot. Président au registre : la société HOLDING BAZOT ; personne physique qui la dirige non trouvée en 3 recherches, donc dirigeant et décideur financier laissés à null."
+ },
+ {
+  "siren": "920839941",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Julien Frederic SAUMET",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ssp-service-sport-promotion-920839941"
+  },
+  "dirigeant_principal": {
+   "nom": "Julien Frederic SAUMET",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ssp-service-sport-promotion-920839941"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "3 recherches sans résultat (ni le nom, ni le gérant, ni le 113 avenue de Verdun à Decize n'apparaissent). Société récente sans salarié. Dirigeant repris du registre (deja)."
+ },
+ {
+  "siren": "403937048",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Pascal CATON",
+   "fonction": "Président de la société Pompes Funèbres Caton (elle-même présidente d'ETS MARTIN SAS) - rattachement probable, à confirmer",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.cher.gouv.fr/contenu/telechargement/29897/200160/file/recueil-18-2021-07-006-recueil-des-actes-administratifs-special.pdf"
+  },
+  "dirigeant_principal": {
+   "nom": "Pascal CATON",
+   "fonction": "Président de la société Pompes Funèbres Caton (présidente d'ETS MARTIN SAS) - rattachement probable, à confirmer",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.cher.gouv.fr/contenu/telechargement/29897/200160/file/recueil-18-2021-07-006-recueil-des-actes-administratifs-special.pdf"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Exploite l'agence « Pompes Funèbres Martin », 25 rue Gambetta, Fourchambault (fiche 118000 : https://www.118000.fr/v_fourchambault_58/c_pompes-funebres-inhumation-et-cremation, numéro non visible dans l'extrait ; permanence 24h/24 annoncée). Président au registre : la société POMPES FUNEBRES CATON (agences à Prémery, Donzy, La Charité-sur-Loire, Cosne). M. Pascal Caton est cité comme président de Pompes Funèbres Caton dans un arrêté de la préfecture du Cher (2021, établissement d'Argent-sur-Sauldre) et comme responsable dans le Loiret : identité de la société non vérifiée par SIREN."
+ }
+]

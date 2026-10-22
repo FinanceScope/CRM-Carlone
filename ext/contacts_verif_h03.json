@@ -1,0 +1,162 @@
+[
+ {
+  "siren": "840688428",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Recherche « Eric Morin » + Mesves-sur-Loire : aucun lien trouvé entre Eric Morin (ou sa holding) et un hébergement de la commune. Seuls ressortent le Motel Les Broussailles et l'annonce de vente d'un motel 3 étoiles de 12 chambres à Mesves (https://www.etreproprio.com/immobilier-25070234-vente-commerce-404-m-a-mesves-sur-loire-mesves-sur-loire), sans lien établi avec EMH. Président = holding au registre, représentant non vérifié. Standard non enregistré, non vérifié."
+ },
+ {
+  "siren": "892315128",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Opposition à la prospection : seuls les éléments d'entreprise étaient à vérifier, et aucun n'est enregistré (ni téléphone, ni e-mail). Aucune recherche faite, rien à vérifier."
+ },
+ {
+  "siren": "350693586",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "« Vincent Barbosa » + FPT Powertrain Technologies France : aucun résultat ne le nomme, mais rien n'indique un départ (dirigeant issu du registre). Attention : le communiqué Business Wire 2024 sur la nomination d'un CEO de la filiale française concerne FPT Software (groupe vietnamien), sans rapport."
+ },
+ {
+  "siren": "334934304",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "« Stéphane Vives » + Monnet-Sève/Sougy : aucun résultat ne le cite. societe.com (https://www.societe.com/manager/David.MOREL.7OB2vDbsj_l.html) rattache David Morel à Monnet-Sève SA et à Bois et Sciages de Sougy (mandat depuis le 13/01/2016), ce qui ne contredit pas Stéphane Vives au registre."
+ },
+ {
+  "siren": "327098364",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://www.bonial.fr/Magasins/Coulanges-les-Nevers/E-Leclerc-boulevard-Beauregard/v-f247122442"},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Le 03 86 71 84 10 figure aussi sur Bonial pour le magasin du boulevard Beauregard. Aucun résultat ne nomme Jean-François Mousset (président au registre), mais rien ne le contredit."
+ },
+ {
+  "siren": "334898277",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://www.e.leclerc/mag/e-leclerc-clamecy"},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "La fiche officielle e.leclerc du magasin indique « avenue Antoine Saint Exupéry, 58500 Clamecy, Tél. : 03.86.27.17.08 ». La copie indexée est ancienne (environ 5 ans), mais les annuaires récents donnent le même numéro. Aucun résultat ne nomme Letitia Bellanger."
+ },
+ {
+  "siren": "393635230",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "« Eric Rousseau » + Transports Rousseau Corvol : les résultats (offre France Travail, travail-industrie.com, copeps.fr) ne nomment aucun dirigeant. La fiche Pappers d'un Eric Rousseau né en 1960 concerne une société forestière de la Creuse : homonyme probable, sans lien établi. Son titre de président de la holding Groupe Rousseau n'est pas confirmé."
+ },
+ {
+  "siren": "523229268",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html"},
+  "email_generique": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "La liste officielle des ateliers Renault donne le +33 3 86 93 00 00 pour « RENAULT NEVERS », 2 rue Léonard de Vinci (adresse de la société). L'e-mail contact@groupesimonneau.fr est introuvable ; BuiltWith rattache le groupe au domaine groupe-simonneau.fr (avec tiret, Saint-Doulchard). Le nom de domaine enregistré est donc douteux : à ne pas utiliser sans vérification. Pour Philippe Simonneau, seul l'article de L'argus déjà cité ressort ; cela reste cohérent avec le registre (Philippe Simonneau Holding présidente), rien de contraire."
+ },
+ {
+  "siren": "422593491",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://www.toyota.fr/reseau/liste"},
+  "email_generique": {"verdict": "confirme", "corrige": null, "source": "https://www.toyota.fr/reseau/00CD2-CFF8A-50822-01800-01200-1"},
+  "decideur_financier": {"verdict": "confirme", "corrige": null, "source": "https://journalauto.com/distribution/le-groupe-vincent-se-renforce-chez-toyota/"},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Le téléphone et l'e-mail sont repris par d'autres pages du site officiel Toyota (réseau), et non par une source tierce. Une recherche sur cpa@groupevincent.fr seul ne donne rien d'autre ; BuiltWith situe bien groupevincent.fr à Varennes-Vauzelles. Le Journal de l'Automobile (2016) indique que la société CPA de Rodolphe Vincent exploite la concession Toyota de la Nièvre."
+ },
+ {
+  "siren": "507757672",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Deux recherches n'ont fait ressortir le 03 86 25 50 00 que sur Custplace, la source déjà citée. Aucune page officielle e.leclerc ni aucun autre annuaire ne le reprend. Aucun résultat ne nomme Jean-François Martin."
+ },
+ {
+  "siren": "775732811",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Trois recherches n'ont fait ressortir le 03 86 21 68 00 que sur la fiche Usine Nouvelle déjà citée, et non sur eurosit.fr. « Prestifilippo » + Eurosit ne donne aucun résultat pertinent."
+ },
+ {
+  "siren": "530572775",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Ni le 03 86 60 13 04 ni contact@nexson-group.com ne ressortent : seuls l'adresse du 685 rue Jules Verne à Garchizy (salons, PitchBook) et un numéro incomplet apparaissent. Aucun résultat ne relie Charles Bonnafous à Nexson. Le titre « Fondateur et CEO » vient des données existantes et non de Pappers, qui indique Nexson Corporation présidente depuis le 01/09/2025."
+ },
+ {
+  "siren": "651880437",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://www.etablissementsdesante.fr/etablissement/48102-polyclinique-du-val-de-loire-elsan"},
+  "email_generique": {"verdict": "confirme", "corrige": null, "source": "https://www.elsan.care/sites/default/files/Livret%20accueil%20VDL.pdf"},
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Le livret d'accueil Elsan indique « Mail de contact : pvl@elsan.care » et le 03.86.93.52.58. D'autres numéros circulent : 03 86 93 52 94 sur gowork, et 08 26 39 99 45, ligne surtaxée, sur santeenfrance. Deux recherches ne trouvent aucune mention de Jean-Claude Penet. Le seul directeur nommé dans les résultats est Michel Lagache, en 2014 (actualité elsan.care), donc ancien. Nom du directeur actuel à faire confirmer au standard."
+ },
+ {
+  "siren": "483276820",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "confirme", "corrige": null, "source": "https://en.wikipedia.org/wiki/Ligier_Automotive"},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "L'infobox Wikipedia indique « Pierre Nicolet (CEO) » et Jacques Nicolet président. Le communiqué de 2021 sur l'arrivée de Franck Tiné (ligierautomotive.com) remercie Jacques et Pierre Nicolet. Le titre de directeur général au registre est cohérent."
+ },
+ {
+  "siren": "488376278",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Aucun résultat ne nomme Gilles Bethery. Contrairement à la note du chercheur (« aucune trace en ligne »), une liste du 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) cite Avenir Bennes et Services, avenue St Exupéry à Clamecy : transport de vrac sec, flotte de 170 véhicules, réseau de 20 transporteurs partenaires. Cela explique le chiffre d'affaires. Aucun numéro trouvé dans les extraits."
+ },
+ {
+  "siren": "825065279",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "« Laurent Pommier » + Intermarché Nevers : aucun résultat ne le nomme. Les résultats listent deux Intermarché à Nevers, l'un rue Bernard Palissy (Hyper), l'autre boulevard du Pré Plantin (Super) ; aucun boulevard Jean Moulin. Le magasin exploité par NEVINO reste incertain."
+ }
+]
