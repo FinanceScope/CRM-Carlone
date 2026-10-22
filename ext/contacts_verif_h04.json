@@ -1,0 +1,162 @@
+[
+ {
+  "siren": "631880408",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Numéro cherché seul puis avec le nom : introuvable (Cylex et Manageo ne l'affichent pas). Le préfixe 03 86 84 correspond bien au secteur Châtillon-en-Bazois. J.-Ph. Bazot n'apparaît en ligne que comme entrepreneur individuel (sylviculture, Saint-Péreuse) ; aucun départ signalé."
+ },
+ {
+  "siren": "322804931",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Aucun résultat reliant Carlos Jimenez à SumiRiko ; rien n'indique un départ (registre seul)."
+ },
+ {
+  "siren": "379437387",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Aucun résultat reliant O. Dubreuilh à Buchez ; DG issu du registre seul."
+ },
+ {
+  "siren": "397727397",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Deux recherches (« Damien Olagne » Look ; « Olagne » « LOOK Cycle » Nevers) sans aucune mention de D. Olagne : président issu du registre seul, non contredit."
+ },
+ {
+  "siren": "308530690",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Numéro introuvable hors Bible-Marques (source déjà citée), y compris avec « Corbigny ». Le magasin apparaît désormais sous l'enseigne Auchan Supermarché Corbigny, rue du Champ de Foire (https://www.l-itineraire.com/stations_service/corbigny/auchan-supermarche-corbigny, prix juillet 2026) : le numéro de la fiche Atac peut être daté. Aucun résultat pour De Matteis."
+ },
+ {
+  "siren": "392607545",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Ni le 03 86 27 55 55 ni contact@laballery.fr ne ressortent dans les résultats (seulement repris de l'entrée). Aucun résultat pour E. Sagnelonge. Une offre France Travail (https://candidat.francetravail.fr/offres/recherche/detail/189CPJN) cite Sarah Petit (administratrice) comme contact employeur."
+ },
+ {
+  "siren": "338339146",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Aucun résultat reliant P. Racouchot à TC Transports ; DG issu du registre seul."
+ },
+ {
+  "siren": "529213050",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "confirme", "corrige": null, "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"},
+  "dirigeant_principal": {"verdict": "confirme", "corrige": null, "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Le Journal de l'Automobile (article distinct de la source enregistrée) décrit le groupe SUMA, siège à Limonest, comme « dirigé par Richard Vivès », présent dans la Nièvre ; un autre article signale la concession mixte Audi-Ducati du groupe à Nevers (https://journalauto.com/distribution/le-groupe-suma-ouvre-la-premiere-concession-mixte-audi-ducati-de-france/), cohérent avec le 135 rue de Marzy. Le registre le donne président de la société."
+ },
+ {
+  "siren": "307049437",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Aucun élément renseigné dans la fiche (standard, e-mail, dirigeant, adresse tous null) : rien à vérifier, aucune recherche faite."
+ },
+ {
+  "siren": "921426086",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Aucun résultat pour « Anaël Gendre » ni pour « Sonirval Energie » Fourchambault : président (mars 2026) issu du registre seul, non contredit."
+ },
+ {
+  "siren": "409564481",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Deux recherches sans aucun lien entre Bernard Delaporte et Danielson : le nom vient seulement du champ interlocuteur de l'entrée (le registre ne donne que la personne morale GROUPE DANIELSON). À vérifier avant appel."
+ },
+ {
+  "siren": "352563084",
+  "standard": null,
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Aucun résultat reliant M. J. Giron à Pharma Développement ; président issu du registre seul, non contredit."
+ },
+ {
+  "siren": "385044599",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Trois recherches : le 03 86 90 17 00 n'apparaît que sur World Casino Directory (source enregistrée) ; la fiche 118712 (https://www.118712.fr/fiches/XkBSWFFXGwQ) masque le numéro mais cite les sites casino-pougues-les-eaux.fr et groupetranchant.com. Une fiche ABC Salles indique le lieu « fermé pour le moment » (événementiel, peut-être daté). Aucun résultat pour Béatrice Loret."
+ },
+ {
+  "siren": "403894512",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Le 03 86 36 00 11 n'apparaît nulle part (118000 : champ vide) ; source enregistrée nulle, numéro seulement issu de l'entrée. Aucun résultat pour T. Duquesne. Au-magasin.fr situe aussi le Bricomarché rue Henri Bouquillard (https://www.au-magasin.fr/58640-varennes-vauzelles/bricomarche-24407.html)."
+ },
+ {
+  "siren": "479965980",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Le 03 86 37 60 71 n'apparaît que sur au-magasin.fr (source enregistrée, participative). Zagaz confirme seulement que la station est exploitée par Sauvyna (Intermarché Super Challuy). Aucun résultat pour Carole Grillet."
+ },
+ {
+  "siren": "753221092",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://www.cylex-locale.fr/entreprises/hyundai-nevers---suma-motors-13554444.html"},
+  "email_generique": null,
+  "decideur_financier": {"verdict": "confirme", "corrige": null, "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"},
+  "dirigeant_principal": {"verdict": "confirme", "corrige": null, "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"},
+  "adresse": null,
+  "autres_contacts": [],
+  "note": "Standard confirmé par un second annuaire (Cylex, maj 24/02/2026) distinct de lesvoitures.fr, mais par des annuaires uniquement. Le Journal de l'Automobile indique que le groupe dirigé par Richard Vivès est distributeur Hyundai à Nevers ; le lien formel avec la présidente SUMA INVEST reste non vérifié, comme indiqué dans la fiche."
+ }
+]
