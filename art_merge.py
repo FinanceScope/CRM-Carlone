@@ -1,0 +1,115 @@
+"""Réoriente le CRM vers la vente d'œuvres d'art aux entreprises (article 238 bis AB du CGI).
+À lancer après merge.py et ext_merge.py : ajoute à chaque fiche de site/companies.json le profil fiscal,
+le plafond de déduction et le lieu d'exposition possible, puis recalcule priorités et vagues.
+
+Règles (BOFiP BOI-BIC-CHG-70-10-20260415, à valider avec l'expert-comptable de chaque entreprise) :
+- œuvres originales d'artistes vivants, inscrites à l'actif immobilisé, achetées avant le 31/12/2028 ;
+- déduction du prix par cinquièmes (exercice d'achat + 4 suivants), dans la limite annuelle de 20 000 €
+  ou 5 ‰ du CA HT si ce montant est plus élevé, minorée des dons de mécénat (article 238 bis) ;
+- œuvre exposée gratuitement dans un lieu accessible au public ou aux salariés, sauf leurs bureaux ;
+- réserve spéciale au passif du montant déduit."""
+import json, os, re
+from collections import Counter
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+SITE = ROOT + '/site'
+
+PLANCHER = 20000      # limite annuelle minimale
+TAUX_CA = 0.005       # 5 ‰ du chiffre d'affaires HT
+TAUX_IS = 0.25        # taux normal de l'IS (15 % sur les premiers 42 500 € de bénéfice des PME)
+
+def emin(e):
+    m = re.search(r'\d+', str(e or ''))
+    return int(m.group()) if m else 0
+
+def regime(forme):
+    f = (forme or '').strip()
+    if f.startswith('SARL'): return 'IS probable'          # IS par défaut, option IR possible (SARL de famille)
+    if f.startswith(('SAS', 'SA ', 'SA\'', 'SELAS', 'SELARL', 'SCOP', 'Société européenne')) or f == 'SA': return 'IS'
+    return 'À vérifier'                                      # EURL, SNC, entrepreneur individuel, forme inconnue
+
+ESPACES = {
+    'magasin': 'Surface de vente ouverte au public',
+    'clientele': 'Espaces ouverts à la clientèle (accueil, salles)',
+    'sante': "Hall et salles d'attente ouverts au public",
+    'agence': "Espace d'accueil de la clientèle",
+    'loisirs': 'Lieux ouverts au public',
+    'groupe': 'Sites du groupe ouverts au public ou aux salariés (à valider)',
+    'salaries': "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+    'a_identifier': 'Lieu à identifier (les bureaux ne comptent pas)',
+}
+PUBLIC = ('magasin', 'clientele', 'sante', 'agence', 'loisirs')
+
+def espace(c):
+    naf = str(c.get('code_naf') or '')
+    n2, n4 = naf[:2], naf[:5]
+    if c.get('secteur') == 'Holdings & finance' and n2 in ('64', '70'): return 'groupe'
+    if n2 == '47' or n4 in ('45.11', '45.19', '45.32', '45.40'): return 'magasin'
+    if n2 in ('55', '56'): return 'clientele'
+    if n2 in ('86', '87', '75'): return 'sante'
+    if n2 in ('64', '65', '66', '68', '69', '79', '96') or n4 in ('45.20', '77.11'): return 'agence'
+    if n2 in ('90', '91', '93'): return 'loisirs'
+    if emin(c.get('effectif')) >= 10: return 'salaries'
+    return 'a_identifier'
+
+def k_eur(n):
+    return f"{round(n / 1000):,}".replace(',', ' ') + ' k€' if n < 1e6 else f"{n / 1e6:.1f}".replace('.', ',').replace(',0', '') + ' M€'
+
+companies = json.load(open(SITE + '/companies.json', encoding='utf-8'))
+for c in companies:
+    ca = c.get('ca_recent') if c.get('ca_recent') is not None else c.get('ca')
+    res = c.get('res_recent') if c.get('res_recent') is not None else c.get('resultat')
+    if c.get('ca_non_publie'): ca = res = None
+    annee = c.get('annee_recent') or c.get('annee_ca') or None
+    plafond = max(PLANCHER, round(TAUX_CA * ca)) if ca else PLANCHER
+    reg = regime(c.get('forme_juridique'))
+    esp = espace(c)
+    benef = None if res is None else res > 0
+    active = str(c.get('statut') or 'Active').lower().startswith('active')
+    notes = []
+    if not active: notes.append('Procédure en cours : pas de démarche pour l\'instant.')
+    if benef is False: notes.append('Pas de bénéfice au dernier exercice publié : la déduction n\'allège pas l\'impôt cette année-là.')
+    elif benef and res / (1 - TAUX_IS) < plafond:
+        notes.append(f"Bénéfice modeste ({k_eur(res)}) : l'économie d'impôt est limitée par le bénéfice plus que par le plafond.")
+    if ca is None: notes.append('Comptes non publiés : plafond minimal de 20 000 € par an, à affiner avec le CA réel.')
+    if reg == 'À vérifier': notes.append("Régime fiscal à vérifier (EURL, SNC ou forme inconnue : souvent à l'IR).")
+    if esp == 'groupe': notes.append('Holding : à aborder avec la tête du groupe, l\'œuvre pouvant être exposée dans un site du groupe (à valider).')
+    if c.get('opposition_prospection'): notes.append('Opposée à la prospection : pas de mailing, contact direct uniquement.')
+
+    d = c.get('distance_cosne_km')
+    near = c.get('site_cosne') or (d is not None and d <= 5)
+    bassin = near or (d is not None and d <= 30)
+    # cœur de cible : société à l'IS, bénéfice d'au moins 50 k€, lieu d'exposition évident ;
+    # au-delà de 30 km, seulement les grands comptes (plafond au-dessus du plancher, soit plus de 4 M€ de CA)
+    coeur = (active and esp != 'groupe' and reg != 'À vérifier' and benef and res >= 50000
+             and (esp in PUBLIC or emin(c.get('effectif')) >= 10) and (bassin or plafond > PLANCHER))
+    if coeur:
+        prio = 'Haute'
+    elif active and (benef or (benef is None and emin(c.get('effectif')) >= 20 and reg != 'À vérifier')):
+        prio = 'Moyenne'
+    else:
+        prio = 'Basse'
+    vague = (1 if near else 2 if bassin else 3) if prio == 'Haute' else None
+    c['art'] = {
+        'regime': reg, 'benefice': benef, 'resultat': res, 'ca': ca, 'annee': annee,
+        'plafond': plafond, 'prix_max': 5 * plafond, 'economie_max': round(5 * plafond * TAUX_IS),
+        'espace': esp, 'espace_txt': ESPACES[esp], 'public': esp in PUBLIC, 'notes': notes,
+    }
+    c['priorite'], c['vague'] = prio, vague
+    c['offres'] = []
+
+# garde-fou : aucune mention des établissements des associés dans les textes générés
+INTERDIT = re.compile(r"vieux relais|\ble m\b|\bdu m\b|\bau m\b|nos établissements|\bbar\b|\brestaurants?\b|chambres|bar-restaurant", re.I)
+for c in companies:
+    for t in [c['art']['espace_txt']] + c['art']['notes']:
+        assert not INTERDIT.search(t), (c['rang'], t)
+
+json.dump(companies, open(SITE + '/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+
+print('régime', Counter(c['art']['regime'] for c in companies))
+print('espace', Counter(c['art']['espace'] for c in companies))
+print('bénéfice', Counter(c['art']['benefice'] for c in companies))
+print('plafond > 20 k€', sum(1 for c in companies if c['art']['plafond'] > PLANCHER))
+print('priorités', Counter(c['priorite'] for c in companies), '| vagues', Counter(c['vague'] for c in companies))
+for v in (1, 2, 3):
+    print(v, [(c['rang'], c.get('nom_court') or c.get('nom_commercial') or c['nom'], c.get('distance_cosne_km')) for c in companies if c['vague'] == v])

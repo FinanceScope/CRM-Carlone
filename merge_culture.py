@@ -87,6 +87,12 @@ for pid in ('c-a02', 'c-a08', 'c-a22', 'c-a23', 'c-a24'):
         p['a_confirmer'] = True
         if p.get('priorite') == 'Haute': p['priorite'] = 'Moyenne'
 
+# relecture du 22/10/2026 : un seul contact pour la Lyre Donziaise (présidente, publiée par la mairie), sans adresse privée
+p = byid.get('c-a27')
+if p:
+    p['contact']['telephone'] = '06 62 11 51 68 (présidente)'
+    p['contact']['adresse'] = None
+
 playbook = load('playbook.json')
 out = {'prospects': prospects, 'playbook': playbook}
 json.dump(out, open(ROOT + '/site/culture.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)

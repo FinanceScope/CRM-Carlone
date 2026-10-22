@@ -639,8 +639,23 @@ for c in base + ext:
         if cf.get('tel_direct') or cf.get('email'): n_ct['dont coordonnées directes'] += 1
     ac = [x for x in (e.get('autres_contacts') or []) if isinstance(x, dict) and x.get('nom')][:2]
     if ac and not c.get('opposition_prospection'): c['autres_contacts'] = ac
-    if e.get('format_email_observe') and not c.get('opposition_prospection'): c['format_email'] = e['format_email_observe']
+    # format_email_observe non repris : afficher un format inviterait à deviner des adresses
 print('contacts :', len(CONTACTS), dict(n_ct), '| avec téléphone :', sum(1 for c in base + ext if c.get('telephone')), '/ 500')
+
+# relecture du 22/10/2026 : coordonnées sans source publiée, profils LinkedIn personnels, libellés
+RETIRER = {'823687033': ('email',),       # adresse hotmail nominative, introuvable sur une page publique
+           '331967943': ('telephone',)}   # mobile présenté comme standard, sans source
+AUDITEURS = re.compile(r'(KPMG|DELOITTE|MAZARS|ERNST|PRICEWATERHOUSE|GRANT THORNTON|BDO)\b', re.I)
+for c in base + ext:
+    for k in RETIRER.get(sid(c.get('siren')), ()): c[k] = None
+    c.pop('format_email', None)
+    c['sources'] = [s for s in (c.get('sources') or []) if 'linkedin.com/in/' not in s]
+    if c.get('effectif') == 'NN': c['effectif'] = 'Non employeuse'
+    c['dirigeants'] = [x for x in (c.get('dirigeants') or []) if not AUDITEURS.match(x.get('nom') or '')]
+    for k in ('description', 'angle_partenariat'):
+        if isinstance(c.get(k), str):
+            c[k] = re.sub(r" ; des profils LinkedIn de salariés[^.]*", '', c[k])
+            c[k] = c[k].replace("travaux d'aménagement des établissements", "travaux d'aménagement")
 
 json.dump(ext, open(EXT + '/ext_companies.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 json.dump(base + ext, open(SITE + '/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))

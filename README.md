@@ -8,6 +8,7 @@ Contexte, consignes et liste des tâches : [`PASSATION.md`](PASSATION.md).
 - `site/` : la page (`index.html`) et ses données (`companies.json`, `culture.json`), publiées ensemble comme artifact claude.ai.
 - `merge.py` : top 100 (classement Pappers du 02/09/2026) → `site/companies.json`.
 - `ext_merge.py` : rangs 101–500, comptes, enrichissements et contacts (`ext/contacts_out_*.json`) ; à relancer après `merge.py`.
+- `art_merge.py` : profil pour la vente d'œuvres d'art (article 238 bis AB du CGI) : régime fiscal, plafond de déduction, lieu d'exposition, priorités et vagues ; à relancer après `ext_merge.py`.
 - `merge_culture.py` : artistes, associations, lieux → `site/culture.json`.
 - `ext/`, `culture/`, `research/`, `base.tsv` : données brutes.
 - `scratch/` : consignes des recherches (briefs) réutilisables.
@@ -15,7 +16,7 @@ Contexte, consignes et liste des tâches : [`PASSATION.md`](PASSATION.md).
 ## Régénérer les données
 
 ```sh
-python3 -I merge.py && python3 -I ext_merge.py
+python3 -I merge.py && python3 -I ext_merge.py && python3 -I art_merge.py
 python3 -I merge_culture.py
 ```
 

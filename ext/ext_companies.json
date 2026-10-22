@@ -2176,8 +2176,7 @@
 "email": "l.bernardin@faurie.fr",
 "source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
 }
-],
-"format_email": "initiale.nom@faurie.fr (vu sur la fiche concession Renault Trucks, pas sur un site propre : https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576)"
+]
 },
 {
 "rang": 146,
@@ -7069,12 +7068,7 @@
 "code_naf": "82.99Z",
 "forme_juridique": "SAS",
 "date_creation": null,
-"dirigeants": [
-{
-"nom": "KPMG",
-"fonction": null
-}
-],
+"dirigeants": [],
 "priorite": "Basse",
 "vague": null,
 "offres": [],
@@ -7838,9 +7832,7 @@
 "https://recherche-entreprises.api.gouv.fr/search?q=939507323",
 "https://recherche-entreprises.api.gouv.fr/search?q=J%20CUBE&departement=18",
 "https://recherche-entreprises.api.gouv.fr/search?q=AJ%20HOLDING&departement=18",
-"https://recherche-entreprises.api.gouv.fr/search?q=937951382",
-"https://www.linkedin.com/in/clement-daval-17502a328/",
-"https://www.linkedin.com/in/david-mathivet-853915147/"
+"https://recherche-entreprises.api.gouv.fr/search?q=937951382"
 ],
 "ext": true,
 "registre": true,
@@ -7850,7 +7842,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "groupe": "Holding J CUBE (Méreau, Cher), présidente depuis 2025, qui préside aussi les sociétés de mécanique industrielle SOMG et Aeromax à Méreau",
-"description": "Atelier de mécanique générale et de précision (NAF 25.62B, « tous travaux de mécanique générale ou de précision ») installé rue Norbert Naberis, dans la zone industrielle du Tremblat à Cosne-Cours-sur-Loire ; des profils LinkedIn de salariés l'intitulent « Mecaprecis Outillage Découpage Emboutissage ».",
+"description": "Atelier de mécanique générale et de précision (NAF 25.62B, « tous travaux de mécanique générale ou de précision ») installé rue Norbert Naberis, dans la zone industrielle du Tremblat à Cosne-Cours-sur-Loire.",
 "actualite": "Avril 2025 (annonce BODACC du 08/04/2025) : la holding J CUBE de Méreau (Cher), créée en janvier 2025, remplace D & G Industrie à la présidence de la société.",
 "interlocuteur_cible": {
 "nom": "Jeroen BRINKHUIS",
@@ -10014,7 +10006,7 @@
 "actualite": "Janvier 2026 : ouverture d'une seconde boutique, « La P'tite Boulang' d'Alligny », 22 route de Cosne à Alligny-Cosne (création inscrite au registre le 16/01/2026).",
 "site_web": "https://www.boulangerie-bourgeois.fr/",
 "telephone": "03 86 28 27 43",
-"email": "marion_bourgeois@hotmail.com",
+"email": null,
 "interlocuteur_cible": {
 "nom": "Frédéric BOURGEOIS",
 "fonction": "Gérant, boulanger-pâtissier (affaire tenue avec Marion Bourgeois)",
@@ -11813,7 +11805,7 @@
 "ca": 510067,
 "resultat": 58090,
 "ca_non_publie": false,
-"effectif": "NN",
+"effectif": "Non employeuse",
 "ville": "Nevers",
 "code_postal": "58000",
 "adresse": "26 RUE DES DOCKS",
@@ -11920,9 +11912,7 @@
 "https://www.pappers.fr/entreprise/tyr-securite-892315128",
 "https://recherche-entreprises.api.gouv.fr/search?q=892315128",
 "https://recherche-entreprises.api.gouv.fr/search?q=953122363",
-"https://www.pagesjaunes.fr/annuaire/departement/nievre-58/entreprises-de-surveillance-de-gardiennage-de-protection",
-"https://www.linkedin.com/in/t%C3%BDr-s%C3%A9curit%C3%A9-301771203/",
-"https://www.linkedin.com/in/rudy-ruelle-bb6982b6/"
+"https://www.pagesjaunes.fr/annuaire/departement/nievre-58/entreprises-de-surveillance-de-gardiennage-de-protection"
 ],
 "ext": true,
 "registre": true,
@@ -11951,7 +11941,7 @@
 "ca": 491660,
 "resultat": -102746,
 "ca_non_publie": false,
-"effectif": "NN",
+"effectif": "Non employeuse",
 "ville": "Nevers",
 "code_postal": "58000",
 "adresse": "1 RUE DE L'EVECHE",
@@ -13460,7 +13450,7 @@
 "ca": 317662,
 "resultat": -46664,
 "ca_non_publie": false,
-"effectif": "NN",
+"effectif": "Non employeuse",
 "ville": "Nevers",
 "code_postal": "58000",
 "adresse": "RN 7 3 RUE DU PLATEAU DE LA BONNE DAME",
@@ -13794,7 +13784,7 @@
 "ca": 307000,
 "resultat": 30424,
 "ca_non_publie": false,
-"effectif": "NN",
+"effectif": "Non employeuse",
 "ville": "Nevers",
 "code_postal": "58000",
 "adresse": "20 RUE DES SABLONS",
