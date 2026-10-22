@@ -482,5 +482,75 @@
   ],
   "format_email_observe": null,
   "note": "Enseigne 'Cabinet Mercier Lecrot'. Un agrégateur d'avis (https://fr.custplace.com/varennes-vauzelles-781) mentionne une agence MMA rue Paul Éluard à Varennes-Vauzelles, même rue que le siège (1 B rue Paul Éluard) : il s'agit probablement de l'agence MMA des agents Mercier et Lecrot, mais ce lien n'est confirmé par aucune source et aucun numéro n'a été trouvé (3 recherches). Deux co-gérants d'après le registre (deja)."
+ },
+ {
+  "siren": "449498245",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Dominique COPPIN (née SAVIN)",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-ruchers-du-morvan-sarl-449498245"
+  },
+  "dirigeant_principal": {
+   "nom": "Dominique COPPIN (née SAVIN)",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-ruchers-du-morvan-sarl-449498245"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Jean-Jacques COPPIN",
+    "fonction": "Co-exploitant de l'entreprise familiale (selon la fiche touristique)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.burgundy-tourism.com/regional-products/les-ruchers-du-morvan"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Miellerie avec boutique au Port de l'Homme (Corancy / Château-Chinon Campagne). Les fiches tourisme (Burgundy Tourism, Autun Tourisme, Gault&Millau) n'affichent qu'un formulaire de contact ; le seul numéro visible sur Gault&Millau (01 41 40 99 80) est celui de Gault&Millau, pas de l'entreprise. Aucun numéro ni email trouvé en 3 recherches. Fiche Autun Tourisme : https://www.autun-tourisme.com/en/offers/les-ruchers-du-morvan-chateau-chinon-campagne-en-3478286/"
+ },
+ {
+  "siren": "751340811",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Olivier GUYOT",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/guyot-olivier-751340811"
+  },
+  "dirigeant_principal": {
+   "nom": "Olivier GUYOT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/guyot-olivier-751340811"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "3 recherches (raison sociale, métiers du bâtiment à Ouroux-en-Morvan, adresse avenue Michel Baroin) sans aucun résultat pertinent : ni numéro, ni site, ni email. Dirigeant d'après le registre (deja) uniquement."
  }
 ]

@@ -372,5 +372,83 @@
   "autres_contacts": [],
   "format_email_observe": null,
   "note": "Maçonnerie générale et gros œuvre. Listée sur l'annuaire 118000 (https://www.118000.fr/v_marzy_58/c_entreprise-de-maconnerie) au 15A rue Chevaux, 58180 Marzy, mais le numéro n'est pas visible dans les extraits. Gérant issu du registre uniquement."
+ },
+ {
+  "siren": "309516318",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Guillaume DUGUET",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/garage-saint-louis-309516318"
+  },
+  "dirigeant_principal": {
+   "nom": "Guillaume DUGUET",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/garage-saint-louis-309516318"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Garage du réseau Renault (atelier après-vente, vente VO), 6 rue Saint Eloi, ouvert lun-ven 8h-12h/14h-18h, note 4,8/5 (https://www.michelin.fr/auto/dealer-locator/fourchambault/yfxilgl-garage-saint-louis ; aussi https://www.idgarages.com/fr-fr/garage/fourchambault/GB26373_garage-saint-louis). Le numéro figure sur ces fiches mais n'est pas visible dans les extraits ; ne pas confondre avec le 'Garage Saint Louis' d'Egreville (77) sur PagesJaunes (01 64 29 57 52). Gérant issu du registre uniquement."
+ },
+ {
+  "siren": "753715762",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun résultat en 3 recherches (ni pour ANDIMAN & CO, ni pour la présidente personne morale MANTHEMARD HOLDING) : activité exacte, téléphone et représentant légal de la holding inconnus. Structure très petite (1-2 salariés) malgré 1,8 M€ de CA."
+ },
+ {
+  "siren": "950379529",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Rémi LARTEAU",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-larteau-950379529"
+  },
+  "dirigeant_principal": {
+   "nom": "Rémi LARTEAU",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-larteau-950379529"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Le siège déclaré (5 avenue du Docteur Dollet, Luzy) est l'adresse du cabinet comptable COGEP (03 86 30 23 09, https://scope.anyti.me/expert-comptable/poil-58170) : société probablement domiciliée chez son expert-comptable ; ce numéro est celui du cabinet, pas de l'entreprise, et n'est donc pas retenu comme standard. Société récente (SIREN 950…, vraisemblablement 2023, reprise d'activité possible). Aucun téléphone ni site trouvé en 3 recherches ; gérant issu du registre uniquement."
  }
 ]
