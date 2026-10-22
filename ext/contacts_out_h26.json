@@ -1,0 +1,496 @@
+[
+ {
+  "siren": "441827458",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Fabien VITTOZ",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/jardifleurs-441827458"
+  },
+  "dirigeant_principal": {
+   "nom": "Fabien VITTOZ",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/jardifleurs-441827458"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé en 3 recherches. Le point de vente semble connu sous le nom 'Jardinerie Vittoz' (annuaires Justacoté : 81 route nationale, 58300 Sougy-sur-Loire, https://www.justacote.com/druy-parigny-58160/jardinerie/ ; Koifaire : 'Cerise, Sougy-sur-Loire', cohérent avec le siège 'La Cerise'), sans téléphone affiché. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "798554978",
+  "standard": {
+   "tel": "03 86 22 06 36",
+   "source": "https://cosne.intercaves.fr/fr-FR/",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://cosne.intercaves.fr/fr-FR/",
+  "decideur_financier": {
+   "nom": "Aurelien VAIRET",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/cave-et-services-798554978"
+  },
+  "dirigeant_principal": {
+   "nom": "Aurelien VAIRET",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/cave-et-services-798554978"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin franchisé Inter Caves (44 av. du 85e de Ligne). Le numéro 03 86 22 06 36 ressort des résultats pour le site du magasin (cosne.intercaves.fr, dont les mentions légales citent la SARL Cave et Services) et des fiches PagesJaunes (https://www.pagesjaunes.fr/pros/53566569) et 118712. Aucun e-mail générique vu dans les extraits. Dirigeant d'après le registre."
+ },
+ {
+  "siren": "831929161",
+  "standard": {
+   "tel": "03 86 61 99 00",
+   "source": "https://www.citya.com/agences-immobilieres/nevers-58000/525",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.citya.com/agences-immobilieres/nevers-58000/525",
+  "decideur_financier": {
+   "nom": "Charles Edouard Andre COLAS",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/citya-immobilier-nevers-831929161"
+  },
+  "dirigeant_principal": {
+   "nom": "Charles Edouard Andre COLAS",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/citya-immobilier-nevers-831929161"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Patrice MEUNIER",
+    "fonction": "Directeur de l'agence Citya Saint Sébastien Immobilier (Nevers)",
+    "tel": null,
+    "email": "pmeunier@citya.com",
+    "source": "https://www.citya.com/agences-immobilieres/nevers-58000/525"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Filiale du réseau Citya (siège à Tours). Pas de DAF/RAF propre trouvé pour l'agence ; le gérant légal (registre) n'est pas sur place, l'interlocuteur opérationnel est le directeur d'agence Patrice Meunier, dont l'e-mail est publié sur la page agence Citya. Numéro d'agence confirmé aussi par PagesJaunes (https://www.pagesjaunes.fr/pros/08725415). Une annonce cite une ancienne adresse 11 place Saint-Sébastien. Réclamations groupe : qualite@citya.com (national, non retenu)."
+ },
+ {
+  "siren": "849789680",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent BENOIT",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/eurl-lbs-849789680"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent BENOIT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/eurl-lbs-849789680"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Rien trouvé en 3 recherches (aucune fiche annuaire ni site pour EURL LBS). Le registre liste deux gérants : Laurent BENOIT et Sophie Isabelle BENOIT (SIMONIN)."
+ },
+ {
+  "siren": "834294126",
+  "standard": {
+   "tel": "03 86 93 93 86",
+   "source": "https://www.successfulmeetings.com/Meeting-Event-Venues/Nevers-France/Convention-Hotel/Mercure-Pont-de-Loire-p5238076",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://all.accor.com/hotel/3480/index.fr.shtml",
+  "decideur_financier": null,
+  "dirigeant_principal": {
+   "nom": "HPVA PARTICIPATIONS",
+   "fonction": "Président (personne morale, holding du groupe hôtelier HPVA) ; personne physique dirigeante non identifiée",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/racines-hotels-ii-834294126"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Rattachement probable mais non confirmé : l'hôtel du quai de Médine à Nevers est le Mercure Nevers Pont de Loire (59 chambres, Accor), numéro +33 3 86 93 93 86 vu sur deux annuaires/plateformes de réservation. Aucune source ne relie explicitement RACINES HOTELS II ni HPVA au Mercure ; à vérifier à l'appel. HPVA = groupe d'investissement et de gestion hôtelière créé en 2013, ~20 hôtels (https://hospitality-on.com/fr/ouverture/hpva-et-ihg-sassocient-pour-un-nouveau-projet) ; décisions financières vraisemblablement prises au niveau du groupe, aucun DAF identifié. Un article de 2021 cite Mme Laure-Hélène Robertet à propos d'un projet HPVA, rôle exact non établi."
+ },
+ {
+  "siren": "671880235",
+  "standard": {
+   "tel": "03 86 30 70 99",
+   "source": "https://www.worldcasinodirectory.com/casino/casino-de-saint-honor-les-bains-676",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean DOUTRELIGNE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/casino-de-st-honore-671880235"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean DOUTRELIGNE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/casino-de-st-honore-671880235"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Casino exploité sous le nom 'Casino Le Vegas' (av. Jean Mermoz, 58360 Saint-Honoré-les-Bains ; 50 machines, 1 table) selon World Casino Directory et Casinosavenue (https://www.casinosavenue.com/fr/casino/casino-le-vegas-saint-honore-les-bains/8423). Numéro issu d'annuaires uniquement. Directeur d'établissement non trouvé. Administrateurs au registre : Manon BOUILLOT, Sophie LEPERE (confirmés par Xerfi). Aucun site officiel trouvé."
+ },
+ {
+  "siren": "415166008",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Dominique BAZIN",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-eurovins-dlf-415166008"
+  },
+  "dirigeant_principal": {
+   "nom": "Dominique BAZIN",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-eurovins-dlf-415166008"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin franchisé Inter Caves Nevers (3 rue Claude Tillier) ; fiches PagesJaunes (https://www.pagesjaunes.fr/pros/08041920), 118712 (https://www.118712.fr/professionnels/X0pRWlZcHwE) et Cylex trouvées mais aucun numéro visible dans les extraits. Statut incertain : une fiche PagesJaunes ('Un Monde À Boire') indique 'probablement fermé définitivement', d'autres annuaires et la page Facebook https://m.facebook.com/intercaves58 le montrent actif. Dirigeant d'après le registre."
+ },
+ {
+  "siren": "344407903",
+  "standard": {
+   "tel": "03 86 93 02 58",
+   "source": "https://nevers-nord-varennes-vauzelles.campanile.com/",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://nevers-nord-varennes-vauzelles.campanile.com/",
+  "decideur_financier": null,
+  "dirigeant_principal": {
+   "nom": "ENVERGURE PARTICIPATIONS SAS",
+   "fonction": "Gérant et associé indéfiniment et solidairement responsable (personne morale, groupe Louvre Hotels) ; personne physique non identifiée",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/344407903"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société exploitant l'hôtel Campanile Nevers Nord - Varennes-Vauzelles (rue Louise Michel, ~46 chambres), filiale de Louvre Hotels Group (groupe Jin Jiang) : associés/gérant = LOUVRE HOTELS et ENVERGURE PARTICIPATIONS. Décisions financières probablement prises au siège du groupe (Puteaux) ; ni DAF ni directeur d'hôtel nommé trouvé en 3 recherches. Standard joignable 8h-22h selon le site officiel."
+ },
+ {
+  "siren": "821203999",
+  "standard": {
+   "tel": "03 86 93 09 00",
+   "source": "https://maisonculture.fr/la-maison/equipe",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "billetterie@maisonculture.fr",
+   "source": "https://maisonculture.fr/la-maison/equipe"
+  },
+  "site_web": "https://maisonculture.fr",
+  "decideur_financier": {
+   "nom": "Mégane DELPECH",
+   "fonction": "Administratrice",
+   "type": "DAF/RAF",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://maisonculture.fr/la-maison/equipe"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Luc REVOL",
+   "fonction": "Directeur (gérant au registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://maisonculture.fr/la-maison/equipe"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Laurent CODAIR",
+    "fonction": "Secrétaire général",
+    "tel": "03 86 93 09 04",
+    "email": "laurent.codair@maisonculture.fr",
+    "source": "https://maisonculture.fr/la-maison/equipe"
+   },
+   {
+    "nom": "Christelle BERNIGAUD",
+    "fonction": "Secrétaire comptable",
+    "tel": null,
+    "email": null,
+    "source": "https://maisonculture.fr/la-maison/equipe"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Page équipe du site officiel : pôle Administration = Mégane Delpech (Administratrice, fonction équivalente à RAF dans le spectacle vivant), Emilie Gomichon (Administratrice de production et de coordination), Christelle Bernigaud (Secrétaire comptable) ; Laurent Codair, secrétaire général, est indiqué comme contact partenariats avec ligne et e-mail publiés. Accueil-billetterie : 03 86 93 09 09. Standard 'Administration 03.86.93.09.00' confirmé aussi par une plaquette 2023-24 du site. Page équipe possiblement pas à jour : à confirmer à l'appel."
+ },
+ {
+  "siren": "794416198",
+  "standard": {
+   "tel": "03 86 57 72 49",
+   "source": "https://www.eurorepar.fr/garage-sasu-levannier-pougues-les-eaux-3750.html",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.eurorepar.fr/garage-sasu-levannier-pougues-les-eaux-3750.html",
+  "decideur_financier": {
+   "nom": "Damien LEVANNIER",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sasu-levannier-794416198"
+  },
+  "dirigeant_principal": {
+   "nom": "Damien LEVANNIER",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sasu-levannier-794416198"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Garage du réseau Eurorepar Car Service (entretien toutes marques, véhicule de courtoisie, VO), ouvert en semaine 8h-12h / 14h-18h. Numéro sur la page garage du site de l'enseigne. Adresses divergentes : 38 av. de Paris (Eurorepar, idGarages), 36 (Cylex), 77 (registre) - même avenue. Dirigeant d'après le registre."
+ },
+ {
+  "siren": "345230783",
+  "standard": {
+   "tel": "03 86 25 33 52",
+   "source": "https://www.pagesjaunes.fr/pros/03725110",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Didier HESPEL",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/edelweiss-station-service-345230783"
+  },
+  "dirigeant_principal": {
+   "nom": "Didier HESPEL",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/edelweiss-station-service-345230783"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Station-service 'Garage Edelweiss' (carburant Agip, garage Lada, boutique) au 4 route Nationale ; numéro vu sur PagesJaunes et 118712 (https://www.118712.fr/professionnels/X0FWXFJUHAE), annuaires uniquement. Aucun site officiel. Dirigeant d'après le registre."
+ },
+ {
+  "siren": "501300214",
+  "standard": {
+   "tel": "03 86 78 73 90",
+   "source": "https://fr.kompass.com/c/marchand-pere-et-fils/fr5220793/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Alain MARCHAND",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/marchand-pere-et-fils-501300214"
+  },
+  "dirigeant_principal": {
+   "nom": "Alain MARCHAND",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/marchand-pere-et-fils-501300214"
+  },
+  "adresse": {
+   "adresse": "Meix Garnier, 58230 Gouloux",
+   "source": "https://www.pagesjaunes.fr/pros/00946867"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Saboterie / articles en bois (Kompass 'Articles en bois'). Le même numéro 03 86 78 73 90 figure sur Kompass pour Marchand Père et Fils et sur PagesJaunes pour 'Ets Marchand SARL' (lieu-dit Meix Garnier, Gouloux), société sœur probable (ETS MARCHAND, SIREN 849265954, https://www.societe.com/societe/ets-marchand-849265954.html) : adresse = lieu-dit du site d'activité, le siège déclaré restant 'Le Bourg' ; à confirmer. Le registre liste deux gérants homonymes : Alain MARCHAND et Alain Georges Paul MARCHAND (probablement père et fils)."
+ },
+ {
+  "siren": "831037817",
+  "standard": {
+   "tel": "06 46 28 53 53",
+   "source": "https://www.pagesjaunes.fr/pros/57493283",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Marvine GUILLET",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/guillet-piron-831037817"
+  },
+  "dirigeant_principal": {
+   "nom": "Marvine GUILLET",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/guillet-piron-831037817"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Entreprise de menuiserie bois/PVC (SAS créée en 2017). Le seul numéro publié est un portable affiché comme ligne de l'entreprise sur sa fiche PagesJaunes (catégorie Menuiserie, 33 rue Lucien Perreimond) : annuaire uniquement. Aucun site ni e-mail trouvé. Dirigeant d'après le registre."
+ },
+ {
+  "siren": "812180347",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean-Baptiste MOURLON",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sasu-la-vallee-channy-812180347"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Baptiste MOURLON",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sasu-la-vallee-channy-812180347"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Rien trouvé en 3 recherches (ni fiche annuaire, ni site, ni mention du dirigeant). Exploitation agricole sans salarié. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "527955991",
+  "standard": {
+   "tel": "03 86 27 12 95",
+   "source": "https://www.pagesjaunes.fr/pros/53537019",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Severine LAVALLEE",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sevdan-527955991"
+  },
+  "dirigeant_principal": {
+   "nom": "Severine LAVALLEE",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sevdan-527955991"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Restaurant 'Au Bistrot d'Anatole' (6 rue Anatole France). Numéro identique sur PagesJaunes et Foodle (https://foodle.pro/restaurants/cosne-cours-sur-loire/bistrot-d-anatole). Dirigeante d'après le registre (1 recherche utilisée)."
+ },
+ {
+  "siren": "790026231",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SEM (SA à conseil d'administration) créée en 2012 par des élus de la CC des Vaux d'Yonne avec le SIEEEN pour porter 35 % d'un parc éolien de 6 éoliennes inauguré en 2014 ; capital public 82,5 % / privé 17,5 % (https://www.banquedesterritoires.fr/parc-eolien-une-sem-ouvre-son-capital-aux-habitants-58). Sans salarié : gérée vraisemblablement par le SIEEEN (syndicat d'énergies de la Nièvre). Aucun numéro, site ni président/directeur général nommé trouvé en 3 recherches ; le registre ne liste que des administrateurs : René Philippe BONNEAU, Sylvie CANTREL, Bertrand COUTURIER, Jean-Michel FORGET. Piste : passer par le SIEEEN (un résultat cite Guy Hourcabie comme président du SIEEEN, non vérifié)."
+ }
+]

@@ -1,0 +1,466 @@
+[
+ {
+  "siren": "921816757",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Francis DELALANDE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921816757"
+  },
+  "dirigeant_principal": {
+   "nom": "Francis DELALANDE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921816757"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune présence web trouvée (3 recherches) ; probablement une holding/société de services de 1-2 salariés. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "852583665",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Rien trouvé en 3 recherches (ni téléphone, ni site, ni dirigeant ; aucun dirigeant dans le registre fourni). Adresse d'entrée sans rue (Arbourse, 58350) : rue non trouvée. Une société homonyme 'Mannevy' à Pau, sans lien établi, est radiée."
+ },
+ {
+  "siren": "808472484",
+  "standard": {
+   "tel": "03 86 22 42 94",
+   "source": "https://www.bible-marques.fr/magasins/36400-la-chatre/biocoop",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "http://www.biocoop-cosne.com",
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Opposition à la prospection : coordonnées société uniquement. Numéro du magasin Biocoop Cosne (108 avenue du 85e de Ligne) confirmé par l'annuaire Bible des Marques, identique à 'deja'. Aucun e-mail générique trouvé. Présidente selon le registre : Maya BERGERON (depuis le 16/09/2025), non reprise car non vue sur le site de la société."
+ },
+ {
+  "siren": "393733191",
+  "standard": {
+   "tel": "03 86 28 58 55",
+   "source": "https://www.118000.fr/e_C0073738652",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.krys.com/opticien/france/nievre/opticien-cosne-cours-sur-loire/cosne-stjacques",
+  "decideur_financier": {
+   "nom": "Olivier BAPTESTE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
+  },
+  "dirigeant_principal": {
+   "nom": "Olivier BAPTESTE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Magasin Krys, 17/19 rue Saint-Jacques ; numéro identique à 'deja', confirmé par l'annuaire 118000. Pas de DAF (10-19 salariés) : le président décide. Aucune source web en ligne ne cite O. Bapteste en dehors du registre."
+ },
+ {
+  "siren": "382085215",
+  "standard": {
+   "tel": "03 86 26 15 12",
+   "source": "https://www.falstaff.com/en/wineries/chateau-de-tracy",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": {
+   "email": "contact@chateau-de-tracy.com",
+   "source": "https://www.chateau-de-tracy.com/"
+  },
+  "site_web": "https://www.chateau-de-tracy.com/",
+  "decideur_financier": {
+   "nom": "Juliette D'ESTUTT D'ASSAY",
+   "fonction": "Présidente du directoire",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215"
+  },
+  "dirigeant_principal": {
+   "nom": "Juliette D'ESTUTT D'ASSAY",
+   "fonction": "Présidente du directoire (dirige le domaine depuis 2014, après son frère Henry d'Estutt d'Assay)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.thewinedoctor.com/tastingsformal/tracy2024.shtml"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Maxime BOURRET",
+    "fonction": "Membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Domaine viticole (Pouilly-Fumé). Standard identique à 'deja', confirmé par la fiche Falstaff (+33 3 86 26 15 12). E-mail contact@ repris de 'deja' (attribué au site officiel, non revérifié dans un extrait de recherche). Rôle exact de Maxime Bourret non trouvé en ligne."
+ },
+ {
+  "siren": "394326854",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Franck DELIN",
+   "fonction": "Gérant (co-gérant avec Séverine DELIN)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+  },
+  "dirigeant_principal": {
+   "nom": "Franck DELIN",
+   "fonction": "Gérant (co-gérant avec Séverine DELIN)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Séverine DELIN",
+    "fonction": "Gérante (co-gérante)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucune présence web trouvée en 3 recherches (ni téléphone, ni site, ni annuaire visible dans les extraits). Dirigeants d'après le registre uniquement ; la co-gérante Séverine Delin peut aussi suivre la gestion."
+ },
+ {
+  "siren": "351271127",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Fabricant de l'andouillette de Clamecy (fiche Bourgogne Tourisme : https://www.burgundy-tourism.com/regional-products/morvan-charcuteries-salaisons-landouillette-de-clamecy). Président = la société GUSTEO (holding) ; personne physique qui la dirige non trouvée en 3 recherches. Ni téléphone ni site trouvés dans les extraits."
+ },
+ {
+  "siren": "405156274",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Kelly MARTIN",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+  },
+  "dirigeant_principal": {
+   "nom": "Kelly MARTIN",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé en 3 recherches. Un annuaire (trouver-ouvert.fr) liste 'Ambulances Martin SARL' au 16 route de Pressures / Hirondelles, Clamecy, et un établissement 'Ambulances Martin' au 12 rue du Faubourg de Marcy, 58210 Varzy, ouverts 24h/24 (https://trouver-ouvert.fr/varzy/ambulances-martin-2655846), sans téléphone visible dans l'extrait. Gérante d'après le registre uniquement."
+ },
+ {
+  "siren": "352722649",
+  "standard": {
+   "tel": "03 86 27 01 55",
+   "source": "https://www.clamecyhautnivernais-tourisme.fr/en/hotels/post-office/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.logishotels.com/fr/hotel/logis-hostellerie-de-la-poste-6276",
+  "decideur_financier": {
+   "nom": "Denis GUENOT",
+   "fonction": "Gérant (et chef de cuisine)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-hostellerie-de-la-poste-352722649"
+  },
+  "dirigeant_principal": {
+   "nom": "Denis GUENOT",
+   "fonction": "Gérant (et chef de cuisine)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://fr.gaultmillau.com/en/restaurant/hostellerie-de-la-poste"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Christophe GUENOT",
+    "fonction": "Sommelier",
+    "tel": null,
+    "email": null,
+    "source": "https://fr.gaultmillau.com/en/restaurant/hostellerie-de-la-poste"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Hôtel-restaurant 3 étoiles Logis, 9 place Émile Zola. Standard 03 86 27 01 55 concordant sur l'office de tourisme de Clamecy et plusieurs annuaires (Sluurpy, Koifaire, Foodle) ; fax 03 86 27 05 99. Site = page Logis Hotels (non ouverte). E-mail masqué dans les extraits ; attention, lhostellerieposte@gmail.com appartient à un homonyme de Tarascon-sur-Ariège."
+ },
+ {
+  "siren": "315548925",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Christopher SANCHEZ",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+  },
+  "dirigeant_principal": {
+   "nom": "Christopher SANCHEZ",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun numéro trouvé en 3 recherches. Changements récents : arrêté ARS de sept. 2025 (transformation SARL -> SAS et changement de gérant) et arrêté ARS BFC-2026-03-12-00009 de mars 2026 (rachat de parts et changement de dirigeant) — https://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/irecontenu/telechargement/136450/997663/file/recueil-bfc-2026-049-recueil-des-actes-administratifs-nominatifs.pdf ; vérifier que C. Sanchez est bien le dirigeant actuel. SIRENE indique aussi un établissement au 28 chemin de la Côte d'Or, Clamecy, et un autre à LD Cervenon, 58210 Saint-Germain-des-Bois ; implantation Clamecy / Tannay."
+ },
+ {
+  "siren": "840504427",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société d'exploitation du 'Laboratoire UNAE' (compléments alimentaires / parapharmacie : multivitamines, magnésium, probiotiques…), fiche fabricant Vidal : https://www.vidal.fr/parapharmacie/societes/laboratoire-unae-5427.html — adresse indiquée : Les Pattes Douces, 19 rue du Commandant Victor Guerreau, 58420 Brinon-sur-Beuvron (le registre donne 2 rue de Veaupoule). Téléphone et e-mail non visibles dans les extraits ; site probable unae.fr non vérifié. Président = HOLDING VEGEO GROUPE ; personne physique qui la dirige non trouvée en 3 recherches."
+ },
+ {
+  "siren": "381751171",
+  "standard": {
+   "tel": "03 86 38 25 18",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/15030-mailharro-a/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Plâtrerie-peinture / isolation (RGE). Numéro concordant sur deux annuaires (les-energies-renouvelables.eu et Cylex : https://www.cylex-locale.fr/varennes-vauzelles/peintre+en+b%C3%A2timent.html), adresse postale Champ Mâle, BP 60037, Varennes-Vauzelles ; fiches non vérifiées par leurs éditeurs. Président = la société CAREMA INVESTISSEMENTS (holding) ; personne physique non trouvée en 3 recherches."
+ },
+ {
+  "siren": "489272518",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Franck MYSKOWIAK",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+  },
+  "dirigeant_principal": {
+   "nom": "Franck MYSKOWIAK",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Karin MYSKOWIAK",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aucune présence web trouvée en 3 recherches. Adresse d'entrée sans rue (Zone industrielle, Varennes-Vauzelles) : rue non trouvée. Dirigeants d'après le registre uniquement ; la DG Karin Myskowiak peut aussi suivre la gestion."
+ },
+ {
+  "siren": "385244009",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Thibaut BOURDILLAT",
+   "fonction": "Gérant (co-gérant avec Jean-Pierre BOURDILLAT)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/385244009"
+  },
+  "dirigeant_principal": {
+   "nom": "Thibaut BOURDILLAT",
+   "fonction": "Gérant (co-gérant avec Jean-Pierre BOURDILLAT)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/385244009"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Jean-Pierre BOURDILLAT",
+    "fonction": "Gérant (co-gérant)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/385244009"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Vente, location et maintenance de photocopieurs (aussi 'Canon Copiéfax'), SARL créée en 1992 ; établissement secondaire au 15 rue Michaël Faraday, 18000 Bourges (https://fr.mappy.com/poi/50ae642a84aeaa2bc3e369bf). Aucun numéro trouvé en 3 recherches. Deux co-gérants (père/fils probable) : le choix de Thibaut comme contact principal est arbitraire."
+ },
+ {
+  "siren": "434598173",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent GALLOIS",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent GALLOIS",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucune présence web trouvée en 3 recherches (ni téléphone, ni site, ni annuaire). Gérant d'après le registre uniquement."
+ },
+ {
+  "siren": "343056628",
+  "standard": {
+   "tel": "09 79 55 63 66",
+   "source": "https://scope.anyti.me/expert-comptable/chaulgnes-58400",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Sonia GUYON (née MOUILLERON)",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/343056628"
+  },
+  "dirigeant_principal": {
+   "nom": "Sonia GUYON (née MOUILLERON)",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/343056628"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Cabinet d'expertise comptable, anciennement 'GUYON LECANU & Associés' (changement de dénomination déc. 2023, siège transféré au 15 rue du Bengy, Varennes-Vauzelles). Le numéro 09 79 55 63 66 vient d'annuaires qui listent encore 'Guyon Lecanu & Associés' au 14 rue de Paris, La Charité-sur-Loire : numéro faible, peut-être celui de l'ancien bureau, à vérifier. Ne pas confondre avec COGEP (3 rue du Bengy, 03 86 36 96 70) ni avec le cabinet 'Lecanu & Associés' de Nevers (03 86 59 01 76), autres sociétés."
+ }
+]

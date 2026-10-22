@@ -12853,7 +12853,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Fabien VITTOZ",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/jardifleurs-441827458"
+},
+"contact_dirigeant": {
+"nom": "Fabien VITTOZ",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/jardifleurs-441827458"
+}
 },
 {
 "rang": 304,
@@ -13012,7 +13030,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 22 06 36",
+"site_web": "https://cosne.intercaves.fr/fr-FR/",
+"contact_finance": {
+"nom": "Aurelien VAIRET",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/cave-et-services-798554978"
+},
+"contact_dirigeant": {
+"nom": "Aurelien VAIRET",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/cave-et-services-798554978"
+}
 },
 {
 "rang": 307,
@@ -13053,7 +13091,36 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 61 99 00",
+"site_web": "https://www.citya.com/agences-immobilieres/nevers-58000/525",
+"contact_finance": {
+"nom": "Charles Edouard Andre COLAS",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/citya-immobilier-nevers-831929161"
+},
+"contact_dirigeant": {
+"nom": "Charles Edouard Andre COLAS",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/citya-immobilier-nevers-831929161"
+},
+"autres_contacts": [
+{
+"nom": "Patrice MEUNIER",
+"fonction": "Directeur de l'agence Citya Saint Sébastien Immobilier (Nevers)",
+"tel": null,
+"email": "pmeunier@citya.com",
+"source": "https://www.citya.com/agences-immobilieres/nevers-58000/525"
+}
+]
 },
 {
 "rang": 308,
@@ -13460,7 +13527,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Laurent BENOIT",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/eurl-lbs-849789680"
+},
+"contact_dirigeant": {
+"nom": "Laurent BENOIT",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/eurl-lbs-849789680"
+}
 },
 {
 "rang": 315,
@@ -14362,7 +14447,19 @@
 "statut": "Active",
 "eff_annee": "2023",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 93 93 86",
+"telephone_a_confirmer": true,
+"site_web": "https://all.accor.com/hotel/3480/index.fr.shtml",
+"contact_dirigeant": {
+"nom": "HPVA PARTICIPATIONS",
+"fonction": "Président (personne morale, holding du groupe hôtelier HPVA) ; personne physique dirigeante non identifiée",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/racines-hotels-ii-834294126"
+}
 },
 {
 "rang": 329,
@@ -14472,7 +14569,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 30 70 99",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Jean DOUTRELIGNE",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/casino-de-st-honore-671880235"
+},
+"contact_dirigeant": {
+"nom": "Jean DOUTRELIGNE",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/casino-de-st-honore-671880235"
+}
 },
 {
 "rang": 331,
@@ -14651,7 +14768,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Dominique BAZIN",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-eurovins-dlf-415166008"
+},
+"contact_dirigeant": {
+"nom": "Dominique BAZIN",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-eurovins-dlf-415166008"
+}
 },
 {
 "rang": 334,
@@ -14814,7 +14949,18 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 93 02 58",
+"site_web": "https://nevers-nord-varennes-vauzelles.campanile.com/",
+"contact_dirigeant": {
+"nom": "ENVERGURE PARTICIPATIONS SAS",
+"fonction": "Gérant et associé indéfiniment et solidairement responsable (personne morale, groupe Louvre Hotels) ; personne physique non identifiée",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/344407903"
+}
 },
 {
 "rang": 337,
@@ -14855,7 +15001,44 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 93 09 00",
+"email": "billetterie@maisonculture.fr",
+"site_web": "https://maisonculture.fr",
+"contact_finance": {
+"nom": "Mégane DELPECH",
+"fonction": "Administratrice",
+"type": "DAF/RAF",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://maisonculture.fr/la-maison/equipe"
+},
+"contact_dirigeant": {
+"nom": "Jean-Luc REVOL",
+"fonction": "Directeur (gérant au registre)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://maisonculture.fr/la-maison/equipe"
+},
+"autres_contacts": [
+{
+"nom": "Laurent CODAIR",
+"fonction": "Secrétaire général",
+"tel": "03 86 93 09 04",
+"email": "laurent.codair@maisonculture.fr",
+"source": "https://maisonculture.fr/la-maison/equipe"
+},
+{
+"nom": "Christelle BERNIGAUD",
+"fonction": "Secrétaire comptable",
+"tel": null,
+"email": null,
+"source": "https://maisonculture.fr/la-maison/equipe"
+}
+]
 },
 {
 "rang": 338,
@@ -15149,7 +15332,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 57 72 49",
+"site_web": "https://www.eurorepar.fr/garage-sasu-levannier-pougues-les-eaux-3750.html",
+"contact_finance": {
+"nom": "Damien LEVANNIER",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sasu-levannier-794416198"
+},
+"contact_dirigeant": {
+"nom": "Damien LEVANNIER",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sasu-levannier-794416198"
+}
 },
 {
 "rang": 343,
@@ -15254,7 +15457,27 @@
 "eff_annee": "2024",
 "annee_ca": "2026",
 "fig_src": "Derniers comptes publiés : exercice 2026 (fiche Pappers)",
-"note_classement": "Procédure collective passée : Plan de redressement adopté le 31/07/2019"
+"note_classement": "Procédure collective passée : Plan de redressement adopté le 31/07/2019",
+"contacts_ok": true,
+"telephone": "03 86 25 33 52",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Didier HESPEL",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/edelweiss-station-service-345230783"
+},
+"contact_dirigeant": {
+"nom": "Didier HESPEL",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/edelweiss-station-service-345230783"
+}
 },
 {
 "rang": 345,
@@ -15733,7 +15956,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 78 73 90",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Alain MARCHAND",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/marchand-pere-et-fils-501300214"
+},
+"contact_dirigeant": {
+"nom": "Alain MARCHAND",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/marchand-pere-et-fils-501300214"
+}
 },
 {
 "rang": 353,
@@ -15836,7 +16079,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "06 46 28 53 53",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Marvine GUILLET",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/guillet-piron-831037817"
+},
+"contact_dirigeant": {
+"nom": "Marvine GUILLET",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/guillet-piron-831037817"
+}
 },
 {
 "rang": 355,
@@ -16386,7 +16649,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jean-Baptiste MOURLON",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sasu-la-vallee-channy-812180347"
+},
+"contact_dirigeant": {
+"nom": "Jean-Baptiste MOURLON",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sasu-la-vallee-channy-812180347"
+}
 },
 {
 "rang": 364,
@@ -16486,7 +16767,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 27 12 95",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Severine LAVALLEE",
+"fonction": "Gérante",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sevdan-527955991"
+},
+"contact_dirigeant": {
+"nom": "Severine LAVALLEE",
+"fonction": "Gérante",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sevdan-527955991"
+}
 },
 {
 "rang": 366,
@@ -16594,7 +16895,8 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 368,
@@ -16635,7 +16937,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 22 73 87",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Frédéric Voillot",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-voillot-451144380"
+},
+"contact_dirigeant": {
+"nom": "Frédéric Voillot",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-voillot-451144380"
+}
 },
 {
 "rang": 369,
@@ -16789,7 +17111,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 26 66 07",
+"telephone_a_confirmer": true,
+"site_web": "https://www.cphn-renovation.com",
+"contact_finance": {
+"nom": "Lionel Lipovac",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/cphn-centre-de-protection-de-lhabitat-nivernais-et-par-abreviation-cphn-383808250"
+},
+"contact_dirigeant": {
+"nom": "Lionel Lipovac",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/cphn-centre-de-protection-de-lhabitat-nivernais-et-par-abreviation-cphn-383808250"
+}
 },
 {
 "rang": 372,
@@ -17361,8 +17704,8 @@
 "ca_non_publie": false,
 "effectif": "1-2 salariés",
 "ville": "Pouilly-sur-Loire",
-"code_postal": null,
-"adresse": null,
+"code_postal": "58150",
+"adresse": "Rue de l'École, 58150 Saint-Andelain",
 "distance_cosne_km": 16,
 "siren": "523138063",
 "pappers_url": "https://www.pappers.fr/entreprise/lb-finances-523138063",
@@ -17384,7 +17727,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 382,
@@ -17538,7 +17882,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Alexis Lapouille",
+"fonction": "Président (et CFD Manager)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://3af.fr/en/agenda/aerodynamic-simulation-for-light-aviation-2236"
+},
+"contact_dirigeant": {
+"nom": "Alexis Lapouille",
+"fonction": "Président (et CFD Manager)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://3af.fr/en/agenda/aerodynamic-simulation-for-light-aviation-2236"
+},
+"autres_contacts": [
+{
+"nom": "Xavier Gergaud",
+"fonction": "Dirigeant inscrit au registre (fonction exacte non précisée)",
+"tel": null,
+"email": null,
+"source": "https://origami-entreprises.fr/entreprise/442010948.txt"
+}
+]
 },
 {
 "rang": 385,
@@ -18251,7 +18622,8 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 398,
@@ -18590,7 +18962,10 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 37 56 00",
+"telephone_a_confirmer": true
 },
 {
 "rang": 405,
@@ -18626,7 +19001,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 406,
@@ -18662,7 +19038,8 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 407,
@@ -18698,7 +19075,8 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 408,
@@ -18848,7 +19226,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Cédric Lhuillier",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/515033405"
+},
+"contact_dirigeant": {
+"nom": "Cédric Lhuillier",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/515033405"
+}
 },
 {
 "rang": 412,
@@ -19016,8 +19412,8 @@
 "ca_non_publie": false,
 "effectif": "6-9 salariés",
 "ville": "Chaumot",
-"code_postal": null,
-"adresse": null,
+"code_postal": "58800",
+"adresse": "32 Grande Rue, 58800 Corbigny",
 "distance_cosne_km": 64,
 "siren": "833491996",
 "pappers_url": "https://www.pappers.fr/entreprise/patisserie-poullin-833491996",
@@ -19039,7 +19435,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 416,
@@ -19084,7 +19481,34 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Geoffrey Jollet",
+"fonction": "Gérant (cogérant avec Malik Kheloufi)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/912983871"
+},
+"contact_dirigeant": {
+"nom": "Geoffrey Jollet",
+"fonction": "Gérant (cogérant avec Malik Kheloufi)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/912983871"
+},
+"autres_contacts": [
+{
+"nom": "Malik Kheloufi",
+"fonction": "Gérant (cogérant)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/912983871"
+}
+]
 },
 {
 "rang": 417,
@@ -19162,7 +19586,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Antonio Greco",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/392439741"
+},
+"contact_dirigeant": {
+"nom": "Antonio Greco",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/392439741"
+}
 },
 {
 "rang": 419,
@@ -19289,7 +19731,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 422,
@@ -19421,7 +19864,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 425,
@@ -19570,7 +20014,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 429,
@@ -19611,7 +20056,25 @@
 "statut": "Active",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Francis DELALANDE",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/921816757"
+},
+"contact_dirigeant": {
+"nom": "Francis DELALANDE",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/921816757"
+}
 },
 {
 "rang": 430,
@@ -19647,7 +20110,8 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true
 },
 {
 "rang": 431,
@@ -21145,7 +21609,9 @@
 "angle_partenariat": "Magasin bio de Cosne (10-19 salariés, deux magasins avec Saint-Satur) : partenariat local autour des produits bio et des producteurs du territoire (visibilité croisée, animations ou dégustations communes) et repas d'équipe ou de fin d'année pour le personnel.",
 "site_local": "108 avenue du 85e de Ligne, ZI des Prés Maillards, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": true,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"telephone_a_confirmer": true
 },
 {
 "rang": 457,
@@ -21209,7 +21675,26 @@
 "angle_partenariat": "Commerce du centre de Cosne (2 km, deux magasins, une huitaine de collaborateurs) : repas d'équipe, pots et repas de fin d'année ; partenariat local de visibilité croisée et offres réciproques, par exemple pour les salariés d'entreprises partenaires via leurs CSE.",
 "site_local": "17/19 rue Saint-Jacques, 58200 Cosne-Cours-sur-Loire (magasin Krys) ; 18 boulevard de la République, 58200 Cosne-Cours-sur-Loire (Le Collectif des Lunetiers)",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Olivier BAPTESTE",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
+},
+"contact_dirigeant": {
+"nom": "Olivier BAPTESTE",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
+}
 },
 {
 "rang": 458,
@@ -21282,7 +21767,35 @@
 },
 "angle_partenariat": "Domaine de Pouilly-Fumé à 11 km de Cosne (20-49 salariés, accueil de visiteurs et de séminaires de 20 personnes) : partenariat local et visibilité croisée (vins du domaine, soirées dégustation co-organisées), déjeuners pour les groupes et séminaires qu'il reçoit, repas d'équipe après vendanges.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Juliette D'ESTUTT D'ASSAY",
+"fonction": "Présidente du directoire",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215"
+},
+"contact_dirigeant": {
+"nom": "Juliette D'ESTUTT D'ASSAY",
+"fonction": "Présidente du directoire (dirige le domaine depuis 2014, après son frère Henry d'Estutt d'Assay)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.thewinedoctor.com/tastingsformal/tracy2024.shtml"
+},
+"autres_contacts": [
+{
+"nom": "Maxime BOURRET",
+"fonction": "Membre du directoire",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215"
+}
+]
 },
 {
 "rang": 459,
@@ -21326,7 +21839,34 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Franck DELIN",
+"fonction": "Gérant (co-gérant avec Séverine DELIN)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+},
+"contact_dirigeant": {
+"nom": "Franck DELIN",
+"fonction": "Gérant (co-gérant avec Séverine DELIN)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+},
+"autres_contacts": [
+{
+"nom": "Séverine DELIN",
+"fonction": "Gérante (co-gérante)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+}
+]
 },
 {
 "rang": 460,
@@ -21366,7 +21906,8 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true
 },
 {
 "rang": 461,
@@ -21406,7 +21947,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Kelly MARTIN",
+"fonction": "Gérante",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+},
+"contact_dirigeant": {
+"nom": "Kelly MARTIN",
+"fonction": "Gérante",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+}
 },
 {
 "rang": 462,
@@ -21446,7 +22005,37 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"telephone": "03 86 27 01 55",
+"telephone_a_confirmer": true,
+"site_web": "https://www.logishotels.com/fr/hotel/logis-hostellerie-de-la-poste-6276",
+"contact_finance": {
+"nom": "Denis GUENOT",
+"fonction": "Gérant (et chef de cuisine)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-hostellerie-de-la-poste-352722649"
+},
+"contact_dirigeant": {
+"nom": "Denis GUENOT",
+"fonction": "Gérant (et chef de cuisine)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://fr.gaultmillau.com/en/restaurant/hostellerie-de-la-poste"
+},
+"autres_contacts": [
+{
+"nom": "Christophe GUENOT",
+"fonction": "Sommelier",
+"tel": null,
+"email": null,
+"source": "https://fr.gaultmillau.com/en/restaurant/hostellerie-de-la-poste"
+}
+]
 },
 {
 "rang": 463,
@@ -21486,7 +22075,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Christopher SANCHEZ",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+},
+"contact_dirigeant": {
+"nom": "Christopher SANCHEZ",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+}
 },
 {
 "rang": 464,
@@ -21526,7 +22133,8 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true
 },
 {
 "rang": 465,
@@ -21567,7 +22175,10 @@
 "statut": "Active",
 "eff_annee": "2024",
 "fig_src": "Comptes non publiés",
-"note_classement": "Procédure collective passée : Plan de redressement adopté le 19/06/2016"
+"note_classement": "Procédure collective passée : Plan de redressement adopté le 19/06/2016",
+"contacts_ok": true,
+"telephone": "03 86 38 25 18",
+"telephone_a_confirmer": true
 },
 {
 "rang": 466,
@@ -21611,7 +22222,34 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Franck MYSKOWIAK",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+},
+"contact_dirigeant": {
+"nom": "Franck MYSKOWIAK",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+},
+"autres_contacts": [
+{
+"nom": "Karin MYSKOWIAK",
+"fonction": "Directrice générale",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+}
+]
 },
 {
 "rang": 467,
@@ -21655,7 +22293,34 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Thibaut BOURDILLAT",
+"fonction": "Gérant (co-gérant avec Jean-Pierre BOURDILLAT)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/385244009"
+},
+"contact_dirigeant": {
+"nom": "Thibaut BOURDILLAT",
+"fonction": "Gérant (co-gérant avec Jean-Pierre BOURDILLAT)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/385244009"
+},
+"autres_contacts": [
+{
+"nom": "Jean-Pierre BOURDILLAT",
+"fonction": "Gérant (co-gérant)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/385244009"
+}
+]
 },
 {
 "rang": 468,
@@ -21695,7 +22360,25 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Laurent GALLOIS",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+},
+"contact_dirigeant": {
+"nom": "Laurent GALLOIS",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+}
 },
 {
 "rang": 469,
@@ -21735,7 +22418,27 @@
 "verifie": false,
 "statut": "Active",
 "eff_annee": "2024",
-"fig_src": "Comptes non publiés"
+"fig_src": "Comptes non publiés",
+"contacts_ok": true,
+"telephone": "09 79 55 63 66",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Sonia GUYON (née MOUILLERON)",
+"fonction": "Gérante",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/343056628"
+},
+"contact_dirigeant": {
+"nom": "Sonia GUYON (née MOUILLERON)",
+"fonction": "Gérante",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/343056628"
+}
 },
 {
 "rang": 470,
