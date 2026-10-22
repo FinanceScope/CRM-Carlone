@@ -621,6 +621,8 @@ def clean_tel(t):
     return str(t).strip()
 n_ct = Counter()
 for c in base + ext:
+    if c.get('telephone'): c['telephone'] = clean_tel(c['telephone'])   # « +33 7 … » -> « 07 … », comparable aux résultats des recherches
+for c in base + ext:
     e = CONTACTS.get(sid(c.get('siren')))
     if not e: continue
     c['contacts_ok'] = True

@@ -812,7 +812,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "description": "Entreprise d'exploitation forestière (abattage, bûcheronnage et sortie des bois, achat, vente et sciage de bois) basée à La Fontaine Pitard, 1350 route de la Villeneuve à Neuvy-sur-Loire (18 km de Cosne). PME de 20 à 49 salariés dirigée par Michel Beauvois.",
-"telephone": "+33 3 86 39 24 70",
+"telephone": "03 86 39 24 70",
 "interlocuteur_cible": {
 "nom": "Michel Beauvois",
 "fonction": "Gérant",
@@ -821,7 +821,8 @@
 "angle_partenariat": "Entreprise forestière de Neuvy-sur-Loire (18 km, 20-49 salariés) : repas d'équipe et de fin d'année pour les équipes de chantier, déjeuners d'affaires avec propriétaires forestiers et acheteurs de bois ; partenariat local autour du bois du territoire (visibilité croisée).",
 "opposition_prospection": true,
 "enrichie": true,
-"contacts_ok": true
+"contacts_ok": true,
+"telephone_a_confirmer": true
 },
 {
 "rang": 113,
@@ -8799,7 +8800,7 @@
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "description": "Abattoir multi-espèces (bovins, ovins, porcins) de la ZI du Tremblat à Cosne-Cours-sur-Loire, au service des éleveurs du secteur. Exploité par une SA coopérative dont le conseil d'administration associe administrateurs privés et collectivités (commune de Cosne-Cours-sur-Loire, Agglomération de Nevers).",
 "actualite": "10/12/2025 : activité suspendue temporairement par la préfecture de la Nièvre après la diffusion d'une enquête vidéo de l'association L214 (enquête judiciaire ouverte) ; gouvernance remaniée depuis, avec Alain Beauvois président-directeur général et l'entrée de l'Agglomération de Nevers au conseil (juillet 2026).",
-"telephone": "+33 3 86 28 57 02",
+"telephone": "03 86 28 57 02",
 "interlocuteur_cible": {
 "nom": "Alain Beauvois",
 "fonction": "Président-directeur général",
@@ -8810,7 +8811,8 @@
 "opposition_prospection": true,
 "enrichie": true,
 "note_classement": "Activité suspendue en décembre 2025, l'abattoir a rouvert depuis : sujet à aborder avec tact.",
-"contacts_ok": true
+"contacts_ok": true,
+"telephone_a_confirmer": true
 },
 {
 "rang": 238,
@@ -21271,7 +21273,7 @@
 "description": "Domaine viticole de la famille d'Estutt d'Assay produisant des Pouilly-Fumé (36 ha, certifié HVE, vins en bio) autour du château de Tracy-sur-Loire, à 11 km de Cosne ; caveau de dégustation ouvert au public et salle de séminaire jusqu'à 20 personnes.",
 "actualite": "Mai 2026 (annonce BODACC du 19/05/2026) : gouvernance remaniée, avec Juliette d'Estutt d'Assay à la présidence du directoire et l'entrée de Maxime Bourret au directoire.",
 "site_web": "https://www.chateau-de-tracy.com/",
-"telephone": "03.86.26.15.12",
+"telephone": "03 86 26 15 12",
 "email": "contact@chateau-de-tracy.com",
 "interlocuteur_cible": {
 "nom": "Juliette D'ESTUTT D'ASSAY",
