@@ -1,0 +1,216 @@
+[
+  {
+    "siren": "823687033",
+    "nom_commercial": "Boulangerie Bourgeois ; La P'tite Boulang' d'Alligny (boutique d'Alligny-Cosne)",
+    "groupe": null,
+    "description": "Boulangerie-pâtisserie artisanale tenue par Frédéric et Marion Bourgeois au 28 boulevard de la République à Cosne-Cours-sur-Loire : pains traditionnels à fermentation longue, viennoiseries, pâtisseries, snacking salé et pièces montées sur commande. Seconde boutique « La P'tite Boulang' d'Alligny » à Alligny-Cosne depuis janvier 2026.",
+    "actualite": "Janvier 2026 : ouverture d'une seconde boutique, « La P'tite Boulang' d'Alligny », 22 route de Cosne à Alligny-Cosne (création inscrite au registre le 16/01/2026).",
+    "site_web": "https://www.boulangerie-bourgeois.fr/",
+    "telephone": "03 86 28 27 43",
+    "email": "marion_bourgeois@hotmail.com",
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Frédéric BOURGEOIS",
+      "fonction": "Gérant, boulanger-pâtissier (affaire tenue avec Marion Bourgeois)",
+      "source": "Registre"
+    },
+    "site_local": "28 Boulevard de la République, 58200 Cosne-Cours-sur-Loire ; seconde boutique : 22 Route de Cosne, 58200 Alligny-Cosne",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Artisan boulanger-pâtissier du centre de Cosne (10-19 salariés) qui se développe avec une seconde boutique à Alligny-Cosne : partenariat local de fournisseur du territoire (pains, viennoiseries, pièces montées pour réceptions et pots d'entreprise), visibilité croisée, et repas d'équipe ou de fin d'année pour son personnel.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/frederic-bourgeois-boulangerie-patisserie-823687033",
+      "https://www.boulangerie-bourgeois.fr/",
+      "https://www.myboulange.fr/58/cosne-cours-sur-loire/boulangerie-bourgeois-28211"
+    ]
+  },
+  {
+    "siren": "412880445",
+    "nom_commercial": "Bricomarché (Bricomarché Cosne-Cours-sur-Loire)",
+    "groupe": "Groupement Les Mousquetaires (enseigne Bricomarché) ; présidée par la holding XENT (Thierry Darrigade), qui a aussi présidé le Bricomarché de La Charité-sur-Loire (Clemenciel) jusqu'en septembre 2026",
+    "description": "Magasin de bricolage, jardin et aménagement de la maison sous enseigne Bricomarché, au Parc du Val de Loire (rue des Fondeurs) à Cosne-Cours-sur-Loire, pour particuliers et artisans : location de matériel et d'utilitaires, découpe bois et verre, Bâti Drive, livraison et pose.",
+    "actualite": null,
+    "site_web": "https://www.bricomarche.com/magasin/cosne-cours-sur-loire/02241",
+    "telephone": "03 86 28 80 40",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Thierry DARRIGADE",
+      "fonction": "Gérant de la holding XENT, présidente de RAVINE (Bricomarché Cosne)",
+      "source": "Registre"
+    },
+    "site_local": "Parc du Val de Loire, rue des Fondeurs, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Employeur du commerce cosnois (20-49 salariés, Parc du Val de Loire, à 4 km) : afterworks et repas d'équipe, repas de fin d'année, avantages pour les salariés, et visibilité croisée auprès des artisans et particuliers qui fréquentent le magasin.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/ravine-412880445",
+      "https://www.bricomarche.com/magasin/cosne-cours-sur-loire/02241",
+      "https://recherche-entreprises.api.gouv.fr/search?q=531191898"
+    ]
+  },
+  {
+    "siren": "448766857",
+    "nom_commercial": null,
+    "groupe": "Holding J CUBE (Méreau, Cher), présidente depuis 2025, qui préside aussi les sociétés de mécanique industrielle SOMG et Aeromax à Méreau",
+    "description": "Atelier de mécanique générale et de précision (NAF 25.62B, « tous travaux de mécanique générale ou de précision ») installé rue Norbert Naberis, dans la zone industrielle du Tremblat à Cosne-Cours-sur-Loire ; des profils LinkedIn de salariés l'intitulent « Mecaprecis Outillage Découpage Emboutissage ».",
+    "actualite": "Avril 2025 (annonce BODACC du 08/04/2025) : la holding J CUBE de Méreau (Cher), créée en janvier 2025, remplace D & G Industrie à la présidence de la société.",
+    "site_web": null,
+    "telephone": null,
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Jeroen BRINKHUIS",
+      "fonction": "Gérant d'AJ HOLDING, directrice générale de J CUBE (présidente de SAS MECAPRECIS) ; J CUBE est présidée par JAN HOLDING (gérant : Jérémy Anhes)",
+      "source": "Registre"
+    },
+    "site_local": "Rue Norbert Naberis, Le Tremblat, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Atelier industriel de 10-19 salariés dans la ZI du Tremblat à Cosne (4 km) : repas d'équipe et pots, repas de fin d'année, et déjeuners d'affaires avec les clients industriels et les dirigeants du groupe J CUBE venant de Méreau.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/sas-mecaprecis-448766857",
+      "https://www.societe.com/societe/sas-mecaprecis-448766857.html",
+      "https://recherche-entreprises.api.gouv.fr/search?q=939507323",
+      "https://recherche-entreprises.api.gouv.fr/search?q=J%20CUBE&departement=18",
+      "https://recherche-entreprises.api.gouv.fr/search?q=AJ%20HOLDING&departement=18",
+      "https://recherche-entreprises.api.gouv.fr/search?q=937951382",
+      "https://www.linkedin.com/in/clement-daval-17502a328/",
+      "https://www.linkedin.com/in/david-mathivet-853915147/"
+    ]
+  },
+  {
+    "siren": "382085215",
+    "nom_commercial": "Château de Tracy",
+    "groupe": null,
+    "description": "Domaine viticole de la famille d'Estutt d'Assay produisant des Pouilly-Fumé (36 ha, certifié HVE, vins en bio) autour du château de Tracy-sur-Loire, à 11 km de Cosne ; caveau de dégustation ouvert au public et salle de séminaire jusqu'à 20 personnes.",
+    "actualite": "Mai 2026 (annonce BODACC du 19/05/2026) : gouvernance remaniée, avec Juliette d'Estutt d'Assay à la présidence du directoire et l'entrée de Maxime Bourret au directoire.",
+    "site_web": "https://www.chateau-de-tracy.com/",
+    "telephone": "03.86.26.15.12",
+    "email": "contact@chateau-de-tracy.com",
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Juliette D'ESTUTT D'ASSAY",
+      "fonction": "Présidente du directoire, dirige le domaine",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Domaine de Pouilly-Fumé à 11 km de Cosne (20-49 salariés, accueil de visiteurs et de séminaires de 20 personnes) : partenariat local et visibilité croisée (vins du domaine, soirées dégustation co-organisées), déjeuners pour les groupes et séminaires qu'il reçoit, repas d'équipe après vendanges.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215",
+      "https://www.chateau-de-tracy.com/",
+      "https://www.tracy-et-cie.com/nos-visites-20.html",
+      "https://www.ruedesvignerons.com/fr/domaine/897/chateau-de-tracy",
+      "https://recherche-entreprises.api.gouv.fr/search?q=382085215"
+    ]
+  },
+  {
+    "siren": "329779284",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Domaine viticole familial de 40 ha (Pouilly-Fumé, Pouilly-sur-Loire, Sancerre), converti en bio en 2023, dirigé par Thierry Redde (président) et ses fils Sébastien et Romain ; caveau de dégustation La Moynerie au bord de la RN7, aux Berthiers (Saint-Andelain), à 16 km de Cosne.",
+    "actualite": "Guides 2024 : 3 étoiles au Guide Bettane + Desseauve et 1 étoile au Guide Vert de la Revue du Vin de France (iDealwine, novembre 2023), après l'achèvement de la conversion bio en 2023.",
+    "site_web": "http://michel-redde.fr/",
+    "telephone": "03 86 39 14 72",
+    "email": "lamoynerie@michel-redde.com",
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Sébastien REDDE",
+      "fonction": "Directeur général, co-dirige le domaine avec son frère Romain Redde (DG) ; président : Thierry Redde",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Domaine de Pouilly-Fumé réputé à 16 km de Cosne (10-19 salariés, caveau sur la RN7) : partenariat local en circuit court sur les vins du domaine, soirées dégustation co-organisées, et repas d'équipe ou de fin de vendanges.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/michel-redde-et-fils-329779284",
+      "http://michel-redde.fr/",
+      "https://www.idealwine.net/michel-redde-fils-quand-trois-generations-sunissent"
+    ]
+  },
+  {
+    "siren": "849322359",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Boulangerie artisanale familiale de Garchy (fondée en 1985, SARL actuelle créée en 2019) produisant du pain au levain naturel avec des farines biologiques, du sel de Guérande et une cuisson au four à bois ; commandes par e-mail, à 19 km de Cosne.",
+    "actualite": null,
+    "site_web": "https://www.boulangerie-gauthier.fr/",
+    "telephone": "03 86 69 10 24",
+    "email": "commandes@boulangerie-gauthier.fr",
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Pascal GAUTHIER",
+      "fonction": "Gérant (cogérance avec Geneviève Gauthier)",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Boulangerie bio au levain et au four à bois de Garchy (10-19 salariés, 19 km de Cosne) : partenariat local de producteur du territoire (pains bio pour buffets, réceptions et déjeuners d'affaires) et visibilité croisée.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/boulangerie-gauthier-849322359",
+      "https://www.boulangerie-gauthier.fr/",
+      "https://www.myboulange.fr/58/garchy/boulangerie-gauthier-172283"
+    ]
+  },
+  {
+    "siren": "442496816",
+    "nom_commercial": "Bricomarché (Bricomarché La Charité-sur-Loire)",
+    "groupe": "Groupement Les Mousquetaires (enseigne Bricomarché) ; présidée jusqu'en septembre 2026 par la holding XENT, qui préside le Bricomarché de Cosne (Ravine)",
+    "description": "Magasin de bricolage et d'aménagement de la maison sous enseigne Bricomarché à La Charité-sur-Loire (adresse affichée par l'enseigne : rue de Gérigny ; siège déclaré : ZI, 130 rue Plantes des Religieuses), pour particuliers et artisans, à 29 km de Cosne.",
+    "actualite": "Septembre 2026 (annonce BODACC du 22/09/2026) : Isabelle Joby (née Venuat) devient présidente à la place de la holding XENT.",
+    "site_web": "https://www.bricomarche.com/magasin/la-charite-sur-loire/04656",
+    "telephone": "03 86 70 93 00",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Isabelle JOBY",
+      "fonction": "Présidente (depuis septembre 2026)",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Magasin de bricolage de 10-19 salariés à La Charité-sur-Loire (29 km de Cosne), sous nouvelle présidence depuis septembre 2026 : repas d'équipe, pots et repas de fin d'année, et visibilité croisée auprès de la clientèle d'artisans du secteur.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/clemenciel-442496816",
+      "https://www.bricomarche.com/magasin/la-charite-sur-loire/04656"
+    ]
+  },
+  {
+    "siren": "412077745",
+    "nom_commercial": "Intermarché Hyper Varennes Vauzelles",
+    "groupe": "Groupement Les Mousquetaires (enseigne Intermarché) ; holding ALMATHORIA (Alain Baillou), qui préside aussi d'autres sociétés de distribution à Nevers",
+    "description": "Hypermarché Intermarché de Varennes-Vauzelles (boulevard Camille Dagonneau, RN7), à 50 km de Cosne, avec drive, livraison à domicile, station-service 24h/24 et laverie ; la société exploite aussi sur le site un fleuriste (Au Bonheur des Fleurs) et un point presse-papeterie.",
+    "actualite": null,
+    "site_web": "https://www.intermarche.com/magasins/02267/varennes-vauzelles-58640/infos-pratiques",
+    "telephone": "03 86 71 68 68",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Catherine BAILLOU",
+      "fonction": "Directrice générale (présidence assurée par la holding ALMATHORIA, présidée par Alain Baillou)",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Grand employeur de la distribution (100-199 salariés) à Varennes-Vauzelles, à 50 km de Cosne : avantages pour les salariés relayés par le CSE, repas de fin d'année et journées d'équipe ; la distance limite les pots et afterworks réguliers.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/fleuron-412077745",
+      "https://www.intermarche.com/magasins/02267/varennes-vauzelles-58640/infos-pratiques",
+      "https://recherche-entreprises.api.gouv.fr/search?q=ALMATHORIA"
+    ]
+  }
+]

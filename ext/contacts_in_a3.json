@@ -1,0 +1,546 @@
+[
+{
+"tier": 1,
+"rang": 125,
+"siren": "925318248",
+"nom": "LE NOUVEAU CHAMP DE LA DAME",
+"enseigne": "EHPAD Le Champ de la Dame",
+"ville": "Varennes-lès-Narcy",
+"adresse": "2 RUE DES ECOLES",
+"ca": 4326268,
+"effectif": "50-99 salariés",
+"activite": "Hébergement médico-social et social",
+"deja": {
+"telephone": "03 86 69 14 15",
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"DOMIDEP (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": true,
+"pappers_url": "https://www.pappers.fr/entreprise/le-nouveau-champ-de-la-dame-925318248"
+},
+{
+"tier": 1,
+"rang": 127,
+"siren": "353323843",
+"nom": "DOMAINE DIDIER DAGUENEAU",
+"enseigne": null,
+"ville": "Saint-Andelain",
+"adresse": "RUE DE L'ECOLE",
+"ca": 4316513,
+"effectif": "10-19 salariés",
+"activite": "Culture et production animale, chasse et services annexes",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Louis DAGUENEAU (Gérant)"
+],
+"interlocuteur": "Louis DAGUENEAU — Gérant"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843"
+},
+{
+"tier": 1,
+"rang": 134,
+"siren": "518047618",
+"nom": "SARL ROCHES",
+"enseigne": "Garage Didier Peinture",
+"ville": "Bouhy",
+"adresse": "13 RUE DE LA FORTERRE",
+"ca": 3957643,
+"effectif": "10-19 salariés",
+"activite": "Commerce et réparation d'automobiles et de motocycles",
+"deja": {
+"telephone": "03 86 26 42 63",
+"email": null,
+"site_web": "https://www.garage-roches.fr/",
+"linkedin": null,
+"dirigeants": [
+"Viviane ROCHES (BUISSET) (Gérant)",
+"Eddie ROCHES (Gérant)"
+],
+"interlocuteur": "Eddie Roches — Gérant"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/sarl-roches-518047618"
+},
+{
+"tier": 1,
+"rang": 151,
+"siren": "302555222",
+"nom": "D.I.F. DETERGENCE INDUSTRIELLE FRANCAISE",
+"enseigne": null,
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "ZI DU TREMBLAT RUE DE VILLECHAUD",
+"ca": 3391579,
+"effectif": "10-19 salariés",
+"activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": "https://www.linkedin.com/company/detergence-industrielle-francaise",
+"dirigeants": [
+"NOVARC (Président)",
+"Cédric Stéphane BRA (Directeur général délégué)",
+"Vincent PHEBY (Directeur général délégué)",
+"M&I PRO (Directeur Général)"
+],
+"interlocuteur": "Cédric Bra — Directeur général délégué (aux côtés de Vincent Pheby, directeur du développement de la BU Motion & Industry de Novarc)"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222"
+},
+{
+"tier": 1,
+"rang": 158,
+"siren": "442496816",
+"nom": "CLEMENCIEL",
+"enseigne": "Bricomarché La Charité",
+"ville": "La Charité-sur-Loire",
+"adresse": "ZONE INDUSTRIELLE 130 RUE PLANTES DES RELIGIEUSES",
+"ca": 3176598,
+"effectif": "10-19 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": "03 86 70 93 00",
+"email": null,
+"site_web": "https://www.bricomarche.com/magasin/la-charite-sur-loire/04656",
+"linkedin": null,
+"dirigeants": [
+"Isabelle JOBY (Président)"
+],
+"interlocuteur": "Isabelle JOBY — Présidente (depuis septembre 2026)"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/clemenciel-442496816"
+},
+{
+"tier": 1,
+"rang": 165,
+"siren": "305065658",
+"nom": "ETABLISSEMENTS GAUBIER",
+"enseigne": "Pompes Funèbres Gaubier",
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "92 RUE SAINT-AGNAN",
+"ca": 2782267,
+"effectif": "20-49 salariés",
+"activite": "Autres services personnels",
+"deja": {
+"telephone": "03 86 26 60 62",
+"email": null,
+"site_web": "https://www.pfgaubier.com",
+"linkedin": null,
+"dirigeants": [
+"Bruno SPAGNUOLO (Directeur Général)",
+"INFINI DEVELOPPEMENT (Président)"
+],
+"interlocuteur": "Bruno SPAGNUOLO — Directeur général"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/etablissements-gaubier-305065658"
+},
+{
+"tier": 1,
+"rang": 166,
+"siren": "421129891",
+"nom": "LAC LES ATELIERS COMPLEMENTAIRES",
+"enseigne": null,
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "CHAMP DU TREMBLAT P A DU VAL DE LOIRE 4 RUE DES FORGERONS",
+"ca": 2734744,
+"effectif": "10-19 salariés",
+"activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+"deja": {
+"telephone": "03 86 28 16 52",
+"email": "contact@lacdirect.com",
+"site_web": "https://www.lacdirect.com",
+"linkedin": "https://www.linkedin.com/company/ateliers-complementaires",
+"dirigeants": [
+"Julien BROGNON (COSTON) (Gérant)",
+"Julien COSTON (Gérant)",
+"Christel SOULOY (Gérant)"
+],
+"interlocuteur": "Christel SOULOY — Gérante (cogérance avec Julien COSTON)"
+},
+"opposition_prospection": true,
+"pappers_url": "https://www.pappers.fr/entreprise/lac-les-ateliers-complementaires-421129891"
+},
+{
+"tier": 1,
+"rang": 171,
+"siren": "329779284",
+"nom": "MICHEL REDDE ET FILS",
+"enseigne": null,
+"ville": "Saint-Andelain",
+"adresse": "LA MOYNERIE, LD LES BERTHIERS",
+"ca": 2585496,
+"effectif": "10-19 salariés",
+"activite": "Culture et production animale, chasse et services annexes",
+"deja": {
+"telephone": "03 86 39 14 72",
+"email": "lamoynerie@michel-redde.com",
+"site_web": "http://michel-redde.fr/",
+"linkedin": null,
+"dirigeants": [
+"Romain REDDE (Directeur Général)",
+"Sebastien REDDE (Directeur Général)",
+"THIERRY REDDE (Président)"
+],
+"interlocuteur": "Sébastien REDDE — Directeur général, co-dirige le domaine avec son frère Romain Redde (DG) ; président : Thierry Redde"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/michel-redde-et-fils-329779284"
+},
+{
+"tier": 1,
+"rang": 175,
+"siren": "794456921",
+"nom": "ENERGIE 2000 PLUS",
+"enseigne": null,
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "7 ALLEE DES ENTREPRENEURS",
+"ca": 2549355,
+"effectif": "20-49 salariés",
+"activite": "Travaux de construction spécialisés",
+"deja": {
+"telephone": "03 86 28 33 67",
+"email": "energie-2000@wanadoo.fr",
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"GROUPE ENERGIE BATIMENT SARL (Président)"
+],
+"interlocuteur": "Sébastien Thomas — Gérant de Groupe Energie Bâtiment, société présidente"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/energie-2000-plus-794456921"
+},
+{
+"tier": 1,
+"rang": 177,
+"siren": "394518096",
+"nom": "C.V.L. CONSTRUCTIONS DU VAL DE LOIRE",
+"enseigne": null,
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "16 RUE ROBERT NABERIS",
+"ca": 2502903,
+"effectif": "20-49 salariés",
+"activite": "Travaux de construction spécialisés",
+"deja": {
+"telephone": "03 86 26 76 92",
+"email": "accueil@cvloire.fr",
+"site_web": "https://www.cvloire58.fr",
+"linkedin": null,
+"dirigeants": [
+"Sebastien CORMIER (Gérant)"
+],
+"interlocuteur": "Sébastien CORMIER — Gérant"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/cvl-constructions-du-val-de-loire-394518096"
+},
+{
+"tier": 1,
+"rang": 209,
+"siren": "378966931",
+"nom": "SARL PATRICE MOREUX",
+"enseigne": "Vignobles Patrice Moreux",
+"ville": "Pouilly-sur-Loire",
+"adresse": "LES LOGES",
+"ca": 1866124,
+"effectif": "10-19 salariés",
+"activite": "Culture et production animale, chasse et services annexes",
+"deja": {
+"telephone": "03 86 39 13 55",
+"email": "patrice.moreux@wanadoo.fr",
+"site_web": "http://www.pouilly.com",
+"linkedin": "https://www.linkedin.com/company/sarl-patrice-moreux",
+"dirigeants": [
+"Arnaud MOREUX (Gérant)",
+"Julien MOREUX (Gérant)"
+],
+"interlocuteur": "Julien MOREUX — Co-gérant avec son frère Arnaud Moreux ; responsable de la cave, des ventes France et de l'administration"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/sarl-patrice-moreux-378966931"
+},
+{
+"tier": 1,
+"rang": 220,
+"siren": "384831046",
+"nom": "SOCIETE D'EXPLOITATION DES AMBULANCES CHARITOISES",
+"enseigne": "Ambulances Charitoises",
+"ville": "La Charité-sur-Loire",
+"adresse": "75 RUE CAMILLE BARRERE",
+"ca": 1752014,
+"effectif": "20-49 salariés",
+"activite": "Activités pour la santé humaine",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Laurent Albert Marcel GIRARD (Président)",
+"David GONIN (Directeur Général)"
+],
+"interlocuteur": "Laurent Girard — Président (David Gonin, directeur général)"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/societe-dexploitation-des-ambulances-charitoises-384831046"
+},
+{
+"tier": 1,
+"rang": 259,
+"siren": "849322359",
+"nom": "BOULANGERIE GAUTHIER",
+"enseigne": null,
+"ville": "Garchy",
+"adresse": "9 CHEMIN DU PAYOT",
+"ca": 1198670,
+"effectif": "10-19 salariés",
+"activite": "Industries alimentaires",
+"deja": {
+"telephone": "03 86 69 10 24",
+"email": "commandes@boulangerie-gauthier.fr",
+"site_web": "https://www.boulangerie-gauthier.fr/",
+"linkedin": null,
+"dirigeants": [
+"Genevieve Darie LECOINTE (GAUTHIER) (Gérant)",
+"Pascal GAUTHIER (Gérant)"
+],
+"interlocuteur": "Pascal GAUTHIER — Gérant (cogérance avec Geneviève Gauthier)"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/boulangerie-gauthier-849322359"
+},
+{
+"tier": 1,
+"rang": 271,
+"siren": "448766857",
+"nom": "SAS MECAPRECIS",
+"enseigne": null,
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "RUE NORBERT NABERIS LE TREMBLAT",
+"ca": 1086460,
+"effectif": "10-19 salariés",
+"activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"J CUBE (Président)"
+],
+"interlocuteur": "Jeroen BRINKHUIS — Gérant d'AJ HOLDING, directrice générale de J CUBE (présidente de SAS MECAPRECIS) ; J CUBE est présidée par JAN HOLDING (gérant : Jérémy Anhes)"
+},
+"opposition_prospection": true,
+"pappers_url": "https://www.pappers.fr/entreprise/sas-mecaprecis-448766857"
+},
+{
+"tier": 1,
+"rang": 322,
+"siren": "823687033",
+"nom": "FREDERIC BOURGEOIS BOULANGERIE PATISSERIE",
+"enseigne": "Boulangerie Bourgeois",
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "28 BOULEVARD DE LA REPUBLIQUE",
+"ca": 768426,
+"effectif": "10-19 salariés",
+"activite": "Industries alimentaires",
+"deja": {
+"telephone": "03 86 28 27 43",
+"email": "marion_bourgeois@hotmail.com",
+"site_web": "https://www.boulangerie-bourgeois.fr/",
+"linkedin": null,
+"dirigeants": [
+"Frederic Robert BOURGEOIS (Gérant)"
+],
+"interlocuteur": "Frédéric BOURGEOIS — Gérant, boulanger-pâtissier (affaire tenue avec Marion Bourgeois)"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/frederic-bourgeois-boulangerie-patisserie-823687033"
+},
+{
+"tier": 1,
+"rang": 345,
+"siren": "320926249",
+"nom": "ETABLISSEMENTS BILLEBAULT",
+"enseigne": null,
+"ville": "La Celle-sur-Loire",
+"adresse": "1 RUE JOLIN",
+"ca": 616779,
+"effectif": "10-19 salariés",
+"activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"INIGO (Président)"
+],
+"interlocuteur": "François-Régis de Reboul — Président d'INIGO, présidente de la société depuis le 01/02/2025"
+},
+"opposition_prospection": true,
+"pappers_url": "https://www.pappers.fr/entreprise/etablissements-billebault-320926249"
+},
+{
+"tier": 1,
+"rang": 366,
+"siren": "892315128",
+"nom": "TÝR Sécurité",
+"enseigne": null,
+"ville": "Raveau",
+"adresse": "5 ROUTE DES BERTRANGES",
+"ca": 495138,
+"effectif": "10-19 salariés",
+"activite": "Enquêtes et sécurité",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Rudy RUELLE (Gérant)"
+],
+"interlocuteur": "Rudy RUELLE — Gérant (dirigeant fondateur)"
+},
+"opposition_prospection": true,
+"pappers_url": "https://www.pappers.fr/entreprise/tyr-securite-892315128"
+},
+{
+"tier": 1,
+"rang": 433,
+"siren": "403027485",
+"nom": "ALLIANCE PROPRETE SERVICES",
+"enseigne": null,
+"ville": "Varennes-Vauzelles",
+"adresse": "63 BOULEVARD CAMILLE DAGONNEAU",
+"ca": null,
+"effectif": "100-199 salariés",
+"activite": "Services relatifs aux bâtiments et aménagement paysager",
+"deja": {
+"telephone": "03 86 23 00 22",
+"email": "contact@alliance-proprete-services.fr",
+"site_web": "https://www.alliance-proprete-services.fr",
+"linkedin": "https://www.linkedin.com/company/alliance-proprete-services",
+"dirigeants": [
+"Bruno ZAMORA (Gérant)"
+],
+"interlocuteur": "Bruno ZAMORA — Gérant"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/alliance-proprete-services-403027485"
+},
+{
+"tier": 1,
+"rang": 434,
+"siren": "412077745",
+"nom": "FLEURON",
+"enseigne": "Intermarché Hyper Varennes Vauzelles",
+"ville": "Varennes-Vauzelles",
+"adresse": "RTE NATIONALE 7",
+"ca": null,
+"effectif": "100-199 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": "03 86 71 68 68",
+"email": null,
+"site_web": "https://www.intermarche.com/magasins/02267/varennes-vauzelles-58640/infos-pratiques",
+"linkedin": null,
+"dirigeants": [
+"ALMATHORIA (Président)",
+"Catherine BAILLOU (DESAIVRES) (Directeur Général)"
+],
+"interlocuteur": "Catherine BAILLOU — Directrice générale (présidence assurée par la holding ALMATHORIA, présidée par Alain Baillou)"
+},
+"opposition_prospection": true,
+"pappers_url": "https://www.pappers.fr/entreprise/fleuron-412077745"
+},
+{
+"tier": 1,
+"rang": 456,
+"siren": "808472484",
+"nom": "LE CHENE ET LE ROSEAU",
+"enseigne": "Biocoop Cosne",
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "ZI DES PRES MAILLARDS 108 AVENUE DU 85EME DE LIGNE",
+"ca": null,
+"effectif": "10-19 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": "03 86 22 42 94",
+"email": null,
+"site_web": "http://www.biocoop-cosne.com",
+"linkedin": null,
+"dirigeants": [
+"Maya BERGERON (AZGUI) (Président)"
+],
+"interlocuteur": "Maya BERGERON — Présidente (depuis le 16/09/2025)"
+},
+"opposition_prospection": true,
+"pappers_url": "https://www.pappers.fr/entreprise/le-chene-et-le-roseau-808472484"
+},
+{
+"tier": 1,
+"rang": 457,
+"siren": "393733191",
+"nom": "OPTIQUE BAPTESTE",
+"enseigne": "Opticien Krys Cosne Saint-Jacques",
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "17-19-21 17 RUE SAINT-JACQUES",
+"ca": null,
+"effectif": "10-19 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": "03 86 28 58 55",
+"email": null,
+"site_web": "https://www.krys.com/opticien/france/nievre/opticien-cosne-cours-sur-loire/cosne-stjacques",
+"linkedin": "https://www.linkedin.com/company/sarl-optique-bapteste",
+"dirigeants": [
+"Olivier BAPTESTE (Président)"
+],
+"interlocuteur": "Olivier BAPTESTE — Président, opticien et directeur du magasin Krys (Sandrine Bapteste gère Le Collectif des Lunetiers)"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
+},
+{
+"tier": 1,
+"rang": 458,
+"siren": "382085215",
+"nom": "CHATEAU DE TRACY COMTESSE A.D ASSAY",
+"enseigne": "Château de Tracy",
+"ville": "Tracy-sur-Loire",
+"adresse": "LE CHATEAU DE TRACY",
+"ca": null,
+"effectif": "10-19 salariés",
+"activite": "Culture et production animale, chasse et services annexes",
+"deja": {
+"telephone": "03.86.26.15.12",
+"email": "contact@chateau-de-tracy.com",
+"site_web": "https://www.chateau-de-tracy.com/",
+"linkedin": null,
+"dirigeants": [
+"Juliette Pauline Marie D'ESTUTT D'ASSAY (Président du directoire)",
+"Maxime BOURRET (Membre du directoire)",
+"Marie-Caroline D'ESTUTT D'ASSAY (Président du conseil de surveillance)",
+"Nathalie D'ESTUTT D'ASSAY (Autre)"
+],
+"interlocuteur": "Juliette D'ESTUTT D'ASSAY — Présidente du directoire, dirige le domaine"
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215"
+}
+]

@@ -1,0 +1,448 @@
+[
+ {
+  "siren": "404570160",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.oreca.fr",
+  "decideur_financier": {
+   "nom": "Serge MEYER",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404570160"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Hugues DE CHAUNAC",
+    "fonction": "Président (fondateur du groupe ORECA)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/404570160"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Site oreca.fr bloqué aux robots (contact non lu) ; aucun numéro du site de Magny-Cours trouvé dans les annuaires accessibles. Filiale du groupe ORECA (siège groupe dans le Var) : DAF probablement au niveau groupe, non identifié. Décideur = DG d'après le registre."
+ },
+ {
+  "siren": "809097561",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Daniel Filipe DA FONSECA MARINHO",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/809097561"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Filiale du groupe portugais Vigobloco (Président personne morale VIGOBLOCO - PRE FABRICADOS S.A.). Aucun site web propre ni numéro trouvé (recherche annuaires infructueuse, PagesJaunes recherche bloquée) ; page LinkedIn entreprise connue : https://www.linkedin.com/company/vgbfranceprefabriques. Pas de RAF identifié."
+ },
+ {
+  "siren": "428862403",
+  "standard": {
+   "tel": "03 86 90 77 55",
+   "source": "https://www.tct.fr/page/mentions-legales"
+  },
+  "email_generique": {
+   "email": "sales@tct.fr",
+   "source": "https://www.tct.fr"
+  },
+  "site_web": "https://www.tct.fr",
+  "decideur_financier": {
+   "nom": "Julien COULON",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428862403"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Filiale du groupe SOCOMEC (Président personne morale) : la fonction finance est probablement au niveau groupe ; aucun RAF/DAF de site identifié. Autre email générique publié : commercial@tct.fr (mentions légales). Les mentions légales du site nomment encore Ludovic De Ternay comme directeur général / responsable de la publication, alors que le registre indique Julien COULON comme DG : mention probablement ancienne, à vérifier à l'appel."
+ },
+ {
+  "siren": "388806317",
+  "standard": {
+   "tel": "03 86 77 18 90",
+   "source": "https://www.bonial.fr/Magasins/Decize/Intermarche-Decize-route-de-Moulins-Intermarche-Super/v-f421312104"
+  },
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasin?pdvref=08116",
+  "decideur_financier": {
+   "nom": "Anthony PEZANT",
+   "fonction": "Dirigeant de NALOUMY (SIREN 790009658), holding présidente de BONJOUR depuis le 01/07/2022 ; ancien président de BONJOUR jusqu'au 27/01/2023",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/388806317"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro du magasin issu d'un agrégateur (Bonial) : source faible, à confirmer ; la fiche 118000.fr et la page magasin intermarche.com (JS) n'affichent pas le numéro. Lien PEZANT–NALOUMY tiré de la section « Entreprises citées » de Pappers (générée automatiquement) : à confirmer à l'appel."
+ },
+ {
+  "siren": "352563084",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "711880021",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "385044599",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "403894512",
+  "standard": {
+   "tel": "03 86 36 00 11",
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.bricomarche.com/magasin/varennes-vauzelles/01461",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "479965980",
+  "standard": {
+   "tel": "03 86 37 60 71",
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "753221092",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "331967943",
+  "standard": {
+   "tel": "+33 7 45 89 14 30",
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "http://www.aisanindustryfrance.fr",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "418048591",
+  "standard": {
+   "tel": "03 86 60 99 30",
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasin?pdvref=02520",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "611880204",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.igol.com",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "453481244",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "391484730",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "885820217",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "778492009",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "799292206",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "919448043",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "428223531",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "701880155",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.transports-charrier.fr",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "398711283",
+  "standard": {
+   "tel": "03 86 57 56 33",
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "955500194",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "420237398",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "844428623",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.taneo-bus.fr",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "692007768",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "823921739",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "450817200",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "887120046",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "950499673",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ },
+ {
+  "siren": "834179566",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "PENDING - pas encore traité"
+ }
+]

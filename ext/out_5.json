@@ -1,0 +1,2293 @@
+[
+ {
+  "slug": "corbigny",
+  "commune": "Corbigny",
+  "total_listed": 24,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "Ets. BUCHEZ",
+    "url": "https://www.pappers.fr/entreprise/ets-buchez-379437387",
+    "siren": "379437387",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 25067595,
+    "resultat": 948310,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SUPERMARCHE DES VAUX D'YONNE",
+    "url": "https://www.pappers.fr/entreprise/supermarche-des-vaux-dyonne-308530690",
+    "siren": "308530690",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 23869639,
+    "resultat": 844964,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "PHARMA DEVELOPPEMENT",
+    "url": "https://www.pappers.fr/entreprise/pharma-developpement-352563084",
+    "siren": "352563084",
+    "activite": "Industrie pharmaceutique",
+    "ca": 12242827,
+    "resultat": 1365670,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "CARRIERES ET MATERIAUX",
+    "url": "https://www.pappers.fr/entreprise/carrieres-et-materiaux-955500194",
+    "siren": "955500194",
+    "activite": "Autres industries extractives",
+    "ca": 8807994,
+    "resultat": 202696,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "PHARMACIE DU PAYS CORBIGEOIS",
+    "url": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310",
+    "siren": "445382310",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 4596437,
+    "resultat": 127123,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "ENTREPRISE VIODE",
+    "url": "https://www.pappers.fr/entreprise/entreprise-viode-339913428",
+    "siren": "339913428",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1425576,
+    "resultat": 45351,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "TRIANON",
+    "url": "https://www.pappers.fr/entreprise/trianon-523433886",
+    "siren": "523433886",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 1015571,
+    "resultat": 70151,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "LAPAIRE N' CO",
+    "url": "https://www.pappers.fr/entreprise/lapaire-n-co-428116826",
+    "siren": "428116826",
+    "activite": "Restauration",
+    "ca": 922248,
+    "resultat": -7600,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 9,
+    "nom": "ENTREPRISE HOUSSIN ET FILS",
+    "url": "https://www.pappers.fr/entreprise/entreprise-houssin-et-fils-400163820",
+    "siren": "400163820",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 890213,
+    "resultat": 39985,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "DE SOUZA FILS",
+    "url": "https://www.pappers.fr/entreprise/de-souza-fils-348765199",
+    "siren": "348765199",
+    "activite": "Autres services personnels",
+    "ca": 873857,
+    "resultat": 20467,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "POMARIA HOTEL",
+    "url": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583",
+    "siren": "497960583",
+    "activite": "Hébergement",
+    "ca": 565144,
+    "resultat": 510999,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "guerigny",
+  "commune": "Guérigny",
+  "total_listed": 14,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "SOCIETE LAGOUTTE ET FILS",
+    "url": "https://www.pappers.fr/entreprise/societe-lagoutte-et-fils-320130735",
+    "siren": "320130735",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 4031427,
+    "resultat": 45364,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "NTB NOUVELLES TECHNIQUES DU BATIMENT",
+    "url": "https://www.pappers.fr/entreprise/ntb-nouvelles-techniques-du-batiment-333749216",
+    "siren": "333749216",
+    "activite": "Construction de bâtiments",
+    "ca": 2449691,
+    "resultat": 105266,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "DENIS ET FILS",
+    "url": "https://www.pappers.fr/entreprise/denis-et-fils-379781610",
+    "siren": "379781610",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 2204568,
+    "resultat": 327589,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "SAS VANNIER",
+    "url": "https://www.pappers.fr/entreprise/sas-vannier-392638243",
+    "siren": "392638243",
+    "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+    "ca": 1305772,
+    "resultat": 194070,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "ADAPEI 58 SAS",
+    "url": "https://www.pappers.fr/entreprise/adapei-58-sas-820232791",
+    "siren": "820232791",
+    "activite": "Activités administratives et autres activités de soutien aux entreprises",
+    "ca": 1276290,
+    "resultat": 49993,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "FAVRAC",
+    "url": "https://www.pappers.fr/entreprise/favrac-329950604",
+    "siren": "329950604",
+    "activite": "Fabrication de machines et équipements n.c.a.",
+    "ca": 1155395,
+    "resultat": 44557,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "moulins-engilbert",
+  "commune": "Moulins-Engilbert",
+  "total_listed": 9,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "S.I.C.A.F.O.M.E. STE COOPERATIVE D'INTERET COLLECTIF AGRICOLE ANONYME DE LA FOIRE ORGANISEE DES MARCHES DE MOULINS-ENGILBERT",
+    "url": "https://www.pappers.fr/entreprise/sicafome-ste-cooperative-dinteret-collectif-agricole-anonyme-de-la-foire-organisee-des-marches-de-moulins-engilbert-321675712",
+    "siren": "321675712",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 1829624,
+    "resultat": 165601,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "",
+    "url": "https://www.pappers.fr/entreprise/383063369",
+    "siren": "383063369",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 1035191,
+    "resultat": 58987,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "st-leger-des-vignes",
+  "commune": "Saint-Léger-des-Vignes",
+  "total_listed": 35,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "BOIS ET SCIAGES DE SOUGY",
+    "url": "https://www.pappers.fr/entreprise/bois-et-sciages-de-sougy-334934304",
+    "siren": "334934304",
+    "activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+    "ca": 132553826,
+    "resultat": 14502385,
+    "effectif": "Entre 100 et 199 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "DECIZE DISTRIBUTION",
+    "url": "https://www.pappers.fr/entreprise/decize-distribution-507757672",
+    "siren": "507757672",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 40020643,
+    "resultat": 358864,
+    "effectif": "Entre 100 et 199 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "SumiRiko Rubber Compounding France S.A.S.",
+    "url": "https://www.pappers.fr/entreprise/sumiriko-rubber-compounding-france-sas-322804931",
+    "siren": "322804931",
+    "activite": "Fabrication de produits en caoutchouc et en plastique",
+    "ca": 25226094,
+    "resultat": 6605596,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "Anvis Decize SAS",
+    "url": "https://www.pappers.fr/entreprise/anvis-decize-sas-518482013",
+    "siren": "518482013",
+    "activite": "Fabrication de produits en caoutchouc et en plastique",
+    "ca": 18637655,
+    "resultat": 128737,
+    "effectif": "Entre 100 et 199 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "BONJOUR",
+    "url": "https://www.pappers.fr/entreprise/bonjour-388806317",
+    "siren": "388806317",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 13326536,
+    "resultat": 110035,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "GMDE CHR BOISSONS",
+    "url": "https://www.pappers.fr/entreprise/gmde-chr-boissons-400674875",
+    "siren": "400674875",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 13230370,
+    "resultat": 611142,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "SARL BOUILLET FRERES",
+    "url": "https://www.pappers.fr/entreprise/sarl-bouillet-freres-453481244",
+    "siren": "453481244",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 11047658,
+    "resultat": 401458,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "VALENJE",
+    "url": "https://www.pappers.fr/entreprise/valenje-919448043",
+    "siren": "919448043",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 10182041,
+    "resultat": 51669,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 9,
+    "nom": "TRANSPORTS CHARRIER & CIE",
+    "url": "https://www.pappers.fr/entreprise/transports-charrier-cie-701880155",
+    "siren": "701880155",
+    "activite": "Transports terrestres et transport par conduites",
+    "ca": 9205056,
+    "resultat": 66728,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "SUMIRIKO SD FRANCE SAS",
+    "url": "https://www.pappers.fr/entreprise/sumiriko-sd-france-sas-450817200",
+    "siren": "450817200",
+    "activite": "Recherche-développement scientifique",
+    "ca": 7334541,
+    "resultat": 321622,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "VERTINE",
+    "url": "https://www.pappers.fr/entreprise/vertine-409109360",
+    "siren": "409109360",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 4075148,
+    "resultat": 76795,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 12,
+    "nom": "LOLLIPOP",
+    "url": "https://www.pappers.fr/entreprise/lollipop-804785566",
+    "siren": "804785566",
+    "activite": "Restauration",
+    "ca": 2620056,
+    "resultat": 180641,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 13,
+    "nom": "PHARMACIE DES VIGNES",
+    "url": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721",
+    "siren": "883750721",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 2448134,
+    "resultat": 325638,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 14,
+    "nom": "L.P.C.",
+    "url": "https://www.pappers.fr/entreprise/lpc-810992081",
+    "siren": "810992081",
+    "activite": "Fabrication d'autres produits minéraux non métalliques",
+    "ca": 1978363,
+    "resultat": 159163,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 15,
+    "nom": "SPL CONFLUENCE",
+    "url": "https://www.pappers.fr/entreprise/spl-confluence-750984064",
+    "siren": "750984064",
+    "activite": "Hébergement",
+    "ca": 1314921,
+    "resultat": 30541,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 16,
+    "nom": "PHARMACIE SAINT JUST",
+    "url": "https://www.pappers.fr/entreprise/pharmacie-saint-just-398013037",
+    "siren": "398013037",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 1237056,
+    "resultat": 127495,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 17,
+    "nom": "S.S.P. SERVICE SPORT PROMOTION",
+    "url": "https://www.pappers.fr/entreprise/ssp-service-sport-promotion-920839941",
+    "siren": "920839941",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 1139198,
+    "resultat": 40067,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 18,
+    "nom": "JARDIFLEURS",
+    "url": "https://www.pappers.fr/entreprise/jardifleurs-441827458",
+    "siren": "441827458",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 937465,
+    "resultat": 57369,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 19,
+    "nom": "ETABLISSEMENTS DALLOIS",
+    "url": "https://www.pappers.fr/entreprise/etablissements-dallois-331170100",
+    "siren": "331170100",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 802576,
+    "resultat": 35451,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 20,
+    "nom": "DECIZ58",
+    "url": "https://www.pappers.fr/entreprise/deciz58-792448409",
+    "siren": "792448409",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 795480,
+    "resultat": 241933,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 21,
+    "nom": "AMISTAD DEVELOPPEMENT",
+    "url": "https://www.pappers.fr/entreprise/amistad-developpement-521577031",
+    "siren": "521577031",
+    "activite": "Activités administratives et autres activités de soutien aux entreprises",
+    "ca": 786120,
+    "resultat": 794671,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 22,
+    "nom": "EDELWEISS STATION SERVICE",
+    "url": "https://www.pappers.fr/entreprise/edelweiss-station-service-345230783",
+    "siren": "345230783",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 744184,
+    "resultat": 13957,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 23,
+    "nom": "ERCAEE (ETUDE ET REALISATION DE CABLAGE D'AUTOMATISMES ELECTRIQUES ET ELECTRONIQUES)",
+    "url": "https://www.pappers.fr/entreprise/ercaee-etude-et-realisation-de-cablage-dautomatismes-electriques-et-electroniques-379453640",
+    "siren": "379453640",
+    "activite": "Fabrication d'équipements électriques",
+    "ca": 736522,
+    "resultat": 135543,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 24,
+    "nom": "GUILLET-PIRON",
+    "url": "https://www.pappers.fr/entreprise/guillet-piron-831037817",
+    "siren": "831037817",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 654338,
+    "resultat": 58860,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "varzy",
+  "commune": "Varzy",
+  "total_listed": 3,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "CENTRE MEDICAL DE LA VENERIE",
+    "url": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374",
+    "siren": "631880374",
+    "activite": "Activités pour la santé humaine",
+    "ca": 5212419,
+    "resultat": -44602,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "MILLE ET 1 SERVICES",
+    "url": "https://www.pappers.fr/entreprise/mille-et-1-services-480634682",
+    "siren": "480634682",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 610233,
+    "resultat": 21015,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "amazy",
+  "commune": "Amazy",
+  "total_listed": 8,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "SO.DI.TAN",
+    "url": "https://www.pappers.fr/entreprise/soditan-885820217",
+    "siren": "885820217",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 10487726,
+    "resultat": 392067,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SOC SCIERIE PETITRENAUD",
+    "url": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190",
+    "siren": "780060190",
+    "activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+    "ca": 6707377,
+    "resultat": -60217,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "GERMAIN'S DEVELOPMENT",
+    "url": "https://www.pappers.fr/entreprise/germains-development-888572831",
+    "siren": "888572831",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 5098764,
+    "resultat": 143354,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "AXENCE",
+    "url": "https://www.pappers.fr/entreprise/axence-920006046",
+    "siren": "920006046",
+    "activite": "Activités immobilières",
+    "ca": 923000,
+    "resultat": 129183,
+    "effectif": "0 salarié"
+   }
+  ]
+ },
+ {
+  "slug": "arthel",
+  "commune": "Arthel",
+  "total_listed": 9,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "PREMESTER",
+    "url": "https://www.pappers.fr/entreprise/premester-831333968",
+    "siren": "831333968",
+    "activite": "Industrie chimique",
+    "ca": 96566168,
+    "resultat": -2439273,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "JULIEN CATEL",
+    "url": "https://www.pappers.fr/entreprise/julien-catel-438536393",
+    "siren": "438536393",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1822148,
+    "resultat": 154820,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "ENTREPRISE MARIO & LONGO",
+    "url": "https://www.pappers.fr/entreprise/entreprise-mario-longo-701880023",
+    "siren": "701880023",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1336195,
+    "resultat": 165333,
+    "effectif": "Entre 10 et 19 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "azy-le-vif",
+  "commune": "Azy-le-Vif",
+  "total_listed": 7,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "ETABLISSEMENTS GUILBAULT",
+    "url": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702",
+    "siren": "326891702",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 3652317,
+    "resultat": 145902,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SARL C.P.",
+    "url": "https://www.pappers.fr/entreprise/sarl-cp-419212816",
+    "siren": "419212816",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 596757,
+    "resultat": 8269,
+    "effectif": "Entre 1 et 2 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "biches",
+  "commune": "Biches",
+  "total_listed": 8,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "BONGARD BAZOT ET FILS",
+    "url": "https://www.pappers.fr/entreprise/bongard-bazot-et-fils-631880408",
+    "siren": "631880408",
+    "activite": "Sylviculture et exploitation forestière",
+    "ca": 25977485,
+    "resultat": 351969,
+    "effectif": "Entre 100 et 199 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "GARAGE DU BAZOIS",
+    "url": "https://www.pappers.fr/entreprise/garage-du-bazois-481303451",
+    "siren": "481303451",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 2136392,
+    "resultat": 58864,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "EURL LBS",
+    "url": "https://www.pappers.fr/entreprise/eurl-lbs-849789680",
+    "siren": "849789680",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 1842229,
+    "resultat": 151270,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "IMS Consulting Europe",
+    "url": "https://www.pappers.fr/entreprise/ims-consulting-europe-851715821",
+    "siren": "851715821",
+    "activite": "Autres activités spécialisées, scientifiques et techniques",
+    "ca": 804088,
+    "resultat": 108261,
+    "effectif": "Entre 1 et 2 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "breugnon",
+  "commune": "Breugnon",
+  "total_listed": 3,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "TRANSPORTS ROUSSEAU ERIC",
+    "url": "https://www.pappers.fr/entreprise/transports-rousseau-eric-393635230",
+    "siren": "393635230",
+    "activite": "Transports terrestres et transport par conduites",
+    "ca": 49999926,
+    "resultat": 859853,
+    "effectif": "Entre 250 et 499 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "BORFLEX CORVOL",
+    "url": "https://www.pappers.fr/entreprise/borflex-corvol-500433289",
+    "siren": "500433289",
+    "activite": "Fabrication de produits en caoutchouc et en plastique",
+    "ca": 3322743,
+    "resultat": 511240,
+    "effectif": "Entre 10 et 19 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "cessy-les-bois",
+  "commune": "Cessy-les-Bois",
+  "total_listed": 10,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "ETS COIGNET",
+    "url": "https://www.pappers.fr/entreprise/ets-coignet-312057318",
+    "siren": "312057318",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 28694748,
+    "resultat": 622149,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "ETABLISSEMENTS MARECHAL",
+    "url": "https://www.pappers.fr/entreprise/etablissements-marechal-300822335",
+    "siren": "300822335",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 27552969,
+    "resultat": 1113333,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "POPIANE",
+    "url": "https://www.pappers.fr/entreprise/popiane-401453188",
+    "siren": "401453188",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 16120755,
+    "resultat": 402129,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "DEROMEDI CARRIERES",
+    "url": "https://www.pappers.fr/entreprise/deromedi-carrieres-330907205",
+    "siren": "330907205",
+    "activite": "Fabrication d'autres produits minéraux non métalliques",
+    "ca": 14481518,
+    "resultat": 1212304,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "SOYEZ FRERES",
+    "url": "https://www.pappers.fr/entreprise/soyez-freres-671880227",
+    "siren": "671880227",
+    "activite": "Industrie du papier et du carton",
+    "ca": 8338464,
+    "resultat": -866073,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "AU BON MARCHE",
+    "url": "https://www.pappers.fr/entreprise/au-bon-marche-830768529",
+    "siren": "830768529",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 729337,
+    "resultat": 57669,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "chantenay-st-imbert",
+  "commune": "Chantenay-Saint-Imbert",
+  "total_listed": 7,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "ETABLISSEMENTS GUILBAULT",
+    "url": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702",
+    "siren": "326891702",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 3652317,
+    "resultat": 145902,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SARL C.P.",
+    "url": "https://www.pappers.fr/entreprise/sarl-cp-419212816",
+    "siren": "419212816",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 596757,
+    "resultat": 8269,
+    "effectif": "Entre 1 et 2 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "chevenon",
+  "commune": "Chevenon",
+  "total_listed": 11,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "Aperam Alloys Imphy",
+    "url": "https://www.pappers.fr/entreprise/aperam-alloys-imphy-440326692",
+    "siren": "440326692",
+    "activite": "Métallurgie",
+    "ca": 887454070,
+    "resultat": 30736319,
+    "effectif": "Entre 500 et 999 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "TCT TORES COMPOSANTS TECHNOLOGIES",
+    "url": "https://www.pappers.fr/entreprise/tct-tores-composants-technologies-428862403",
+    "siren": "428862403",
+    "activite": "Fabrication d'équipements électriques",
+    "ca": 14033416,
+    "resultat": 1562720,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "ALBEN",
+    "url": "https://www.pappers.fr/entreprise/alben-428223531",
+    "siren": "428223531",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 9246684,
+    "resultat": 71894,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "MA BOUTIQUE VELO",
+    "url": "https://www.pappers.fr/entreprise/ma-boutique-velo-909830408",
+    "siren": "909830408",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 1097299,
+    "resultat": 42054,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "chatin",
+  "commune": "Châtin",
+  "total_listed": 7,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "EVRARD & FILS",
+    "url": "https://www.pappers.fr/entreprise/evrard-fils-538548199",
+    "siren": "538548199",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 2230706,
+    "resultat": 60346,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "LES RUCHERS DU MORVAN s.a.r.l.",
+    "url": "https://www.pappers.fr/entreprise/les-ruchers-du-morvan-sarl-449498245",
+    "siren": "449498245",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 1367747,
+    "resultat": 132143,
+    "effectif": "Au moins 1 salarié"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "SARL BADAKOL",
+    "url": "https://www.pappers.fr/entreprise/sarl-badakol-501796601",
+    "siren": "501796601",
+    "activite": "Sylviculture et exploitation forestière",
+    "ca": 722997,
+    "resultat": 51071,
+    "effectif": "Entre 20 et 49 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "couloutre",
+  "commune": "Couloutre",
+  "total_listed": 10,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "ETS COIGNET",
+    "url": "https://www.pappers.fr/entreprise/ets-coignet-312057318",
+    "siren": "312057318",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 28694748,
+    "resultat": 622149,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "ETABLISSEMENTS MARECHAL",
+    "url": "https://www.pappers.fr/entreprise/etablissements-marechal-300822335",
+    "siren": "300822335",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 27552969,
+    "resultat": 1113333,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "POPIANE",
+    "url": "https://www.pappers.fr/entreprise/popiane-401453188",
+    "siren": "401453188",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 16120755,
+    "resultat": 402129,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "DEROMEDI CARRIERES",
+    "url": "https://www.pappers.fr/entreprise/deromedi-carrieres-330907205",
+    "siren": "330907205",
+    "activite": "Fabrication d'autres produits minéraux non métalliques",
+    "ca": 14481518,
+    "resultat": 1212304,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "SOYEZ FRERES",
+    "url": "https://www.pappers.fr/entreprise/soyez-freres-671880227",
+    "siren": "671880227",
+    "activite": "Industrie du papier et du carton",
+    "ca": 8338464,
+    "resultat": -866073,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "AU BON MARCHE",
+    "url": "https://www.pappers.fr/entreprise/au-bon-marche-830768529",
+    "siren": "830768529",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 729337,
+    "resultat": 57669,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "dommartin-2",
+  "commune": "Dommartin",
+  "total_listed": 7,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "EVRARD & FILS",
+    "url": "https://www.pappers.fr/entreprise/evrard-fils-538548199",
+    "siren": "538548199",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 2230706,
+    "resultat": 60346,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "LES RUCHERS DU MORVAN s.a.r.l.",
+    "url": "https://www.pappers.fr/entreprise/les-ruchers-du-morvan-sarl-449498245",
+    "siren": "449498245",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 1367747,
+    "resultat": 132143,
+    "effectif": "Au moins 1 salarié"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "SARL BADAKOL",
+    "url": "https://www.pappers.fr/entreprise/sarl-badakol-501796601",
+    "siren": "501796601",
+    "activite": "Sylviculture et exploitation forestière",
+    "ca": 722997,
+    "resultat": 51071,
+    "effectif": "Entre 20 et 49 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "epiry",
+  "commune": "Epiry",
+  "total_listed": 24,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "Ets. BUCHEZ",
+    "url": "https://www.pappers.fr/entreprise/ets-buchez-379437387",
+    "siren": "379437387",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 25067595,
+    "resultat": 948310,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SUPERMARCHE DES VAUX D'YONNE",
+    "url": "https://www.pappers.fr/entreprise/supermarche-des-vaux-dyonne-308530690",
+    "siren": "308530690",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 23869639,
+    "resultat": 844964,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "PHARMA DEVELOPPEMENT",
+    "url": "https://www.pappers.fr/entreprise/pharma-developpement-352563084",
+    "siren": "352563084",
+    "activite": "Industrie pharmaceutique",
+    "ca": 12242827,
+    "resultat": 1365670,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "CARRIERES ET MATERIAUX",
+    "url": "https://www.pappers.fr/entreprise/carrieres-et-materiaux-955500194",
+    "siren": "955500194",
+    "activite": "Autres industries extractives",
+    "ca": 8807994,
+    "resultat": 202696,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "PHARMACIE DU PAYS CORBIGEOIS",
+    "url": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310",
+    "siren": "445382310",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 4596437,
+    "resultat": 127123,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "ENTREPRISE VIODE",
+    "url": "https://www.pappers.fr/entreprise/entreprise-viode-339913428",
+    "siren": "339913428",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1425576,
+    "resultat": 45351,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "TRIANON",
+    "url": "https://www.pappers.fr/entreprise/trianon-523433886",
+    "siren": "523433886",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 1015571,
+    "resultat": 70151,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "LAPAIRE N' CO",
+    "url": "https://www.pappers.fr/entreprise/lapaire-n-co-428116826",
+    "siren": "428116826",
+    "activite": "Restauration",
+    "ca": 922248,
+    "resultat": -7600,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 9,
+    "nom": "ENTREPRISE HOUSSIN ET FILS",
+    "url": "https://www.pappers.fr/entreprise/entreprise-houssin-et-fils-400163820",
+    "siren": "400163820",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 890213,
+    "resultat": 39985,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "DE SOUZA FILS",
+    "url": "https://www.pappers.fr/entreprise/de-souza-fils-348765199",
+    "siren": "348765199",
+    "activite": "Autres services personnels",
+    "ca": 873857,
+    "resultat": 20467,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "POMARIA HOTEL",
+    "url": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583",
+    "siren": "497960583",
+    "activite": "Hébergement",
+    "ca": 565144,
+    "resultat": 510999,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "garchy",
+  "commune": "Garchy",
+  "total_listed": 19,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "SAGET LA PERRIÈRE",
+    "url": "https://www.pappers.fr/entreprise/saget-la-perriere-304890817",
+    "siren": "304890817",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 22038286,
+    "resultat": 1570553,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "DOMAINE DIDIER DAGUENEAU",
+    "url": "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843",
+    "siren": "353323843",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 5297333,
+    "resultat": 1737890,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "MICHEL REDDE ET FILS",
+    "url": "https://www.pappers.fr/entreprise/michel-redde-et-fils-329779284",
+    "siren": "329779284",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 2585496,
+    "resultat": 343224,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "CHATEAU DE TRACY - COMTESSE ALAIN D'ASSAY",
+    "url": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-alain-dassay-382085215",
+    "siren": "382085215",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 2338413,
+    "resultat": 85879,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "SARL PATRICE MOREUX",
+    "url": "https://www.pappers.fr/entreprise/sarl-patrice-moreux-378966931",
+    "siren": "378966931",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 1866124,
+    "resultat": 4693041,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "LE RELAIS DE POUILLY",
+    "url": "https://www.pappers.fr/entreprise/le-relais-de-pouilly-340352939",
+    "siren": "340352939",
+    "activite": "Hébergement",
+    "ca": 1471360,
+    "resultat": 85118,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "BOULANGERIE GAUTHIER",
+    "url": "https://www.pappers.fr/entreprise/boulangerie-gauthier-849322359",
+    "siren": "849322359",
+    "activite": "Industries alimentaires",
+    "ca": 1198670,
+    "resultat": 63960,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "LISPAUL",
+    "url": "https://www.pappers.fr/entreprise/lispaul-878108075",
+    "siren": "878108075",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 1081438,
+    "resultat": 99529,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 9,
+    "nom": "L'ABBATIALE DU TRONCHET",
+    "url": "https://www.pappers.fr/entreprise/labbatiale-du-tronchet-797612009",
+    "siren": "797612009",
+    "activite": "Hébergement",
+    "ca": 950107,
+    "resultat": 14650,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "SARL DOMAINE MICHEL DUTARTE",
+    "url": "https://www.pappers.fr/entreprise/sarl-domaine-michel-dutarte-388705444",
+    "siren": "388705444",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 616152,
+    "resultat": 134834,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "DOMAINE DE BACCHUS",
+    "url": "https://www.pappers.fr/entreprise/domaine-de-bacchus-812962827",
+    "siren": "812962827",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 585361,
+    "resultat": 6371,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 12,
+    "nom": "SASU LA VALLEE CHANNY",
+    "url": "https://www.pappers.fr/entreprise/sasu-la-vallee-channy-812180347",
+    "siren": "812180347",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 511515,
+    "resultat": 53428,
+    "effectif": "0 salarié"
+   }
+  ]
+ },
+ {
+  "slug": "grenois",
+  "commune": "Grenois",
+  "total_listed": 7,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "MENUISERIE BRADE",
+    "url": "https://www.pappers.fr/entreprise/menuiserie-brade-879790616",
+    "siren": "879790616",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 610897,
+    "resultat": 234482,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "HOLDING VEGEO GROUPE",
+    "url": "https://www.pappers.fr/entreprise/holding-vegeo-groupe-901643510",
+    "siren": "901643510",
+    "activite": "Activités administratives et autres activités de soutien aux entreprises",
+    "ca": 592500,
+    "resultat": 604997,
+    "effectif": "Au moins 1 salarié"
+   }
+  ]
+ },
+ {
+  "slug": "la-chapelle-st-andre",
+  "commune": "La Chapelle-Saint-André",
+  "total_listed": 9,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 8,
+    "nom": "MILLE ET 1 SERVICES",
+    "url": "https://www.pappers.fr/entreprise/mille-et-1-services-480634682",
+    "siren": "480634682",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 610233,
+    "resultat": 21015,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "lanty",
+  "commune": "Lanty",
+  "total_listed": 1,
+  "error": null,
+  "rows": []
+ },
+ {
+  "slug": "luthenay-uxeloup",
+  "commune": "Luthenay-Uxeloup",
+  "total_listed": 7,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "ETABLISSEMENTS GUILBAULT",
+    "url": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702",
+    "siren": "326891702",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 3652317,
+    "resultat": 145902,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SARL C.P.",
+    "url": "https://www.pappers.fr/entreprise/sarl-cp-419212816",
+    "siren": "419212816",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 596757,
+    "resultat": 8269,
+    "effectif": "Entre 1 et 2 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "menestreau",
+  "commune": "Menestreau",
+  "total_listed": 2,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "CHROME AGENCEMENTS",
+    "url": "https://www.pappers.fr/entreprise/chrome-agencements-848870747",
+    "siren": "848870747",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1047874,
+    "resultat": 177195,
+    "effectif": "Au moins 1 salarié"
+   }
+  ]
+ },
+ {
+  "slug": "mont-et-marre",
+  "commune": "Mont-et-Marré",
+  "total_listed": 8,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "BONGARD BAZOT ET FILS",
+    "url": "https://www.pappers.fr/entreprise/bongard-bazot-et-fils-631880408",
+    "siren": "631880408",
+    "activite": "Sylviculture et exploitation forestière",
+    "ca": 25977485,
+    "resultat": 351969,
+    "effectif": "Entre 100 et 199 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "GARAGE DU BAZOIS",
+    "url": "https://www.pappers.fr/entreprise/garage-du-bazois-481303451",
+    "siren": "481303451",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 2136392,
+    "resultat": 58864,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "EURL LBS",
+    "url": "https://www.pappers.fr/entreprise/eurl-lbs-849789680",
+    "siren": "849789680",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 1842229,
+    "resultat": 151270,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "IMS Consulting Europe",
+    "url": "https://www.pappers.fr/entreprise/ims-consulting-europe-851715821",
+    "siren": "851715821",
+    "activite": "Autres activités spécialisées, scientifiques et techniques",
+    "ca": 804088,
+    "resultat": 108261,
+    "effectif": "Entre 1 et 2 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "montreuillon",
+  "commune": "Montreuillon",
+  "total_listed": 24,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "Ets. BUCHEZ",
+    "url": "https://www.pappers.fr/entreprise/ets-buchez-379437387",
+    "siren": "379437387",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 25067595,
+    "resultat": 948310,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SUPERMARCHE DES VAUX D'YONNE",
+    "url": "https://www.pappers.fr/entreprise/supermarche-des-vaux-dyonne-308530690",
+    "siren": "308530690",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 23869639,
+    "resultat": 844964,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "PHARMA DEVELOPPEMENT",
+    "url": "https://www.pappers.fr/entreprise/pharma-developpement-352563084",
+    "siren": "352563084",
+    "activite": "Industrie pharmaceutique",
+    "ca": 12242827,
+    "resultat": 1365670,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "CARRIERES ET MATERIAUX",
+    "url": "https://www.pappers.fr/entreprise/carrieres-et-materiaux-955500194",
+    "siren": "955500194",
+    "activite": "Autres industries extractives",
+    "ca": 8807994,
+    "resultat": 202696,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "PHARMACIE DU PAYS CORBIGEOIS",
+    "url": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310",
+    "siren": "445382310",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 4596437,
+    "resultat": 127123,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "ENTREPRISE VIODE",
+    "url": "https://www.pappers.fr/entreprise/entreprise-viode-339913428",
+    "siren": "339913428",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1425576,
+    "resultat": 45351,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "TRIANON",
+    "url": "https://www.pappers.fr/entreprise/trianon-523433886",
+    "siren": "523433886",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 1015571,
+    "resultat": 70151,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "LAPAIRE N' CO",
+    "url": "https://www.pappers.fr/entreprise/lapaire-n-co-428116826",
+    "siren": "428116826",
+    "activite": "Restauration",
+    "ca": 922248,
+    "resultat": -7600,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 9,
+    "nom": "ENTREPRISE HOUSSIN ET FILS",
+    "url": "https://www.pappers.fr/entreprise/entreprise-houssin-et-fils-400163820",
+    "siren": "400163820",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 890213,
+    "resultat": 39985,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "DE SOUZA FILS",
+    "url": "https://www.pappers.fr/entreprise/de-souza-fils-348765199",
+    "siren": "348765199",
+    "activite": "Autres services personnels",
+    "ca": 873857,
+    "resultat": 20467,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "POMARIA HOTEL",
+    "url": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583",
+    "siren": "497960583",
+    "activite": "Hébergement",
+    "ca": 565144,
+    "resultat": 510999,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "nannay",
+  "commune": "Nannay",
+  "total_listed": 5,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "WATTERLOT VIANDES",
+    "url": "https://www.pappers.fr/entreprise/watterlot-viandes-447789512",
+    "siren": "447789512",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 4939070,
+    "resultat": -249991,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "ELINA",
+    "url": "https://www.pappers.fr/entreprise/elina-324950039",
+    "siren": "324950039",
+    "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+    "ca": 879324,
+    "resultat": 3015900,
+    "effectif": "Au moins 1 salarié"
+   }
+  ]
+ },
+ {
+  "slug": "onlay",
+  "commune": "Onlay",
+  "total_listed": 2,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "TERRINES DU MORVAN",
+    "url": "https://www.pappers.fr/entreprise/terrines-du-morvan-538153586",
+    "siren": "538153586",
+    "activite": "Industries alimentaires",
+    "ca": 2066068,
+    "resultat": 175327,
+    "effectif": "Entre 10 et 19 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "pazy",
+  "commune": "Pazy",
+  "total_listed": 24,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "Ets. BUCHEZ",
+    "url": "https://www.pappers.fr/entreprise/ets-buchez-379437387",
+    "siren": "379437387",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 25067595,
+    "resultat": 948310,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SUPERMARCHE DES VAUX D'YONNE",
+    "url": "https://www.pappers.fr/entreprise/supermarche-des-vaux-dyonne-308530690",
+    "siren": "308530690",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 23869639,
+    "resultat": 844964,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "PHARMA DEVELOPPEMENT",
+    "url": "https://www.pappers.fr/entreprise/pharma-developpement-352563084",
+    "siren": "352563084",
+    "activite": "Industrie pharmaceutique",
+    "ca": 12242827,
+    "resultat": 1365670,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "CARRIERES ET MATERIAUX",
+    "url": "https://www.pappers.fr/entreprise/carrieres-et-materiaux-955500194",
+    "siren": "955500194",
+    "activite": "Autres industries extractives",
+    "ca": 8807994,
+    "resultat": 202696,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "PHARMACIE DU PAYS CORBIGEOIS",
+    "url": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310",
+    "siren": "445382310",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 4596437,
+    "resultat": 127123,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "ENTREPRISE VIODE",
+    "url": "https://www.pappers.fr/entreprise/entreprise-viode-339913428",
+    "siren": "339913428",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1425576,
+    "resultat": 45351,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "TRIANON",
+    "url": "https://www.pappers.fr/entreprise/trianon-523433886",
+    "siren": "523433886",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 1015571,
+    "resultat": 70151,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "LAPAIRE N' CO",
+    "url": "https://www.pappers.fr/entreprise/lapaire-n-co-428116826",
+    "siren": "428116826",
+    "activite": "Restauration",
+    "ca": 922248,
+    "resultat": -7600,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 9,
+    "nom": "ENTREPRISE HOUSSIN ET FILS",
+    "url": "https://www.pappers.fr/entreprise/entreprise-houssin-et-fils-400163820",
+    "siren": "400163820",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 890213,
+    "resultat": 39985,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "DE SOUZA FILS",
+    "url": "https://www.pappers.fr/entreprise/de-souza-fils-348765199",
+    "siren": "348765199",
+    "activite": "Autres services personnels",
+    "ca": 873857,
+    "resultat": 20467,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "POMARIA HOTEL",
+    "url": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583",
+    "siren": "497960583",
+    "activite": "Hébergement",
+    "ca": 565144,
+    "resultat": 510999,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "preporche",
+  "commune": "Préporché",
+  "total_listed": 5,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "LES ETABLISSEMENTS HUGUET",
+    "url": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863",
+    "siren": "393717863",
+    "activite": "Services relatifs aux bâtiments et aménagement paysager",
+    "ca": 4318861,
+    "resultat": 111436,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SARL MAINGAUD FRERES",
+    "url": "https://www.pappers.fr/entreprise/sarl-maingaud-freres-447698069",
+    "siren": "447698069",
+    "activite": "Services relatifs aux bâtiments et aménagement paysager",
+    "ca": 1582486,
+    "resultat": 5627,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "SOCIETE DU CASINO DE SAINT HONORE LES BAINS",
+    "url": "https://www.pappers.fr/entreprise/societe-du-casino-de-saint-honore-les-bains-671880235",
+    "siren": "671880235",
+    "activite": "Organisation de jeux de hasard et d'argent",
+    "ca": 873977,
+    "resultat": 88417,
+    "effectif": "Entre 10 et 19 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "st-andre-en-morvan",
+  "commune": "Saint-André-en-Morvan",
+  "total_listed": 11,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "MALVICHE DISTRIBUTION",
+    "url": "https://www.pappers.fr/entreprise/malviche-distribution-749981304",
+    "siren": "749981304",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 7104082,
+    "resultat": 258512,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "PALEXPRESS",
+    "url": "https://www.pappers.fr/entreprise/palexpress-828037218",
+    "siren": "828037218",
+    "activite": "Entreposage et services auxiliaires des transports",
+    "ca": 1977519,
+    "resultat": 24320,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "TNP",
+    "url": "https://www.pappers.fr/entreprise/tnp-316742527",
+    "siren": "316742527",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 958326,
+    "resultat": 172714,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "SILVAIN ET FILS",
+    "url": "https://www.pappers.fr/entreprise/silvain-et-fils-399782093",
+    "siren": "399782093",
+    "activite": "Entreposage et services auxiliaires des transports",
+    "ca": 893274,
+    "resultat": 117830,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "SARL VOILLOT",
+    "url": "https://www.pappers.fr/entreprise/sarl-voillot-451144380",
+    "siren": "451144380",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 566531,
+    "resultat": 2116,
+    "effectif": "Entre 1 et 2 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "st-firmin-2",
+  "commune": "Saint-Firmin",
+  "total_listed": 26,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 2,
+    "nom": "SAPEM SOCIETE D'APPLICATIONS ELECTRIQUES ET MECANIQUES",
+    "url": "https://www.pappers.fr/entreprise/sapem-societe-dapplications-electriques-et-mecaniques-549879096",
+    "siren": "549879096",
+    "activite": "Fabrication de machines et équipements n.c.a.",
+    "ca": 3467187,
+    "resultat": 305794,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "HYDR'ELEC",
+    "url": "https://www.pappers.fr/entreprise/hydrelec-484649561",
+    "siren": "484649561",
+    "activite": "Captage, traitement et distribution d'eau",
+    "ca": 3032249,
+    "resultat": 218291,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "TECHNO PIEUX SURY",
+    "url": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594",
+    "siren": "533513594",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1704416,
+    "resultat": 123989,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 14,
+    "nom": "DAJAZY",
+    "url": "https://www.pappers.fr/entreprise/dajazy-420237398",
+    "siren": "420237398",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 8716137,
+    "resultat": 103611,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 18,
+    "nom": "SOTEC SOCIETE TARDIVAT ET CHARDONNERET",
+    "url": "https://www.pappers.fr/entreprise/sotec-societe-tardivat-et-chardonneret-491233797",
+    "siren": "491233797",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 546450,
+    "resultat": 72826,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 22,
+    "nom": "TRAVAUX PUBLICS DES AMOGNES (T.P.A.)",
+    "url": "https://www.pappers.fr/entreprise/travaux-publics-des-amognes-tpa-484652227",
+    "siren": "484652227",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1566687,
+    "resultat": 36532,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 24,
+    "nom": "EVERTZ FRANCE CENTRE",
+    "url": "https://www.pappers.fr/entreprise/evertz-france-centre-533201596",
+    "siren": "533201596",
+    "activite": "Métallurgie",
+    "ca": 930805,
+    "resultat": 20739,
+    "effectif": "Entre 1 et 2 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "st-laurent-l-abbaye",
+  "commune": "Saint-Laurent-l'Abbaye",
+  "total_listed": 19,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "SAGET LA PERRIÈRE",
+    "url": "https://www.pappers.fr/entreprise/saget-la-perriere-304890817",
+    "siren": "304890817",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 22038286,
+    "resultat": 1570553,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "DOMAINE DIDIER DAGUENEAU",
+    "url": "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843",
+    "siren": "353323843",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 5297333,
+    "resultat": 1737890,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "MICHEL REDDE ET FILS",
+    "url": "https://www.pappers.fr/entreprise/michel-redde-et-fils-329779284",
+    "siren": "329779284",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 2585496,
+    "resultat": 343224,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "CHATEAU DE TRACY - COMTESSE ALAIN D'ASSAY",
+    "url": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-alain-dassay-382085215",
+    "siren": "382085215",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 2338413,
+    "resultat": 85879,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "SARL PATRICE MOREUX",
+    "url": "https://www.pappers.fr/entreprise/sarl-patrice-moreux-378966931",
+    "siren": "378966931",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 1866124,
+    "resultat": 4693041,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "LE RELAIS DE POUILLY",
+    "url": "https://www.pappers.fr/entreprise/le-relais-de-pouilly-340352939",
+    "siren": "340352939",
+    "activite": "Hébergement",
+    "ca": 1471360,
+    "resultat": 85118,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "BOULANGERIE GAUTHIER",
+    "url": "https://www.pappers.fr/entreprise/boulangerie-gauthier-849322359",
+    "siren": "849322359",
+    "activite": "Industries alimentaires",
+    "ca": 1198670,
+    "resultat": 63960,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "LISPAUL",
+    "url": "https://www.pappers.fr/entreprise/lispaul-878108075",
+    "siren": "878108075",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 1081438,
+    "resultat": 99529,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 9,
+    "nom": "L'ABBATIALE DU TRONCHET",
+    "url": "https://www.pappers.fr/entreprise/labbatiale-du-tronchet-797612009",
+    "siren": "797612009",
+    "activite": "Hébergement",
+    "ca": 950107,
+    "resultat": 14650,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "SARL DOMAINE MICHEL DUTARTE",
+    "url": "https://www.pappers.fr/entreprise/sarl-domaine-michel-dutarte-388705444",
+    "siren": "388705444",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 616152,
+    "resultat": 134834,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "DOMAINE DE BACCHUS",
+    "url": "https://www.pappers.fr/entreprise/domaine-de-bacchus-812962827",
+    "siren": "812962827",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 585361,
+    "resultat": 6371,
+    "effectif": "0 salarié"
+   },
+   {
+    "rang_commune": 12,
+    "nom": "SASU LA VALLEE CHANNY",
+    "url": "https://www.pappers.fr/entreprise/sasu-la-vallee-channy-812180347",
+    "siren": "812180347",
+    "activite": "Culture et production animale, chasse et services annexes",
+    "ca": 511515,
+    "resultat": 53428,
+    "effectif": "0 salarié"
+   }
+  ]
+ },
+ {
+  "slug": "st-ouen-sur-loire",
+  "commune": "Saint-Ouen-sur-Loire",
+  "total_listed": 11,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "Aperam Alloys Imphy",
+    "url": "https://www.pappers.fr/entreprise/aperam-alloys-imphy-440326692",
+    "siren": "440326692",
+    "activite": "Métallurgie",
+    "ca": 887454070,
+    "resultat": 30736319,
+    "effectif": "Entre 500 et 999 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "TCT TORES COMPOSANTS TECHNOLOGIES",
+    "url": "https://www.pappers.fr/entreprise/tct-tores-composants-technologies-428862403",
+    "siren": "428862403",
+    "activite": "Fabrication d'équipements électriques",
+    "ca": 14033416,
+    "resultat": 1562720,
+    "effectif": "Entre 50 et 99 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "ALBEN",
+    "url": "https://www.pappers.fr/entreprise/alben-428223531",
+    "siren": "428223531",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 9246684,
+    "resultat": 71894,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "MA BOUTIQUE VELO",
+    "url": "https://www.pappers.fr/entreprise/ma-boutique-velo-909830408",
+    "siren": "909830408",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 1097299,
+    "resultat": 42054,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "st-saulge",
+  "commune": "Saint-Saulge",
+  "total_listed": 5,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "SAINT SAULGE DISTRIBUTION",
+    "url": "https://www.pappers.fr/entreprise/saint-saulge-distribution-348537135",
+    "siren": "348537135",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 2799786,
+    "resultat": -112486,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "EURL DELBOVE MARCILLAC",
+    "url": "https://www.pappers.fr/entreprise/eurl-delbove-marcillac-514610377",
+    "siren": "514610377",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 1840645,
+    "resultat": 742140,
+    "effectif": "Entre 6 et 9 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "savigny-poil-fol",
+  "commune": "Savigny-Poil-Fol",
+  "total_listed": 17,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "LITHOPRESS",
+    "url": "https://www.pappers.fr/entreprise/lithopress-692007768",
+    "siren": "692007768",
+    "activite": "Imprimerie et reproduction d'enregistrements",
+    "ca": 8092171,
+    "resultat": 445160,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SAS TRANSPORTS MARTIN H et L",
+    "url": "https://www.pappers.fr/entreprise/sas-transports-martin-h-et-l-301503496",
+    "siren": "301503496",
+    "activite": "Transports terrestres et transport par conduites",
+    "ca": 4201441,
+    "resultat": 31119,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "LES FORGES DU MORVAN",
+    "url": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111",
+    "siren": "412264111",
+    "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+    "ca": 3414707,
+    "resultat": 288846,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "SARL CHOROBATE",
+    "url": "https://www.pappers.fr/entreprise/sarl-chorobate-440852895",
+    "siren": "440852895",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1982072,
+    "resultat": 116734,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "SARL LARTEAU",
+    "url": "https://www.pappers.fr/entreprise/sarl-larteau-950379529",
+    "siren": "950379529",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1389050,
+    "resultat": 5526,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "CLAIR PERE ET FILS",
+    "url": "https://www.pappers.fr/entreprise/clair-pere-et-fils-902897073",
+    "siren": "902897073",
+    "activite": "Réparation et installation de machines et d'équipements",
+    "ca": 817627,
+    "resultat": 69428,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "SARL LAMOUREUX ET MAIZIERES",
+    "url": "https://www.pappers.fr/entreprise/sarl-lamoureux-et-maizieres-835401936",
+    "siren": "835401936",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 790997,
+    "resultat": 54754,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "SAS Domaine de la Gagère",
+    "url": "https://www.pappers.fr/entreprise/sas-domaine-de-la-gagere-408482636",
+    "siren": "408482636",
+    "activite": "Hébergement",
+    "ca": 663662,
+    "resultat": 111496,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "taconnay",
+  "commune": "Taconnay",
+  "total_listed": 7,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "MENUISERIE BRADE",
+    "url": "https://www.pappers.fr/entreprise/menuiserie-brade-879790616",
+    "siren": "879790616",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 610897,
+    "resultat": 234482,
+    "effectif": "Entre 3 et 5 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "HOLDING VEGEO GROUPE",
+    "url": "https://www.pappers.fr/entreprise/holding-vegeo-groupe-901643510",
+    "siren": "901643510",
+    "activite": "Activités administratives et autres activités de soutien aux entreprises",
+    "ca": 592500,
+    "resultat": 604997,
+    "effectif": "Au moins 1 salarié"
+   }
+  ]
+ },
+ {
+  "slug": "tintury",
+  "commune": "Tintury",
+  "total_listed": 8,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "BONGARD BAZOT ET FILS",
+    "url": "https://www.pappers.fr/entreprise/bongard-bazot-et-fils-631880408",
+    "siren": "631880408",
+    "activite": "Sylviculture et exploitation forestière",
+    "ca": 25977485,
+    "resultat": 351969,
+    "effectif": "Entre 100 et 199 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "GARAGE DU BAZOIS",
+    "url": "https://www.pappers.fr/entreprise/garage-du-bazois-481303451",
+    "siren": "481303451",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 2136392,
+    "resultat": 58864,
+    "effectif": "Entre 6 et 9 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "EURL LBS",
+    "url": "https://www.pappers.fr/entreprise/eurl-lbs-849789680",
+    "siren": "849789680",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 1842229,
+    "resultat": 151270,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "IMS Consulting Europe",
+    "url": "https://www.pappers.fr/entreprise/ims-consulting-europe-851715821",
+    "siren": "851715821",
+    "activite": "Autres activités spécialisées, scientifiques et techniques",
+    "ca": 804088,
+    "resultat": 108261,
+    "effectif": "Entre 1 et 2 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "vandenesse",
+  "commune": "Vandenesse",
+  "total_listed": 2,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "S.I.C.A.F.O.M.E. STE COOPERATIVE D'INTERET COLLECTIF AGRICOLE ANONYME DE LA FOIRE ORGANISEE DES MARCHES DE MOULINS-ENGILBERT",
+    "url": "https://www.pappers.fr/entreprise/sicafome-ste-cooperative-dinteret-collectif-agricole-anonyme-de-la-foire-organisee-des-marches-de-moulins-engilbert-321675712",
+    "siren": "321675712",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 1829624,
+    "resultat": 165601,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "",
+    "url": "https://www.pappers.fr/entreprise/383063369",
+    "siren": "383063369",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 1035191,
+    "resultat": 58987,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ },
+ {
+  "slug": "ville-langy",
+  "commune": "Ville-Langy",
+  "total_listed": 11,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "DAJAZY",
+    "url": "https://www.pappers.fr/entreprise/dajazy-420237398",
+    "siren": "420237398",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 8716137,
+    "resultat": 103611,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 2,
+    "nom": "SAPEM SOCIETE D'APPLICATIONS ELECTRIQUES ET MECANIQUES",
+    "url": "https://www.pappers.fr/entreprise/sapem-societe-dapplications-electriques-et-mecaniques-549879096",
+    "siren": "549879096",
+    "activite": "Fabrication de machines et équipements n.c.a.",
+    "ca": 3467187,
+    "resultat": 305794,
+    "effectif": "Entre 20 et 49 salariés"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "HYDR'ELEC",
+    "url": "https://www.pappers.fr/entreprise/hydrelec-484649561",
+    "siren": "484649561",
+    "activite": "Captage, traitement et distribution d'eau",
+    "ca": 3032249,
+    "resultat": 218291,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 4,
+    "nom": "TECHNO PIEUX SURY",
+    "url": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594",
+    "siren": "533513594",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1704416,
+    "resultat": 123989,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "TRAVAUX PUBLICS DES AMOGNES (T.P.A.)",
+    "url": "https://www.pappers.fr/entreprise/travaux-publics-des-amognes-tpa-484652227",
+    "siren": "484652227",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 1566687,
+    "resultat": 36532,
+    "effectif": "Entre 10 et 19 salariés"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "EVERTZ FRANCE CENTRE",
+    "url": "https://www.pappers.fr/entreprise/evertz-france-centre-533201596",
+    "siren": "533201596",
+    "activite": "Métallurgie",
+    "ca": 930805,
+    "resultat": 20739,
+    "effectif": "Entre 1 et 2 salariés"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "SOTEC SOCIETE TARDIVAT ET CHARDONNERET",
+    "url": "https://www.pappers.fr/entreprise/sotec-societe-tardivat-et-chardonneret-491233797",
+    "siren": "491233797",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 546450,
+    "resultat": 72826,
+    "effectif": "Entre 3 et 5 salariés"
+   }
+  ]
+ }
+]

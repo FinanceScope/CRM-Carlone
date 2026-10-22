@@ -1,0 +1,636 @@
+[
+  {
+    "id": "d01",
+    "nom": "Vincent Péraro",
+    "type": "Artiste",
+    "discipline": "sculpture",
+    "ville": "Vinon",
+    "code_postal": "18300",
+    "distance_cosne_km": 25,
+    "description": "Sculpteur né en 1963 à Paris, diplômé des Beaux-Arts de Paris (atelier d'Isabelle Waldberg, 1989), qui vit et travaille dans une ancienne ferme du Sancerrois (atelier ouvert à Vinon en 2026). Son travail explore la présence des formes dans l'espace et l'empreinte comme première forme de sculpture (surface, translucidité, densité, poids). Lauréat des prix Pierre Cardin (1993), Antoine Bourdelle (2000) et du prix de sculpture de la Fondation Simone et Cino Del Duca (Académie des beaux-arts, 2020), il a exposé en Allemagne, aux États-Unis, en Italie et au Japon.",
+    "evenements_existants": "Atelier ouvert à Vinon pour le festival AR(t]CHIPEL (Région Centre-Val de Loire et Centre Pompidou), 23–25 oct. 2026 ; quatre œuvres invitées par AR(t]CHIPEL dans le parc d'un château à Azay-le-Rideau, 27 sept. – 2 nov. 2025.",
+    "idee_evenement": "Lui proposer une exposition de sculptures de moyen format et de maquettes, avec une pièce installée en extérieur et une rencontre publique « sculpter l'empreinte » animée par l'artiste.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://museesorleans.fr/wp-content/uploads/2026/08/DP-artchipel-V11_web-27-07.pdf",
+      "https://www.academiedesbeauxarts.fr/sites/default/files/inline-files/communique-de-presse-laureat-prix-de-sculpture-fondation-simone-et-cino-del-duca-2020.pdf",
+      "https://www.loirebybike.co.uk/tsft/exposition-pour-le-festival-artchipel-par-vincent-peraro-azay-le-rideau-27-09-2025-02-11-2025-en"
+    ]
+  },
+  {
+    "id": "d02",
+    "nom": "Roland Schär",
+    "type": "Artiste",
+    "discipline": "peinture, céramique, art textile",
+    "ville": "Vailly-sur-Sauldre",
+    "code_postal": "18260",
+    "distance_cosne_km": 28,
+    "description": "Plasticien et designer né à Zurich, formé à l'histoire de l'art (Zurich, Paris) et à la peinture (Toulouse), qui a enseigné à l'École nationale supérieure des Arts décoratifs de Paris à partir de 2007 et y a dirigé le département textile (présentation non datée de la maison ZigZagZurich). Installé à Vailly-sur-Sauldre, il y travaille la peinture et la céramique ; son œuvre puise dans les paysages, les matériaux naturels, les formes organiques et les géométries, et a été exposée en France et à l'étranger.",
+    "evenements_existants": "Exposition personnelle au bar-restaurant Le Cerf (23 Grande Rue, Vailly-sur-Sauldre), 31 août – 24 oct. 2026 ; atelier ouvert pour le festival AR(t]CHIPEL, 23–25 oct. 2026 ; collection textile avec la maison zurichoise ZigZagZurich.",
+    "idee_evenement": "Monter un accrochage de deux mois associant toiles, céramiques et pièces textiles, avec un atelier public d'impression de motifs textiles (tampons, pochoirs) animé par l'artiste.",
+    "contact": {
+      "site": "http://www.roland-schar.com/",
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": "https://www.instagram.com/rolandschar/",
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.jds.fr/aubigny-sur-nere/expos/exposition-roland-schar-1581783_A",
+      "https://museesorleans.fr/wp-content/uploads/2026/08/DP-artchipel-V11_web-27-07.pdf",
+      "https://zigzagzurich.com/blogs/news/roland-schar-x-zigzagzurich"
+    ]
+  },
+  {
+    "id": "d03",
+    "nom": "Christophe Nancey",
+    "type": "Artiste",
+    "discipline": "sculpture sur bois (tournage, incrustation d'étain)",
+    "ville": "Entrains-sur-Nohain",
+    "code_postal": "58410",
+    "distance_cosne_km": 36,
+    "description": "Sculpteur sur bois autodidacte né en 1961, en atelier depuis 1984 et enseignant depuis 1995, installé au Château du Bois à Entrains-sur-Nohain (le domaine qui abrite aussi La Tempéra). Il tourne, incruste et sculpte le bois ; sa signature est l'incrustation d'étain qui souligne fentes et défauts naturels, dont il a tiré une technique de mosaïque. Il est référencé dans le guide international des métiers d'art Homo Faber (fondation Michelangelo) et accueille stages et résidences.",
+    "evenements_existants": "Exposition « Jardins secrets, jardins sacrés », salle gothique de Vézelay, 8–20 sept. 2026 ; Portes ouvertes des ateliers d'artistes en Nièvre, 26–27 oct. 2024.",
+    "idee_evenement": "Exposer une série de bois tournés incrustés d'étain et installer un tour à bois pour une démonstration en direct le soir du vernissage, suivie d'un échange sur la façon dont un défaut du bois devient une œuvre.",
+    "contact": {
+      "site": "https://www.atelier-nancey.com/",
+      "email": "atelier.nancey@orange.fr",
+      "telephone": "06 07 04 65 60",
+      "facebook": null,
+      "instagram": "https://www.instagram.com/nanceychristophe_sculpture",
+      "adresse": "2 impasse du Château d'Eau, Château du Bois, 58410 Entrains-sur-Nohain (visites sur rendez-vous)"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.homofaber.com/en/artisans/christophe-nancey-wood-sculpting-france",
+      "https://www.atelier-nancey.com/",
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-dartistes-en-nievre-christophe-nancey/"
+    ]
+  },
+  {
+    "id": "d04",
+    "nom": "Rozenn Bigot",
+    "type": "Artiste",
+    "discipline": "céramique (pièces émaillées)",
+    "ville": "Beaulieu-sur-Loire (atelier à Maimbray)",
+    "code_postal": "45630",
+    "distance_cosne_km": 25,
+    "description": "Céramiste qui crée des pièces émaillées à partir de matières minérales et métalliques en explorant les phénomènes naturels (forme, matière, couleur, texture) et en acceptant la part d'imprévu de la cuisson ; chaque pièce est pensée comme un objet d'art pour le quotidien. Elle travaille dans son atelier de Maimbray (Beaulieu-sur-Loire, sur rendez-vous), vend à la boutique KESAKO de Saint-Amand-en-Puisaye et donne des cours d'initiation et de perfectionnement.",
+    "evenements_existants": "Référencée en 2026 parmi les métiers d'art de Puisaye-Forterre (expositions temporaires, ateliers adultes et boutique annoncés, sans dates) ; boutique KESAKO ouverte le vendredi et le samedi hors saison, tous les jours en haute saison.",
+    "idee_evenement": "Organiser une exposition-vente de ses céramiques avec une séance d'initiation au modelage de petits bols, émaillés et cuits par l'artiste puis rendus aux participants lors d'une seconde soirée.",
+    "contact": {
+      "site": "https://www.rozenn-bigot.com/",
+      "email": "bigotrozenn@gmail.com",
+      "telephone": "06 63 11 08 65",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Atelier : 1 chemin du Lavoir, Maimbray, 45630 Beaulieu-sur-Loire (sur rendez-vous) ; boutique KESAKO : 50 Grande Rue, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.rozenn-bigot.com/",
+      "https://www.puisaye-tourisme.fr/en/artisanat/rozenn-bigot-artiste-ceramiste/",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/metiers-dart/"
+    ]
+  },
+  {
+    "id": "d05",
+    "nom": "Franck Lundangi",
+    "type": "Artiste",
+    "discipline": "peinture, dessin, sculpture (bois flotté)",
+    "ville": "Briare",
+    "code_postal": "45250",
+    "distance_cosne_km": 37,
+    "description": "Peintre, dessinateur et sculpteur né en 1958 en Angola, arrivé en France en 1990, qui vit et travaille à Briare. Il peint une Afrique rêvée peuplée de figures anthropomorphes et zoomorphes aux corps transparents (aquarelles, dessins, gravures, peintures riches en pigments) et sculpte de petites pièces en bois flotté ramassé au bord de la Loire. Il a exposé à la galerie Anne de Villepoix (Paris), chez Cavin-Morris (New York) et au château de Trousse-Barrière à Briare (2004 et 2013).",
+    "evenements_existants": "Atelier ouvert à Briare pour le festival AR(t]CHIPEL, 20–22 nov. 2026 ; exposition collective « Supra Nature », galerie Anne de Villepoix (Paris), 2023 ; exposition personnelle dans la même galerie en 2021.",
+    "idee_evenement": "Exposer aquarelles, dessins et sculptures en bois flotté de Loire, et organiser un atelier familial de petites figures en bois flotté ramassé sur les quais de Cosne.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://cavinmorris.com/s/Lundangi-Franck-CV-5bte.pdf",
+      "https://static1.squarespace.com/static/539c7a05e4b0f115ca935b6f/t/64c2bc213391214978463e54/1690483745465/Lundangi%2C+Franck+CV.pdf",
+      "https://artais-artcontemporain.org/frank-lundangi-un-artiste-hors-du-temps/",
+      "https://artsper.com/lt/contemporary-artists/angola/1648/franck-lundangi",
+      "https://museesorleans.fr/wp-content/uploads/2026/08/DP-artchipel-V11_web-27-07.pdf"
+    ]
+  },
+  {
+    "id": "d06",
+    "nom": "Atelier Vitrail de Puisaye",
+    "type": "Artisan d'art",
+    "discipline": "vitrail, verre (plomb, Tiffany, fusing, peinture sur verre)",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Atelier d'artisan vitrailliste de la Grande Rue de Saint-Amand-en-Puisaye qui crée et restaure des vitraux (au plomb, Tiffany, fusing, peinture sur verre), fabrique des objets comme des lampes Tiffany et propose des stages d'initiation. Il a notamment réalisé un chantier de vitraux pour l'église de Montcorbon ; le nom du ou des vitraillistes n'est pas publié.",
+    "evenements_existants": "Stages d'initiation au vitrail annoncés sur la page « Événements » du site ; référencé en 2026 par l'office de tourisme Puisaye-Forterre (ateliers adultes et boutique).",
+    "idee_evenement": "Programmer une initiation au fusing (petits attrape-soleil en verre) pendant l'exposition et installer quelques panneaux de vitrail en vitrine pour jouer avec la lumière de la salle.",
+    "contact": {
+      "site": "https://www.vitrail-puisaye.fr/",
+      "email": null,
+      "telephone": "03 45 50 99 77",
+      "facebook": "https://www.facebook.com/people/Atelier-Vitrail-de-Puisaye/100090167898152/",
+      "instagram": "https://www.instagram.com/vitrail_puisaye",
+      "adresse": "Atelier n°2, 17 Grande Rue, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/vitrail-de-puisaye/",
+      "https://www.vitrail-puisaye.fr/",
+      "https://www.vitrail-puisaye.fr/contact",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/metiers-dart/"
+    ]
+  },
+  {
+    "id": "d07",
+    "nom": "Les Créacteurs en Puisaye",
+    "type": "Collectif d'artistes",
+    "discipline": "pluridisciplinaire (peinture, sculpture, céramique, photographie, illustration, vidéo, art textile)",
+    "ville": "Saint-Sauveur-en-Puisaye",
+    "code_postal": "89520",
+    "distance_cosne_km": 42,
+    "description": "Association d'artistes vivant en Puisaye-Forterre (peintres, sculpteurs, céramistes, photographes, auteurs, illustrateurs, vidéastes) qui anime depuis vingt ans une galerie-boutique rue de la Roche à Saint-Sauveur-en-Puisaye, avec l'espace d'exposition « L'Épicerie ». Elle organise « L'Art dans les cours et jardins » dans les rues du bourg, des ateliers d'été « découverte d'une matière » et des expositions d'artistes invités.",
+    "evenements_existants": "Ateliers d'été, 8 juil. – 16 août 2026 ; « Grands formats » (peinture, sculpture, art textile), 19–30 août 2026 ; « Diversidad » de Luis Pasina (peintures, sculptures, installations), 12 sept. – 24 oct. 2026 ; « Les 20 ans des Créacteurs », exposition surprise du 28 sept. au 31 oct. 2026, vernissage le 30 oct. à 18 h.",
+    "idee_evenement": "Accueillir une exposition collective « hors les murs » de cinq à huit membres (peinture, photographie, illustration, céramique), avec un atelier « découverte d'une matière » animé par l'un d'eux le jour du vernissage.",
+    "contact": {
+      "site": "https://www.helloasso.com/associations/les-creacteurs-en-puisaye",
+      "email": "creacteurs.contacts@gmail.com",
+      "telephone": null,
+      "facebook": "https://www.facebook.com/Creacteurs",
+      "instagram": null,
+      "adresse": "6 rue de la Roche, 89520 Saint-Sauveur-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/les-creacteurs-en-puisaye/",
+      "https://www.puisaye-tourisme.fr/en/agenda/les-20-ans-des-creacteurs/",
+      "https://www.puisaye-tourisme.fr/en/agenda/exposition-de-luis-pasina-diversidad/",
+      "https://www.jds.fr/expos/grands-formats-1636565_A",
+      "https://www.helloasso.com/associations/les-creacteurs-en-puisaye/evenements/les-ateliers-d-ete-2026"
+    ]
+  },
+  {
+    "id": "d08",
+    "nom": "Eric Astoul",
+    "type": "Artiste",
+    "discipline": "céramique (grès cuit au bois, sculpture)",
+    "ville": "Henrichemont (La Borne)",
+    "code_postal": "18250",
+    "distance_cosne_km": 45,
+    "description": "Céramiste né en 1954 au Maroc, autodidacte, installé depuis 1982 au village potier de La Borne, où il vit et travaille entre son atelier et son four à bois de type anagama, dans lequel il cuit ses grès environ huit jours. Ses sculptures et vases aux surfaces très texturées figurent dans les collections du musée national de céramique de Sèvres, du musée national Adrien-Dubouché (Limoges) et de musées allemands (Frechen, Munich) ; il est représenté à New York par la galerie Maison Gerard.",
+    "evenements_existants": "The Winter Show (Park Avenue Armory, New York) avec Maison Gerard, 20–29 janv. 2023 ; atelier ouvert à des étudiants céramistes de l'école Duperré (2022). Aucune exposition locale datée de 2024–2026 trouvée.",
+    "idee_evenement": "Présenter quelques grès cuits en anagama avec la projection d'un film sur une cuisson à La Borne, programmée juste après les Grands Feux d'octobre.",
+    "contact": {
+      "site": "https://maisongerard.com/designers-artists/eric-astoul",
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "La Borne, 18250 Henrichemont"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://maisongerard.com/designers-artists/eric-astoul",
+      "https://jpo2022.duperre.org/dnmadeceramique/LABORNE.pdf"
+    ]
+  },
+  {
+    "id": "d09",
+    "nom": "Bernard Thimonnier",
+    "type": "Artiste",
+    "discipline": "sculpture, céramique",
+    "ville": "Subligny",
+    "code_postal": "18260",
+    "distance_cosne_km": 27,
+    "description": "Sculpteur dont des sculptures céramiques figuratives et murales réalisées à La Borne vers 1980 circulent aujourd'hui sur le marché de l'art ; il a son atelier à Subligny, dans le Pays Fort, entre Sancerre et Vailly-sur-Sauldre. Il fait partie des seize ateliers du Cher retenus par le festival AR(t]CHIPEL 2026 ; aucun site personnel n'a été trouvé.",
+    "evenements_existants": "Atelier ouvert à Subligny pour le festival AR(t]CHIPEL, 23–25 oct. 2026.",
+    "idee_evenement": "Le rencontrer pendant les portes ouvertes AR(t]CHIPEL pour monter une petite rétrospective (des céramiques de La Borne des années 1980 aux sculptures récentes) avec une causerie sur l'histoire du village potier.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://museesorleans.fr/wp-content/uploads/2026/08/DP-artchipel-V11_web-27-07.pdf",
+      "https://www.1stdibs.com/furniture/decorative-objects/sculptures/figurative-sculptures/musician-brown-ceramic-sculptur-circa-1980-realised-thimonnier-la-borne/id-f_27912022"
+    ]
+  },
+  {
+    "id": "d10",
+    "nom": "Charles-Henri Guiéba",
+    "type": "Artiste",
+    "discipline": "céramique, sculpture animalière (grès, porcelaine, cuisson anagama)",
+    "ville": "Treigny-Perreuse-Sainte-Colombe",
+    "code_postal": "89520",
+    "distance_cosne_km": 38,
+    "description": "Céramiste installé rue des Potiers à Treigny, qui crée des pièces uniques en grès et en porcelaine cuites dans un four à bois de type anagama : sculptures animalières, personnages, vaisselle. Ancien membre du collectif du Couvent de Treigny, il donne des cours de sculpture (débutants et confirmés, sur rendez-vous) et présente des expositions temporaires dans son atelier-galerie.",
+    "evenements_existants": "Son atelier était une étape de la randonnée organisée pour les 20 ans du Couvent de Treigny, le 5 sept. 2026 (vernissage de l'exposition « Nous ») ; atelier-galerie annoncé ouvert toute l'année par l'office de tourisme (horaires à confirmer).",
+    "idee_evenement": "Mettre en scène un petit bestiaire en grès dans la salle et proposer aux enfants un atelier de modelage d'animaux un mercredi après-midi.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "7 rue des Potiers, 89520 Treigny-Perreuse-Sainte-Colombe"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/charles-henri-guieba/",
+      "https://commune-mairie.fr/evenement-culturel/expo-nous-1434403285",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/metiers-dart/"
+    ]
+  },
+  {
+    "id": "d11",
+    "nom": "La Pas Potière (Diana Hajdu)",
+    "type": "Artisan d'art",
+    "discipline": "céramique architecturale (carreaux, épis de faîtage, gargouilles)",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Atelier de céramique architecturale (carreaux de pavement en terre de carrière de Saint-Amand, épis de faîtage, chatières, gargouilles, gouttières) créé par une céramiste passée par le chantier médiéval de Guédelon (1998–2008) puis formée à l'EMA-CNIFOP. Installé dans l'ancienne usine Mallet avec les Ateliers de la Fabrique, route de Cosne, il propose aussi des stages pour particuliers et scolaires ; le site affiche le nom de Diana Hajdu.",
+    "evenements_existants": "Lauréate 2025 du concours Ateliers d'Art de France, catégorie Patrimoine, pour la région Bourgogne-Franche-Comté (pavement de la Maison du Chanoine à Treigny) ; lauréate régionale en 2021.",
+    "idee_evenement": "Créer avec le public, lors d'un stage, un panneau de carreaux décorés aux motifs de la Loire et l'exposer comme œuvre collective pendant toute la durée de l'exposition.",
+    "contact": {
+      "site": "https://www.lapaspotiere.com/",
+      "email": "lapaspotiere@hotmail.fr",
+      "telephone": "03 86 26 22 78 / 07 88 64 63 40",
+      "facebook": null,
+      "instagram": "https://www.instagram.com/la.pas.potiere",
+      "adresse": "Les Ateliers de la Fabrique, 86 route de Cosne, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.lapaspotiere.com/",
+      "https://www.puisaye-tourisme.fr/en/artisanat/la-pas-potiere/"
+    ]
+  },
+  {
+    "id": "d12",
+    "nom": "Fanny Le Yaouanq",
+    "type": "Artisan d'art",
+    "discipline": "céramique, poterie",
+    "ville": "Dampierre-sous-Bouhy",
+    "code_postal": "58310",
+    "distance_cosne_km": 32,
+    "description": "Céramiste installée au lieu-dit Les Sablons à Dampierre-sous-Bouhy, en Puisaye nivernaise, qui produit et vend une poterie artisanale. Elle est référencée comme artiste dans la liste des métiers d'art de l'office de tourisme Puisaye-Forterre, et sa page Facebook lui sert de vitrine.",
+    "evenements_existants": null,
+    "idee_evenement": "Lui commander une petite série de tasses et d'assiettes utilisées au service pendant l'exposition puis vendues à la fin, avec une démonstration de tournage au vernissage.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": "https://www.facebook.com/profile.php?id=100057444219719",
+      "instagram": null,
+      "adresse": "Lieu-dit Les Sablons, 58310 Dampierre-sous-Bouhy"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/fanny-le-yaouanq-ceramique/",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/metiers-dart/"
+    ]
+  },
+  {
+    "id": "d13",
+    "nom": "Sylvie Ayel",
+    "type": "Artisan d'art",
+    "discipline": "céramique",
+    "ville": "Saint-Vérain",
+    "code_postal": "58310",
+    "distance_cosne_km": 20,
+    "description": "Céramiste installée à Saint-Vérain, venue pleinement à la terre après une longue carrière d'enseignante, pendant laquelle elle animait aussi des ateliers poterie pour des foyers ruraux et des associations. Son travail s'inspire de la nature (formes, couleurs, textures, géométries) ; elle n'a ni site ni réseau social public, le contact passe par le formulaire de l'office de tourisme Puisaye-Forterre.",
+    "evenements_existants": null,
+    "idee_evenement": "Exposer ses pièces inspirées du végétal et animer un atelier d'empreintes de plantes des bords de Loire dans l'argile, en s'appuyant sur son expérience d'animatrice.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "2 rue de l'Étang, 58310 Saint-Vérain"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/sylvie-ayel/",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/potiers-et-ceramiques/"
+    ]
+  },
+  {
+    "id": "d14",
+    "nom": "Jo Poard-Severini",
+    "type": "Artiste",
+    "discipline": "peinture, céramique (faïence peinte)",
+    "ville": "Saint-Fargeau",
+    "code_postal": "89170",
+    "distance_cosne_km": 44,
+    "description": "Atelier de peinture et de céramique de Jo Poard-Severini, au cœur de Saint-Fargeau : après une formation au raku et aux émaux de cendres, l'artiste travaille surtout la faïence émaillée aux couleurs vives, chaque pièce étant façonnée et peinte à la main. Des décors personnalisés sont réalisés sur commande ; accueil en français et en anglais.",
+    "evenements_existants": null,
+    "idee_evenement": "Présenter ensemble peintures et faïences peintes, avec une série d'assiettes illustrées sur le thème de la Loire commandée pour l'exposition et dévoilée au vernissage.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": "https://www.facebook.com/joseverinipeintreetceramiste",
+      "instagram": null,
+      "adresse": "7 place du Maréchal-de-Lattre-de-Tassigny, 89170 Saint-Fargeau"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/jo-poard-severini/",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/potiers-et-ceramiques/page/2/"
+    ]
+  },
+  {
+    "id": "d15",
+    "nom": "Fabienne Bol-Mercky & Frank Mercky",
+    "type": "Artiste",
+    "discipline": "mosaïque (émaux de Briare), sculpture métal (art récup)",
+    "ville": "Saint-Sauveur-en-Puisaye",
+    "code_postal": "89520",
+    "distance_cosne_km": 42,
+    "description": "Couple d'artistes installé à La Poèterie, village d'artistes de Saint-Sauveur-en-Puisaye : Fabienne Bol-Mercky réalise des mosaïques en émaux de Briare, Frank Mercky (aussi écrit Franck) est ferronnier et sculpteur « art récup » à partir de matériaux de récupération. Aucun site personnel n'a été trouvé ; l'office de tourisme Puisaye-Forterre consacre un portrait à Fabienne.",
+    "evenements_existants": "Frank Mercky : exposition « Sculptures au jardin » avec Jacques Canonici et Marie-Noëlle Noury, jardin du musée Pierre Merlier (Escolives-Sainte-Camille, Yonne), 27 juin – 2 nov. 2026.",
+    "idee_evenement": "Proposer une exposition en duo « émaux et ferraille » (mosaïques face aux sculptures de récupération), complétée par un atelier mosaïque d'une demi-journée en émaux de Briare.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "La Poèterie, 89520 Saint-Sauveur-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/destination/vivre-en-puisaye/portraits-de-gens-dici/fabienne/",
+      "https://commune-mairie.fr/evenement-culturel/exposition-sculptures-au-jardin-89020-dd35a1deb3"
+    ]
+  },
+  {
+    "id": "d16",
+    "nom": "Sophie Bonnet – Atelier So Bo",
+    "type": "Artisan d'art",
+    "discipline": "art textile (laine feutrée : bijoux, objets-sculptures)",
+    "ville": "Saint-Fargeau",
+    "code_postal": "89170",
+    "distance_cosne_km": 44,
+    "description": "Artiste textile qui crée des bijoux et des objets-sculptures en laine mérinos feutrée à l'aiguille, dans son atelier du lieu-dit Les Rivets à Saint-Fargeau (visites sur rendez-vous). Elle est référencée en 2026 parmi les métiers d'art de Puisaye-Forterre ; les expositions listées sur son site s'arrêtent en 2014, son activité récente reste à vérifier.",
+    "evenements_existants": "Expositions listées sur son site de 2007 à 2014 ; rien de daté trouvé pour 2024–2026.",
+    "idee_evenement": "Présenter ses objets-sculptures en laine dans une vitrine dédiée et proposer un atelier de feutrage à l'aiguille pour adultes un samedi après-midi.",
+    "contact": {
+      "site": "https://www.sobo-creation.com/",
+      "email": "sobo.crea@gmail.com",
+      "telephone": "03 86 74 16 28",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Les Rivets, 89170 Saint-Fargeau (sur rendez-vous)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/sobo/",
+      "https://www.sobo-creation.com/index.html",
+      "https://www.sobo-creation.com/nous_contacter.html",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/metiers-dart/page/2/"
+    ]
+  },
+  {
+    "id": "d17",
+    "nom": "Natasha Morley",
+    "type": "Artiste",
+    "discipline": "photographie (portrait, métiers d'art)",
+    "ville": "non précisée (exposée à Saint-Sauveur-en-Puisaye)",
+    "code_postal": null,
+    "distance_cosne_km": null,
+    "description": "Photographe qui documente les métiers d'art et les jeunes artisans perpétuant des techniques séculaires, avec une recherche de « justesse et de simplicité » centrée sur la présence et l'émotion. Sa série « Timeless Trades » est exposée en 2026 au musée Colette de Saint-Sauveur-en-Puisaye ; ni son lieu de résidence ni ses coordonnées ne sont publiés (contact via le musée).",
+    "evenements_existants": "« Timeless Trades. Métiers d'avenir et d'autrefois », musée Colette, Saint-Sauveur-en-Puisaye, 23 mai – 1er nov. 2026.",
+    "idee_evenement": "Accrocher une sélection de « Timeless Trades » complétée par quelques portraits d'artisans du Cosnois réalisés pour l'occasion, avec une rencontre entre la photographe et les artisans photographiés au vernissage.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": "03 86 45 61 95 (musée Colette, lieu d'exposition)",
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/agenda/exposition-timeless-trades-metiers-davenir-et-dautrefois/",
+      "https://commune-mairie.fr/evenement-culturel/exposition-timeless-trades-metiers-davenir-et-dautrefois-38946d93b4"
+    ]
+  },
+  {
+    "id": "d18",
+    "nom": "Nicole Courtois",
+    "type": "Artiste",
+    "discipline": "sculpture",
+    "ville": "Henrichemont",
+    "code_postal": "18250",
+    "distance_cosne_km": 45,
+    "description": "Sculptrice dont l'atelier est à Henrichemont (Cher), la commune qui englobe le village potier de La Borne. Elle figure parmi les seize ateliers du Cher ouverts par le festival AR(t]CHIPEL (Région Centre-Val de Loire et Centre Pompidou) en 2026 ; aucune page professionnelle (site, réseaux) n'a été trouvée.",
+    "evenements_existants": "Atelier ouvert à Henrichemont pour le festival AR(t]CHIPEL, 23–25 oct. 2026.",
+    "idee_evenement": "Visiter son atelier pendant le week-end AR(t]CHIPEL puis lui proposer une petite exposition de sculptures accompagnée d'une rencontre publique.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://museesorleans.fr/wp-content/uploads/2026/08/DP-artchipel-V11_web-27-07.pdf"
+    ]
+  },
+  {
+    "id": "d19",
+    "nom": "Daniel Bambagioni",
+    "type": "Artiste",
+    "discipline": "peinture, gravure, dessin",
+    "ville": "Henrichemont",
+    "code_postal": "18250",
+    "distance_cosne_km": 45,
+    "description": "Peintre, graveur et dessinateur installé à Henrichemont (Cher), retenu parmi les seize ateliers du Cher ouverts par le festival AR(t]CHIPEL en octobre 2026. Aucune page professionnelle n'a été trouvée ; à rencontrer lors de ces portes ouvertes.",
+    "evenements_existants": "Atelier ouvert à Henrichemont pour le festival AR(t]CHIPEL, 23–25 oct. 2026.",
+    "idee_evenement": "Exposer gravures et dessins avec une démonstration de tirage sur presse et une petite édition d'estampes vendues à prix accessible.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://museesorleans.fr/wp-content/uploads/2026/08/DP-artchipel-V11_web-27-07.pdf"
+    ]
+  },
+  {
+    "id": "d20",
+    "nom": "Emilie Breux",
+    "type": "Artiste",
+    "discipline": "arts plastiques",
+    "ville": "Villegenon",
+    "code_postal": "18260",
+    "distance_cosne_km": 34,
+    "description": "Plasticienne installée à Villegenon, dans le Pays Fort (Cher), retenue parmi les seize ateliers du Cher ouverts par le festival AR(t]CHIPEL en octobre 2026. Aucune page professionnelle n'a été trouvée : la nature de son travail est à découvrir lors de la visite d'atelier.",
+    "evenements_existants": "Atelier ouvert à Villegenon pour le festival AR(t]CHIPEL, 23–25 oct. 2026.",
+    "idee_evenement": "Après une visite d'atelier, lui confier une carte blanche (installation ou accrochage court) conçue pour l'espace du lieu.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://museesorleans.fr/wp-content/uploads/2026/08/DP-artchipel-V11_web-27-07.pdf"
+    ]
+  },
+  {
+    "id": "d21",
+    "nom": "François Kénési",
+    "type": "Artiste",
+    "discipline": "arts plastiques",
+    "ville": "Briare",
+    "code_postal": "45250",
+    "distance_cosne_km": 37,
+    "description": "Plasticien installé à Briare, retenu parmi les ateliers du Loiret ouverts par le festival AR(t]CHIPEL 2026, aux côtés de Franck Lundangi. Aucune page professionnelle n'a été trouvée (nom écrit « Kénési » ou « Kenesi » selon les pages du dossier de presse).",
+    "evenements_existants": "Atelier ouvert à Briare pour le festival AR(t]CHIPEL, 20–22 nov. 2026.",
+    "idee_evenement": "Profiter des portes ouvertes de Briare pour rencontrer les deux artistes briarois et imaginer une exposition en duo avec Franck Lundangi.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://museesorleans.fr/wp-content/uploads/2026/08/DP-artchipel-V11_web-27-07.pdf"
+    ]
+  },
+  {
+    "id": "d22",
+    "nom": "Collectif Crescendo",
+    "type": "Collectif d'artistes",
+    "discipline": "peinture, photographie, littérature",
+    "ville": "Entrains-sur-Nohain",
+    "code_postal": "58410",
+    "distance_cosne_km": 36,
+    "description": "Collectif d'artistes réuni au Château du Bois à Entrains-sur-Nohain (Armelle Musitelli, Catherine Laperrine, Fatou Fidèle, Michèle Podoriezack, Martine Degrave, Suzy Fredon), qui pratique la peinture, la photographie et l'écriture avec des techniques différentes. Il a ouvert son atelier lors des Portes ouvertes des ateliers d'artistes en Nièvre ; le statut (amateur ou professionnel) des membres reste à vérifier.",
+    "evenements_existants": "Portes ouvertes des ateliers d'artistes en Nièvre, 26–27 oct. 2024 (10 h–18 h).",
+    "idee_evenement": "Monter une exposition croisée peinture-photographie avec une lecture de textes des membres pendant le vernissage.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": "03 86 26 43 75",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Château du Bois, route d'Entrains, 58410 Entrains-sur-Nohain"
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-dartistes-en-nievre-crescendo/"
+    ]
+  },
+  {
+    "id": "d23",
+    "nom": "Atelier-Galerie d'Art Émaux et Motifs",
+    "type": "Artisan d'art",
+    "discipline": "mosaïque taillée (émaux de Briare)",
+    "ville": "Briare",
+    "code_postal": "45250",
+    "distance_cosne_km": 37,
+    "description": "Atelier-galerie d'artisan d'art de Briare qui perpétue la mosaïque taillée et présente des mosaïques inspirées de la production briaroise des années 1900 (japonisme, Art nouveau, décors d'Eugène Grasset). Le nom de l'artisan n'est pas publié et l'activité actuelle reste à confirmer (fiche touristique non datée, site non consultable).",
+    "evenements_existants": null,
+    "idee_evenement": "Présenter quelques mosaïques en émaux de Briare et proposer un atelier découverte de la mosaïque, en racontant l'histoire industrielle des émaux de Briare.",
+    "contact": {
+      "site": "http://www.mouvart.com",
+      "email": null,
+      "telephone": "02 38 37 17 55",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "15 rue de la Justice, 45250 Briare"
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://www.guide-tourisme-france.com/VISITER/atelier-galerie-art-emaux-motifs--briare-15758.htm",
+      "https://www.guide-tourisme-france.com/TOURISME/tourisme-briare-1126.htm"
+    ]
+  },
+  {
+    "id": "d24",
+    "nom": "Poterie Auger – Le Petit Montparnasse (Michel et Catherine Auger)",
+    "type": "Artisan d'art",
+    "discipline": "poterie, grès",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Atelier de Michel et Catherine Auger à Saint-Amand-en-Puisaye, dont la production de grès mêle art et utilitaire, séries et pièces uniques : tournage, modelage, émaillage, décor et cuisson sont faits sur place et chaque pièce est signée à la main. Aucune coordonnée n'est publiée sur la fiche de l'office de tourisme.",
+    "evenements_existants": null,
+    "idee_evenement": "Exposer une sélection de grès signés en dialogue avec les autres œuvres et vendre des pièces utilitaires (pichets, gobelets) pendant toute la durée de l'exposition.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/poterie-auger-le-petit-montparnasse/",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/potiers-et-ceramiques/"
+    ]
+  }
+]

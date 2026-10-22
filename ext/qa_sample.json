@@ -1,0 +1,510 @@
+[
+ {
+  "rang": 175,
+  "siren": "484649561",
+  "nom": "HYDR'ELEC",
+  "nom_commercial": null,
+  "ca": 3032249,
+  "resultat": 218291,
+  "ca_non_publie": false,
+  "effectif": "10-19 salariés",
+  "adresse": "21 B RUE DE LA BADELLE",
+  "code_postal": "58270",
+  "ville": "Saint-Benin-d'Azy",
+  "distance_cosne_km": 64,
+  "activite": "Captage, traitement et distribution d'eau",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Zoran MILOSEVIC",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/hydrelec-484649561"
+ },
+ {
+  "rang": 126,
+  "siren": "929918241",
+  "nom": "AQUACLAIRE",
+  "nom_commercial": null,
+  "ca": 5170253,
+  "resultat": 31857,
+  "ca_non_publie": false,
+  "effectif": "1+ salarié",
+  "adresse": "ZI SAINT 24 RUE GEORGES DUFAUD",
+  "code_postal": "58000",
+  "ville": "Nevers",
+  "distance_cosne_km": 56,
+  "activite": "Collecte et traitement des eaux usées",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Jérôme Robert MALUS",
+    "fonction": "Président du conseil d’administration"
+   },
+   {
+    "nom": "David VERHILLE",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Sandrine AZEMARD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Bénédicte AMELAINE (BASTIEN)",
+    "fonction": "Administrateur"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+ },
+ {
+  "rang": 127,
+  "siren": "494122401",
+  "nom": "JCC",
+  "nom_commercial": "CARREFOUR CONTACT",
+  "ca": 5101104,
+  "resultat": 80397,
+  "ca_non_publie": false,
+  "effectif": "0 salarié",
+  "adresse": "ROUTE DE COSNE",
+  "code_postal": "58310",
+  "ville": "Saint-Amand-en-Puisaye",
+  "distance_cosne_km": 19,
+  "activite": "Activités immobilières",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "APOCF",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/jcc-494122401"
+ },
+ {
+  "rang": 195,
+  "siren": "391868635",
+  "nom": "CABIA MATERIAUX SAS",
+  "nom_commercial": null,
+  "ca": 2691791,
+  "resultat": 108266,
+  "ca_non_publie": false,
+  "effectif": "6-9 salariés",
+  "adresse": "1 ALLEE LOUIS BLERIOT",
+  "code_postal": "58500",
+  "ville": "Clamecy",
+  "distance_cosne_km": 50,
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Christophe DARENNE",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/cabia-materiaux-sas-391868635"
+ },
+ {
+  "rang": 183,
+  "siren": "494516925",
+  "nom": "PHARMACIE DES RECOLLETS",
+  "nom_commercial": null,
+  "ca": 2859628,
+  "resultat": 183966,
+  "ca_non_publie": false,
+  "effectif": "6-9 salariés",
+  "adresse": "63 GRANDE RUE FRANCOIS MITTERRAND",
+  "code_postal": "58400",
+  "ville": "La Charité-sur-Loire",
+  "distance_cosne_km": 30,
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Laurent MINGEAU",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/pharmacie-des-recollets-494516925"
+ },
+ {
+  "rang": 106,
+  "siren": "431863752",
+  "nom": "NAUDET SAPINS DE NOEL",
+  "nom_commercial": null,
+  "ca": 7025166,
+  "resultat": 433871,
+  "ca_non_publie": false,
+  "effectif": "10-19 salariés",
+  "adresse": "LA GUTTELEAU PLANCHEZ EN MORVAN",
+  "code_postal": "58230",
+  "ville": "Planchez",
+  "distance_cosne_km": 100,
+  "activite": "Culture et production animale, chasse et services annexes",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Martin Jean-Raymond NAUDET",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+ },
+ {
+  "rang": 125,
+  "siren": "631880374",
+  "nom": "CENTRE MEDICAL DE LA VENERIE",
+  "nom_commercial": null,
+  "ca": 5212419,
+  "resultat": -44602,
+  "ca_non_publie": false,
+  "effectif": "20-49 salariés",
+  "adresse": "CHAMPLEMY",
+  "code_postal": "58210",
+  "ville": "Champlemy",
+  "distance_cosne_km": 35,
+  "activite": "Activités pour la santé humaine",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "VP SANTE",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"
+ },
+ {
+  "rang": 158,
+  "siren": "325414019",
+  "nom": "SOSEMAT",
+  "nom_commercial": null,
+  "ca": 3597970,
+  "resultat": 363485,
+  "ca_non_publie": false,
+  "effectif": "6-9 salariés",
+  "adresse": "SABLIERES LES PELUS",
+  "code_postal": "58450",
+  "ville": "Neuvy-sur-Loire",
+  "distance_cosne_km": 15,
+  "activite": "Autres industries extractives",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Gilles DEROMEDI",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/sosemat-325414019"
+ },
+ {
+  "rang": 304,
+  "siren": "804178879",
+  "nom": "LE FROMAGER DE NEVERS",
+  "nom_commercial": null,
+  "ca": 1211632,
+  "resultat": -176623,
+  "ca_non_publie": false,
+  "effectif": "3-5 salariés",
+  "adresse": "RUE HENRY BOUQUILLARD",
+  "code_postal": "58000",
+  "ville": "Nevers",
+  "distance_cosne_km": 55,
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "CREMERIE EXPLOITATION",
+    "fonction": "Gérant et associé indéfiniment et solidairement responsable"
+   },
+   {
+    "nom": "PROPART",
+    "fonction": "Associé indéfiniment et solidairement responsable"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/le-fromager-de-nevers-804178879"
+ },
+ {
+  "rang": 291,
+  "siren": "750984064",
+  "nom": "SPL CONFLUENCE",
+  "nom_commercial": null,
+  "ca": 1314921,
+  "resultat": 30541,
+  "ca_non_publie": false,
+  "effectif": "10-19 salariés",
+  "adresse": "LA JONCTION",
+  "code_postal": "58300",
+  "ville": "Decize",
+  "distance_cosne_km": 87,
+  "activite": "Hébergement",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Alain Dominique MOREAU",
+    "fonction": "Président du conseil d’administration et directeur général"
+   },
+   {
+    "nom": "Daniel CAILLOT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "David COLAS",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Jean-Yves FOREST",
+    "fonction": "Administrateur"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
+ },
+ {
+  "rang": 442,
+  "siren": "892718537",
+  "nom": "BIBOLLET MENUISERIE",
+  "nom_commercial": null,
+  "ca": 490584,
+  "resultat": 29674,
+  "ca_non_publie": false,
+  "effectif": "0 salarié",
+  "adresse": "ZA DU FOUR A CHAUX 4 RUE HENRI DARCY",
+  "code_postal": "58300",
+  "ville": "Decize",
+  "distance_cosne_km": 88,
+  "activite": "Travaux de construction spécialisés",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Anthony BIBOLLET",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/bibollet-menuiserie-892718537"
+ },
+ {
+  "rang": 274,
+  "siren": "448766857",
+  "nom": "SAS MECAPRECIS",
+  "nom_commercial": null,
+  "ca": 1445478,
+  "resultat": 156609,
+  "ca_non_publie": false,
+  "effectif": "10-19 salariés",
+  "adresse": "RUE NORBERT NABERIS LE TREMBLAT",
+  "code_postal": "58200",
+  "ville": "Cosne-Cours-sur-Loire",
+  "distance_cosne_km": 4,
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "J CUBE",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/sas-mecaprecis-448766857"
+ },
+ {
+  "rang": 407,
+  "siren": "802626952",
+  "nom": "SHPE SOCIETE HOTELIERE DE POUGUES LES EAUX",
+  "nom_commercial": null,
+  "ca": 682609,
+  "resultat": 60976,
+  "ca_non_publie": false,
+  "effectif": "6-9 salariés",
+  "adresse": "1315 AVENUE DE PARIS",
+  "code_postal": "58320",
+  "ville": "Pougues-les-Eaux",
+  "distance_cosne_km": 43,
+  "activite": "Hébergement",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Romain TRANCHANT",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Beatrice LORET",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
+ },
+ {
+  "rang": 425,
+  "siren": "812962827",
+  "nom": "DOMAINE DE BACCHUS",
+  "nom_commercial": null,
+  "ca": 585361,
+  "resultat": 6371,
+  "ca_non_publie": false,
+  "effectif": "0 salarié",
+  "adresse": "3 PLACE DES FRERES MOLLET",
+  "code_postal": "58150",
+  "ville": "Pouilly-sur-Loire",
+  "distance_cosne_km": 15,
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "AOC NONET HOLDING",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/domaine-de-bacchus-812962827"
+ },
+ {
+  "rang": 267,
+  "siren": "329950604",
+  "nom": "FAVRAC",
+  "nom_commercial": null,
+  "ca": 1531715,
+  "resultat": 98102,
+  "ca_non_publie": false,
+  "effectif": "3-5 salariés",
+  "adresse": "465 ROUTE DU GREUX",
+  "code_postal": "58130",
+  "ville": "Urzy",
+  "distance_cosne_km": 50,
+  "activite": "Fabrication de machines et équipements n.c.a.",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Hubert RIVETTI",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/favrac-329950604"
+ },
+ {
+  "rang": 480,
+  "siren": "422236620",
+  "nom": "ARMONIAL",
+  "nom_commercial": null,
+  "ca": null,
+  "resultat": null,
+  "ca_non_publie": true,
+  "effectif": "10-19 salariés",
+  "adresse": "73 BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "ville": "Varennes-Vauzelles",
+  "distance_cosne_km": 53,
+  "activite": "Travaux de construction spécialisés",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "Nathalie BOUTILLON",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/armonial-422236620"
+ },
+ {
+  "rang": 491,
+  "siren": "383950268",
+  "nom": "SOCIETE GILLET",
+  "nom_commercial": null,
+  "ca": null,
+  "resultat": null,
+  "ca_non_publie": true,
+  "effectif": "10-19 salariés",
+  "adresse": "ZONE INDUSTRIELLE",
+  "code_postal": "58640",
+  "ville": "Varennes-Vauzelles",
+  "distance_cosne_km": 48,
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "THIERRY GILLET",
+    "fonction": "Président"
+   },
+   {
+    "nom": "SANDIE JESSY GILLET",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/societe-gillet-383950268"
+ },
+ {
+  "rang": 478,
+  "siren": "381751171",
+  "nom": "A.MAILHARRO SARL",
+  "nom_commercial": null,
+  "ca": null,
+  "resultat": null,
+  "ca_non_publie": true,
+  "effectif": "10-19 salariés",
+  "adresse": "ZONE INDUSTRIELLE LES CHAMPS MALES",
+  "code_postal": "58640",
+  "ville": "Varennes-Vauzelles",
+  "distance_cosne_km": 52,
+  "activite": "Travaux de construction spécialisés",
+  "statut": "Redressement judiciaire (07/10/2015)",
+  "dirigeants": [
+   {
+    "nom": "CAREMA INVESTISSEMENTS",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/amailharro-sarl-381751171"
+ },
+ {
+  "rang": 470,
+  "siren": "394326854",
+  "nom": "SARL DELIN J.",
+  "nom_commercial": null,
+  "ca": null,
+  "resultat": null,
+  "ca_non_publie": true,
+  "effectif": "10-19 salariés",
+  "adresse": "57 GRANDE RUE",
+  "code_postal": "58130",
+  "ville": "Guérigny",
+  "distance_cosne_km": 46,
+  "activite": "Travaux de construction spécialisés",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "FRANCK DELIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "SEVERINE DELIN",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+ },
+ {
+  "rang": 489,
+  "siren": "500144969",
+  "nom": "MULTIVULCA",
+  "nom_commercial": null,
+  "ca": null,
+  "resultat": null,
+  "ca_non_publie": true,
+  "effectif": "10-19 salariés",
+  "adresse": "70 RUE GUY MOQUET",
+  "code_postal": "58640",
+  "ville": "Varennes-Vauzelles",
+  "distance_cosne_km": 54,
+  "activite": "Fabrication de produits en caoutchouc et en plastique",
+  "statut": "Active",
+  "dirigeants": [
+   {
+    "nom": "RICHEMON GROUP INTERNATIONAL II",
+    "fonction": "Président"
+   },
+   {
+    "nom": "CHRISTIAN TONDU",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "STEVEN TONDU",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/multivulca-500144969"
+ }
+]

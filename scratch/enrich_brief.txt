@@ -1,0 +1,30 @@
+You are enriching CRM records for companies headquartered in the Nièvre (58, France). Context: a local entrepreneur is building a list of companies around Cosne-Cours-sur-Loire to approach for business partnerships (business lunches and receptions, team moments and afterworks, end-of-year meals and corporate events, an employee perks programme relayed by the CSE, local supplier / cross-visibility / sponsoring partnerships).
+
+Input: /home/claude/crm/ext/{INFILE} — one company per line: SIREN|name|siège commune|distance to Cosne (km, road estimate)|employees|activity|Pappers URL.
+
+For each company, research public information with WebSearch and WebFetch (the shell has no internet). Useful sources: the company's own website, its Pappers page (URL given; Pappers rate-limits, so at most 2 fetches in flight), annuaire-entreprises.data.gouv.fr, societe.com, PagesJaunes, LinkedIn, local press (Le Journal du Centre, France 3 Bourgogne-Franche-Comté), BODACC. Spend effort proportionally: a few searches per company is enough.
+
+Collect, for each company:
+- nom_commercial: trade name or brand customers know it by, if different from the legal name (e.g. a franchise banner); else null.
+- groupe: parent group or network, if any.
+- description: 1–2 factual French sentences: what the company does, for whom, where (sites near Cosne if any).
+- actualite: one notable recent fact (2024–2026) with its date, in French (investment, new site, takeover, hiring drive, award, change of manager); else null.
+- site_web, telephone (main line), email (generic contact), linkedin (company page URL): only values you actually read on a page; never guess an email pattern.
+- interlocuteur_cible: {"nom": "...", "fonction": "...", "source": "URL or 'Registre'"} — the most relevant person to call about a partnership (dirigeant / gérant, or site director / HR / CSE contact when the company is large). Null if unknown.
+- site_local: if the company has an establishment in Cosne-Cours-sur-Loire or within ~5 km (Saint-Père, Pougny, Alligny-Cosne, Myennes, Saint-Loup…), its address as text; else null. site_cosne: true/false accordingly.
+- statut: "Active", or the collective procedure if one is in progress ("Redressement judiciaire (date)", "Liquidation judiciaire (date)", "Procédure de sauvegarde (date)"), from Pappers or BODACC.
+- opposition_prospection: true only if the Pappers page explicitly says the company opposed the use of its data for commercial prospecting; else false.
+- angle_partenariat: 1–2 concrete French sentences on what partnership could make sense with THIS company, using what you learned (size, sites near Cosne, clients they receive, events they run, seasonality, team shifts, local roots). Draw from: déjeuners et réceptions d'affaires avec clients ou fournisseurs de passage ; repas d'équipe, pots, afterworks ; repas de fin d'année, séminaires, journées d'équipe ; avantages pour les salariés via le CSE ; partenariat local (fournisseur ou producteur du territoire, visibilité croisée, sponsoring). Mention distance to Cosne and headcount when useful.
+  STRICT wording rules for angle_partenariat, description and actualite: never name or hint at any specific venue or business of ours; never use the words "bar", "restaurant", "restaurants", "chambres", "hôtel", "Vieux Relais", "nos établissements", "notre établissement". Do not use "M" alone as a name. Stay neutral and factual. Examples of the expected tone:
+    • "Employeur industriel de Cosne (50-99 salariés, ZI du Tremblat) : afterworks, repas d'équipe, fêtes de fin d'année et déjeuners d'affaires avec clients industriels en visite."
+    • "Maison de vins de Pouilly-sur-Loire : partenariat local, achats en circuit court et soirées dégustation co-organisées."
+    • "Tout proche de Cosne (Donzy, Saint-Satur) : journées clients/portes ouvertes avec traiteur, repas d'affaires avec agriculteurs et repas de fin d'année des 48 salariés."
+- sources: list of the URLs you used.
+
+Never invent anything: use null when you could not confirm a value. Copy phone numbers, addresses and names exactly.
+
+Write valid JSON (UTF-8) to /home/claude/crm/ext/{OUTFILE} — an array with one object per input company, same order:
+{"siren": "9 digits", "nom_commercial": ..., "groupe": ..., "description": ..., "actualite": ..., "site_web": ..., "telephone": ..., "email": ..., "linkedin": ..., "interlocuteur_cible": {...} or null, "site_local": ..., "site_cosne": true/false, "statut": "...", "opposition_prospection": true/false, "angle_partenariat": "...", "sources": [...]}
+Assemble and validate it with a small Python script (python3 -I), including a check that none of the forbidden words above appears in angle_partenariat, description or actualite.
+
+When done, reply briefly: companies processed, how many with phone / email / website, any procedure or closure found, and anything surprising (e.g. the company is not what its name suggests, or has moved).

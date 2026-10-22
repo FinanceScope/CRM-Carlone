@@ -1,0 +1,22 @@
+Goal: collect the LATEST published financial figures (chiffre d'affaires and résultat net of the SAME fiscal year), the latest official headcount band and the current legal status for French companies headquartered in the Nièvre (58).
+
+Input: /home/claude/crm/ext/{INFILE} — one company per line: SIREN|name|Pappers URL|flag. Flag "T" = top-100 company (API only, never open Pappers for it). Flag "P" = a collective procedure was once shown for it on Pappers (always open its Pappers page, see step 2). Empty flag = normal.
+
+Step 1 — for EVERY company: WebFetch https://recherche-entreprises.api.gouv.fr/search?q=SIREN (one SIREN returns one result). Ask the fetch to return VERBATIM, from the TOP-LEVEL company object of the result — NOT from "siege" and NOT from "matching_etablissements" (those describe one establishment and can differ) —: siren, nom_complet, etat_administratif, tranche_effectif_salarie, annee_tranche_effectif, and the complete "finances" object (every year key with its ca and resultat_net). Ask it to say explicitly "finances: absent" if there is no finances object.
+
+Step 2 — open the company's Pappers page (the URL in the file) when the flag is not "T" AND at least one of these holds: the API has no finances; the latest year in the API finances is older than 2023; the flag is "P"; the API etat_administratif is not "A". On Pappers, ask the fetch to return: the financial table by fiscal year for the 3 most recent years shown (year, closing date "date de clôture" if shown, chiffre d'affaires, résultat net); whether the accounts are filed as confidential ("comptes confidentiels", "Les comptes annuels sont confidentiels" or similar) and since which year; the effectif shown; and the procedures section: is a procédure collective (redressement, liquidation, sauvegarde) currently in progress (with its opening date), or has it ended (plan de redressement / de sauvegarde adopté, clôture, with dates); and any radiation, dissolution or cessation d'activité.
+
+Rate limits: keep ONE fetch in flight at a time (six other agents share these sites). If a fetch is rate-limited or fails, wait a little and retry the same URL; after 3 failures, record the company with a note and move on. The shell has no internet; do not use WebSearch. Never invent or round numbers: copy them exactly (Pappers sometimes shows rounded values such as "3,03 M€": copy them as text in "ca_txt"/"resultat_txt" when no exact figure is shown).
+
+Write valid JSON (UTF-8) to /home/claude/crm/ext/{OUTFILE} — an array, one object per input line, same order:
+{"siren": "9 digits",
+ "api": {"etat_administratif": "A" or "C", "tranche_effectif": "code as given (e.g. 11, 12, NN)", "annee_tranche_effectif": "YYYY" or null,
+         "finances": {"YYYY": {"ca": int or null, "resultat_net": int or null}} or null},
+ "pappers": null, or {"exercices": [{"annee": "YYYY", "date_cloture": "DD/MM/YYYY" or null, "ca": int or null, "resultat": int or null, "ca_txt": "..." or null, "resultat_txt": "..." or null}],
+                      "comptes_confidentiels": true/false, "confidentiels_depuis": "YYYY" or null, "effectif": "text as shown" or null,
+                      "procedure": "short French text on the CURRENT situation, e.g. 'Redressement judiciaire en cours depuis le 03/11/2025' or 'Plan de redressement adopté le 12/05/2016, pas de procédure en cours' or null if none",
+                      "radiee_ou_dissoute": true/false},
+ "note": "anything odd, else null"}
+Assemble and validate the JSON with a small Python script (python3 -I): one object per input line, SIRENs in the same order, integers where expected.
+
+When done, reply briefly: companies processed; how many had API finances and how many of those have a latest year of 2024 or later; how many needed Pappers; companies found closed, dissolved, struck off or with a procedure IN PROGRESS; companies whose accounts are confidential; any failures.

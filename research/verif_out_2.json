@@ -1,0 +1,388 @@
+[
+ {
+  "rang": 7,
+  "dirigeants": [
+   {"nom": "PARAGON FRANCE (personne morale, SIREN 908242787)", "fonction": "Président de SAS (depuis le 20/12/2024)"},
+   {"nom": "Pauric CREAN", "fonction": "Directeur général (depuis le 20/12/2024)"},
+   {"nom": "Liam DEVANE", "fonction": "Directeur général (depuis le 20/12/2024)"},
+   {"nom": "Laurent ESTIVAL", "fonction": "Directeur général (depuis le 28/11/2025)"}
+  ],
+  "effectif": "250-499 (374 salariés à la clôture du 30/06/2025, 326 un an plus tôt ; site principal de Cosne : tranche 100-199)",
+  "description": "Imprimerie de labeur du groupe Paragon dont le siège et l'usine principale sont à Cosne-Cours-sur-Loire (39 rue des Rivières, Saint-Agnan) : conception, production et distribution d'imprimés de gestion et de communication (produits postaux, titres de transport, tickets de jeux, titres-restaurant, chèques, impression à données variables) pour l'automobile, l'hôtellerie, la banque, le tourisme, les loisirs, la logistique et les jeux. 13 établissements ouverts en France, dont un second à Cosne (lieu-dit Le Tremblat). Exercice clos au 30/06/2025 : CA 85,9 M€ et perte nette de 4,36 M€ (contre 90,9 M€ et +2,3 M€ l'exercice précédent).",
+  "actualite": "Accords de transition signés les 6 et 10 juin 2025 (en vigueur du 01/07/2025 au 30/06/2028 : primes, horaires, congés, classifications, mutuelle) et accord de substitution du 01/07/2025, après des transferts de salariés au 1er juillet 2025 ; NAO de juillet 2025 (titres-restaurant portés à 6 €, prime de nuit) dans un contexte de restructuration de l'activité Print Solutions, puis NAO du site de Cosne signée le 17/11/2025 ; Laurent Estival nommé directeur général fin novembre 2025 ; exercice clos au 30/06/2025 déficitaire (-4,36 M€).",
+  "angle_partenariat": "Cible n°1 à Cosne même : déjeuners d'affaires, pots de départ/retraite, afterworks et repas de fin d'année pour les 100 à 199 salariés du site principal (≈374 dans toute l'entreprise) ; travail posté en 3 équipes propice aux afterworks à horaires décalés ; carte de réduction salariés à proposer via le CSE.",
+  "site_web": "https://www.paragon.world/fr",
+  "ca": 85942144,
+  "resultat": -4361177,
+  "site_local": "Siège et usine principale : 39 rue des Rivières (Saint-Agnan), 58200 Cosne-Cours-sur-Loire (tranche 100-199 salariés) ; second établissement au lieu-dit Le Tremblat, 58200 Cosne-Cours-sur-Loire",
+  "interlocuteur_cible": {
+   "nom": "Laurent ESTIVAL",
+   "fonction": "Directeur général depuis le 28/11/2025. Kompass cite aussi Christine Berneau (responsable du personnel) et Benoît Collin (directeur de site), à confirmer. Un CSE existe (avantages CE mentionnés dans les offres d'emploi ; accords signés par CGT, CFDT, CFE-CGC et FO).",
+   "source": "https://www.pappers.fr/entreprise/paragon-transaction-775722218 ; https://fr.kompass.com/c/paragon-transaction/fr1951651/"
+  },
+  "corrections": [
+   "Dirigeants : Guilhem Boucon n'est plus directeur général (BODACC du 17/02/2026) ; ajout de Laurent Estival, directeur général depuis le 28/11/2025 ; fonctions précisées (Paragon France présidente ; Crean, Devane et Estival directeurs généraux)",
+   "CA 85,9 M€ / résultat -4,36 M€ : il s'agit de l'exercice clos au 30/06/2025, pas de « 2024 » ; les champs ca/resultat (125,4 M€ / +2,35 M€) correspondaient à l'exercice clos au 30/06/2023",
+   "Effectif : les ≈330 salariés (374 en 2025) concernent toute l'entreprise (13 établissements) ; le site principal de Cosne est en tranche 100-199 salariés",
+   "Précision d'activité : imprimés de gestion et de communication pour plusieurs secteurs (postaux, titres de transport, tickets de jeux, titres-restaurant, chèques), pas seulement chéquiers pour les banques",
+   "Ajout : second établissement à Cosne (Le Tremblat)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=775722218",
+   "https://www.pappers.fr/entreprise/paragon-transaction-775722218",
+   "https://www.xerfi.com/etudes-par-entreprise/paragon-transaction_775722218",
+   "https://travail-industrie.com/employeurs/paragon-transaction-775722218",
+   "https://www.maitredata.com/app/accords-entreprise/paragon-transaction/368427",
+   "https://candidat.francetravail.fr/offres/recherche/detail/191DGRF",
+   "https://fr.kompass.com/c/paragon-transaction/fr1951651/",
+   "https://fr.kompass.com/c/paragon-transaction/fr3846697/",
+   "https://www.paragon.world/fr"
+  ]
+ },
+ {
+  "rang": 29,
+  "nom_commercial": "Garage Vincent – Citroën & DS Store Nevers (3 route de Paris) / Grand Tourisme Automobile – GTA (Fiat, Alfa Romeo, Jeep ; 30 route de Paris)",
+  "groupe": "Groupe Vincent (même président que CATAR et SOC GARAGE G R V à Cosne ; la concession Toyota de Varennes-Vauzelles est exploitée par Central Parc Automobile, autre société du groupe)",
+  "description": "Société principale du Groupe Vincent, route de Paris à Varennes-Vauzelles (nord de Nevers) : concession Citroën et DS Store (3 route de Paris) et, depuis juillet 2024, l'établissement Grand Tourisme Automobile (GTA : Fiat, Alfa Romeo, Jeep ; 30 route de Paris). La concession Toyota voisine (1 route de Paris) relève de Central Parc Automobile. Le Groupe Vincent (≈18 sites en Nièvre, Cher, Allier, Loiret et Val-de-Marne) distribue aussi Peugeot, Leapmotor, Toyota et la location Distance, et est présent à Cosne via SOC GARAGE G R V (Citroën/Peugeot).",
+  "actualite": "Exercice 2025 : CA 26,4 M€ (stable) mais perte nette de 608 K€, après un bénéfice de 381 K€ en 2024 ; l'établissement Grand Tourisme Automobile (30 route de Paris) a été rattaché à la société en juillet 2024.",
+  "angle_partenariat": "Pas d'établissement près de Cosne : à traiter avec la fiche GRV (même président, Rodolphe Vincent) ; intérêt surtout pour des événements à l'échelle du groupe (lancements de modèles, séminaires, repas d'équipe).",
+  "priorite": "Moyenne",
+  "telephone": "03 86 68 22 00 (Citroën/DS, 3 route de Paris) ; 03 86 71 09 10 (GTA, 30 route de Paris)",
+  "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+  "resultat": -608244,
+  "site_local": "Aucun établissement de la société près de Cosne ; le groupe y est présent via SOC GARAGE G R V (Citroën/Peugeot), chemin rural du Grand Champ – RN7 sud, 58200 Cosne-Cours-sur-Loire, tél. 03 86 28 49 70",
+  "interlocuteur_cible": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président (préside aussi GRV à Cosne et CATAR à Nevers)",
+   "source": "https://www.pappers.fr/entreprise/886020031"
+  },
+  "corrections": [
+   "Toyota attribué à tort : la concession Toyota de Varennes-Vauzelles (1 route de Paris) est exploitée par Central Parc Automobile, autre société du groupe",
+   "Enseignes réelles de la société : Citroën et DS Store (3 route de Paris) et Grand Tourisme Automobile (Fiat/Alfa Romeo/Jeep, 30 route de Paris, rattaché en juillet 2024)",
+   "Résultat : 381 K€ correspond à l'exercice 2024 ; l'exercice 2025 (CA 26,4 M€) se solde par une perte de 608 K€",
+   "Priorité Haute ramenée à Moyenne : aucun établissement près de Cosne (la présence cosnoise du groupe est GRV, fiche distincte déjà en priorité Haute)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GARAGE%20VINCENT&departement=58",
+   "https://www.pappers.fr/entreprise/886020031",
+   "https://www.groupevincent.fr/",
+   "https://www.groupevincent.fr/contact/",
+   "https://lesvoitures.fr/adresse/citroen-sas-garage-vincent-varennes-vauzelles/",
+   "https://lesvoitures.fr/adresse/fiat-sas-garage-vincent-varennes-vauzelles/",
+   "https://fr.mappy.com/poi/654eee1a9d82c26fdfd7d789",
+   "https://www.justacote.com/varennes-vauzelles-58640/concessionnaire/",
+   "https://www.toyota.fr/reseau/00cd2-d0336-111ef-a2600-01270-1",
+   "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/",
+   "https://journalauto.com/distribution/le-groupe-vincent-se-renforce-chez-toyota/"
+  ]
+ },
+ {
+  "rang": 49,
+  "description": "Centre de soins médicaux et de réadaptation (SMR, ex-SSR) certifié HAS situé en centre-ville de Cosne (9 ter rue Franc-Nohain) : rééducation orthopédique et traumatologique, neurologique (AVC, hémiplégie, atteintes cérébrales), amputations avec appareillage, rééducation polyvalente, hospitalisation complète et hôpital de jour, balnéothérapie et école du dos. Entreprise familiale (famille Bordet) qui recrute régulièrement soignants et rééducateurs.",
+  "linkedin": "https://www.linkedin.com/company/pasori-reeducation/",
+  "ca": 16968091,
+  "resultat": 743622,
+  "site_local": "9 ter rue Franc-Nohain, 58200 Cosne-Cours-sur-Loire (établissement unique) – tél. 03 86 28 43 89, fax 03 86 28 77 10",
+  "interlocuteur_cible": {
+   "nom": "Pascale BORDET",
+   "fonction": "Directrice générale (Frédérique Bordet est présidente)",
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "corrections": [
+   "LinkedIn : la page officielle est linkedin.com/company/pasori-reeducation (lien affiché sur pasori.fr), pas linkedin.com/company/pasori",
+   "Champs ca/resultat issus d'exercices différents (résultat 1,97 M€ = 2022) : exercice 2025 = CA 16,97 M€, résultat net 744 K€",
+   "Précision : appellation SMR (ex-SSR) ; la mention « Parkinson » n'apparaît pas sur le site, remplacée par les pathologies citées par l'établissement"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=350293221",
+   "https://www.pappers.fr/entreprise/350293221",
+   "https://www.pasori.fr",
+   "https://www.etablissementsdesante.fr/etablissement/48202-centre-de-reeducation-fonctionnelle-pasori"
+  ]
+ },
+ {
+  "rang": 75,
+  "nom_commercial": "Garage GRV – Citroën & Peugeot Cosne (Groupe Vincent)",
+  "description": "Concession Citroën et Peugeot du Groupe Vincent à Cosne-Cours-sur-Loire (RN7 sud, chemin rural du Grand Champ) : véhicules neufs et d'occasion, atelier, pièces. Second établissement ouvert à La Charité-sur-Loire (10 B avenue du Maréchal-Leclerc ; enseigne Citroën au registre, présenté comme atelier Eurorepar sur le site du groupe). Le groupe propose aussi la location courte durée à Cosne (enseigne Distance).",
+  "telephone": "03 86 28 49 70",
+  "site_web": "https://www.groupevincent.fr/",
+  "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+  "ca": 8763220,
+  "resultat": -145018,
+  "site_local": "Siège et concession : chemin rural du Grand Champ / avenue du 85e de Ligne (RN7 sud), 58200 Cosne-Cours-sur-Loire",
+  "interlocuteur_cible": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président depuis 2011 (dirigeant du Groupe Vincent)",
+   "source": "https://www.pappers.fr/entreprise/331066639"
+  },
+  "corrections": [
+   "Marques : la concession de Cosne est Citroën ET Peugeot (fiches idGarages Citroën et Peugeot à la même adresse, liste des sites du groupe)",
+   "Location : l'enseigne du groupe à Cosne est Distance ; la mention « National Citer Cosne » n'a pas été confirmée",
+   "Site de La Charité-sur-Loire : enseigne Citroën au registre mais présenté comme atelier Eurorepar par le groupe",
+   "Champs ca/resultat mélangeant 2023 (CA 11,0 M€) et 2022 (résultat 256 K€) : exercice 2025 = CA 8,76 M€, perte de 145 K€"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=331066639",
+   "https://www.pappers.fr/entreprise/331066639",
+   "https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB20025_sa-garage-grv-cosne-sur-loire",
+   "https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB17007_garage-grv",
+   "https://www.118000.fr/v_cosne-cours-sur-loire_58/c_concessionnaire-automobile",
+   "https://www.groupevincent.fr/",
+   "https://www.justacote.com/cosne-cours-sur-loire-58200/concessionnaire/"
+  ]
+ },
+ {
+  "rang": 97,
+  "groupe": "Groupe Rave (transport et logistique, siège à Torcy, 71), via sa holding Rave Croissance, présidente d'ASM depuis mars 2020 (famille Charbon ; président du directoire : Pascal Polte). Standard du groupe : 03 85 77 93 00 (ravegroupe.com)",
+  "linkedin": null,
+  "description": "Société de transport routier, stockage et manutention implantée à La Bichatte (Cosne-Cours-sur-Loire), ≈45 salariés. Présidée depuis mars 2020 par Rave Croissance, holding du Groupe Rave, en remplacement d'Alain André. Ses anciens établissements d'Île-de-France (Chelles, Le Plessis-Belleville) sont fermés depuis 2003-2004.",
+  "ca": 6959452,
+  "resultat": 403944,
+  "site_local": "123 La Bichatte, 58200 Cosne-Cours-sur-Loire (seul établissement ouvert)",
+  "interlocuteur_cible": null,
+  "corrections": [
+   "LinkedIn « linkedin.com/company/andr-chenue » : c'est la page d'une autre société (André Chenue, transport d'œuvres d'art), lien supprimé",
+   "Groupe : Rave Croissance est la holding du Groupe Rave (transport-logistique, Torcy 71), présidente depuis 2020 ; aucun lien trouvé avec André Chenue",
+   "Champs ca/resultat mélangeant 2024 (CA 7,68 M€) et 2023 (résultat 634 K€) : exercice 2025 = CA 6,96 M€, résultat 404 K€",
+   "Précision : fermeture des établissements franciliens datée de 2003-2004"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=335275319",
+   "https://www.pappers.fr/entreprise/andre-stockage-manutention-335275319",
+   "https://recherche-entreprises.api.gouv.fr/search?q=503362659",
+   "https://recherche-entreprises.api.gouv.fr/search?q=RAVE&departement=71",
+   "https://www.ravegroupe.com"
+  ]
+ },
+ {
+  "rang": 2,
+  "groupe": "Iveco Group (marque FPT Industrial) ; rachat d'Iveco Group par Tata Motors annoncé le 30/07/2025, finalisation prévue au 1er semestre 2026 (statut non vérifié)",
+  "effectif": "1000-1999 (≈1 200 salariés en 2024 ; siège de Garchizy : tranche 100-199)",
+  "description": "Filiale française de FPT Industrial (Iveco Group), motoriste pour véhicules industriels, engins agricoles et marine. Siège social à Garchizy (Nièvre, tranche 100-199 salariés) ; l'essentiel des effectifs est à l'usine de Bourbon-Lancy (Saône-et-Loire, ≈1 200 personnes), qui produit les moteurs Cursor et XCursor 13 multi-carburants. CA 2025 de l'entité : 581 M€ (résultat net 19,4 M€).",
+  "actualite": "L'usine de Bourbon-Lancy a fêté ses 150 ans en juillet 2025 (Family Day) ; Simone Curti a succédé à Sylvain Blaise à la présidence de la filiale le 07/08/2026 ; NAO 2026 signée le 15/12/2025.",
+  "angle_partenariat": "Siège de Garchizy (100-199 salariés) à ≈48 km : repas d'affaires ponctuels pour des visiteurs venant de Paris par l'A77 (qui passe à Cosne) ; décisions largement prises au niveau du groupe, potentiel limité pour le bar et le restaurant.",
+  "priorite": "Basse",
+  "linkedin": "https://www.linkedin.com/company/fpt-industrial",
+  "ca": 580664685,
+  "resultat": 19405347,
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Vincent BARBOSA",
+   "fonction": "Directeur général de la filiale française",
+   "source": "https://www.pappers.fr/entreprise/350693586"
+  },
+  "corrections": [
+   "Champs ca/resultat = exercice 2023 (728,7 M€ / 24,8 M€) : exercice 2025 = CA 580,7 M€, résultat net 19,4 M€",
+   "Effectif local confirmé : le siège de Garchizy est en tranche 100-199 salariés",
+   "Priorité Moyenne ramenée à Basse : site à ≈48 km, sans établissement près de Cosne, décisions au niveau du groupe"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=350693586",
+   "https://www.pappers.fr/entreprise/350693586",
+   "https://www.fptindustrial.com/media/press-releases/2025/07/21/14/43/Bourbon-Lancy-150",
+   "https://www.fptindustrial.com",
+   "https://travail-industrie.com/employeurs/fpt-powertrain-technologies-france-350693586",
+   "https://www.topograph.co/companies/fr/fpt-powertrain-technologies-france-350693586",
+   "https://en.wikipedia.org/wiki/Iveco_Group"
+  ]
+ },
+ {
+  "rang": 14,
+  "description": "Transporteur routier basé à Corvol-l'Orgueilleux depuis 1994 (≈360 salariés, groupe de plus de 700) : distribution nationale de palettes, température dirigée, lots complets, vrac, matières dangereuses, transport de fûts et location de véhicules. Établissements ouverts : Corvol-l'Orgueilleux (siège), Clamecy, Bancourt (62) et Saint-Denis-de-Pile (33) ; l'ancien site de La Charité-sur-Loire est fermé depuis 2008. CA 2025 ≈ 50 M€ (résultat net 57 K€).",
+  "effectif": "250-499 (≈360 salariés selon une offre France Travail d'avril 2025 ; groupe de plus de 700)",
+  "actualite": "Index égalité professionnelle de 80/100 en 2025 ; NAO 2025 signée le 29/12/2025 et accord égalité femmes-hommes signé le 24/11/2025 (applicable à partir du 01/06/2026).",
+  "angle_partenariat": "Siège à ≈45 km (Corvol-l'Orgueilleux) et site de Clamecy, aucun établissement près de Cosne : repas de fin d'année ou séminaires possibles, mais l'éloignement limite l'intérêt (pas de chauffeurs basés près de Cosne).",
+  "priorite": "Basse",
+  "linkedin": "https://www.linkedin.com/company/transports-rousseau-eric",
+  "resultat": 57093,
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Dirigeant (la holding Groupe Rousseau est présidente de la société)",
+   "source": "https://www.pappers.fr/entreprise/transports-rousseau-eric-393635230"
+  },
+  "corrections": [
+   "L'établissement de La Charité-sur-Loire est fermé depuis le 30/04/2008 : retiré de la description et de l'angle (qui reposait sur ce site)",
+   "Résultat : 860 K€ correspond à 2022 ; exercice 2025 = CA 50,0 M€, résultat net 57 K€ (le CA 2024 de 46 M€ est remplacé par le chiffre 2025)",
+   "Priorité Moyenne ramenée à Basse : aucun site près de Cosne"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=transports%20rousseau&code_postal=58460",
+   "https://www.pappers.fr/entreprise/transports-rousseau-eric-393635230",
+   "https://travail-industrie.com/employeurs/transports-rousseau-eric-393635230",
+   "https://candidat.francetravail.fr/offres/recherche/detail/191MYKZ",
+   "https://www.webvilles.net/itineraire/58085-corvol-l-orgueilleux.php"
+  ]
+ },
+ {
+  "rang": 21,
+  "dirigeants": [
+   {"nom": "NEXSON CORPORATION (personne morale, SIREN 891083107)", "fonction": "Président de SAS (depuis le 01/09/2025, en remplacement de Charles Bonnafous)"}
+  ],
+  "actualite": "En mars 2024, Nexson Group a racheté l'allemand Thermowave GmbH (échangeurs à plaques pour CVC et froid industriel, cédé par Güntner / groupe A-Heat). Second établissement au 680 rue Jules Verne à Garchizy (octobre 2022) et nouvel établissement ouvert le 03/10/2025 dans la ZI Nevers-Garchizy (11 rue Joseph-Marie-Jacquard, Varennes-Vauzelles) ; Nexson Corporation présidente depuis le 01/09/2025 ; l'entreprise donne son nom au « Nevers Marathon by Nexson » (21-22 novembre 2026, calendrier du circuit de Nevers Magny-Cours).",
+  "angle_partenariat": "Repas d'affaires pour les clients internationaux et visiteurs de l'usine (souvent via Paris et l'A77, qui passe à Cosne), afterworks et séminaires pour ≈130 salariés ; entreprise dirigée par son fondateur et déjà engagée dans le sponsoring local.",
+  "linkedin": "https://www.linkedin.com/company/nexson-group/",
+  "ca": 26799673,
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group",
+   "source": "https://achrnews.com/articles/154348-nexson-group-acquires-heat-exchanger-manufacturer"
+  },
+  "corrections": [
+   "Champ ca : 31,4 M€ correspond à l'exercice clos au 31/03/2024 alors que le résultat (1,81 M€) est celui de l'exercice clos au 31/03/2025 : CA de cet exercice = 26,8 M€",
+   "Ajout : Nexson Corporation présidente depuis le 01/09/2025 (Charles Bonnafous n'est plus président de cette entité) ; nouvel établissement à Varennes-Vauzelles depuis octobre 2025"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=530572775",
+   "https://www.pappers.fr/entreprise/530572775",
+   "https://www.nexson-group.com/",
+   "https://www.lindustrie-recrute.fr/entreprise/17071/",
+   "https://www.coolingpost.com/world-news/nexson-group-acquires-thermowave/",
+   "https://achrnews.com/articles/154348-nexson-group-acquires-heat-exchanger-manufacturer",
+   "https://www.circuitmagnycours.com/"
+  ]
+ },
+ {
+  "rang": 26,
+  "adresse": "6 route du Puits, Les Naslots, 58220 Ciez",
+  "description": "Négociant familial en énergies : livraison de fioul et biofioul, carburants (station à Ciez), GNR, AdBlue, granulés et bûches de bois compressé, vente et nettoyage de cuves, plus atelier (pneus, vidanges, mécanique). Siège à Ciez, établissements à Clamecy (Le Foulon) et La Charité-sur-Loire (ZI rue de Gérigny), et un distributeur de granulés en libre-service à Cosne (avenue du 85e de Ligne).",
+  "actualite": "CA 2025 de 20,6 M€ (28,7 M€ en 2022), résultat net de 524 K€.",
+  "telephone": "03 86 26 43 28",
+  "site_web": "http://www.etablissements-coignet.fr",
+  "angle_partenariat": "Entreprise familiale proche de Cosne et déjà présente à Cosne (distributeur de granulés) : repas d'affaires, échange de visibilité locale, fournisseur potentiel (combustibles, granulés).",
+  "ca": 20602407,
+  "resultat": 524302,
+  "site_local": "Distributeur de granulés de bois en libre-service, avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire (selon le site de l'entreprise)",
+  "interlocuteur_cible": {
+   "nom": "Guillaume COIGNET",
+   "fonction": "Directeur général (Sophie Coignet est présidente)",
+   "source": "https://www.pappers.fr/entreprise/312057318"
+  },
+  "corrections": [
+   "Champs ca/resultat = exercice 2022 (28,7 M€ / 622 K€) : exercice 2025 = CA 20,6 M€, résultat 524 K€",
+   "Ajout : présence à Cosne (distributeur de granulés en libre-service, avenue du 85e de Ligne) et adresse précise du siège"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=312057318",
+   "https://www.pappers.fr/entreprise/312057318",
+   "https://www.118712.fr/professionnels/X0JSVlVRFAQ",
+   "http://www.etablissements-coignet.fr"
+  ]
+ },
+ {
+  "rang": 37,
+  "actualite": "Exercice 2025 : CA 22,4 M€ et perte nette de 396 K€.",
+  "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+  "ca": 22432572,
+  "resultat": -395697,
+  "site_local": "Aucun établissement près de Cosne (Nevers et Decize) ; le groupe y est présent via SOC GARAGE G R V (Citroën/Peugeot), tél. 03 86 28 49 70",
+  "interlocuteur_cible": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président (dirigeant du Groupe Vincent)",
+   "source": "https://recherche-entreprises.api.gouv.fr/search?q=CATAR&departement=58"
+  },
+  "corrections": [
+   "Champs ca/resultat obsolètes (23,6 M€ / +285 K€) : exercice 2025 = CA 22,4 M€, perte nette de 396 K€"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=581880044",
+   "https://recherche-entreprises.api.gouv.fr/search?q=CATAR&departement=58",
+   "https://www.idgarages.com/fr-fr/garage/nevers/GB16934_societe-c-a-t-a-r",
+   "https://lesvoitures.fr/adresse/societe-c-a-t-a-r-58000/",
+   "https://www.justacote.com/sougy-sur-loire-58300/concessionnaire/",
+   "https://www.groupevincent.fr/"
+  ]
+ },
+ {
+  "rang": 52,
+  "telephone": "03 86 39 47 28",
+  "site_web": "https://www.intermarche.com/magasin?pdvref=01255",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Thierry THOMAS",
+   "fonction": "Président, exploitant du magasin avec Corinne Thomas (directrice générale)",
+   "source": "https://recherche-entreprises.api.gouv.fr/search?q=401453188"
+  },
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=401453188",
+   "https://www.pagesjaunes.fr/pros/59482582",
+   "https://coparking.ch/en/France/parkings/4803",
+   "https://www.au-magasin.fr/58220-donzy/intermarche-11900.html"
+  ]
+ },
+ {
+  "rang": 64,
+  "actualite": "Saison 2026-2027 en Pro D2 (campagne d'abonnements ouverte le 1er juin 2026) ; 13e de Pro D2 en 2025-2026 ; 16e et dernier après 7 journées selon le classement affiché sur le site du club (octobre 2026).",
+  "linkedin": "https://www.linkedin.com/company/uson-nevers-rugby-event/",
+  "email": "contact@usonrugbyplus.com",
+  "ca": 11206942,
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Régis DUMANGE",
+   "fonction": "Président du conseil d'administration et directeur général (président du club)",
+   "source": "https://www.pappers.fr/entreprise/513917922"
+  },
+  "corrections": [
+   "LinkedIn : la page officielle est linkedin.com/company/uson-nevers-rugby-event (lien du site du club et de Pappers)",
+   "Marché de prestations publicitaires de 230 K€ avec Nevers Agglomération (juillet 2026) introuvable dans les sources publiques consultées : retiré de l'actualité",
+   "Champ ca : 11,73 M€ correspond à l'exercice clos au 30/06/2024 alors que le résultat (-97 K€) est celui clos au 30/06/2025 : CA de cet exercice = 11,21 M€"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=513917922",
+   "https://www.pappers.fr/entreprise/513917922",
+   "https://usonneversrugby.com",
+   "https://info.fr/uson-nevers-campagne-abonnements-2026-2027-ouverture-officielle/",
+   "https://en.wikipedia.org/wiki/USON_Nevers",
+   "https://en.wikipedia.org/wiki/Stade_du_Pr%C3%A9_Fleuri"
+  ]
+ },
+ {
+  "rang": 84,
+  "distance_cosne_km": 70,
+  "actualite": "Saison 2026 : départ de la 12e étape du Tour de France depuis le circuit le 16 juillet, 500 Miles de Nevers Magny-Cours (18 juillet), WorldSBK (4-6 septembre) ; à venir : Trophée du Million (23-25 octobre) et Nevers Marathon by Nexson (21-22 novembre) ; CA 2024 de 8,99 M€ (+8,6 %) ; marques « 500 Miles de Nevers Magny-Cours » (déposée en janvier 2025) et « Magny-Cours Magny-Cœur » (demande publiée en juin 2026).",
+  "resultat": 642813,
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Serge SAULNIER",
+   "fonction": "Président du directoire (depuis 2010)",
+   "source": "https://www.pappers.fr/entreprise/cnmc-circuit-de-nevers-magny-cours-411741440"
+  },
+  "corrections": [
+   "Résultat : 754 K€ correspond à 2022 ; exercice 2024 = 643 K€ (CA 8,99 M€)",
+   "Distance ≈65 km portée à ≈70 km (Cosne–Nevers 56,5 km par l'A77, puis ≈13 km jusqu'au circuit)",
+   "Actualité mise à jour : les événements de l'été 2026 sont passés ; prochains rendez-vous ajoutés"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=411741440",
+   "https://www.pappers.fr/entreprise/cnmc-circuit-de-nevers-magny-cours-411741440",
+   "https://www.circuitmagnycours.com/",
+   "https://www.l-itineraire.com/de_cosne-cours-sur-loire_a_nevers"
+  ]
+ },
+ {
+  "rang": 91,
+  "description": "Scierie et fabricant de parquets massifs en chêne haut de gamme (bâtons rompus, point de Hongrie, Versailles…) à Saint-Amand-en-Puisaye, fondé en 1875 et repris en 1982 par la famille Petitrenaud ; référencé auprès des professionnels du bâtiment. Majorité reprise le 31/05/2024 par la Tonnellerie François Frères (TFF Group, tonnellerie bourguignonne), désormais présidente.",
+  "telephone": "03 86 39 56 00",
+  "site_web": "https://www.parquet-beausoleil.fr/",
+  "ca": 5727895,
+  "resultat": 193370,
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Rémi, Didier et Xavier PETITRENAUD",
+   "fonction": "Directeurs généraux",
+   "source": "https://www.pappers.fr/entreprise/parqueterie-beau-soleil-323685453"
+  },
+  "corrections": [
+   "Champs ca/resultat (8,14 M€ / 583 K€) = exercice antérieur : exercice clos au 30/04/2025 = CA 5,73 M€, résultat 193 K€"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=323685453",
+   "https://www.pappers.fr/entreprise/parqueterie-beau-soleil-323685453",
+   "https://www.parquet-beausoleil.fr/",
+   "https://www.batiweb.com/fabricant/parqueterie-du-beau-soleil-3392",
+   "https://www.cbinsights.com/investor/tonnellerie-francois-freres"
+  ]
+ }
+]

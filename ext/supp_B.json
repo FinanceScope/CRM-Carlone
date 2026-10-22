@@ -1,0 +1,806 @@
+[
+ {
+  "slug": "fours-1",
+  "total_listed": 1,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "DAROTO",
+    "url": "https://www.pappers.fr/entreprise/daroto-840106405",
+    "siren": "840106405",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 446699,
+    "resultat": 45648,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "gimouille",
+  "total_listed": 14,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 12,
+    "nom": "AERO CONCEPT ENGINEERING",
+    "url": "https://www.pappers.fr/entreprise/aero-concept-engineering-442010948",
+    "siren": "442010948",
+    "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+    "ca": 484260,
+    "resultat": 77473,
+    "effectif": "Entre 6 et 9 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 13,
+    "nom": "NOVARE COUNTRY S.A.S",
+    "url": "https://www.pappers.fr/entreprise/novare-country-sas-822819819",
+    "siren": "822819819",
+    "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+    "ca": 220000,
+    "resultat": 91223,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "guerigny",
+  "total_listed": 14,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 7,
+    "nom": "",
+    "url": "https://www.pappers.fr/entreprise/790308365",
+    "siren": "790308365",
+    "activite": "Publicité et études de marché",
+    "ca": 302328,
+    "resultat": 44625,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "INNOVIMMO NEVERS",
+    "url": "https://www.pappers.fr/entreprise/innovimmo-nevers-512115304",
+    "siren": "512115304",
+    "activite": "Activités immobilières",
+    "ca": 232442,
+    "resultat": 35573,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "la-celle-sur-nievre",
+  "total_listed": 100,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 19,
+    "nom": "COMMUNE DE PREMERY",
+    "url": "https://www.pappers.fr/entreprise/commune-de-premery-215802182",
+    "siren": "215802182",
+    "activite": "Administration publique et défense ; sécurité sociale obligatoire",
+    "ca": 0,
+    "resultat": 0,
+    "effectif": "Entre 20 et 49 salariés",
+    "statut_badge": null,
+    "regle": "b"
+   },
+   {
+    "rang_commune": 55,
+    "nom": "ATRIUM",
+    "url": "https://www.pappers.fr/entreprise/atrium-490034683",
+    "siren": "490034683",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 250207,
+    "resultat": 50933,
+    "effectif": "Au moins 1 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 68,
+    "nom": "JARDILLET PATRICE",
+    "url": "https://www.pappers.fr/entreprise/jardillet-patrice-444345821",
+    "siren": "444345821",
+    "activite": "Services relatifs aux bâtiments et aménagement paysager",
+    "ca": 0,
+    "resultat": 0,
+    "effectif": "Entre 10 et 19 salariés",
+    "statut_badge": null,
+    "regle": "b"
+   }
+  ]
+ },
+ {
+  "slug": "la-chapelle-st-andre",
+  "total_listed": 9,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 2,
+    "nom": "DL INTERNATIONAL",
+    "url": "https://www.pappers.fr/entreprise/dl-international-852030253",
+    "siren": "852030253",
+    "activite": "Fabrication de meubles",
+    "ca": 0,
+    "resultat": 160060,
+    "effectif": "Entre 20 et 49 salariés",
+    "statut_badge": null,
+    "regle": "b"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "CENTRE DE LA BARBELAINE",
+    "url": "https://www.pappers.fr/entreprise/centre-de-la-barbelaine-380299685",
+    "siren": "380299685",
+    "activite": "Activités immobilières",
+    "ca": 450000,
+    "resultat": 50134,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "la-nocle-maulaix",
+  "total_listed": 1,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "DAROTO",
+    "url": "https://www.pappers.fr/entreprise/daroto-840106405",
+    "siren": "840106405",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 446699,
+    "resultat": 45648,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "langeron",
+  "total_listed": 100,
+  "error": null,
+  "rows": []
+ },
+ {
+  "slug": "lanty",
+  "total_listed": 1,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "DAROTO",
+    "url": "https://www.pappers.fr/entreprise/daroto-840106405",
+    "siren": "840106405",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 446699,
+    "resultat": 45648,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "limon",
+  "total_listed": 11,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 8,
+    "nom": "Amandio DE OLIVEIRA",
+    "url": "https://www.pappers.fr/entreprise/amandio-de-oliveira-399006063",
+    "siren": "399006063",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 435616,
+    "resultat": 45515,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "livry-2",
+  "total_listed": 17,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 2,
+    "nom": "TRANSPORTS RESSAT",
+    "url": "https://www.pappers.fr/entreprise/transports-ressat-482066487",
+    "siren": "482066487",
+    "activite": "Transports terrestres et transport par conduites",
+    "ca": 0,
+    "resultat": 454782,
+    "effectif": "Entre 50 et 99 salariés",
+    "statut_badge": null,
+    "regle": "b"
+   },
+   {
+    "rang_commune": 3,
+    "nom": "AVAL AGENCE DU VAL D'ALLIER",
+    "url": "https://www.pappers.fr/entreprise/aval-agence-du-val-dallier-329903520",
+    "siren": "329903520",
+    "activite": "Activités immobilières",
+    "ca": 0,
+    "resultat": 249066,
+    "effectif": "Entre 10 et 19 salariés",
+    "statut_badge": "Redressement judiciaire (20/02/2013)",
+    "regle": "b"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "SELARL ABIAN",
+    "url": "https://www.pappers.fr/entreprise/selarl-abian-879265718",
+    "siren": "879265718",
+    "activite": "Activités pour la santé humaine",
+    "ca": 373485,
+    "resultat": 85684,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "GARAGE DU PANAMA",
+    "url": "https://www.pappers.fr/entreprise/garage-du-panama-528450539",
+    "siren": "528450539",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 0,
+    "resultat": 84820,
+    "effectif": "Entre 10 et 19 salariés",
+    "statut_badge": null,
+    "regle": "b"
+   },
+   {
+    "rang_commune": 15,
+    "nom": "HAREK RENOV",
+    "url": "https://www.pappers.fr/entreprise/harek-renov-850211368",
+    "siren": "850211368",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 210462,
+    "resultat": 31510,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "lormes",
+  "total_listed": 11,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 6,
+    "nom": "LA ROCHE DES FEES",
+    "url": "https://www.pappers.fr/entreprise/la-roche-des-fees-501251904",
+    "siren": "501251904",
+    "activite": "Activités immobilières",
+    "ca": 341546,
+    "resultat": 50074,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "lucenay-les-aix",
+  "total_listed": 2,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "DOCTEUR JAILLET",
+    "url": "https://www.pappers.fr/entreprise/docteur-jaillet-908884273",
+    "siren": "908884273",
+    "activite": "Activités pour la santé humaine",
+    "ca": 252907,
+    "resultat": 60782,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "luzy",
+  "total_listed": 16,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 9,
+    "nom": "CHATEAU CAMPING DE CHIGY",
+    "url": "https://www.pappers.fr/entreprise/chateau-camping-de-chigy-910722529",
+    "siren": "910722529",
+    "activite": "Hébergement",
+    "ca": 346411,
+    "resultat": 69431,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 10,
+    "nom": "SAS MENUISERIE LEMAITRE",
+    "url": "https://www.pappers.fr/entreprise/sas-menuiserie-lemaitre-980519524",
+    "siren": "980519524",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 339902,
+    "resultat": 8042,
+    "effectif": "Au moins 1 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "HOLDING MARTIN",
+    "url": "https://www.pappers.fr/entreprise/holding-martin-803856822",
+    "siren": "803856822",
+    "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+    "ca": 304077,
+    "resultat": 7977,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": "Procédure de sauvegarde (16/06/2025)",
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "magny-cours",
+  "total_listed": 13,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 12,
+    "nom": "AERO CONCEPT ENGINEERING",
+    "url": "https://www.pappers.fr/entreprise/aero-concept-engineering-442010948",
+    "siren": "442010948",
+    "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+    "ca": 484260,
+    "resultat": 77473,
+    "effectif": "Entre 6 et 9 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 13,
+    "nom": "NOVARE COUNTRY S.A.S",
+    "url": "https://www.pappers.fr/entreprise/novare-country-sas-822819819",
+    "siren": "822819819",
+    "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+    "ca": 220000,
+    "resultat": 91223,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "marcy-1",
+  "total_listed": 100,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 81,
+    "nom": "ESPACE SOCIOCULTUREL DU VAL DU SAUZAY",
+    "url": "https://www.pappers.fr/entreprise/espace-socioculturel-du-val-du-sauzay-318176013",
+    "siren": "318176013",
+    "activite": "Action sociale sans hébergement",
+    "ca": 0,
+    "resultat": 0,
+    "effectif": "Entre 10 et 19 salariés",
+    "statut_badge": null,
+    "regle": "b"
+   }
+  ]
+ },
+ {
+  "slug": "marzy",
+  "total_listed": 11,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 10,
+    "nom": "GAIA TR",
+    "url": "https://www.pappers.fr/entreprise/gaia-tr-952823607",
+    "siren": "952823607",
+    "activite": "Activités administratives et autres activités de soutien aux entreprises",
+    "ca": 309637,
+    "resultat": 350414,
+    "effectif": "Au moins 1 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 11,
+    "nom": "NOLAN'S",
+    "url": "https://www.pappers.fr/entreprise/nolans-532063609",
+    "siren": "532063609",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 283885,
+    "resultat": 10328,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "montambert",
+  "total_listed": 1,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "DAROTO",
+    "url": "https://www.pappers.fr/entreprise/daroto-840106405",
+    "siren": "840106405",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 446699,
+    "resultat": 45648,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "montaron",
+  "total_listed": 1,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 1,
+    "nom": "DAROTO",
+    "url": "https://www.pappers.fr/entreprise/daroto-840106405",
+    "siren": "840106405",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 446699,
+    "resultat": 45648,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "montenoison",
+  "total_listed": 9,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 4,
+    "nom": "EPE ELECTRICITE PASCAULT ELECTRONIQUE",
+    "url": "https://www.pappers.fr/entreprise/epe-electricite-pascault-electronique-398223503",
+    "siren": "398223503",
+    "activite": "Travaux de construction spécialisés",
+    "ca": 417968,
+    "resultat": 13384,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 5,
+    "nom": "",
+    "url": "https://www.pappers.fr/entreprise/517424685",
+    "siren": "517424685",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 352471,
+    "resultat": 69653,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 6,
+    "nom": "LE REFUGE",
+    "url": "https://www.pappers.fr/entreprise/le-refuge-922287669",
+    "siren": "922287669",
+    "activite": "Activités immobilières",
+    "ca": 313270,
+    "resultat": -36480,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 7,
+    "nom": "CALISTE",
+    "url": "https://www.pappers.fr/entreprise/caliste-388006702",
+    "siren": "388006702",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 287373,
+    "resultat": 13618,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 8,
+    "nom": "SARL HAGHEBAERT",
+    "url": "https://www.pappers.fr/entreprise/sarl-haghebaert-982497992",
+    "siren": "982497992",
+    "activite": "Activités de location et location-bail",
+    "ca": 254375,
+    "resultat": 4372,
+    "effectif": "Au moins 1 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "moulins-engilbert",
+  "total_listed": 9,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 7,
+    "nom": "CARROSSERIE DELAPORTE",
+    "url": "https://www.pappers.fr/entreprise/carrosserie-delaporte-834449225",
+    "siren": "834449225",
+    "activite": "Commerce et réparation d'automobiles et de motocycles",
+    "ca": 0,
+    "resultat": 50204,
+    "effectif": "Entre 10 et 19 salariés",
+    "statut_badge": null,
+    "regle": "b"
+   }
+  ]
+ },
+ {
+  "slug": "moux-en-morvan",
+  "total_listed": 30,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 10,
+    "nom": "HECTOR",
+    "url": "https://www.pappers.fr/entreprise/hector-812080216",
+    "siren": "812080216",
+    "activite": "Hébergement",
+    "ca": 0,
+    "resultat": 67382,
+    "effectif": "Entre 10 et 19 salariés",
+    "statut_badge": "Liquidation judiciaire (21/02/2025)",
+    "regle": "b"
+   },
+   {
+    "rang_commune": 13,
+    "nom": "CARS TABOUREAU",
+    "url": "https://www.pappers.fr/entreprise/cars-taboureau-343908042",
+    "siren": "343908042",
+    "activite": "Transports terrestres et transport par conduites",
+    "ca": 0,
+    "resultat": 57659,
+    "effectif": "Entre 10 et 19 salariés",
+    "statut_badge": null,
+    "regle": "b"
+   },
+   {
+    "rang_commune": 16,
+    "nom": "AUBERGE DES BARONNIES",
+    "url": "https://www.pappers.fr/entreprise/auberge-des-baronnies-820336931",
+    "siren": "820336931",
+    "activite": "Restauration",
+    "ca": 217724,
+    "resultat": 44367,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 18,
+    "nom": "Boulangerie Grain de Folie",
+    "url": "https://www.pappers.fr/entreprise/boulangerie-grain-de-folie-920913456",
+    "siren": "920913456",
+    "activite": "Industries alimentaires",
+    "ca": 232904,
+    "resultat": 36538,
+    "effectif": "Au moins 1 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 25,
+    "nom": "SARL CAVES BARBOTTE",
+    "url": "https://www.pappers.fr/entreprise/sarl-caves-barbotte-443946538",
+    "siren": "443946538",
+    "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+    "ca": 310767,
+    "resultat": 16637,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 28,
+    "nom": "LES MESANGES",
+    "url": "https://www.pappers.fr/entreprise/les-mesanges-834691594",
+    "siren": "834691594",
+    "activite": "Hébergement",
+    "ca": 296103,
+    "resultat": 12668,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "neuville-les-decize",
+  "total_listed": 35,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 25,
+    "nom": "HPT & COMPAGNIE",
+    "url": "https://www.pappers.fr/entreprise/hpt-compagnie-853880086",
+    "siren": "853880086",
+    "activite": "Activités des sièges sociaux ; conseil de gestion",
+    "ca": 401200,
+    "resultat": 160700,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 26,
+    "nom": "EURL LABORATOIRE D'ART DENTAIRE COLLONGE",
+    "url": "https://www.pappers.fr/entreprise/eurl-laboratoire-dart-dentaire-collonge-403638398",
+    "siren": "403638398",
+    "activite": "Autres industries manufacturières",
+    "ca": 335576,
+    "resultat": 24735,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 27,
+    "nom": "DELIVRER DES MOTS",
+    "url": "https://www.pappers.fr/entreprise/delivrer-des-mots-931083836",
+    "siren": "931083836",
+    "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+    "ca": 307212,
+    "resultat": 28683,
+    "effectif": "Au moins 1 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 28,
+    "nom": "MAREDCA",
+    "url": "https://www.pappers.fr/entreprise/maredca-490974185",
+    "siren": "490974185",
+    "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+    "ca": 250600,
+    "resultat": 76793,
+    "effectif": "Entre 3 et 5 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 29,
+    "nom": "AUXI'Life 58",
+    "url": "https://www.pappers.fr/entreprise/auxilife-58-509318531",
+    "siren": "509318531",
+    "activite": "Action sociale sans hébergement",
+    "ca": 242987,
+    "resultat": 9803,
+    "effectif": "Entre 10 et 19 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 30,
+    "nom": "LBM-ProTrans",
+    "url": "https://www.pappers.fr/entreprise/lbm-protrans-803014851",
+    "siren": "803014851",
+    "activite": "Activités des sièges sociaux ; conseil de gestion",
+    "ca": 235170,
+    "resultat": 732581,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "neuvy-sur-loire",
+  "total_listed": 4,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 3,
+    "nom": "SARL Fromagerie Perot",
+    "url": "https://www.pappers.fr/entreprise/sarl-fromagerie-perot-802901926",
+    "siren": "802901926",
+    "activite": "Industries alimentaires",
+    "ca": 345334,
+    "resultat": 32454,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "onlay",
+  "total_listed": 2,
+  "error": null,
+  "rows": []
+ },
+ {
+  "slug": "parigny-les-vaux",
+  "total_listed": 19,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 17,
+    "nom": "EURL VALENERGIE",
+    "url": "https://www.pappers.fr/entreprise/eurl-valenergie-802875534",
+    "siren": "802875534",
+    "activite": "Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné",
+    "ca": 220752,
+    "resultat": 14958,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ },
+ {
+  "slug": "poiseux",
+  "total_listed": 15,
+  "error": null,
+  "rows": [
+   {
+    "rang_commune": 8,
+    "nom": "",
+    "url": "https://www.pappers.fr/entreprise/790308365",
+    "siren": "790308365",
+    "activite": "Publicité et études de marché",
+    "ca": 302328,
+    "resultat": 44625,
+    "effectif": "0 salarié",
+    "statut_badge": null,
+    "regle": "a"
+   },
+   {
+    "rang_commune": 9,
+    "nom": "INNOVIMMO NEVERS",
+    "url": "https://www.pappers.fr/entreprise/innovimmo-nevers-512115304",
+    "siren": "512115304",
+    "activite": "Activités immobilières",
+    "ca": 232442,
+    "resultat": 35573,
+    "effectif": "Entre 1 et 2 salariés",
+    "statut_badge": null,
+    "regle": "a"
+   }
+  ]
+ }
+]

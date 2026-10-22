@@ -1,0 +1,398 @@
+[
+ {
+  "rang": 19,
+  "nom_commercial": "SUMA (Volkswagen, VW Utilitaires, SEAT, Cupra, Škoda) Nevers & Volkswagen Cosne",
+  "description": "Société du groupe SUMA qui exploite, sous l'enseigne SUMA, le pôle Volkswagen Group de la ZAC des Grands Champs à Nevers (Volkswagen, VW Utilitaires, SEAT, Cupra, Škoda – 41 bd du Grand Pré des Bordes) et le site SUMA Volkswagen de Cosne-Cours-sur-Loire (1 rue des Gabarriers : vente Volkswagen, après-vente SEAT, Škoda et VW Utilitaires). Seuls deux établissements sont ouverts (siège de Nevers et Cosne) : les anciens sites cosnois de l'avenue du 85e de Ligne (fermé en 2014) et du 7 rue Bernot (fermé en 1998), ainsi que celui de Decize (fermé en 2013), n'existent plus. Audi Nevers relève d'une autre société du groupe (Nevers Premium Motors).",
+  "actualite": "CA 2024 de 38,4 M€ (-1,5 %) pour un résultat net de 524 K€ (comptes déposés en janvier 2026).",
+  "telephone": "03 86 36 18 74",
+  "linkedin": "https://www.linkedin.com/company/suma-auto/",
+  "angle_partenariat": "Présence directe à Cosne (SUMA Volkswagen, 1 rue des Gabarriers) : soirées clients et lancements de modèles Volkswagen, déjeuners d'équipe et remises pour le personnel du site cosnois ; la même direction (Richard Vives / Eddy Michel) pilote aussi Audi Nevers via Nevers Premium Motors (rang 43), d'où un possible partenariat élargi.",
+  "site_local": "SUMA Volkswagen Cosne (vente VW ; après-vente SEAT, Škoda, VW Utilitaires) – 1 rue des Gabarriers, 58200 Cosne-Cours-sur-Loire (établissement RCS « Champ du Tremblat », SIRET 349 431 254 00060) – 03 58 05 30 30",
+  "interlocuteur_cible": {
+   "nom": "Eddy Michel",
+   "fonction": "Directeur général délégué (aussi DG délégué de Nevers Premium Motors – Audi Nevers) ; président : Richard Vives",
+   "source": "Registre national des entreprises (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "corrections": [
+   "Les établissements cosnois de l'avenue du 85e de Ligne (« Audi Grands Champs Automobiles ») et du 7 rue Bernot (« GC Auto ») étaient présentés comme actifs : fermés respectivement le 31/07/2014 et le 02/03/1998 ; l'établissement de Decize est fermé depuis le 30/04/2013",
+   "Le seul site actif à Cosne est SUMA Volkswagen, 1 rue des Gabarriers (RCS : Champ du Tremblat) – il n'y a pas d'Audi à Cosne",
+   "Audi Nevers n'est pas exploité par cette société mais par Nevers Premium Motors (SIREN 529 213 050, même groupe SUMA) : Audi retiré du nom commercial et de l'angle"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=349431254",
+   "https://recherche-entreprises.api.gouv.fr/search?q=GRANDS%20CHAMPS%20AUTOMOBILES&code_postal=58200",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SUMA&departement=58&per_page=25",
+   "https://www.pappers.fr/entreprise/349431254",
+   "https://www.suma-auto.com/nos-concessions/",
+   "https://www.suma-auto.com/nos-concessions/volkswagen-cosne/",
+   "https://www.suma-auto.com/nos-concessions/volkswagen-nevers/",
+   "https://www.suma-auto.com/qui-sommes-nous/",
+   "https://www.l-itineraire.com/de_cosne-cours-sur-loire_a_nevers"
+  ]
+ },
+ {
+  "rang": 38,
+  "groupe": "Groupe Simonneau (holding Philippe Simonneau Holding, Saint-Doulchard (18), présidée par Philippe Simonneau ; environ 12 sites et 385 salariés selon L'argus, déc. 2020)",
+  "description": "Concession Renault/Dacia de Cosne-Cours-sur-Loire (80 avenue du 85e de Ligne), berceau du groupe familial Simonneau : le premier contrat Renault y a été signé en 1970. Le groupe distribue aujourd'hui Renault, Dacia et Alpine (et, selon L'argus 2020, Nissan, Mazda et Volvo) dans la Nièvre, le Cher, l'Indre et l'Allier ; il réalisait environ 170 M€ de CA en 2019 (L'argus).",
+  "actualite": "Comptes 2025 : CA 19,8 M€ et résultat net 249 K€, après une perte de 167 K€ en 2024 (CA 18,2 M€).",
+  "telephone": "03 86 26 81 81",
+  "site_web": "https://www.renault-cosne.fr",
+  "email": "contact@groupesimonneau.fr",
+  "linkedin": "https://www.linkedin.com/company/groupe-simonneau/",
+  "site_local": "Concession Renault / Dacia Cosne (siège) – 80 avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire – 03 86 26 81 81 (aussi sur dacia-cosne.fr)",
+  "interlocuteur_cible": {
+   "nom": "Philippe Simonneau",
+   "fonction": "Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société) ; son fils Pierre Simonneau était directeur adjoint du groupe en 2020",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) + L'argus, 09/12/2020"
+  },
+  "corrections": [
+   "Description : la liste de marques (Nissan, Mazda, Volvo) provenait de L'argus 2020 et était présentée au présent ; désormais datée (le site du groupe ne liste que des concessions Renault, Dacia et Alpine)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=621880012",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SIMONNEAU&departement=58&per_page=25",
+   "https://www.pappers.fr/entreprise/621880012",
+   "https://www.renault-cosne.fr/",
+   "https://www.dacia-cosne.fr/",
+   "https://concessionnaire.renault.fr/cosne-sur-loire.html",
+   "http://www.groupe-simonneau.fr/",
+   "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  ]
+ },
+ {
+  "rang": 59,
+  "distance_cosne_km": 95,
+  "description": "Grossiste en boissons (vins, spiritueux, bières, cafés, eaux, softs) pour les cafés, hôtels et restaurants, les associations et les particuliers : environ 40 salariés, plus de 500 clients CHR de Gien à Clermont, membre du réseau de distributeurs indépendants C10. L'activité déclarée au RCS inclut la vente et l'entretien de matériel CHR. Siège à Decize ; 5 dépôts (Decize, Corbigny, Cosne-Cours-sur-Loire – ZI du Tremblat, Moulins, Vichy/Creuzier-le-Vieux) et un réseau de caves, dont la Cave du Val d'Or, 13 place Georges-Clemenceau à Cosne.",
+  "actualite": "Nouvelle gouvernance : CHR Finances présidente depuis le 01/11/2024 et Frédéric Coussement directeur général depuis le 16/04/2025 (Thomas Coussement n'est plus DG, BODACC du 09/05/2025). CA 2023 : 13,2 M€ (+17 %) pour un résultat net de 518 K€ ; résultat net 2024 : 611 K€ (CA 2024 non publié).",
+  "telephone": "03 86 25 08 35",
+  "site_web": "https://www.chrboissons.com",
+  "effectif": "20-49 (environ 40 salariés selon le site)",
+  "site_local": "Dépôt CHR Boissons – ZI du Tremblat, 58200 Cosne-Cours-sur-Loire – 03 86 24 09 92 ; Cave du Val d'Or (même société) – 13 place Georges-Clemenceau, 58200 Cosne-Cours-sur-Loire – 03 86 26 91 63 (fiche annuaire non officielle)",
+  "interlocuteur_cible": {
+   "nom": "Frédéric Coussement",
+   "fonction": "Directeur général (depuis le 16/04/2025)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "corrections": [
+   "Distance : 2 km correspondait au dépôt de Cosne et non au siège de Decize (≈95 km de Cosne par la route) ; distance du siège rétablie et présence cosnoise reportée dans site_local",
+   "Actualité : « CA 13,2 M€ et résultat net 611 K€ » mélangeait deux exercices (CA 2023, résultat 2024)",
+   "Description : les types de matériel cités (lave-vaisselle, machines à glaçons…) n'étaient pas vérifiables ; remplacés par l'activité déclarée au RCS"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=400674875",
+   "https://www.pappers.fr/entreprise/400674875",
+   "https://api-avis-situation-sirene.insee.fr/identification/pdf/40067487500051",
+   "https://www.chrboissons.com",
+   "https://www.chrboissons.com/contact/",
+   "https://www.chrboissons.com/mentions-legales/",
+   "https://fr.custplace.com/cave-du-val-dor-121967-5",
+   "https://www.l-itineraire.com/de_cosne-cours-sur-loire_a_decize"
+  ]
+ },
+ {
+  "rang": 88,
+  "actualite": "Nouvel établissement principal créé le 29/01/2026 au 72 avenue Colbert à Nevers (le siège social reste 3 rue du Chemin de Fer) ; au conseil d'administration, Nicolas Mérindol a remplacé Guy Dugne (nomination du 21/05/2025, publiée au BODACC le 11/11/2025). CA 2025 : 8,19 M€ (en baisse depuis 2022), résultat net 46,8 K€.",
+  "angle_partenariat": "Visibilité locale : proposer à l'agence de Cosne (31 rue Saint-Agnan) un article sur la reprise du Vieux Relais et du M ; achat d'espace ou partenariat publicitaire via la régie du groupe, Centre France Publicité (78 avenue Colbert, Nevers – 03 86 59 89 70 – contact.regie@centrefrance.com, selon l'annuaire Cylex).",
+  "site_local": "Agence du Journal du Centre – 31 rue Saint-Agnan, 58200 Cosne-Cours-sur-Loire (établissement actif depuis 2017 ; même adresse que l'hebdomadaire Le Régional de Cosne et du Charitois selon Justacoté ; téléphone non publié)",
+  "interlocuteur_cible": null,
+  "corrections": [
+   "Actualité : pas de « renouvellement du conseil d'administration » en novembre 2025, mais le remplacement d'un administrateur (Guy Dugne par Nicolas Mérindol, nommé le 21/05/2025, publication BODACC du 11/11/2025)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=571880301",
+   "https://www.pappers.fr/entreprise/571880301",
+   "https://www.justacote.com/cosne-cours-sur-loire-58200/autre/",
+   "https://www.justacote.com/cosne-cours-sur-loire-58200/autre/le-journal-du-centre-2982038.htm",
+   "https://www.cylex-locale.fr/entreprises/centre-france-publicite-14149040.html"
+  ]
+ },
+ {
+  "rang": 100,
+  "description": "Fabricant de matériel de forage tubulaire (tiges, tubes et accessoires en acier, usinage de pièces techniques) sous la marque SMFI, installé 5 rue des Guérins à Cosne-Cours-sur-Loire ; environ 37 salariés et une clientèle surtout export (3,4 M€ sur 3,95 M€ de CA en 2025). Société créée en janvier 2020 et présidée par Charles Garvey, qui a repris l'activité SMFI auparavant exploitée à la même adresse par Altifort SMFI (savoir-faire de plus de 60 ans revendiqué).",
+  "actualite": "CA 2025 en forte baisse (3,95 M€ contre 7,26 M€ en 2024, -45,6 %) avec une perte nette de 463 K€ ; Nicolas Berhault nommé directeur général le 01/04/2026 (BODACC du 11/05/2026), en remplacement de Jean-Pierre Alaux.",
+  "angle_partenariat": "Industriel cosnois (≈37 salariés, clients surtout à l'export) : déjeuners d'affaires avec clients et visiteurs étrangers, repas d'équipe et afterworks à deux pas du centre-ville ; contexte financier tendu (perte en 2025), proposer des formules simples. NB : Pappers signale que la société s'est opposée à l'usage de ses données à des fins de prospection – privilégier un contact direct (visite, téléphone).",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Nicolas Berhault",
+   "fonction": "Directeur général (depuis le 01/04/2026) ; président : Charles Garvey",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers (BODACC du 11/05/2026)"
+  },
+  "corrections": [
+   "Actualité : Nicolas Berhault a été nommé DG le 01/04/2026 (mai 2026 est la date de publication au BODACC) ; il remplace Jean-Pierre Alaux"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=880515994",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SMFI&departement=58&per_page=25",
+   "https://www.pappers.fr/entreprise/880515994",
+   "https://mercato-emploi.com/?p=96330",
+   "https://lei.bloomberg.com/leis/view/969500S5WC7849E1Y596"
+  ]
+ },
+ {
+  "rang": 4,
+  "dirigeants": [
+   {
+    "nom": "DUMANGE FAMILY (personne morale)",
+    "fonction": "Présidente de SAS (depuis le 01/08/2023)"
+   },
+   {
+    "nom": "Sébastien Dumange",
+    "fonction": "Président de Dumange Family, holding présidente de Textilot"
+   },
+   {
+    "nom": "Delphine Dumange",
+    "fonction": "Directrice générale de Dumange Family"
+   }
+  ],
+  "groupe": "Dumange Family (holding familiale créée en 2023, présidée par Sébastien Dumange)",
+  "description": "Grossiste en prêt-à-porter fondé en 1974 par Régis Dumange, fournisseur des rayons textile de la grande distribution (Carrefour, Intermarché, Leclerc, Super U, Auchan, Casino, Cora…) en France, Belgique et Luxembourg. Exploite aussi une dizaine de magasins à l'enseigne « Plus » (Nevers, Moulins, Montluçon, Vichy, Auxerre, Chalon-sur-Saône, Saint-Germain-du-Puy…) et l'e-shop maboutiqueplus.fr. Un des plus gros employeurs privés de la Nièvre (500 à 999 salariés), très lié au rugby nivernais : l'association USON Rugby Plus est domiciliée à son siège.",
+  "actualite": "Gouvernance transmise à la holding familiale Dumange Family (présidente depuis le 01/08/2023) ; CA 2025 de 167 M€ pour un résultat net de 130 K€, contre 8,98 M€ de bénéfice en 2022 ; nouvel entrepôt déclaré 6 rue Denis Papin à Varennes-Vauzelles (janvier 2026).",
+  "linkedin": "https://www.linkedin.com/company/textilot",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Sébastien Dumange",
+   "fonction": "Président de Dumange Family (holding présidente de Textilot)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "corrections": [
+   "Description : « prêt-à-porter femme et enfant » non vérifiable (le site parle de prêt-à-porter) ; remplacé par « prêt-à-porter »"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=301420626",
+   "https://recherche-entreprises.api.gouv.fr/search?q=TEXTILOT&per_page=5",
+   "https://recherche-entreprises.api.gouv.fr/search?q=978029817",
+   "https://www.pappers.fr/entreprise/301420626",
+   "https://www.textilot.fr",
+   "https://everybodywiki.com/Textilot"
+  ]
+ },
+ {
+  "rang": 15,
+  "groupe": "Groupe Simonneau (holding Philippe Simonneau Holding, Saint-Doulchard (18), présidée par Philippe Simonneau ; environ 385 salariés et 12 sites selon L'argus, déc. 2020)",
+  "description": "Concession Renault et Dacia de Nevers, implantée ZA Les Commailles à Varennes-Vauzelles (2 rue Léonard de Vinci), avec un atelier 2 rue Gay-Lussac et le site Renault de Saint-Léger-des-Vignes (173 route nationale, agglomération de Decize) ; filiale du groupe familial Simonneau, né de la concession Renault de Cosne-Cours-sur-Loire (1970) et présent dans la Nièvre, le Cher, l'Indre et l'Allier (12 sites en 2020 selon L'argus).",
+  "actualite": "Comptes 2025 : CA 43,7 M€ (-2,1 %) et résultat net 549 K€ ; 91 salariés en 2024.",
+  "telephone": "03 86 93 00 00",
+  "site_web": "https://www.renault-nevers.fr",
+  "email": "contact@groupesimonneau.fr",
+  "linkedin": "https://www.linkedin.com/company/groupe-simonneau/",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Philippe Simonneau",
+   "fonction": "Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société) ; son fils Pierre Simonneau était directeur adjoint du groupe en 2020",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) + L'argus, 09/12/2020"
+  },
+  "corrections": [
+   "Description : « compte 12 sites … sous marques Nissan, Mazda et Volvo » reprenait des données de 2020 (L'argus) présentées au présent ; désormais datées"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=523229268",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SIMONNEAU&departement=58&per_page=25",
+   "https://www.pappers.fr/entreprise/523229268",
+   "https://www.renault-nevers.fr/",
+   "https://www.leboncoin.fr/boutique/4830",
+   "http://www.groupe-simonneau.fr/"
+  ]
+ },
+ {
+  "rang": 22,
+  "description": "Clinique privée du groupe Elsan à Nevers (49 bd Jérôme Trésaguet) : chirurgie (orthopédie-traumatologie, viscérale et digestive, urologie, ORL, ophtalmologie, stomatologie), cancérologie (oncologie médicale, chimiothérapie), cardiologie, unité de polysomnographie et parcours de soins de suite et de réadaptation (SSR) ; 80 lits, 35 places d'ambulatoire, 10 places de chimiothérapie, plus de 50 médecins spécialistes et une équipe d'environ 200 personnes. Pas de service d'urgences ; certifiée « avec mention » par la HAS depuis juillet 2024.",
+  "actualite": "Selon le Journal du Centre (20/07/2024), ouverture d'une unité de polysomnographie annoncée pour septembre 2024 et restructuration de la pharmacie, de la stérilisation et de l'ambulatoire prévue à partir de fin 2024 ; certification HAS « avec mention » (juillet 2024). Comptes 2025 : CA 29,8 M€, résultat net 119 K€.",
+  "effectif": "100-199 (160 salariés en 2025)",
+  "site_web": "https://www.elsan.care/fr/polyclinique-val-de-loire",
+  "linkedin": "https://www.linkedin.com/company/elsan/",
+  "angle_partenariat": "Cible secondaire (Nevers, 56 km, aucun site à Cosne) : offres CE / cartes cadeaux pour les salariés résidant dans le Cosnois, pots et soirées de service ponctuels ; passer par la direction ou la responsable RH.",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Jean-Claude Penet",
+   "fonction": "Directeur de la polyclinique (responsable RH : Marianne Save)",
+   "source": "elsan.care – page « Notre établissement »"
+  },
+  "corrections": [
+   "Actualité : l'article de juillet 2024 annonçait les travaux (prévus fin 2024) ; leur lancement effectif n'est pas confirmé par les sources"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=651880437",
+   "https://www.pappers.fr/entreprise/651880437",
+   "https://www.elsan.care/fr/polyclinique-val-de-loire",
+   "https://www.elsan.care/fr/polyclinique-val-de-loire/notre-etablissement",
+   "https://www.elsan.care/fr/polyclinique-val-de-loire/nos-actualites/de-nouveaux-projets-la-polyclinique-du-val-de-loire"
+  ]
+ },
+ {
+  "rang": 32,
+  "description": "Site de production nivernais du groupe suédois Alfa Laval (10 rue Alfred Massé, Nevers) : site industriel créé en 1947 (cuves à lait) qui fabrique et entretient depuis 1972 des échangeurs de chaleur spiralés pour la pétrochimie, le raffinage, la sidérurgie, la papeterie, le traitement des eaux et la pharmacie. Premier site de production d'Alfa Laval en France et centre d'excellence de cette technologie, il livre le monde entier hors Amériques et Inde.",
+  "actualite": "Comptes 2025 déposés (BODACC du 08/10/2026) : CA 23,2 M€ (contre 25,7 M€ en 2024) et perte nette de 3,56 M€, après -0,7 M€ en 2024 ; capital porté à 1,35 M€ (BODACC du 17/02/2026).",
+  "telephone": "03 86 59 83 01",
+  "linkedin": "https://www.linkedin.com/company/alfa-laval",
+  "angle_partenariat": "Cible secondaire (Nevers, 56 km) : repas d'affaires pour clients et auditeurs du groupe en visite, événements d'équipe pour ~115 salariés ; contexte de pertes (-3,56 M€ en 2025) peu propice aux dépenses.",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Johan Vanhoren",
+   "fonction": "Président de la SAS depuis le 10/05/2022 (mandataire du groupe ; directeur de site non identifié publiquement)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "corrections": [
+   "Actualité : le dernier exercice publié est 2025 (perte nette de 3,56 M€, CA 23,2 M€), et non 2024 (-0,7 M€)",
+   "Description : le site livre le monde entier hors Amériques et Inde (et non « le monde entier »)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=393676895",
+   "https://www.pappers.fr/entreprise/393676895",
+   "https://www.alfalaval.fr/a-propos-alfa-laval/notre-entreprise/alfa-laval-en-france/alfa-laval-spiral/",
+   "https://www.lindustrie-recrute.fr/entreprise/4366/"
+  ]
+ },
+ {
+  "rang": 41,
+  "dirigeants": [
+   {
+    "nom": "Emilie SAGNELONGE",
+    "fonction": "Présidente du conseil d'administration (BODACC du 12/08/2025) et Directrice générale (BODACC du 27/01/2026)"
+   },
+   {
+    "nom": "Audrey BOUVIER",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Bruno COQUARD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Etienne FEDON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Frédéric FERREIRA",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Pascal PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Sarah PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "David PINON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Erick PITON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Dylan RENAULT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Corinne RICHARD (DAUDET)",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Chrystèle ROUMY (GRALL)",
+    "fonction": "Administrateur"
+   }
+  ],
+  "actualite": "CA 2025 de 20 M€ (+17 %) ; bénéficiaire depuis 2024 (1,52 M€ en 2024, 1,26 M€ en 2025) après des pertes en 2022-2023 ; projet d'investissement « Laballery 3 » (2,92 M€ HT, dont 730 K€ de FEDER) ; Emilie Sagnelonge présidente du conseil d'administration depuis l'été 2025 et directrice générale depuis janvier 2026, succédant à David Perrain et Hubert Pédurand.",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Emilie Sagnelonge",
+   "fonction": "Présidente-directrice générale (directrice de la publication du site)",
+   "source": "laballery.fr (informations légales) / BODACC"
+  },
+  "corrections": [
+   "Actualité : le retour aux bénéfices date de 2024 (1,52 M€) ; le résultat 2025 (1,26 M€) est en baisse",
+   "Dirigeants : conseil d'administration incomplet (manquaient Sarah Petit, Erick Piton, Dylan Renault, Corinne Richard et Chrystèle Roumy)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=392607545",
+   "https://www.pappers.fr/entreprise/392607545",
+   "https://www.laballery.fr"
+  ]
+ },
+ {
+  "rang": 55,
+  "groupe": "Groupe familial Deromedi – pôle Deromedi Carrières et Matériaux (Paris 16e, présidé par Gilles Deromedi : 6 sites, ~70 collaborateurs, ~1,5 Mt extraites par an) ; Gilles Deromedi gère aussi SOSEMAT (sablière Les Pelus, Neuvy-sur-Loire) et Transports Emile Boffin (Villemandeur, 45)",
+  "site_web": "https://www.deromedicarrieres.fr",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Gilles Deromedi",
+   "fonction": "Gérant (depuis le 01/04/2017) ; président de Deromedi Carrières et Matériaux",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / mentions légales deromedicarrieres.fr"
+  },
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=330907205",
+   "https://recherche-entreprises.api.gouv.fr/search?q=DEROMEDI&per_page=25",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SOSEMAT&per_page=10",
+   "https://recherche-entreprises.api.gouv.fr/search?q=BOFFIN%20TRANSPORTS&per_page=10",
+   "https://www.pappers.fr/entreprise/330907205",
+   "https://www.deromedicarrieres.fr/",
+   "https://www.deromedicarrieres.fr/mentions-legales/",
+   "https://travail-industrie.com/risques-industriels/site/deromedi-carrieres-ciez",
+   "https://www.l-itineraire.com/de_cosne-cours-sur-loire_a_ciez"
+  ]
+ },
+ {
+  "rang": 66,
+  "site_web": "https://www.evorial.fr",
+  "angle_partenariat": "Laboratoire implanté à Cosne (9 rue Croix Janvier) : afterworks et repas d'équipe pour le personnel du site, repas de réseau avec biologistes et médecins prescripteurs. NB : Pappers signale que la société s'est opposée à l'usage de ses données à des fins de prospection – privilégier un contact direct.",
+  "site_local": "Laboratoire Evorial Cosne – 9 rue Croix Janvier, 58200 Cosne-Cours-sur-Loire – 03 86 28 04 66",
+  "interlocuteur_cible": {
+   "nom": "David Long",
+   "fonction": "Président depuis le 10/08/2026 (directeurs généraux : Caroline Faure, Arel Desjardin)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers (BODACC du 11/08/2026)"
+  },
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=328162284",
+   "https://www.pappers.fr/entreprise/328162284",
+   "https://www.nonsurtaxe.com/covid/centre-de-depistage/pTwglB8dZwgpUQJH-",
+   "https://www.nonsurtaxe.com/covid/centre-de-depistage/bZTh0j6G1by8UMtz-LBM-EVORIAL-NEVERS",
+   "https://www.keskeces.com/etablissement-medicaux/laboratoire-evorial-58000-nevers.html",
+   "https://village.ai/company/evorial"
+  ]
+ },
+ {
+  "rang": 87,
+  "site_web": "https://clinique-chateau-du-tremblay.ramsaysante.fr",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Tanguy Charbonnier",
+   "fonction": "Directeur général de la SAS (depuis le 01/07/2023) ; président : Benoît Hue (Ramsay Santé)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=631880192",
+   "https://www.pappers.fr/entreprise/631880192",
+   "https://www.santeenfrance.fr/etablissement/48106-clinique-du-chateau-du-tremblay",
+   "https://clinique-chateau-du-tremblay.ramsaysante.fr/sites/default/files/biblio/domaines/clinique_chateau_du_tremblay/satisfaction_patients_annee_2014_clinique_du_chateau_du_tramblay.pdf",
+   "https://www.l-itineraire.com/de_cosne-cours-sur-loire_a_chaulgnes"
+  ]
+ },
+ {
+  "rang": 94,
+  "groupe": "Groupe Vincent (distribution automobile nivernaise) : holding VINCENT SAS, 3 route de Paris à Varennes-Vauzelles, présidée par Rodolphe Vincent, également président de Distance (VINCENT SA était administratrice jusqu'en 2023)",
+  "description": "Loueur de voitures, utilitaires et camions (courte et longue durée) basé route de Paris à Varennes-Vauzelles, avec des agences à Cosne-Cours-sur-Loire (chemin rural du Grand Champ, depuis 2014) et à Créteil (94, depuis 2021) ; clientèle de particuliers, d'entreprises et de collectivités (marchés de location de véhicules avec Ivry-sur-Seine et Saint-Maur-des-Fossés). Société rattachée au groupe automobile Vincent.",
+  "angle_partenariat": "Agence à Cosne : offres croisées (location de minibus/véhicules pour les événements, remise pour les clients du loueur) et déjeuners d'équipe ; possibilité d'élargir au groupe Vincent (VINCENT SAS, même président).",
+  "site_local": "Agence Distance – chemin rural du Grand Champ (secteur RN7 Cosne Sud), 58200 Cosne-Cours-sur-Loire (établissement actif depuis 2014 ; téléphone non trouvé)",
+  "interlocuteur_cible": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président (depuis 2021) ; préside aussi la holding VINCENT SAS",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "corrections": [
+   "Groupe : présentée comme loueur indépendant (groupe null) alors qu'elle est liée au groupe Vincent (holding VINCENT SAS, même président ; VINCENT SA administratrice jusqu'en 2023 ; catégorie INSEE ETI)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=950376566",
+   "https://recherche-entreprises.api.gouv.fr/search?q=571881002",
+   "https://recherche-entreprises.api.gouv.fr/search?q=GRANDS%20CHAMPS%20AUTOMOBILES&code_postal=58200",
+   "https://www.pappers.fr/entreprise/950376566",
+   "https://www.justacote.com/pougues-les-eaux-58320/location-de-vehicule/",
+   "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+  ]
+ }
+]

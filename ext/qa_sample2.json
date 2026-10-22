@@ -1,0 +1,546 @@
+[
+ {
+  "rang": 354,
+  "siren": "831037817",
+  "nom": "GUILLET-PIRON",
+  "ca": 557300,
+  "resultat": -662,
+  "annee_ca": "2025",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "3-5 salariés",
+  "eff_annee": "2024",
+  "adresse": "33 RUE LUCIEN PERREIMOND",
+  "code_postal": "58300",
+  "ville": "Champvert",
+  "activite": "Travaux de construction spécialisés",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Marvine GUILLET",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/guillet-piron-831037817"
+ },
+ {
+  "rang": 294,
+  "siren": "378124291",
+  "nom": "SOCIETE MICHOT",
+  "ca": 907497,
+  "resultat": 170,
+  "annee_ca": "2024",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "3-5 salariés",
+  "eff_annee": "2024",
+  "adresse": "RUE DURAND",
+  "code_postal": "58600",
+  "ville": "Garchizy",
+  "activite": "Réparation et installation de machines et d'équipements",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Laurent MICHOT",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/societe-michot-378124291"
+ },
+ {
+  "rang": 160,
+  "siren": "479140758",
+  "nom": "ANSSEMS REMORQUES",
+  "ca": 2901837,
+  "resultat": 32162,
+  "annee_ca": "2024",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "3-5 salariés",
+  "eff_annee": "2024",
+  "adresse": "RUE PIERRE BROSSOLETTE",
+  "code_postal": "58600",
+  "ville": "Garchizy",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Monique ANSSEMS",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Thijs VAN EIJNDHOVEN",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
+ },
+ {
+  "rang": 316,
+  "siren": "851715821",
+  "nom": "IMS Consulting Europe",
+  "ca": 804088,
+  "resultat": 108261,
+  "annee_ca": "2024",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "1-2 salariés",
+  "eff_annee": "2024",
+  "adresse": "2261 RTE IMPERIALE ECO PARC DE LA NIEVR",
+  "code_postal": "58110",
+  "ville": "Tamnay-en-Bazois",
+  "activite": "Autres activités spécialisées, scientifiques et techniques",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Graham SPRIGG",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/ims-consulting-europe-851715821"
+ },
+ {
+  "rang": 152,
+  "siren": "899839492",
+  "nom": "TSF GERIN EXPLOITATION",
+  "ca": 3380000,
+  "resultat": 2530,
+  "annee_ca": "2024",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "6-9 salariés",
+  "eff_annee": "2024",
+  "adresse": "ROUTE N7 LE GRAND CHAMP",
+  "code_postal": "58200",
+  "ville": "Cosne-Cours-sur-Loire",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "AH EXPLOITATION",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/tsf-gerin-exploitation-899839492"
+ },
+ {
+  "rang": 363,
+  "siren": "812180347",
+  "nom": "SASU LA VALLEE CHANNY",
+  "ca": 511515,
+  "resultat": -35876,
+  "annee_ca": "2023",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "0 salarié",
+  "eff_annee": null,
+  "adresse": "25 RUE ALBERT THOMAS",
+  "code_postal": "58150",
+  "ville": "Garchy",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Jean-Baptiste MOURLON",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/sasu-la-vallee-channy-812180347"
+ },
+ {
+  "rang": 291,
+  "siren": "920006046",
+  "nom": "AXENCE",
+  "ca": 923000,
+  "resultat": 129183,
+  "annee_ca": "2024",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "0 salarié",
+  "eff_annee": null,
+  "adresse": "2 CHEMIN DE LA GARDE",
+  "code_postal": "58190",
+  "ville": "Saint-Aubin-des-Chaumes",
+  "activite": "Activités immobilières",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "LA LICORNE",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/axence-920006046"
+ },
+ {
+  "rang": 130,
+  "siren": "792570335",
+  "nom": "CORIMAR",
+  "ca": 4094565,
+  "resultat": 177215,
+  "annee_ca": "2024",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "10-19 salariés",
+  "eff_annee": "2024",
+  "adresse": "LD DU PRE AUX SAINTS RUE DE PARIS",
+  "code_postal": "58470",
+  "ville": "Magny-Cours",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "REGULAR",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/corimar-792570335"
+ },
+ {
+  "rang": 185,
+  "siren": "309230084",
+  "nom": "LES CARS CHARLES",
+  "ca": 2347611,
+  "resultat": 115844,
+  "annee_ca": "2025",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "20-49 salariés",
+  "eff_annee": "2024",
+  "adresse": "LE BOURG",
+  "code_postal": "58230",
+  "ville": "Dun-les-Places",
+  "activite": "Transports terrestres et transport par conduites",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Fabrice CHARLES",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Roman CHARLES",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
+ },
+ {
+  "rang": 133,
+  "siren": "530108307",
+  "nom": "AP NEVERS",
+  "ca": 3970594,
+  "resultat": 175051,
+  "annee_ca": "2025",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "50-99 salariés",
+  "eff_annee": "2024",
+  "adresse": "37-39, 37 RUE JEAN GAUTHERIN",
+  "code_postal": "58000",
+  "ville": "Nevers",
+  "activite": "Hébergement médico-social et social",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "DOMIDEP",
+    "fonction": "Président"
+   },
+   {
+    "nom": "AP2",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/ap-nevers-530108307"
+ },
+ {
+  "rang": 173,
+  "siren": "804785566",
+  "nom": "LOLLIPOP",
+  "ca": 2571371,
+  "resultat": 144466,
+  "annee_ca": "2025",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "20-49 salariés",
+  "eff_annee": "2024",
+  "adresse": "83 AVENUE DU 14 JUILLET",
+  "code_postal": "58300",
+  "ville": "Decize",
+  "activite": "Restauration",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "STAG",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/lollipop-804785566"
+ },
+ {
+  "rang": 151,
+  "siren": "302555222",
+  "nom": "D.I.F. DETERGENCE INDUSTRIELLE FRANCAISE",
+  "ca": 3391579,
+  "resultat": -361531,
+  "annee_ca": "2025",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "10-19 salariés",
+  "eff_annee": "2024",
+  "adresse": "ZI DU TREMBLAT RUE DE VILLECHAUD",
+  "code_postal": "58200",
+  "ville": "Cosne-Cours-sur-Loire",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "NOVARC",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Cédric Stéphane BRA",
+    "fonction": "Directeur général délégué"
+   },
+   {
+    "nom": "Vincent PHEBY",
+    "fonction": "Directeur général délégué"
+   },
+   {
+    "nom": "M&I PRO",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222"
+ },
+ {
+  "rang": 222,
+  "siren": "305690950",
+  "nom": "CINE MAZARIN",
+  "ca": 1741527,
+  "resultat": 13011,
+  "annee_ca": "2025",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "6-9 salariés",
+  "eff_annee": "2024",
+  "adresse": "120 RUE DE CHARLEVILLE-MEZIERES",
+  "code_postal": "58000",
+  "ville": "Nevers",
+  "activite": "Production de films cinématographiques, de vidéo et de programmes de télévision ; enregistrement sonore et édition musicale",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "CINEWEST",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/cine-mazarin-305690950"
+ },
+ {
+  "rang": 178,
+  "siren": "414871772",
+  "nom": "V.A.R.V.",
+  "ca": 2478464,
+  "resultat": 26199,
+  "annee_ca": "2025",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "10-19 salariés",
+  "eff_annee": "2024",
+  "adresse": "33 BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "ville": "Varennes-Vauzelles",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Rozenn GAUTRAIS",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "TOP BOOSTER",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "IMPULSE & CO",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "TRAINER & CO",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/varv-414871772"
+ },
+ {
+  "rang": 104,
+  "siren": "412880445",
+  "nom": "RAVINE",
+  "ca": 6630196,
+  "resultat": 57620,
+  "annee_ca": "2024",
+  "ca_non_publie": false,
+  "note_comptes": null,
+  "effectif": "20-49 salariés",
+  "eff_annee": "2024",
+  "adresse": "PARC DU VAL DE LOIRE RUE DES FONDEURS",
+  "code_postal": "58200",
+  "ville": "Cosne-Cours-sur-Loire",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "XENT",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/ravine-412880445"
+ },
+ {
+  "rang": 460,
+  "siren": "351271127",
+  "nom": "MORVAN CHARCUTERIES SALAISONS",
+  "ca": null,
+  "resultat": null,
+  "annee_ca": null,
+  "ca_non_publie": true,
+  "note_comptes": null,
+  "effectif": "10-19 salariés",
+  "eff_annee": "2024",
+  "adresse": "ZI DE SURGY RUE HELENE BOUCHER",
+  "code_postal": "58500",
+  "ville": "Clamecy",
+  "activite": "Industries alimentaires",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "GUSTEO",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Thierry MOSSON",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/morvan-charcuteries-salaisons-351271127"
+ },
+ {
+  "rang": 451,
+  "siren": "351142807",
+  "nom": "CEGEPLAST",
+  "ca": null,
+  "resultat": null,
+  "annee_ca": null,
+  "ca_non_publie": true,
+  "note_comptes": "Derniers chiffres publiés : exercice 2022 (CA 4,3 M€), rien depuis.",
+  "effectif": "20-49 salariés",
+  "eff_annee": "2023",
+  "adresse": "130 RUE FRANCIS GARNIER",
+  "code_postal": "58000",
+  "ville": "Nevers",
+  "activite": "Industrie automobile",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "DRAGONFLY ENGINEERING",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/cegeplast-351142807"
+ },
+ {
+  "rang": 496,
+  "siren": "453672891",
+  "nom": "SIGNANET",
+  "ca": null,
+  "resultat": null,
+  "annee_ca": null,
+  "ca_non_publie": true,
+  "note_comptes": null,
+  "effectif": "10-19 salariés",
+  "eff_annee": "2024",
+  "adresse": "ZAC DU FOUR A CHAUX 10 RUE HENRI DARCY",
+  "code_postal": "58300",
+  "ville": "Decize",
+  "activite": "Génie civil",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Maxime BUCHEZ",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Christian SAGET",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/signanet-453672891"
+ },
+ {
+  "rang": 489,
+  "siren": "817382187",
+  "nom": "Air controle",
+  "ca": null,
+  "resultat": null,
+  "annee_ca": null,
+  "ca_non_publie": true,
+  "note_comptes": null,
+  "effectif": "10-19 salariés",
+  "eff_annee": "2024",
+  "adresse": "119 AVENUE DE VERDUN",
+  "code_postal": "58300",
+  "ville": "Decize",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "Maxime Rosario Ousmane SORBELLO",
+    "fonction": "Président"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/air-controle-817382187"
+ },
+ {
+  "rang": 477,
+  "siren": "818200396",
+  "nom": "TAXI POY",
+  "ca": null,
+  "resultat": null,
+  "annee_ca": null,
+  "ca_non_publie": true,
+  "note_comptes": "Derniers chiffres publiés : exercice 2022 (CA 716 k€), rien depuis.",
+  "effectif": "10-19 salariés",
+  "eff_annee": "2024",
+  "adresse": "12 CHEMIN DES BOURDONS 58640 VARENNES-VAUZELLES",
+  "code_postal": "58640",
+  "ville": "Varennes-Vauzelles",
+  "activite": "Transports terrestres et transport par conduites",
+  "statut": "Active",
+  "note_classement": null,
+  "dirigeants": [
+   {
+    "nom": "DANIEL ADRIEN POY",
+    "fonction": "Gérant"
+   }
+  ],
+  "pappers_url": "https://www.pappers.fr/entreprise/818200396"
+ }
+]

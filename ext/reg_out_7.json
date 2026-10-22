@@ -1,0 +1,930 @@
+[
+ {
+  "siren": "385244009",
+  "nom_complet": "COPIEFAX",
+  "enseignes": [],
+  "adresse": "52 B BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 47.012740258,
+  "longitude": 3.1512590833,
+  "naf": "46.66Z",
+  "nature_juridique": "5499",
+  "date_creation": "1992-04-27",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "JEAN-PIERRE BOURDILLAT",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "THIBAUT BOURDILLAT",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "434598173",
+  "nom_complet": "GALLOIS ROBERT ET ASSOCIES",
+  "enseignes": [],
+  "adresse": "50 RUE MARCEL ROBIN",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 47.015065451,
+  "longitude": 3.1391002846,
+  "naf": "43.22A",
+  "nature_juridique": "5499",
+  "date_creation": "2001-02-01",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "LAURENT GALLOIS",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "802929158",
+  "nom_complet": "GARAGE DES SENETS (GARAGE DES SENETS)",
+  "enseignes": [],
+  "adresse": "28-30 28 BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 47.010484485,
+  "longitude": 3.1522691982,
+  "naf": "45.20B",
+  "nature_juridique": "5710",
+  "date_creation": "2014-06-13",
+  "tranche_effectif": "03",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "FREDERIC BRE",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "343056628",
+  "nom_complet": "GUYON & ASSOCIEE",
+  "enseignes": [],
+  "adresse": "15 RUE DU BENGY",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 47.031524933,
+  "longitude": 3.1442859568,
+  "naf": "69.20Z",
+  "nature_juridique": "5499",
+  "date_creation": "1987-12-02",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "SONIA JEANNE LOUISE GUYON (MOUILLERON)",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "813205473",
+  "nom_complet": "J C SHUNXIN",
+  "enseignes": [
+   "LE GRILLARDIN STEAK HOUSE"
+  ],
+  "adresse": "CHAMPS DES NOYERS RUE HENRI BOUQUILLARD",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 46.996506772,
+  "longitude": 3.1217243337,
+  "naf": "56.10A",
+  "nature_juridique": "5499",
+  "date_creation": "2015-08-18",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "JIANPING FANG",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "LU CHEN (LIN)",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "914586185",
+  "nom_complet": "LE BENGY (RESTAURANT LE BENGY)",
+  "enseignes": [
+   "RESTAURANT LE BENGY"
+  ],
+  "adresse": "25 ROUTE DE PARIS",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 47.030393321,
+  "longitude": 3.1427532452,
+  "naf": "56.10A",
+  "nature_juridique": "5710",
+  "date_creation": "2022-07-01",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "SEBASTIEN CLAUDE BERNARD ETIENNE",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "AMBRE MARIE-ANNE MAZOYER",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "525407011",
+  "nom_complet": "LE SIECLE D 'OR (SAVEURS GOURMANDES)",
+  "enseignes": [
+   "SAVEURS GOURMANDES"
+  ],
+  "adresse": "CHAMPS DES NOYERS RUE HENRI BOUQUILLARD",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 46.9969162,
+  "longitude": 3.1280907688,
+  "naf": "56.10A",
+  "nature_juridique": "5499",
+  "date_creation": "2010-10-01",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "YUNWEI HU",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "530024611",
+  "nom_complet": "LUDOVIC THAUSE TOURISME (LUDOVIC THAUSE TOURISME)",
+  "enseignes": [
+   "LUDOVIC THAUSE TOURISME"
+  ],
+  "adresse": "14 RUE JACQUES DUCLOS",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 47.0213350948591,
+  "longitude": 3.15094506959578,
+  "naf": "49.39B",
+  "nature_juridique": "5499",
+  "date_creation": "2011-01-01",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "HERVE MILLERIOUX",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "LUDOVIC THAUSE",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "500144969",
+  "nom_complet": "MULTIVULCA",
+  "enseignes": [],
+  "adresse": "70 RUE GUY MOQUET",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 47.000154077,
+  "longitude": 3.1330421087,
+  "naf": "22.19Z",
+  "nature_juridique": "5710",
+  "date_creation": "2007-09-06",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "RICHEMON GROUP INTERNATIONAL II",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "CHRISTIAN TONDU",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "STEVEN TONDU",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "534299797",
+  "nom_complet": "ORCHID (CENTRAKOR)",
+  "enseignes": [
+   "CENTRAKOR"
+  ],
+  "adresse": "5 RUE DU CHAMP DES NOYERS",
+  "code_postal": "58640",
+  "commune": "VARENNES-VAUZELLES",
+  "latitude": 46.997294001,
+  "longitude": 3.1230260118,
+  "naf": "47.78C",
+  "nature_juridique": "5499",
+  "date_creation": "2011-08-16",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "FREDERIC DELQUE",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "LAURENT ESPANET",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "383950268",
+  "nom_complet": "SOCIETE GILLET",
+  "enseignes": [],
+  "adresse": "ZONE INDUSTRIELLE",
+  "code_postal": "58640",
+  "commune": "VARENNES VAUZELLES",
+  "latitude": 47.047021749,
+  "longitude": 3.125562165,
+  "naf": "46.73A",
+  "nature_juridique": "5710",
+  "date_creation": "1991-12-01",
+  "tranche_effectif": "03",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "THIERRY GILLET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "SANDIE JESSY GILLET",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "394326854",
+  "nom_complet": "SARL DELIN J.",
+  "enseignes": [],
+  "adresse": "57 GRANDE RUE",
+  "code_postal": "58130",
+  "commune": "GUERIGNY",
+  "latitude": 47.08469224,
+  "longitude": 3.1929995135,
+  "naf": "43.91B",
+  "nature_juridique": "5499",
+  "date_creation": "1994-03-10",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "FRANCK DELIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "SEVERINE DELIN",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "840504427",
+  "nom_complet": "LES PATTES DOUCES (UNAE)",
+  "enseignes": [],
+  "adresse": "2 RUE DE VEAUPOULE",
+  "code_postal": "58420",
+  "commune": "BRINON-SUR-BEUVRON",
+  "latitude": 47.2797375642692,
+  "longitude": 3.49097471305466,
+  "naf": "10.86Z",
+  "nature_juridique": "5710",
+  "date_creation": "2018-06-15",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "HOLDING VEGEO GROUPE",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "837471556",
+  "nom_complet": "CALYS",
+  "enseignes": [],
+  "adresse": "1 ROUTE DE SAUVRY",
+  "code_postal": "58270",
+  "commune": "SAINT-BENIN-D'AZY",
+  "latitude": 46.9960105189979,
+  "longitude": 3.39492200148929,
+  "naf": "68.20B",
+  "nature_juridique": "5710",
+  "date_creation": "2018-02-14",
+  "tranche_effectif": "00",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "SEBASTIEN MARILLER",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "902859438",
+  "nom_complet": "CHEZ PETRE",
+  "enseignes": [],
+  "adresse": "1 PLACE SAINT LOUIS",
+  "code_postal": "58800",
+  "commune": "CORBIGNY",
+  "latitude": 47.255315832,
+  "longitude": 3.6815767022,
+  "naf": "10.71C",
+  "nature_juridique": "5499",
+  "date_creation": "2021-09-07",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "LAURENCE MARTIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "JULIEN PETRE",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "778446500",
+  "nom_complet": "GROUPE VETERINAIRE DE CORBIGNY-VARZY-ENTRAINS",
+  "enseignes": [],
+  "adresse": "2 RUE DES ESSAIS",
+  "code_postal": "58800",
+  "commune": "CORBIGNY",
+  "latitude": 47.25671236466,
+  "longitude": 3.68090165876026,
+  "naf": "75.00Z",
+  "nature_juridique": "2900",
+  "date_creation": "1900-01-01",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [],
+  "source": "api"
+ },
+ {
+  "siren": "749941332",
+  "nom_complet": "BOURGOGNE TRAVAUX PUBLICS - B.T.P.",
+  "enseignes": [],
+  "adresse": "LES PERDRIATS",
+  "code_postal": "58160",
+  "commune": "ST OUEN SUR LOIRE",
+  "latitude": 46.916002772,
+  "longitude": 3.3173270818,
+  "naf": "43.12A",
+  "nature_juridique": "5499",
+  "date_creation": "2012-03-01",
+  "tranche_effectif": "03",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "MARC ANDRÉ LOUIS SIMONNET",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "PAUL PASCAL SIMONNET",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "879128338",
+  "nom_complet": "EON PACK (EON PACK)",
+  "enseignes": [],
+  "adresse": "11 RUE JACQUES ADENOT",
+  "code_postal": "58160",
+  "commune": "IMPHY",
+  "latitude": 46.921100959,
+  "longitude": 3.2661720187,
+  "naf": "16.24Z",
+  "nature_juridique": "5710",
+  "date_creation": "2019-11-20",
+  "tranche_effectif": "03",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "ARBACA",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "329903520",
+  "nom_complet": "AGENCE DU VAL D ALLIER (AVAL)",
+  "enseignes": [],
+  "adresse": "17 PLACE DE L'EGLISE",
+  "code_postal": "58240",
+  "commune": "SAINT-PIERRE-LE-MOUTIER",
+  "latitude": 46.789806227,
+  "longitude": 3.1179214763,
+  "naf": "68.31Z",
+  "nature_juridique": "5499",
+  "date_creation": "1984-05-18",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "JEAN-PHILIPPE MINE",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "528450539",
+  "nom_complet": "GARAGE DU PANAMA (GARAGE DU PANAMA)",
+  "enseignes": [
+   "GARAGE DU PANAMA"
+  ],
+  "adresse": "14 RUE DE MOULINS",
+  "code_postal": "58240",
+  "commune": "SAINT-PIERRE-LE-MOUTIER",
+  "latitude": 46.786672666,
+  "longitude": 3.1213011094,
+  "naf": "45.20A",
+  "nature_juridique": "5499",
+  "date_creation": "2010-11-10",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "JOHNNY RAYMOND PICHARD",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "MARJORIE PICHARD (DRU)",
+    "fonction": "Autre"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "834449225",
+  "nom_complet": "CARROSSERIE DELAPORTE",
+  "enseignes": [],
+  "adresse": "ZA LES PONTOTS ROUTE DE CHATILLON",
+  "code_postal": "58290",
+  "commune": "MOULINS-ENGILBERT",
+  "latitude": 46.990742733,
+  "longitude": 3.8045146897,
+  "naf": "45.20A",
+  "nature_juridique": "5710",
+  "date_creation": "2018-01-01",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "PHILIPPE DELAPORTE",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "343908042",
+  "nom_complet": "CARS TABOUREAU",
+  "enseignes": [],
+  "adresse": "METZ ROBLIN",
+  "code_postal": "58230",
+  "commune": "GOULOUX",
+  "latitude": 47.247292942,
+  "longitude": 4.0728974081,
+  "naf": "49.39A",
+  "nature_juridique": "5499",
+  "date_creation": "1988-01-01",
+  "tranche_effectif": "11",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "CAROLE GISÈLE MARIE-LOUISE MARTINE TABOUREAU",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "PATRICK CONSTANT AUGUSTE TABOUREAU",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "840106405",
+  "nom_complet": "DAROTO",
+  "enseignes": [],
+  "adresse": "15 PLACE POUYAT",
+  "code_postal": "58250",
+  "commune": "FOURS",
+  "latitude": 46.815970337,
+  "longitude": 3.7209584136,
+  "naf": "45.20A",
+  "nature_juridique": "5499",
+  "date_creation": "2018-06-05",
+  "tranche_effectif": "02",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "DAVID CLOIX",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "900914888",
+  "nom_complet": "GAIASOL",
+  "enseignes": [],
+  "adresse": "119 AVENUE DE VERDUN",
+  "code_postal": "58300",
+  "commune": "DECIZE",
+  "latitude": 46.8273492920575,
+  "longitude": 3.48238533421451,
+  "naf": "71.12B",
+  "nature_juridique": "5710",
+  "date_creation": "2021-06-01",
+  "tranche_effectif": "03",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "LOIC PEYRICHOUT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "913478970",
+  "nom_complet": "S.A.S.U AGRICOLOGIE NIVERNAIS - BERRY",
+  "enseignes": [],
+  "adresse": "43 ROUTE DE CHALUZY",
+  "code_postal": "58000",
+  "commune": "SAINT-ELOI",
+  "latitude": 46.9970498879849,
+  "longitude": 3.19504969999959,
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2022-04-01",
+  "tranche_effectif": "NN",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "NICOLAS BRIET",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "878196088",
+  "nom_complet": "SASU ERKA CONSTRUCTION",
+  "enseignes": [],
+  "adresse": "1 RUE DE LA PLAGE",
+  "code_postal": "58160",
+  "commune": "IMPHY",
+  "latitude": 46.9266028809182,
+  "longitude": 3.26011269027324,
+  "naf": "43.99C",
+  "nature_juridique": "5710",
+  "date_creation": "2019-11-01",
+  "tranche_effectif": "02",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "ERTUGRUL KARADAS",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "399006063",
+  "nom_complet": "AMANDIO DE OLIVEIRA",
+  "enseignes": [],
+  "adresse": "18 RUE DU LAVOIR BUSSY",
+  "code_postal": "58270",
+  "commune": "SAINT-FIRMIN",
+  "latitude": 47.042958028,
+  "longitude": 3.3873910231,
+  "naf": "43.91B",
+  "nature_juridique": "5710",
+  "date_creation": "1994-09-01",
+  "tranche_effectif": "02",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "VINCENT DEPLANQUE",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "922366125",
+  "nom_complet": "MENAUTO 58",
+  "enseignes": [],
+  "adresse": "38 AVENUE SAINT-JEAN",
+  "code_postal": "58800",
+  "commune": "CORBIGNY",
+  "latitude": 47.254569465,
+  "longitude": 3.6791565479,
+  "naf": "45.20A",
+  "nature_juridique": "5499",
+  "date_creation": "2023-01-02",
+  "tranche_effectif": "01",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "MENSOUR MAKAREVIC",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "MENSUR MAKAREVIC",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "448323170",
+  "nom_complet": "L AUBERGE ENSOLEILLEE MAISON BLANDIN",
+  "enseignes": [],
+  "adresse": "LE BOURG",
+  "code_postal": "58230",
+  "commune": "DUN-LES-PLACES",
+  "latitude": 47.284084077,
+  "longitude": 4.0144810677,
+  "naf": "55.10Z",
+  "nature_juridique": "5499",
+  "date_creation": "2003-04-01",
+  "tranche_effectif": "00",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "DANIELLE VANZETTO (BLANDIN)",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "985183763",
+  "nom_complet": "LES COCOTTES DE DECIZE (LES COCOTTES)",
+  "enseignes": [
+   "LES COCOTTES"
+  ],
+  "adresse": "57 AVENUE DE VERDUN",
+  "code_postal": "58300",
+  "commune": "DECIZE",
+  "latitude": 46.829732156,
+  "longitude": 3.4708341979,
+  "naf": "56.10A",
+  "nature_juridique": "5499",
+  "date_creation": "2024-02-10",
+  "tranche_effectif": "02",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "DIMITRI DANIEL CHARLES CAPILLIEZ",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "SIMONE MONIQUE MAURER",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "839098258",
+  "nom_complet": "ETS BUTEAU (ETS BUTEAU)",
+  "enseignes": [
+   "ETS BUTEAU"
+  ],
+  "adresse": "26 RUE DE LA REPUBLIQUE",
+  "code_postal": "58300",
+  "commune": "DECIZE",
+  "latitude": 46.828636034,
+  "longitude": 3.4624813495,
+  "naf": "95.21Z",
+  "nature_juridique": "5499",
+  "date_creation": "2018-04-20",
+  "tranche_effectif": "01",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "DAMIEN MATHIEU FABRICE GARNIER",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "827816042",
+  "nom_complet": "VINS STEPHANE CHARLOT (SO' DIVINO) (VSC)",
+  "enseignes": [],
+  "adresse": "53 GRANDE RUE",
+  "code_postal": "58460",
+  "commune": "CORVOL-L'ORGUEILLEUX",
+  "latitude": 47.431033746,
+  "longitude": 3.4007244448,
+  "naf": "46.34Z",
+  "nature_juridique": "5499",
+  "date_creation": "2017-03-01",
+  "tranche_effectif": "01",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "STEPHANE CHARLOT",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "398223503",
+  "nom_complet": "ELECTRICITE PASCAULT ELECTRONIQUE",
+  "enseignes": [],
+  "adresse": "10 GRANDE RUE",
+  "code_postal": "58700",
+  "commune": "PREMERY",
+  "latitude": 47.175978166,
+  "longitude": 3.330741597,
+  "naf": "43.21A",
+  "nature_juridique": "5499",
+  "date_creation": "1994-08-27",
+  "tranche_effectif": "02",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "ALEXANDRE PAUL JEAN CASSEYRE",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "501266480",
+  "nom_complet": "AGENCE BERRY NIVERNAIS",
+  "enseignes": [],
+  "adresse": "5 PLACE DU GENERAL DE GAULLE",
+  "code_postal": "58400",
+  "commune": "LA CHARITE-SUR-LOIRE",
+  "latitude": 47.176749051,
+  "longitude": 3.0191140837,
+  "naf": "68.31Z",
+  "nature_juridique": "5499",
+  "date_creation": "2008-01-01",
+  "tranche_effectif": "03",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "MARIE-LOUISE WATINE (BOULET)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "REMI WATINE",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "821770286",
+  "nom_complet": "EURL CEDRIC DURAND",
+  "enseignes": [],
+  "adresse": "7 IMPASSE DU GUERLURET",
+  "code_postal": "58200",
+  "commune": "COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.439708837,
+  "longitude": 2.9812201333,
+  "naf": "46.76Z",
+  "nature_juridique": "5499",
+  "date_creation": "2016-07-28",
+  "tranche_effectif": "NN",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "CEDRIC DURAND",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "531191898",
+  "nom_complet": "XENT",
+  "enseignes": [],
+  "adresse": "PARC DU VAL DE LOIRE RUE DES FONDEURS",
+  "code_postal": "58200",
+  "commune": "COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.380957194,
+  "longitude": 2.9131882158,
+  "naf": "64.20Z",
+  "nature_juridique": "5499",
+  "date_creation": "2011-03-16",
+  "tranche_effectif": "01",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "THIERRY DARRIGADE",
+    "fonction": "Gérant"
+   }
+  ],
+  "source": "api"
+ },
+ {
+  "siren": "884510207",
+  "nom_complet": "RIGNAULT JULIE (TAXI JULIE RIGNAULT)",
+  "enseignes": [
+   "TAXI JULIE RIGNAULT"
+  ],
+  "adresse": "LE GRAND CHAMP LE GRAND CHAMP",
+  "code_postal": "58110",
+  "commune": "ROUY",
+  "latitude": 47.0547640040665,
+  "longitude": 3.53287568071686,
+  "naf": "49.32Z",
+  "nature_juridique": "5710",
+  "date_creation": "2020-04-22",
+  "tranche_effectif": "03",
+  "etat_administratif": "A",
+  "procedure": null,
+  "dirigeants": [
+   {
+    "nom": "JULIE RIGNAULT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "source": "api"
+ }
+]

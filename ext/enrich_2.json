@@ -1,0 +1,254 @@
+[
+  {
+    "siren": "808472484",
+    "nom_commercial": "Biocoop Cosne",
+    "groupe": "Réseau coopératif Biocoop",
+    "description": "Magasin bio de l'enseigne Biocoop à Cosne (108 avenue du 85e de Ligne, ZI des Prés Maillards) : alimentation et produits non alimentaires biologiques, rayon vrac, boulangerie, fromagerie, fruits et légumes de saison en priorité locaux. La société exploite aussi un second établissement route de Sury-en-Vaux à Saint-Satur, adresse du magasin Biocoop St Satur.",
+    "actualite": "2025 : changement de gouvernance, avec passage en SAS en juin 2025 puis nomination de Maya Bergeron à la présidence le 16/09/2025, après Julie Pierrard (gérante depuis 2016).",
+    "site_web": "http://www.biocoop-cosne.com",
+    "telephone": "03 86 22 42 94",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Maya BERGERON",
+      "fonction": "Présidente (depuis le 16/09/2025)",
+      "source": "Registre"
+    },
+    "site_local": "108 avenue du 85e de Ligne, ZI des Prés Maillards, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Magasin bio de Cosne (10-19 salariés, deux magasins avec Saint-Satur) : partenariat local autour des produits bio et des producteurs du territoire (visibilité croisée, animations ou dégustations communes) et repas d'équipe ou de fin d'année pour le personnel.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/le-chene-et-le-roseau-808472484",
+      "https://certificat.ecocert.com/entreprise/FFD98184-C267-4B4A-880E-F965B42A442F",
+      "https://www.biocoop.fr/bourgogne-franche-comte/nievre/COSNE-COURS-SUR-LOIRE/BIOCOOP-COSNE",
+      "http://www.biocoop-cosne.com",
+      "https://www.biocoop.fr/centre-val-de-loire/cher/SAINT-SATUR/BIOCOOP-ST-SATUR",
+      "https://www.bible-marques.fr/magasins/18300-saint-satur/biocoop",
+      "https://www.justacote.com/cosne-cours-sur-loire-58200/alimentation-bio/"
+    ]
+  },
+  {
+    "siren": "305065658",
+    "nom_commercial": "Pompes Funèbres Gaubier",
+    "groupe": "Infini Développement – Maison Dabrigeon (groupe funéraire de Beaumont, Puy-de-Dôme)",
+    "description": "Entreprise de pompes funèbres et de marbrerie funéraire active depuis 1975 (obsèques, crémation, contrats obsèques, monuments, entretien de cimetières) pour les familles et les collectivités. Siège et agence au 92 rue Saint-Agnan à Cosne, autres agences à Nevers (marbrerie Rasles), La Charité-sur-Loire et Sancergues (Doucet Campos).",
+    "actualite": "06/01/2026 : création d'un nouvel établissement funéraire au parc d'activités des Bertranges à La Charité-sur-Loire.",
+    "site_web": "https://www.pfgaubier.com",
+    "telephone": "03 86 26 60 62",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Bruno SPAGNUOLO",
+      "fonction": "Directeur général",
+      "source": "Registre"
+    },
+    "site_local": "92 rue Saint-Agnan, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Siège et agence à Cosne (rue Saint-Agnan), 20-49 salariés répartis sur quatre agences de la Nièvre et du Cher : repas d'équipe et de fin d'année, et partenariat local de recommandation pour l'accueil des familles lors des collations ou repas après obsèques.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/etablissements-gaubier-305065658",
+      "https://recherche-entreprises.api.gouv.fr/search?q=305065658",
+      "https://www.pfgaubier.com",
+      "https://www.pfgaubier.com/contact",
+      "https://www.pagesjaunes.fr/pros/00382303",
+      "https://www.pagesjaunes.fr/pros/56639586",
+      "https://www.pappers.fr/entreprise/499091361",
+      "https://www.justacote.com/saint-pere-58200/service-funeraire/"
+    ]
+  },
+  {
+    "siren": "394518096",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Entreprise de bâtiment certifiée RGE/Qualibat basée 16 rue Robert Naberis à Cosne : maçonnerie et gros œuvre, génie civil, assainissement, isolation, carrelage, peinture, rénovation et piscines. Elle travaille pour particuliers, collectivités, agriculteurs et industriels dans un rayon d'environ 30 km (24 salariés selon son site).",
+    "actualite": null,
+    "site_web": "https://www.cvloire58.fr",
+    "telephone": "03 86 26 76 92",
+    "email": "accueil@cvloire.fr",
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Sébastien CORMIER",
+      "fonction": "Gérant",
+      "source": "Registre"
+    },
+    "site_local": "16 rue Robert Naberis, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Entreprise du bâtiment implantée à Cosne même (24 salariés selon son site) : repas d'équipe, pots de fin de chantier et repas de fin d'année, et déjeuners d'affaires avec clients particuliers, collectivités, agriculteurs et industriels.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/cvl-constructions-du-val-de-loire-394518096",
+      "https://www.pagesjaunes.fr/pros/00918956",
+      "https://www.cvloire58.fr/"
+    ]
+  },
+  {
+    "siren": "899839492",
+    "nom_commercial": null,
+    "groupe": "AH EXPLOITATION (holding d'Alban Grondard, Garchy) depuis 2025 ; auparavant SGH EXPANSION (Stéphane Gérin), aussi présidente de BLONDEAU LESAGE, magasin BUT de Pithiviers",
+    "description": "Société d'exploitation d'un magasin d'ameublement (négoce et réparation de meubles, location-gérance d'un fonds de commerce d'ameublement) située route N7, lieudit Le Grand Champ à Cosne. Cette adresse est celle où les annuaires locaux situent le magasin BUT de Cosne, sans confirmation de l'enseigne.",
+    "actualite": "04/04/2025 : AH EXPLOITATION, holding créée en mars 2025 et gérée par Alban Grondard, devient présidente à la place de SGH EXPANSION (holding de Stéphane Gérin) ; modification publiée au BODACC le 10/06/2025.",
+    "site_web": null,
+    "telephone": null,
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Alban GRONDARD",
+      "fonction": "Gérant d'AH EXPLOITATION, présidente de la société",
+      "source": "https://www.pappers.fr/entreprise/941713356"
+    },
+    "site_local": "Route N7, lieudit Le Grand Champ, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Magasin d'ameublement de 10-19 salariés sur la RN7 à Cosne : repas d'équipe et de fin d'année pour l'équipe du magasin, et visibilité croisée locale (opérations commerciales communes, lots pour jeux-concours) avec une direction renouvelée en 2025.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/tsf-gerin-exploitation-899839492",
+      "https://recherche-entreprises.api.gouv.fr/search?q=899839492",
+      "https://www.societe.com/societe/tsf-gerin-exploitation-899839492.html",
+      "https://www.pappers.fr/entreprise/941713356",
+      "https://www.pappers.fr/entreprise/839085404",
+      "https://www.pappers.fr/entreprise/086880069",
+      "https://www.justacote.com/cosne-cours-sur-loire-58200/meubles/",
+      "https://recherche-entreprises.api.gouv.fr/search?q=conforama&code_postal=58200"
+    ]
+  },
+  {
+    "siren": "353323843",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Domaine viticole de Saint-Andelain (Pouilly-Fumé, environ 11 ha) fondé en 1982 par Didier Dagueneau et repris après son décès en 2008 par son fils Louis-Benjamin : sauvignons blancs réputés (Silex, Pur Sang, Buisson Renard), vendus en Vin de France depuis le millésime 2017. L'objet social comprend aussi la gestion d'une écurie de propriétaires.",
+    "actualite": "17/09/2026 : publication des comptes 2025 au BODACC, avec un chiffre d'affaires de 5,3 millions d'euros contre 4,32 millions en 2024.",
+    "site_web": null,
+    "telephone": "+33 3 86 39 15 62",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Louis DAGUENEAU",
+      "fonction": "Gérant",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Domaine de prestige à 12 km de Cosne (10-19 salariés) : partenariat local autour des vins du territoire (mise en avant de ses cuvées, soirées dégustation co-organisées) et déjeuners d'affaires avec les visiteurs professionnels reçus sur rendez-vous.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843",
+      "https://www.idealwine.info/?p=21355",
+      "https://www.idealwine.net/louis-benjamin-dagueneau-sort-de-laoc-pouilly-fume/",
+      "https://glossary.wein.plus/didier-dagueneau",
+      "https://joinpearl.co/wineries/saint-andelain/didier-dagueneau"
+    ]
+  },
+  {
+    "siren": "909990079",
+    "nom_commercial": "Carrefour Contact",
+    "groupe": "Enseigne Carrefour Contact (réseau Carrefour)",
+    "description": "Supérette Carrefour Contact de Saint-Amand-en-Puisaye (56 route de Cosne), ouverte 7 jours sur 7 : alimentation de proximité, livraison à domicile, station-service 24h/24, laverie et gaz.",
+    "actualite": null,
+    "site_web": "https://www.carrefour.fr/magasin/contact-saint-amand-en-puisaye",
+    "telephone": "03 86 39 78 15",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Frederic BEAUFILS",
+      "fonction": "Gérant",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Supérette de 10-19 salariés à Saint-Amand-en-Puisaye (19 km de Cosne), ouverte 7 jours sur 7 : repas d'équipe et de fin d'année pour le personnel, et partenariat local entre commerçants (visibilité croisée, produits du territoire).",
+    "sources": [
+      "https://www.pappers.fr/entreprise/apocf-909990079",
+      "https://www.carrefour.fr/magasin/contact-saint-amand-en-puisaye",
+      "https://www.pagesjaunes.fr/pros/50203674",
+      "https://www.bible-marques.fr/magasins/58310-saint-amand-en-puisaye/carrefour"
+    ]
+  },
+  {
+    "siren": "892315128",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Entreprise de sécurité privée (surveillance humaine et électronique, gardiennage, sécurité des personnes, prévention et sécurité incendie) au service des particuliers, entreprises et collectivités. Siège au 5 route des Bertranges à Raveau, près de La Charité-sur-Loire ; son gérant a aussi créé en 2023 TÝR Sécurité Renforcée.",
+    "actualite": null,
+    "site_web": null,
+    "telephone": null,
+    "email": null,
+    "linkedin": "https://www.linkedin.com/in/t%C3%BDr-s%C3%A9curit%C3%A9-301771203/",
+    "interlocuteur_cible": {
+      "nom": "Rudy RUELLE",
+      "fonction": "Gérant (dirigeant fondateur)",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Société de sécurité de 10-19 salariés basée à Raveau, près de La Charité-sur-Loire : repas d'équipe et de fin d'année pour les agents, et partenariat local pour la sécurisation de soirées et d'événements (prestation croisée, visibilité).",
+    "sources": [
+      "https://www.pappers.fr/entreprise/tyr-securite-892315128",
+      "https://recherche-entreprises.api.gouv.fr/search?q=892315128",
+      "https://recherche-entreprises.api.gouv.fr/search?q=953122363",
+      "https://www.pagesjaunes.fr/annuaire/departement/nievre-58/entreprises-de-surveillance-de-gardiennage-de-protection",
+      "https://www.linkedin.com/in/t%C3%BDr-s%C3%A9curit%C3%A9-301771203/",
+      "https://www.linkedin.com/in/rudy-ruelle-bb6982b6/"
+    ]
+  },
+  {
+    "siren": "403027485",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Entreprise nivernaise de propreté et de nettoyage industriel (entretien régulier de locaux, vitrerie, remise en état des sols) pour les professionnels, basée 63 boulevard Camille Dagonneau à Varennes-Vauzelles. Une structure sœur, Alliance à Domicile, propose ménage, repassage et petit jardinage aux particuliers.",
+    "actualite": null,
+    "site_web": "https://www.alliance-proprete-services.fr",
+    "telephone": "03 86 23 00 22",
+    "email": "contact@alliance-proprete-services.fr",
+    "linkedin": "https://www.linkedin.com/company/alliance-proprete-services",
+    "interlocuteur_cible": {
+      "nom": "Bruno ZAMORA",
+      "fonction": "Gérant",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Employeur de 100-199 salariés à Varennes-Vauzelles (50 km de Cosne) : avantages pour les salariés via le CSE, repas de fin d'année et journées d'équipe ; partenariat fournisseur local possible pour l'entretien des locaux et la vitrerie.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/alliance-proprete-services-403027485",
+      "https://www.alliance-proprete-services.fr",
+      "https://www.alliance-proprete-services.fr/societe-decouvrez-lentreprise/",
+      "https://gowork.fr/alliance-proprete-service-varennes-vauzelles"
+    ]
+  },
+  {
+    "siren": "501271068",
+    "nom_commercial": "Armatis",
+    "groupe": "Groupe Armatis (Armatis France)",
+    "description": "Centre de relation client du groupe Armatis implanté dans la ZI de Nevers Saint-Éloi : gestion à distance du service client pour le compte d'entreprises donneuses d'ordre. Le site comptait 211 salariés en 2025.",
+    "actualite": "01/01/2024 : Armatis France devient présidente de la société (modification publiée au BODACC le 27/02/2024).",
+    "site_web": "https://www.armatis.com",
+    "telephone": "0671593528",
+    "email": null,
+    "linkedin": "https://www.linkedin.com/company/armatis",
+    "interlocuteur_cible": null,
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Grand employeur de Nevers (211 salariés en 2025, CSE en place) à 57 km de Cosne : avantages pour les salariés via le CSE, repas de fin d'année, séminaires et journées d'équipe pour les plateaux de conseillers.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/armatis-bourgogne-501271068",
+      "https://www.armatis.com",
+      "https://candidat.francetravail.fr/offres/recherche/detail/191GJYD",
+      "https://www.maitredata.com/app/accords-entreprise/armatis-bourgogne/161095"
+    ]
+  }
+]

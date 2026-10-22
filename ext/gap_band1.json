@@ -1,0 +1,5917 @@
+[
+ {
+  "siren": "808529184",
+  "nom_complet": "YVES ROCHER FRANCE",
+  "siege_code_postal": "35000",
+  "siege_commune": "RENNES",
+  "adresse": "2-4 2 BD BEAUMONT 35000 RENNES",
+  "latitude": 48.103325515,
+  "longitude": -1.676451796,
+  "finances": {
+   "2025": {
+    "ca": 411147,
+    "resultat_net": 28910
+   }
+  },
+  "annee": "2025",
+  "ca": 411147,
+  "resultat_net": 28910,
+  "tranche_effectif": "32",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.45Z",
+  "nature_juridique": "5710",
+  "date_creation": "2014-12-19",
+  "enseignes": [
+   "YVES ROCHER"
+  ],
+  "dirigeants": [
+   {
+    "nom": "JULIE MARCELLE CELIANE DE BRIEY (ROSENKRANTZ)",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "899471064",
+  "nom_complet": "CAL III",
+  "siege_code_postal": "75002",
+  "siege_commune": "PARIS",
+  "adresse": "87 RUE DE RICHELIEU 75002 PARIS",
+  "latitude": 48.8702931469972,
+  "longitude": 2.33875861748335,
+  "finances": {
+   "2024": {
+    "ca": 564970,
+    "resultat_net": -1286644
+   }
+  },
+  "annee": "2024",
+  "ca": 564970,
+  "resultat_net": -1286644,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2021-04-12",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "SAS ENR RICHELIEU",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "911666790",
+  "nom_complet": "IRISOLAR 27",
+  "siege_code_postal": "13790",
+  "siege_commune": "ROUSSET",
+  "adresse": "BAT F 1200 AVENUE OLIVIER PERROY 13790 ROUSSET",
+  "latitude": 43.4706291177875,
+  "longitude": 5.59881551024359,
+  "finances": {
+   "2024": {
+    "ca": 307582,
+    "resultat_net": -2046028
+   }
+  },
+  "annee": "2024",
+  "ca": 307582,
+  "resultat_net": -2046028,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "43.21A",
+  "nature_juridique": "5710",
+  "date_creation": "2022-03-14",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "THEMIS PV",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "910685528",
+  "nom_complet": "IRISOLAR 26",
+  "siege_code_postal": "13790",
+  "siege_commune": "ROUSSET",
+  "adresse": "1200 AVENUE OLIVIER PERROY 13790 ROUSSET",
+  "latitude": 43.4706291177875,
+  "longitude": 5.59881551024359,
+  "finances": {
+   "2024": {
+    "ca": 317961,
+    "resultat_net": -2195909
+   }
+  },
+  "annee": "2024",
+  "ca": 317961,
+  "resultat_net": -2195909,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2022-02-21",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HYPERION PV",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "922125448",
+  "nom_complet": "SUNGEN 10",
+  "siege_code_postal": "75001",
+  "siege_commune": "PARIS",
+  "adresse": "48 RUE CAMBON 75001 PARIS",
+  "latitude": 48.869658002,
+  "longitude": 2.3281749492,
+  "finances": {
+   "2024": {
+    "ca": 395623,
+    "resultat_net": -744805
+   }
+  },
+  "annee": "2024",
+  "ca": 395623,
+  "resultat_net": -744805,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "2022-11-24",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DAVID GOODWIN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "790850317",
+  "nom_complet": "THYGO 6",
+  "siege_code_postal": "13710",
+  "siege_commune": "FUVEAU",
+  "adresse": "TENERGIE ARTEPARC DE FUVEAU, BAT. A PLAN DE FABRIQUE 13710 FUVEAU",
+  "latitude": 43.473632033,
+  "longitude": 5.5422259311,
+  "finances": {
+   "2025": {
+    "ca": 525914,
+    "resultat_net": -1036787
+   }
+  },
+  "annee": "2025",
+  "ca": 525914,
+  "resultat_net": -1036787,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2013-01-11",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "TENERGIE",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "525031522",
+  "nom_complet": "FIDAL",
+  "siege_code_postal": "92400",
+  "siege_commune": "COURBEVOIE",
+  "adresse": "4 A 6 4 AVENUE D'ALSACE 92400 COURBEVOIE",
+  "latitude": 48.8905631196402,
+  "longitude": 2.24935111213172,
+  "finances": {
+   "2019": {
+    "ca": 320805,
+    "resultat_net": -769
+   }
+  },
+  "annee": "2019",
+  "ca": 320805,
+  "resultat_net": -769,
+  "tranche_effectif": "42",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "69.10Z",
+  "nature_juridique": "5785",
+  "date_creation": "2010-09-02",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ALEXANDRE HENRI BRON",
+    "fonction": "Membre du conseil de surveillance"
+   },
+   {
+    "nom": "GWLADYS CHANAL",
+    "fonction": "Personne ayant le pouvoir d’engager l'établissement"
+   },
+   {
+    "nom": "FRANCOIS DE LAAGE DE MEUX",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "STEPHANE DEJUMNE",
+    "fonction": "Membre du conseil de surveillance"
+   }
+  ]
+ },
+ {
+  "siren": "752343665",
+  "nom_complet": "IRISOLAR 8",
+  "siege_code_postal": "13790",
+  "siege_commune": "ROUSSET",
+  "adresse": "1200 AVENUE OLIVIER PERROY 13790 ROUSSET",
+  "latitude": 43.4706291177875,
+  "longitude": 5.59881551024359,
+  "finances": {
+   "2024": {
+    "ca": 897390,
+    "resultat_net": -173551
+   }
+  },
+  "annee": "2024",
+  "ca": 897390,
+  "resultat_net": -173551,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2012-06-21",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "TAKAFI",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "889416434",
+  "nom_complet": "SUNGEN 5",
+  "siege_code_postal": "75001",
+  "siege_commune": "PARIS",
+  "adresse": "48 RUE CAMBON 75001 PARIS",
+  "latitude": 48.869658002,
+  "longitude": 2.3281749492,
+  "finances": {
+   "2024": {
+    "ca": 625241,
+    "resultat_net": -372101
+   }
+  },
+  "annee": "2024",
+  "ca": 625241,
+  "resultat_net": -372101,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "2020-09-24",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EDOUARD JEAN MARIE BREMOND (BREMOND)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "889465886",
+  "nom_complet": "SUNGEN 6",
+  "siege_code_postal": "75001",
+  "siege_commune": "PARIS",
+  "adresse": "48 RUE CAMBON 75001 PARIS",
+  "latitude": 48.869658002,
+  "longitude": 2.3281749492,
+  "finances": {
+   "2025": {
+    "ca": 561332,
+    "resultat_net": -305693
+   }
+  },
+  "annee": "2025",
+  "ca": 561332,
+  "resultat_net": -305693,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "2020-09-24",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EDOUARD JEAN MARIE BRÉMOND",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "843060856",
+  "nom_complet": "SUNGEN 3",
+  "siege_code_postal": "75001",
+  "siege_commune": "PARIS",
+  "adresse": "48 RUE CAMBON 75001 PARIS",
+  "latitude": 48.869658002,
+  "longitude": 2.3281749492,
+  "finances": {
+   "2024": {
+    "ca": 548416,
+    "resultat_net": -139077
+   }
+  },
+  "annee": "2024",
+  "ca": 548416,
+  "resultat_net": -139077,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "2018-09-24",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EDOUARD JEAN MARIE BRÉMOND",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "851967018",
+  "nom_complet": "SUNGEN 4",
+  "siege_code_postal": "75001",
+  "siege_commune": "PARIS",
+  "adresse": "48 RUE CAMBON 75001 PARIS",
+  "latitude": 48.869658002,
+  "longitude": 2.3281749492,
+  "finances": {
+   "2024": {
+    "ca": 537219,
+    "resultat_net": -192662
+   }
+  },
+  "annee": "2024",
+  "ca": 537219,
+  "resultat_net": -192662,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "2022-06-15",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EDOUARD JEAN MARIE BREMOND",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "891979577",
+  "nom_complet": "POWENR",
+  "siege_code_postal": "20200",
+  "siege_commune": "BASTIA",
+  "adresse": "4 B BD PAOLI 20200 BASTIA",
+  "latitude": 42.696295022,
+  "longitude": 9.4479618194,
+  "finances": {
+   "2025": {
+    "ca": 674995,
+    "resultat_net": -2114144
+   }
+  },
+  "annee": "2025",
+  "ca": 674995,
+  "resultat_net": -2114144,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2021-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "VOLTAÏCA",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "878565217",
+  "nom_complet": "RS SPVIR B2 (RS SPVIR B2)",
+  "siege_code_postal": "13002",
+  "siege_commune": "MARSEILLE",
+  "adresse": "LES DOCKS ATRIUM 10.5 10 PLACE DE LA JOLIETTE 13002 MARSEILLE",
+  "latitude": 43.305481427,
+  "longitude": 5.3659735977,
+  "finances": {
+   "2025": {
+    "ca": 934379,
+    "resultat_net": -168401
+   }
+  },
+  "annee": "2025",
+  "ca": 934379,
+  "resultat_net": -168401,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2019-05-09",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HOLDING REFI 3",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "812254639",
+  "nom_complet": "SAS 58 SOLAIRE",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "25 BOULEVARD LEON BLUM 58000 NEVERS",
+  "latitude": 46.9800239760578,
+  "longitude": 3.19254413830067,
+  "finances": {
+   "2022": {
+    "ca": 367295,
+    "resultat_net": 59616
+   }
+  },
+  "annee": "2022",
+  "ca": 367295,
+  "resultat_net": 59616,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2015-06-23",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DENIS ARLAUD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "VINCENT GIRAUD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "JEAN-MICHEL MORLE",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "NICOLAS PECHERY",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "523616175",
+  "nom_complet": "SEP S.A.G. INTERSOLAIRE 3",
+  "siege_code_postal": "68000",
+  "siege_commune": "COLMAR",
+  "adresse": "162 RUE DU LADHOF 68000 COLMAR",
+  "latitude": 48.097007682635,
+  "longitude": 7.37743091877173,
+  "finances": {
+   "2019": {
+    "ca": 497039,
+    "resultat_net": 104183
+   }
+  },
+  "annee": "2019",
+  "ca": 497039,
+  "resultat_net": 104183,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5202",
+  "date_creation": "2010-07-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "GEORG FRIEDRICH HILLE",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "ELFTE OEKOGENO REGENERTIVE GMBH AND CO KG",
+    "fonction": null
+   }
+  ]
+ },
+ {
+  "siren": "477923767",
+  "nom_complet": "EDEN WASH",
+  "siege_code_postal": "03120",
+  "siege_commune": "SAINT-PRIX",
+  "adresse": "LD LE CHATELIER 03120 SAINT-PRIX",
+  "latitude": 46.245229994,
+  "longitude": 3.638306061,
+  "finances": {
+   "2024": {
+    "ca": 486305,
+    "resultat_net": -4379
+   }
+  },
+  "annee": "2024",
+  "ca": 486305,
+  "resultat_net": -4379,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "45.20A",
+  "nature_juridique": "5710",
+  "date_creation": "2004-06-23",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "STATION AUTO CONTROLE",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "790026231",
+  "nom_complet": "SEM NIEVRE ENERGIES",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "1 RUE DE L'EVECHE 58000 NEVERS",
+  "latitude": 46.9869901559624,
+  "longitude": 3.15875982650801,
+  "finances": {
+   "2024": {
+    "ca": 491660,
+    "resultat_net": -102746
+   }
+  },
+  "annee": "2024",
+  "ca": 491660,
+  "resultat_net": -102746,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5515",
+  "date_creation": "2012-11-09",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "RENÉ PHILIPPE BONNEAU",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "SYLVIE GERMAINE MADELEINE CANTREL",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "BERTRAND ROBERT COUTURIER",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "JEAN-MICHEL FORGET",
+    "fonction": "Administrateur"
+   }
+  ]
+ },
+ {
+  "siren": "385051446",
+  "nom_complet": "SECURITE AUTO SERVICE",
+  "siege_code_postal": "18000",
+  "siege_commune": "BOURGES",
+  "adresse": "38 AVENUE JEAN JAURES 18000 BOURGES",
+  "latitude": 47.088735974,
+  "longitude": 2.3932270578,
+  "finances": {
+   "2024": {
+    "ca": 507023,
+    "resultat_net": 11570
+   }
+  },
+  "annee": "2024",
+  "ca": 507023,
+  "resultat_net": 11570,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "71.20A",
+  "nature_juridique": "5499",
+  "date_creation": "1992-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "SYLVAIN DUTOUYA (DUTOUYA)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "775705601",
+  "nom_complet": "MONOPRIX HOLDING",
+  "siege_code_postal": "92110",
+  "siege_commune": "CLICHY",
+  "adresse": "14 A 16 14 RUE MARC BLOCH 92110 CLICHY",
+  "latitude": 48.9116201999343,
+  "longitude": 2.31095256230034,
+  "finances": {
+   "2024": {
+    "ca": 304631,
+    "resultat_net": -232270
+   }
+  },
+  "annee": "2024",
+  "ca": 304631,
+  "resultat_net": -232270,
+  "tranche_effectif": "42",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "68.20B",
+  "nature_juridique": "5710",
+  "date_creation": "2007-03-19",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ALFRED SAMUEL HAWAWINI",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "433875382",
+  "nom_complet": "DENIS BAYARD",
+  "siege_code_postal": "62170",
+  "siege_commune": "MONTREUIL-SUR-MER",
+  "adresse": "11 PLACE DARNETAL 62170 MONTREUIL-SUR-MER",
+  "latitude": 50.464230681,
+  "longitude": 1.7618250712,
+  "finances": {
+   "2024": {
+    "ca": 963420,
+    "resultat_net": 226889
+   }
+  },
+  "annee": "2024",
+  "ca": 963420,
+  "resultat_net": 226889,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "66.22Z",
+  "nature_juridique": "1000",
+  "date_creation": "2000-10-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DENIS EUGENE SIMON BAYARD",
+    "fonction": null
+   }
+  ]
+ },
+ {
+  "siren": "507626034",
+  "nom_complet": "AGREGATS DU CENTRE RECYCLING (AGREGATS DU CENTRE RECYCLING)",
+  "siege_code_postal": "18320",
+  "siege_commune": "COURS-LES-BARRES",
+  "adresse": "34 ROUTE DE LA GUERCHE 18320 COURS-LES-BARRES",
+  "latitude": 47.011777492,
+  "longitude": 3.0462727849,
+  "finances": {
+   "2025": {
+    "ca": 905203,
+    "resultat_net": 98888
+   }
+  },
+  "annee": "2025",
+  "ca": 905203,
+  "resultat_net": 98888,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "38.32Z",
+  "nature_juridique": "5710",
+  "date_creation": "2008-07-20",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ARTESA",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "498724988",
+  "nom_complet": "PARIS CENTRE PICARDIE ASSURANCES",
+  "siege_code_postal": "75009",
+  "siege_commune": "PARIS",
+  "adresse": "28 RUE DE LONDRES 75009 PARIS",
+  "latitude": 48.8775367493139,
+  "longitude": 2.32815761483635,
+  "finances": {
+   "2025": {
+    "ca": 401752,
+    "resultat_net": 38179
+   }
+  },
+  "annee": "2025",
+  "ca": 401752,
+  "resultat_net": 38179,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "66.22Z",
+  "nature_juridique": "5499",
+  "date_creation": "2007-06-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "NICOLAS BOUCQUEY",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "JEROME JEAN-ROLAND MOUSSET",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "398054346",
+  "nom_complet": "SOCIETE DE RESTAURATION DE L'AVALLONNAIS S.N.C.",
+  "siege_code_postal": "89200",
+  "siege_commune": "AVALLON",
+  "adresse": "CTRE CIAL AUCHAN RUE DU GENERAL LECLERC 89200 AVALLON",
+  "latitude": 47.500767134,
+  "longitude": 3.909267425,
+  "finances": {
+   "2024": {
+    "ca": 627844,
+    "resultat_net": -501198
+   }
+  },
+  "annee": "2024",
+  "ca": 627844,
+  "resultat_net": -501198,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "56.10B",
+  "nature_juridique": "5202",
+  "date_creation": "1994-08-23",
+  "enseignes": [
+   "FLUNCH"
+  ],
+  "dirigeants": [
+   {
+    "nom": "B.D.M.S. DISTRIBUTION",
+    "fonction": "Gérant et associé indéfiniment responsable"
+   },
+   {
+    "nom": "ANCIENS ETS GEORGES SCHIEVER ET FILS",
+    "fonction": "Autre"
+   }
+  ]
+ },
+ {
+  "siren": "380361980",
+  "nom_complet": "SARL OPTION 76 (HAIRCOIF)",
+  "siege_code_postal": "75008",
+  "siege_commune": "PARIS",
+  "adresse": "133 RUE DU FAUBOURG SAINT-HONORE 75008 PARIS",
+  "latitude": 48.873413685,
+  "longitude": 2.3084253129,
+  "finances": {
+   "2023": {
+    "ca": 610006,
+    "resultat_net": 34126
+   }
+  },
+  "annee": "2023",
+  "ca": 610006,
+  "resultat_net": 34126,
+  "tranche_effectif": "00",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "96.02A",
+  "nature_juridique": "5499",
+  "date_creation": "1990-01-04",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "MARC AUBLET",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "MYRIAM MARIE ANTOINETTE D'ALMEIDA (LERCHE)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "DOROTHEE SYLVIE ROMERO (ROMERO)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "ARMELLE DENISE MIREILLE CRIBELIER (TOCQUEVILLE)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "499920502",
+  "nom_complet": "DOUCE-GLOIRE (DOUCE - GLOIRE)",
+  "siege_code_postal": "58310",
+  "siege_commune": "DAMPIERRE-SOUS-BOUHY",
+  "adresse": "MOULIN BERGER (LE) 58310 DAMPIERRE-SOUS-BOUHY",
+  "latitude": 47.538454243,
+  "longitude": 3.1242871871,
+  "finances": {
+   "2019": {
+    "ca": 771129,
+    "resultat_net": 29424
+   }
+  },
+  "annee": "2019",
+  "ca": 771129,
+  "resultat_net": 29424,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.42Z",
+  "nature_juridique": "5499",
+  "date_creation": "2007-09-10",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "INES LAFARGE (CASTRO)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "307049429",
+  "nom_complet": "POTERIE DES GUIMARDS",
+  "siege_code_postal": "58310",
+  "siege_commune": "BITRY",
+  "adresse": "LD LES GUIMARDS 58310 BITRY",
+  "latitude": 47.505726904,
+  "longitude": 3.0649850027,
+  "finances": {
+   "2022": {
+    "ca": 531571,
+    "resultat_net": 8913
+   }
+  },
+  "annee": "2022",
+  "ca": 531571,
+  "resultat_net": 8913,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "23.41Z",
+  "nature_juridique": "5710",
+  "date_creation": "1976-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CHRISTOPHE HURTAULT",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "NATHALIE HURTAULT",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "432492692",
+  "nom_complet": "LOISIRS EN MORVAN (AB LOISIRS)",
+  "siege_code_postal": "89450",
+  "siege_commune": "SAINT-PERE",
+  "adresse": "13 RUE DU GRAVIER 89450 SAINT-PERE",
+  "latitude": 47.4605076838405,
+  "longitude": 3.76823711788585,
+  "finances": {
+   "2023": {
+    "ca": 482228,
+    "resultat_net": 12660
+   }
+  },
+  "annee": "2023",
+  "ca": 482228,
+  "resultat_net": 12660,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "93.29Z",
+  "nature_juridique": "5499",
+  "date_creation": "2000-08-05",
+  "enseignes": [
+   "LOISIRS EN MORVAN - AB LOISIRS"
+  ],
+  "dirigeants": [
+   {
+    "nom": "PAUL FARRUGIO",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "KILIAN GODART",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "840418610",
+  "nom_complet": "TEMPLE",
+  "siege_code_postal": "75011",
+  "siege_commune": "PARIS",
+  "adresse": "20 PASSAGE SAINT-SEBASTIEN 75011 PARIS",
+  "latitude": 48.8616628188877,
+  "longitude": 2.36937777482431,
+  "finances": {
+   "2021": {
+    "ca": 339388,
+    "resultat_net": 2381
+   }
+  },
+  "annee": "2021",
+  "ca": 339388,
+  "resultat_net": 2381,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "71.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "2018-05-15",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "TRISTAN BAZOT",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "JEAN FRANCOIS THIERRY",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "THOMAS WEBER",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "775620255",
+  "nom_complet": "ETS SAUVANET ET CARRIERES DE LA NIEVRE (SAUVANET PIERRES DE BOURGOGNE)",
+  "siege_code_postal": "58150",
+  "siege_commune": "SUILLY-LA-TOUR",
+  "adresse": "CHAMPCELEE 58150 SUILLY-LA-TOUR",
+  "latitude": 47.333527978,
+  "longitude": 3.0903939794,
+  "finances": {
+   "2020": {
+    "ca": 451486,
+    "resultat_net": -68714
+   }
+  },
+  "annee": "2020",
+  "ca": 451486,
+  "resultat_net": -68714,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "08.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "1959-01-01",
+  "enseignes": [
+   "ETS SAUVANET - CARRIERES DE LA NIEV"
+  ],
+  "dirigeants": [
+   {
+    "nom": "MARIE-PIERRE FRANCOISE SAUVANET",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "794416198",
+  "nom_complet": "SASU LEVANNIER",
+  "siege_code_postal": "58320",
+  "siege_commune": "POUGUES-LES-EAUX",
+  "adresse": "77 AVENUE DE PARIS 58320 POUGUES-LES-EAUX",
+  "latitude": 47.073484283,
+  "longitude": 3.1029906401,
+  "finances": {
+   "2023": {
+    "ca": 655070,
+    "resultat_net": -40668
+   }
+  },
+  "annee": "2023",
+  "ca": 655070,
+  "resultat_net": -40668,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "45.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2013-07-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DAMIEN LEVANNIER",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "909386526",
+  "nom_complet": "BOX SELFSTOCKAGE",
+  "siege_code_postal": "75008",
+  "siege_commune": "PARIS",
+  "adresse": "25 RUE DE PONTHIEU 75008 PARIS",
+  "latitude": 48.870759191,
+  "longitude": 2.3090181495,
+  "finances": {
+   "2025": {
+    "ca": 676253,
+    "resultat_net": 2757
+   }
+  },
+  "annee": "2025",
+  "ca": 676253,
+  "resultat_net": 2757,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "52.10B",
+  "nature_juridique": "5710",
+  "date_creation": "2022-02-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "FCC",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "807787718",
+  "nom_complet": "ROBERT ET NICOLE",
+  "siege_code_postal": "58150",
+  "siege_commune": "SUILLY-LA-TOUR",
+  "adresse": "9 RUE DE LA CROIX COCHOIS 58150 SUILLY-LA-TOUR",
+  "latitude": 47.3367040773053,
+  "longitude": 3.05461404874553,
+  "finances": {
+   "2020": {
+    "ca": 604674,
+    "resultat_net": 77017
+   }
+  },
+  "annee": "2020",
+  "ca": 604674,
+  "resultat_net": 77017,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "56.10A",
+  "nature_juridique": "5710",
+  "date_creation": "2014-11-24",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EDOUARD BERGEON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "823148861",
+  "nom_complet": "LE PETIT FOURNIL",
+  "siege_code_postal": "58500",
+  "siege_commune": "CLAMECY",
+  "adresse": "16 RUE MARIE DAVY 58500 CLAMECY",
+  "latitude": 47.460268056,
+  "longitude": 3.5217584994,
+  "finances": {
+   "2022": {
+    "ca": 499668,
+    "resultat_net": -1314
+   }
+  },
+  "annee": "2022",
+  "ca": 499668,
+  "resultat_net": -1314,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "10.71C",
+  "nature_juridique": "5499",
+  "date_creation": "2016-09-30",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "AURELIEN BERTHEREAU",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "AURELIEN DANIEL YVES BERTHEREAU",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "VANESSA MURIELLE LE FELLIC",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "884510207",
+  "nom_complet": "RIGNAULT JULIE (TAXI JULIE RIGNAULT)",
+  "siege_code_postal": "58110",
+  "siege_commune": "ROUY",
+  "adresse": "LE GRAND CHAMP LE GRAND CHAMP 58110 ROUY",
+  "latitude": 47.0547640040665,
+  "longitude": 3.53287568071686,
+  "finances": {
+   "2023": {
+    "ca": 408267,
+    "resultat_net": 97169
+   }
+  },
+  "annee": "2023",
+  "ca": 408267,
+  "resultat_net": 97169,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "49.32Z",
+  "nature_juridique": "5710",
+  "date_creation": "2020-04-22",
+  "enseignes": [
+   "TAXI JULIE RIGNAULT"
+  ],
+  "dirigeants": [
+   {
+    "nom": "JULIE RIGNAULT",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "521142018",
+  "nom_complet": "ESPACE A ET G (ESPACE A ET G)",
+  "siege_code_postal": "10130",
+  "siege_commune": "AUXON",
+  "adresse": "5 RUE DE MONTPOGAT 10130 AUXON",
+  "latitude": 48.102830464,
+  "longitude": 3.9182024154,
+  "finances": {
+   "2021": {
+    "ca": 403320,
+    "resultat_net": 52915
+   }
+  },
+  "annee": "2021",
+  "ca": 403320,
+  "resultat_net": 52915,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "74.90A",
+  "nature_juridique": "5499",
+  "date_creation": "2010-02-15",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PHILIPPE GONCALVES",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "400110318",
+  "nom_complet": "SARL GARAGE PERREAU",
+  "siege_code_postal": "58500",
+  "siege_commune": "CLAMECY",
+  "adresse": "LA GALETTE 58500 CLAMECY",
+  "latitude": 47.457506938,
+  "longitude": 3.5087896933,
+  "finances": {
+   "2024": {
+    "ca": 884936,
+    "resultat_net": 34663
+   }
+  },
+  "annee": "2024",
+  "ca": 884936,
+  "resultat_net": 34663,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "45.20A",
+  "nature_juridique": "5499",
+  "date_creation": "1997-06-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CLAUDE PERREAU",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "350384798",
+  "nom_complet": "MILAN PAYSAGES",
+  "siege_code_postal": "18240",
+  "siege_commune": "BELLEVILLE-SUR-LOIRE",
+  "adresse": "ZONE INDUSTRIELLE LES GRANDS CHAMPS 18240 BELLEVILLE-SUR-LOIRE",
+  "latitude": 47.49856866,
+  "longitude": 2.8532730842,
+  "finances": {
+   "2024": {
+    "ca": 950838,
+    "resultat_net": 54049
+   }
+  },
+  "annee": "2024",
+  "ca": 950838,
+  "resultat_net": 54049,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "81.30Z",
+  "nature_juridique": "5710",
+  "date_creation": "1998-10-17",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ARNAUD AGOGUE",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "AGOGUE HOLDING SAS",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "820091064",
+  "nom_complet": "SAMSIC EMPLOI BOURGOGNE NEVERS",
+  "siege_code_postal": "35510",
+  "siege_commune": "CESSON-SEVIGNE",
+  "adresse": "LA RIGOURDIERE 4 RUE DE CHATILLON 35510 CESSON-SEVIGNE",
+  "latitude": 48.114727359,
+  "longitude": -1.58233459,
+  "finances": {
+   "2025": {
+    "ca": 313983,
+    "resultat_net": -32505
+   }
+  },
+  "annee": "2025",
+  "ca": 313983,
+  "resultat_net": -32505,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "78.20Z",
+  "nature_juridique": "5710",
+  "date_creation": "2016-05-03",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "GILLES CAVALLARI",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "SAMSIC RH",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "482366309",
+  "nom_complet": "ESCAL' GRIMPE",
+  "siege_code_postal": "93290",
+  "siege_commune": "TREMBLAY-EN-FRANCE",
+  "adresse": "LIEUDIT BAIGNE CUL 4 RUE HENRI FARMAN 93290 TREMBLAY-EN-FRANCE",
+  "latitude": 48.96549669,
+  "longitude": 2.5622841447,
+  "finances": {
+   "2025": {
+    "ca": 823636,
+    "resultat_net": -98463
+   }
+  },
+  "annee": "2025",
+  "ca": 823636,
+  "resultat_net": -98463,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "77.21Z",
+  "nature_juridique": "5710",
+  "date_creation": "2005-02-18",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "NEW FRIENDS",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "817847908",
+  "nom_complet": "LA COSNOISE DE COUVERTURE (SERGENT ET VINOT)",
+  "siege_code_postal": "58200",
+  "siege_commune": "COSNE-COURS-SUR-LOIRE",
+  "adresse": "70 RUE SAINT-AGNAN 58200 COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.407296622,
+  "longitude": 2.9226252947,
+  "finances": {
+   "2016": {
+    "ca": 503664,
+    "resultat_net": 9184
+   }
+  },
+  "annee": "2016",
+  "ca": 503664,
+  "resultat_net": 9184,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "43.91B",
+  "nature_juridique": "5710",
+  "date_creation": "2016-02-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DENIS VINOT",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "449052935",
+  "nom_complet": "ALLIANCE CONFORT & ECONOMIE DE L'HABITAT (ACE)",
+  "siege_code_postal": "58000",
+  "siege_commune": "SAINT-ELOI",
+  "adresse": "42 ROUTE DE BOURGOGNE 58000 SAINT-ELOI",
+  "latitude": 46.973836044,
+  "longitude": 3.2207979965,
+  "finances": {
+   "2020": {
+    "ca": 310455,
+    "resultat_net": 7092
+   }
+  },
+  "annee": "2020",
+  "ca": 310455,
+  "resultat_net": 7092,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "70.10Z",
+  "nature_juridique": "5499",
+  "date_creation": "2003-07-07",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ERIC DAVID",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "834294126",
+  "nom_complet": "RACINES HOTELS II",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "QUAI DE MEDINE 58000 NEVERS",
+  "latitude": 46.985646833,
+  "longitude": 3.1664328523,
+  "finances": {
+   "2025": {
+    "ca": 668040,
+    "resultat_net": -1133430
+   }
+  },
+  "annee": "2025",
+  "ca": 668040,
+  "resultat_net": -1133430,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "55.10Z",
+  "nature_juridique": "5710",
+  "date_creation": "2017-12-22",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HPVA PARTICIPATIONS",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "500134085",
+  "nom_complet": "QUARRE DE CHOCOLAT",
+  "siege_code_postal": "89630",
+  "siege_commune": "QUARRE-LES-TOMBES",
+  "adresse": "23 24 RUE DE L'EGLISE 89630 QUARRE-LES-TOMBES",
+  "latitude": 47.368509337,
+  "longitude": 3.9964406522,
+  "finances": {
+   "2020": {
+    "ca": 791647,
+    "resultat_net": 23671
+   }
+  },
+  "annee": "2020",
+  "ca": 791647,
+  "resultat_net": 23671,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "10.71C",
+  "nature_juridique": "5499",
+  "date_creation": "2007-09-20",
+  "enseignes": [
+   "SARL QUARRE DE CHOCOLAT"
+  ],
+  "dirigeants": [
+   {
+    "nom": "JEROME MARCHAND",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "501503114",
+  "nom_complet": "DHOMPS OPTIQUE",
+  "siege_code_postal": "58400",
+  "siege_commune": "LA CHARITE-SUR-LOIRE",
+  "adresse": "91 RUE CAMILLE BARRERE 58400 LA CHARITE-SUR-LOIRE",
+  "latitude": 47.177540122,
+  "longitude": 3.0202203004,
+  "finances": {
+   "2022": {
+    "ca": 763483,
+    "resultat_net": 19397
+   }
+  },
+  "annee": "2022",
+  "ca": 763483,
+  "resultat_net": 19397,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.78A",
+  "nature_juridique": "5710",
+  "date_creation": "2007-12-14",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "BERTRAND FOIN",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "LUC LEBLANC",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "397794231",
+  "nom_complet": "HARAND ET FILS",
+  "siege_code_postal": "58800",
+  "siege_commune": "CORBIGNY",
+  "adresse": "32 PL ST JEAN 58800 CORBIGNY",
+  "latitude": 47.254718645,
+  "longitude": 3.6795864633,
+  "finances": {
+   "2015": {
+    "ca": 407896,
+    "resultat_net": 7885
+   }
+  },
+  "annee": "2015",
+  "ca": 407896,
+  "resultat_net": 7885,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.22Z",
+  "nature_juridique": "5499",
+  "date_creation": "1994-06-30",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CHRISTOPHE HARAND",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "403222250",
+  "nom_complet": "BARRAT LOCATION",
+  "siege_code_postal": "03100",
+  "siege_commune": "MONTLUCON",
+  "adresse": "RUE DE PASQUIS 03100 MONTLUCON",
+  "latitude": 46.361998441,
+  "longitude": 2.5935117453,
+  "finances": {
+   "2025": {
+    "ca": 822459,
+    "resultat_net": 15407
+   }
+  },
+  "annee": "2025",
+  "ca": 822459,
+  "resultat_net": 15407,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "77.11A",
+  "nature_juridique": "5710",
+  "date_creation": "1995-12-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "BARRAT INVESTISSEMENTS",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "851186726",
+  "nom_complet": "SOLEIA 59",
+  "siege_code_postal": "14280",
+  "siege_commune": "SAINT-CONTEST",
+  "adresse": "12 RUE MARTIN LUTHER KING 14280 SAINT-CONTEST",
+  "latitude": 49.204796007,
+  "longitude": -0.396703935,
+  "finances": {
+   "2025": {
+    "ca": 572747,
+    "resultat_net": -115945
+   }
+  },
+  "annee": "2025",
+  "ca": 572747,
+  "resultat_net": -115945,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2019-04-02",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "JP ENERGIE ENVIRONNEMENT",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "523335396",
+  "nom_complet": "SARL COSNE",
+  "siege_code_postal": "58200",
+  "siege_commune": "COSNE-COURS-SUR-LOIRE",
+  "adresse": "44 AVENUE DU 85EME DE LIGNE 58200 COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.399437861,
+  "longitude": 2.9226048166,
+  "finances": {
+   "2021": {
+    "ca": 884415,
+    "resultat_net": 124387
+   }
+  },
+  "annee": "2021",
+  "ca": 884415,
+  "resultat_net": 124387,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "10.71C",
+  "nature_juridique": "5499",
+  "date_creation": "2010-07-01",
+  "enseignes": [
+   "CEREA"
+  ],
+  "dirigeants": [
+   {
+    "nom": "VINCENT BONNOT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "529005969",
+  "nom_complet": "PHOTOSOL SPV 4",
+  "siege_code_postal": "75010",
+  "siege_commune": "PARIS",
+  "adresse": "206 RUE LA FAYETTE 75010 PARIS",
+  "latitude": 48.8815699637717,
+  "longitude": 2.36603115537709,
+  "finances": {
+   "2024": {
+    "ca": 900162,
+    "resultat_net": 42905
+   }
+  },
+  "annee": "2024",
+  "ca": 900162,
+  "resultat_net": 42905,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2010-12-05",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PHOTOSOL BOURBON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "538626607",
+  "nom_complet": "PIERRE-YVES SCHNEIDER",
+  "siege_code_postal": "71400",
+  "siege_commune": "AUTUN",
+  "adresse": "CARREFOUR DE LA LEGION 71400 AUTUN",
+  "latitude": null,
+  "longitude": null,
+  "finances": {
+   "2022": {
+    "ca": 895567,
+    "resultat_net": 1181
+   }
+  },
+  "annee": "2022",
+  "ca": 895567,
+  "resultat_net": 1181,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "66.22Z",
+  "nature_juridique": "1000",
+  "date_creation": "2012-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PIERRE-YVES MARIE LAURENT SCHNEIDER",
+    "fonction": null
+   }
+  ]
+ },
+ {
+  "siren": "789494481",
+  "nom_complet": "SERIGRAPHIE BENOIT (SERIGRAPH 2000)",
+  "siege_code_postal": "58200",
+  "siege_commune": "COSNE-COURS-SUR-LOIRE",
+  "adresse": "82 AVENUE DU 85EME DE LIGNE 58200 COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.394384905,
+  "longitude": 2.9216232684,
+  "finances": {
+   "2021": {
+    "ca": 384000,
+    "resultat_net": -24260
+   }
+  },
+  "annee": "2021",
+  "ca": 384000,
+  "resultat_net": -24260,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "18.13Z",
+  "nature_juridique": "5499",
+  "date_creation": "2012-11-05",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "MARC ROBERT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "319392411",
+  "nom_complet": "REVOGEX",
+  "siege_code_postal": "75002",
+  "siege_commune": "PARIS",
+  "adresse": "160 RUE MONTMARTRE 75002 PARIS",
+  "latitude": 48.870183404,
+  "longitude": 2.3428367538,
+  "finances": {
+   "2016": {
+    "ca": 754665,
+    "resultat_net": 41335
+   }
+  },
+  "annee": "2016",
+  "ca": 754665,
+  "resultat_net": 41335,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "69.20Z",
+  "nature_juridique": "5499",
+  "date_creation": "1980-05-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HUBERT POULIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "JEAN- PAUL RETOUT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "788542793",
+  "nom_complet": "SOLS MURS 2000",
+  "siege_code_postal": "58130",
+  "siege_commune": "URZY",
+  "adresse": "1 ROUTE DE DEMEURS 58130 URZY",
+  "latitude": 47.0812881874029,
+  "longitude": 3.19302637935192,
+  "finances": {
+   "2016": {
+    "ca": 430689,
+    "resultat_net": 14516
+   }
+  },
+  "annee": "2016",
+  "ca": 430689,
+  "resultat_net": 14516,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.34Z",
+  "nature_juridique": "5499",
+  "date_creation": "2012-11-02",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "MARIE-LINE RIGAUD (PACIORKOWSKI)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "MARIE-LINE PACIORKOWSKI (RIGAUD)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "MERYL ANDRE RIGAUD",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "327933396",
+  "nom_complet": "SOCIETE D ARTS GRAPHIQUES (SAG)",
+  "siege_code_postal": "69009",
+  "siege_commune": "LYON",
+  "adresse": "15 QUAI DU COMMERCE 69009 LYON",
+  "latitude": 45.783486496,
+  "longitude": 4.811100538,
+  "finances": {
+   "2017": {
+    "ca": 917137,
+    "resultat_net": 27601
+   }
+  },
+  "annee": "2017",
+  "ca": 917137,
+  "resultat_net": 27601,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "18.12Z",
+  "nature_juridique": "5710",
+  "date_creation": "1983-08-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DÉCOFAB GROUPE",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "812962827",
+  "nom_complet": "DOMAINE DE BACCHUS",
+  "siege_code_postal": "58150",
+  "siege_commune": "POUILLY-SUR-LOIRE",
+  "adresse": "3 PLACE DES FRERES MOLLET 58150 POUILLY-SUR-LOIRE",
+  "latitude": 47.283538754,
+  "longitude": 2.9537038088,
+  "finances": {
+   "2024": {
+    "ca": 429983,
+    "resultat_net": 4546
+   }
+  },
+  "annee": "2024",
+  "ca": 429983,
+  "resultat_net": 4546,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "46.34Z",
+  "nature_juridique": "5710",
+  "date_creation": "2015-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "AOC NONET HOLDING",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "509731188",
+  "nom_complet": "CEDRIC JEAN JACQUES VIARD (EIRL AXA CEDRIC VIARD)",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "6 BOULEVARD PIERRE DE COUBERTIN 58000 NEVERS",
+  "latitude": 46.987138499,
+  "longitude": 3.1621508542,
+  "finances": {
+   "2018": {
+    "ca": 540462,
+    "resultat_net": 125268
+   }
+  },
+  "annee": "2018",
+  "ca": 540462,
+  "resultat_net": 125268,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "66.22Z",
+  "nature_juridique": "1000",
+  "date_creation": "1968-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CEDRIC JEAN JACQUES CEDRIC JEAN JACQUES VIARD",
+    "fonction": null
+   }
+  ]
+ },
+ {
+  "siren": "828360818",
+  "nom_complet": "JM2B",
+  "siege_code_postal": "58130",
+  "siege_commune": "SAINT-MARTIN-D'HEUILLE",
+  "adresse": "44 ROUTE DE NEVERS 58130 SAINT-MARTIN-D'HEUILLE",
+  "latitude": 47.0500975112351,
+  "longitude": 3.2235865499587,
+  "finances": {
+   "2022": {
+    "ca": 858000,
+    "resultat_net": 30250
+   }
+  },
+  "annee": "2022",
+  "ca": 858000,
+  "resultat_net": 30250,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "70.22Z",
+  "nature_juridique": "5499",
+  "date_creation": "2017-03-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "MELISSA ALICE GINETTE BERNON (BEDU)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "JONATHAN BERNON",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "823687033",
+  "nom_complet": "FREDERIC BOURGEOIS BOULANGERIE PATISSERIE",
+  "siege_code_postal": "58200",
+  "siege_commune": "COSNE-COURS-SUR-LOIRE",
+  "adresse": "28 BOULEVARD DE LA REPUBLIQUE 58200 COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.411052238,
+  "longitude": 2.9262117891,
+  "finances": {
+   "2023": {
+    "ca": 768426,
+    "resultat_net": 12087
+   }
+  },
+  "annee": "2023",
+  "ca": 768426,
+  "resultat_net": 12087,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "10.71C",
+  "nature_juridique": "5499",
+  "date_creation": "2016-10-21",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "FREDERIC ROBERT BOURGEOIS",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "399262237",
+  "nom_complet": "ECOCYCLES",
+  "siege_code_postal": "79120",
+  "siege_commune": "LEZAY",
+  "adresse": "PIQUE L'OIE 79120 LEZAY",
+  "latitude": 46.261364765,
+  "longitude": -0.054950517,
+  "finances": {
+   "2025": {
+    "ca": 751757,
+    "resultat_net": 902
+   }
+  },
+  "annee": "2025",
+  "ca": 751757,
+  "resultat_net": 902,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.49Z",
+  "nature_juridique": "5499",
+  "date_creation": "1995-01-03",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CHRISTIAN BARBIER (BARBIER)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "879790616",
+  "nom_complet": "MENUISERIE BRADE (MENUISERIE ARTISANALE BRADE)",
+  "siege_code_postal": "58420",
+  "siege_commune": "GUIPY",
+  "adresse": "24 RUE SAINT JACQUES DE COMPOSTELLE 58420 GUIPY",
+  "latitude": 47.230146908,
+  "longitude": 3.5764595367,
+  "finances": {
+   "2024": {
+    "ca": 531290,
+    "resultat_net": 100965
+   }
+  },
+  "annee": "2024",
+  "ca": 531290,
+  "resultat_net": 100965,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.32A",
+  "nature_juridique": "5499",
+  "date_creation": "2019-12-11",
+  "enseignes": [
+   "MENUISERIE ARTISANALE BRADE"
+  ],
+  "dirigeants": [
+   {
+    "nom": "GREGORY BRADE",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "JEROME BRADE",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "JEROME LUDOVIC RENE BRADE",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "LAETITIA BRADE",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "419492152",
+  "nom_complet": "ATELIER BOIS CREATION DUVAL",
+  "siege_code_postal": "58410",
+  "siege_commune": "ENTRAINS-SUR-NOHAIN",
+  "adresse": "6 RUE DES PROMENADES 58410 ENTRAINS-SUR-NOHAIN",
+  "latitude": 47.465251908,
+  "longitude": 3.2578956004,
+  "finances": {
+   "2021": {
+    "ca": 398755,
+    "resultat_net": -183989
+   }
+  },
+  "annee": "2021",
+  "ca": 398755,
+  "resultat_net": -183989,
+  "tranche_effectif": "00",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "16.23Z",
+  "nature_juridique": "5499",
+  "date_creation": "1998-07-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "LIONEL DUVAL",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "539701862",
+  "nom_complet": "SPV 25",
+  "siege_code_postal": "75010",
+  "siege_commune": "PARIS",
+  "adresse": "206 RUE LA FAYETTE 75010 PARIS",
+  "latitude": 48.8815699637717,
+  "longitude": 2.36603115537709,
+  "finances": {
+   "2024": {
+    "ca": 785640,
+    "resultat_net": -37468
+   }
+  },
+  "annee": "2024",
+  "ca": 785640,
+  "resultat_net": -37468,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2012-01-26",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PHOTOSOL BOURBON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "329950604",
+  "nom_complet": "FAVRAC",
+  "siege_code_postal": "58130",
+  "siege_commune": "URZY",
+  "adresse": "465 ROUTE DU GREUX 58130 URZY",
+  "latitude": 47.058863751,
+  "longitude": 3.2060899331,
+  "finances": {
+   "2024": {
+    "ca": 924485,
+    "resultat_net": 44557
+   }
+  },
+  "annee": "2024",
+  "ca": 924485,
+  "resultat_net": 44557,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "28.93Z",
+  "nature_juridique": "5710",
+  "date_creation": "1984-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HUBERT RIVETTI",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "909830408",
+  "nom_complet": "MA BOUTIQUE VELO",
+  "siege_code_postal": "58160",
+  "siege_commune": "SAUVIGNY-LES-BOIS",
+  "adresse": "16 RUE DE LA BANNE 58160 SAUVIGNY-LES-BOIS",
+  "latitude": 46.98194238,
+  "longitude": 3.2364959686,
+  "finances": {
+   "2024": {
+    "ca": 957144,
+    "resultat_net": -75582
+   }
+  },
+  "annee": "2024",
+  "ca": 957144,
+  "resultat_net": -75582,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.64Z",
+  "nature_juridique": "5499",
+  "date_creation": "2022-01-29",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PASCAL MAURICE DOUET (DOUET)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "321044471",
+  "nom_complet": "PAVILLONS  MEUNIOT SAS",
+  "siege_code_postal": "58300",
+  "siege_commune": "DECIZE",
+  "adresse": "81 AVENUE DU 14 JUILLET 58300 DECIZE",
+  "latitude": 46.8368128613127,
+  "longitude": 3.46724314650744,
+  "finances": {
+   "2022": {
+    "ca": 929115,
+    "resultat_net": -31538
+   }
+  },
+  "annee": "2022",
+  "ca": 929115,
+  "resultat_net": -31538,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "68.10Z",
+  "nature_juridique": "5710",
+  "date_creation": "1981-04-24",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ALAIN MEUNIOT",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "918125709",
+  "nom_complet": "DISTRIPIZZ",
+  "siege_code_postal": "18300",
+  "siege_commune": "SANCERRE",
+  "adresse": "RUE DE LA TOUR DU CHANCELIER 18300 SANCERRE",
+  "latitude": 47.3321490244537,
+  "longitude": 2.83997502693322,
+  "finances": {
+   "2024": {
+    "ca": 934247,
+    "resultat_net": 65735
+   }
+  },
+  "annee": "2024",
+  "ca": 934247,
+  "resultat_net": 65735,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "56.10C",
+  "nature_juridique": "5710",
+  "date_creation": "2022-07-20",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DANIEL FOURNIER",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "SÉVERINE CÉLINE FOURNIER (LAVALLEE)",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "442587341",
+  "nom_complet": "SEFLODI",
+  "siege_code_postal": "13200",
+  "siege_commune": "ARLES",
+  "adresse": "4 CHEMIN DU MAS PAGET 13200 ARLES",
+  "latitude": 43.660572132,
+  "longitude": 4.6742386425,
+  "finances": {
+   "2020": {
+    "ca": 396000,
+    "resultat_net": 542787
+   }
+  },
+  "annee": "2020",
+  "ca": 396000,
+  "resultat_net": 542787,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "64.20Z",
+  "nature_juridique": "5710",
+  "date_creation": "2002-06-24",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "FLORENT FOURNIER",
+    "fonction": "Président du conseil d’administration"
+   },
+   {
+    "nom": "SEVERINE MURIELLE NATHALIE FOURNIER (LEMOING)",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "480634682",
+  "nom_complet": "MILLE ET 1 SERVICES",
+  "siege_code_postal": "58210",
+  "siege_commune": "CORVOL D'EMBERNARD",
+  "adresse": "CIDEX 209 LE BOURG 58210 CORVOL D'EMBERNARD",
+  "latitude": 47.298383437,
+  "longitude": 3.3989866218,
+  "finances": {
+   "2024": {
+    "ca": 404815,
+    "resultat_net": 7309
+   }
+  },
+  "annee": "2024",
+  "ca": 404815,
+  "resultat_net": 7309,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.22B",
+  "nature_juridique": "5499",
+  "date_creation": "2005-01-31",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "FABRICE DUBOIS",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "778130955",
+  "nom_complet": "SOCIETE DES TRANSPORTS ANDRIEUX",
+  "siege_code_postal": "94190",
+  "siege_commune": "VILLENEUVE-SAINT-GEORGES",
+  "adresse": "4 AVENUE WINSTON CHURCHILL 94190 VILLENEUVE-SAINT-GEORGES",
+  "latitude": 48.7551135,
+  "longitude": 2.4451850585,
+  "finances": {
+   "2024": {
+    "ca": 541834,
+    "resultat_net": 9099
+   }
+  },
+  "annee": "2024",
+  "ca": 541834,
+  "resultat_net": 9099,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "49.39B",
+  "nature_juridique": "5599",
+  "date_creation": "1958-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "JOSE MANUEL LOBO ANTUNES",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "EMMANUELLE MILLE",
+    "fonction": "Président du conseil d’administration"
+   },
+   {
+    "nom": "SA MILLE MILES",
+    "fonction": "Administrateur"
+   }
+  ]
+ },
+ {
+  "siren": "825214091",
+  "nom_complet": "SARL NORMAND MICHAEL (SARL NORMAND MICHAEL)",
+  "siege_code_postal": "58350",
+  "siege_commune": "CHATEAUNEUF-VAL-DE-BARGIS",
+  "adresse": "CHAMERY 58350 CHATEAUNEUF-VAL-DE-BARGIS",
+  "latitude": 47.272713678,
+  "longitude": 3.2400706018,
+  "finances": {
+   "2022": {
+    "ca": 309396,
+    "resultat_net": 6511
+   }
+  },
+  "annee": "2022",
+  "ca": 309396,
+  "resultat_net": 6511,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.91B",
+  "nature_juridique": "5499",
+  "date_creation": "2017-02-01",
+  "enseignes": [
+   "SARL NORMAND MICHAEL"
+  ],
+  "dirigeants": [
+   {
+    "nom": "MICHAEL NORMAND",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "824675276",
+  "nom_complet": "PARC SOLAIRE DE LANGERON SAS",
+  "siege_code_postal": "78370",
+  "siege_commune": "PLAISIR",
+  "adresse": "425 RUE HENRI BARBUSSE 78370 PLAISIR",
+  "latitude": 48.829060238,
+  "longitude": 1.9670407845,
+  "finances": {
+   "2025": {
+    "ca": 815617,
+    "resultat_net": -1051222
+   }
+  },
+  "annee": "2025",
+  "ca": 815617,
+  "resultat_net": -1051222,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2016-12-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ARJAN MATHIEU MEIJER",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "EMMANUELLE RECCO (RONDÉ-OUSTAU)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "ANNE-LAURE JACQUEMART (VACHER)",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "501451892",
+  "nom_complet": "PINON BERNARD",
+  "siege_code_postal": "58210",
+  "siege_commune": "VARZY",
+  "adresse": "9 RUE DU FAUBOURG D'AUXERRE 58210 VARZY",
+  "latitude": 47.36138066,
+  "longitude": 3.3866684576,
+  "finances": {
+   "2022": {
+    "ca": 563563,
+    "resultat_net": 41972
+   }
+  },
+  "annee": "2022",
+  "ca": 563563,
+  "resultat_net": 41972,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.99C",
+  "nature_juridique": "5499",
+  "date_creation": "2008-01-09",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ELIE PINON",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "831123567",
+  "nom_complet": "SOCIETE D'EXPLOITATION DU CHATEAU LE SALLAY",
+  "siege_code_postal": "75003",
+  "siege_commune": "PARIS",
+  "adresse": "57 RUE MESLAY 75003 PARIS",
+  "latitude": 48.868262975,
+  "longitude": 2.3570154678,
+  "finances": {
+   "2019": {
+    "ca": 516365,
+    "resultat_net": 78283
+   }
+  },
+  "annee": "2019",
+  "ca": 516365,
+  "resultat_net": 78283,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "55.10Z",
+  "nature_juridique": "5499",
+  "date_creation": "2017-07-12",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EKATERINA KUZNETSOV (KADIEVA)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "SERGEY KUZNETSOV",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "503190738",
+  "nom_complet": "LA PATATERIE SERVICES (LPC)",
+  "siege_code_postal": "92100",
+  "siege_commune": "BOULOGNE-BILLANCOURT",
+  "adresse": "32 RUE DE PARIS 32 RUE DE PARIS 92100 BOULOGNE-BILLANCOURT",
+  "latitude": 48.8398380799477,
+  "longitude": 2.24768962456618,
+  "finances": {
+   "2025": {
+    "ca": 575648,
+    "resultat_net": 95263
+   }
+  },
+  "annee": "2025",
+  "ca": 575648,
+  "resultat_net": 95263,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "82.99Z",
+  "nature_juridique": "5710",
+  "date_creation": "2007-11-08",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "LA PATATERIE S.A.S.",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "820416717",
+  "nom_complet": "SAS AMLT BOURGEOIS (BOUCHERIE CHARCUTERIE TRAITEUR BOURGEOIS)",
+  "siege_code_postal": "18240",
+  "siege_commune": "BOULLERET",
+  "adresse": "5 RUE DU STADE 18240 BOULLERET",
+  "latitude": 47.4225423834738,
+  "longitude": 2.88500820025764,
+  "finances": {
+   "2023": {
+    "ca": 533219,
+    "resultat_net": 27973
+   }
+  },
+  "annee": "2023",
+  "ca": 533219,
+  "resultat_net": 27973,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.22Z",
+  "nature_juridique": "5710",
+  "date_creation": "2016-04-25",
+  "enseignes": [
+   "BOUCHERIE CHARCUTERIE TRAITEUR BOURGEOIS"
+  ],
+  "dirigeants": [
+   {
+    "nom": "THIERRY BOURGEOIS",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "THIERRY JEAN-PIERRE BOURGEOIS",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "819914896",
+  "nom_complet": "SAS LEBALLEUR (LA CERISE SUR LE COCHON)",
+  "siege_code_postal": "58700",
+  "siege_commune": "PREMERY",
+  "adresse": "15 GRANDE RUE 58700 PREMERY",
+  "latitude": 47.175832619,
+  "longitude": 3.3312664594,
+  "finances": {
+   "2017": {
+    "ca": 438488,
+    "resultat_net": -1665
+   }
+  },
+  "annee": "2017",
+  "ca": 438488,
+  "resultat_net": -1665,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "10.13B",
+  "nature_juridique": "5710",
+  "date_creation": "2016-05-09",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PASCAL JACQUES LEBALLEUR",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "491206397",
+  "nom_complet": "SECURITY GUARDS ASSISTANCE",
+  "siege_code_postal": "45770",
+  "siege_commune": "SARAN",
+  "adresse": "264 RUE DES SABLES DE SARY 45770 SARAN",
+  "latitude": 47.9464427994132,
+  "longitude": 1.8644075000926,
+  "finances": {
+   "2021": {
+    "ca": 989146,
+    "resultat_net": 228584
+   }
+  },
+  "annee": "2021",
+  "ca": 989146,
+  "resultat_net": 228584,
+  "tranche_effectif": "00",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "80.10Z",
+  "nature_juridique": "5499",
+  "date_creation": "2006-07-20",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PASCAL LAFITTE",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "827816042",
+  "nom_complet": "VINS STEPHANE CHARLOT (SO' DIVINO) (VSC)",
+  "siege_code_postal": "58460",
+  "siege_commune": "CORVOL-L'ORGUEILLEUX",
+  "adresse": "53 GRANDE RUE 58460 CORVOL-L'ORGUEILLEUX",
+  "latitude": 47.431033746,
+  "longitude": 3.4007244448,
+  "finances": {
+   "2024": {
+    "ca": 386377,
+    "resultat_net": 10416
+   }
+  },
+  "annee": "2024",
+  "ca": 386377,
+  "resultat_net": 10416,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.34Z",
+  "nature_juridique": "5499",
+  "date_creation": "2017-03-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "STEPHANE CHARLOT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "841590581",
+  "nom_complet": "COURLIS MARKET",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "1 PLACE DU GRAND COURLIS 58000 NEVERS",
+  "latitude": 46.983404726,
+  "longitude": 3.1865479975,
+  "finances": {
+   "2025": {
+    "ca": 727145,
+    "resultat_net": 32074
+   }
+  },
+  "annee": "2025",
+  "ca": 727145,
+  "resultat_net": 32074,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.11B",
+  "nature_juridique": "5710",
+  "date_creation": "2018-09-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "BOUBKER GUEZOUL",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "983669474",
+  "nom_complet": "ROCHES METAL",
+  "siege_code_postal": "62730",
+  "siege_commune": "MARCK",
+  "adresse": "ZONE D'ACTIVITE AVENUE HENRI RAVISSE 62730 MARCK",
+  "latitude": 50.942394029,
+  "longitude": 1.9329972954,
+  "finances": {
+   "2024": {
+    "ca": 455842,
+    "resultat_net": -89307
+   }
+  },
+  "annee": "2024",
+  "ca": 455842,
+  "resultat_net": -89307,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "31.09B",
+  "nature_juridique": "5710",
+  "date_creation": "2024-01-16",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HOLDING CALAIS AGENCEMENT BUSINESS EXPANSION",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "389985839",
+  "nom_complet": "MAISON MENAGER (MARBRERIE MENAGER)",
+  "siege_code_postal": "71190",
+  "siege_commune": "ETANG-SUR-ARROUX",
+  "adresse": "22 RUE DE SAINT-DIDIER 71190 ETANG-SUR-ARROUX",
+  "latitude": 46.8630444933311,
+  "longitude": 4.17749099095564,
+  "finances": {
+   "2024": {
+    "ca": 551011,
+    "resultat_net": 33373
+   }
+  },
+  "annee": "2024",
+  "ca": 551011,
+  "resultat_net": 33373,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "23.70Z",
+  "nature_juridique": "5499",
+  "date_creation": "1993-01-04",
+  "enseignes": [
+   "MAISON MENAGER"
+  ],
+  "dirigeants": [
+   {
+    "nom": "LUDOVIC MENAGER",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "838516490",
+  "nom_complet": "CENTRALE SOLAIRE DE DECIZE",
+  "siege_code_postal": "75016",
+  "siege_commune": "PARIS",
+  "adresse": "19 AVENUE DE LA GRANDE ARMEE 75016 PARIS",
+  "latitude": 48.874750363,
+  "longitude": 2.2908536103,
+  "finances": {
+   "2024": {
+    "ca": 922259,
+    "resultat_net": -46976
+   }
+  },
+  "annee": "2024",
+  "ca": 922259,
+  "resultat_net": -46976,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2018-03-19",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HORST ROBERT SIEGFRIED CONRAD",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "GREGOR WEBER",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "WATT & CO INGENIERIE",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "843966995",
+  "nom_complet": "SARL D.RACAUT",
+  "siege_code_postal": "58640",
+  "siege_commune": "VARENNES-VAUZELLES",
+  "adresse": "81 BOULEVARD CAMILLE DAGONNEAU 58640 VARENNES-VAUZELLES",
+  "latitude": 47.0171490174187,
+  "longitude": 3.14821070048631,
+  "finances": {
+   "2025": {
+    "ca": 605612,
+    "resultat_net": 126659
+   }
+  },
+  "annee": "2025",
+  "ca": 605612,
+  "resultat_net": 126659,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "66.22Z",
+  "nature_juridique": "5499",
+  "date_creation": "2018-11-06",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DAVID ALAIN RACAUT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "843444290",
+  "nom_complet": "PETROLEMPDES (SASU PETROLEMPDES)",
+  "siege_code_postal": "43410",
+  "siege_commune": "LEMPDES-SUR-ALLAGNON",
+  "adresse": "LE BOURG LOU MESSES ROUTE NATIONALE 102 43410 LEMPDES-SUR-ALLAGNON",
+  "latitude": 45.373134885,
+  "longitude": 3.2905311761,
+  "finances": {
+   "2020": {
+    "ca": 322794,
+    "resultat_net": 14611
+   }
+  },
+  "annee": "2020",
+  "ca": 322794,
+  "resultat_net": 14611,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.30Z",
+  "nature_juridique": "5710",
+  "date_creation": "2018-11-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "RAOUDHA MAYASSI (GHAMMOURI)",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "529005746",
+  "nom_complet": "PHOTOSOL SPV 3",
+  "siege_code_postal": "75010",
+  "siege_commune": "PARIS",
+  "adresse": "206 RUE LA FAYETTE 75010 PARIS",
+  "latitude": 48.8815699637717,
+  "longitude": 2.36603115537709,
+  "finances": {
+   "2024": {
+    "ca": 483635,
+    "resultat_net": 12563
+   }
+  },
+  "annee": "2024",
+  "ca": 483635,
+  "resultat_net": 12563,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2010-11-05",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PHOTOSOL BOURBON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "749853057",
+  "nom_complet": "VILLEMIN ETIENNE (OPTIQUE POULAIN)",
+  "siege_code_postal": "58500",
+  "siege_commune": "CLAMECY",
+  "adresse": "6/8 6 RUE MARIE DAVY 58500 CLAMECY",
+  "latitude": 47.460191855,
+  "longitude": 3.5222102541,
+  "finances": {
+   "2024": {
+    "ca": 945025,
+    "resultat_net": 72524
+   }
+  },
+  "annee": "2024",
+  "ca": 945025,
+  "resultat_net": 72524,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.78A",
+  "nature_juridique": "5499",
+  "date_creation": "2012-02-23",
+  "enseignes": [
+   "OPTIQUE POULAIN"
+  ],
+  "dirigeants": [
+   {
+    "nom": "ETIENNE VILLEMIN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "421819236",
+  "nom_complet": "ARMEDIS",
+  "siege_code_postal": "75008",
+  "siege_commune": "PARIS",
+  "adresse": "54-56 AVENUE HOCHE 75008 PARIS",
+  "latitude": 48.8751444158374,
+  "longitude": 2.2975890185716,
+  "finances": {
+   "2016": {
+    "ca": 340106,
+    "resultat_net": 5117
+   }
+  },
+  "annee": "2016",
+  "ca": 340106,
+  "resultat_net": 5117,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "70.22Z",
+  "nature_juridique": "5499",
+  "date_creation": "1999-02-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ERIC JEAN FRANCOIS GUERIN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "884511155",
+  "nom_complet": "SARL BOULANGERIE PATISSERIE RAVEAU",
+  "siege_code_postal": "58490",
+  "siege_commune": "SAINT-PARIZE-LE-CHATEL",
+  "adresse": "6 AVENUE DE LA MAIRIE 58490 SAINT-PARIZE-LE-CHATEL",
+  "latitude": 46.854363575,
+  "longitude": 3.1819746373,
+  "finances": {
+   "2024": {
+    "ca": 515315,
+    "resultat_net": 31842
+   }
+  },
+  "annee": "2024",
+  "ca": 515315,
+  "resultat_net": 31842,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "10.71C",
+  "nature_juridique": "5499",
+  "date_creation": "2020-05-26",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "OLIVIER RAVEAU",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "OLIVIER RAYMOND RAVEAU",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "440114189",
+  "nom_complet": "AGELANDRE SARL",
+  "siege_code_postal": "58400",
+  "siege_commune": "NARCY",
+  "adresse": "LE GRAND MIGNIER 58400 NARCY",
+  "latitude": 47.252216616,
+  "longitude": 3.0958592866,
+  "finances": {
+   "2016": {
+    "ca": 613421,
+    "resultat_net": 31403
+   }
+  },
+  "annee": "2016",
+  "ca": 613421,
+  "resultat_net": 31403,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "68.20B",
+  "nature_juridique": "5499",
+  "date_creation": "2001-12-10",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "REMY DUBOIS DIT BONCLAUDE",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "913478970",
+  "nom_complet": "S.A.S.U AGRICOLOGIE NIVERNAIS - BERRY",
+  "siege_code_postal": "58000",
+  "siege_commune": "SAINT-ELOI",
+  "adresse": "43 ROUTE DE CHALUZY 58000 SAINT-ELOI",
+  "latitude": 46.9970498879849,
+  "longitude": 3.19504969999959,
+  "finances": {
+   "2023": {
+    "ca": 438097,
+    "resultat_net": 3642
+   }
+  },
+  "annee": "2023",
+  "ca": 438097,
+  "resultat_net": 3642,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2022-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "NICOLAS BRIET",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "428116826",
+  "nom_complet": "LAPAIRE N'CO (LE GRAND SALOIR)",
+  "siege_code_postal": "58800",
+  "siege_commune": "CORBIGNY",
+  "adresse": "7 RUE DES BEUCHOTS 58800 CORBIGNY",
+  "latitude": 47.258680556,
+  "longitude": 3.6773842305,
+  "finances": {
+   "2021": {
+    "ca": 922248,
+    "resultat_net": -7600
+   }
+  },
+  "annee": "2021",
+  "ca": 922248,
+  "resultat_net": -7600,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "56.10C",
+  "nature_juridique": "5499",
+  "date_creation": "1999-11-29",
+  "enseignes": [
+   "LE GRAND SALOIR"
+  ],
+  "dirigeants": [
+   {
+    "nom": "ANNE VERONIQUE LAPAIRE (FRANKEUR)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "FRANCK LAPAIRE",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "THOMAS LAPAIRE",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "452134562",
+  "nom_complet": "EXPRESS COURSES",
+  "siege_code_postal": "58300",
+  "siege_commune": "SAINT-LEGER-DES-VIGNES",
+  "adresse": "8 RUE CLAMORIN 58300 SAINT-LEGER-DES-VIGNES",
+  "latitude": 46.841137792,
+  "longitude": 3.4605978666,
+  "finances": {
+   "2020": {
+    "ca": 647974,
+    "resultat_net": 51140
+   }
+  },
+  "annee": "2020",
+  "ca": 647974,
+  "resultat_net": 51140,
+  "tranche_effectif": "12",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "53.20Z",
+  "nature_juridique": "5499",
+  "date_creation": "2004-02-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "SYLVIE SENES (PETIT)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "LAURENT SENES",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "824070981",
+  "nom_complet": "MAVAL",
+  "siege_code_postal": "58000",
+  "siege_commune": "SAINT-ELOI",
+  "adresse": "40 ROUTE DE BOURGOGNE 58000 SAINT-ELOI",
+  "latitude": 46.973773305,
+  "longitude": 3.220601484,
+  "finances": {
+   "2023": {
+    "ca": 913211,
+    "resultat_net": 27731
+   }
+  },
+  "annee": "2023",
+  "ca": 913211,
+  "resultat_net": 27731,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.32A",
+  "nature_juridique": "5499",
+  "date_creation": "2016-12-15",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ERIC DAVID",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "830768529",
+  "nom_complet": "AU BON MARCHE (COCCIMARKET)",
+  "siege_code_postal": "58220",
+  "siege_commune": "DONZY",
+  "adresse": "46 B RUE DU GENERAL LECLERC 58220 DONZY",
+  "latitude": 47.371667861,
+  "longitude": 3.1250913717,
+  "finances": {
+   "2025": {
+    "ca": 684375,
+    "resultat_net": 36219
+   }
+  },
+  "annee": "2025",
+  "ca": 684375,
+  "resultat_net": 36219,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.11B",
+  "nature_juridique": "5710",
+  "date_creation": "2017-07-07",
+  "enseignes": [
+   "COCCIMARKET"
+  ],
+  "dirigeants": [
+   {
+    "nom": "ABDEL OUAGHLANI",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "351933619",
+  "nom_complet": "A.CONCEPT",
+  "siege_code_postal": "54000",
+  "siege_commune": "NANCY",
+  "adresse": "16 B RUE OBERLIN 54000 NANCY",
+  "latitude": 48.6997495024138,
+  "longitude": 6.18955104827536,
+  "finances": {
+   "2022": {
+    "ca": 567103,
+    "resultat_net": 41935
+   }
+  },
+  "annee": "2022",
+  "ca": 567103,
+  "resultat_net": 41935,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "71.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "1989-07-08",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ESTELLE MAURICE (RIETSCH)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "399006063",
+  "nom_complet": "AMANDIO DE OLIVEIRA",
+  "siege_code_postal": "58270",
+  "siege_commune": "SAINT-FIRMIN",
+  "adresse": "18 RUE DU LAVOIR BUSSY 58270 SAINT-FIRMIN",
+  "latitude": 47.042958028,
+  "longitude": 3.3873910231,
+  "finances": {
+   "2024": {
+    "ca": 322557,
+    "resultat_net": 30569
+   }
+  },
+  "annee": "2024",
+  "ca": 322557,
+  "resultat_net": 30569,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.91B",
+  "nature_juridique": "5710",
+  "date_creation": "1994-09-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "VINCENT DEPLANQUE",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "980519524",
+  "nom_complet": "SAS MENUISERIE LEMAITRE",
+  "siege_code_postal": "58170",
+  "siege_commune": "LUZY",
+  "adresse": "16 B RUE DE PONT 58170 LUZY",
+  "latitude": 46.799462671,
+  "longitude": 3.9646402863,
+  "finances": {
+   "2024": {
+    "ca": 339902,
+    "resultat_net": 8042
+   }
+  },
+  "annee": "2024",
+  "ca": 339902,
+  "resultat_net": 8042,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.32A",
+  "nature_juridique": "5710",
+  "date_creation": "2023-09-23",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "SARL LAMOUREUX ET MAIZIERES",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "529005696",
+  "nom_complet": "PHOTOSOL SPV 2",
+  "siege_code_postal": "75010",
+  "siege_commune": "PARIS",
+  "adresse": "206 RUE LA FAYETTE 75010 PARIS",
+  "latitude": 48.8815699637717,
+  "longitude": 2.36603115537709,
+  "finances": {
+   "2024": {
+    "ca": 910759,
+    "resultat_net": 44501
+   }
+  },
+  "annee": "2024",
+  "ca": 910759,
+  "resultat_net": 44501,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2010-11-05",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PHOTOSOL BOURBON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "882933674",
+  "nom_complet": "DESPONT CONFECTION",
+  "siege_code_postal": "58640",
+  "siege_commune": "VARENNES-VAUZELLES",
+  "adresse": "16 RUE DENIS PAPIN 58640 VARENNES-VAUZELLES",
+  "latitude": 47.047959426,
+  "longitude": 3.1293271758,
+  "finances": {
+   "2020": {
+    "ca": 766404,
+    "resultat_net": 226822
+   }
+  },
+  "annee": "2020",
+  "ca": 766404,
+  "resultat_net": 226822,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "31.03Z",
+  "nature_juridique": "5710",
+  "date_creation": "2020-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "NICOLAS DESPONT",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "415272921",
+  "nom_complet": "LES PALMIERS (MUXU)",
+  "siege_code_postal": "33700",
+  "siege_commune": "MERIGNAC",
+  "adresse": "23 AVENUE DU MARECHAL LECLERC 33700 MERIGNAC",
+  "latitude": 44.840695987,
+  "longitude": -0.647500035,
+  "finances": {
+   "2024": {
+    "ca": 609721,
+    "resultat_net": -76559
+   }
+  },
+  "annee": "2024",
+  "ca": 609721,
+  "resultat_net": -76559,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "56.10A",
+  "nature_juridique": "5499",
+  "date_creation": "1997-12-17",
+  "enseignes": [
+   "MUXU"
+  ],
+  "dirigeants": [
+   {
+    "nom": "BENJAMIN BONNAY",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "ELSA BONNAY (BRECARD)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "571880129",
+  "nom_complet": "MEUBLES JEAN-MARIE GUYOT",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "14 RUE GEORGES DUFAUD 58000 NEVERS",
+  "latitude": 47.002030945,
+  "longitude": 3.1918779431,
+  "finances": {
+   "2018": {
+    "ca": 410437,
+    "resultat_net": 185518
+   }
+  },
+  "annee": "2018",
+  "ca": 410437,
+  "resultat_net": 185518,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "68.20B",
+  "nature_juridique": "5599",
+  "date_creation": "1957-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CATHERINE MASSON (GOROSTIZA)",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "JEAN-MARIE GUYOT",
+    "fonction": "Président du conseil d’administration"
+   },
+   {
+    "nom": "SCI MACRICO",
+    "fonction": "Administrateur"
+   }
+  ]
+ },
+ {
+  "siren": "891083107",
+  "nom_complet": "NEXSON CORPORATION",
+  "siege_code_postal": "58600",
+  "siege_commune": "GARCHIZY",
+  "adresse": "685 RUE JULES VERNE 58600 GARCHIZY",
+  "latitude": 47.0400011806559,
+  "longitude": 3.11626822767588,
+  "finances": {
+   "2024": {
+    "ca": 394756,
+    "resultat_net": 10612
+   }
+  },
+  "annee": "2024",
+  "ca": 394756,
+  "resultat_net": 10612,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "64.20Z",
+  "nature_juridique": "5710",
+  "date_creation": "2020-10-02",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CHARLES BONNAFOUS",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "890255417",
+  "nom_complet": "JENICLIM",
+  "siege_code_postal": "18230",
+  "siege_commune": "SAINT-DOULCHARD",
+  "adresse": "12 RUE IRENE ET FREDERIC JOLIOT CURIE 18230 SAINT-DOULCHARD",
+  "latitude": 47.108244924201,
+  "longitude": 2.38354418641212,
+  "finances": {
+   "2023": {
+    "ca": 714012,
+    "resultat_net": 64916
+   }
+  },
+  "annee": "2023",
+  "ca": 714012,
+  "resultat_net": 64916,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.74B",
+  "nature_juridique": "5710",
+  "date_creation": "2020-10-15",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "JEROME DELAPILLE",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "671880235",
+  "nom_complet": "CASINO DE ST HONORE",
+  "siege_code_postal": "58360",
+  "siege_commune": "SAINT-HONORE-LES-BAINS",
+  "adresse": "PARC THERMAL 58360 SAINT-HONORE-LES-BAINS",
+  "latitude": 46.906232966,
+  "longitude": 3.8329205077,
+  "finances": {
+   "2025": {
+    "ca": 697961,
+    "resultat_net": -87383
+   }
+  },
+  "annee": "2025",
+  "ca": 697961,
+  "resultat_net": -87383,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "92.00Z",
+  "nature_juridique": "5710",
+  "date_creation": "1967-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "MANON DOMINIQUE BOUILLOT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "JEAN DOUTRELIGNE",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "SOPHIE LEPERE",
+    "fonction": "Administrateur"
+   }
+  ]
+ },
+ {
+  "siren": "599800885",
+  "nom_complet": "CIMENTS FRANCAIS",
+  "siege_code_postal": "78930",
+  "siege_commune": "GUERVILLE",
+  "adresse": "TECHNODES 78930 GUERVILLE",
+  "latitude": null,
+  "longitude": null,
+  "finances": {
+   "2021": {
+    "ca": 390592,
+    "resultat_net": 347616986
+   }
+  },
+  "annee": "2021",
+  "ca": 390592,
+  "resultat_net": 347616986,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "78.30Z",
+  "nature_juridique": "5710",
+  "date_creation": "1989-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ANTOINE HABAR",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "BRUNO PILLON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "888401601",
+  "nom_complet": "NEVERS HOTEL",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "28 RUE DU PETIT MOUESSE 58000 NEVERS",
+  "latitude": 46.990045815,
+  "longitude": 3.1695950733,
+  "finances": {
+   "2024": {
+    "ca": 393738,
+    "resultat_net": 61336
+   }
+  },
+  "annee": "2024",
+  "ca": 393738,
+  "resultat_net": 61336,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "55.10Z",
+  "nature_juridique": "5710",
+  "date_creation": "2020-08-17",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "YOUCEF BENBERRAH",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "888561602",
+  "nom_complet": "SELARL DEVOGLE-GASPARD & ASSOCIES",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "COURTENAY 42 B BOULEVARD VICTOR HUGO 58000 NEVERS",
+  "latitude": 46.9974887907637,
+  "longitude": 3.15498260597841,
+  "finances": {
+   "2021": {
+    "ca": 688583,
+    "resultat_net": 174863
+   }
+  },
+  "annee": "2021",
+  "ca": 688583,
+  "resultat_net": 174863,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "86.23Z",
+  "nature_juridique": "5485",
+  "date_creation": "2020-09-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ISABELLE NATHALIE SOPHIE GASPARD (DEVOGLE)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "531010569",
+  "nom_complet": "AGREGATS DU CENTRE GROUPE",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "18 RUE VAUBAN 58000 NEVERS",
+  "latitude": 46.992689674,
+  "longitude": 3.1585120888,
+  "finances": {
+   "2020": {
+    "ca": 447932,
+    "resultat_net": -37452
+   }
+  },
+  "annee": "2020",
+  "ca": 447932,
+  "resultat_net": -37452,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "70.10Z",
+  "nature_juridique": "5710",
+  "date_creation": "2011-02-25",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "GILLES MORINI",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "531191898",
+  "nom_complet": "XENT",
+  "siege_code_postal": "58200",
+  "siege_commune": "COSNE-COURS-SUR-LOIRE",
+  "adresse": "PARC DU VAL DE LOIRE RUE DES FONDEURS 58200 COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.380957194,
+  "longitude": 2.9131882158,
+  "finances": {
+   "2024": {
+    "ca": 360976,
+    "resultat_net": 377365
+   }
+  },
+  "annee": "2024",
+  "ca": 360976,
+  "resultat_net": 377365,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "64.20Z",
+  "nature_juridique": "5499",
+  "date_creation": "2011-03-16",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "THIERRY DARRIGADE",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "404816456",
+  "nom_complet": "S.A.R.L E.P.N. ELECTRICITE PLOMBERIE NIVERNAISE (E.P.N.)",
+  "siege_code_postal": "58000",
+  "siege_commune": "CHALLUY",
+  "adresse": "121 ROUTE DE LYON 58000 CHALLUY",
+  "latitude": 46.9692609835273,
+  "longitude": 3.15644136548375,
+  "finances": {
+   "2022": {
+    "ca": 921342,
+    "resultat_net": 37657
+   }
+  },
+  "annee": "2022",
+  "ca": 921342,
+  "resultat_net": 37657,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.22A",
+  "nature_juridique": "5710",
+  "date_creation": "1996-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "AZB CONSORS",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "879265718",
+  "nom_complet": "SELARL ABIAN",
+  "siege_code_postal": "58240",
+  "siege_commune": "SAINT-PIERRE-LE-MOUTIER",
+  "adresse": "CHEMINEMENT DE LA CHAUME CHAMPIERRE 58240 SAINT-PIERRE-LE-MOUTIER",
+  "latitude": 46.788528671,
+  "longitude": 3.1147030774,
+  "finances": {
+   "2022": {
+    "ca": 373485,
+    "resultat_net": 85684
+   }
+  },
+  "annee": "2022",
+  "ca": 373485,
+  "resultat_net": 85684,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "86.23Z",
+  "nature_juridique": "5485",
+  "date_creation": "2019-08-09",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "SEBASTIEN ABIAN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "404439200",
+  "nom_complet": "BOURGOGNE AUTOMECA",
+  "siege_code_postal": "58500",
+  "siege_commune": "CLAMECY",
+  "adresse": "3 B RUE EMILE REBOULEAU 58500 CLAMECY",
+  "latitude": 47.459260614,
+  "longitude": 3.5161716116,
+  "finances": {
+   "2024": {
+    "ca": 301404,
+    "resultat_net": 19826
+   }
+  },
+  "annee": "2024",
+  "ca": 301404,
+  "resultat_net": 19826,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "45.20A",
+  "nature_juridique": "5499",
+  "date_creation": "1996-03-18",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EMMANUEL KAWENSKI",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "821203999",
+  "nom_complet": "LA MAISON - MAISON DE LA CULTURE DE NEVERS AGGLOMERATION (LA MAISON)",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "2 BOULEVARD PIERRE DE COUBERTIN 58000 NEVERS",
+  "latitude": 46.986563798,
+  "longitude": 3.1613240549,
+  "finances": {
+   "2024": {
+    "ca": 670661,
+    "resultat_net": -1157
+   }
+  },
+  "annee": "2024",
+  "ca": 670661,
+  "resultat_net": -1157,
+  "tranche_effectif": "12",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "90.01Z",
+  "nature_juridique": "5460",
+  "date_creation": "2016-07-01",
+  "enseignes": [
+   "MAISON DE LA CULTURE NEVERS AGGLOMERATION"
+  ],
+  "dirigeants": [
+   {
+    "nom": "JEAN-LUC REVOL",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "821299328",
+  "nom_complet": "GRAND CERF (LE GRAND CERF)",
+  "siege_code_postal": "58470",
+  "siege_commune": "GIMOUILLE",
+  "adresse": "ROUTE DE FERTOT 58470 GIMOUILLE",
+  "latitude": 46.930945228,
+  "longitude": 3.0934583679,
+  "finances": {
+   "2024": {
+    "ca": 982323,
+    "resultat_net": -690488
+   }
+  },
+  "annee": "2024",
+  "ca": 982323,
+  "resultat_net": -690488,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "55.10Z",
+  "nature_juridique": "5710",
+  "date_creation": "2016-07-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "XAVIER CAMPANELLA",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "483156824",
+  "nom_complet": "EXPANSION.2 (XXL)",
+  "siege_code_postal": "21800",
+  "siege_commune": "QUETIGNY",
+  "adresse": "ZONE COMMERCIALE DU GRAND MARCHE 11 B RUE DU COMMERCE 21800 QUETIGNY",
+  "latitude": 47.3108845181755,
+  "longitude": 5.09500133759355,
+  "finances": {
+   "2024": {
+    "ca": 936845,
+    "resultat_net": -25420
+   }
+  },
+  "annee": "2024",
+  "ca": 936845,
+  "resultat_net": -25420,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.59A",
+  "nature_juridique": "5710",
+  "date_creation": "2007-07-09",
+  "enseignes": [
+   "XXL"
+  ],
+  "dirigeants": [
+   {
+    "nom": "AGSM",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "348765199",
+  "nom_complet": "SOC DE SOUZA FILS",
+  "siege_code_postal": "58800",
+  "siege_commune": "CORBIGNY",
+  "adresse": "62 AVENUE SAINT-JEAN 58800 CORBIGNY",
+  "latitude": 47.254149042,
+  "longitude": 3.6780467252,
+  "finances": {
+   "2025": {
+    "ca": 873857,
+    "resultat_net": 20467
+   }
+  },
+  "annee": "2025",
+  "ca": 873857,
+  "resultat_net": 20467,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "96.03Z",
+  "nature_juridique": "5499",
+  "date_creation": "1988-10-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DIDIER DE SOUZA",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "343385084",
+  "nom_complet": "SOC CARRIERES DE LA GROSSE BORNE",
+  "siege_code_postal": "58220",
+  "siege_commune": "DONZY",
+  "adresse": "2 BLANC GATEAU 58220 DONZY",
+  "latitude": 47.372208774,
+  "longitude": 3.1148229402,
+  "finances": {
+   "2022": {
+    "ca": 364746,
+    "resultat_net": 261
+   }
+  },
+  "annee": "2022",
+  "ca": 364746,
+  "resultat_net": 261,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "08.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "1987-12-31",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "NICOLAS MORIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "NICOLAS ERIC ROMAIN MORIN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "423181023",
+  "nom_complet": "TRANSPORTS RENAULT & FILS",
+  "siege_code_postal": "45150",
+  "siege_commune": "DARVOY",
+  "adresse": "6 RUE DU CLOS BEAUDOIN 45150 DARVOY",
+  "latitude": 47.858908975,
+  "longitude": 2.0859249565,
+  "finances": {
+   "2022": {
+    "ca": 513229,
+    "resultat_net": -3439
+   }
+  },
+  "annee": "2022",
+  "ca": 513229,
+  "resultat_net": -3439,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "49.41B",
+  "nature_juridique": "5499",
+  "date_creation": "1999-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EDOUARD CLAUDE PIERRE RENAULT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "429659220",
+  "nom_complet": "OLM RACING",
+  "siege_code_postal": "58500",
+  "siege_commune": "CLAMECY",
+  "adresse": "RUE HELENE BOUCHER 58500 CLAMECY",
+  "latitude": 47.466483579,
+  "longitude": 3.5192731557,
+  "finances": {
+   "2024": {
+    "ca": 311154,
+    "resultat_net": -10419
+   }
+  },
+  "annee": "2024",
+  "ca": 311154,
+  "resultat_net": -10419,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "45.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "2000-03-06",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "OLIVIER MILLARD",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "428635205",
+  "nom_complet": "LA MAISON DE LA CULTURE DE NEVERS ET DE LA NIEVRE - MCNN (MCNN)",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "2 BOULEVARD PIERRE DE COUBERTIN 58000 NEVERS",
+  "latitude": 46.986563798,
+  "longitude": 3.1613240549,
+  "finances": {
+   "2016": {
+    "ca": 548640,
+    "resultat_net": -123037
+   }
+  },
+  "annee": "2016",
+  "ca": 548640,
+  "resultat_net": -123037,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "90.04Z",
+  "nature_juridique": "5460",
+  "date_creation": "2000-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "OLIVIER BRODA",
+    "fonction": "Liquidateur"
+   },
+   {
+    "nom": "MURIEL LOUISE JOLLY",
+    "fonction": "Liquidateur"
+   },
+   {
+    "nom": "MARYLENE ROCHER",
+    "fonction": "Liquidateur"
+   }
+  ]
+ },
+ {
+  "siren": "812180347",
+  "nom_complet": "SASU LA VALLEE CHANNY",
+  "siege_code_postal": "58150",
+  "siege_commune": "GARCHY",
+  "adresse": "25 RUE ALBERT THOMAS 58150 GARCHY",
+  "latitude": 47.259697648,
+  "longitude": 3.0737036944,
+  "finances": {
+   "2023": {
+    "ca": 511515,
+    "resultat_net": -35876
+   }
+  },
+  "annee": "2023",
+  "ca": 511515,
+  "resultat_net": -35876,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "01.61Z",
+  "nature_juridique": "5710",
+  "date_creation": "2015-06-25",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "JEAN-BAPTISTE MOURLON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "353429806",
+  "nom_complet": "SARL BARROS PERE ET FILS",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "19 RUE DE LA ROTONDE 58000 NEVERS",
+  "latitude": 46.98969061,
+  "longitude": 3.1469626308,
+  "finances": {
+   "2021": {
+    "ca": 611141,
+    "resultat_net": 68865
+   }
+  },
+  "annee": "2021",
+  "ca": 611141,
+  "resultat_net": 68865,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.22A",
+  "nature_juridique": "5499",
+  "date_creation": "1990-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DIDIER BARROS",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "345230783",
+  "nom_complet": "EDELWEISS STATION SERVICE",
+  "siege_code_postal": "58300",
+  "siege_commune": "SAINT-LEGER-DES-VIGNES",
+  "adresse": "4 ROUTE NATIONALE 58300 SAINT-LEGER-DES-VIGNES",
+  "latitude": 46.836984626,
+  "longitude": 3.4653844819,
+  "finances": {
+   "2024": {
+    "ca": 743493,
+    "resultat_net": 878
+   }
+  },
+  "annee": "2024",
+  "ca": 743493,
+  "resultat_net": 878,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.30Z",
+  "nature_juridique": "5499",
+  "date_creation": "1988-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DIDIER HESPEL",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "439663311",
+  "nom_complet": "NIEVRE AFFUTAGE",
+  "siege_code_postal": "58640",
+  "siege_commune": "VARENNES VAUZELLES",
+  "adresse": "ZONE INDUSTRIELLE 58640 VARENNES VAUZELLES",
+  "latitude": 47.047021749,
+  "longitude": 3.125562165,
+  "finances": {
+   "2016": {
+    "ca": 346488,
+    "resultat_net": 11310
+   }
+  },
+  "annee": "2016",
+  "ca": 346488,
+  "resultat_net": 11310,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "25.62B",
+  "nature_juridique": "5499",
+  "date_creation": "2001-07-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "NATHALIE SECRETIN (NOGUERA Y BERNAT)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "NATHALIE NOGUERA Y BERNAT (SECRETIN)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "441827458",
+  "nom_complet": "JARDIFLEURS",
+  "siege_code_postal": "58300",
+  "siege_commune": "SOUGY-SUR-LOIRE",
+  "adresse": "LA CERISE 12 ROUTE DE GENEVE 58300 SOUGY-SUR-LOIRE",
+  "latitude": 46.846256115,
+  "longitude": 3.4119242836,
+  "finances": {
+   "2024": {
+    "ca": 862261,
+    "resultat_net": -17398
+   }
+  },
+  "annee": "2024",
+  "ca": 862261,
+  "resultat_net": -17398,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "01.30Z",
+  "nature_juridique": "5499",
+  "date_creation": "2002-04-15",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "FABIEN VITTOZ",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "432099091",
+  "nom_complet": "ENTREPRISE GONZALEZ BATIMENT",
+  "siege_code_postal": "58400",
+  "siege_commune": "LA CHARITE-SUR-LOIRE",
+  "adresse": "ZONE INDUSTRIELLE 29 RUE DE GERIGNY 58400 LA CHARITE-SUR-LOIRE",
+  "latitude": 47.184701319,
+  "longitude": 3.0252970275,
+  "finances": {
+   "2022": {
+    "ca": 711834,
+    "resultat_net": 70722
+   }
+  },
+  "annee": "2022",
+  "ca": 711834,
+  "resultat_net": 70722,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.99C",
+  "nature_juridique": "5499",
+  "date_creation": "2000-07-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "THIERRY GONZALEZ",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "BERNADETTE GONZALEZ (NARCY)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "901643510",
+  "nom_complet": "HOLDING VEGEO GROUPE",
+  "siege_code_postal": "58420",
+  "siege_commune": "BRINON-SUR-BEUVRON",
+  "adresse": "2 RUE DE VEAUPOULE 58420 BRINON-SUR-BEUVRON",
+  "latitude": 47.2797375642692,
+  "longitude": 3.49097471305466,
+  "finances": {
+   "2025": {
+    "ca": 513333,
+    "resultat_net": 7117
+   }
+  },
+  "annee": "2025",
+  "ca": 513333,
+  "resultat_net": 7117,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "82.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2021-06-29",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EMILIE VENESSON (GALO)",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "JULIEN VENESSON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "804505493",
+  "nom_complet": "QUALIJURIS",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "2 AVENUE SAINT JUST 58000 NEVERS",
+  "latitude": 46.990491207,
+  "longitude": 3.157992874,
+  "finances": {
+   "2025": {
+    "ca": 361033,
+    "resultat_net": 244700
+   }
+  },
+  "annee": "2025",
+  "ca": 361033,
+  "resultat_net": 244700,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "69.10Z",
+  "nature_juridique": "5770",
+  "date_creation": "2014-07-06",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ALEXANDRE JOËL SERGE LOVATO",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "449516533",
+  "nom_complet": "CAP EXTREME",
+  "siege_code_postal": "58140",
+  "siege_commune": "BRASSY",
+  "adresse": "LE BOURG 58140 BRASSY",
+  "latitude": 47.26107558,
+  "longitude": 3.9369527542,
+  "finances": {
+   "2016": {
+    "ca": 433711,
+    "resultat_net": -4421
+   }
+  },
+  "annee": "2016",
+  "ca": 433711,
+  "resultat_net": -4421,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "77.11A",
+  "nature_juridique": "5499",
+  "date_creation": "2003-07-07",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "BELAID KAMEL OUABDESSELAM",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "451144380",
+  "nom_complet": "SARL VOILLOT",
+  "siege_code_postal": "58140",
+  "siege_commune": "GACOGNE",
+  "adresse": "LA GARE 58140 GACOGNE",
+  "latitude": 47.244425365,
+  "longitude": 3.9034821329,
+  "finances": {
+   "2024": {
+    "ca": 485527,
+    "resultat_net": -3232
+   }
+  },
+  "annee": "2024",
+  "ca": 485527,
+  "resultat_net": -3232,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.73A",
+  "nature_juridique": "5499",
+  "date_creation": "2003-11-03",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "FREDERIC VOILLOT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "445089469",
+  "nom_complet": "PIERRE NATURELLE DE BOURGOGNE",
+  "siege_code_postal": "58400",
+  "siege_commune": "MESVES-SUR-LOIRE",
+  "adresse": "RN 7 ROUTE NATIONALE 7 58400 MESVES-SUR-LOIRE",
+  "latitude": 47.237634068,
+  "longitude": 2.9964533759,
+  "finances": {
+   "2023": {
+    "ca": 854363,
+    "resultat_net": 20100
+   }
+  },
+  "annee": "2023",
+  "ca": 854363,
+  "resultat_net": 20100,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "08.12Z",
+  "nature_juridique": "5710",
+  "date_creation": "2003-01-20",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ERIC MORIN ENTREPRISES",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "324950039",
+  "nom_complet": "ELINA",
+  "siege_code_postal": "58350",
+  "siege_commune": "CHATEAUNEUF-VAL-DE-BARGIS",
+  "adresse": "11 GRANDE RUE 58350 CHATEAUNEUF-VAL-DE-BARGIS",
+  "latitude": 47.284195665,
+  "longitude": 3.2266895915,
+  "finances": {
+   "2024": {
+    "ca": 443718,
+    "resultat_net": 3015900
+   }
+  },
+  "annee": "2024",
+  "ca": 443718,
+  "resultat_net": 3015900,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "64.20Z",
+  "nature_juridique": "5710",
+  "date_creation": "1982-05-28",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CHRISTIAN FRERE",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "FABIENNE FRERE (MONCHAUX)",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "442765087",
+  "nom_complet": "PHARMACIE DE LA PLACE",
+  "siege_code_postal": "18240",
+  "siege_commune": "SAVIGNY-EN-SANCERRE",
+  "adresse": "PLACE DE L'EGLISE 18240 SAVIGNY-EN-SANCERRE",
+  "latitude": 47.441899307,
+  "longitude": 2.8087626922,
+  "finances": {
+   "2023": {
+    "ca": 922228,
+    "resultat_net": -47466
+   }
+  },
+  "annee": "2023",
+  "ca": 922228,
+  "resultat_net": -47466,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.73Z",
+  "nature_juridique": "5485",
+  "date_creation": "2002-07-11",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "RAJA POPOTTE (METOUELLI)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "448323170",
+  "nom_complet": "L AUBERGE ENSOLEILLEE MAISON BLANDIN",
+  "siege_code_postal": "58230",
+  "siege_commune": "DUN-LES-PLACES",
+  "adresse": "LE BOURG 58230 DUN-LES-PLACES",
+  "latitude": 47.284084077,
+  "longitude": 4.0144810677,
+  "finances": {
+   "2022": {
+    "ca": 431284,
+    "resultat_net": 6799
+   }
+  },
+  "annee": "2022",
+  "ca": 431284,
+  "resultat_net": 6799,
+  "tranche_effectif": "00",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "55.10Z",
+  "nature_juridique": "5499",
+  "date_creation": "2003-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DANIELLE VANZETTO (BLANDIN)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "DANIELLE BLANDIN (VANZETTO)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "918444506",
+  "nom_complet": "L'ALISHA",
+  "siege_code_postal": "58640",
+  "siege_commune": "VARENNES-VAUZELLES",
+  "adresse": "74 BOULEVARD CAMILLE DAGONNEAU 58640 VARENNES-VAUZELLES",
+  "latitude": 47.019328245,
+  "longitude": 3.1485177643,
+  "finances": {
+   "2023": {
+    "ca": 369953,
+    "resultat_net": 7545
+   }
+  },
+  "annee": "2023",
+  "ca": 369953,
+  "resultat_net": 7545,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "56.10A",
+  "nature_juridique": "5499",
+  "date_creation": "2022-09-01",
+  "enseignes": [
+   "LE KASHMIR"
+  ],
+  "dirigeants": [
+   {
+    "nom": "GHAFOOR ALAM",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "798554978",
+  "nom_complet": "CAVE ET SERVICES",
+  "siege_code_postal": "58200",
+  "siege_commune": "COSNE-COURS-SUR-LOIRE",
+  "adresse": "VILLAGE COSNE ACTIVITES 44 AVENUE DU 85EME DE LIGNE 58200 COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.399437861,
+  "longitude": 2.9226048166,
+  "finances": {
+   "2024": {
+    "ca": 852952,
+    "resultat_net": -7299
+   }
+  },
+  "annee": "2024",
+  "ca": 852952,
+  "resultat_net": -7299,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.25Z",
+  "nature_juridique": "5499",
+  "date_creation": "2013-11-12",
+  "enseignes": [
+   "INTER CAVES"
+  ],
+  "dirigeants": [
+   {
+    "nom": "AURELIEN VAIRET",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "922366125",
+  "nom_complet": "MENAUTO 58",
+  "siege_code_postal": "58800",
+  "siege_commune": "CORBIGNY",
+  "adresse": "38 AVENUE SAINT-JEAN 58800 CORBIGNY",
+  "latitude": 47.254569465,
+  "longitude": 3.6791565479,
+  "finances": {
+   "2024": {
+    "ca": 387078,
+    "resultat_net": 74254
+   }
+  },
+  "annee": "2024",
+  "ca": 387078,
+  "resultat_net": 74254,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "45.20A",
+  "nature_juridique": "5499",
+  "date_creation": "2023-01-02",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "MENSOUR MAKAREVIC",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "MENSUR MAKAREVIC",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "804618692",
+  "nom_complet": "VELO PASSION 58 (VELO PASSION 58)",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "46 AVENUE DU GENERAL DE GAULLE 58000 NEVERS",
+  "latitude": 46.9876835702799,
+  "longitude": 3.15196202802385,
+  "finances": {
+   "2022": {
+    "ca": 386130,
+    "resultat_net": 145
+   }
+  },
+  "annee": "2022",
+  "ca": 386130,
+  "resultat_net": 145,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "45.40Z",
+  "nature_juridique": "5499",
+  "date_creation": "2014-10-15",
+  "enseignes": [
+   "VELO PASSION 58"
+  ],
+  "dirigeants": [
+   {
+    "nom": "SEBASTIEN BUVAT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "328899141",
+  "nom_complet": "SOCIETE NEVERLEC",
+  "siege_code_postal": "58640",
+  "siege_commune": "VARENNES-VAUZELLES",
+  "adresse": "1 IMPASSE AMBROISE CROIZAT 58640 VARENNES-VAUZELLES",
+  "latitude": 47.012055336,
+  "longitude": 3.1503901055,
+  "finances": {
+   "2025": {
+    "ca": 884543,
+    "resultat_net": 95135
+   }
+  },
+  "annee": "2025",
+  "ca": 884543,
+  "resultat_net": 95135,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.21A",
+  "nature_juridique": "5710",
+  "date_creation": "1984-01-02",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "GEORGES PARENT",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "802626952",
+  "nom_complet": "SOCIETE HOTELIERE DE POUGUES LES EAUX (HOTEL DES SOURCES - POUGUES LES EAUX) (SHPE)",
+  "siege_code_postal": "58320",
+  "siege_commune": "POUGUES-LES-EAUX",
+  "adresse": "1315 AVENUE DE PARIS 58320 POUGUES-LES-EAUX",
+  "latitude": 47.083021611,
+  "longitude": 3.095757072,
+  "finances": {
+   "2025": {
+    "ca": 665868,
+    "resultat_net": 12724
+   }
+  },
+  "annee": "2025",
+  "ca": 665868,
+  "resultat_net": 12724,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "55.10Z",
+  "nature_juridique": "5710",
+  "date_creation": "2014-06-15",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "BEATRICE LORET",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "ROMAIN TRANCHANT",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "501796601",
+  "nom_complet": "SARL BADAKOL",
+  "siege_code_postal": "58120",
+  "siege_commune": "CHATEAU-CHINON (VILLE)",
+  "adresse": "BAT C2 - APPART 47 AVENUE ROMAIN ROLLAND 58120 CHATEAU-CHINON (VILLE)",
+  "latitude": 47.0702493908726,
+  "longitude": 3.93100271135134,
+  "finances": {
+   "2022": {
+    "ca": 722997,
+    "resultat_net": 51071
+   }
+  },
+  "annee": "2022",
+  "ca": 722997,
+  "resultat_net": 51071,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "02.40Z",
+  "nature_juridique": "5499",
+  "date_creation": "2008-06-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HASAN BADAKOL",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "831929161",
+  "nom_complet": "CITYA IMMOBILIER NEVERS",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "67 RUE FRANCOIS MITTERRAND 58000 NEVERS",
+  "latitude": 46.990513016,
+  "longitude": 3.1616184791,
+  "finances": {
+   "2025": {
+    "ca": 852056,
+    "resultat_net": -156506
+   }
+  },
+  "annee": "2025",
+  "ca": 852056,
+  "resultat_net": -156506,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "68.32A",
+  "nature_juridique": "5499",
+  "date_creation": "2017-08-03",
+  "enseignes": [
+   "CITYA SAINT SEBASTIEN IMMOBILIER"
+  ],
+  "dirigeants": [
+   {
+    "nom": "CHARLES EDOUARD ANDRE COLAS",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "PATRICE JEAN MARIE BERNARD MEUNIER",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "503647489",
+  "nom_complet": "LPN",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "2 BOULEVARD MARECHAL JUIN 58000 NEVERS",
+  "latitude": 46.999595985,
+  "longitude": 3.156025343,
+  "finances": {
+   "2022": {
+    "ca": 841647,
+    "resultat_net": 246
+   }
+  },
+  "annee": "2022",
+  "ca": 841647,
+  "resultat_net": 246,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "56.10C",
+  "nature_juridique": "5499",
+  "date_creation": "2008-03-26",
+  "enseignes": [
+   "DOMINO'S PIZZA"
+  ],
+  "dirigeants": [
+   {
+    "nom": "ANTONY ANANDOUT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "503336471",
+  "nom_complet": "MECAMACHINE",
+  "siege_code_postal": "58260",
+  "siege_commune": "LA MACHINE",
+  "adresse": "LES ZAGOTS 58260 LA MACHINE",
+  "latitude": 46.893627175,
+  "longitude": 3.4570852209,
+  "finances": {
+   "2025": {
+    "ca": 996689,
+    "resultat_net": -44947
+   }
+  },
+  "annee": "2025",
+  "ca": 996689,
+  "resultat_net": -44947,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "25.62A",
+  "nature_juridique": "5710",
+  "date_creation": "2008-03-21",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "MECAMACHINE HOLDING",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "840080410",
+  "nom_complet": "LUDOVIC MANON",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "3 RUE DE LA PREFECTURE 58000 NEVERS",
+  "latitude": 46.9937111534943,
+  "longitude": 3.16459310259454,
+  "finances": {
+   "2024": {
+    "ca": 517209,
+    "resultat_net": 122542
+   }
+  },
+  "annee": "2024",
+  "ca": 517209,
+  "resultat_net": 122542,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "66.22Z",
+  "nature_juridique": "1000",
+  "date_creation": "2018-05-14",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "LUDOVIC VINCENT MANON",
+    "fonction": null
+   }
+  ]
+ },
+ {
+  "siren": "389632860",
+  "nom_complet": "JOLI PAVILLON PERSONNALISE J-P-P",
+  "siege_code_postal": "58300",
+  "siege_commune": "SAINT-LEGER-DES-VIGNES",
+  "adresse": "LE CHAMP DU PUITS 56 ROUTE DE LA MACHINE 58300 SAINT-LEGER-DES-VIGNES",
+  "latitude": 46.847283133,
+  "longitude": 3.4576069386,
+  "finances": {
+   "2019": {
+    "ca": 357041,
+    "resultat_net": 799
+   }
+  },
+  "annee": "2019",
+  "ca": 357041,
+  "resultat_net": 799,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "41.20A",
+  "nature_juridique": "5499",
+  "date_creation": "1993-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PATRICK PROVOST",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "949641534",
+  "nom_complet": "MATHUSALEM",
+  "siege_code_postal": "58200",
+  "siege_commune": "COSNE-COURS-SUR-LOIRE",
+  "adresse": "17 RUE DU 14 JUILLET 58200 COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.41229,
+  "longitude": 2.9282130958,
+  "finances": {
+   "2024": {
+    "ca": 460773,
+    "resultat_net": 118459
+   }
+  },
+  "annee": "2024",
+  "ca": 460773,
+  "resultat_net": 118459,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.34Z",
+  "nature_juridique": "5710",
+  "date_creation": "2023-03-06",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PASCAL JEAN-PAUL JOLIVET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "MAXENCE FRANÇOIS MARIE MALOCHET",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "953260569",
+  "nom_complet": "HAYDEE ENERGIE",
+  "siege_code_postal": "20200",
+  "siege_commune": "BASTIA",
+  "adresse": "4 B BD PAOLI 20200 BASTIA",
+  "latitude": 42.696295022,
+  "longitude": 9.4479618194,
+  "finances": {
+   "2025": {
+    "ca": 491215,
+    "resultat_net": 260538
+   }
+  },
+  "annee": "2025",
+  "ca": 491215,
+  "resultat_net": 260538,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "35.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2023-06-06",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "POWENR",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "507534758",
+  "nom_complet": "GRIMARD PERE ET FILS",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "4 RUE AUGUSTE MAHAUT 58000 NEVERS",
+  "latitude": 46.982286135,
+  "longitude": 3.164091531,
+  "finances": {
+   "2024": {
+    "ca": 737541,
+    "resultat_net": 10321
+   }
+  },
+  "annee": "2024",
+  "ca": 737541,
+  "resultat_net": 10321,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.32A",
+  "nature_juridique": "5499",
+  "date_creation": "2008-08-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "SEBASTIEN GRIMARD",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "398223503",
+  "nom_complet": "ELECTRICITE PASCAULT ELECTRONIQUE",
+  "siege_code_postal": "58700",
+  "siege_commune": "PREMERY",
+  "adresse": "10 GRANDE RUE 58700 PREMERY",
+  "latitude": 47.175978166,
+  "longitude": 3.330741597,
+  "finances": {
+   "2022": {
+    "ca": 417968,
+    "resultat_net": 13384
+   }
+  },
+  "annee": "2022",
+  "ca": 417968,
+  "resultat_net": 13384,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.21A",
+  "nature_juridique": "5499",
+  "date_creation": "1994-08-27",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ALEXANDRE PAUL JEAN CASSEYRE",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "392439741",
+  "nom_complet": "GRECO",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "12 RUE DU 14 JUILLET 58000 NEVERS",
+  "latitude": 46.987713718,
+  "longitude": 3.1563528569,
+  "finances": {
+   "2024": {
+    "ca": 300322,
+    "resultat_net": -44650
+   }
+  },
+  "annee": "2024",
+  "ca": 300322,
+  "resultat_net": -44650,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "56.10A",
+  "nature_juridique": "5710",
+  "date_creation": "1993-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ANTONIO GRECO",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "840717375",
+  "nom_complet": "NIVERNAISE DES FARINES - MOULIN DES COMBRAILLES",
+  "siege_code_postal": "71340",
+  "siege_commune": "CHENAY-LE-CHATEL",
+  "adresse": "LIEUDIT LES VARENNES 71340 CHENAY-LE-CHATEL",
+  "latitude": 46.242537148,
+  "longitude": 3.9519794363,
+  "finances": {
+   "2019": {
+    "ca": 379203,
+    "resultat_net": -107780
+   }
+  },
+  "annee": "2019",
+  "ca": 379203,
+  "resultat_net": -107780,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "10.61A",
+  "nature_juridique": "5710",
+  "date_creation": "2018-06-28",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EPI PASSION",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "FAMILLE MEGNAUD INVESTMENT",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "400163820",
+  "nom_complet": "ENTREPRISE HOUSSIN ET FILS",
+  "siege_code_postal": "58800",
+  "siege_commune": "CORBIGNY",
+  "adresse": "ZONE ARTISANALE ROUTE DE SAINT-SAULGE 58800 CORBIGNY",
+  "latitude": 47.244613174,
+  "longitude": 3.6696156248,
+  "finances": {
+   "2023": {
+    "ca": 800457,
+    "resultat_net": 39985
+   }
+  },
+  "annee": "2023",
+  "ca": 800457,
+  "resultat_net": 39985,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.22A",
+  "nature_juridique": "5499",
+  "date_creation": "1995-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DAVID HOUSSIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "NICOLAS HOUSSIN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "848323390",
+  "nom_complet": "CABINET VETERINAIRE DU DOCTEUR AURELIA PRADEAU",
+  "siege_code_postal": "58200",
+  "siege_commune": "COSNE-COURS-SUR-LOIRE",
+  "adresse": "138 RUE DE DONZY 58200 COSNE-COURS-SUR-LOIRE",
+  "latitude": 47.408328814,
+  "longitude": 2.9366543185,
+  "finances": {
+   "2025": {
+    "ca": 830700,
+    "resultat_net": 36990
+   }
+  },
+  "annee": "2025",
+  "ca": 830700,
+  "resultat_net": 36990,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "75.00Z",
+  "nature_juridique": "5485",
+  "date_creation": "2018-10-01",
+  "enseignes": [
+   "CABINET VETERINAIRE DU DOCTEUR AURELIA PRADEAU"
+  ],
+  "dirigeants": [
+   {
+    "nom": "AURELIA DOMINIQUE PRADEAU",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "398150656",
+  "nom_complet": "LA VIGNONNERIE",
+  "siege_code_postal": "58600",
+  "siege_commune": "FOURCHAMBAULT",
+  "adresse": "49 B ROUTE DE NEVERS 58600 FOURCHAMBAULT",
+  "latitude": 47.0125269926569,
+  "longitude": 3.08856507226989,
+  "finances": {
+   "2022": {
+    "ca": 400454,
+    "resultat_net": -3609
+   }
+  },
+  "annee": "2022",
+  "ca": 400454,
+  "resultat_net": -3609,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.25Z",
+  "nature_juridique": "5499",
+  "date_creation": "1994-08-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "LAURA PIERONI",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "518010756",
+  "nom_complet": "SECURITE 58",
+  "siege_code_postal": "58660",
+  "siege_commune": "COULANGES-LES-NEVERS",
+  "adresse": "39 RUE DU MARECHAL LECLERC 58660 COULANGES-LES-NEVERS",
+  "latitude": 47.008057244,
+  "longitude": 3.1731086863,
+  "finances": {
+   "2022": {
+    "ca": 343751,
+    "resultat_net": 7669
+   }
+  },
+  "annee": "2022",
+  "ca": 343751,
+  "resultat_net": 7669,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "80.10Z",
+  "nature_juridique": "5499",
+  "date_creation": "2009-11-06",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "JEAN-CHRISTOPHE SANCHEZ",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "518891932",
+  "nom_complet": "MAC STORE (MAC STORE, KOSMETYKI, DISTRIBUTION 43)",
+  "siege_code_postal": "77151",
+  "siege_commune": "MONTCEAUX-LES-PROVINS",
+  "adresse": "CHEMIN DE L'ANCIENNE GARE 77151 MONTCEAUX-LES-PROVINS",
+  "latitude": 48.6912287009728,
+  "longitude": 3.45580403908951,
+  "finances": {
+   "2025": {
+    "ca": 380493,
+    "resultat_net": 39547
+   }
+  },
+  "annee": "2025",
+  "ca": 380493,
+  "resultat_net": 39547,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "47.91A",
+  "nature_juridique": "5499",
+  "date_creation": "2009-12-01",
+  "enseignes": [
+   "MAC-STORE.FR"
+  ],
+  "dirigeants": [
+   {
+    "nom": "GREGORY VALETTE",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "851257634",
+  "nom_complet": "FG AUTOMOBILE",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "26 RUE DES DOCKS 58000 NEVERS",
+  "latitude": 46.996958102,
+  "longitude": 3.147726308,
+  "finances": {
+   "2024": {
+    "ca": 510067,
+    "resultat_net": 58090
+   }
+  },
+  "annee": "2024",
+  "ca": 510067,
+  "resultat_net": 58090,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "45.11Z",
+  "nature_juridique": "5710",
+  "date_creation": "2019-06-20",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "GABRIEL FEVRE",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "523138063",
+  "nom_complet": "L.B FINANCES",
+  "siege_code_postal": "58150",
+  "siege_commune": "SAINT-ANDELAIN",
+  "adresse": "RUE DE L'ECOLE 58150 SAINT-ANDELAIN",
+  "latitude": null,
+  "longitude": null,
+  "finances": {
+   "2024": {
+    "ca": 402303,
+    "resultat_net": -24173
+   }
+  },
+  "annee": "2024",
+  "ca": 402303,
+  "resultat_net": -24173,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "64.20Z",
+  "nature_juridique": "5499",
+  "date_creation": "2010-06-17",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "LOUIS-BENJAMIN DAGUENEAU",
+    "fonction": "Gérant et associé indéfiniment responsable"
+   }
+  ]
+ },
+ {
+  "siren": "523433886",
+  "nom_complet": "TRIANON",
+  "siege_code_postal": "58800",
+  "siege_commune": "CORBIGNY",
+  "adresse": "ZONE D'ACTIVITE ROUTE DE SAINT-SAULGE 58800 CORBIGNY",
+  "latitude": 47.244684886,
+  "longitude": 3.6709621097,
+  "finances": {
+   "2024": {
+    "ca": 989848,
+    "resultat_net": 38580
+   }
+  },
+  "annee": "2024",
+  "ca": 989848,
+  "resultat_net": 38580,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "45.20A",
+  "nature_juridique": "5499",
+  "date_creation": "2010-05-14",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "JACQUES GIRARD",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "884611252",
+  "nom_complet": "A2-STRAT",
+  "siege_code_postal": "58320",
+  "siege_commune": "POUGUES-LES-EAUX",
+  "adresse": "3 RUE DU MONT GIVRE 58320 POUGUES-LES-EAUX",
+  "latitude": 47.074974837,
+  "longitude": 3.1060896509,
+  "finances": {
+   "2024": {
+    "ca": 313549,
+    "resultat_net": -29002
+   }
+  },
+  "annee": "2024",
+  "ca": 313549,
+  "resultat_net": -29002,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "70.22Z",
+  "nature_juridique": "5710",
+  "date_creation": "2020-06-25",
+  "enseignes": [],
+  "dirigeants": []
+ },
+ {
+  "siren": "411915788",
+  "nom_complet": "SARL THENIN",
+  "siege_code_postal": "58120",
+  "siege_commune": "CORANCY",
+  "adresse": "LE BOURG 25 RUE DU VILLAGE 58120 CORANCY",
+  "latitude": 47.100421992,
+  "longitude": 3.9463409862,
+  "finances": {
+   "2016": {
+    "ca": 335239,
+    "resultat_net": 17815
+   }
+  },
+  "annee": "2016",
+  "ca": 335239,
+  "resultat_net": 17815,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.12A",
+  "nature_juridique": "5499",
+  "date_creation": "1997-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CHRISTOPHE THENIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "THIERRY THENIN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "415166008",
+  "nom_complet": "SARL EUROVINS DLF",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "3 RUE CLAUDE TILLIER 58000 NEVERS",
+  "latitude": 46.988122682,
+  "longitude": 3.152361043,
+  "finances": {
+   "2024": {
+    "ca": 687157,
+    "resultat_net": -17727
+   }
+  },
+  "annee": "2024",
+  "ca": 687157,
+  "resultat_net": -17727,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.25Z",
+  "nature_juridique": "5499",
+  "date_creation": "1998-02-05",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DOMINIQUE BAZIN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "531707545",
+  "nom_complet": "CHEMINEES DELRAN",
+  "siege_code_postal": "58640",
+  "siege_commune": "VARENNES VAUZELLES",
+  "adresse": "42 LES QUATRE CHEMINEES 58640 VARENNES VAUZELLES",
+  "latitude": 47.041474395,
+  "longitude": 3.1411483713,
+  "finances": {
+   "2024": {
+    "ca": 820077,
+    "resultat_net": 4684
+   }
+  },
+  "annee": "2024",
+  "ca": 820077,
+  "resultat_net": 4684,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.74B",
+  "nature_juridique": "5499",
+  "date_creation": "2011-05-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "OLIVIER DELRAN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "OLIVIER DANIEL JACQUES DELRAN",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "408337434",
+  "nom_complet": "GEOFFROY",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "69 FAUBOURG DE LA BARATTE 58000 NEVERS",
+  "latitude": 46.987363196,
+  "longitude": 3.1932173617,
+  "finances": {
+   "2023": {
+    "ca": 866833,
+    "resultat_net": 95201
+   }
+  },
+  "annee": "2023",
+  "ca": 866833,
+  "resultat_net": 95201,
+  "tranche_effectif": "11",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "28.22Z",
+  "nature_juridique": "5710",
+  "date_creation": "1996-07-11",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "PIERRE-MARIE BAUDIN",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "532151750",
+  "nom_complet": "SARL MACONNERIE TRADITION",
+  "siege_code_postal": "58220",
+  "siege_commune": "DONZY",
+  "adresse": "ZONE ARTISANALE DE LA CRX ARNAY 58220 DONZY",
+  "latitude": 47.3737327039946,
+  "longitude": 3.11330395278216,
+  "finances": {
+   "2016": {
+    "ca": 478550,
+    "resultat_net": -9858
+   }
+  },
+  "annee": "2016",
+  "ca": 478550,
+  "resultat_net": -9858,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "43.99C",
+  "nature_juridique": "5499",
+  "date_creation": "2011-04-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "DAVID PETIT",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "581880481",
+  "nom_complet": "ENTREPRISE MORINI",
+  "siege_code_postal": "78130",
+  "siege_commune": "LES MUREAUX",
+  "adresse": "226 AVENUE DU MARECHAL FOCH 78130 LES MUREAUX",
+  "latitude": 48.9858054535726,
+  "longitude": 1.89356144395879,
+  "finances": {
+   "2023": {
+    "ca": 933264,
+    "resultat_net": -501066
+   }
+  },
+  "annee": "2023",
+  "ca": 933264,
+  "resultat_net": -501066,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "43.99C",
+  "nature_juridique": "5710",
+  "date_creation": "1958-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "JULIEN PASCAL PIERRE ANTOINE",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "882956204",
+  "nom_complet": "SPFPL E. PAILLE",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "19 RUE SAINT MARTIN 58000 NEVERS",
+  "latitude": 46.989191307,
+  "longitude": 3.1595515412,
+  "finances": {
+   "2025": {
+    "ca": 685464,
+    "resultat_net": 332384
+   }
+  },
+  "annee": "2025",
+  "ca": 685464,
+  "resultat_net": 332384,
+  "tranche_effectif": "NN",
+  "annee_tranche_effectif": null,
+  "etat_administratif": "A",
+  "naf": "69.10Z",
+  "nature_juridique": "5470",
+  "date_creation": "2020-04-17",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "EMMANUELLE PAILLÉ",
+    "fonction": "Gérant et associé indéfiniment responsable"
+   }
+  ]
+ },
+ {
+  "siren": "408432417",
+  "nom_complet": "PRODIC DIFFUSION",
+  "siege_code_postal": "58000",
+  "siege_commune": "NEVERS",
+  "adresse": "RUE DES GRANDS PRES 58000 NEVERS",
+  "latitude": 46.998235921,
+  "longitude": 3.1769995042,
+  "finances": {
+   "2016": {
+    "ca": 747300,
+    "resultat_net": 8126
+   }
+  },
+  "annee": "2016",
+  "ca": 747300,
+  "resultat_net": 8126,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.75Z",
+  "nature_juridique": "5499",
+  "date_creation": "1996-07-25",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "SERGE SALMON",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "419212816",
+  "nom_complet": "SARL CP",
+  "siege_code_postal": "58240",
+  "siege_commune": "CHANTENAY-SAINT-IMBERT",
+  "adresse": "PLACE DE L'EGLISE 58240 CHANTENAY-SAINT-IMBERT",
+  "latitude": 46.733240967,
+  "longitude": 3.1834916122,
+  "finances": {
+   "2023": {
+    "ca": 596757,
+    "resultat_net": 8269
+   }
+  },
+  "annee": "2023",
+  "ca": 596757,
+  "resultat_net": 8269,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.29Z",
+  "nature_juridique": "5499",
+  "date_creation": "1998-06-15",
+  "enseignes": [
+   "PROXIMARCHE"
+  ],
+  "dirigeants": [
+   {
+    "nom": "MARIE-CLAUDE PLANTADE",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "754004018",
+  "nom_complet": "HUILERIE DU MOULIN DE L'ILE",
+  "siege_code_postal": "58220",
+  "siege_commune": "DONZY",
+  "adresse": "14 RUE DE L'EMINENCE 58220 DONZY",
+  "latitude": 47.369278809,
+  "longitude": 3.1240587284,
+  "finances": {
+   "2021": {
+    "ca": 337432,
+    "resultat_net": 27643
+   }
+  },
+  "annee": "2021",
+  "ca": 337432,
+  "resultat_net": 27643,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "10.41B",
+  "nature_juridique": "5499",
+  "date_creation": "2012-08-11",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "FREDERIC COUDRAY-COIGNET",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "753333004",
+  "nom_complet": "LES LUNETTES SELON SARAH",
+  "siege_code_postal": "58640",
+  "siege_commune": "VARENNES-VAUZELLES",
+  "adresse": "2 PLACE DE LA REPUBLIQUE 58640 VARENNES-VAUZELLES",
+  "latitude": 47.012737051,
+  "longitude": 3.1467682623,
+  "finances": {
+   "2017": {
+    "ca": 300601,
+    "resultat_net": 44675
+   }
+  },
+  "annee": "2017",
+  "ca": 300601,
+  "resultat_net": 44675,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.78A",
+  "nature_juridique": "5499",
+  "date_creation": "2012-09-15",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "SARAH VIRGINIE THOMAS",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "898704309",
+  "nom_complet": "CERTUS BETON (CERTUS BETON)",
+  "siege_code_postal": "58260",
+  "siege_commune": "LA MACHINE",
+  "adresse": "LES FONTAINES DOUCES 58260 LA MACHINE",
+  "latitude": 46.883258529,
+  "longitude": 3.465334581,
+  "finances": {
+   "2025": {
+    "ca": 879625,
+    "resultat_net": 126515
+   }
+  },
+  "annee": "2025",
+  "ca": 879625,
+  "resultat_net": 126515,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "41.20B",
+  "nature_juridique": "5710",
+  "date_creation": "2021-03-05",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "JOSE SIMOES RAMOS",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "CERTUS STRUCTURES, LDA",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "309707735",
+  "nom_complet": "GARAGE LEMOINE",
+  "siege_code_postal": "58170",
+  "siege_commune": "LUZY",
+  "adresse": "2 COURS GAMBETTA 58170 LUZY",
+  "latitude": 46.788211926,
+  "longitude": 3.9686279735,
+  "finances": {
+   "2021": {
+    "ca": 537618,
+    "resultat_net": 35510
+   }
+  },
+  "annee": "2021",
+  "ca": 537618,
+  "resultat_net": 35510,
+  "tranche_effectif": "01",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "45.11Z",
+  "nature_juridique": "5499",
+  "date_creation": "1963-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "BRICE MARIE COUTEAUDIER",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "SYLVAIN MICHEL",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "419775051",
+  "nom_complet": "SARL  CAPUCINE  ISABELLE FLEURS (PLACE DE LA DECO)",
+  "siege_code_postal": "58500",
+  "siege_commune": "CLAMECY",
+  "adresse": "2 AVENUE DU GENERAL LECLERC 58500 CLAMECY",
+  "latitude": 47.461395548,
+  "longitude": 3.5198272478,
+  "finances": {
+   "2016": {
+    "ca": 304193,
+    "resultat_net": -1927
+   }
+  },
+  "annee": "2016",
+  "ca": 304193,
+  "resultat_net": -1927,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "47.76Z",
+  "nature_juridique": "5499",
+  "date_creation": "1998-07-01",
+  "enseignes": [
+   "LES BOUGIES DE CLAMECY"
+  ],
+  "dirigeants": [
+   {
+    "nom": "ISABELLE VIENNOT (ROUSSEAU)",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "ISABELLE ROUSSEAU (VIENNOT)",
+    "fonction": "Gérant"
+   }
+  ]
+ },
+ {
+  "siren": "316742527",
+  "nom_complet": "TNP",
+  "siege_code_postal": "58140",
+  "siege_commune": "LORMES",
+  "adresse": "BOUSSEGRE 58140 LORMES",
+  "latitude": 47.331438198,
+  "longitude": 3.7978126865,
+  "finances": {
+   "2023": {
+    "ca": 838188,
+    "resultat_net": 112678
+   }
+  },
+  "annee": "2023",
+  "ca": 838188,
+  "resultat_net": 112678,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "46.69B",
+  "nature_juridique": "5710",
+  "date_creation": "1979-01-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "ERIC POTIER",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "319559829",
+  "nom_complet": "SAS MIROITERIE DU CENTRE",
+  "siege_code_postal": "58660",
+  "siege_commune": "COULANGES-LES-NEVERS",
+  "adresse": "CLOS DE LA PIQUE 58660 COULANGES-LES-NEVERS",
+  "latitude": 47.002465834,
+  "longitude": 3.1749793522,
+  "finances": {
+   "2024": {
+    "ca": 584997,
+    "resultat_net": 42508
+   }
+  },
+  "annee": "2024",
+  "ca": 584997,
+  "resultat_net": 42508,
+  "tranche_effectif": "03",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "23.12Z",
+  "nature_juridique": "5710",
+  "date_creation": "1980-08-01",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "CINDY-LAURE MOURLON (BETHENCOURT)",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "FABIEN MOURLON",
+    "fonction": "Président de SAS"
+   }
+  ]
+ },
+ {
+  "siren": "902897073",
+  "nom_complet": "CLAIR PERE ET FILS",
+  "siege_code_postal": "58170",
+  "siege_commune": "AVREE",
+  "adresse": "1 LE HAUT D'AVREE 58170 AVREE",
+  "latitude": 46.809614755,
+  "longitude": 3.8688211612,
+  "finances": {
+   "2024": {
+    "ca": 817627,
+    "resultat_net": 48549
+   }
+  },
+  "annee": "2024",
+  "ca": 817627,
+  "resultat_net": 48549,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "33.12Z",
+  "nature_juridique": "5710",
+  "date_creation": "2021-07-28",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "HOLDING REGIS MARTINE CLAIR",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "HOLDING GREGORY CLAIR",
+    "fonction": "Directeur Général"
+   }
+  ]
+ },
+ {
+  "siren": "799046131",
+  "nom_complet": "FABRICE MORIZET (SARL FABRICE MORIZET)",
+  "siege_code_postal": "58200",
+  "siege_commune": "ALLIGNY-COSNE",
+  "adresse": "LA BROSSE AUX BRUNS RUE DES CHAMPS DIEUX 58200 ALLIGNY-COSNE",
+  "latitude": 47.433294052,
+  "longitude": 3.0514754063,
+  "finances": {
+   "2020": {
+    "ca": 365120,
+    "resultat_net": 31401
+   }
+  },
+  "annee": "2020",
+  "ca": 365120,
+  "resultat_net": 31401,
+  "tranche_effectif": "02",
+  "annee_tranche_effectif": "2024",
+  "etat_administratif": "A",
+  "naf": "43.22B",
+  "nature_juridique": "5499",
+  "date_creation": "2013-12-11",
+  "enseignes": [],
+  "dirigeants": [
+   {
+    "nom": "FABRICE MORIZET",
+    "fonction": "Gérant"
+   }
+  ]
+ }
+]

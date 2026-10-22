@@ -1,0 +1,593 @@
+{
+  "formats": [
+    {
+      "titre": "Expo tournante et vernissage avec l'artiste",
+      "principe": "Un artiste (ou un petit collectif) différent occupe les murs toutes les 6 à 8 semaines, selon un calendrier annuel annoncé à l'avance. Chaque accrochage démarre par un vernissage en présence de l'artiste, qui crée un rendez-vous régulier et fait venir son propre réseau.",
+      "pour_qui": "Clientèle habituelle, réseau des artistes, habitants curieux, partenaires, presse et élus locaux",
+      "frequence": "6 à 8 expositions par an ; vernissage le soir du lancement (par exemple un jeudi ou un vendredi, 18h30-20h30)",
+      "partenaires_types": [
+        "artistes plasticiens, illustrateurs et photographes du territoire",
+        "associations et collectifs d'artistes",
+        "ateliers et cours d'arts plastiques",
+        "vignerons et producteurs locaux (apéritif du vernissage)",
+        "office de tourisme et mairie (relais de communication)"
+      ],
+      "logistique": [
+        "système d'accrochage (cimaises ou rails) et éclairage orientable",
+        "cartels (titre, technique, dimensions, prix) et liste de prix consultable",
+        "convention d'exposition et bon de dépôt signés, constat d'état à l'arrivée et au départ",
+        "invitations et communication 3 semaines avant, photos de l'accrochage",
+        "livre d'or et collecte de contacts (avec consentement)"
+      ],
+      "points_d_attention": "Signer la convention avant l'accrochage (durée, liste et valeur des œuvres, assurance, conditions de vente, rémunération, autorisation de reproduire les visuels). Assurer les œuvres, idéalement en « clou à clou ». Le barème du ministère de la Culture pour le droit de présentation publique (1 000 € minimum pour une exposition monographique) est une recommandation, pas une obligation pour un lieu privé, mais un forfait écrit reste conseillé ; si l'artiste est membre de l'ADAGP, faire la demande d'autorisation préalable. Ne jamais facturer de « loyer » à l'artiste. Éloigner les œuvres des sources de chaleur, de la vapeur de cuisine et des passages avec plateaux. Musique d'ambiance pendant le vernissage : couverte seulement si l'établissement a son autorisation Sacem."
+    },
+    {
+      "titre": "Rencontre d'artiste et visite commentée",
+      "principe": "L'artiste présente ses œuvres, sa technique et son parcours pendant 30 à 45 minutes devant les cimaises, puis échange avec le public. Le format fonctionne en fin d'après-midi ou le week-end en matinée, et se décline pour des groupes (classes, clubs, comités d'entreprise, touristes).",
+      "pour_qui": "Amateurs d'art, familles, scolaires et étudiants, clubs seniors, groupes de touristes",
+      "frequence": "1 à 2 rencontres par exposition",
+      "partenaires_types": [
+        "artiste exposé",
+        "médiathèques et associations culturelles",
+        "collèges et lycées (offres collectives pass Culture)",
+        "offices de tourisme (groupes)"
+      ],
+      "logistique": [
+        "micro portable ou petite sono",
+        "chaises en arc de cercle devant les œuvres",
+        "inscription préalable pour maîtriser la jauge",
+        "formule boisson « café-rencontre » en option"
+      ],
+      "points_d_attention": "La présentation des œuvres en présence de l'artiste, dans une démarche de médiation, se rémunère à part selon la recommandation du ministère de la Culture : prévoir une note d'honoraires de l'artiste. Ce format peut devenir une offre pass Culture (catégorie « conférence, rencontre ») si l'organisateur est un partenaire validé, et une offre collective pour les classes. Choisir un créneau sans bruit de service (percolateur, vaisselle)."
+    },
+    {
+      "titre": "Live painting",
+      "principe": "Un ou plusieurs artistes réalisent une œuvre en direct pendant une soirée, souvent sur fond musical, sous les yeux du public. L'œuvre créée peut ensuite rejoindre l'exposition et être proposée à la vente.",
+      "pour_qui": "Public de soirée, jeunes adultes, clientèle de l'hôtel, entreprises (soirées privées)",
+      "frequence": "2 à 4 soirées par an (temps forts : Fête de la musique, vernissages, fin d'année)",
+      "partenaires_types": [
+        "peintres, street-artistes, illustrateurs",
+        "musiciens ou DJ",
+        "associations d'arts urbains",
+        "commerces de matériel beaux-arts (dotations)"
+      ],
+      "logistique": [
+        "bâches et protection du sol, chevalet ou panneau support",
+        "éclairage dédié",
+        "aération si peintures à solvant",
+        "zone délimitée hors des circulations et des issues de secours"
+      ],
+      "points_d_attention": "Rémunérer la création (facture ou note de l'artiste) et écrire à l'avance à qui appartient l'œuvre produite et à quel prix elle sera vendue. Si des musiciens (ou un DJ rémunéré comme artiste) sont payés, la soirée compte comme une représentation : 6 par an maximum sans récépissé d'entrepreneur de spectacles, embauche via le Guso, animation déclarée à la Sacem, et rémunération équitable (Spré) en plus pour un DJ."
+    },
+    {
+      "titre": "Atelier créatif",
+      "principe": "Un artiste anime un atelier d'initiation de 1 h 30 à 2 h (dessin, aquarelle, collage, modelage, linogravure…) en lien avec l'exposition en cours. Les participants repartent avec leur création ; l'atelier se décline en version enfants pendant les vacances scolaires et en version adultes en afterwork.",
+      "pour_qui": "Adultes débutants, familles et enfants, ados et jeunes adultes (pass Culture), clientèle de l'hôtel",
+      "frequence": "Mensuel, plus un atelier par semaine de vacances scolaires",
+      "partenaires_types": [
+        "artistes-intervenants",
+        "associations d'arts plastiques",
+        "céramistes de Puisaye",
+        "médiathèques",
+        "accueils de loisirs"
+      ],
+      "logistique": [
+        "tables protégées, matériel et tabliers",
+        "point d'eau",
+        "inscription et paiement à l'avance, jauge de 8 à 12 personnes",
+        "vérifier que l'assurance responsabilité civile couvre l'activité"
+      ],
+      "points_d_attention": "L'artiste facture sa prestation par une note d'honoraires ; le lieu qui le rémunère a des obligations de « diffuseur » auprès de l'Urssaf (contribution diffuseur). Un atelier peut être publié sur le pass Culture (catégorie « pratique artistique », le pass Culture cite l'« initiation au dessin » comme exemple d'offre) si l'organisateur est un partenaire validé. Pour les enfants : autorisation parentale, encadrement, aucun service d'alcool dans l'espace atelier."
+    },
+    {
+      "titre": "Concert ou DJ set dans l'exposition",
+      "principe": "Un set acoustique (jazz, folk, classique, chanson) ou un DJ set choisi en écho aux œuvres transforme l'exposition en soirée. Le format attire un public nouveau qui découvre les œuvres en passant.",
+      "pour_qui": "Clientèle du soir, 25-45 ans, touristes en saison, publics des festivals voisins",
+      "frequence": "Un tous les deux mois, soit au plus 6 représentations avec artistes rémunérés par an tant que l'établissement n'a pas déclaré d'activité d'entrepreneur de spectacles",
+      "partenaires_types": [
+        "musiciens et groupes locaux",
+        "école de musique intercommunale",
+        "associations musicales et festivals du secteur",
+        "DJ"
+      ],
+      "logistique": [
+        "petite sono adaptée à la salle, enceintes éloignées des œuvres",
+        "plan de salle qui garde les dégagements libres",
+        "programmation annoncée 3 à 4 semaines avant",
+        "déclarations Guso et Sacem préparées en amont"
+      ],
+      "points_d_attention": "Au-delà de 6 représentations avec au moins un artiste rémunéré dans l'année (toutes soirées confondues, pas seulement celles de l'expo), déclaration d'entrepreneur de spectacles obligatoire. Artistes payés via le Guso (DPAE avant le début du contrat, déclaration et cotisations sous 15 jours) ou spectacle acheté à un producteur déclaré ; jamais en liquide ni « au chapeau ». Déclarer chaque animation à la Sacem (barème cafés-hôtels-restaurants : entrée gratuite, budget artistique de 650 € maximum) ; un DJ entraîne aussi la rémunération équitable (Spré). Faire jouer des amateurs non payés dans un lieu commercial est juridiquement délicat. Si la musique amplifiée devient habituelle (12 jours par an ou plus), la réglementation « sons amplifiés » s'applique (102 dB(A) maximum sur 15 minutes). Configuration inhabituelle (scène, public debout, forte affluence) : demander l'autorisation du maire au moins 15 jours avant (article GN 6)."
+    },
+    {
+      "titre": "Soirée vins & art",
+      "principe": "Un vigneron des appellations voisines (Pouilly-Fumé, Sancerre, Coteaux du Giennois) commente trois ou quatre cuvées, chacune associée par l'artiste à une œuvre de l'exposition. La soirée mêle dégustation commentée, échange avec le vigneron et l'artiste, et assiette de produits locaux.",
+      "pour_qui": "Clientèle adulte, œnotouristes, clients de l'hôtel, comités d'entreprise",
+      "frequence": "3 à 4 par an (printemps, mai autour de la foire aux vins de Sancerre, vendanges, fin d'année)",
+      "partenaires_types": [
+        "vignerons et caves",
+        "syndicats viticoles et maisons des appellations",
+        "fromagers et producteurs locaux",
+        "offices de tourisme (œnotourisme, réseau Vignobles & Découvertes)"
+      ],
+      "logistique": [
+        "verres adaptés, crachoirs, eau en libre accès",
+        "réservation obligatoire et jauge fixe",
+        "fiches cuvées et cartels des œuvres",
+        "solution de retour (taxi, nuitée à l'hôtel en offre combinée)"
+      ],
+      "points_d_attention": "Les vins sont servis sous la licence de l'établissement : éviter toute formule « à volonté » et faire vérifier le cadre légal des dégustations et de la publicité pour l'alcool (loi Évin) avant de diffuser l'affiche. Si le vigneron vend lui-même ses bouteilles sur place, vérifier en mairie si cela relève de la vente au déballage ; le plus simple est que l'établissement vende les vins ou que le vigneron prenne des commandes. Musique d'ambiance : autorisation Sacem."
+    },
+    {
+      "titre": "Marché d'artistes et d'artisans d'art",
+      "principe": "Pendant une journée ou un week-end, 8 à 15 créateurs du territoire (céramistes de Puisaye, graveurs, bijoutiers, photographes, illustrateurs) exposent et vendent dans les salons, la salle de restaurant ou en terrasse. Démonstrations et mini-ateliers animent la journée, et l'établissement assure la restauration.",
+      "pour_qui": "Grand public, acheteurs de cadeaux, touristes, clientèle de l'hôtel",
+      "frequence": "1 à 2 par an : autour des Journées européennes des métiers d'art (fin mars - début avril) et en décembre",
+      "partenaires_types": [
+        "artisans d'art et artistes professionnels",
+        "centre de formation aux métiers de la céramique de Saint-Amand-en-Puisaye et réseau des potiers",
+        "associations d'artistes",
+        "offices de tourisme"
+      ],
+      "logistique": [
+        "plan d'implantation qui respecte les dégagements",
+        "tables, grilles, éclairage, accès à l'électricité",
+        "règlement exposants et liste (identité, SIRET)",
+        "communication 4 à 6 semaines avant"
+      ],
+      "points_d_attention": "Une vente temporaire par des exposants extérieurs dans un hall d'hôtel ou une salle peut constituer une « vente au déballage » : déclaration en mairie (cerfa n° 13939) au moins 15 jours avant, copie à la DDETSPP, 2 mois par an maximum dans un même lieu, registre à tenir ; ces règles sont en cours de modification (loi du 26 mai 2026, décrets attendus), donc vérifier en mairie. Si l'affluence ou l'aménagement change l'usage normal de l'établissement : autorisation du maire au moins 15 jours avant (GN 6). Inscription possible aux JEMA comme événement collectif (60 € TTC, candidatures dès décembre 2026, exposants professionnels des métiers d'art à titre principal)."
+    },
+    {
+      "titre": "Résidence d'artiste à l'hôtel",
+      "principe": "Un artiste est accueilli une à trois semaines à l'hôtel pour créer à partir du territoire (Loire, vignoble, patrimoine), avec un coin atelier à sa disposition. La résidence se conclut par une exposition et une rencontre publique, et les clients peuvent suivre le travail en cours.",
+      "pour_qui": "Artistes émergents ou confirmés ; public local, clients de l'hôtel, scolaires",
+      "frequence": "1 par an, de préférence en basse saison hôtelière",
+      "partenaires_types": [
+        "artistes (appel à candidatures)",
+        "association culturelle porteuse",
+        "Région Bourgogne-Franche-Comté (aides aux résidences)",
+        "écoles et médiathèques (actions avec les publics)",
+        "mairie"
+      ],
+      "logistique": [
+        "chambre et espace de travail protégé",
+        "budget : rémunération de l'artiste, matériel, repas, déplacements",
+        "convention de résidence écrite",
+        "restitution publique (vernissage, rencontre)"
+      ],
+      "points_d_attention": "L'hébergement ne remplace pas une rémunération : prévoir une bourse ou des honoraires (note de droits d'auteur ou d'honoraires) et accomplir les obligations de diffuseur auprès de l'Urssaf. Écrire qui est propriétaire des œuvres produites, les conditions de vente et l'autorisation d'utiliser les images. La Région indique financer des résidences : un dossier porté par une association partenaire peut faciliter la demande."
+    },
+    {
+      "titre": "Soirée photo et projection",
+      "principe": "Des photographes projettent une série sur grand écran et la commentent, ou l'établissement projette un documentaire court sur l'art ou le territoire suivi d'un échange. Le format s'inscrit dans le Bicentenaire de la photographie (jusqu'au 30 septembre 2027) et dans le Mois du film documentaire en novembre.",
+      "pour_qui": "Clubs photo, cinéphiles, curieux, public des médiathèques",
+      "frequence": "3 à 4 par an (novembre, printemps, été)",
+      "partenaires_types": [
+        "photographes et clubs photo",
+        "médiathèques et ciné-clubs",
+        "Mois du film documentaire (Images en bibliothèques)",
+        "associations de patrimoine et de la Loire"
+      ],
+      "logistique": [
+        "vidéoprojecteur, écran, salle occultable, son",
+        "chaises",
+        "réservation conseillée",
+        "tirages exposés ensuite sur les murs"
+      ],
+      "points_d_attention": "Ne projeter que des images ou des films pour lesquels on a l'accord des auteurs ou des ayants droit (droit de représentation) ; pour un film, obtenir les droits de projection publique auprès de l'ayant droit ou passer par le dispositif du Mois du doc avec les médiathèques. La musique des diaporamas et des films reste soumise à l'autorisation Sacem."
+    },
+    {
+      "titre": "Scène ouverte poésie et slam",
+      "principe": "Un animateur ouvre le micro : chacun vient dire un texte de 3 minutes (poème, slam, conte) devant les œuvres exposées. Les temps forts nationaux (Nuits de la lecture en janvier, Printemps des poètes en mars) donnent un thème et de la visibilité.",
+      "pour_qui": "Jeunes adultes, lycéens et étudiants, ateliers d'écriture, amateurs de littérature",
+      "frequence": "Mensuelle ou bimestrielle, avec une édition spéciale en janvier et en mars",
+      "partenaires_types": [
+        "associations de slam et ateliers d'écriture",
+        "médiathèques",
+        "lycées et collèges",
+        "poètes ou slameurs professionnels invités"
+      ],
+      "logistique": [
+        "micro et petite sono",
+        "inscription des participants sur place",
+        "éclairage de scène simple",
+        "règles du jeu affichées (temps de parole, respect)"
+      ],
+      "points_d_attention": "Faire se produire des amateurs non rémunérés dans un établissement commercial est un point juridique délicat : la loi ne prévoit le recours à des amateurs non payés, dans un cadre lucratif, que pour des entrepreneurs de spectacles conventionnés avec l'État ou une collectivité (télédéclaration deux mois avant). Se renseigner auprès de la DRAC avant d'en faire un rendez-vous régulier, ou confier l'organisation à une structure habilitée. Un invité professionnel rémunéré passe par le Guso et compte dans les 6 représentations annuelles."
+    }
+  ],
+  "calendrier": [
+    {
+      "nom": "Mois du film documentaire (27e édition)",
+      "date_ou_periode": "Novembre 2026 (puis novembre 2027, à confirmer)",
+      "idee": "Organiser avec les médiathèques une soirée projection-débat d'un documentaire sur l'art ou la Loire, inscrite au programme national.",
+      "source": "https://moisdudoc.com/"
+    },
+    {
+      "nom": "Bicentenaire de la photographie (célébration nationale du ministère de la Culture)",
+      "date_ou_periode": "Du 1er septembre 2026 au 30 septembre 2027",
+      "idee": "Programmer une exposition photo et une soirée projection avec les photographes et clubs photo du territoire, en se renseignant sur l'usage du label « Bicentenaire de la Photographie ».",
+      "source": "https://www.journeesdesmetiersdart.fr/thematique-jema2027/"
+    },
+    {
+      "nom": "Saint-Nicolas de Ratilly (marché d'artisans et de producteurs, Treigny, Puisaye)",
+      "date_ou_periode": "5 et 6 décembre 2026",
+      "idee": "S'y rendre pour repérer céramistes et artisans d'art en vue du marché de printemps et des JEMA 2027.",
+      "source": "https://www.puisaye-tourisme.fr/temps-fort/saint-nicolas-de-ratilly/"
+    },
+    {
+      "nom": "Nuits de la lecture (11e édition), thème « L'enfance »",
+      "date_ou_periode": "Du 20 au 24 janvier 2027 (inscriptions des organisateurs ouvertes)",
+      "idee": "Soirée de lectures et de contes illustrés autour de l'exposition, avec un atelier dessin pour enfants co-organisé avec les médiathèques.",
+      "source": "https://www.nuitsdelalecture.fr/actualites/les-nuits-de-la-lecture-reviennent-du-20-au-24-janvier-2027"
+    },
+    {
+      "nom": "Journée internationale des femmes (droits des femmes)",
+      "date_ou_periode": "8 mars 2027 (chaque année le 8 mars)",
+      "idee": "Mettre à l'honneur des artistes femmes du territoire (exposition ou rencontre), le jour où démarre le Printemps des poètes 2027.",
+      "source": "https://www.un.org/fr/observances/womens-day"
+    },
+    {
+      "nom": "Printemps des poètes 2027, thème « La poésie : zones d'action » (intitulé à vérifier sur le site officiel)",
+      "date_ou_periode": "Du 8 au 31 mars 2027",
+      "idee": "Scène ouverte poésie et slam, et poèmes affichés en dialogue avec les œuvres exposées.",
+      "source": "https://actualitte.com/article/132087/salons-festivals/apres-la-liberte-le-printemps-des-poetes-2027-choisit-l-engagement"
+    },
+    {
+      "nom": "Journées européennes des métiers d'art (JEMA), thème « Hors champ »",
+      "date_ou_periode": "Du 30 mars au 4 avril 2027 (candidatures à partir de décembre 2026)",
+      "idee": "Marché et démonstrations d'artisans d'art inscrits comme « événement collectif » (60 € TTC), avec une exposition dédiée aux savoir-faire.",
+      "source": "https://www.journeesdesmetiersdart.fr/candidatures/"
+    },
+    {
+      "nom": "Fête de la poterie, Saint-Amand-en-Puisaye",
+      "date_ou_periode": "Mai (2026 : 16 et 17 mai) — dates 2027 à confirmer",
+      "idee": "Inviter des céramistes rencontrés à la fête pour une exposition « arts de la table » mise en scène au restaurant.",
+      "source": "https://www.festivalenfrance.com/festival/f-ete-de-la-poterie-saint-amand-en-puisaye"
+    },
+    {
+      "nom": "Foire aux vins de Sancerre",
+      "date_ou_periode": "Mai, traditionnellement le week-end de la Pentecôte (2026 : 23 et 24 mai) — dates 2027 à confirmer",
+      "idee": "Programmer une soirée vins & art avec des vignerons du Sancerrois le même week-end ou juste avant.",
+      "source": "https://www.festivalenfrance.com/festival/foire-vins-sancerre"
+    },
+    {
+      "nom": "Nuit européenne des musées",
+      "date_ou_periode": "Un samedi soir de mai (2026 : samedi 23 mai) — date 2027 à confirmer",
+      "idee": "Se coordonner avec le musée de la ville pour une soirée commune : nocturne au musée puis vernissage ou rencontre d'artiste à l'établissement.",
+      "source": "https://www.culture.gouv.fr/switchToLanguage/434428/fre-FR"
+    },
+    {
+      "nom": "Salon du livre de Cosne",
+      "date_ou_periode": "Fin mai ou début juin (2026 : du 22 au 24 mai) — dates 2027 à confirmer",
+      "idee": "Exposer un illustrateur ou un auteur-photographe invité du salon et accueillir une rencontre « off » en soirée.",
+      "source": "https://www.festivalenfrance.com/festival/salon-du-livre-de-cosne"
+    },
+    {
+      "nom": "Festival « Aux quatre coins du mot », La Charité-sur-Loire",
+      "date_ou_periode": "Fin mai - début juin, sur 5 jours — dates 2027 à confirmer",
+      "idee": "Soirée slam ou lecture en écho au festival, en invitant un artiste de la programmation.",
+      "source": "https://www.lacharitesurloire-tourisme.com/decouvrir/festivals-et-evenements/"
+    },
+    {
+      "nom": "Semaine du jeune théâtre, Cosne-Cours-sur-Loire",
+      "date_ou_periode": "Début juin (34e édition du 4 au 12 juin 2025) — dates 2027 à confirmer",
+      "idee": "Proposer aux organisateurs un afterwork « bord de scène » et une exposition de photos de répétitions.",
+      "source": "https://nievre.fr/wp-content/uploads/2025/05/agenda-culturel-regroupe-Final-web.pdf"
+    },
+    {
+      "nom": "Fête de la musique",
+      "date_ou_periode": "21 juin 2027 (chaque année le 21 juin)",
+      "idee": "Concert gratuit dans l'exposition, en vérifiant les conditions de l'autorisation Sacem gratuite propre à la Fête de la musique (voir cadre pratique).",
+      "source": "https://fr.wikipedia.org/wiki/F%C3%AAte_de_la_musique"
+    },
+    {
+      "nom": "Journées du patrimoine de pays",
+      "date_ou_periode": "Fin juin (2025 : du 27 au 29 juin) — dates 2027 à confirmer",
+      "idee": "Exposition sur un savoir-faire local (céramique de Puisaye, marine de Loire) en lien avec le programme du musée de la ville.",
+      "source": "https://nievre.fr/wp-content/uploads/2025/05/agenda-culturel-regroupe-Final-web.pdf"
+    },
+    {
+      "nom": "Fêtes de Loire, La Charité-sur-Loire",
+      "date_ou_periode": "Mi-juillet (2025 : 12 et 13 juillet), chaque année",
+      "idee": "Exposition d'été « Loire » réunissant peintres et photographes du fleuve.",
+      "source": "https://nievre.fr/wp-content/uploads/2025/05/agenda-culturel-regroupe-Final-web.pdf"
+    },
+    {
+      "nom": "Blues en Loire, La Charité-sur-Loire",
+      "date_ou_periode": "Mi-août (troisième semaine d'août) — dates 2027 à confirmer",
+      "idee": "Soirée blues dans l'exposition en partenariat avec l'association organisatrice, qui programme aussi des concerts toute l'année.",
+      "source": "https://www.lacharitesurloire-tourisme.com/decouvrir/festivals-et-evenements/"
+    },
+    {
+      "nom": "Journées européennes du patrimoine",
+      "date_ou_periode": "Septembre (2026 : 19 et 20 septembre) — dates 2027 à confirmer",
+      "idee": "Visite commentée « histoire du bâtiment et exposition en cours », avec ouverture exceptionnelle de salles de l'hôtel.",
+      "source": "https://www.france.fr/fr/evenement/journees-europeennes-du-patrimoine/"
+    },
+    {
+      "nom": "Vignobles en Scène (rendez-vous national du label Vignobles & Découvertes)",
+      "date_ou_periode": "Octobre (2026 : du 16 au 18 octobre en Grand Sancerrois) — édition 2027 à confirmer",
+      "idee": "Proposer une soirée vins & art dans l'esprit de la collection « Créatives » (quand l'art et la culture rencontrent le vin), en lien avec les offices de tourisme.",
+      "source": "https://www.tourisme-sancerre.com/vignobles-en-scene/"
+    },
+    {
+      "nom": "Foire aux vins de France, Saint-Satur (près de Sancerre)",
+      "date_ou_periode": "Fin octobre, généralement le dernier week-end (2026 : 24 et 25 octobre, 54e édition) — dates 2027 à confirmer",
+      "idee": "Afterwork avec des vignerons exposants et un artiste, le vendredi précédant la foire.",
+      "source": "https://www.festivalenfrance.com/festival/foire-aux-vins-de-france-de-saint-satur"
+    }
+  ],
+  "cadre_pratique": [
+    {
+      "sujet": "Spectacles vivants : jusqu'à 6 représentations par an sans formalité",
+      "regle": "Un établissement dont l'activité principale n'est pas le spectacle (bar, restaurant, hôtel) n'a besoin du récépissé valant licence d'entrepreneur de spectacles qu'à partir de 7 représentations par an : « en deçà de 7 représentations par an, il n'y a aucune formalité à accomplir ». Les guides anciens qui évoquent une déclaration préalable un mois avant chaque spectacle ne correspondent plus à la fiche officielle à jour. Le compteur porte sur toutes les représentations de l'année avec au moins un artiste rémunéré (pas seulement celles liées à l'exposition), et les artistes et techniciens doivent quand même être employés via le Guso.",
+      "source": "https://entreprendre.service-public.gouv.fr/vosdroits/F22365"
+    },
+    {
+      "sujet": "Spectacles vivants : à partir de la 7e représentation dans l'année",
+      "regle": "L'activité doit alors être déclarée en ligne auprès du préfet de région (démarche du ministère de la Culture, dossier instruit par la DRAC) avant la première représentation concernée : un récépissé est délivré, le préfet dispose d'un mois pour s'y opposer, la déclaration est à renouveler tous les 5 ans et le numéro doit figurer sur toute la communication et la billetterie. Sanctions : amende administrative jusqu'à 1 500 € (personne physique) ou 7 500 € (personne morale) et fermeture possible jusqu'à un an ; jusqu'à 800 € / 2 000 € si le numéro manque sur les supports. On peut aussi acheter un spectacle clé en main à un producteur déclaré (catégorie 2 : il a la responsabilité du spectacle).",
+      "source": "https://www.artcena.fr/precis-juridique/creation-et-gestion-dune-structure-juridique/formalites/licence-dentrepreneur-de-spectacles"
+    },
+    {
+      "sujet": "Rémunérer musiciens et artistes du spectacle : le Guso",
+      "regle": "Le Guso (Guichet unique du spectacle occasionnel) est obligatoire pour les employeurs dont l'activité principale n'est pas l'exploitation de lieux, la production ou la diffusion de spectacles, quel que soit le nombre de représentations. Un seul formulaire en deux volets : la déclaration préalable à l'embauche (DPAE) avant le début du contrat, puis la déclaration unique et simplifiée (DUS) dans les 15 jours suivant la fin du contrat avec le paiement des cotisations (majoration de 6 % en cas de retard, puis 1 % par mois après trois mois). Si la convention collective de l'établissement ne couvre pas ces salariés, appliquer l'une des deux conventions collectives du spectacle vivant et l'indiquer dans la déclaration.",
+      "source": "https://www.artcena.fr/en/node/3284"
+    },
+    {
+      "sujet": "Un artiste du spectacle payé est présumé salarié",
+      "regle": "Tout contrat par lequel on s'assure, moyennant rémunération, le concours d'un artiste du spectacle est présumé être un contrat de travail (sauf si l'artiste exerce dans des conditions impliquant son immatriculation au registre du commerce). Payer un musicien en liquide, « au chapeau » ou sur simple facture revient donc à ne pas déclarer un salarié : passer par le Guso ou par un producteur déclaré qui l'emploie.",
+      "source": "https://code.travail.gouv.fr/code-du-travail/l7121-3"
+    },
+    {
+      "sujet": "Scène ouverte et artistes amateurs",
+      "regle": "L'article 32 de la loi LCAP et le décret n° 2017-1049 permettent de faire appel à des artistes amateurs sans les rémunérer, dans un cadre lucratif, uniquement pour des entrepreneurs de spectacles liés par une convention avec l'État ou une collectivité (accompagnement de la pratique amateur), avec une télédéclaration deux mois avant la première représentation. Pour une scène ouverte régulière dans un bar avec des amateurs non payés, se renseigner auprès de la DRAC Bourgogne-Franche-Comté, confier l'organisation à une structure habilitée, ou rémunérer les artistes via le Guso.",
+      "source": "https://www.artcena.fr/en/node/470"
+    },
+    {
+      "sujet": "Musique diffusée dans l'établissement : autorisation Sacem",
+      "regle": "Toute diffusion de musique, même en fond sonore et même avec de la musique dite « libre de droits », exige une autorisation préalable de la Sacem (déclaration en ligne ou auprès de la délégation régionale) et la signature d'un contrat général de représentation d'un an, renouvelable. Pour un café-restaurant, le tarif dépend du nombre de places et de la population de la commune (facturation minimale annuelle de 113,45 € HT), avec 20 % de réduction si la déclaration est faite à l'avance ; les animations musicales (concerts, DJ, karaoké) ne sont pas comprises dans ce tarif et se déclarent à part (page vérifiée le 12 août 2025).",
+      "source": "https://entreprendre.service-public.gouv.fr/vosdroits/F31988"
+    },
+    {
+      "sujet": "Concerts, DJ, karaoké : barème Sacem des animations en café-hôtel-restaurant",
+      "regle": "Chaque animation se déclare à la Sacem avant sa tenue (en ligne) et le contrat doit être signé dans les 15 jours calendaires suivant la déclaration, sinon le tarif général s'applique. Le barème 2024-2026 prévoit un forfait annuel selon le nombre d'animations (exemple : jusqu'à 6 animations par an, 546,77 € HT au tarif général) et 20 % de réduction si les formalités sont faites à temps. Conditions : entrée gratuite et prix des consommations habituels, budget artistique de 650 € maximum par animation, pas de privatisation, établissement de type N, pas de scène fixe ; les 24 et 31 décembre sont exclus et au-delà de 50 animations par an d'autres règles s'appliquent. Les concerts entièrement live ne sont pas soumis à la rémunération équitable, mais pour les animations dansantes ou DJ la Spré n'est pas incluse dans le forfait Sacem. Barème valable jusqu'au 31 décembre 2026 : vérifier les tarifs 2027.",
+      "source": "https://www.ghr.fr/IMG/pdf/rgat_animations_chr_trp.pdf"
+    },
+    {
+      "sujet": "Musique enregistrée : rémunération équitable (Spré)",
+      "regle": "En plus des droits Sacem, la diffusion de musique enregistrée oblige à payer la rémunération équitable due à la Spré ; la Spré a mandaté la Sacem pour la collecter, et les factures Sacem et Spré sont payables sous 25 jours.",
+      "source": "https://entreprendre.service-public.gouv.fr/vosdroits/F31988"
+    },
+    {
+      "sujet": "Réduction Sacem via une organisation professionnelle",
+      "regle": "Les organisations professionnelles de l'hôtellerie-restauration ont des accords avec la Sacem : le GHR annonce pour 2026, pour ses adhérents, au moins 28 % de réduction sur la redevance Sacem et 5 % sur la redevance Spré. À comparer avec le coût de l'adhésion.",
+      "source": "https://www.ghr.fr/reglementation-fiscalite/la-sacem-et-la-spre/la-sacem-et-les-cafes-restaurants-tarifs-2026"
+    },
+    {
+      "sujet": "Fête de la musique : autorisation Sacem gratuite sous conditions",
+      "regle": "Pour la Fête de la musique, la Sacem accorde une autorisation gratuite à certains concerts : caractère exceptionnel, gratuité totale, absence de parrainage commercial et budget artistique n'excédant pas 650 €. Conditions publiées pour l'édition 2024 : à revérifier chaque année. Les règles sur l'emploi des artistes (Guso) restent applicables.",
+      "source": "https://www.ghr.fr/reglementation-fiscalite/la-sacem-et-la-spre/sacem-fete-de-la-musique-2024"
+    },
+    {
+      "sujet": "Payer les artistes exposés : droit de présentation publique (recommandation du ministère)",
+      "regle": "Le ministère de la Culture recommande des minimums : 1 000 € pour une exposition monographique, quels que soient la durée et le nombre d'œuvres ; pour une exposition collective, 100 € par artiste, avec en dessous de 10 artistes une enveloppe globale de 1 000 € à répartir (par exemple 500 € chacun pour un duo, 250 € pour quatre artistes). La présentation en présence de l'artiste dans une démarche de médiation fait l'objet d'une rémunération spécifique. Ce barème est un plancher, appliqué sur une base volontaire et pensé pour les structures aidées par le ministère : il ne s'impose pas à un bar ou un hôtel privé, mais c'est la référence à citer, et un forfait écrit, même plus modeste, est recommandé.",
+      "source": "https://www.culture.gouv.fr/Thematiques/arts-plastiques/Actualites/La-remuneration-du-droit-de-presentation-publique"
+    },
+    {
+      "sujet": "Artistes membres de l'ADAGP",
+      "regle": "L'exposition publique d'œuvres donne lieu à une rémunération de leurs auteurs. Si l'artiste a confié la gestion de ce droit à l'ADAGP, l'établissement doit faire une demande d'autorisation préalable en ligne et l'ADAGP facture les droits ; des exonérations et réductions existent pour les structures qui ont un accord avec elle. Demander à chaque artiste s'il est membre de l'ADAGP.",
+      "source": "https://www.adagp.fr/fr/je-suis-artiste-ou-ayant-droit/mes-droits-et-mes-oeuvres/mes-oeuvres-sont-exposees"
+    },
+    {
+      "sujet": "Reproduire les œuvres sur l'affiche, les flyers et les réseaux",
+      "regle": "La reproduction d'une œuvre sur un support (affiche, publicité) relève du droit de reproduction : l'artiste peut donner son accord, le refuser ou poser des conditions ; l'exposition et la diffusion sur Internet relèvent du droit de représentation. Prévoir dans la convention une autorisation écrite d'utiliser les visuels pour la communication de l'événement (supports, durée, crédit à mentionner).",
+      "source": "https://www.adagp.fr/fr/role-et-missions-de-ladagp/droits-dauteur-geres-par-ladagp/les-droits-de-reproduction-et-de"
+    },
+    {
+      "sujet": "Convention d'exposition et bon de dépôt",
+      "regle": "Rédiger avant l'accrochage un document daté et signé par les deux parties qui décrit chaque œuvre confiée et ses conditions financières : durée, accrochage et décrochage, valeur d'assurance, prix de vente, partage éventuel du produit de la vente, paiement à l'artiste dès l'encaissement, rémunération, autorisation de reproduction. Bonnes pratiques tirées du code de déontologie des galeries d'art (CPGA) : le partage du prix de vente est libre mais convenu avec l'artiste, l'œuvre confiée est assurée au moins à hauteur de la part de l'artiste en cas de vente, aucun loyer n'est facturé à l'artiste pour être exposé, et les prix s'affichent par une étiquette discrète ou une liste consultable.",
+      "source": "https://www.ac-ra.eu/wp-content/uploads/2022/09/Code_deontologie_galeries_dart.pdf"
+    },
+    {
+      "sujet": "Assurer les œuvres : la garantie « clou à clou »",
+      "regle": "La garantie « clou à clou » est la plus complète : elle couvre l'œuvre dès sa prise en charge au point de départ (transport, stockage, séjour sur le lieu) jusqu'à son retour ; l'alternative « simple séjour » ne couvre que la présence sur le lieu. Ordre de grandeur indiqué en 2021 : une prime d'environ 0,5 % de la valeur des œuvres assurées. Vérifier avec l'assureur de l'établissement si les biens confiés par des tiers sont couverts, sinon prendre une extension pour la durée de l'exposition.",
+      "source": "https://www.ac-ra.eu/wp-content/uploads/2022/07/Ficheressources_ACRA_Organiseruneexpo.pdf"
+    },
+    {
+      "sujet": "Vente d'une œuvre pendant l'exposition : c'est l'artiste qui facture",
+      "regle": "La vente d'une œuvre originale par son auteur se facture par l'artiste à l'acheteur : TVA à 5,5 % si l'artiste y est assujetti, sinon franchise en base (chiffre d'affaires N-1 inférieur à 50 000 €) avec la mention « TVA non applicable – article 293 B du CGI ». Ces ventes sont des revenus artistiques imposés en BNC ; la cession de droits d'auteur est une opération distincte (TVA à 10 %). Page vérifiée le 20 février 2026.",
+      "source": "https://entreprendre.service-public.gouv.fr/vosdroits/F36428"
+    },
+    {
+      "sujet": "Commission prélevée par l'établissement sur les ventes",
+      "regle": "Un établissement qui perçoit des commissions sur la vente d'œuvres déposées entre dans la catégorie des diffuseurs « commerce d'art » : il doit déclarer à l'Urssaf (gestion des artistes-auteurs, Urssaf Limousin) et verser une contribution de 1,1 % de sa commission réelle, ou d'un montant forfaitaire évalué à 30 % de son chiffre d'affaires TTC sur ces ventes. Option la plus simple pour démarrer : aucune commission, l'artiste encaisse et facture directement l'acheteur ; sinon, faire valider le montage (mandat écrit, facture de commission, TVA) par l'expert-comptable.",
+      "source": "https://guide.fraap.org/pdf-personnalise?data=38"
+    },
+    {
+      "sujet": "Ce que l'artiste-auteur remet au lieu selon ce qu'il est payé",
+      "regle": "Trois documents différents : une facture pour la vente d'œuvres, une note d'honoraires pour les prestations (rencontres, conférences, ateliers), une note de droits d'auteur pour la cession de droits. Les vérifier avant de payer et les conserver.",
+      "source": "https://www.ac-ra.eu/wp-content/uploads/2022/07/Ficheressources_ACRA_Organiseruneexpo.pdf"
+    },
+    {
+      "sujet": "Contribution diffuseur quand le lieu rémunère un artiste-auteur",
+      "regle": "La personne ou la structure qui rémunère un artiste-auteur pour l'exploitation de son travail est « diffuseur » : elle doit une contribution diffuseur de 1 % du montant brut hors taxes des droits, plus 0,1 % pour la formation professionnelle (soit 1,1 %), déclarée et versée à l'Urssaf Limousin. Chiffres issus d'un document de 2022 : faire confirmer le taux et les modalités (précompte éventuel) par l'expert-comptable.",
+      "source": "https://www.la-charte.fr/wp-content/uploads/2022/07/Le-regime-social-des-artistes-auteurs-et-autrices.pdf"
+    },
+    {
+      "sujet": "Facturation électronique (2026-2027)",
+      "regle": "Pour les artistes-auteurs, la réforme s'applique au 1er septembre 2026 pour la réception des factures et à partir du 1er septembre 2027 pour leur émission (calendrier rappelé par le CAAP). Anticiper pour les factures échangées entre l'établissement et les artistes (commissions, prestations, achats d'œuvres) et vérifier le calendrier propre à l'établissement avec l'expert-comptable.",
+      "source": "https://caap.asso.fr/spip.php?article1202"
+    },
+    {
+      "sujet": "Sécurité incendie : événement inhabituel dans l'établissement (article GN 6)",
+      "regle": "L'utilisation, même partielle ou occasionnelle, de l'établissement pour une activité autre que celle autorisée (concert avec public debout, marché d'exposants, affluence inhabituelle, aménagements) doit faire l'objet d'une demande d'autorisation au maire au moins quinze jours avant la manifestation, présentée par l'exploitant (conjointement avec l'organisateur s'il est différent). La demande précise la nature de la manifestation, ses risques, sa durée, sa localisation, l'effectif attendu, les matériaux des décors, les dégagements et les mesures de sécurité complémentaires ; les mairies demandent souvent un délai plus long (deux mois sur les formulaires d'Auxerre ou de Nîmes) et une attestation d'assurance : appeler la mairie de Cosne en amont. Une activité répétée plus d'une fois par an relève plutôt d'une mise à jour du dossier de l'établissement.",
+      "source": "https://www.auxerre.fr/content/download/18842/177840/file/Formulaire+GN6++2019.pdf"
+    },
+    {
+      "sujet": "Musique amplifiée et bruit",
+      "regle": "La réglementation « sons amplifiés » (décret n° 2017-1244) s'applique aux lieux recevant du public où le niveau dépasse l'équivalent de 80 dB(A) sur 8 heures ; l'usage est présumé habituel à partir de 12 jours par an. Obligations : ne jamais dépasser 102 dB(A) et 118 dB(C) sur 15 minutes, informer le public des risques auditifs, fournir gratuitement des protections auditives, prévoir une zone ou des temps de repos auditif, et réaliser une étude d'impact des nuisances sonores pour les lieux concernés ; selon le type de lieu, enregistrement et affichage des niveaux. Infractions : amendes de 5e classe et saisie possible du matériel.",
+      "source": "https://www.bruit.fr/images/collectivites/sons-amplifies/note_d_information_sons_amplifies_2023_18839.pdf"
+    },
+    {
+      "sujet": "Marché d'artistes ou d'artisans : vente au déballage",
+      "regle": "Une vente temporaire dans des locaux non destinés habituellement à la vente au public (exemple cité : un hall d'hôtel) est une vente au déballage : déclaration à la mairie (cerfa n° 13939, en recommandé ou remise contre récépissé) au moins 15 jours avant hors domaine public, copie à la DDETSPP, 2 mois par an maximum dans un même lieu, registre à tenir. Sanctions : jusqu'à 15 000 € (personne physique) ou 75 000 € (société) sans déclaration. La loi du 26 mai 2026 modifie ces règles et ses décrets sont attendus : vérifier en mairie avant chaque marché (page vérifiée le 22 juillet 2026).",
+      "source": "https://entreprendre.service-public.gouv.fr/vosdroits/F22397"
+    }
+  ],
+  "financements": [
+    {
+      "nom": "pass Culture : crédit des jeunes",
+      "resume": "Depuis le 1er mars 2025, les 15-16 ans n'ont plus de crédit individuel mais accèdent à une sélection d'offres gratuites, les 17 ans reçoivent 50 € et les 18 ans 150 €, cumulables et utilisables jusqu'à la veille de leurs 21 ans : une offre payante touche donc surtout les 17-20 ans, une offre gratuite peut toucher dès 15 ans.",
+      "source": "https://aide.passculture.app/hc/fr/articles/18228972352924--Jeunes-18-ans-%C3%89volutions-du-pass-Culture-ce-qui-change-au-1er-mars-2025"
+    },
+    {
+      "nom": "pass Culture : proposer des offres (espace pass Culture Pro)",
+      "resume": "L'inscription sur passculture.pro est gratuite et réservée aux détenteurs d'un SIREN/SIRET qui proposent des biens ou services culturels relevant des domaines fixés par l'arrêté du 20 mai 2021, le compte n'étant validé qu'après contrôle des documents (le pass Culture peut refuser) : la validation d'un bar-hôtel dont la culture n'est pas l'activité principale n'est pas garantie, d'où l'intérêt de faire publier les ateliers, concerts ou rencontres par l'artiste ou l'association partenaire inscrite.",
+      "source": "https://aide.passculture.app/hc/fr/articles/4412007184017--Acteurs-Culturels-Comment-savoir-si-votre-structure-est-%C3%A9ligible-au-pass-Culture"
+    },
+    {
+      "nom": "pass Culture : remboursement et offres pour les classes",
+      "resume": "Les réservations d'offres individuelles sont remboursées à 100 % jusqu'à 20 000 € TTC par an et par établissement (puis 95 %, 92 % et 90 % par tranches), et les offres collectives destinées aux enseignants (visite commentée ou atelier pour une classe, hors biens physiques) sont remboursées à 100 % si la réservation est validée dans les 48 heures suivant l'événement (conditions en vigueur depuis le 8 avril 2026).",
+      "source": "https://pass.culture.fr/cgu-professionnels"
+    },
+    {
+      "nom": "Région Bourgogne-Franche-Comté : spectacle vivant et manifestations de proximité",
+      "resume": "La Région verse des dotations de fonctionnement et des subventions de projet aux compagnies, associations, salles de diffusion, festivals, petites salles de concert et manifestations de proximité, pour des structures bénévoles comme professionnelles : un cycle porté par une association partenaire peut être présenté, à vérifier dans le guide des aides de la Région.",
+      "source": "https://www.bourgognefranchecomte.fr/en-scene"
+    },
+    {
+      "nom": "Région Bourgogne-Franche-Comté : appels à projets « Culture pour Tous » et résidences",
+      "resume": "La Région finance des appels à projets « Culture pour Tous » destinés aux initiatives originales touchant un large public, ainsi que des résidences d'artistes, ce qui ouvre une piste pour une résidence à l'hôtel portée avec une association (calendrier des appels non publié sur la page, à demander à la Région).",
+      "source": "https://www.bourgognefranchecomte.fr/une-culture-vibrante-et-rayonnante"
+    },
+    {
+      "nom": "Département de la Nièvre : Budget participatif nivernais",
+      "resume": "Les associations ayant leur siège ou une antenne dans la Nièvre (et les habitants de 31 ans et plus) peuvent faire financer par le vote des citoyens un projet d'investissement d'intérêt général local, culture comprise, jusqu'à 80 % du coût TTC dans la limite de 10 000 € TTC (entreprises exclues, dépenses de fonctionnement exclues) ; en 2026, dépôt du 1er juin au 15 juillet, vote du 15 octobre au 15 novembre, résultats dans la seconde quinzaine de janvier 2027, prochaine édition à confirmer.",
+      "source": "https://budgetparticipatifnivernais.fr/le-budget-participatif/reglement-complet/"
+    },
+    {
+      "nom": "Département de la Nièvre : appel à projets Économie sociale et solidaire",
+      "resume": "Si le projet est porté par une structure de l'économie sociale et solidaire (association, coopérative), l'appel à projets ESS du Département (6e édition en 2026) peut le soutenir, la culture faisant partie des domaines déjà récompensés (lauréats dotés de 5 000 € chacun en 2023).",
+      "source": "https://nievre.fr/au-quotidien/entreprendre-autrement/le-soutien-a-leconomie-sociale-et-solidaire/"
+    },
+    {
+      "nom": "Département de la Nièvre : prêt d'expositions « La Nièvre s'expose » (via la commune)",
+      "resume": "Le Département prête aux seules communes nivernaises, sous réserve de disponibilité, sept expositions de photographies grand format (Val de Loire, Artisans de talent, Inventeurs de Nièvre…), une ressource à proposer à la mairie pour un temps fort co-organisé.",
+      "source": "https://nievre.fr/cadre-de-vie/attractivite/la-nievre-sexpose/"
+    },
+    {
+      "nom": "Mécénat d'entreprise (via une association partenaire)",
+      "resume": "Une entreprise qui donne à un organisme d'intérêt général (par exemple l'association culturelle qui co-porte la programmation) obtient une réduction d'impôt de 60 % du don jusqu'à 2 M€ (40 % au-delà), dans la limite de 20 000 € ou de 0,5 % de son chiffre d'affaires si ce montant est plus élevé ; le bénéficiaire devant être d'intérêt général, ce n'est pas l'établissement commercial qui reçoit le don.",
+      "source": "https://admical.org/node/259"
+    },
+    {
+      "nom": "Partenariats avec les entreprises et domaines locaux",
+      "resume": "Avec les domaines viticoles, imprimeurs, commerces et artisans du secteur, privilégier les dotations en nature (vins du vernissage, impressions, matériel) contre de la visibilité ; dans le cadre d'un mécénat, les contreparties restent possibles mais doivent être nettement inférieures au don (« disproportion marquée ») et sans impact direct sur l'activité commerciale du mécène.",
+      "source": "https://admical.org/contenu/contreparties-au-don"
+    }
+  ],
+  "communication": [
+    {
+      "nom": "Le Journal du Centre",
+      "type": "Presse quotidienne régionale (Nièvre, groupe Centre France)",
+      "comment": "Envoyer 10 à 15 jours avant un communiqué court (quoi, qui, quand, où, prix) avec une photo HD autorisée par l'artiste à la rédaction locale ou au correspondant de presse, relancer 3 à 4 jours avant et inviter au vernissage. Le site lejdc.fr n'a pas pu être consulté pour vérifier la procédure de l'agenda en ligne : la demander à la rédaction.",
+      "source": "https://fr.wikipedia.org/wiki/Le_Journal_du_Centre"
+    },
+    {
+      "nom": "Le Berry républicain",
+      "type": "Presse quotidienne départementale (Cher, côté Sancerrois, groupe Centre France)",
+      "comment": "Pour toucher le Sancerrois et pour les soirées co-organisées avec des vignerons du Cher : même communiqué, angle vin et territoire. Procédure d'agenda à vérifier sur leberry.fr (site non consultable par nos outils).",
+      "source": "https://fr.wikipedia.org/wiki/Le_Berry_r%C3%A9publicain"
+    },
+    {
+      "nom": "Radio Numéro 1",
+      "type": "Radio locale privée (créée à Cosne, basée à Bourges ; ouest de la Nièvre, Cher, sud du Loiret)",
+      "comment": "Proposer l'événement pour l'agenda et une interview de l'artiste ; récupérer les contacts de la rédaction sur le site de la station (informations de couverture issues de Wikipédia, à vérifier).",
+      "source": "https://fr.wikipedia.org/wiki/Nevers"
+    },
+    {
+      "nom": "ici Auxerre",
+      "type": "Radio publique locale de l'ouest de la Bourgogne",
+      "comment": "Envoyer le communiqué pour l'agenda des sorties et proposer un sujet (artiste local, soirée vins & art) ; côté Cher, faire la même démarche auprès de la station locale du Berry du même réseau.",
+      "source": "https://fr.wikipedia.org/wiki/Nevers"
+    },
+    {
+      "nom": "RCF Nièvre",
+      "type": "Radio locale chrétienne (diocèse de Nevers)",
+      "comment": "Proposer l'événement à la rédaction pour ses annonces locales, surtout pour les rencontres et visites commentées.",
+      "source": "https://fr.wikipedia.org/wiki/Nevers"
+    },
+    {
+      "nom": "Office de tourisme Bourgogne Cœur de Loire (Cosne-Cours-sur-Loire, 30 communes)",
+      "type": "Office de tourisme",
+      "comment": "Envoyer l'événement à l'office (03 86 28 11 85 ou formulaire de contact) pour l'agenda en ligne, la sélection « Nos évènements à ne pas manquer » et la newsletter pro, et le saisir aussi dans le formulaire départemental (ligne suivante).",
+      "source": "https://www.bourgogne-coeurdeloire.fr/espace-pro-tourisme/"
+    },
+    {
+      "nom": "Agenda touristique de la Nièvre (Nièvre Attractive)",
+      "type": "Agenda départemental en ligne",
+      "comment": "Rubrique « Vous êtes organisateur d'évènements » : formulaire en ligne (plateforme Décibelles Data / Tourinsoft) pour faire apparaître l'événement dans l'agenda départemental.",
+      "source": "https://www.lanievrenaturellement.com/sejourner/agenda/"
+    },
+    {
+      "nom": "Office de tourisme du Grand Sancerrois",
+      "type": "Office de tourisme (Cher)",
+      "comment": "Formulaire gratuit « Déposez un évènement », mais seules les animations se déroulant dans une commune du Grand Sancerrois et présentant un intérêt touristique sont retenues : à utiliser pour un événement co-organisé côté Sancerre (domaine, cave), sinon demander un relais (accueil@tourisme-sancerre.com, 02 48 54 08 21).",
+      "source": "https://www.tourisme-sancerre.com/pro/promouvoir-vos-evenements/"
+    },
+    {
+      "nom": "Office de tourisme de La Charité-sur-Loire",
+      "type": "Office de tourisme",
+      "comment": "Transmettre l'information (Place Sainte-Croix, 03 86 70 15 06) pour toucher les publics des festivals charitois, notamment pour les soirées en écho à leurs temps forts.",
+      "source": "https://www.lanievrenaturellement.com/offices/office-de-tourisme-de-la-charite-sur-loire"
+    },
+    {
+      "nom": "Office de tourisme de Puisaye-Forterre (bureau de Saint-Amand-en-Puisaye)",
+      "type": "Office de tourisme",
+      "comment": "Utile pour le réseau des potiers et céramistes et pour annoncer les marchés d'artisans : 03 86 39 63 15.",
+      "source": "https://www.lanievrenaturellement.com/offices/office-de-tourisme-de-puisaye-forterre-bit-de-saint-amand-en-puisaye"
+    },
+    {
+      "nom": "Mairie de Cosne-Cours-sur-Loire",
+      "type": "Communication municipale",
+      "comment": "Demander au service communication (formulaire de contact du site de la mairie ou 03 86 26 50 00) l'inscription dans l'agenda et les supports de la ville ; modalités exactes à confirmer, le site de la mairie n'a pas pu être consulté.",
+      "source": "https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/nievre/mairie-58086-01"
+    },
+    {
+      "nom": "Communauté de communes Cœur de Loire et réseau des médiathèques",
+      "type": "Collectivité et lecture publique",
+      "comment": "Demander un relais sur leurs réseaux sociaux et proposer des co-programmations au réseau des médiathèques (programme culturel trimestriel avec expositions, rencontres d'auteurs, conférences, concerts ; contact mediatheques@coeurdeloire.fr).",
+      "source": "https://www.coeurdeloire.fr/mediatheques/"
+    },
+    {
+      "nom": "JDS (jds.fr)",
+      "type": "Agenda de sorties en ligne",
+      "comment": "Publication gratuite de l'événement via l'espace pro du site (lien « Je publie mon événement »).",
+      "source": "https://www.jds.fr/cosne-cours-sur-loire/expos/expositions-estivales-1595385_A"
+    },
+    {
+      "nom": "Facebook (page de l'établissement)",
+      "type": "Réseau social",
+      "comment": "Créer un événement public depuis la page de l'établissement (plusieurs dates possibles, lien de billetterie), inviter l'artiste et les partenaires à le partager, puis le relayer dans les groupes locaux d'habitants.",
+      "source": "https://www.facebook.com/help/210413455658361"
+    },
+    {
+      "nom": "Programmes nationaux (Nuits de la lecture, JEMA, Mois du film documentaire)",
+      "type": "Agendas et cartes nationales des événements labellisés",
+      "comment": "Inscrire l'événement dans le programme national pour profiter de sa communication : Nuits de la lecture (inscriptions ouvertes pour janvier 2027), JEMA (candidatures à partir de décembre 2026), Mois du doc (formulaire d'inscription sur moisdudoc.com).",
+      "source": "https://www.nuitsdelalecture.fr/actualites/les-nuits-de-la-lecture-reviennent-du-20-au-24-janvier-2027"
+    }
+  ],
+  "prospection": [
+    "Cartographier le vivier avant de démarcher : agenda culturel du Département, pages « Art et galeries » et « Artisanat et savoir-faire » de l'office de tourisme de Puisaye-Forterre, programme des Journées européennes des métiers d'art, centre de formation céramique de Saint-Amand-en-Puisaye, école de musique intercommunale, réseau des médiathèques Cœur de Loire, RESO Nièvre (enseignants et intervenants en musique, danse et théâtre), clubs photo et vignerons engagés dans l'œnotourisme.",
+    "Aller à leur rencontre là où ils sont : vernissages d'autres lieux, Saint-Nicolas de Ratilly (5 et 6 décembre 2026), Fête de la poterie, salons et foires du secteur, forums des associations de la rentrée (date de celui de Cosne à demander en mairie) ; repartir à chaque fois avec un contact et laisser une carte du lieu.",
+    "Qualifier chaque contact dans un tableau simple : discipline, compatibilité avec le lieu (formats, sujets, prix), disponibilités, communauté (abonnés, réseau), statut (SIRET, artiste-auteur, membre de l'ADAGP ou non pour anticiper les autorisations), origine du contact, prochaine action et date.",
+    "Préparer un « kit artiste » d'une page : photos et plan des murs (mètres linéaires, hauteur, éclairage), système d'accrochage, calendrier des créneaux, ce qui est offert (vernissage, communication, photos de l'accrochage, assurance, convention écrite, forfait de présentation, commission éventuelle ou nulle) et ce qui est attendu (accrochage, présence au vernissage, une rencontre avec le public).",
+    "Premier message court et personnalisé : 1) qui vous êtes et le lieu en une phrase ; 2) pourquoi cet artiste ou cette association (une œuvre vue, un lien avec le territoire) ; 3) la proposition concrète (créneau, format, conditions principales) ; 4) une seule action demandée (visite de 20 minutes ou appel) ; 5) coordonnées et 2 ou 3 photos du lieu. Pour une association, proposer un partenariat gagnant-gagnant : salle pour ses événements, visibilité, co-organisation d'un temps fort national.",
+    "Rythme de relance : J+7, relance courte ; J+14, seconde relance avec un élément nouveau (date libérée, autre artiste confirmé, photo de la dernière exposition) ; sans réponse, clore poliment et noter « à recontacter dans 3 mois ». Une réponse négative est aussi l'occasion de demander un autre nom.",
+    "Commencer par un événement test à faible risque (rencontre, lecture, petit accrochage) avant de proposer une programmation annuelle, et caler les dates 3 à 6 mois à l'avance pour tenir les délais : Guso et Sacem, demande au maire au moins 15 jours avant si la configuration change, presse et offices de tourisme 3 à 4 semaines avant.",
+    "Associer les institutions locales : présenter le programme à la mairie (culture et communication) et à la communauté de communes, proposer aux médiathèques des co-organisations (Nuits de la lecture, Printemps des poètes, Mois du doc), et suggérer à la mairie d'emprunter une exposition « La Nièvre s'expose » (prêt du Département réservé aux communes) pour un temps fort commun.",
+    "Approcher les entreprises locales avec une offre claire : pack partenaire (dotation en nature contre logo sur les supports et invitations au vernissage), soirée privée devant l'exposition pour leurs clients, ou mécénat fléché vers l'association partenaire, qui seule peut ouvrir droit à la réduction d'impôt.",
+    "Fidéliser après chaque exposition : envoyer à l'artiste les photos de l'accrochage et un bilan (fréquentation, ventes, retombées presse), remercier publiquement, et lui demander deux recommandations d'autres créateurs : le bouche-à-oreille entre artistes alimente le vivier."
+  ]
+}

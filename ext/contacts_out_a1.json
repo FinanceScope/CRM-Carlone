@@ -1,0 +1,328 @@
+[
+ {
+  "siren": "440326692",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": {
+   "email": "nickel.alloys@aperam.com",
+   "source": "https://www.aperam.com/alloys/what-is-alloys/imphy/"
+  },
+  "site_web": "https://www.aperam.com/alloys/what-is-alloys/imphy/",
+  "decideur_financier": {
+   "nom": "Frédéric Mattei",
+   "fonction": "Président de la SAS (depuis 2014) ; CEO d'Aperam Alloys au niveau groupe",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/440326692"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Standard du site d'Imphy non publié sur les pages consultées (page Aperam Imphy sans téléphone ; societe.com masque le numéro derrière « Afficher le numéro » ; Pappers n'en affiche pas). L'email nickel.alloys@aperam.com est le contact commercial « Alliages » affiché sur la page du site d'Imphy, pas une adresse comptable. Aucun DAF / contrôleur de gestion du site identifié publiquement (recherches LinkedIn sans résultat exploitable) ; le président est un mandataire groupe, à contourner via le standard. Une offre France Travail de « Responsable administratif et financier » à Imphy est apparue en recherche, employeur non vérifié."
+ },
+ {
+  "siren": "301420626",
+  "standard": {
+   "tel": "03 86 71 62 08",
+   "source": "https://www.textilot.fr/mentions-legales.html"
+  },
+  "email_generique": null,
+  "site_web": "https://www.textilot.fr",
+  "decideur_financier": {
+   "nom": "Sébastien Dumange",
+   "fonction": "Président de Dumange Family (holding présidente de Textilot SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/301420626"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Delphine Dumange",
+    "fonction": "Directrice Générale Déléguée et Directrice Communication (directrice de la publication du site)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.textilot.fr/mentions-legales.html"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Standard 03 86 71 62 08 confirmé sur le site (en-tête et mentions légales). L'email de contact des mentions légales est masqué (protection anti-spam), donc non relevé. L'agrégateur zeliq.com liste un poste « Directrice Administrative et Financière » chez Textilot, sans nom (source faible) : un DAF existe probablement, à demander au standard. Dirigeant donné à défaut."
+ },
+ {
+  "siren": "775722218",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "327098364",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "523229268",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "422593491",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "349431254",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "530572775",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "651880437",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "419013297",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "312057318",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "300822335",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "886020031",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "393676895",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "397727397",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "581880044",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "621880012",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "304890817",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "392607545",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "562010454",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "350293221",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "401453188",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ },
+ {
+  "siren": "330907205",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "non traité"
+ }
+]

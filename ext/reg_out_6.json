@@ -1,0 +1,915 @@
+[
+  {
+    "siren": "911523231",
+    "nom_complet": "SAS PRESTIGE COUVERTURE. ETS LACROIX CEDRIC",
+    "enseignes": [],
+    "adresse": "LA TUILERIE",
+    "code_postal": "58300",
+    "commune": "DECIZE",
+    "latitude": 46.81561571,
+    "longitude": 3.4505187978,
+    "naf": "43.91B",
+    "nature_juridique": "5710",
+    "date_creation": "2022-04-01",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Cédric LACROIX",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "892315128",
+    "nom_complet": "TYR SECURITE",
+    "enseignes": [],
+    "adresse": "5 ROUTE DES BERTRANGES",
+    "code_postal": "58400",
+    "commune": "RAVEAU",
+    "latitude": 47.1859213585266,
+    "longitude": 3.07694953207643,
+    "naf": "80.10Z",
+    "nature_juridique": "5499",
+    "date_creation": "2020-12-17",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Rudy RUELLE",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "892718537",
+    "nom_complet": "BIBOLLET MENUISERIE (BIBOLLET MENUISERIE)",
+    "enseignes": [
+      "BIBOLLET MENUISERIE"
+    ],
+    "adresse": "ZA DU FOUR A CHAUX 4 RUE HENRI DARCY",
+    "code_postal": "58300",
+    "commune": "DECIZE",
+    "latitude": 46.8276939859466,
+    "longitude": 3.4913379720448,
+    "naf": "43.32A",
+    "nature_juridique": "5710",
+    "date_creation": "2021-01-01",
+    "tranche_effectif": "01",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Anthony BIBOLLET",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "442010948",
+    "nom_complet": "AERO CONCEPT ENGINEERING",
+    "enseignes": [],
+    "adresse": "LA SOUFFLERIE TECHNOPOLE DU CIRCUIT",
+    "code_postal": "58470",
+    "commune": "MAGNY-COURS",
+    "latitude": 46.864109588,
+    "longitude": 3.1581830135,
+    "naf": "71.12B",
+    "nature_juridique": "5710",
+    "date_creation": "2002-05-14",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Alexis LAPOUILLE",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "792082000",
+    "nom_complet": "VAILLANT AUTO - REMORQUES ET VANS",
+    "enseignes": [
+      "VAILLANT AUTO - REMORQUES ET VANS"
+    ],
+    "adresse": "21 ROUTE DE GENEVE",
+    "code_postal": "58300",
+    "commune": "SOUGY-SUR-LOIRE",
+    "latitude": 46.845115472,
+    "longitude": 3.4112265335,
+    "naf": "45.20A",
+    "nature_juridique": "5499",
+    "date_creation": "2013-03-18",
+    "tranche_effectif": "NN",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Jonathan VAILLANT",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "383808250",
+    "nom_complet": "CENTRE DE PROTECTION HABITAT NIVERNAIS (CPHN)",
+    "enseignes": [],
+    "adresse": "LE TREMBLAT 1 ALLEE DES TAILLANDIERS",
+    "code_postal": "58200",
+    "commune": "COSNE-COURS-SUR-LOIRE",
+    "latitude": 47.379956038,
+    "longitude": 2.9068650172,
+    "naf": "43.39Z",
+    "nature_juridique": "5499",
+    "date_creation": "1991-11-20",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Lionel LIPOVAC",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "537867970",
+    "nom_complet": "INFIRMIERS DU BEUVRON",
+    "enseignes": [],
+    "adresse": "2 RUE VICTOR GUERREAU",
+    "code_postal": "58420",
+    "commune": "BRINON-SUR-BEUVRON",
+    "latitude": 47.280982005,
+    "longitude": 3.49086702,
+    "naf": "86.90D",
+    "nature_juridique": "5485",
+    "date_creation": "2011-12-05",
+    "tranche_effectif": "NN",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Elisabeth DARGNEAU",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Thomas PIOUX",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "949641534",
+    "nom_complet": "MATHUSALEM",
+    "enseignes": [],
+    "adresse": "17 RUE DU 14 JUILLET",
+    "code_postal": "58200",
+    "commune": "COSNE-COURS-SUR-LOIRE",
+    "latitude": 47.41229,
+    "longitude": 2.9282130958,
+    "naf": "46.34Z",
+    "nature_juridique": "5710",
+    "date_creation": "2023-03-06",
+    "tranche_effectif": "01",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Pascal JOLIVET",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Maxence MALOCHET",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "380299685",
+    "nom_complet": "CENTRE DE LA BARBELAINE",
+    "enseignes": [],
+    "adresse": "CHATEAU DE LA VENERIE",
+    "code_postal": "58210",
+    "commune": "CHAMPLEMY",
+    "latitude": null,
+    "longitude": null,
+    "naf": "68.20B",
+    "nature_juridique": "5710",
+    "date_creation": "1990-12-19",
+    "tranche_effectif": "NN",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Michel VIDEGRAIN",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "489347005",
+    "nom_complet": "JAILLOT - NOLIN T.P (JAILLOT-NOLIN T.P)",
+    "enseignes": [],
+    "adresse": "9 RUE DU CHARME",
+    "code_postal": "58300",
+    "commune": "DEVAY",
+    "latitude": 46.8065116123677,
+    "longitude": 3.55485624484183,
+    "naf": "43.12A",
+    "nature_juridique": "5499",
+    "date_creation": "2006-04-03",
+    "tranche_effectif": "01",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Arnaud FIDELE",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Jean-Sebastien JAILLOT",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "403027485",
+    "nom_complet": "ALLIANCE PROPRETE SERVICES",
+    "enseignes": [],
+    "adresse": "63 BOULEVARD CAMILLE DAGONNEAU",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.012988479,
+    "longitude": 3.1499493598,
+    "naf": "81.21Z",
+    "nature_juridique": "5499",
+    "date_creation": "1995-12-07",
+    "tranche_effectif": "22",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Bruno ZAMORA",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "412077745",
+    "nom_complet": "FLEURON",
+    "enseignes": [],
+    "adresse": "RTE NATIONALE 7",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.020226005,
+    "longitude": 3.1477878542,
+    "naf": "47.11F",
+    "nature_juridique": "5710",
+    "date_creation": "1997-05-09",
+    "tranche_effectif": "22",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "ALMATHORIA",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Catherine BAILLOU (DESAIVRES)",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "482066487",
+    "nom_complet": "TRANSPORTS RESSAT",
+    "enseignes": [],
+    "adresse": "16 RUE DES CRAIES",
+    "code_postal": "58240",
+    "commune": "LANGERON",
+    "latitude": 46.816912995,
+    "longitude": 3.1216204713,
+    "naf": "49.41A",
+    "nature_juridique": "5710",
+    "date_creation": "2005-05-01",
+    "tranche_effectif": "21",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HPR",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Lucas RESSAT",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "852030253",
+    "nom_complet": "DL INTERNATIONAL",
+    "enseignes": [
+      "DAVID LANGE"
+    ],
+    "adresse": "2 ROUTE DE CORVOL",
+    "code_postal": "58210",
+    "commune": "VARZY",
+    "latitude": 47.3684484078689,
+    "longitude": 3.38384835668051,
+    "naf": "31.09B",
+    "nature_juridique": "5710",
+    "date_creation": "2019-07-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "JAMES EBENISTES",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "408194686",
+    "nom_complet": "J.L. TRANSPORTS",
+    "enseignes": [],
+    "adresse": "LA VIGNE DOREE MOULOT",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.449402184,
+    "longitude": 3.484850691,
+    "naf": "49.41B",
+    "nature_juridique": "5710",
+    "date_creation": "1996-07-03",
+    "tranche_effectif": "21",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "KERAL INVESTISSEMENTS",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "914452230",
+    "nom_complet": "BGN",
+    "enseignes": [],
+    "adresse": "116 RUE HENRI BOUQUILLARD",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 46.996734952,
+    "longitude": 3.1200592559,
+    "naf": "56.10A",
+    "nature_juridique": "5710",
+    "date_creation": "2022-06-08",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "SMART FOOD",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "FOOD & SEE",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "497496430",
+    "nom_complet": "FRANCOIS POUENAT",
+    "enseignes": [
+      "FRANCOIS POUENAT"
+    ],
+    "adresse": "MODULE NO 3 20 RUE JOSEPH MARIE JACQUARD",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.050767877,
+    "longitude": 3.1263398987,
+    "naf": "43.39Z",
+    "nature_juridique": "5499",
+    "date_creation": "2007-04-10",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Francois POUENAT",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "731880258",
+    "nom_complet": "GENEOL GENIE CLIMATIQUE",
+    "enseignes": [],
+    "adresse": "Z.A. DES CHAMONDS RUE EDOUARD BRANLY",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.044243132,
+    "longitude": 3.1295816923,
+    "naf": "43.22B",
+    "nature_juridique": "5710",
+    "date_creation": "1973-01-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "AURIA HOLDING",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Loïc PANSE",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "323326512",
+    "nom_complet": "INORE GROUPE IMPRESSION (INORE GROUPE IMPRESSION)",
+    "enseignes": [],
+    "adresse": "PARC D'ACTIV DE VARENNES VAUZ GARCHIZY 4 RUE THOMAS EDISON",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.046208764,
+    "longitude": 3.1300288427,
+    "naf": "18.12Z",
+    "nature_juridique": "5710",
+    "date_creation": "1982-01-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "LECHAT ET LA SOURIS",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "452446586",
+    "nom_complet": "SAMICOLOR",
+    "enseignes": [],
+    "adresse": "6 RUE COLETTE",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.040519876,
+    "longitude": 3.1350400706,
+    "naf": "71.12B",
+    "nature_juridique": "5710",
+    "date_creation": "2004-02-27",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HOLSER",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "879402949",
+    "nom_complet": "SARL CHRONO'TRANS 58 (CHRONO'TRANS 58)",
+    "enseignes": [],
+    "adresse": "5 RUE LEON BLUM",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.021489209,
+    "longitude": 3.1454924846,
+    "naf": "49.41B",
+    "nature_juridique": "5499",
+    "date_creation": "2019-10-15",
+    "tranche_effectif": "21",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Anthony BERANGER",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "306809716",
+    "nom_complet": "STE D'ETUDES ET DE REALISATIONS TECHNIQUES INDUSTRIELLES ET PUBLICITAIRES (SERTIP)",
+    "enseignes": [],
+    "adresse": "6 RUE COLETTE",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.040519876,
+    "longitude": 3.1350400706,
+    "naf": "71.12B",
+    "nature_juridique": "5710",
+    "date_creation": "1976-01-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HOLSER",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "429628324",
+    "nom_complet": "SOCIETE LOUIS CHARPENET (SOCIETE LOUIS CHARPENET)",
+    "enseignes": [
+      "LOUIS CHARPENET"
+    ],
+    "adresse": "54 BOULEVARD CAMILLE DAGONNEAU",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.0130117484075,
+    "longitude": 3.15074739142072,
+    "naf": "16.10B",
+    "nature_juridique": "5710",
+    "date_creation": "2000-01-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HOLDING R.C",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "581880382",
+    "nom_complet": "DUMAS ET COLINOT SOC (STDC)",
+    "enseignes": [],
+    "adresse": "16 RUE GAY - LUSSAC",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.02477457,
+    "longitude": 3.1501019037,
+    "naf": "45.32Z",
+    "nature_juridique": "5599",
+    "date_creation": "1958-01-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Francois COLINOT",
+        "fonction": "Président du conseil d’administration et directeur général"
+      },
+      {
+        "nom": "Julien COLINOT",
+        "fonction": "Directeur général délégué"
+      },
+      {
+        "nom": "Fabien COLINOT",
+        "fonction": "Administrateur"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "325843050",
+    "nom_complet": "PONGE MATERIEL AGRICOLE",
+    "enseignes": [],
+    "adresse": "12 RUE SAINT JACQUES DE COMPOSTELLE",
+    "code_postal": "58420",
+    "commune": "GUIPY",
+    "latitude": 47.231063135,
+    "longitude": 3.5848524501,
+    "naf": "28.30Z",
+    "nature_juridique": "5710",
+    "date_creation": "1963-01-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "GROUPE PONGE SAS",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "753975994",
+    "nom_complet": "SARL MTMS",
+    "enseignes": [],
+    "adresse": "18 RUE DU PERE CASTOR",
+    "code_postal": "58420",
+    "commune": "BRINON-SUR-BEUVRON",
+    "latitude": 47.275521875,
+    "longitude": 3.4918924467,
+    "naf": "49.41B",
+    "nature_juridique": "5499",
+    "date_creation": "2012-09-24",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Tony METTENDORFF",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "691880389",
+    "nom_complet": "SOC NIVERNAISE DEBARDAGE ET TRANSPORTS",
+    "enseignes": [],
+    "adresse": "LES VARENNES",
+    "code_postal": "58270",
+    "commune": "SAINT-BENIN-D AZY",
+    "latitude": 46.971185755,
+    "longitude": 3.4238907735,
+    "naf": "49.41A",
+    "nature_juridique": "5710",
+    "date_creation": "1969-01-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Pierre MICHEL",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "444345821",
+    "nom_complet": "PATRICE JARDILLET (ACTION NETTOYAGE)",
+    "enseignes": [],
+    "adresse": "39 ROUTE DE NEVERS",
+    "code_postal": "58700",
+    "commune": "SICHAMPS",
+    "latitude": 47.157134169,
+    "longitude": 3.2835472146,
+    "naf": "81.21Z",
+    "nature_juridique": "1000",
+    "date_creation": "2003-01-02",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Patrice JARDILLET",
+        "fonction": null
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "351271127",
+    "nom_complet": "MORVAN CHARCUTERIES SALAISONS (MORVAN CHARCUTERIES SALAISONS)",
+    "enseignes": [
+      "MORVAN CHARCUTERIES SALAISONS"
+    ],
+    "adresse": "ZI DE SURGY RUE HELENE BOUCHER",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.467154269,
+    "longitude": 3.5183940631,
+    "naf": "10.13A",
+    "nature_juridique": "5710",
+    "date_creation": "1989-07-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "GUSTEO",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Thierry MOSSON",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "830523312",
+    "nom_complet": "NEVA",
+    "enseignes": [
+      "BRICOMARCHE"
+    ],
+    "adresse": "ALL JEAN MERMOZ",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.4745382682494,
+    "longitude": 3.5169564816221,
+    "naf": "47.52B",
+    "nature_juridique": "5710",
+    "date_creation": "2017-06-21",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Bernard DESCHAMPS",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Ingrid DESCHAMPS (LAKATOS)",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "752953711",
+    "nom_complet": "PRISME EVENTS",
+    "enseignes": [],
+    "adresse": "4 RUE HELENE BOUCHER",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.467320697,
+    "longitude": 3.5187214519,
+    "naf": "93.29Z",
+    "nature_juridique": "5710",
+    "date_creation": "2012-07-11",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Christophe THOLLOT",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "405156274",
+    "nom_complet": "SARL AMBULANCES MARTIN",
+    "enseignes": [],
+    "adresse": "PRESSURES 16 RUE DES HIRONDELLES",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.448040956,
+    "longitude": 3.4903399439,
+    "naf": "86.90A",
+    "nature_juridique": "5499",
+    "date_creation": "1996-04-29",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Kelly MARTIN",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "352722649",
+    "nom_complet": "SARL HOSTELLERIE DE LA POSTE",
+    "enseignes": [],
+    "adresse": "9 PLACE EMILE ZOLA",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.459786545,
+    "longitude": 3.5214763917,
+    "naf": "55.10Z",
+    "nature_juridique": "5499",
+    "date_creation": "1989-12-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Denis GUENOT",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "315548925",
+    "nom_complet": "SAS AMBULANCE JACSON",
+    "enseignes": [],
+    "adresse": "ZONE ARTISANALE RUE HELENE BOUCHER",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.467154269,
+    "longitude": 3.5183940631,
+    "naf": "86.90A",
+    "nature_juridique": "5710",
+    "date_creation": "1967-01-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Christopher SANCHEZ",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "381751171",
+    "nom_complet": "A.MAILHARRO SARL",
+    "enseignes": [],
+    "adresse": "ZONE INDUSTRIELLE LES CHAMPS MALES",
+    "code_postal": "58640",
+    "commune": "VARENNES VAUZELLES",
+    "latitude": 47.023293146,
+    "longitude": 3.150389806,
+    "naf": "43.34Z",
+    "nature_juridique": "5710",
+    "date_creation": "1991-04-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "CAREMA INVESTISSEMENTS",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "489272518",
+    "nom_complet": "ALFONSO BUJAN ASSOCIES",
+    "enseignes": [],
+    "adresse": "ZONE INDUSTRIELLE",
+    "code_postal": "58640",
+    "commune": "VARENNES VAUZELLES",
+    "latitude": 47.047021749,
+    "longitude": 3.125562165,
+    "naf": "43.34Z",
+    "nature_juridique": "5710",
+    "date_creation": "2006-03-24",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Franck MYSKOWIAK",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Karin MYSKOWIAK (DRU)",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "422236620",
+    "nom_complet": "ARMONIAL",
+    "enseignes": [],
+    "adresse": "73 BOULEVARD CAMILLE DAGONNEAU",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.01496315,
+    "longitude": 3.1492134516,
+    "naf": "43.32B",
+    "nature_juridique": "5710",
+    "date_creation": "1999-03-09",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Nathalie BOUTILLON",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  }
+]

@@ -1,0 +1,293 @@
+[
+ {
+  "rang": 3,
+  "telephone": "03 86 68 22 00 (concession Citroën SAS Garage Vincent, 3 route de Paris – même adresse que le siège)",
+  "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+  "site_local": "Site cosnois du groupe = SOC GARAGE G R V (SIREN 331066639, présidée par Rodolphe Vincent) : Citroën / Peugeot + agence de location Distance, RN7 Cosne Sud, chemin rural du Grand Champ, 58200 Cosne-Cours-sur-Loire – tél. 03 86 28 49 70",
+  "interlocuteur_cible": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président de Vincent SAS et de Soc Garage GRV (site de Cosne)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [
+   "Le site de Cosne n'est pas exploité par Vincent SAS mais par la société sœur SOC GARAGE G R V (SIREN 331066639, même président) – à préciser dans la fiche"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=571881002",
+   "https://recherche-entreprises.api.gouv.fr/search?q=Rodolphe%20Vincent&departement=58",
+   "https://recherche-entreprises.api.gouv.fr/search?q=Rodolphe%20Vincent&departement=58&page=2",
+   "https://www.groupevincent.fr",
+   "https://www.118000.fr/v_cosne-cours-sur-loire_58/c_concessionnaire-automobile",
+   "https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB17007_garage-grv",
+   "https://lesvoitures.fr/adresse/citroen-sas-garage-vincent-varennes-vauzelles/"
+  ]
+ },
+ {
+  "rang": 28,
+  "effectif": "50-99 (tranche INSEE 2024 de l'entreprise) ; 48 salariés selon Xerfi",
+  "site_local": "Agence de Saint-Satur (18300, secteur Saint-Thibault) à env. 12 km de Cosne – adresse exacte et téléphone non confirmés",
+  "interlocuteur_cible": {
+   "nom": "Christophe Maréchal",
+   "fonction": "Directeur général",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [
+   "Tranche d'effectif : le registre INSEE 2024 indique 50-99 salariés pour l'entreprise (20-49 ne vaut que pour le siège) ; Xerfi annonce 48"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=300822335",
+   "https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335",
+   "https://www.le-site-de.com/marechal-ets--18300_193152.html"
+  ]
+ },
+ {
+  "rang": 39,
+  "description": "Maison viticole familiale (9 générations) de Pouilly-sur-Loire possédant cinq domaines le long de la Loire (Clair de Brumes, Domaine de Terres Blanches, Domaine des Grandes Espérances, Château de la Mulonnière, Locus). Marques signatures La Perrière (Sauvignon blanc et Pinot noir du Centre-Loire : Pouilly-Fumé, Sancerre…) et Les Eclaireurs ; anciennes étiquettes « Guy Saget ». Propose de l'œnotourisme (coffrets, hôtels partenaires à Sancerre).",
+  "linkedin": "https://www.linkedin.com/company/saget-la-perrière/",
+  "site_local": "Siège et chai : La Castille, RN7, 58150 Pouilly-sur-Loire – tél. 03 86 39 57 75 (env. 15 km de Cosne)",
+  "interlocuteur_cible": {
+   "nom": "Laurent Saget",
+   "fonction": "Président du conseil d'administration et directeur général",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [
+   "Marques : le site officiel met en avant La Perrière et Les Eclaireurs ; « Guy Saget » n'est plus la marque principale",
+   "Aucune boutique à Pouilly n'est mentionnée sur le site officiel (affirmation retirée)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=304890817",
+   "https://www.sagetlaperriere.com",
+   "https://www.sagetlaperriere.com/mentions-legal",
+   "https://www.falstaff.com/nordics/wineries/saget-la-perriere"
+  ]
+ },
+ {
+  "rang": 60,
+  "groupe": "Geficca Technologies (holding, Cosne-Cours-sur-Loire, présidée par Dominique Froux ; également présidente de SMAC à La Garde – 83, caoutchouc)",
+  "actualite": "Établissement secondaire immatriculé le 21/08/2023 à la même adresse (5 allée des Entrepreneurs) ; passage en SAS présidée par Geficca Technologies au 01/01/2024 ; exposant au salon Global Industrie 2024 ; index Egapro 2025 : 99/100.",
+  "site_local": "Siège et usine à Cosne : 5 allée des Entrepreneurs, ZI Le Tremblat, 58200 Cosne-Cours-sur-Loire",
+  "interlocuteur_cible": {
+   "nom": "Vincent Desnost",
+   "fonction": "Directeur général",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [
+   "« Nouvel établissement ouvert à Cosne en 2024 » inexact : l'établissement secondaire a été créé le 21/08/2023, à la même adresse que le siège (pas un nouveau site)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=333222214",
+   "https://recherche-entreprises.api.gouv.fr/search?q=794722066",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SMAC&departement=83",
+   "https://www.pappers.fr/entreprise/333222214",
+   "https://www.geficca.fr",
+   "https://egapro.travail.gouv.fr/api/search?q=333222214"
+  ]
+ },
+ {
+  "rang": 89,
+  "site_local": "Usine de la Bertine, 58220 Donzy (env. 18 km de Cosne)",
+  "interlocuteur_cible": {
+   "nom": "Frédéric Soyez",
+   "fonction": "Président (depuis 09/2023)",
+   "source": "Registre / Pappers"
+  },
+  "angle_partenariat": "Repas d'affaires pour clients/fournisseurs de passage et repas de fin d'année ou afterworks pour ~75 salariés à 18 km de Cosne ; budget probablement contraint (pertes depuis 2021) : proposer des formules à prix maîtrisé.",
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=671880227",
+   "https://www.pappers.fr/entreprise/soyez-freres-sa-671880227",
+   "https://www.xerfi.com/etudes-par-entreprise/soyez-freres_671880227"
+  ]
+ },
+ {
+  "rang": 1,
+  "adresse": "1 avenue Jean Jaurès, 58160 Imphy",
+  "site_web": "https://www.aperam.com/alloys/what-is-alloys/imphy/",
+  "email": "nickel.alloys@aperam.com (contact commercial alliages, affiché sur la page du site d'Imphy)",
+  "actualite": "Visite de Sébastien Martin, ministre délégué chargé de l'Industrie, à Aperam Alloys Imphy le vendredi 12 juin 2026 (programme Territoires d'industrie Nevers Val de Loire) ; le groupe Aperam a annoncé en 2025 une baisse de son EBITDA.",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Frédéric Mattei",
+   "fonction": "Président",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [
+   "Date de la visite ministérielle précisée : 12 juin 2026 (annoncée le 11/06 par Boursier.com)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=440326692",
+   "https://www.aperam.com/alloys/what-is-alloys/imphy/",
+   "https://www.aperam.com/fr/?p=1334",
+   "https://bourse.fortuneo.fr/actualites/aperam-sebastien-martin-ministre-delegue-charge-de-l-industrie-se-rend-dans-la-nievre-1919599"
+  ]
+ },
+ {
+  "rang": 10,
+  "telephone": "03 86 71 84 10",
+  "site_web": "https://www.e.leclerc/mag/e-leclerc-nevers",
+  "groupe": "Mouvement E.Leclerc (adhérent) ; holding VANAJEF (SIREN 833243801, Coulanges-lès-Nevers, même dirigeants)",
+  "angle_partenariat": "Repas/soirées d'équipe pour ~200 salariés et opérations commerciales croisées (jeux-concours, bons) ; attention : le magasin a son propre service traiteur/réceptions et de la restauration (concurrent partiel) ; potentiel limité par la distance.",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Jean-François Mousset",
+   "fonction": "Président (adhérent Leclerc)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=327098364",
+   "https://recherche-entreprises.api.gouv.fr/search?q=VANAJEF",
+   "https://www.e.leclerc/mag/e-leclerc-nevers"
+  ]
+ },
+ {
+  "rang": 16,
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [
+   "Résultat net 2025 au registre : 719 269 € (le 980 611 € de la fiche correspond à un autre exercice que le CA 2025 de 44,6 M€)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=422593491",
+   "https://journalauto.com/distribution/le-groupe-vincent-se-renforce-chez-toyota/"
+  ]
+ },
+ {
+  "rang": 25,
+  "groupe": "Groupement Les Mousquetaires (Intermarché) ; présidée par la holding ALFOCEA (SIREN 447741109), dont le siège est à Cosne-Cours-sur-Loire (gérant Alain Jaudon)",
+  "angle_partenariat": "Les propriétaires (famille Jaudon, holding ALFOCEA) sont basés à Cosne-Cours-sur-Loire : animations croisées, sponsoring local, approvisionnement d'appoint et repas d'équipe pour les salariés du magasin.",
+  "site_local": "Magasin : 2 rue des Plantes des Religieuses, 58400 La Charité-sur-Loire – 03 86 70 28 62 ; holding propriétaire domiciliée à Cosne-Cours-sur-Loire",
+  "interlocuteur_cible": {
+   "nom": "Fanny Jaudon",
+   "fonction": "Directrice générale",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=419013297",
+   "https://recherche-entreprises.api.gouv.fr/search?q=Jaudon&departement=58",
+   "https://www.118000.fr/e_C0101989445",
+   "https://www.au-magasin.fr/58400-la-charite-sur-loire/intermarche-12506.html"
+  ]
+ },
+ {
+  "rang": 35,
+  "linkedin": "https://linkedin.com/company/lookcycle",
+  "site_local": "Second établissement : zone industrielle, 58640 Varennes-Vauzelles ; siège du groupe LOOK Cycle International : 27 rue du Docteur Léveillé, 58000 Nevers (adresse pour propositions de partenariat)",
+  "interlocuteur_cible": {
+   "nom": "Damien Olagne",
+   "fonction": "Président de LOOK Fixations",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=397727397",
+   "https://recherche-entreprises.api.gouv.fr/search?q=LOOK%20FIXATIONS&code_postal=58640",
+   "https://en.wikipedia.org/wiki/Look_Cycle_International",
+   "https://bicycleretailer.com/international/2024/10/11/look-cycle-group-sells-corima-wheel-brand",
+   "https://www.lookcycle.com/IT-en/inside/news/cofidis-paris-nice",
+   "https://118500.fr/telephone-service-client-look-cycle"
+  ]
+ },
+ {
+  "rang": 44,
+  "site_web": "https://www.gascontrol.com",
+  "groupe": "GCE (Gas Control Equipment), membre du groupe ESAB depuis 2018 (ESAB Corporation, coté au NYSE depuis 2022)",
+  "actualite": "Changements de direction : Curtis Jewell nommé DG le 29/06/2026 en remplacement de Kevin Johnson ; CA en baisse à 17,8 M€ en 2025 (résultat net 408 K€).",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Mathieu Benier",
+   "fonction": "Président (depuis 04/2024)",
+   "source": "Pappers / registre"
+  },
+  "corrections": [
+   "Site web : gcegroup.com redirige désormais vers gascontrol.com",
+   "Groupe : GCE a rejoint ESAB en 2018 (ESAB n'a pas « racheté Gas Control Equipment » au sens d'une marque ESAB d'origine) – formulation précisée"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=562010454",
+   "https://www.pappers.fr/entreprise/562010454",
+   "https://www.gascontrol.com/en/about-us"
+  ]
+ },
+ {
+  "rang": 61,
+  "site_web": "https://danielson-groupe.fr",
+  "actualite": "Deux projets de fusion déposés (BODACC, février et avril 2026), nature de l'opération non détaillée publiquement ; CA de l'exercice clos au 30/09/2025 en recul de 13 % à 10,7 M€ (résultat net 392 K€).",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Bernard Delaporte",
+   "fonction": "Président de Groupe Danielson (présidente de Danielson Engineering)",
+   "source": "Pappers (fiche Groupe Danielson)"
+  },
+  "corrections": [
+   "« Réorganisation intragroupe » non confirmée par les sources : la nature des projets de fusion 2026 n'est pas publique",
+   "Site web trouvé : danielson-groupe.fr (danielson-eng.fr y redirige)"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=DANIELSON%20ENGINEERING&departement=58",
+   "https://www.pappers.fr/entreprise/409564481",
+   "https://www.pappers.fr/entreprise/507748283",
+   "https://danielson-groupe.fr/",
+   "https://www.cbinsights.com/company/danielson-engineering"
+  ]
+ },
+ {
+  "rang": 70,
+  "adresse": "ZA des Chamonds, 16 rue Edouard Branly, 58640 Varennes-Vauzelles",
+  "description": "Concepteur et fabricant de capteurs (marque Texense) pour la course automobile, l'automobile, l'aéronautique et l'industrie : capteurs de température infrarouge, accéléromètres, pression, jauges de contrainte, fibre optique. Plus de 25 ans d'expérience, d'abord en compétition automobile.",
+  "actualite": "Union avec FOGALE Sensors (Nîmes) le 19/12/2023 ; absorption d'Optel-Texys (effet au 1er janvier 2025) ; nouveau projet de fusion daté du 30/09/2026 ; nouvel établissement à Fontenay-sous-Bois créé le 08/10/2026. Très rentable (2,8 M€ de résultat 2025).",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Philippe Leuwers",
+   "fonction": "Directeur général de Texys Group (signataire du communiqué de janvier 2024)",
+   "source": "https://www.vehiculedufutur.com/uploads/images/News-et-opportunites/Texys/20240129_CdP_Texys.pdf"
+  },
+  "corrections": [
+   "Affirmation « fondée par un ancien responsable électronique d'écurie de F1 » non vérifiable dans les sources : retirée"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=490935756",
+   "https://www.pappers.fr/entreprise/490935756",
+   "https://www.vehiculedufutur.com/uploads/images/News-et-opportunites/Texys/20240129_CdP_Texys.pdf"
+  ]
+ },
+ {
+  "rang": 90,
+  "site_web": "https://www.styl-habitat.fr",
+  "site_local": "Agence de Cosne : 29 boulevard de la République, 58200 Cosne-Cours-sur-Loire (établissement ouvert depuis 01/2018) – téléphone non trouvé",
+  "interlocuteur_cible": {
+   "nom": "Arnaud Labaune",
+   "fonction": "Directeur général (depuis 04/2025)",
+   "source": "Registre / Pappers"
+  },
+  "corrections": [],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=338657604",
+   "https://www.pappers.fr/entreprise/stylhabitat-338657604",
+   "https://www.styl-habitat.fr/nos-agences"
+  ]
+ },
+ {
+  "rang": 96,
+  "actualite": "CA en recul de 7,73 M€ (2023) à 5,74 M€ (2025), résultat d'exploitation négatif depuis 2023 mais résultat net positif (163 K€ en 2025).",
+  "site_local": null,
+  "interlocuteur_cible": {
+   "nom": "Xavier Boulot",
+   "fonction": "Président de 2B Finance et Conseils, holding présidente de CIA Imprimerie",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "corrections": [
+   "Résultat d'exploitation négatif dès 2023 (et non seulement en 2025), résultat net resté positif"
+  ],
+  "sources_verif": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=404816712",
+   "https://recherche-entreprises.api.gouv.fr/search?q=794966010",
+   "https://www.pappers.fr/entreprise/cia-imprimerie-404816712"
+  ]
+ }
+]

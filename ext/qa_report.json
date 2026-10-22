@@ -1,0 +1,257 @@
+[
+  {
+    "rang": 175,
+    "siren": "484649561",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "ca",
+        "crm": "3 032 249",
+        "source": "2 571 848 € au dernier exercice (clos le 30/06/2025, « 2025 » sur Pappers, « 2024 » dans l'API : ca 2571848, resultat_net 218291), c'est-à-dire l'exercice dont le CRM reprend le résultat (218 291 €). 3,03 M€ est le CA de l'exercice 2023, dont le résultat était 106 K€.",
+        "url": "https://www.pappers.fr/entreprise/hydrelec-484649561"
+      }
+    ],
+    "note": "[MOYEN] Années mélangées : le CA de 2023 est associé au résultat du dernier exercice (2025). Le CA est surévalué d'environ 18 % par rapport au dernier exercice. Conformes : raison sociale, siège (21 B rue de la Badelle, 58270 Saint-Benin-d'Azy), statut actif, effectif 10-19 (tranche INSEE 2024 : 11), président Zoran MILOSEVIC, NAF 36.00Z."
+  },
+  {
+    "rang": 126,
+    "siren": "929918241",
+    "verdict": "OK",
+    "ecarts": [],
+    "note": "CA 5 170 253 € et résultat 31 857 € = exercice 2025 (valeurs exactes dans l'API, 5,17 M€ / 31,9 K€ sur Pappers). Conformes : siège ZI Saint, 24 rue Georges Dufaud, 58000 Nevers ; actif ; PCA Jérôme MALUS, DG David VERHILLE. Société créée le 12/06/2024 (NAF 37.00Z). L'effectif « 1+ salarié » est le libellé de Pappers (donnée 2026), mais la tranche INSEE 2024 est 10-19 et Pappers indique 18 salariés en 2025 : on pourrait afficher 10-19."
+  },
+  {
+    "rang": 127,
+    "siren": "494122401",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "ca",
+        "crm": "5 101 104",
+        "source": "121 K€ (exercice clos le 28/02/2026) ; 119 K€ (exercice clos le 29/02/2024, API : ca 118551) ; exercice clos le 28/02/2025 non renseigné (déclaration de confidentialité). Aucun montant proche de 5,1 M€ sur la page.",
+        "url": "https://www.pappers.fr/entreprise/jcc-494122401"
+      },
+      {
+        "champ": "resultat",
+        "crm": "80 397",
+        "source": "11,2 K€ (exercice clos le 28/02/2026) ; 19 K€ (exercice clos le 29/02/2024, API : resultat_net 19014).",
+        "url": "https://www.pappers.fr/entreprise/jcc-494122401"
+      }
+    ],
+    "note": "[MAJEUR] Mauvais chiffres. Depuis juin 2022 (BODACC du 14/06/2022 : « établissement principal donné en location-gérance »), le supermarché Carrefour Contact est exploité par un locataire-gérant. JCC n'est plus que bailleur (NAF 68.20B, 0 salarié) et encaisse environ 120 K€ par an. Les 5,1 M€ ne correspondent à aucun exercice affiché ; c'est vraisemblablement un exercice antérieur à la location-gérance. Avec environ 121 K€ de CA, la société n'a rien à faire au rang 127. Conformes : raison sociale, siège (Route de Cosne, 58310 Saint-Amand-en-Puisaye), statut actif, président APOCF."
+  },
+  {
+    "rang": 195,
+    "siren": "391868635",
+    "verdict": "OK",
+    "ecarts": [],
+    "note": "CA 2 691 791 € et résultat 108 266 € = exercice 2023 (2,69 M€ / 108 K€ sur Pappers). C'est le dernier exercice avec un CA publié : 2024 et 2025 sont sous confidentialité partielle (CA non publié ; résultat 43 715 € en 2024 et 50,4 K€ en 2025). Conformes : siège (1 allée Louis Blériot, 58500 Clamecy), actif, président Christophe DARENNE. Effectif : 6-9 sur Pappers (donnée 2022), tranche INSEE 2024 = 3-5."
+  },
+  {
+    "rang": 183,
+    "siren": "494516925",
+    "verdict": "OK",
+    "ecarts": [],
+    "note": "CA 2 859 628 € et résultat 183 966 € = exercice 2022 (2,86 M€ / 184 K€ sur Pappers), donc conforme à la règle. ATTENTION, donnée ancienne : au dernier exercice (2025), CA 2 454 641 € et résultat -357 122 € (perte) ; 2024 : 2,5 M€ / 116 K€ ; 2023 : 2,65 M€ / 166 K€. Afficher un bénéfice de 184 K€ serait trompeur. Conformes : siège (63 Grande Rue François Mitterrand, 58400 La Charité-sur-Loire), actif, gérant Laurent MINGEAU, effectif 6-9."
+  },
+  {
+    "rang": 106,
+    "siren": "431863752",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "ca",
+        "crm": "7 025 166",
+        "source": "5 872 892 € au dernier exercice (« 2025 » sur Pappers, « 2024 » dans l'API : ca 5872892, resultat_net 433871), c'est-à-dire l'exercice dont le CRM reprend le résultat (433 871 €). 7,03 M€ est le CA de 2022, exercice en perte (-212 K€).",
+        "url": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+      }
+    ],
+    "note": "[MOYEN] Années mélangées : le CA de 2022 est associé au résultat du dernier exercice. Le CA est surévalué d'environ 20 % (5,87 M€ au dernier exercice), et 2022 était en perte. Conformes : siège (La Gutteleau, 58230 Planchez), actif, président Martin NAUDET, effectif 10-19 (tranche INSEE 2024 : 11)."
+  },
+  {
+    "rang": 125,
+    "siren": "631880374",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "resultat",
+        "crm": "-44 602",
+        "source": "-455 515 € pour l'exercice 2023, celui du CA 5 212 419 € repris dans le CRM (API : 2023 : ca 5212419, resultat_net -455515 ; Pappers 2023 : 5,21 M€ / -456 K€). -44,6 K€ est le résultat de 2022 (CA 4,98 M€).",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=631880374"
+      }
+    ],
+    "note": "[MAJEUR] Années mélangées : le CA de 2023 est associé au résultat de 2022. La perte réelle du dernier exercice publié est 10 fois plus élevée que celle affichée. Les comptes 2024 ont été déposés avec une déclaration de confidentialité (BODACC du 09/07/2026) : 2023 est donc bien le dernier CA publié. Conformes : siège (Champlemy, 58210), actif, président VP SANTE, effectif 20-49."
+  },
+  {
+    "rang": 158,
+    "siren": "325414019",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "resultat",
+        "crm": "363 485",
+        "source": "321 K€ pour l'exercice 2022, celui du CA de 3,6 M€ repris dans le CRM. Dernier exercice (2025) : 68 110 € (CA 3 535 436 €, API). 363 K€ est le résultat de 2023 (CA 3,18 M€).",
+        "url": "https://www.pappers.fr/entreprise/sosemat-325414019"
+      }
+    ],
+    "note": "[MAJEUR] Années mélangées : CA de 2022 (3,6 M€) et résultat de 2023 (363 K€). Le CA reste proche du dernier exercice (+1,8 %), mais le résultat affiché vaut plus de 5 fois le dernier résultat (68 K€). Conformes : siège (Sablières Les Pelus, 58450 Neuvy-sur-Loire), actif, gérant Gilles DEROMEDI. Effectif : 6-9 sur Pappers (donnée 2022), tranche INSEE 2024 = 3-5."
+  },
+  {
+    "rang": 304,
+    "siren": "804178879",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "resultat",
+        "crm": "-176 623",
+        "source": "-184 367 € pour l'exercice clos le 30/09/2025, le même exercice que le CA de 1 211 632 € (API : resultat_net -184367 ; Pappers : -184 K€).",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=804178879"
+      }
+    ],
+    "note": "[MINEUR] Écart d'environ 4 %. Le montant -176 623 € correspond vraisemblablement à la capacité d'autofinancement 2025 (-177 K€ sur Pappers), pas au résultat net. CA exact. Conformes : SNC, siège (rue Henry Bouquillard, 58000 Nevers), active, gérant CREMERIE EXPLOITATION, associé PROPART, effectif 3-5. Pour information, les fonds propres sont négatifs (-1,29 M€)."
+  },
+  {
+    "rang": 291,
+    "siren": "750984064",
+    "verdict": "OK",
+    "ecarts": [],
+    "note": "CA 1 314 921 € et résultat 30 541 € = exercice 2022 (1,31 M€ / 30,5 K€ sur Pappers). Donnée ancienne : au dernier exercice (2025), CA 1 161 489 € et résultat -93 735 € (perte). Dirigeant : le CRM suit le registre (API/RNE : Alain Dominique MOREAU, PDG ; Régine ROY, administratrice). Pappers affiche encore Régine ROY comme PDG depuis 2018 et ne cite pas Alain MOREAU. Pappers semble en retard sur le renouvellement du conseil : de nouveaux administrateurs ne figurent que dans le RNE. L'effectif 10-19 du CRM est la tranche INSEE 2024 (Pappers : 20-49, donnée 2022). Conformes : siège (La Jonction, 58300 Decize), actif. Pappers affiche le nom « SPL CONFLUENCE (PORT DE DECIZE) »."
+  },
+  {
+    "rang": 442,
+    "siren": "892718537",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "ca",
+        "crm": "490 584",
+        "source": "Non publié : comptes 2021 à 2025 déposés avec une déclaration de confidentialité (art. L. 232-25). Aucun montant sur la page Pappers, qui indique seulement « CA inférieur à 700 000 € ou bilan inférieur à 350 000 € en 2021 ».",
+        "url": "https://www.pappers.fr/entreprise/bibollet-menuiserie-892718537"
+      },
+      {
+        "champ": "resultat",
+        "crm": "29 674",
+        "source": "Non publié (finances = null dans l'API).",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=892718537"
+      },
+      {
+        "champ": "ca_non_publie",
+        "crm": "false",
+        "source": "true (comptes confidentiels)",
+        "url": "https://www.pappers.fr/entreprise/bibollet-menuiserie-892718537"
+      }
+    ],
+    "note": "[MAJEUR] Montants introuvables dans les sources primaires : ils ont soit été rattachés à la mauvaise entreprise, soit proviennent d'une source non primaire. Avec 0 salarié (Pappers, donnée 2026 ; tranche INSEE 2024 = 1-2), la société ne remplit pas non plus le critère « 10 salariés ou plus » des fiches sans CA : à retirer ou à corriger. Conformes : raison sociale, siège (ZA du Four à Chaux, 4 rue Henri Darcy, 58300 Decize), actif, président Anthony BIBOLLET."
+  },
+  {
+    "rang": 274,
+    "siren": "448766857",
+    "verdict": "OK",
+    "ecarts": [],
+    "note": "CA 1 445 478 € et résultat 156 609 € = exercice 2024 (1,45 M€ / 157 K€ sur Pappers). Donnée ancienne : le dernier exercice est en recul, avec un CA de 1 086 460 € et un résultat de 29 314 € (« 2025 » sur Pappers, « 2024 » dans l'API), soit un CA inférieur de 25 %. Conformes : siège (rue Norbert Naberis, Le Tremblat, 58200 Cosne-Cours-sur-Loire), actif, président J CUBE, effectif 10-19."
+  },
+  {
+    "rang": 407,
+    "siren": "802626952",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "resultat",
+        "crm": "60 976",
+        "source": "26,3 K€ pour l'exercice 2024, celui du CA de 683 K€ repris dans le CRM. Dernier exercice (clos le 31/10/2025) : 12 724 € (CA 665 868 €, API). 61 K€ est le résultat de 2023 (CA 680 K€).",
+        "url": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
+      }
+    ],
+    "note": "[MOYEN] Années mélangées : CA de 2024 et résultat de 2023. Le CA est proche du dernier exercice (+2,5 %), mais le résultat est surévalué (61 K€ contre 12,7 K€ au dernier exercice). Nom commercial : Hôtel des Sources. Conformes : siège (1315 avenue de Paris, 58320 Pougues-les-Eaux), actif, président Romain TRANCHANT, DG Béatrice LORET, effectif 6-9."
+  },
+  {
+    "rang": 425,
+    "siren": "812962827",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "ca",
+        "crm": "585 361",
+        "source": "429 983 € au dernier exercice, 2024 (API ; 430 K€ sur Pappers). 585 K€ est le CA de 2023, acceptable seul, mais son résultat ne correspond pas (voir ci-dessous).",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=812962827"
+      },
+      {
+        "champ": "resultat",
+        "crm": "6 371",
+        "source": "2,61 K€ en 2023 (année du CA repris) ; 4 546 € en 2024 (dernier exercice). 6,37 K€ est le résultat de 2022 (CA 540 K€).",
+        "url": "https://www.pappers.fr/entreprise/domaine-de-bacchus-812962827"
+      }
+    ],
+    "note": "[MOYEN] Années mélangées : CA de 2023 et résultat de 2022. Le CA est surévalué de 36 % par rapport au dernier exercice. Conformes : siège (3 place des Frères Mollet, 58150 Pouilly-sur-Loire), actif, président AOC NONET HOLDING (depuis 04/2025), 0 salarié."
+  },
+  {
+    "rang": 267,
+    "siren": "329950604",
+    "verdict": "OK",
+    "ecarts": [],
+    "note": "CA 1 531 715 € et résultat 98 102 € = dernier exercice, clos le 31/03/2026 (« 2026 » sur Pappers : 1,53 M€ / 98,1 K€). L'API n'a pas encore intégré cet exercice et affiche le précédent (924 485 € / 44 557 €). Conformes : siège (465 route du Greux, 58130 Urzy), actif, président Hubert RIVETTI, effectif 3-5."
+  },
+  {
+    "rang": 480,
+    "siren": "422236620",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "effectif",
+        "crm": "10-19 salariés",
+        "source": "Tranche INSEE 2024 : 03, soit 6 à 9 salariés (API). Pappers affiche encore « entre 10 et 19 salariés » (donnée 2023).",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=422236620"
+      }
+    ],
+    "note": "[MINEUR] Le CA est bien non publié (confidentialité partielle, déclarations L. 232-25 sur les exercices clos de 03/2017 à 03/2026). Seul le résultat net est visible (215 K€ au dernier exercice affiché, 2025 ; 215 092 € dans l'API), donc le champ résultat pourrait être renseigné. Le critère « 10 salariés ou plus » n'est rempli que d'après la donnée Pappers 2023 ; la tranche officielle la plus récente (2024) est 6-9. Conformes : siège (73 boulevard Camille Dagonneau, 58640 Varennes-Vauzelles), actif, présidente Nathalie BOUTILLON."
+  },
+  {
+    "rang": 491,
+    "siren": "383950268",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "effectif",
+        "crm": "10-19 salariés",
+        "source": "Tranche INSEE 2024 : 03, soit 6 à 9 salariés (API). Pappers affiche encore « 10 à 19 salariés » (donnée 2022).",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=383950268"
+      }
+    ],
+    "note": "[MINEUR] Le CA est bien non publié (confidentialité partielle sur les exercices 2016 à 2025). Résultat net 2025 : -105 843 € (perte). Le critère « 10 salariés ou plus » n'est rempli que d'après la donnée Pappers 2022. Conformes : siège (zone industrielle, 58640 Varennes-Vauzelles), actif, président Thierry GILLET, DG Sandie GILLET (depuis le 28/02/2026)."
+  },
+  {
+    "rang": 478,
+    "siren": "381751171",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "statut",
+        "crm": "Redressement judiciaire (07/10/2015)",
+        "source": "Active, sans procédure collective en cours (Pappers : « 0 procédure collective » ; API : etat_administratif A). Historique : ouverture d'un redressement judiciaire en octobre 2015 (BODACC du 23/10/2015, cessation des paiements au 15/08/2015), plan de redressement arrêté en 2016 (BODACC du 19/06/2016) puis modifié (BODACC du 15/12/2017).",
+        "url": "https://www.pappers.fr/entreprise/amailharro-sarl-381751171"
+      }
+    ],
+    "note": "[MAJEUR] Le statut affiché date de 10 ans et fait passer la société pour une entreprise en difficulté. Afficher « Active (plan de redressement arrêté en 2016) » ou simplement « Active ». Raison sociale : « A.MAILHARRO SARL » dans SIRENE, « A.MAILHARRO » (SASU) sur Pappers. C'est une différence de format, mais la mention SARL est trompeuse pour une SAS(U). Conformes : CA non publié (confidentialité partielle 2022-2025 ; résultat 2024 : 38 807 €), effectif 10-19 (tranche INSEE 2024 : 11), siège (ZI Les Champs Mâles, 58640 Varennes-Vauzelles), président CAREMA INVESTISSEMENTS."
+  },
+  {
+    "rang": 470,
+    "siren": "394326854",
+    "verdict": "OK",
+    "ecarts": [],
+    "note": "Le CA est bien non publié (confidentialité partielle, déclarations L. 232-25 de 2014 à 2025). Résultat 2025 : -29,2 K€ (-29 237 € dans l'API, sous l'année « 2024 »). Effectif 10-19 (Pappers 2022 ; tranche INSEE 2024 : 11), donc critère « 10 salariés ou plus » rempli. Conformes : siège (57 Grande Rue, 58130 Guérigny), actif, gérants Franck et Séverine DELIN."
+  },
+  {
+    "rang": 489,
+    "siren": "500144969",
+    "verdict": "ECART",
+    "ecarts": [
+      {
+        "champ": "dirigeants",
+        "crm": "RICHEMON GROUP INTERNATIONAL II (Président) ; CHRISTIAN TONDU (Gérant) ; STEVEN TONDU (Gérant)",
+        "source": "Dirigeant actuel : RICHEMON GROUP INTERNATIONAL II, président depuis le 18/05/2022. Christian TONDU (président du 27/04/2022 au 01/06/2022) et Steven TONDU (gérant du 07/09/2016 au 27/04/2022) sont d'anciens dirigeants.",
+        "url": "https://www.pappers.fr/entreprise/multivulca-500144969"
+      }
+    ],
+    "note": "[MINEUR] Le CRM reprend des lignes « Gérant » périmées, encore présentes dans l'API/RNE. La société est une SAS depuis 2022, et une SAS n'a pas de gérant. Le dirigeant principal est correct. Conformes : CA non publié (confidentialité partielle ; résultat 2024 : 322 978 €), effectif 10-19 (Pappers 2023 ; tranche INSEE 2024 : 11), siège (70 rue Guy Moquet, 58640 Varennes-Vauzelles), actif."
+  }
+]

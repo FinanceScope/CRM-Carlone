@@ -1,0 +1,20 @@
+Goal: complete the latest published financial figures of a few companies headquartered in the Nièvre (58, France).
+
+Input: /home/claude/crm/ext/{INFILE} — one company per line: SIREN|name|Pappers URL|todo. "todo" contains A (query the government API) and/or P (open the Pappers page).
+
+A — WebFetch https://recherche-entreprises.api.gouv.fr/search?q=SIREN and ask for, VERBATIM, from the TOP-LEVEL company object (not "siege", not "matching_etablissements"): etat_administratif, tranche_effectif_salarie, annee_tranche_effectif_salarie, and the complete "finances" object (every year with ca and resultat_net), or "finances: absent".
+
+P — WebFetch the Pappers page and ask for: the financial table for the most recent years shown (up to 4 years: the year label as shown, chiffre d'affaires, résultat net — copy the text exactly, e.g. "2,36 M€", "606 K€", "-837 K€", or "Non publié" / "Confidentiel"); whether the accounts or the turnover are filed as confidential and since which year; the effectif shown; any procédure collective IN PROGRESS (or ended, with dates), radiation or dissolution.
+
+Keep ONE fetch in flight at a time and wait between fetches if you are rate-limited. If WebFetch reports an hourly limit, wait until the next full UTC hour and continue (use a background sleep, e.g. `sleep 600` run in the background, then retry). Never invent or round numbers; copy them exactly. The shell has no internet; do not use WebSearch.
+
+Write valid JSON (UTF-8) to /home/claude/crm/ext/{OUTFILE} — an array, one object per input line, same order:
+{"siren": "9 digits",
+ "api": null or {"etat_administratif": "...", "tranche_effectif": "code", "annee_tranche_effectif": "YYYY" or null, "finances": {"YYYY": {"ca": int or null, "resultat_net": int or null}} or null},
+ "pappers": null or {"exercices": [{"annee": "YYYY", "date_cloture": "DD/MM/YYYY" or null, "ca": int or null, "resultat": int or null, "ca_txt": "text as shown" or null, "resultat_txt": "text as shown" or null}],
+                     "comptes_confidentiels": true/false, "confidentiels_depuis": "YYYY" or null, "effectif": "text" or null,
+                     "procedure": "short French text on the current situation" or null, "radiee_ou_dissoute": true/false},
+ "note": null or "..."}
+Put "ca" as an integer only when Pappers shows the exact amount; otherwise null with the text in "ca_txt" (same for résultat). Validate with a small python3 -I script.
+
+Reply briefly: companies done, any failures, and for each company the most recent year with a published turnover (or "jamais publié / confidentiel").

@@ -1,0 +1,638 @@
+[
+ {
+  "rang": 3,
+  "nom": "VINCENT SAS",
+  "nom_commercial": "Groupe Vincent (concessions automobiles)",
+  "siren": "571881002",
+  "forme_juridique": "SAS",
+  "date_creation": "1957-01-01",
+  "code_naf": "70.10Z",
+  "adresse": "3 route de Paris, 58640 Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Guillaume VINCENT",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "groupe": "Groupe Vincent (holding familiale ; filiales dont SAS Garage Vincent, Central Parc Automobile)",
+  "effectif": "10-19 (holding) ; ≈450 salariés pour le groupe",
+  "site_web": "https://www.groupevincent.fr",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Holding du Groupe Vincent, distributeur automobile familial fondé à Nevers en 1909 : Citroën, DS, Peugeot, Toyota, Fiat, Jeep, Alfa Romeo, Abarth, Leapmotor, plus location (Distance). 18 sites sur Nièvre, Cher, Allier, Loiret et Val-de-Marne, dont un site à Cosne-sur-Loire ; environ 450 salariés.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Partenaire local présent à Cosne : soirées clients/lancements de modèles, repas d'équipe du site cosnois, remises salariés et sponsoring croisé.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=VINCENT%20SAS&departement=58",
+   "https://www.groupevincent.fr",
+   "https://journalauto.com/distribution/les-bonnes-affaires-du-groupe-vincent-2/"
+  ],
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "ca": 184028385,
+  "resultat": 11600796,
+  "secteur": "Holdings & finance"
+ },
+ {
+  "rang": 28,
+  "nom": "ETABLISSEMENTS MARECHAL",
+  "nom_commercial": "Ets Maréchal",
+  "siren": "300822335",
+  "forme_juridique": "SAS",
+  "date_creation": "1963-01-01",
+  "code_naf": "46.61Z",
+  "adresse": "Route de la Belle Etoile, 58220 Donzy",
+  "ville": "Donzy",
+  "code_postal": "58220",
+  "distance_cosne_km": 17,
+  "dirigeants": [
+   {
+    "nom": "Claude MARECHAL",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Christophe MARECHAL",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": null,
+  "effectif": "20-49 (48 salariés selon Xerfi)",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Distributeur familial de matériel agricole (vente, location, pièces, atelier) fondé en 1963. Siège à Donzy et agences à Corbigny, Sermoise-sur-Loire, Saint-Satur (18) et Torteron (18) ; CA 27,6 M€ en 2024.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Tout proche de Cosne (Donzy, Saint-Satur) : journées clients/portes ouvertes avec traiteur, repas d'affaires avec agriculteurs et repas de fin d'année des 48 salariés.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ETABLISSEMENTS%20MARECHAL&departement=58",
+   "https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335"
+  ],
+  "activite": "Commerce de gros",
+  "ca": 27552969,
+  "resultat": 1113333,
+  "secteur": "Commerce & distribution"
+ },
+ {
+  "rang": 39,
+  "nom": "SAGET LA PERRIERE",
+  "nom_commercial": "Saget La Perrière (Guy Saget, La Perrière)",
+  "siren": "304890817",
+  "forme_juridique": "SA à conseil d'administration",
+  "date_creation": "1975-01-01",
+  "code_naf": "01.21Z",
+  "adresse": "La Castille, RN 7, 58150 Pouilly-sur-Loire",
+  "ville": "Pouilly-sur-Loire",
+  "code_postal": "58150",
+  "distance_cosne_km": 15,
+  "dirigeants": [
+   {
+    "nom": "Laurent Olivier SAGET",
+    "fonction": "Président du conseil d'administration et directeur général"
+   },
+   {
+    "nom": "Arnaud SAGET",
+    "fonction": "Directeur général délégué"
+   },
+   {
+    "nom": "SARL FINANCIERE SAGET",
+    "fonction": "Administrateur"
+   }
+  ],
+  "groupe": "Famille Saget (Financière Saget)",
+  "effectif": "50-99",
+  "site_web": "https://www.sagetlaperriere.com",
+  "telephone": "03 86 39 57 75",
+  "email": null,
+  "linkedin": null,
+  "description": "Maison viticole familiale (9 générations) de Pouilly-sur-Loire possédant cinq domaines le long de la Loire. Marques Guy Saget (une trentaine d'appellations de Loire) et La Perrière (Sauvignon blanc et Pinot noir du Centre-Loire : Pouilly-Fumé, Sancerre…), avec une boutique à Pouilly.",
+  "actualite": "Exposant au salon Wine Paris (stand Pav. 7.3) ; recrute régulièrement des ouvriers viticoles à Pouilly-sur-Loire.",
+  "statut": "Active",
+  "angle_partenariat": "Fournisseur de vins locaux (Pouilly-Fumé, Sancerre) pour la carte du bar et du restaurant, avec soirées dégustation co-organisées.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=SAGET%20LA%20PERRIERE&departement=58",
+   "https://www.falstaff.com/nordics/wineries/saget-la-perriere",
+   "https://wineparis.com/newfront/exhibitor/saget-la-perrire"
+  ],
+  "activite": "Culture et production animale",
+  "ca": 21041920,
+  "resultat": 1570553,
+  "secteur": "Agriculture"
+ },
+ {
+  "rang": 60,
+  "nom": "GEFICCA",
+  "nom_commercial": "GEFICCA (Groupe d'Étude de Fabrication Industrielle de Commercialisation du Caoutchouc)",
+  "siren": "333222214",
+  "forme_juridique": "SAS",
+  "date_creation": "1985-07-24",
+  "code_naf": "22.19Z",
+  "adresse": "ZI Le Tremblat, 5 allée des Entrepreneurs",
+  "ville": "Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 3,
+  "dirigeants": [
+   {
+    "nom": "GEFICCA TECHNOLOGIES",
+    "fonction": "Président (personne morale, depuis le 01/01/2024)"
+   },
+   {
+    "nom": "Vincent DESNOST",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Abel KAICHOUH",
+    "fonction": "Directeur général"
+   }
+  ],
+  "groupe": "Geficca Technologies (holding, également présidente de SMAC à La Garde - 83)",
+  "effectif": "50-99",
+  "site_web": "https://www.geficca.fr",
+  "telephone": "03 86 39 59 75",
+  "email": "contact@geficca.fr",
+  "linkedin": "https://www.linkedin.com/company/geficca-s-a-",
+  "description": "Spécialiste des solutions élastomères sur mesure depuis plus de 40 ans : pièces techniques en caoutchouc moulées et surmoulées (antivibratoire/acoustique, étanchéité, revêtements, caoutchouc connecté) pour l'industrie, la manutention, l'énergie, la défense, le sport, l'automobile, l'agroalimentaire et le médical. Note Egapro 2025 de 99/100.",
+  "actualite": "Nouvel établissement ouvert à Cosne en 2024 ; exposant au salon Global Industrie 2024.",
+  "statut": "Active",
+  "angle_partenariat": "Employeur industriel de Cosne (50-99 salariés, ZI du Tremblat) : afterworks, repas d'équipe, fêtes de fin d'année et déjeuners d'affaires avec clients industriels en visite.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GEFICCA",
+   "https://www.pappers.fr/entreprise/333222214",
+   "https://www.geficca.fr",
+   "https://mygi.global-industrie.com/event/gi-2024-salon-exhibition/exhibitor/RXhoaWJpdG9yXzE0MTMyODU="
+  ],
+  "activite": "Caoutchouc et plastique",
+  "ca": 12615989,
+  "resultat": 837143,
+  "secteur": "Industrie"
+ },
+ {
+  "rang": 89,
+  "nom": "SOYEZ FRERES SA",
+  "nom_commercial": "Soyez Frères",
+  "siren": "671880227",
+  "forme_juridique": "SAS",
+  "date_creation": "1961-01-01",
+  "code_naf": "17.22Z",
+  "adresse": "Lieu-dit Usine de la Bertine, 58220 Donzy",
+  "ville": "Donzy",
+  "code_postal": "58220",
+  "distance_cosne_km": 18,
+  "dirigeants": [
+   {
+    "nom": "Frédéric Soyez",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Pierre Soyez",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": null,
+  "effectif": "50-99 (75 salariés)",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/soyez-freres",
+  "description": "Entreprise familiale de transformation du papier (articles en papier à usage sanitaire ou domestique) installée à l'usine de la Bertine à Donzy depuis 1961. Environ 75 salariés, dirigée par la famille Soyez.",
+  "actualite": "Pertes successives : CA en baisse (8,3 M€ en 2022 → 6,9 M€ en 2024) et résultat net 2024 de -1,05 M€, sans procédure collective à ce jour.",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires pour les clients/fournisseurs de passage et repas de fin d'année ou afterworks pour ~75 salariés à 18 km de Cosne.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=671880227",
+   "https://www.pappers.fr/entreprise/soyez-freres-sa-671880227",
+   "https://www.xerfi.com/etudes-par-entreprise/soyez-freres_671880227"
+  ],
+  "activite": "Industrie du papier et du carton",
+  "ca": 8338464,
+  "resultat": -866073,
+  "secteur": "Imprimerie & papier"
+ },
+ {
+  "rang": 1,
+  "nom": "APERAM ALLOYS IMPHY",
+  "nom_commercial": "Aperam Alloys Imphy",
+  "siren": "440326692",
+  "forme_juridique": "SAS",
+  "date_creation": "2001-12-31",
+  "code_naf": "24.45Z",
+  "adresse": "Avenue Jean Jaurès, 58160 Imphy",
+  "ville": "Imphy",
+  "code_postal": "58160",
+  "distance_cosne_km": 68,
+  "dirigeants": [
+   {
+    "nom": "Frédéric MATTEI",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Aperam (groupe sidérurgique, Luxembourg)",
+  "effectif": "500-999",
+  "site_web": "https://www.aperam.com",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Usine historique d'Imphy spécialisée dans la métallurgie de précision : alliages à base de nickel, alliages magnétiques (Supra 50, AFK 502), Invar et alliages spéciaux pour l'automobile, l'aéronautique/spatial, l'énergie, le médical et l'électronique. Centre de recherche lié à la découverte de l'Invar (prix Nobel 1920). CA 2024 d'environ 887 M€.",
+  "actualite": "Visite du ministre délégué chargé de l'Industrie Sébastien Martin sur le site nivernais d'Aperam (juin 2026, d'après Boursier.com/LinkedIn) ; le groupe Aperam a annoncé en 2025 une baisse de son EBITDA.",
+  "statut": "Active",
+  "angle_partenariat": "Afterworks et repas de fin d'année pour les équipes (500+ salariés), déjeuners d'affaires pour clients/fournisseurs industriels de passage sur l'axe Paris–Nevers.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=APERAM%20ALLOYS%20IMPHY&departement=58",
+   "https://travail-industrie.com/employeurs/aperam-alloys-imphy-440326692",
+   "https://www.aperam.com/fr/?p=1334",
+   "https://www.boursedirect.fr/fr/actualites/categorie/divers/aperam-sebastien-martin-ministre-delegue-charge-de-l-industrie-se-rend-dans-la-nievre-boursier-3a84668c0639c2553ed40cbb0c83762afbd561d1"
+  ],
+  "activite": "Métallurgie",
+  "ca": 887454070,
+  "resultat": 12867609,
+  "secteur": "Industrie"
+ },
+ {
+  "rang": 10,
+  "nom": "SOC NEVERS DIS",
+  "nom_commercial": "E.Leclerc Nevers (Coulanges-lès-Nevers / Saint-Éloi)",
+  "siren": "327098364",
+  "forme_juridique": "SAS",
+  "date_creation": "1983-04-01",
+  "code_naf": "47.11F",
+  "adresse": "Boulevard Beauregard, 58660 Coulanges-lès-Nevers",
+  "ville": "Coulanges-lès-Nevers",
+  "code_postal": "58660",
+  "distance_cosne_km": 53,
+  "dirigeants": [
+   {
+    "nom": "Jean-François MOUSSET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Nadia MOUSSET (MADAIRE)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": "Mouvement E.Leclerc (adhérent) ; holding Vanajef",
+  "effectif": "200-249",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Société d'exploitation de l'hypermarché E.Leclerc de Coulanges-lès-Nevers et de ses activités annexes (drive Leclerc rue des Docks à Nevers, établissement enseigne Leclerc à Saint-Éloi, parapharmacie…). Magasin indépendant adhérent du Mouvement E.Leclerc dirigé par la famille Mousset.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Repas/soirées d'équipe pour ~200 salariés, et opérations commerciales croisées (jeux-concours, bons de réduction) ; potentiel limité par la distance.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=SOC%20NEVERS%20DIS&departement=58",
+   "https://www.au-magasin.fr/58000-nevers/leclerc-drive-135754.html"
+  ],
+  "activite": "Commerce de détail",
+  "ca": 82439898,
+  "resultat": 1778421,
+  "secteur": "Commerce & distribution"
+ },
+ {
+  "rang": 16,
+  "nom": "TOYOTA CONCES NEVERS CENTRAL PARC AUTOMOBILE",
+  "nom_commercial": "Toyota Nevers / Central Parc Automobile",
+  "siren": "422593491",
+  "forme_juridique": "SAS",
+  "date_creation": "1999-04-06",
+  "code_naf": "45.11Z",
+  "adresse": "1 route de Paris, 58640 Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Groupe Vincent",
+  "effectif": "50-99",
+  "site_web": "https://www.groupevincent.fr",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Concessions Toyota du Groupe Vincent : Nevers/Varennes-Vauzelles, Saint-Doulchard (Bourges), Avermes (Moulins) et Montluçon.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "À traiter avec le Groupe Vincent (même dirigeant) : événements clients et soirées d'équipe.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=TOYOTA%20CONCES%20NEVERS%20CENTRAL%20PARC%20AUTOMOBILE",
+   "https://www.groupevincent.fr"
+  ],
+  "activite": "Commerce et réparation automobile",
+  "ca": 44575907,
+  "resultat": 980611,
+  "secteur": "Automobile"
+ },
+ {
+  "rang": 25,
+  "nom": "ANTARES",
+  "nom_commercial": "Intermarché Super La Charité-sur-Loire",
+  "siren": "419013297",
+  "forme_juridique": "SAS",
+  "date_creation": "1998-06-02",
+  "code_naf": "47.11D",
+  "adresse": "2 rue des Plantes des Religieuses, 58400 La Charité-sur-Loire",
+  "ville": "La Charité-sur-Loire",
+  "code_postal": "58400",
+  "distance_cosne_km": 30,
+  "dirigeants": [
+   {
+    "nom": "ALFOCEA",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Fanny JAUDON (STIOT)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": "Groupement Les Mousquetaires (Intermarché)",
+  "effectif": "20-49",
+  "site_web": "https://www.intermarche.com/magasin?pdvref=02766",
+  "telephone": "03 86 70 28 62",
+  "email": null,
+  "linkedin": null,
+  "description": "Société exploitant le supermarché Intermarché Super de La Charité-sur-Loire (avec station-service et drive).",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Animations croisées et sponsoring local, voire approvisionnement d'appoint ; repas d'équipe pour les salariés du magasin.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ANTARES&departement=58",
+   "https://www.118000.fr/e_C0101989445"
+  ],
+  "activite": "Commerce de détail",
+  "ca": 28757298,
+  "resultat": 1225614,
+  "secteur": "Commerce & distribution"
+ },
+ {
+  "rang": 35,
+  "nom": "LOOK FIXATIONS SA",
+  "nom_commercial": "LOOK Cycle",
+  "siren": "397727397",
+  "forme_juridique": "SAS",
+  "date_creation": "1994-07-01",
+  "code_naf": "32.30Z",
+  "adresse": "2 rue de la Pique, 58000 Nevers",
+  "ville": "Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "Damien Luc Marie OLAGNE",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "LOOK Cycle International (actionnaire majoritaire Activa Capital depuis 2016)",
+  "effectif": "50-99",
+  "site_web": "https://www.lookcycle.com",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Société du groupe LOOK Cycle, fabricant nivernais haut de gamme de vélos (route, gravel, piste, VAE), cadres carbone et pédales automatiques, inventeur de la pédale automatique. Produits vendus dans plus de 80 pays ; second site à Varennes-Vauzelles.",
+  "actualite": "LOOK a fourni le vélo de piste P24 à l'équipe de France pour les JO de Paris 2024 et équipe l'équipe cycliste Cofidis ; la marque de roues Corima a été cédée en 2024.",
+  "statut": "Active",
+  "angle_partenariat": "Marque forte et sportive : événements autour du vélo (sorties club, soirée Tour de France), sponsoring croisé et repas d'équipe.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=LOOK%20FIXATIONS&departement=58",
+   "https://en.wikipedia.org/wiki/Look_Cycle_International"
+  ],
+  "activite": "Autres industries manufacturières",
+  "ca": 23959765,
+  "resultat": 797554,
+  "secteur": "Industrie"
+ },
+ {
+  "rang": 44,
+  "nom": "G.C.E. SAS",
+  "nom_commercial": "GCE (Gas Control Equipment)",
+  "siren": "562010454",
+  "forme_juridique": "SASU",
+  "date_creation": "1974-01-01",
+  "code_naf": "46.69B",
+  "adresse": "70 rue du Puits Charles",
+  "ville": "La Charité-sur-Loire",
+  "code_postal": "58400",
+  "distance_cosne_km": 30,
+  "dirigeants": [
+   {
+    "nom": "Mathieu BENIER",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Curtis Evan JEWELL",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Piyushkumar SHETH",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Tommaso TOFFOLO",
+    "fonction": "Directeur général"
+   }
+  ],
+  "groupe": "GCE Group / ESAB (GCE est une marque de la famille ESAB depuis le rachat de Gas Control Equipment par ESAB)",
+  "effectif": "10-19 (14 salariés en 2025)",
+  "site_web": "https://gcegroup.com",
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/gce-group",
+  "description": "Filiale française de GCE (Gas Control Equipment) : fabrication et vente d'équipements pour la soudure autogène, détendeurs et vannes pour gaz industriels et médicaux. Rattachée au groupe international ESAB (soudage/coupage).",
+  "actualite": "Changements de direction en 2024-2026 (nouveau DG Curtis Jewell en juin 2026) ; CA en baisse à 17,8 M€ en 2025.",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires pour les visiteurs/clients internationaux du groupe ESAB et déjeuners d'équipe, à 30 km de Cosne.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=G.C.E.%20SAS&departement=58",
+   "https://www.pappers.fr/entreprise/562010454",
+   "https://esab.com/am/eur_en/brands/esab-family-brands/gce/",
+   "https://gcegroup.com/about"
+  ],
+  "activite": "Commerce de gros",
+  "ca": 19287312,
+  "resultat": 717363,
+  "secteur": "Commerce & distribution"
+ },
+ {
+  "rang": 61,
+  "nom": "DANIELSON ENGINEERING",
+  "nom_commercial": "Groupe Danielson",
+  "siren": "409564481",
+  "forme_juridique": "SAS",
+  "date_creation": "1996-10-23",
+  "code_naf": "28.11Z",
+  "adresse": "Technopole, 58470 Magny-Cours",
+  "ville": "Magny-Cours",
+  "code_postal": "58470",
+  "distance_cosne_km": 65,
+  "dirigeants": [
+   {
+    "nom": "GROUPE DANIELSON (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Groupe Danielson (SIREN 507748283)",
+  "effectif": "50-99 (83 salariés en 2024 ; ~130 pour le groupe)",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/danielson-engineering",
+  "description": "Bureau d'études et atelier mécanique du technopôle de Magny-Cours : conception, fabrication et mise au point de moteurs et pièces mécaniques (fonderie, usinage, soudure) pour l'aéronautique, l'automobile et le sport auto. Le groupe Danielson conçoit notamment les moteurs turbodiesel Trident destinés aux drones.",
+  "actualite": "Deux projets de fusion déposés en février et avril 2026 (réorganisation intragroupe) ; CA 2025 en recul de 13 % à 10,7 M€.",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires pour les clients/partenaires industriels et sportifs du technopôle de Magny-Cours, et afterworks d'équipe pour ~80 salariés.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=DANIELSON%20ENGINEERING&departement=58",
+   "https://www.pappers.fr/entreprise/409564481",
+   "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/"
+  ],
+  "activite": "Fabrication de machines et équipements",
+  "ca": 12364671,
+  "resultat": 728286,
+  "secteur": "Industrie"
+ },
+ {
+  "rang": 70,
+  "nom": "TEXYS INTERNATIONAL",
+  "nom_commercial": "Texys Group / Texense",
+  "siren": "490935756",
+  "forme_juridique": "SASU",
+  "date_creation": "2006-01-01",
+  "code_naf": "26.51B",
+  "adresse": "ZA des Chamonds, 16 rue Edouard Branly, 58640 Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "TEXYS HD (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Texys Group (Texys HD), allié à FOGALE Sensors depuis décembre 2023",
+  "effectif": "20-49 (42 salariés en 2025)",
+  "site_web": "https://www.texysgroup.com",
+  "telephone": "+33 3 86 21 27 18",
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/texys-group",
+  "description": "Concepteur et fabricant de capteurs (marque Texense) pour la course automobile, l'automobile, l'aéronautique et l'industrie : capteurs de température infrarouge, accéléromètres, pression, jauges de contrainte, fibre optique. Fondée par un ancien responsable électronique d'écurie de F1.",
+  "actualite": "Union avec FOGALE Sensors (Nîmes) fin 2023 ; absorption d'Optel-Texys au 1er janvier 2025 et nouveau projet de fusion déposé en septembre 2026. Très rentable (2,8 M€ de résultat 2025).",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires pour clients internationaux (motorsport, aéronautique) et afterworks pour une équipe d'ingénieurs d'une quarantaine de personnes.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=texys+international",
+   "https://www.pappers.fr/entreprise/490935756",
+   "https://kvaser.com/company/texys-international/",
+   "https://www.vehiculedufutur.com/uploads/images/News-et-opportunites/Texys/20240129_CdP_Texys.pdf"
+  ],
+  "activite": "Produits informatiques, électroniques et optiques",
+  "ca": 11254070,
+  "resultat": 2830621,
+  "secteur": "Industrie"
+ },
+ {
+  "rang": 90,
+  "nom": "STYL'HABITAT",
+  "nom_commercial": "Styl'Habitat",
+  "siren": "338657604",
+  "forme_juridique": "SAS",
+  "date_creation": "1986-08-01",
+  "code_naf": "41.10A",
+  "adresse": "21 rue des Merciers, 58000 Nevers (agence : 29 boulevard de la République, 58200 Cosne-Cours-sur-Loire)",
+  "ville": "Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "GBS II (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Arnaud Labaune",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": "GBS II (holding présidente)",
+  "effectif": "10-19 (10 salariés en 2025)",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Constructeur de maisons individuelles avec des agences à Nevers, Cosne-Cours-sur-Loire, Bourges et Châteauroux. Clientèle de particuliers dans la Nièvre, le Cher, l'Indre et le Loiret.",
+  "actualite": "Siège transféré de Varennes-Vauzelles à Nevers en 2026 ; CA 2025 en net recul (6,52 M€ contre 8,33 M€) avec une perte de 312 K€.",
+  "statut": "Active",
+  "angle_partenariat": "Agence à Cosne (bd de la République) : déjeuners clients et signatures de contrats, et offre croisée « bienvenue » pour les nouveaux propriétaires de la région.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=STYL%27HABITAT&departement=58",
+   "https://www.pappers.fr/entreprise/stylhabitat-338657604",
+   "https://www.forumconstruire.com/recits/constructeur-1056-styl-habitat.php"
+  ],
+  "activite": "Construction de bâtiments",
+  "ca": 8332303,
+  "resultat": 107617,
+  "secteur": "BTP & matériaux"
+ },
+ {
+  "rang": 96,
+  "nom": "CIA IMPRIMERIE",
+  "nom_commercial": "CIA Graphic (enseignes CIA Bourgogne, IB Imprimerie, CIA Direct, CIA Com)",
+  "siren": "404816712",
+  "forme_juridique": "SAS",
+  "date_creation": "1996-03-15",
+  "code_naf": "18.12Z",
+  "adresse": "Zone Industrielle, 58320 Pougues-les-Eaux",
+  "ville": "Pougues-les-Eaux",
+  "code_postal": "58320",
+  "distance_cosne_km": 45,
+  "dirigeants": [
+   {
+    "nom": "2B FINANCE ET CONSEILS (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "2B Finance et Conseils (holding présidente)",
+  "effectif": "20-49 (30 salariés en 2025)",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/imprimerie-ciagraphic",
+  "description": "Imprimerie de labeur (tous travaux d'impression) à Pougues-les-Eaux, qui se présente comme « l'imprimeur près de chez vous ». Titulaire de marchés publics nationaux (Institut national du cancer, 2023).",
+  "actualite": "CA en recul de 7,73 M€ (2023) à 5,74 M€ (2025), avec un résultat d'exploitation négatif en 2025.",
+  "statut": "Active",
+  "angle_partenariat": "Fournisseur local de supports imprimés (menus, cartes, affiches d'événements) en échange de visibilité ou de repas d'équipe.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=CIA%20IMPRIMERIE&departement=58",
+   "https://www.pappers.fr/entreprise/cia-imprimerie-404816712",
+   "https://my.motherbase.ai/company/202689-imprimerie-ciagraphic"
+  ],
+  "activite": "Imprimerie",
+  "ca": 7725252,
+  "resultat": 317557,
+  "secteur": "Imprimerie & papier"
+ }
+]

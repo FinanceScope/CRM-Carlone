@@ -1,0 +1,245 @@
+[
+  {
+    "siren": "302555222",
+    "nom_commercial": null,
+    "groupe": "Groupe Novarc (BU Motion & Industry)",
+    "description": "Fabrication et vente en gros de produits chimiques de détergence (nettoyage et entretien) pour une clientèle professionnelle, depuis son site de la ZI du Tremblat à Cosne-Cours-sur-Loire. Société du groupe drômois Novarc (sa présidente), dont la BU Motion & Industry conçoit des produits de nettoyage, de protection et de maintenance pour véhicules, machines et infrastructures.",
+    "actualite": "Juin 2026 : changement à la direction déléguée, avec la fin du mandat de directeur général délégué de David Rollé (BODACC du 16/06/2026) ; le registre mentionne désormais Cédric Bra et Vincent Pheby comme directeurs généraux délégués.",
+    "site_web": null,
+    "telephone": null,
+    "email": null,
+    "linkedin": "https://www.linkedin.com/company/detergence-industrielle-francaise",
+    "interlocuteur_cible": {
+      "nom": "Cédric Bra",
+      "fonction": "Directeur général délégué (aux côtés de Vincent Pheby, directeur du développement de la BU Motion & Industry de Novarc)",
+      "source": "Registre"
+    },
+    "site_local": "ZI du Tremblat, rue de Villechaud, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Site industriel implanté à Cosne (ZI du Tremblat, 2 km, 10-19 salariés) et rattaché au groupe Novarc : déjeuners d'affaires avec clients, fournisseurs et cadres du groupe en visite, repas d'équipe et repas de fin d'année.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/dif-detergence-industrielle-francaise-302555222",
+      "https://recherche-entreprises.api.gouv.fr/search?q=302555222",
+      "https://recherche-entreprises.api.gouv.fr/search?q=380765131",
+      "https://www.xerfi.com/etudes-par-entreprise/detergence-industrielle-francaise_302555222",
+      "https://journalauto.com/non-classe/novarc-motion-industry-une-nouvelle-ere-souvre-avec-la-marque-kcx-excellence-for-experts/"
+    ]
+  },
+  {
+    "siren": "811119403",
+    "nom_commercial": null,
+    "groupe": "EF Transports (holding de la famille El Fayzi, Cosne)",
+    "description": "Transporteur routier de fret de proximité spécialisé dans le transport de béton et les prestations de services liées au béton, installé depuis 2018 rue des Fondeurs à Cosne-Cours-sur-Loire. PME de 20 à 49 salariés dirigée par Mustapha et Ibrahim El Fayzi.",
+    "actualite": null,
+    "site_web": null,
+    "telephone": null,
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Mustapha El Fayzi",
+      "fonction": "Co-gérant (avec Ibrahim El Fayzi)",
+      "source": "Registre"
+    },
+    "site_local": "Rue des Fondeurs, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Transporteur de béton basé à Cosne même (20-49 salariés, équipes de chauffeurs) : repas d'équipe, pots et repas de fin d'année, déjeuners avec ses donneurs d'ordre du BTP.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/el-fayzi-811119403",
+      "https://recherche-entreprises.api.gouv.fr/search?q=811119403",
+      "https://recherche-entreprises.api.gouv.fr/search?q=491387023"
+    ]
+  },
+  {
+    "siren": "794456921",
+    "nom_commercial": null,
+    "groupe": "Groupe Energie Bâtiment (holding, Germigny-sur-Loire)",
+    "description": "Entreprise de plomberie, chauffage, climatisation et énergies renouvelables (chaudières gaz, fioul et bois, pompes à chaleur, solaire), qualifiée Qualibat-RGE, installée 7 allée des Entrepreneurs à Cosne-Cours-sur-Loire (21 salariés en 2024). Elle intervient aussi sur des marchés publics de communes (lots chauffage, ventilation, plomberie).",
+    "actualite": "31/12/2025 : fermeture de ses trois établissements secondaires (Tracy-sur-Loire, Château-Chinon, Saint-Léger-des-Vignes) ; seul le siège de Cosne reste actif.",
+    "site_web": null,
+    "telephone": "03 86 28 33 67",
+    "email": "energie-2000@wanadoo.fr",
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Sébastien Thomas",
+      "fonction": "Gérant de Groupe Energie Bâtiment, société présidente",
+      "source": "Registre"
+    },
+    "site_local": "7 allée des Entrepreneurs, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Employeur du bâtiment basé à Cosne (4 km, 21 salariés) : repas d'équipe et afterworks, repas de fin d'année, déjeuners avec fournisseurs et maîtres d'ouvrage ; partenariat local possible avec cet artisan RGE du territoire (entretien chauffage-climatisation, visibilité croisée).",
+    "sources": [
+      "https://www.pappers.fr/entreprise/energie-2000-plus-794456921",
+      "https://recherche-entreprises.api.gouv.fr/search?q=794456921",
+      "https://recherche-entreprises.api.gouv.fr/search?q=827895129",
+      "https://les-energies-renouvelables.eu/annuaire_search_result/3175-energie-2000-plus/",
+      "https://www.hellowatt.fr/chauffage/chauffagistes/nievre/cosne-cours-sur-loire"
+    ]
+  },
+  {
+    "siren": "387932437",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Abattoir multi-espèces (bovins, ovins, porcins) de la ZI du Tremblat à Cosne-Cours-sur-Loire, au service des éleveurs du secteur. Exploité par une SA coopérative dont le conseil d'administration associe administrateurs privés et collectivités (commune de Cosne-Cours-sur-Loire, Agglomération de Nevers).",
+    "actualite": "10/12/2025 : activité suspendue temporairement par la préfecture de la Nièvre après la diffusion d'une enquête vidéo de l'association L214 (enquête judiciaire ouverte) ; gouvernance remaniée depuis, avec Alain Beauvois président-directeur général et l'entrée de l'Agglomération de Nevers au conseil (juillet 2026).",
+    "site_web": null,
+    "telephone": "+33 3 86 28 57 02",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Alain Beauvois",
+      "fonction": "Président-directeur général",
+      "source": "Registre"
+    },
+    "site_local": "Zone industrielle Le Tremblat, 58200 Cosne-Cours-sur-Loire",
+    "site_cosne": true,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Abattoir de proximité de Cosne (ZI du Tremblat, 4 km, 10-19 salariés), maillon de la filière viande locale : partenariat avec les éleveurs du territoire pour un approvisionnement en circuit court et repas d'équipe ; contexte sensible depuis la suspension de décembre 2025, à aborder avec prudence.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/cosne-abattoirs-du-haut-val-de-loire-387932437",
+      "https://www.macommune.info/nievre-un-abattoir-suspendu-apres-des-accusations-de-l214/",
+      "https://www.l214.com/wp-content/uploads/2025/12/CP_prefecture_nievre_10.12.2025.pdf",
+      "https://nievre.fr/wp-content/uploads/2025/12/CP-Abattoir-de-Cosne.pdf",
+      "https://www.reussir.fr/bovins-viande/abattoir-de-corbigny-un-defi-relever",
+      "https://travail-industrie.com/risques-industriels/site/cosne-abattoirs-du-haut-val-de-loire-cours",
+      "https://gowork.fr/cosne-abattoirs-du-haut-v-cosne-cours-sur-loire"
+    ]
+  },
+  {
+    "siren": "320926249",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Fabrication de moulures pour encadrement et travail du bois en général, dans son atelier du 1 rue Jolin à La Celle-sur-Loire (11 km de Cosne). PME de 10 à 19 salariés.",
+    "actualite": "01/02/2025 : nouvelle direction, la société INIGO (holding de Biarritz présidée par François-Régis de Reboul) devenant présidente après le départ de la gérante Brigitte Le Sellier de Chezelles fin 2024, avec transformation en SAS (BODACC du 08/04/2025).",
+    "site_web": null,
+    "telephone": null,
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "François-Régis de Reboul",
+      "fonction": "Président d'INIGO, présidente de la société depuis le 01/02/2025",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Atelier du bois de La Celle-sur-Loire (11 km, 10-19 salariés), sous nouvelle direction depuis 2025 : repas d'équipe et de fin d'année, et partenariat local (moulures et encadrement d'œuvres pour des expositions, visibilité croisée d'un savoir-faire du territoire).",
+    "sources": [
+      "https://www.pappers.fr/entreprise/etablissements-billebault-320926249",
+      "https://recherche-entreprises.api.gouv.fr/search?q=913685988"
+    ]
+  },
+  {
+    "siren": "334925070",
+    "nom_commercial": null,
+    "groupe": null,
+    "description": "Entreprise d'exploitation forestière (abattage, bûcheronnage et sortie des bois, achat, vente et sciage de bois) basée à La Fontaine Pitard, 1350 route de la Villeneuve à Neuvy-sur-Loire (18 km de Cosne). PME de 20 à 49 salariés dirigée par Michel Beauvois.",
+    "actualite": null,
+    "site_web": null,
+    "telephone": "+33 3 86 39 24 70",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Michel Beauvois",
+      "fonction": "Gérant",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": true,
+    "angle_partenariat": "Entreprise forestière de Neuvy-sur-Loire (18 km, 20-49 salariés) : repas d'équipe et de fin d'année pour les équipes de chantier, déjeuners d'affaires avec propriétaires forestiers et acheteurs de bois ; partenariat local autour du bois du territoire (visibilité croisée).",
+    "sources": [
+      "https://www.pappers.fr/entreprise/sarl-beauvois-freres-334925070",
+      "https://www.cylex-locale.fr/entreprises/beauvois-fr%c3%a8res-sarl-13046603.html"
+    ]
+  },
+  {
+    "siren": "518047618",
+    "nom_commercial": "Garage Didier Peinture",
+    "groupe": "Réseau Renault (agent Renault et Dacia)",
+    "description": "Garage familial fondé en 1994, agent Renault et Dacia : mécanique, carrosserie, pneumatiques, vente de véhicules neufs et d'occasion, dépannage. Deux ateliers en Puisaye : 13 rue de la Forterre à Bouhy (siège) et route de Saint-Sauveur à Saint-Amand-en-Puisaye.",
+    "actualite": null,
+    "site_web": "https://www.garage-roches.fr/",
+    "telephone": "03 86 26 42 63",
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Eddie Roches",
+      "fonction": "Gérant",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Garage de Puisaye (Bouhy et Saint-Amand-en-Puisaye, une vingtaine de km de Cosne, 10-19 salariés) : repas d'équipe et de fin d'année, déjeuners avec les représentants du réseau Renault de passage, et visibilité croisée auprès de sa clientèle locale.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/sarl-roches-518047618",
+      "https://www.garage-roches.fr/",
+      "https://acceslibre.beta.gouv.fr/app/58-bouhy/a/carrosserie/erp/renault-at-sarl-roches-garage-didier-peinture/rpa_pdf",
+      "https://www.idgarages.com/fr-fr/garage/bouhy/GB24159_sarl-roches-garage-didier-peinture"
+    ]
+  },
+  {
+    "siren": "384831046",
+    "nom_commercial": "Ambulances Charitoises",
+    "groupe": null,
+    "description": "Entreprise de transport sanitaire (ambulances) et de taxi basée à La Charité-sur-Loire : transport de patients, transport de corps, transport urgent de médicaments et de colis. PME de 20 à 49 salariés.",
+    "actualite": null,
+    "site_web": null,
+    "telephone": null,
+    "email": null,
+    "linkedin": null,
+    "interlocuteur_cible": {
+      "nom": "Laurent Girard",
+      "fonction": "Président (David Gonin, directeur général)",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Entreprise d'ambulances et de taxi de La Charité-sur-Loire (30 km, 20-49 salariés) : repas d'équipe et de fin d'année, avantages pour les salariés ; partenariat local possible autour de son activité taxi (transport de convives lors d'événements).",
+    "sources": [
+      "https://www.pappers.fr/entreprise/societe-dexploitation-des-ambulances-charitoises-384831046",
+      "https://recherche-entreprises.api.gouv.fr/search?q=384831046",
+      "https://www.justacote.com/nievre/taxi/"
+    ]
+  },
+  {
+    "siren": "345375661",
+    "nom_commercial": "DeCA Propreté (agence de Nevers)",
+    "groupe": "DeCA Propreté",
+    "description": "Entreprise de propreté (nettoyage régulier de bureaux, commerces, sites industriels et administrations, vitrerie, remise en état, désinfection), agence nivernaise du groupe DeCA Propreté basée 7-9 rue des Prés à Nevers. Elle intervient dans la Nièvre et les départements voisins (Cher, Loiret, Allier, Côte-d'Or, Saône-et-Loire, Indre) ; 250 à 499 salariés.",
+    "actualite": "08/04/2025 : notification par la Région Auvergne-Rhône-Alpes d'un accord-cadre de nettoyage de 4 ans dont elle est attributaire (marchés publics recensés par Pappers).",
+    "site_web": "https://www.deca-proprete.fr/notre-groupe-deca-proprete/nos-entreprises-de-nettoyage/entreprise-nettoyage-nevers-nievre-03/",
+    "telephone": "03 86 57 25 05",
+    "email": null,
+    "linkedin": "https://www.linkedin.com/company/deca-propret%C3%A9/",
+    "interlocuteur_cible": {
+      "nom": "Bruno Deceunynck",
+      "fonction": "Président (fondateur du groupe DeCA Propreté)",
+      "source": "Registre"
+    },
+    "site_local": null,
+    "site_cosne": false,
+    "statut": "Active",
+    "opposition_prospection": false,
+    "angle_partenariat": "Gros employeur de la propreté (250-499 salariés, siège à Nevers, 55 km) dont les équipes interviennent dans la Nièvre : avantages salariés relayés par le CSE, repas de fin d'année ou journées d'équipe pour l'encadrement, et partenariat fournisseur local pour l'entretien des locaux.",
+    "sources": [
+      "https://www.pappers.fr/entreprise/egtn-entreprise-generale-de-travaux-et-de-nettoyage-345375661",
+      "https://www.deca-proprete.fr/notre-groupe-deca-proprete/nos-entreprises-de-nettoyage/entreprise-nettoyage-nevers-nievre-03/",
+      "https://www.deca-proprete.fr/notre-groupe-deca-proprete/",
+      "https://www.deca-proprete.fr/",
+      "https://www.bottin.fr/fiche-locale/ggdeigfhfhbeagefdbc--egtn-entreprise-de-nettoyage--nevers.htm"
+    ]
+  }
+]

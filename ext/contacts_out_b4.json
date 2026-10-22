@@ -1,0 +1,121 @@
+[
+ {
+  "siren": "409109360",
+  "standard": {
+   "tel": "03 86 25 45 24",
+   "source": "https://www.bricomarche.com/magasin/decize/01832"
+  },
+  "email_generique": null,
+  "site_web": "https://www.bricomarche.com/magasin/decize/01832",
+  "decideur_financier": {
+   "nom": "Mathias MARDELE",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/vertine-409109360"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Marie-Christine MARDELE (DOS SANTOS)",
+    "fonction": "Directeur Général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/vertine-409109360"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "VERTINE exploite le magasin Bricomarché de Decize (22 b route de Champvert) ; site_web = page magasin de l'enseigne (pas de site propre trouvé). Présidente : la holding MAREDCA ; deux DG familiaux (Mathias et Marie-Christine MARDELE), sans qu'on sache lequel gère les finances. Pas de DAF attendu (10-19 salariés). Aucun e-mail magasin lisible sur la page de l'enseigne."
+ },
+ {
+  "siren": "452486673",
+  "standard": {
+   "tel": "03 86 36 02 14",
+   "source": "https://www.au-magasin.fr/58000-nevers/monceau-fleurs-216836.html"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Frédéric SIGNORET",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sifleurs-452486673"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pascal SIGNORET",
+    "fonction": "Co-exploitant (avec son frère Frédéric) des franchises Monceau Fleurs ; rôle dans SIFLEURS non confirmé",
+    "tel": null,
+    "email": null,
+    "source": "https://www.toute-la-franchise.com/news-monceau-fleurs-nevers"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "SIFLEURS = franchise Monceau Fleurs des frères Signoret (en 2016 : 7 points de vente à Nevers, Moulins, Bourges et Cosne, environ 30 fleuristes). Le numéro est celui du magasin Monceau Fleurs du centre de Nevers (3 rue Mademoiselle Bourgeois). Il vient d'un annuaire (au-magasin.fr), donc source faible à vérifier. Un 2e magasin Monceau Fleurs existe à Nevers (42 bd du Grand Pré des Bordes). Siège déclaré : 5 rue Voltaire."
+ },
+ {
+  "siren": "302331889",
+  "standard": {
+   "tel": "03 86 71 99 40",
+   "source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
+  },
+  "email_generique": {
+   "email": "magasin.nevers@faurie.fr",
+   "source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
+  },
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Eric MARTIN",
+   "fonction": "General manager (fiche concession Renault Trucks)",
+   "type": "autre",
+   "tel_direct": "04 70 44 42 55",
+   "email": "e.martin@faurie.fr",
+   "linkedin": null,
+   "source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Laurent BERNARDIN",
+    "fonction": "Service contact (après-vente / atelier)",
+    "tel": "03 86 71 99 40",
+    "email": "l.bernardin@faurie.fr",
+    "source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
+   }
+  ],
+  "format_email_observe": "initiale.nom@faurie.fr (vu sur la fiche concession Renault Trucks, pas sur un site propre : https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576)",
+  "note": "Concession Renault Trucks du groupe Faurie. La présidente est FAURIE PARTICIPATIONS ; selon la presse auto (auto-infos.fr), le groupe est mené par Marc Faurie. Aucun DAF du groupe trouvé, la finance est probablement centralisée au groupe. Eric Martin est le directeur de la concession, pas un mandataire au registre. Son numéro direct publié est en 04 70 (Allier) : il gère sans doute plusieurs sites. Le standard est la ligne atelier/pièces (aucune ligne « accueil » distincte). L'e-mail magasin.nevers@ est celui du magasin de pièces. Domaine e-mail faurie.fr, site non vérifié."
+ },
+ {
+  "siren": "549879096",
+  "standard": {
+   "tel": "03 86 58 39 90",
+   "source": "https://www.sapem-sa.com/contact"
+  },
+  "email_generique": {
+   "email": "commercial@sapem-sa.com",
+   "source": "https://www.sapem-sa.com/contact"
+  },
+  "site_web": "https://www.sapem-sa.com",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Fabricant d'équipements de levage, d'arrimage et de manutention, au 4 route de Mousseaux à Cizely. Racheté le 06/11/2025 par HPS International (selon PitchBook) ; présidente : HPS INTERNATIONAL GROUP. Aucun nom de dirigeant ni de responsable financier publié : la page Équipe n'a que des photos sans légende et les mentions légales ne nomment personne. Aucun DAF/RAF trouvé dans les résultats de recherche. Page LinkedIn de l'entreprise : https://www.linkedin.com/company/sapem-sa/."
+ },
+ {
+  "siren": "852275684",
+  "standard": {
+   "tel": "03 71 42 02 19",
+   "source": "https://www.eat-list.fr/nevers-58000/boulangerie-8/feuillette-218340"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Exploite la boulangerie Feuillette (réseau en franchise) au 2 rue des Docks à Nevers. Numéro issu d'un annuaire (eat-list.fr), source faible. Présidente : la holding L3AP ; la personne physique derrière n'a pas été identifiée (rien dans les résultats de recherche)."
+ }
+]

@@ -1,0 +1,942 @@
+[
+ {
+  "siren": "309516318",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/10/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "51,1K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/10/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "150K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/10/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,78M",
+     "resultat_txt": "92,8K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/10/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,84M",
+     "resultat_txt": "73K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : CA 2024 et 2025 non affichés (cellule vide), mention « confidentialité partielle de ses comptes en 2025 » ; BODACC : comptes déposés avec déclaration de confidentialité pour les exercices clos au 31/10/2019, 2020, 2021, 2022, 2024 et 2025 (pas 2023, et le CA 2022 reste affiché). Dernier CA publié : 2023 (1,78M). Montants Pappers arrondis (K/M) ; dates de clôture issues des annonces BODACC de dépôt des comptes (exercice clos au 31/10). Société active, 0 procédure collective."
+ },
+ {
+  "siren": "353683089",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "90,2K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "64,4K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "3,25M",
+     "resultat_txt": "95,6K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "3,33M",
+     "resultat_txt": "121K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : CA 2024 et 2025 non affichés (cellule vide, sans libellé). BODACC : dépôt des comptes 2025 (annonce du 17/09/2026) avec « déclaration de confidentialité » (idem pour 2016 et 2017) ; aucune mention de confidentialité relevée pour 2024 malgré le CA absent. Dernier CA publié : 2023 (3,25M). Montants Pappers arrondis (K/M) ; dates de clôture issues des annonces BODACC. Société active, aucune procédure collective."
+ },
+ {
+  "siren": "691880454",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "130K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "213K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,81M",
+     "resultat_txt": "164K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "241K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : CA 2022, 2024 et 2025 non affichés (cellule vide), mention « confidentialité partielle de ses comptes en 2025 ». BODACC : dépôts avec « déclaration de confidentialité » pour les exercices 2019 à 2022, 2024 et 2025 ; l'exercice 2023 a été déposé sans (CA 2023 publié : 2,81M, effectif 19 dans le tableau financier 2023). Montants Pappers arrondis (K/M) ; dates de clôture issues des annonces BODACC. Société active (nom commercial FRANCO ET FILS), aucune procédure collective."
+ },
+ {
+  "siren": "309916021",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "162K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "206K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,55M",
+     "resultat_txt": "204K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "165K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : CA 2022, 2024 et 2025 non affichés (cellule vide), mention « confidentialité partielle de ses comptes en 2025 ». BODACC : déclarations de confidentialité (art. L. 232-25) pour les exercices 2019 à 2022, 2024 et 2025 ; aucune pour 2023 (CA 2023 publié : 2,55M ; effectif 4 dans le tableau financier 2022-2023). Montants Pappers arrondis (K/M) ; dates de clôture issues des annonces BODACC. Société active, 0 procédure collective (établissements secondaires de Lille et Nantes fermés le 25/12/1992)."
+ },
+ {
+  "siren": "325843050",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "871K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "641K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "30/09/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "404K"
+    },
+    {
+     "annee": "2020",
+     "date_cloture": "30/09/2020",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "469K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "Entre 20 et 49 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : le tableau Finances (colonnes 2024, 2023, 2021, 2020 ; pas de 2022) n'a aucune ligne Chiffre d'affaires, seulement le résultat net. BODACC : tous les dépôts listés (exercices clos au 30/09/2020 à 30/09/2025) portent une « déclaration de confidentialité » (art. L. 232-25) — confidentialité au moins depuis l'exercice 2020. Comptes 2025 (clôture 30/09/2025) déposés le 20/08/2026, non chiffrés. CA jamais publié sur les années affichées. Montants arrondis (K) ; dates de clôture issues du BODACC. Société active, 0 procédure collective."
+ },
+ {
+  "siren": "840504427",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "234K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "273K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "539K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/12/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "1,21M"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2019",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : pas de ligne Chiffre d'affaires dans le tableau (seul le résultat net est affiché), mention « confidentialité partielle de ses comptes en 2024 ». BODACC : tous les dépôts (exercices 2019 à 2024, comptes sociaux disponibles 2019-2024) accompagnés d'une déclaration de confidentialité. CA jamais publié. Montants arrondis (K/M) ; dates de clôture issues du BODACC. Société active (nom commercial UNAE), aucune procédure collective ; établissement du 19 rue Commandant Victor Guerreau fermé le 30/06/2025 et transféré au siège (2 rue de Veaupoule)."
+ },
+ {
+  "siren": "753975994",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "118K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "82,2K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "103K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/09/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "26,9K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "Entre 20 et 49 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : aucun chiffre d'affaires affiché (seul le résultat net), mention « confidentialité partielle de ses comptes en 2025 ». BODACC : déclaration de confidentialité (art. L. 232-25) sur tous les dépôts listés, exercices clos au 30/09/2020 à 30/09/2025 (au moins depuis 2020). CA jamais publié sur les années affichées. Montants arrondis (K) ; dates de clôture issues du BODACC. Société active, 0 procédure collective ; établissement secondaire de Chevannes-Changy fermé depuis le 22/03/2021."
+ },
+ {
+  "siren": "849719471",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "31K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "13,9K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "322K",
+     "resultat_txt": "-9,39K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/12/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "173K",
+     "resultat_txt": "-3,55K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : CA 2023 et 2024 non affichés (cellule vide), mention « confidentialité partielle de ses comptes en 2024 » ; BODACC : déclaration de confidentialité pour l'exercice 2024 uniquement (dépôt du 26/12/2025) — le CA 2023 est absent sans mention de confidentialité. Dernier CA publié : 2022 (322K). Montants arrondis (K) ; dates de clôture issues du BODACC. Société active (créée le 08/04/2019), 0 procédure collective."
+ },
+ {
+  "siren": "778446500",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : section Finances vide, « Aucun compte n'est disponible pour cette entreprise » et aucune annonce BODACC publiée — CA jamais publié (aucune mention de confidentialité, simplement aucun dépôt). Société active (nom commercial GROUPE VETERINAIRE ; date de création affichée 01/01/1900, siège créé le 01/08/1984), aucune procédure collective."
+ },
+ {
+  "siren": "902859438",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "106K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "36,8K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "103K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/09/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "70,8K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2022",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : pas de ligne Chiffre d'affaires (seul le résultat net), mention « confidentialité partielle de ses comptes en 2025 » ; BODACC : les 4 dépôts (exercices clos au 30/09/2022 à 30/09/2025) portent une déclaration de confidentialité (art. L. 232-25) — depuis le premier exercice. CA jamais publié. Effectif 18 dans le tableau financier 2025. Montants arrondis (K) ; dates de clôture issues du BODACC. Société active (créée le 07/09/2021), 0 procédure collective."
+ },
+ {
+  "siren": "911523231",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2022",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SASU. Pappers : section Finances vide, seule mention « son chiffre d'affaires était inférieur à 700 000 € ou que son bilan était inférieur à 350 000 € en 2022 ». BODACC : 2 dépôts seulement, exercices clos au 31/12/2022 (07/03/2023) et 31/12/2023 (23/04/2024), tous deux avec déclaration de confidentialité ; aucun dépôt affiché pour 2024 ni 2025. CA jamais publié. Société active (créée le 01/04/2022), 0 procédure collective ; établissement secondaire de Champvert fermé le 10/01/2023."
+ },
+ {
+  "siren": "892718537",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2021",
+   "effectif": "0 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SASU. Pappers : aucun tableau financier, seule mention « son chiffre d'affaires était inférieur à 700 000 € » (exercice 2021). BODACC : tous les dépôts (exercices clos au 31/12/2021 à 31/12/2025) avec déclaration de confidentialité (art. L. 232-25 ; 1er alinéa, comptes entièrement confidentiels, pour 2024 et 2025). CA jamais publié. Société active (créée le 01/01/2021), 0 procédure collective ; établissement de Druy-Parigny fermé le 29/10/2024, siège à Decize."
+ },
+ {
+  "siren": "792082000",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-15,1K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-39,6K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "29,7K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/09/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": null
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "Entre 1 et 2 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "EURL. Pappers : pas de ligne Chiffre d'affaires (seul le résultat net ; cellule 2022 vide), mention « confidentialité partielle de ses comptes en 2025 ». BODACC : déclaration de confidentialité (art. L. 232-25) sur tous les dépôts listés, exercices clos au 30/09/2020 à 30/09/2025 (au moins depuis 2020) ; exercices 2023, 2024 et 2025 déposés en même temps (annonces du 11/05/2026). CA jamais publié sur les années affichées. Montants arrondis (K) ; dates de clôture issues du BODACC. Société active, 0 procédure collective ; un établissement secondaire fermé le 04/12/2023."
+ },
+ {
+  "siren": "489347005",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2014",
+   "effectif": "Entre 1 et 2 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : rubrique Finances vide, seule mention « son chiffre d'affaires était inférieur à 700 000 € ou que son bilan était inférieur à 350 000 € en 2021 ». BODACC : tous les dépôts de comptes (exercices 2014 à 2024, clôture au 31/03) avec déclaration de confidentialité (art. L. 232-25 ; 1er alinéa pour l'exercice clos au 31/03/2024). Dernier dépôt : exercice clos au 31/03/2024 (annonce du 30/05/2025) ; pas de dépôt affiché pour l'exercice clos au 31/03/2025. CA jamais publié. Société active, 0 procédure collective ; établissement de Luthenay-Uxeloup fermé le 17/10/2016."
+ },
+ {
+  "siren": "900914888",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2021",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SASU. Pappers : aucun tableau financier, seule mention « son chiffre d'affaires était inférieur à 700 000 € ou que son bilan était inférieur à 350 000 € en 2022 ». BODACC : 4 dépôts (exercices clos au 31/12/2021, 2022, 2024 et 2025 ; pas d'annonce pour 2023), tous avec déclaration de confidentialité (art. L. 232-25 ; 1er alinéa pour 2024 et 2025). CA jamais publié. Société active (créée le 01/06/2021), 0 procédure collective."
+ },
+ {
+  "siren": "985183763",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Au moins 1 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL (nom commercial Les Cocottes). Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise ». BODACC : 2 dépôts, exercices clos au 31/03/2025 (annonce du 19/02/2026) et 31/03/2026 (annonce du 17/09/2026), tous deux avec déclaration de confidentialité (art. L. 232-25) — depuis le premier exercice. CA jamais publié. Société active (créée le 10/02/2024), 0 procédure collective."
+ },
+ {
+  "siren": "839098258",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "Entre 1 et 2 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : aucun tableau financier, seule mention « inférieur à 700 000 € » (CA) ou « inférieur à 350 000 € » (bilan) en 2022. BODACC : déclaration de confidentialité (art. L. 232-25) sur tous les dépôts listés, exercices clos au 30/06/2020 à 30/06/2025 (1er alinéa pour 2024 et 2025) — au moins depuis 2020. CA jamais publié. Alerte « Capitaux propres inférieurs à la moitié du capital social » (15/12/2020), poursuite d'activité décidée en AG du 23/02/2021. Société active (créée le 20/04/2018), aucune procédure collective."
+ },
+ {
+  "siren": "444261507",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "4,52K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": null
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2019",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : tableau limité à 2023 et 2022, sans ligne Chiffre d'affaires (résultat net 2023 seulement, cellule 2022 vide), mention « confidentialité partielle de ses comptes en 2023 ». BODACC : déclaration de confidentialité (art. L. 232-25) sur tous les dépôts listés, exercices clos au 31/12/2019 à 31/12/2024 (1er alinéa pour 2024) — au moins depuis 2019 ; exercice 2024 déposé (annonce du 02/10/2025) mais non chiffré. CA jamais publié sur les années affichées. Dates de clôture issues du BODACC. Société active (créée le 01/10/2002), 0 procédure collective."
+ },
+ {
+  "siren": "981871254",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Au moins 1 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SELARL. Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise ». BODACC : 2 dépôts, exercices clos au 31/12/2024 (annonce du 11/09/2025) et 31/12/2025 (annonce du 20/08/2026), tous deux avec déclaration de confidentialité — depuis le premier exercice. CA jamais publié. Société active (créée le 01/01/2024), 0 procédure collective."
+ },
+ {
+  "siren": "834588352",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "Entre 3 et 5 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "EURL. Pappers : aucun tableau financier, seule mention « son chiffre d'affaires était inférieur à 700 000 € ou que son bilan était inférieur à 350 000 € en 2022 ». BODACC : déclaration de confidentialité (art. L. 232-25) sur tous les dépôts listés, exercices clos au 31/12/2020 à 31/12/2025 (1er alinéa pour 2024 et 2025) — au moins depuis 2020. CA jamais publié. Alerte « Capitaux propres inférieurs à la moitié du capital social » (28/06/2019), poursuite d'activité décidée le 28/07/2020. Société active (créée le 15/01/2018), aucune procédure collective."
+ },
+ {
+  "siren": "915307599",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 1 et 2 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SASU. Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise ». BODACC : 2 dépôts seulement, exercices clos au 31/12/2023 (annonce du 22/01/2026) et 31/12/2024 (annonce du 15/01/2026), tous deux avec déclaration de confidentialité (art. L. 232-25, 1er alinéa) ; aucun dépôt affiché pour 2025. CA jamais publié. Société active (créée le 01/07/2022), 0 procédure collective."
+ },
+ {
+  "siren": "904404837",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2022",
+   "effectif": "Au moins 1 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SAS. Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise ». BODACC : 4 dépôts, exercices clos au 31/12/2022 à 31/12/2025, tous avec déclaration de confidentialité (art. L. 232-25 ; 1er alinéa pour 2024 et 2025) — depuis le premier exercice déposé. CA jamais publié. Société active (créée le 20/10/2021), 0 procédure collective."
+ },
+ {
+  "siren": "442935417",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "Entre 1 et 2 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SAS. Pappers : aucun tableau financier, seule mention « son chiffre d'affaires était inférieur à 700 000 € ou que son bilan était inférieur à 350 000 € en 2021 ». BODACC : déclaration de confidentialité (art. L. 232-25) sur tous les dépôts listés, exercices clos au 31/03/2020 à 31/03/2025 (1er alinéa pour 2025) — au moins depuis 2020. CA jamais publié. Société active (créée le 29/07/2002), 0 procédure collective."
+ },
+ {
+  "siren": "522313592",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2014",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "EURL (nom commercial NICOLAS B.). Pappers : aucun tableau financier, seule mention « son chiffre d'affaires était inférieur à 700 000 € ou que son bilan était inférieur à 350 000 € en 2022 ». BODACC : déclaration de confidentialité (art. L. 232-25) pour tous les exercices clos au 30/09 de 2014 à 2025 (1er alinéa pour 2014, 2015, 2024 et 2025). Dernier dépôt : exercice clos au 30/09/2025 (annonce du 09/04/2026). CA jamais publié. Société active (créée le 10/05/2010), 0 procédure collective."
+ },
+ {
+  "siren": "982048548",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "0 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SAS. Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise ». BODACC : 2 dépôts, exercices clos au 31/12/2024 (annonce du 16/10/2025) et 31/12/2025 (annonce du 01/10/2026), tous deux avec déclaration de confidentialité (art. L. 232-25, 1er alinéa) — depuis le premier exercice. CA jamais publié. Société active (créée le 27/11/2023), 0 procédure collective."
+ },
+ {
+  "siren": "851330472",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "EURL (enseigne « A FLEUR DE POT »). Pappers : aucun tableau financier, seule mention « son chiffre d'affaires était inférieur à 700 000 € ou que son bilan était inférieur à 350 000 € en 2022 ». BODACC : déclaration de confidentialité pour les exercices clos au 30/09/2020, 2021, 2022, 2023 et 2025 ; aucune mention pour l'exercice clos au 30/09/2024 (déposé le 30/05/2025), mais aucun chiffre n'est affiché pour autant. CA jamais publié. Société active (créée le 10/05/2019), 0 procédure collective."
+ },
+ {
+  "siren": "750708745",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2014",
+   "effectif": "Entre 3 et 5 salariés (donnée 2023)",
+   "procedure": "Redressement judiciaire ouvert le 07/10/2024 (cessation des paiements fixée au 01/10/2024) ; plan de redressement de 10 ans arrêté le 03/11/2025, en cours d'exécution (commissaire à l'exécution du plan : SELARL JSA).",
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : aucun tableau financier, seule mention « son chiffre d'affaires était inférieur à 700 000 € ou que son bilan était inférieur à 350 000 € en 2022 ». BODACC : déclaration de confidentialité sur tous les dépôts de comptes de 2014 à 2025 (exercices clos au 31/01) ; dernier dépôt : exercice clos au 31/01/2025 (annonce du 27/11/2025). CA jamais publié. Période d'observation prolongée jusqu'au 03/11/2025 avant le plan ; état des créances déposé le 06/11/2025 ; alerte « Capitaux propres inférieurs à la moitié du capital social » (30/11/2021). Société active (créée le 20/03/2012)."
+ },
+ {
+  "siren": "501957625",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2015",
+   "effectif": "0 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL (nom commercial LUNETTES & VUES). Pappers : section Finances vide, mention « Cette entreprise a disposé de la confidentialité totale de ses comptes en 2021 ». BODACC : déclaration de confidentialité sur les dépôts des exercices 2015 à 2025 (clôture au 31/12), aucune mention pour 2014 et avant ; dernier dépôt : exercice 2025 (annonce du 28/05/2026). CA jamais publié sur Pappers. Société active, 0 procédure collective."
+ },
+ {
+  "siren": "925015398",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Au moins 1 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise ». BODACC : 1 seul dépôt, exercice clos au 31/03/2025 (annonce du 15/01/2026), avec déclaration de confidentialité (art. L. 232-25, 1er alinéa) — premier exercice. CA jamais publié. Société active (créée le 19/03/2024, mise en activité publiée au BODACC le 13/08/2024), 0 procédure collective."
+ },
+ {
+  "siren": "979251048",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Au moins 1 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SASU. Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise ». BODACC : 3 dépôts, exercices clos au 31/12/2023, 31/12/2024 et 31/12/2025 (annonces de 2026), tous avec déclaration de confidentialité (art. L. 232-25, 1er alinéa) — depuis le premier exercice. CA jamais publié. Société active (créée le 06/09/2023), 0 procédure collective."
+ },
+ {
+  "siren": "912752748",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise ». BODACC : 3 dépôts, exercices clos au 30/09/2023, 30/09/2024 et 30/09/2025, tous avec déclaration de confidentialité (art. L. 232-25 ; 1er alinéa pour 2024 et 2025) — depuis le premier exercice déposé. CA jamais publié. Société active (créée le 22/04/2022), aucune procédure collective."
+ },
+ {
+  "siren": "480946524",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2019",
+   "effectif": "0 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL (nom commercial A LA CAVE). Pappers : section Finances vide, mention « confidentialité totale de ses comptes en 2022 ». BODACC : déclaration de confidentialité (art. L. 232-25) sur tous les dépôts listés, exercices clos au 31/12/2019 à 31/12/2024 (1er alinéa pour 2024) — au moins depuis 2019 ; aucun dépôt affiché pour 2025. CA jamais publié sur Pappers. Société active (créée le 18/02/2005), aucune procédure collective."
+ },
+ {
+  "siren": "833317274",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2020",
+     "date_cloture": "31/12/2020",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "3,69K"
+    },
+    {
+     "annee": "2019",
+     "date_cloture": "31/12/2019",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "12,2K"
+    },
+    {
+     "annee": "2018",
+     "date_cloture": "31/12/2018",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "3,74K"
+    },
+    {
+     "annee": "2017",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-1,19K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "0 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : tableau « Performance » limité à 2017-2020, sans ligne Chiffre d'affaires (résultat net seulement), mention « confidentialité totale de ses comptes en 2021 ». BODACC : déclaration de confidentialité (art. L. 232-25) sur les dépôts de 2020 à 2026, soit au moins les exercices clos au 31/12/2020 à 31/12/2025 (1er alinéa pour 2024 et 2025) ; exercices 2021 à 2025 déposés mais non chiffrés. CA jamais publié. Montants arrondis (K) ; dates de clôture issues du BODACC (aucune pour 2017). Société active (créée le 15/09/2017), 0 procédure collective."
+ },
+ {
+  "siren": "449870872",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2015",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : section Finances vide, seule mention d'un chiffre d'affaires « inférieur à 700 000 € » en 2021. BODACC : déclaration de confidentialité (art. L. 232-25) pour les exercices clos de 2015 à 2024 (aucune pour 2007-2014) ; dernier dépôt : exercice clos au 31/12/2024 (annonce du 09/04/2026). CA jamais publié sur Pappers. Société active (créée le 07/07/2003), aucune procédure collective."
+ },
+ {
+  "siren": "912408853",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "0 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "EURL. Pappers : section Finances vide, « Aucun compte n'est disponible pour cette entreprise » ; alerte « Capitaux propres inférieurs à la moitié du capital social ». BODACC : 3 dépôts, exercices clos au 31/10/2023, 31/10/2024 et 31/10/2025, tous avec déclaration de confidentialité (art. L. 232-25, 1er alinéa) — depuis le premier exercice déposé. CA jamais publié. Société active (créée le 25/04/2022), 0 procédure collective."
+ },
+ {
+  "siren": "921581385",
+  "api": null,
+  "pappers": {
+   "exercices": [],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 3 et 5 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SAS (enseigne ATOL les opticiens). Pappers : aucun tableau financier, « Aucun compte n'est disponible pour cette entreprise » ; alerte RNE « Capitaux propres inférieurs à la moitié du capital social ». BODACC : 3 dépôts, exercices clos au 30/09/2023 et 30/09/2025 avec déclaration de confidentialité (art. L. 232-25), exercice clos au 30/09/2024 (annonce du 09/05/2025) sans mention mais non chiffré sur Pappers. CA jamais publié. Société active (créée le 10/11/2022), aucune procédure collective."
+ },
+ {
+  "siren": "879128338",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "499K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "433K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "188K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/12/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "193K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2020",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SAS. Pappers : pas de ligne Chiffre d'affaires (résultat net seulement), mention « confidentialité partielle de ses comptes en 2024 ». BODACC : les 5 dépôts (exercices clos au 31/12/2020 à 31/12/2024) portent une déclaration de confidentialité — depuis le premier exercice ; aucun dépôt affiché pour 2025. CA jamais publié. Montants arrondis (K) ; dates de clôture issues du BODACC. Société active (créée le 20/11/2019), 0 procédure collective."
+ },
+ {
+  "siren": "749941332",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/06/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-1,19K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/06/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "146K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/06/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-83,5K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/06/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "30,9K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2015",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "SARL. Pappers : pas de ligne Chiffre d'affaires (résultat net seulement), mention « confidentialité partielle de ses comptes en 2025 ». BODACC : déclaration de confidentialité sur les dépôts des exercices 2015 à 2025 (clôture au 30/06) ; dernier dépôt : exercice clos au 30/06/2025 (annonce du 04/05/2026). CA jamais publié. Montants arrondis (K) ; dates de clôture issues du BODACC. Société active (créée le 01/03/2012), aucune procédure collective."
+ }
+]

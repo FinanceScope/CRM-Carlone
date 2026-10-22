@@ -1,0 +1,440 @@
+[
+  {
+    "id": "a01",
+    "contact": {
+      "site": "https://www.traitdunion58.fr",
+      "email": "traitdunion58@orange.fr",
+      "adresse": "33 rue des Rivières Saint-Agnan, 58200 Cosne-Cours-sur-Loire (adresse de contact publiée sur le site de l'association)"
+    },
+    "responsable": {
+      "nom": "Marguerite Michel",
+      "fonction": "présidente",
+      "source": "https://www.traitdunion58.fr/index.php/evenements/salon-du-livre.html"
+    },
+    "activite_recente": "38e Salon du Livre de Cosne du 22 au 24 mai 2026 ; festival Les Avant-Premières (27e édition) annoncé pour novembre 2026.",
+    "statut": "active",
+    "sources": [
+      "https://www.traitdunion58.fr",
+      "https://www.traitdunion58.fr/index.php/faq.html",
+      "https://www.traitdunion58.fr/index.php/evenements/salon-du-livre.html",
+      "https://www.traitdunion58.fr/index.php/evenements/portfolio.html",
+      "https://www.justacote.com/cosne-cours-sur-loire-58200/autre/trait-dunion-2404186.htm",
+      "https://www.festivalenfrance.com/festival/salon-du-livre-de-cosne"
+    ]
+  },
+  {
+    "id": "a02",
+    "contact": {
+      "adresse": "Le Vieux Château, 10 rue Alphonse Baudin, 58200 Cosne-Cours-sur-Loire (adresse au RNA, n° W584000146)"
+    },
+    "responsable": null,
+    "activite_recente": null,
+    "statut": "inconnu",
+    "sources": [
+      "https://www.annuaire-mairie.fr/association-cosne-cours-sur-loire.html"
+    ]
+  },
+  {
+    "id": "a03",
+    "contact": {
+      "site": "https://regards-photo.fr",
+      "email": "contact@regards-photo.fr",
+      "telephone": "03 86 39 31 57 ; 06 89 01 26 07 (les deux numéros figurent sur la page contact du club)",
+      "facebook": "https://www.facebook.com/profile.php?id=61572424228448",
+      "instagram": "https://www.instagram.com/regards_photo_cosne/",
+      "adresse": "40 rue des Rivières Saint-Agnan, 58200 Cosne-Cours-sur-Loire"
+    },
+    "responsable": null,
+    "activite_recente": "Exposition « architecture et monuments » à la médiathèque de Cosne du 1er juillet au 31 août 2026 (Expositions estivales du réseau Cœur de Loire).",
+    "statut": "active",
+    "sources": [
+      "https://regards-photo.fr/",
+      "https://regards-photo.fr/contact",
+      "https://regards-photo.fr/mentions-legales",
+      "https://www.pagesjaunes.fr/pros/58161594",
+      "https://www.jds.fr/cosne-cours-sur-loire/expos/expositions-estivales-1595385_A"
+    ]
+  },
+  {
+    "id": "a04",
+    "contact": {
+      "email": "amisdumuseecosne@gmail.com",
+      "facebook": "https://www.facebook.com/people/Les-amis-du-Mus%C3%A9e-de-la-Loire-et-du-Patrimoine/61567920188477/",
+      "adresse": "Musée de la Loire, place de la Résistance, 58200 Cosne-Cours-sur-Loire"
+    },
+    "responsable": null,
+    "activite_recente": "Campagne d'adhésion 2026 ouverte sur HelloAsso, après le bulletin d'adhésion 2025 publié sur le site du musée.",
+    "statut": "active",
+    "sources": [
+      "https://www.museedelaloire.fr/amis-du-musee/",
+      "https://www.helloasso.com/associations/les-amis-du-musee-de-la-loire-et-du-patrimoine"
+    ]
+  },
+  {
+    "id": "a06",
+    "contact": {
+      "site": "https://www.legrenierdunohain.com",
+      "telephone": "03 86 26 74 93",
+      "facebook": "https://www.facebook.com/Le-Grenier-du-Nohain-2259252821028838/",
+      "adresse": "Place de la Résistance, BP 61, 58203 Cosne-sur-Loire Cedex"
+    },
+    "responsable": {
+      "nom": "Jacques Berthomeau",
+      "fonction": "directeur de la publication du site de la troupe (mentions légales) ; fonction au bureau non précisée",
+      "source": "https://www.legrenierdunohain.com/mentions-legales.html"
+    },
+    "activite_recente": "Comédie « Espèces menacées » jouée à Cosne fin novembre 2026 (28/11 selon le site de la troupe, 27/11 selon JDS) ; l'école intercommunale de théâtre fonctionne en 2026-2027.",
+    "statut": "active",
+    "sources": [
+      "https://www.pagesjaunes.fr/pros/61626848",
+      "https://www.legrenierdunohain.com/",
+      "https://www.legrenierdunohain.com/contact.html",
+      "https://www.legrenierdunohain.com/mentions-legales.html",
+      "https://www.jds.fr/cosne-cours-sur-loire/agenda/theatre-23_B"
+    ]
+  },
+  {
+    "id": "a07",
+    "contact": {
+      "adresse": "8 impasse de la Madeleine, 58200 Cosne-Cours-sur-Loire (adresse au RNA, n° W584000190)"
+    },
+    "responsable": {
+      "nom": "Alain Turpin",
+      "fonction": "président (mention de juin 2013, non confirmée depuis)",
+      "source": "https://gabarredeloire-cosne.blogspot.com/"
+    },
+    "activite_recente": "Balades gratuites en gabarre avec la ville les 9 et 31 août et le 20 septembre 2025 ; organisation de « Loire en fête », annoncée les 23 et 24 mai 2026 par le Musée de la Loire.",
+    "statut": "active",
+    "sources": [
+      "https://www.museedelaloire.fr/fete-de-la-loire/",
+      "https://www.macommune.info/agenda/balades-en-gabarre/",
+      "https://www.festivalenfrance.com/festival/foire-de-la-loire-a-cosne",
+      "https://gabarredeloire-cosne.blogspot.com/",
+      "https://www.annuaire-mairie.fr/association-cosne-cours-sur-loire.html"
+    ]
+  },
+  {
+    "id": "a08",
+    "contact": {},
+    "responsable": null,
+    "activite_recente": null,
+    "statut": "inconnu",
+    "sources": [
+      "https://www.annuaire-mairie.fr/association-cosne-cours-sur-loire.html",
+      "https://www.jds.fr/cosne-cours-sur-loire/agenda/theatre-23_B"
+    ]
+  },
+  {
+    "id": "a09",
+    "contact": {
+      "telephone": "03 86 26 60 17 (« renseignements » donnés pour l'association sur la page de l'école de musique Cœur de Loire ; c'est aussi le numéro de l'école)",
+      "facebook": "https://www.facebook.com/Harmonie-de-Cosne-111659900230513/",
+      "adresse": "École de musique Cœur de Loire, 8 impasse de la Madeleine, 58200 Cosne-Cours-sur-Loire (lieu de répétition, même adresse que le siège)"
+    },
+    "responsable": {
+      "nom": "Jean-Yves Chir",
+      "fonction": "chef de l'orchestre à vents « Harmonie de Cosne » et directeur de l'école de musique Cœur de Loire ; la présidence de l'association n'est pas publiée",
+      "source": "https://www.coeurdeloire.fr/ecole-de-musique/"
+    },
+    "activite_recente": "Les quatre ensembles de l'association (orchestre à vents, orchestre à cordes Attacca, chœur Atout Chœur, Big Doo Doo Band) répètent chaque semaine à l'école de musique, selon la page de la saison 2026-2027.",
+    "statut": "active",
+    "sources": [
+      "https://www.coeurdeloire.fr/ecole-de-musique/",
+      "https://recherche-entreprises.api.gouv.fr/search?q=harmonie&code_postal=58200",
+      "https://www.annuaire-mairie.fr/association-cosne-cours-sur-loire.html"
+    ]
+  },
+  {
+    "id": "a10",
+    "contact": {
+      "site": "https://47-2.fr",
+      "telephone": "09 75 25 54 36",
+      "instagram": "https://www.instagram.com/quaranteseptdeux/",
+      "adresse": "1 rue Waldeck-Rousseau, 58200 Cosne-Cours-sur-Loire"
+    },
+    "responsable": {
+      "nom": "Alexis de Raphelis",
+      "fonction": "présidence, d'après le bureau affiché sur le site (Claire Boitel à la trésorerie, Benoît Verjat au secrétariat) ; le répertoire SIRENE indique encore Nicolas Couturier",
+      "source": "https://47-2.fr/about"
+    },
+    "activite_recente": "Ciné-club mensuel (« Les Bêtes du Sud sauvage » le 2 octobre 2026), « Le premier marché » le 23 octobre 2026 et rencontres FAQ #4 sur le design graphique les 30 et 31 octobre 2026.",
+    "statut": "active",
+    "sources": [
+      "https://47-2.fr/",
+      "https://47-2.fr/about",
+      "https://www.pagesjaunes.fr/pros/59309055"
+    ]
+  },
+  {
+    "id": "a11",
+    "contact": {},
+    "responsable": {
+      "nom": "Gilles Clarisse",
+      "fonction": "commerçant porteur de la relance de l'association (AG du printemps 2026) ; fonction officielle non précisée",
+      "source": "https://info.fr/cosne-cours-sur-loire-gilles-clarisse-relance-association-commercants/"
+    },
+    "activite_recente": "Relance proposée en assemblée générale (article du 6 mai 2026) ; l'« Association des Commerçants de Cosne (ACC) » a un siège à la Commission communale d'accessibilité (délibération du 21 mai 2026).",
+    "statut": "active",
+    "sources": [
+      "https://info.fr/cosne-cours-sur-loire-gilles-clarisse-relance-association-commercants/",
+      "https://politique.pappers.fr/commune/document/6d90af4bd6cd8ffa2da7dc89d16ff47b"
+    ]
+  },
+  {
+    "id": "a12",
+    "contact": {
+      "site": "https://www.centresocialcosne.org (domaine de ses adresses e-mail ; contenu du site non vérifié)",
+      "email": "info@centresocialcosne.org ; jeunesse@centresocialcosne.org (secteur jeunesse)",
+      "telephone": "03 86 28 20 96",
+      "adresse": "15 rue du Berry, 58200 Cosne-Cours-sur-Loire"
+    },
+    "responsable": null,
+    "activite_recente": "Journée festive « Le goût de la fête » au parc Schweitzer le 12 septembre 2026 avec plusieurs associations ; le contact publié est le numéro du centre social.",
+    "statut": "active",
+    "sources": [
+      "https://www.annuaire-administration.com/pif/point-info-famille-pif-de-cosne-cours-sur-loire-pif-58086-01.html",
+      "https://www.justacote.com/cosne-cours-sur-loire-58200/autre/centre-social-et-culturel-2393483.htm",
+      "https://unidivers.fr/event/le-gout-de-la-fete-cosne-cours-sur-loire-nievre-2026-09-12/"
+    ]
+  },
+  {
+    "id": "a15",
+    "contact": {
+      "telephone": "06 86 27 60 97 (contact de l'association organisatrice du Printemps de la Céramique, selon Puisaye Tourisme)"
+    },
+    "responsable": null,
+    "activite_recente": "Printemps de la Céramique au château de Saint-Amand-en-Puisaye les 4 et 5 avril 2026.",
+    "statut": "active",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/temps-fort/les-marches-potiers-en-puisaye/",
+      "https://www.festivalenfrance.com/festival/printemps-de-la-ceramique"
+    ]
+  },
+  {
+    "id": "a16",
+    "contact": {
+      "site": "https://www.bluesenloire.com",
+      "email": "production@bluesenloire.com",
+      "telephone": "06 88 82 78 23 (contact du festival dans l'agenda Nièvre Attractive)",
+      "facebook": "https://www.facebook.com/bluesenloire",
+      "instagram": "https://www.instagram.com/blues_en_loire/",
+      "adresse": "Place de la Mairie, 58400 La Charité-sur-Loire"
+    },
+    "responsable": null,
+    "activite_recente": "Festival Blues en Loire du 12 au 15 août 2026 ; concert de JW-Jones à la salle des fêtes de La Charité le 8 novembre 2026.",
+    "statut": "active",
+    "sources": [
+      "https://unidivers.fr/event/festival-blues-en-loire-2026-la-charite-sur-loire-nievre-2026-08-12/",
+      "https://www.bluesenloire.com",
+      "https://www.festivalenfrance.com/festival/blues-en-loire",
+      "https://www.helloasso.com/associations/le-chat-musiques"
+    ]
+  },
+  {
+    "id": "a17",
+    "contact": {
+      "site": "https://festivendanges.com",
+      "email": "unpimentdansleloukoum@gmail.com (contact du festival sur Festivals en France, adresse masquée anti-spam puis décodée)",
+      "facebook": "https://www.facebook.com/pimentdansleloukoum/"
+    },
+    "responsable": null,
+    "activite_recente": "Festivendanges les 26 et 27 septembre 2025 ; l'édition 2026 est annoncée les 25 et 26 septembre 2026, mais sa fiche Festivals en France la dit « non confirmée ».",
+    "statut": "active",
+    "sources": [
+      "https://www.festivalenfrance.com/festival/festivendanges-sancerre",
+      "https://www.festivalenfrance.com/festival/festivendanges-sancerre/2025",
+      "https://www.festivalenfrance.com/agenda-festivals-centre-val-de-loire-weekend-26-septembre-2026",
+      "https://www.helloasso.com/associations/un-piment-dans-le-loukoum"
+    ]
+  },
+  {
+    "id": "a19",
+    "contact": {
+      "email": "videoclub58@outlook.fr"
+    },
+    "responsable": {
+      "nom": "Jonathan Maneru",
+      "fonction": "président",
+      "source": "https://www.donzy.fr/associations-art-culture/"
+    },
+    "activite_recente": null,
+    "statut": "inconnu",
+    "sources": [
+      "https://www.donzy.fr/associations-art-culture/"
+    ]
+  },
+  {
+    "id": "a20",
+    "contact": {
+      "site": "https://theatre-escabeau.com",
+      "email": "contact@theatre-escabeau.com (administration) ; reservation@theatre-escabeau.com (réservations)",
+      "telephone": "06 69 99 02 14",
+      "facebook": "https://www.facebook.com/theatre.escabeau/",
+      "instagram": "https://www.instagram.com/theatre.escabeau",
+      "adresse": "Ferme de Rivotte, 45250 Briare"
+    },
+    "responsable": {
+      "nom": "Christiane Escouboue",
+      "fonction": "administration (contact publié par le théâtre) ; la présidence n'est pas publiée",
+      "source": "https://theatre-escabeau.com/?page_id=253"
+    },
+    "activite_recente": "19e Festival de l'Escabeau du 29 octobre au 1er novembre 2026 à la Ferme de Rivotte.",
+    "statut": "active",
+    "sources": [
+      "https://theatre-escabeau.com/?page_id=253",
+      "https://theatre-escabeau.com",
+      "https://www.fest.fr/19eme-festival-de-l-escabeau-2709321.html"
+    ]
+  },
+  {
+    "id": "a21",
+    "contact": {
+      "site": "https://www.bigbangjazz.com",
+      "email": "contact@bigbangjazz.com",
+      "telephone": "03 86 57 88 51 (bureau) ; 03 86 57 00 00 (billetterie)",
+      "facebook": "https://www.facebook.com/bigbangjazz",
+      "instagram": "https://www.instagram.com/bigbangjazz",
+      "adresse": "3 bis place des Reines de Pologne, BP 824, 58008 Nevers Cedex"
+    },
+    "responsable": {
+      "nom": "Arnaud Merlin",
+      "fonction": "président de l'association Big Bang (ex-D'Jazz Nevers) ; directeur et programmateur : Roger Fontanel",
+      "source": "https://www.bigbangjazz.com/fr/presentation/equipe"
+    },
+    "activite_recente": "40e D'Jazz Nevers Festival du 7 au 14 novembre 2026 (présentation le 11 septembre 2026) ; D'Jazz Nevers a fusionné en 2023 avec le Centre régional du jazz et s'appelle désormais Big Bang.",
+    "statut": "active",
+    "sources": [
+      "https://www.bigbangjazz.com",
+      "https://www.bigbangjazz.com/fr/presentation/equipe",
+      "https://www.festivalenfrance.com/festival/djazz-nevers-festival",
+      "https://unidivers.fr/event/soiree-de-presentation-du-djazz-nevers-festival-40-nevers-nievre-2026-09-11/",
+      "https://festt.io/en/festivals/d-jazz-nevers-festival-2026"
+    ]
+  },
+  {
+    "id": "a22",
+    "contact": {},
+    "responsable": null,
+    "activite_recente": null,
+    "statut": "inconnu",
+    "sources": [
+      "https://www.annuaire-mairie.fr/association-cosne-cours-sur-loire.html",
+      "https://www.jds.fr/cosne-cours-sur-loire/agenda/theatre-23_B"
+    ]
+  },
+  {
+    "id": "a23",
+    "contact": {
+      "adresse": "26 bis rue des Rivières Saint-Agnan, 58200 Cosne-Cours-sur-Loire (adresse au RNA sous le nom « Up2dance », n° W584000673)"
+    },
+    "responsable": null,
+    "activite_recente": null,
+    "statut": "inconnu",
+    "sources": [
+      "https://www.annuaire-mairie.fr/association-cosne-cours-sur-loire.html"
+    ]
+  },
+  {
+    "id": "a24",
+    "contact": {
+      "adresse": "3 chemin du Rio Merlin, Villechaud, 58200 Cosne-Cours-sur-Loire (adresse au RNA, n° W584000310)"
+    },
+    "responsable": null,
+    "activite_recente": null,
+    "statut": "inconnu",
+    "sources": [
+      "https://www.annuaire-mairie.fr/association-cosne-cours-sur-loire.html",
+      "https://www.pagesjaunes.fr/pros/58215738"
+    ]
+  },
+  {
+    "id": "a25",
+    "contact": {
+      "email": "ctx.du.giennois@gmail.com",
+      "telephone": "03 86 24 99 72",
+      "adresse": "6 rue de la Mairie, 58200 Saint-Père"
+    },
+    "responsable": null,
+    "activite_recente": "Désignée comme organisme de défense et de gestion (ODG) de l'AOC Coteaux du Giennois dans la fiche produit de l'INAO (non datée) ; aucune animation 2025-2026 propre à l'association trouvée.",
+    "statut": "active",
+    "sources": [
+      "https://www.inao.gouv.fr/node/5698/printable/pdf"
+    ]
+  },
+  {
+    "id": "a26",
+    "contact": {
+      "site": "https://festival-boucard.fr",
+      "email": "contact@festival-boucard.fr (en clair dans le programme 2017, sous forme masquée sur le site actuel)",
+      "telephone": "06 75 90 23 82",
+      "facebook": "https://www.facebook.com/festivaldeboucard/",
+      "adresse": "La Verrerie, 33 route Jacques Cœur, 18260 Le Noyer"
+    },
+    "responsable": {
+      "nom": "Alfred de Lassence",
+      "fonction": "président (directeur artistique : Maxence Pilchen)",
+      "source": "https://festival-boucard.fr"
+    },
+    "activite_recente": "Saison des 60 ans en 2026 : concerts d'avril à décembre, jusqu'à Lux Aeterna à Léré le 12 décembre 2026.",
+    "statut": "active",
+    "sources": [
+      "https://festival-boucard.fr",
+      "https://festival-boucard.fr/reservations",
+      "https://www.festival-boucard.fr/documents/programme-2017.pdf"
+    ]
+  },
+  {
+    "id": "a27",
+    "contact": {
+      "email": "irene.clement@wanadoo.fr (adresse de la présidente, publiée comme contact de l'association par la mairie de Donzy)",
+      "telephone": "06 62 11 51 68 (présidente) ; 06 52 75 07 42 (contact : Michel Brunet)",
+      "adresse": "19 rue des Vignes, 58220 Donzy"
+    },
+    "responsable": {
+      "nom": "Irène Clément",
+      "fonction": "présidente",
+      "source": "https://www.donzy.fr/associations-art-culture/"
+    },
+    "activite_recente": null,
+    "statut": "inconnu",
+    "sources": [
+      "https://www.donzy.fr/associations-art-culture/",
+      "https://www.donzy.fr/associations-festives-ludiques/"
+    ]
+  },
+  {
+    "id": "a29",
+    "contact": {
+      "telephone": "03 86 39 36 00 (numéro publié par la mairie de Donzy pour le président)",
+      "adresse": "21 ter rue du Général Leclerc, 58220 Donzy"
+    },
+    "responsable": {
+      "nom": "Georges Narcy",
+      "fonction": "président",
+      "source": "https://www.donzy.fr/associations-art-culture/"
+    },
+    "activite_recente": null,
+    "statut": "inconnu",
+    "sources": [
+      "https://www.donzy.fr/associations-art-culture/",
+      "https://www.donzy.fr/associations-patrimoine-histoire-et-nature/"
+    ]
+  },
+  {
+    "id": "a30",
+    "contact": {
+      "email": "donzyenfete@gmail.com"
+    },
+    "responsable": {
+      "nom": "Catherine Durbecker",
+      "fonction": "présidente",
+      "source": "https://www.donzy.fr/associations-festives-ludiques/"
+    },
+    "activite_recente": "Marché de Noël de Donzy le 19 décembre 2026.",
+    "statut": "active",
+    "sources": [
+      "https://www.donzy.fr/associations-festives-ludiques/",
+      "https://www.donzy.fr/agenda/comite-des-fetes-donzy-en-fete-marche-de-noel-le-19-decembre-2026/"
+    ]
+  }
+]

@@ -1,0 +1,853 @@
+[
+  {
+    "id": "a01",
+    "nom": "Trait d'Union 58",
+    "type": "Association culturelle",
+    "discipline": "livre, cinéma, conférences, spectacles",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Association culturelle cosnoise créée en 1991, qui dit « partager la culture depuis plus de 30 ans » autour de la littérature, du cinéma et des conférences. C'est le principal opérateur culturel associatif de la ville : la mairie lui a voté une convention d'objectifs de 35 000 € pour 2023, de loin la plus grosse aide culturelle municipale. Très active en 2024–2026 : le Salon du Livre de Cosne a tenu sa 38e édition du 22 au 24 mai 2026.",
+    "evenements_existants": "Salon du Livre de Cosne sous chapiteau, place Huyghues des Étages : 36e édition « L'Œil et la Plume » du 31 mai au 2 juin 2024, 37e du 30 mai au 1er juin 2025, 38e du 22 au 24 mai 2026. Également : le Festival du Film (présidé en 2025 par Dominique Besnehard), Les Avant-Premières (novembre 2026), le festival documentaire « Regards sur @illeurs », des conférences, le Cabaret du rire, des concerts et un club de dictée.",
+    "idee_evenement": "Une soirée « dédicace + vernissage » en marge du Salon du Livre ou des Avant-Premières : un auteur ou un illustrateur dont les planches sont accrochées dans le lieu, suivi d'un dîner-rencontre.",
+    "contact": {
+      "site": "https://www.traitdunion58.fr",
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "BP 42, 20 rue Waldeck Rousseau, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.traitdunion58.fr",
+      "https://www.festivalenfrance.com/festival/salon-du-livre-de-cosne",
+      "https://www.festivalenfrance.com/festival/salon-du-livre-de-cosne/2025",
+      "https://politique.pappers.fr/commune/document/385245a4cacd666aa706bfb3dcea7b14",
+      "https://politique.pappers.fr/commune/document/4dc1bbab02cfaf6b1a068df07967aada",
+      "https://recherche-entreprises.api.gouv.fr/search?q=trait%20d%20union&code_postal=58200&per_page=10"
+    ]
+  },
+  {
+    "id": "a02",
+    "nom": "Association Formes et Couleurs",
+    "type": "Arts plastiques",
+    "discipline": "arts visuels (d'après son nom ; activité exacte à confirmer)",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Association cosnoise ancienne (date de création 1961 au répertoire SIRENE), dont le siège est au Vieux Château, rue Alphonse Baudin. La ville l'a subventionnée en 2023 au titre de la culture (1 000 €, ligne « arts, culture et festivals »). Son activité précise et sa programmation 2024–2026 n'ont pas pu être vérifiées en ligne : c'est l'association d'arts plastiques la plus évidente de Cosne, à appeler en premier pour confirmer.",
+    "evenements_existants": null,
+    "idee_evenement": "Une exposition collective de ses membres dans le lieu, renouvelée chaque trimestre, avec vernissage et une soirée « peinture en direct » où les artistes créent devant les clients.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Vieux Château, rue Alphonse Baudin, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://recherche-entreprises.api.gouv.fr/search?q=formes%20et%20couleurs&code_postal=58200&per_page=10",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143",
+      "https://politique.pappers.fr/commune/document/b16e1e766c07f46c9d615d664ea346fc"
+    ]
+  },
+  {
+    "id": "a03",
+    "nom": "Regards Photo (club Regards-photo de Cosne)",
+    "type": "Photo & vidéo",
+    "discipline": "photographie",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Club photo de Cosne, déclaré en association (SIREN 904532744) et soutenu par la ville (400 € en 2023). Il expose le travail de ses membres : à l'été 2026, il a présenté des photographies d'architecture et de monuments à la médiathèque de Cosne, dans le cadre des Expositions estivales du réseau Cœur de Loire. Activité récente confirmée (2026).",
+    "evenements_existants": "Exposition photo « architecture et monuments » à la médiathèque de Cosne pendant les Expositions estivales (du 1er juillet au 31 août 2026, rencontre avec les artistes le 10 juillet).",
+    "idee_evenement": "Une exposition photo thématique dans la salle (par exemple « Cosne et la Loire ») avec vernissage, suivie d'un concours photo public dont les lauréats sont exposés et récompensés lors d'une soirée.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "40 rue des Rivières Saint-Agnan, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.jds.fr/cosne-cours-sur-loire/expos/expositions-estivales-1595385_A",
+      "https://recherche-entreprises.api.gouv.fr/search?q=photo&code_postal=58200&nature_juridique=9220&per_page=25",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143"
+    ]
+  },
+  {
+    "id": "a04",
+    "nom": "Les Amis du Musée de la Loire et du Patrimoine",
+    "type": "Patrimoine & histoire",
+    "discipline": "musée, beaux-arts, patrimoine ligérien",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Association de soutien au Musée de la Loire, créée en 2015. Elle achète des œuvres, finance des restaurations, mène des recherches et publie les « Cahiers des Amis du musée » (n°28 paru en 2023). Ses adhérents sont invités aux vernissages et participent à des visites privilèges et à des sorties culturelles ; les adhésions 2025 et 2026 sont ouvertes, l'association est donc active.",
+    "evenements_existants": "Participation au cycle de conférences du Musée de la Loire ; « rendez-vous des Amis », visites privilèges et sorties culturelles pour les adhérents ; vente des Cahiers des Amis du musée.",
+    "idee_evenement": "Un « apéro-conférence » mensuel où un auteur des Cahiers présente une œuvre ou un pan d'histoire ligérienne en lien avec l'exposition accrochée dans le lieu.",
+    "contact": {
+      "site": "https://www.museedelaloire.fr/amis-du-musee/",
+      "email": "amisdumuseecosne@gmail.com",
+      "telephone": null,
+      "facebook": "Page Facebook « Les amis du musée de la Loire et du Patrimoine » (citée par le musée, URL non relevée)",
+      "instagram": null,
+      "adresse": "Musée de la Loire, place de la Résistance, 58200 Cosne-Cours-sur-Loire"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.museedelaloire.fr/amis-du-musee/",
+      "https://www.helloasso.com/associations/les-amis-du-musee-de-la-loire-et-du-patrimoine",
+      "https://recherche-entreprises.api.gouv.fr/search?q=patrimoine&code_postal=58200&nature_juridique=9220&per_page=25",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143"
+    ]
+  },
+  {
+    "id": "a05",
+    "nom": "Compagnie Agora – L'Atelier",
+    "type": "Danse",
+    "discipline": "danse classique et contemporaine, spectacle pluridisciplinaire",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Compagnie associative de création pluridisciplinaire (danse, chant, poésie), fondée et dirigée par la chorégraphe Cécile Berrebi de Noailles. Son second lieu, L'Atelier, est installé à Cosne depuis 2016 : cours de danse classique et contemporaine, barre au sol, yoga et ateliers chorégraphiques dès 3 ans. Très active : concert-spectacle sur Barbara à Cosne fin octobre 2026, et spectacle « Corybantes » prévu le 12 juin 2027.",
+    "evenements_existants": "« La Dame brune… Barbara… », concert-spectacle danse, chant et poésie (Cosne, du 28 au 30 octobre 2026) ; démonstration publique des élèves au Belvédère du Palais de Loire (décembre) ; « Corybantes », spectacle de fin d'année au Palais de Loire le 12 juin 2027 ; stages d'été et yoga en plein air (2026).",
+    "idee_evenement": "Programmer « La Dame brune… Barbara… » ou une performance dansée in situ pendant un vernissage, les danseurs répondant aux œuvres exposées.",
+    "contact": {
+      "site": "https://lateliercompagniea.wixsite.com/website",
+      "email": "directioncompagnieagora@gmail.com",
+      "telephone": "06 63 78 08 13",
+      "facebook": "https://www.facebook.com/profile.php?id=100017279943339",
+      "instagram": null,
+      "adresse": "8 rue Marcellin Berthelot, 58200 Cosne-Cours-sur-Loire"
+    },
+    "responsable": {
+      "nom": "Cécile Berrebi de Noailles",
+      "fonction": "fondatrice et directrice",
+      "source": "https://lateliercompagniea.wixsite.com/website"
+    },
+    "priorite": "Haute",
+    "sources": [
+      "https://lateliercompagniea.wixsite.com/website",
+      "https://compagnieagora.wixsite.com/website",
+      "https://www.helloasso.com/associations/compagnie-agora",
+      "https://www.fest.fr/agenda/nievre/cosne-cours-sur-loire/concerts-et-musique"
+    ]
+  },
+  {
+    "id": "a06",
+    "nom": "Le Grenier du Nohain",
+    "type": "Théâtre & spectacle",
+    "discipline": "théâtre (comédie)",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Troupe de théâtre de Cosne, qui reçoit la plus grosse subvention théâtre de la ville (5 200 € en 2023). Elle joue notamment du répertoire comique : une comédie burlesque de Ray Cooney est annoncée à Cosne le 27 novembre 2026. Active en 2026.",
+    "evenements_existants": "Comédie de Ray Cooney, Cosne-Cours-sur-Loire, 27 novembre 2026.",
+    "idee_evenement": "Une soirée « théâtre à table » avec saynètes ou lecture-spectacle jouée au milieu de l'exposition, ou une soirée d'après-spectacle avec la troupe au lendemain de ses représentations.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Place de la Résistance, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.jds.fr/cosne-cours-sur-loire/agenda/theatre-23_B",
+      "https://recherche-entreprises.api.gouv.fr/search?q=grenier%20du%20nohain&per_page=10",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143"
+    ]
+  },
+  {
+    "id": "a07",
+    "nom": "Association des Gabarriers du Haut Val-de-Loire",
+    "type": "Patrimoine & histoire",
+    "discipline": "marine de Loire, bateaux traditionnels",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Association cosnoise créée en 2009 qui fait vivre le patrimoine fluvial. En 2012–2013, elle a construit avec des collégiens la gabarre de 12 m « Princesse de Loire », sur laquelle elle propose des balades. Chaque printemps, elle organise sur les quais et la place de la Pêcherie la fête de la Loire, en partenariat avec la ville (mai 2026). Active en 2026.",
+    "evenements_existants": "La Loire en fête / Foire de la Loire, place de la Pêcherie, en mai (23–24 mai 2026 selon le Musée de la Loire, 16–17 mai selon Festivals en France) : présentation de la marine de Loire, balades sur la Princesse de Loire, brocante et chants de mariniers. Ateliers avec les scolaires.",
+    "idee_evenement": "Une soirée « Loire et mariniers » : exposition de photos et de maquettes de bateaux de Loire, chants de mariniers et récits de gabarriers, avec une balade en gabarre proposée le lendemain.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Mairie, place du Docteur Huyghues des Étages, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": {
+      "nom": "Alain Turpin",
+      "fonction": "président (mentionné en 2013 — à vérifier)",
+      "source": "https://gabarredeloire-cosne.blogspot.com/"
+    },
+    "priorite": "Haute",
+    "sources": [
+      "https://www.museedelaloire.fr/fete-de-la-loire/",
+      "https://www.festivalenfrance.com/festival/foire-de-la-loire-a-cosne",
+      "https://gabarredeloire-cosne.blogspot.com/",
+      "https://recherche-entreprises.api.gouv.fr/search?q=gabarriers&code_postal=58200&per_page=10",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143"
+    ]
+  },
+  {
+    "id": "a08",
+    "nom": "La Compagnie La Louve",
+    "type": "Théâtre & spectacle",
+    "discipline": "théâtre",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Compagnie de théâtre associative basée à Cosne, créée en 2015, deuxième subvention théâtre de la ville (4 800 € en 2023). Elle porte aussi le projet « Parole des anciens » (500 € au titre du Contrat de ville), qui recueille la parole d'habitants âgés. Activité 2024–2026 non vérifiée en ligne.",
+    "evenements_existants": "Projet « Parole des anciens » (Contrat de ville, 2023).",
+    "idee_evenement": "Une lecture-spectacle tirée des témoignages « Parole des anciens » sur le Cosne d'autrefois, jouée au milieu d'une exposition de photos anciennes de la ville.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "235 rue des Frères Gambon, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://recherche-entreprises.api.gouv.fr/search?q=compagnie%20de%20la%20louve&per_page=10",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143",
+      "https://politique.pappers.fr/commune/document/b16e1e766c07f46c9d615d664ea346fc"
+    ]
+  },
+  {
+    "id": "a09",
+    "nom": "L'Harmonie de Cosne",
+    "type": "Musique",
+    "discipline": "orchestre d'harmonie",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Harmonie associative de Cosne (SIREN 778449975), qui assure notamment la musique des cérémonies officielles de la ville. Elle a reçu 1 500 € en 2023 pour ces concerts de cérémonie, puis une subvention complémentaire votée en décembre 2023. Programme 2025–2026 non vérifié en ligne.",
+    "evenements_existants": "Concerts lors des cérémonies commémoratives et officielles de Cosne.",
+    "idee_evenement": "Un petit ensemble (quintette de cuivres ou de bois) pour ouvrir un vernissage, ou des apéros-concerts en terrasse les soirs d'été.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "8 impasse de la Madeleine, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://recherche-entreprises.api.gouv.fr/search?q=harmonie&code_postal=58200&per_page=10",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143",
+      "https://politique.pappers.fr/commune/document/008a9dcabf68ca6db4a41cc7f0955726"
+    ]
+  },
+  {
+    "id": "a10",
+    "nom": "Quarante-Sept Deux",
+    "type": "Association culturelle",
+    "discipline": "à préciser",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Association cosnoise créée en décembre 2018, présidée selon le répertoire SIRENE par Nicolas Couturier. Elle figure dans la ligne « arts, culture et festivals » des subventions municipales de 2023 (1 500 €, autant que l'Harmonie), ce qui suggère une vraie activité culturelle. Son objet exact n'a pas pu être vérifié en ligne.",
+    "evenements_existants": null,
+    "idee_evenement": "Après un premier échange pour cerner son activité, lui proposer d'occuper le lieu pour un rendez-vous mensuel (concert, projection ou soirée thématique) autour de l'exposition en cours.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "1 rue Waldeck Rousseau, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": {
+      "nom": "Nicolas Couturier",
+      "fonction": "président (mention « PDT » dans l'adresse du siège)",
+      "source": "https://recherche-entreprises.api.gouv.fr/search?q=quarante%20sept%20deux&per_page=10"
+    },
+    "priorite": "Moyenne",
+    "sources": [
+      "https://recherche-entreprises.api.gouv.fr/search?q=quarante%20sept%20deux&per_page=10",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143"
+    ]
+  },
+  {
+    "id": "a11",
+    "nom": "Association des Artisans et Commerçants Cosnois (ACC)",
+    "type": "Commerce & tourisme",
+    "discipline": "union commerciale",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Union commerciale de Cosne fondée en 1989 (SIREN 352617823), soutenue par la ville pour l'animation commerciale (4 000 € en 2023). Après des difficultés en 2024, le commerçant Gilles Clarisse a proposé de relancer l'association en mai 2026 (presse locale reprise par info.fr) : c'est le bon moment pour proposer des animations communes.",
+    "evenements_existants": "Animations commerciales ponctuelles par le passé (concours de dessin de Pâques en 2012, actions de communication en 2017) ; programme 2026 en cours de redéfinition.",
+    "idee_evenement": "Un « parcours de l'art en vitrine » : les œuvres de l'exposition et d'artistes locaux s'étendent aux vitrines des commerçants, avec une nocturne commerçante qui finit par le vernissage dans le lieu.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "33 rue des Rivières Saint-Agnan, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": {
+      "nom": "Gilles Clarisse",
+      "fonction": "commerçant porteur de la relance de l'ACC (mai 2026) — fonction officielle non précisée",
+      "source": "https://info.fr/cosne-cours-sur-loire-gilles-clarisse-relance-association-commercants/"
+    },
+    "priorite": "Moyenne",
+    "sources": [
+      "https://info.fr/cosne-cours-sur-loire-gilles-clarisse-relance-association-commercants/",
+      "https://recherche-entreprises.api.gouv.fr/search?q=artisans%20commercants%20cosnois&per_page=10",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143"
+    ]
+  },
+  {
+    "id": "a12",
+    "nom": "Centre social et culturel Suzanne Coulomb",
+    "type": "Jeunesse",
+    "discipline": "animation socioculturelle, enfance-jeunesse, familles",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Centre social et culturel associatif de Cosne (rue du Berry, SIREN 778449611). En 2023, la ville l'a soutenu pour l'accueil périscolaire (10 000 €), l'accompagnement à la scolarité (CLAS, 4 000 €) et des animations dans l'espace public (500 €). C'est un relais naturel vers les familles et les jeunes de la ville.",
+    "evenements_existants": "Animations dans l'espace public, accueil périscolaire et accompagnement à la scolarité (2023).",
+    "idee_evenement": "Exposer dans le lieu les créations d'un atelier d'arts plastiques mené avec les jeunes du centre, avec un vernissage « familles » en fin d'après-midi.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "15 rue du Berry, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://recherche-entreprises.api.gouv.fr/search?q=centre%20social&code_postal=58200&per_page=10",
+      "https://politique.pappers.fr/commune/document/b16e1e766c07f46c9d615d664ea346fc"
+    ]
+  },
+  {
+    "id": "a13",
+    "nom": "CEC – Culture Éducation Création",
+    "type": "Association culturelle",
+    "discipline": "scènes ouvertes, musique, spectacle jeune public",
+    "ville": "Bué",
+    "code_postal": "18300",
+    "distance_cosne_km": 20,
+    "description": "Association loi 1901 du Sancerrois, fondée à Bué en 2016. Elle propose des cours de musique et d'anglais, des spectacles et ateliers jeune public, accompagne des artistes et organise le Festival de Bué. Chaque mois, elle anime une scène ouverte au Café de l'Union à Saint-Satur : un artiste invité en carte blanche, puis une scène libre. Très active en 2026, et déjà habituée à programmer dans un café.",
+    "evenements_existants": "Scènes ouvertes mensuelles au Café de l'Union, 26 rue Hilaire Amagat, Saint-Satur : José Roland Koffi le 15 octobre 2026, Major Swing Duo le 18 novembre 2026, Berry Comedy Club le 16 décembre 2026. Également : le Festival de Bué, et des spectacles et ateliers pour les 0–12 ans.",
+    "idee_evenement": "Reprendre leur format de scène ouverte à Cosne : un soir par mois, un artiste invité joue au milieu de l'exposition, suivi d'une scène libre et d'un menu du jour.",
+    "contact": {
+      "site": "https://www.cec-bue.com/",
+      "email": "cec.bue@gmail.com",
+      "telephone": "02 48 54 32 18",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "8 rue de Venoize, 18300 Bué"
+    },
+    "responsable": {
+      "nom": "Delphine Fargialla",
+      "fonction": "présidente",
+      "source": "https://www.cec-bue.com/"
+    },
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.cec-bue.com/",
+      "https://www.cec-bue.com/scenes-ouvertes",
+      "https://www.jds.fr/concerts/scene-ouverte-jose-roland-koffi-1306594_A",
+      "https://www.fest.fr/agenda/nievre/cosne-cours-sur-loire?ordre=popu",
+      "https://recherche-entreprises.api.gouv.fr/search?q=culture&code_postal=18300&per_page=25"
+    ]
+  },
+  {
+    "id": "a14",
+    "nom": "Allons Voir ! Parcours d'art contemporain",
+    "type": "Arts plastiques",
+    "discipline": "art contemporain in situ",
+    "ville": "Vailly-sur-Sauldre",
+    "code_postal": "18260",
+    "distance_cosne_km": 30,
+    "description": "Association créée en 2018 qui organise chaque été un parcours d'art contemporain dans les villages du Pays Fort, autour des granges pyramidales. Une commissaire (Marie Gayet) y invite des artistes et de jeunes diplômés de l'ENSA Bourges. La 8e édition, « Nouvelles Heures », s'est tenue du 4 juillet au 4 octobre 2026. Très active.",
+    "evenements_existants": "Parcours Allons Voir !, 8e édition du 4 juillet au 4 octobre 2026, à Assigny, Barlieu, Concressault, Subligny, Sury-ès-Bois, Thou, Vailly-sur-Sauldre et Villegenon.",
+    "idee_evenement": "Faire du lieu une « antenne cosnoise » du parcours : œuvres ou documents d'artistes de l'édition exposés à Cosne, et un apéro-rencontre avec la commissaire pour lancer l'édition suivante.",
+    "contact": {
+      "site": "https://allonsvoir.eu",
+      "email": "contact@allonsvoir.eu",
+      "telephone": "06 63 32 34 93",
+      "facebook": "https://www.facebook.com/pg/allonsvoir.paysfort",
+      "instagram": null,
+      "adresse": "6 route de Pierrefitte, 18260 Vailly-sur-Sauldre"
+    },
+    "responsable": {
+      "nom": "Marie Gayet",
+      "fonction": "commissaire artistique du parcours (contact artistique, pas une fonction statutaire)",
+      "source": "https://allonsvoir.eu"
+    },
+    "priorite": "Moyenne",
+    "sources": [
+      "https://allonsvoir.eu",
+      "https://www.comcompsv.fr/userfile/documents/Plaquette%202023%20final.pdf",
+      "https://recherche-entreprises.api.gouv.fr/search?q=allons%20voir&code_postal=18260&per_page=10"
+    ]
+  },
+  {
+    "id": "a15",
+    "nom": "Les Amis du Musée du Grès (Amis du Grès)",
+    "type": "Arts plastiques",
+    "discipline": "céramique, grès de Puisaye",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 24,
+    "description": "Association de Saint-Amand-en-Puisaye, capitale de la poterie (SIREN 451729313, siège à la mairie). Elle organise chaque week-end de Pâques le Printemps de la Céramique au château : une quarantaine de céramistes, des démonstrations de tournage et de décor, et des visites de la Maison de la Mémoire Potière. Édition 2026 les 4 et 5 avril. Puisaye Tourisme désigne l'organisateur sous le nom « Amis du Grès », Festivals en France sous celui d'« Amis du musée de la poterie ».",
+    "evenements_existants": "Printemps de la Céramique, château de Saint-Amand-en-Puisaye (week-end de Pâques ; 4–5 avril 2026).",
+    "idee_evenement": "Une exposition-vente de céramistes de Puisaye avec une démonstration de tournage le soir du vernissage et un dîner servi dans la vaisselle des artisans.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": "06 86 27 60 97",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Mairie, 58310 Saint-Amand-en-Puisaye (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/temps-fort/les-marches-potiers-en-puisaye/",
+      "https://www.festivalenfrance.com/festival/printemps-de-la-ceramique",
+      "https://recherche-entreprises.api.gouv.fr/search?q=amis%20du%20gres&per_page=10"
+    ]
+  },
+  {
+    "id": "a16",
+    "nom": "Le Chat Musiques (festival Blues en Loire)",
+    "type": "Festival",
+    "discipline": "blues",
+    "ville": "La Charité-sur-Loire",
+    "code_postal": "58400",
+    "distance_cosne_km": 30,
+    "description": "Association créée en 1987 qui organise Blues en Loire, un festival de blues installé dans les lieux patrimoniaux de La Charité (cloître du prieuré, Halle aux Grains). Sa 24e édition a eu lieu du 12 au 15 août 2026. L'association programme aussi des concerts toute l'année dans les villes et villages des environs. Très active.",
+    "evenements_existants": "Festival Blues en Loire (12–15 août 2026, à La Charité, Guérigny et Varennes-lès-Narcy) ; saison de concerts, dont JW-Jones à la salle des fêtes de La Charité le 8 novembre 2026.",
+    "idee_evenement": "Une date « Blues en Loire hors les murs » à Cosne : concert acoustique de blues dans le lieu, avec une exposition de photos des éditions du festival.",
+    "contact": {
+      "site": "https://www.bluesenloire.com",
+      "email": null,
+      "telephone": null,
+      "facebook": "https://www.facebook.com/bluesenloire",
+      "instagram": "https://www.instagram.com/blues_en_loire",
+      "adresse": "Place de la Mairie, 58400 La Charité-sur-Loire"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.bluesenloire.com",
+      "https://www.festivalenfrance.com/festival/blues-en-loire",
+      "https://recherche-entreprises.api.gouv.fr/search?q=musique&code_postal=58200&per_page=25"
+    ]
+  },
+  {
+    "id": "a17",
+    "nom": "Un Piment dans le Loukoum (Festivendanges)",
+    "type": "Festival",
+    "discipline": "musiques actuelles (rock, groove, celtique, électro)",
+    "ville": "Sancerre",
+    "code_postal": "18300",
+    "distance_cosne_km": 15,
+    "description": "Association sancerroise créée en 2014, dont la page Facebook est indiquée comme contact du festival Festivendanges : c'est très probablement son organisatrice. Le festival propose deux soirées de concerts au pied de la Tour des Fiefs pendant les vendanges, avec des animations pour enfants le samedi. La 12e édition a eu lieu les 26 et 27 septembre 2025 ; l'édition 2026 n'est pas confirmée en ligne.",
+    "evenements_existants": "Festivendanges, place du Connétable / Tour des Fiefs, Sancerre (12e édition, 26–27 septembre 2025).",
+    "idee_evenement": "Un « before Festivendanges » à Cosne : concert d'un groupe de la programmation et exposition d'affiches et de photos des éditions précédentes.",
+    "contact": {
+      "site": "https://festivendanges.com",
+      "email": null,
+      "telephone": null,
+      "facebook": "https://www.facebook.com/pimentdansleloukoum",
+      "instagram": null,
+      "adresse": "2 B rue Johanneau, 18300 Sancerre (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.festivalenfrance.com/festival/festivendanges-sancerre/2025",
+      "https://recherche-entreprises.api.gouv.fr/search?q=piment%20dans%20le%20loukoum&per_page=10"
+    ]
+  },
+  {
+    "id": "a18",
+    "nom": "Compagnie Les Volkanik",
+    "type": "Théâtre & spectacle",
+    "discipline": "théâtre, jeux, spectacle participatif",
+    "ville": "Donzy",
+    "code_postal": "58220",
+    "distance_cosne_km": 17,
+    "description": "Compagnie associative créée à Donzy en octobre 2022 (« culture, théâtre, troupe artistique, chants, images »). Elle organise Donzy et Dragons, un festival gratuit de jeux de société, de rôle et de cartes dès 6 ans. L'édition du 9 au 11 octobre 2026 incluait « Very Cold Case », une enquête jouée par des comédiens dans les rues du village. Très active.",
+    "evenements_existants": "Festival Donzy et Dragons, salle des fêtes de Donzy (13–14 septembre 2025 ; 9–11 octobre 2026), avec l'enquête théâtrale « Very Cold Case ».",
+    "idee_evenement": "Une soirée « murder party » ou enquête théâtrale dont les indices sont cachés dans les œuvres de l'exposition, suivie d'un dîner.",
+    "contact": {
+      "site": null,
+      "email": "lesvolkanik58@gmail.com",
+      "telephone": "06 08 48 33 16 (annuaire de la mairie) ; 06 27 62 31 34 (contact du festival Donzy et Dragons)",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "1 Faubourg de Larrey, 58220 Donzy"
+    },
+    "responsable": {
+      "nom": "Nicolas Lepercq",
+      "fonction": "président (directrice artistique : Tessa Volkine)",
+      "source": "https://www.donzy.fr/associations-art-culture/"
+    },
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.donzy.fr/associations-art-culture/",
+      "https://www.festivalenfrance.com/festival/donzy-et-dragons",
+      "https://recherche-entreprises.api.gouv.fr/search?q=volkanik&per_page=10"
+    ]
+  },
+  {
+    "id": "a19",
+    "nom": "Vidéoclub 58",
+    "type": "Photo & vidéo",
+    "discipline": "ciné-club (projections, conférences, débats)",
+    "ville": "Donzy",
+    "code_postal": "58220",
+    "distance_cosne_km": 17,
+    "description": "Association de Donzy qui organise des projections de films suivies de conférences et de débats. Elle figure dans l'annuaire « art & culture » de la mairie de Donzy. Sa programmation récente n'a pas été vérifiée en ligne.",
+    "evenements_existants": null,
+    "idee_evenement": "Un ciné-club mensuel dans le lieu : projection d'un film lié à l'exposition (portrait d'artiste, documentaire), débat, puis repas.",
+    "contact": {
+      "site": null,
+      "email": "videoclub58@outlook.fr",
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": {
+      "nom": "Jonathan Maneru",
+      "fonction": "président",
+      "source": "https://www.donzy.fr/associations-art-culture/"
+    },
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.donzy.fr/associations-art-culture/"
+    ]
+  },
+  {
+    "id": "a20",
+    "nom": "Théâtre de l'Escabeau (Escabeau Pépinière Théâtrale)",
+    "type": "Théâtre & spectacle",
+    "discipline": "théâtre, jeune public, marionnettes, lectures",
+    "ville": "Briare",
+    "code_postal": "45250",
+    "distance_cosne_km": 32,
+    "description": "« Pépinière théâtrale » installée à la Ferme de Rivotte, à Briare (association déclarée en 1987). Elle anime des ateliers, des créations qui tournent pour tout public et jeune public, et une saison de spectacles. Son festival (18e édition du 30 octobre au 2 novembre 2025) revient du 29 octobre au 1er novembre 2026, suivi des Rencontres amateurs en novembre. Très active.",
+    "evenements_existants": "Festival de l'Escabeau : théâtre, chanson, musique, lectures et marionnettes (30 octobre–2 novembre 2025 ; 29 octobre–1er novembre 2026). Également : les Rencontres amateurs (novembre), des ateliers et la saison 2026.",
+    "idee_evenement": "Accueillir une forme légère en tournée (lecture, seul-en-scène ou marionnettes) pour une soirée « théâtre à table » dans le lieu.",
+    "contact": {
+      "site": "https://theatre-escabeau.com",
+      "email": null,
+      "telephone": "06 69 99 02 14",
+      "facebook": "https://www.facebook.com/theatre.escabeau",
+      "instagram": "https://www.instagram.com/theatre.escabeau",
+      "adresse": "Ferme de Rivotte, 45250 Briare"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://theatre-escabeau.com",
+      "https://www.festivalenfrance.com/festival/festival-du-theatre-de-lescabeau/2025",
+      "https://recherche-entreprises.api.gouv.fr/search?q=escabeau&code_postal=45250&per_page=10"
+    ]
+  },
+  {
+    "id": "a21",
+    "nom": "Association D'Jazz Nevers",
+    "type": "Musique",
+    "discipline": "jazz",
+    "ville": "Nevers",
+    "code_postal": "58000",
+    "distance_cosne_km": 55,
+    "description": "Association nivernaise créée en 1988, enregistrée comme « pôle de référence jazz en Bourgogne-Franche-Comté ». La ville de Cosne a signé avec elle une convention pour une saison « D'Jazz à Cosne » en 2024 : elle a donc déjà programmé des concerts à Cosne. Elle est hors du rayon de 40 km, mais c'est déjà un partenaire de la ville.",
+    "evenements_existants": "Saison « D'Jazz à Cosne » 2024 (convention de partenariat votée par le conseil municipal de Cosne le 14 décembre 2023).",
+    "idee_evenement": "Proposer le lieu comme scène « club » de la saison D'Jazz à Cosne : concert en trio puis jam session après le concert principal.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "BP 824, 3 bis place des Reines de Pologne, 58000 Nevers (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://politique.pappers.fr/commune/document/008a9dcabf68ca6db4a41cc7f0955726",
+      "https://recherche-entreprises.api.gouv.fr/search?q=jazz&code_postal=58000&per_page=10"
+    ]
+  },
+  {
+    "id": "a22",
+    "nom": "L'Effet Cabaret",
+    "type": "Théâtre & spectacle",
+    "discipline": "cabaret (d'après son nom)",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Association subventionnée par la ville de Cosne au titre de la culture (300 € en 2023, ligne « arts, culture et festivals »). Elle est introuvable au répertoire SIRENE et aucune présence en ligne n'a été repérée : son existence et son activité 2024–2026 sont à confirmer auprès de la mairie.",
+    "evenements_existants": null,
+    "idee_evenement": "Si elle est active, lui confier une soirée cabaret (chansons, sketches) dans le lieu, sur le thème de l'exposition du moment.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143",
+      "https://recherche-entreprises.api.gouv.fr/search?q=cabaret&code_postal=58200&per_page=10"
+    ]
+  },
+  {
+    "id": "a23",
+    "nom": "UP 2 Dance",
+    "type": "Danse",
+    "discipline": "danse",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Association de danse subventionnée par la ville de Cosne (300 € en 2023, ligne culture). Elle est introuvable au répertoire SIRENE et aucune présence en ligne n'a été repérée : son activité récente est à confirmer.",
+    "evenements_existants": null,
+    "idee_evenement": "Une démonstration de danse pendant un vernissage, ou une soirée dansante thématique une fois par mois.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143"
+    ]
+  },
+  {
+    "id": "a24",
+    "nom": "Comité des fêtes de Villechaud",
+    "type": "Fêtes & animations",
+    "discipline": "animations de hameau",
+    "ville": "Cosne-Cours-sur-Loire (Villechaud)",
+    "code_postal": "58200",
+    "distance_cosne_km": 5,
+    "description": "Comité des fêtes du hameau de Villechaud (commune de Cosne), déclaré en 2001 et soutenu par la ville (300 € en 2023). Son programme récent n'a pas été vérifié en ligne.",
+    "evenements_existants": null,
+    "idee_evenement": "Associer le comité à une soirée « guinguette » ou à un repas de quartier qui se termine par une visite commentée de l'exposition.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Chemin du Rio Merlin, Villechaud, 58200 Cosne-Cours-sur-Loire (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://recherche-entreprises.api.gouv.fr/search?q=comite%20des%20fetes&code_postal=58200&per_page=25",
+      "https://politique.pappers.fr/commune/document/d7b8f6bed1bc27e6b70bdb82d1c2d143"
+    ]
+  },
+  {
+    "id": "a25",
+    "nom": "Association viticole des Coteaux du Giennois",
+    "type": "Commerce & tourisme",
+    "discipline": "vignerons de l'appellation Coteaux du Giennois",
+    "ville": "Saint-Père",
+    "code_postal": "58200",
+    "distance_cosne_km": 4,
+    "description": "Association de vignerons de l'appellation Coteaux du Giennois, dont le siège est à Saint-Père, aux portes de Cosne (SIREN 407937721). Des vignerons de l'appellation ont été partenaires d'une visite-dégustation du Musée de la Loire (« De l'eau dans son vin ! », 23 août 2026), mais l'association elle-même n'y est pas nommée.",
+    "evenements_existants": null,
+    "idee_evenement": "Des soirées « vernissage-dégustation » où un vigneron de l'appellation présente ses vins à côté des œuvres exposées.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "6 rue de la Mairie, 58200 Saint-Père (siège SIRENE)"
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://recherche-entreprises.api.gouv.fr/search?q=coteaux%20du%20giennois&per_page=10",
+      "https://www.guide-tourisme-france.com/AGENDA/animation-eau-dans-son-vin--musee-loire-14408.htm"
+    ]
+  },
+  {
+    "id": "a26",
+    "nom": "Le Festival de Boucard",
+    "type": "Festival",
+    "discipline": "musique classique, baroque et musiques du monde",
+    "ville": "Le Noyer",
+    "code_postal": "18260",
+    "distance_cosne_km": 35,
+    "description": "Festival associatif né en 1966 (60 ans en 2026) qui organise des concerts dans les villages et châteaux du Haut-Berry, dont plusieurs proches de Cosne. En 2026 : parcours musical à Bannay, Crézancy et Saint-Bouize (10–12 juillet), Sury-ès-Bois (1er août), Boulleret au château de Buranlure (18 septembre) et Léré (12 décembre). Très actif.",
+    "evenements_existants": "Saison 2026 des 60 ans : concerts d'avril à décembre, notamment au château de La Verrerie (Oizon), à Concressault, Sury-ès-Bois, Boulleret, Ivoy-le-Pré et Léré.",
+    "idee_evenement": "Un concert de musique de chambre « hors les murs » côté Nièvre, au milieu de l'exposition, suivi d'un dîner avec les musiciens.",
+    "contact": {
+      "site": "https://festival-boucard.fr",
+      "email": null,
+      "telephone": "06 75 90 23 82",
+      "facebook": "https://www.facebook.com/festivaldeboucard/",
+      "instagram": null,
+      "adresse": "Mairie, route de la Chapelotte, 18260 Le Noyer (siège SIRENE)"
+    },
+    "responsable": {
+      "nom": "Alfred de Lassence",
+      "fonction": "président (directeur artistique : Maxence Pilchen)",
+      "source": "https://festival-boucard.fr"
+    },
+    "priorite": "Basse",
+    "sources": [
+      "https://festival-boucard.fr",
+      "https://www.comcompsv.fr/userfile/documents/Plaquette%202023%20final.pdf",
+      "https://recherche-entreprises.api.gouv.fr/search?q=festival%20de%20boucard&per_page=10"
+    ]
+  },
+  {
+    "id": "a27",
+    "nom": "Lyre Donziaise",
+    "type": "Musique",
+    "discipline": "ensemble musical (lyre / harmonie)",
+    "ville": "Donzy",
+    "code_postal": "58220",
+    "distance_cosne_km": 17,
+    "description": "Ensemble musical associatif de Donzy, classé par la mairie à la fois dans les associations « art & culture » et « festives », signe qu'il anime les fêtes du village. Son programme récent n'est pas détaillé en ligne.",
+    "evenements_existants": null,
+    "idee_evenement": "Inviter la Lyre pour une aubade d'ouverture lors d'un vernissage ou d'une fête de rue devant le lieu.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": "06 62 11 51 68 (présidente) ; 06 52 75 07 42 (contact : Michel Brunet)",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "19 rue des Vignes, 58220 Donzy"
+    },
+    "responsable": {
+      "nom": "Irène Clément",
+      "fonction": "présidente",
+      "source": "https://www.donzy.fr/associations-art-culture/"
+    },
+    "priorite": "Basse",
+    "sources": [
+      "https://www.donzy.fr/associations-art-culture/",
+      "https://www.donzy.fr/associations-festives-ludiques/"
+    ]
+  },
+  {
+    "id": "a28",
+    "nom": "Donz'Y Danse",
+    "type": "Danse",
+    "discipline": "danse",
+    "ville": "Donzy",
+    "code_postal": "58220",
+    "distance_cosne_km": 17,
+    "description": "Association de danse de Donzy, inscrite dans l'annuaire « art & culture » de la mairie. Ses disciplines et son programme ne sont pas détaillés en ligne.",
+    "evenements_existants": null,
+    "idee_evenement": "Une démonstration ou une initiation de danse pendant une soirée thématique liée à l'exposition.",
+    "contact": {
+      "site": null,
+      "email": "donzydanse@gmail.com",
+      "telephone": "07 81 84 89 33",
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": {
+      "nom": "Diane Boissin",
+      "fonction": "présidente",
+      "source": "https://www.donzy.fr/associations-art-culture/"
+    },
+    "priorite": "Basse",
+    "sources": [
+      "https://www.donzy.fr/associations-art-culture/"
+    ]
+  },
+  {
+    "id": "a29",
+    "nom": "Association Culturelle du Donziais",
+    "type": "Association culturelle",
+    "discipline": "animation culturelle (non détaillée)",
+    "ville": "Donzy",
+    "code_postal": "58220",
+    "distance_cosne_km": 17,
+    "description": "Association culturelle de Donzy, inscrite dans l'annuaire « art & culture » de la mairie. Ses activités ne sont pas décrites en ligne. Son président préside aussi l'association de sauvegarde du Moulin de Maupertuis.",
+    "evenements_existants": null,
+    "idee_evenement": "Lui proposer une soirée d'échange entre le Donziais et Cosne : conférence ou présentation du patrimoine local dans le lieu, en lien avec l'exposition.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": "03 86 39 36 00",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "21 ter rue du Général Leclerc, 58220 Donzy"
+    },
+    "responsable": {
+      "nom": "Georges Narcy",
+      "fonction": "président",
+      "source": "https://www.donzy.fr/associations-art-culture/"
+    },
+    "priorite": "Basse",
+    "sources": [
+      "https://www.donzy.fr/associations-art-culture/",
+      "https://www.donzy.fr/associations-patrimoine-histoire-et-nature/"
+    ]
+  },
+  {
+    "id": "a30",
+    "nom": "Comité des fêtes « Donzy en Fête »",
+    "type": "Fêtes & animations",
+    "discipline": "fêtes de village, marché de Noël",
+    "ville": "Donzy",
+    "code_postal": "58220",
+    "distance_cosne_km": 17,
+    "description": "Comité des fêtes de Donzy, qui organise notamment le marché de Noël avec la ville (19 décembre 2026). Aucun contact propre n'est publié en ligne : passer par la mairie de Donzy.",
+    "evenements_existants": "Marché de Noël de Donzy, 19 décembre 2026.",
+    "idee_evenement": "Un échange de bons procédés : un stand du lieu au marché de Noël de Donzy, et une soirée « marché d'artisans-créateurs » dans le lieu pendant l'Avent.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://www.donzy.fr/categorie-agenda/associations/",
+      "https://www.donzy.fr/"
+    ]
+  }
+]

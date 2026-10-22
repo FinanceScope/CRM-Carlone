@@ -1,0 +1,1421 @@
+[
+ {
+  "siren": "955500194",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 6353448,
+     "resultat_net": -265429
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "420237398",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 8153449,
+     "resultat_net": 57355
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "631880192",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 8663553,
+     "resultat_net": 1245822
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "571880301",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 8194354,
+     "resultat_net": 46830
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "671880227",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 6902816,
+     "resultat_net": -1049302
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "338657604",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 8332303,
+     "resultat_net": -707068
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "323685453",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2023",
+   "finances": {
+    "2024": {
+     "ca": 5727895,
+     "resultat_net": 193370
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "844428623",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 8132313,
+     "resultat_net": 48023
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "692007768",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 8092171,
+     "resultat_net": 445160
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "950376566",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 7953284,
+     "resultat_net": 39928
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "823921739",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 7769044,
+     "resultat_net": 632
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "404816712",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2023",
+   "finances": {
+    "2024": {
+     "ca": 7024401,
+     "resultat_net": 177575
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "335275319",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 6959452,
+     "resultat_net": 403944
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "450817200",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 5666060,
+     "resultat_net": -412013
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "887120046",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 7174685,
+     "resultat_net": 241093
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "880515994",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 3951320,
+     "resultat_net": -462632
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "493717102",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 6826577,
+     "resultat_net": 16618
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "504703588",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 2533284,
+     "resultat_net": 61582
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "790066799",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 2301356,
+     "resultat_net": 41117
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "752881839",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1980904,
+     "resultat_net": -385662
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "830768529",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 684375,
+     "resultat_net": 36219
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "749981304",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 4526800,
+     "resultat_net": 101161
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "828037218",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1394992,
+     "resultat_net": 914
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "316742527",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2023": {
+     "ca": 838188,
+     "resultat_net": 112678
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "399782093",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 163352,
+     "resultat_net": 8097
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "451144380",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 485527,
+     "resultat_net": -3232
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "353323843",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 4316513,
+     "resultat_net": 598512
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "329779284",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 2585496,
+     "resultat_net": 155681
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "382085215",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 0,
+     "resultat_net": 85879
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : CA = 0 en 2024 avec un résultat net de 85879 (CA vraisemblablement non publié, à ne pas lire comme un CA nul)."
+ },
+ {
+  "siren": "378966931",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1866124,
+     "resultat_net": 245565
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "340352939",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 0,
+     "resultat_net": 17896
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : CA = 0 en 2024 avec un résultat net de 17896 (CA vraisemblablement non publié, à ne pas lire comme un CA nul)."
+ },
+ {
+  "siren": "849322359",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1198670,
+     "resultat_net": 63960
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "878108075",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2024": {
+     "ca": 0,
+     "resultat_net": 57827
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : CA = 0 en 2024 avec un résultat net de 57827 (CA vraisemblablement non publié, à ne pas lire comme un CA nul) ; tranche d'effectif NN sans année."
+ },
+ {
+  "siren": "797612009",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 14650
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : CA = 0 en 2025 avec un résultat net de 14650 (CA vraisemblablement non publié, à ne pas lire comme un CA nul) ; tranche d'effectif NN sans année."
+ },
+ {
+  "siren": "388705444",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 537869,
+     "resultat_net": 27768
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "812962827",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2024": {
+     "ca": 429983,
+     "resultat_net": 4546
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "812180347",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2023": {
+     "ca": 511515,
+     "resultat_net": -35876
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "501271068",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "31",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 6306788,
+     "resultat_net": -158468
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "834179566",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 6909946,
+     "resultat_net": 28776
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "493716625",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2024": {
+     "ca": 4747734,
+     "resultat_net": -303950
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : tranche d'effectif NN (non renseignée, sans année) malgré un CA 2024 de 4747734."
+ },
+ {
+  "siren": "530610187",
+  "api": {
+   "etat_administratif": null,
+   "tranche_effectif": null,
+   "annee_tranche_effectif": null,
+   "finances": null
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "5,97M",
+     "resultat_txt": "1,47M"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 20 et 49 salariés (donnée 2024)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "API recherche-entreprises : 3 échecs (client_error), aucune donnée API (champs api à null) ; page Pappers consultée à la place. Pappers n'affiche que l'exercice 2024 (montants arrondis ; date de clôture issue de l'annonce BODACC de dépôt des comptes) ; 'Comptes sociaux 2025' listés (document du 09/10/2026) mais non chiffrés. Siège transféré de Paris (19 rue Cambacérès) à Nevers (30 avenue Pierre Bérégovoy), BODACC 02/02/2026 ; 'Modification de la dénomination' publiée au BODACC le 13/10/2026. Inscription ORIAS (courtage) radiée depuis le 07/03/2025, mais la société est Active, 0 procédure collective ; plusieurs établissements secondaires parisiens fermés."
+ },
+ {
+  "siren": "345375661",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "32",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 5810535,
+     "resultat_net": 14164
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "449840974",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 5215890,
+     "resultat_net": 276157
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "929918241",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 5170253,
+     "resultat_net": 31857
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "311665913",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 48108
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : CA = 0 en 2025 avec un résultat net de 48108 (CA vraisemblablement non publié, à ne pas lire comme un CA nul)."
+ },
+ {
+  "siren": "430086165",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 4465397,
+     "resultat_net": 327511
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "950003723",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 3607850,
+     "resultat_net": -3585
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "351142807",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2023",
+   "finances": {
+    "2023": {
+     "ca": 0,
+     "resultat_net": 27043
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : dernier exercice 2023, CA = 0 avec un résultat net de 27043 (CA vraisemblablement non publié, à ne pas lire comme un CA nul)."
+ },
+ {
+  "siren": "530108307",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 3970594,
+     "resultat_net": 175051
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "379574767",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 3885916,
+     "resultat_net": 50182
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "852275684",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 3466386,
+     "resultat_net": 106281
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "821884632",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 2244081,
+     "resultat_net": -5145
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "381215102",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 3414677,
+     "resultat_net": 514785
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "452486673",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2023",
+   "finances": {
+    "2024": {
+     "ca": 3528111,
+     "resultat_net": 194767
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "317750313",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2021": {
+     "ca": 4329293,
+     "resultat_net": 2304
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,36M",
+     "resultat_txt": "-837K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,21M",
+     "resultat_txt": "2,93M"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,16M",
+     "resultat_txt": "2,53M"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 20 et 49 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "API finances limitées à 2021 (cohérent avec Pappers 2021 : 4,33M / 2,3K). Pappers n'affiche que des montants arrondis (K/M). Dates de clôture issues des annonces BODACC de dépôt des comptes. Résultat net 2023-2024 supérieur au CA (probable holding : comptes consolidés déposés jusqu'en 2021). Statut Pappers : Active, 0 procédure collective."
+ },
+ {
+  "siren": "318908837",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 3352275,
+     "resultat_net": 429997
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "315564443",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 3339049,
+     "resultat_net": 615950
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "498917202",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 3223535,
+     "resultat_net": 139087
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "321816571",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 2929396,
+     "resultat_net": 303253
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "444489033",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2793984,
+     "resultat_net": 102185
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "512311390",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2024": {
+     "ca": 0,
+     "resultat_net": 223372
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : CA = 0 en 2024 avec un résultat net de 223372 (CA vraisemblablement non publié, à ne pas lire comme un CA nul) ; tranche d'effectif NN sans année."
+ },
+ {
+  "siren": "792018814",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2358913,
+     "resultat_net": 4307
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "422413567",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2329567,
+     "resultat_net": 3033
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "530717867",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2300886,
+     "resultat_net": 103770
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "393036199",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 141608
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : CA = 0 en 2025 avec un résultat net de 141608 (CA vraisemblablement non publié, à ne pas lire comme un CA nul)."
+ },
+ {
+  "siren": "418515938",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2126835,
+     "resultat_net": -4361
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "450023338",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1859019,
+     "resultat_net": 841063
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "799045968",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2170662,
+     "resultat_net": 217349
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "495025884",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2023",
+   "finances": {
+    "2024": {
+     "ca": 1732546,
+     "resultat_net": 24337
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "305690950",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1741527,
+     "resultat_net": 13011
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "477827778",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1931784,
+     "resultat_net": -11144
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "499431286",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1733657,
+     "resultat_net": 46931
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "428920243",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1803541,
+     "resultat_net": 259236
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "753715762",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1773159,
+     "resultat_net": 267575
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "434618773",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2023",
+   "finances": {
+    "2024": {
+     "ca": 1474228,
+     "resultat_net": 36
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "340174051",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1438122,
+     "resultat_net": 54795
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "803113612",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1518902,
+     "resultat_net": 110045
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "841401722",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 227218
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : CA = 0 en 2025 avec un résultat net de 227218 (CA vraisemblablement non publié, à ne pas lire comme un CA nul)."
+ },
+ {
+  "siren": "448447771",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1351218,
+     "resultat_net": 244548
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "402891774",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1290622,
+     "resultat_net": -47494
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "418762761",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1294697,
+     "resultat_net": 126271
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "447839440",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2022": {
+     "ca": 1268318,
+     "resultat_net": 168506
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2023",
+     "date_cloture": "31/03/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,27M",
+     "resultat_txt": "169K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/03/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "156K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/03/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "185K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Exercice clos au 31/03. Les chiffres API '2022' (1268318 / 168506) correspondent à la colonne Pappers '2023' (exercice clos le 31/03/2023 : 1,27M / 169K) : décalage d'étiquette d'année entre API et Pappers. Comptes des exercices clos les 31/03/2024, 31/03/2025 et 31/03/2026 déposés avec déclaration de confidentialité (art. L. 232-25 al. 1) ; exercice clos le 31/03/2023 en présentation simplifiée (non confidentiel) ; exercices clos 2020-2022 avec confidentialité (CA masqué, résultat net visible). Pappers : montants arrondis uniquement, statut Active, 0 procédure collective."
+ },
+ {
+  "siren": "753956606",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1234652,
+     "resultat_net": 69965
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "804178879",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1211632,
+     "resultat_net": -184367
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ }
+]

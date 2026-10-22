@@ -1,0 +1,765 @@
+[
+{
+"tier": 2,
+"rang": 143,
+"siren": "409109360",
+"nom": "VERTINE",
+"enseigne": null,
+"ville": "Decize",
+"adresse": "ROUTE DE CHAMPVERT",
+"ca": 3528278,
+"effectif": "10-19 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"MAREDCA (Président)",
+"Marie-Christine MARDELE (DOS SANTOS) (Directeur Général)",
+"Mathias MARDELE (Directeur Général)",
+"SA SALVAN ET ASSOCIES ()"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/vertine-409109360"
+},
+{
+"tier": 2,
+"rang": 144,
+"siren": "452486673",
+"nom": "SIFLEURS",
+"enseigne": null,
+"ville": "Nevers",
+"adresse": "5 RUE VOLTAIRE",
+"ca": 3528111,
+"effectif": "20-49 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Frederic SIGNORET (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/sifleurs-452486673"
+},
+{
+"tier": 2,
+"rang": 145,
+"siren": "302331889",
+"nom": "FAURIE TRUCKS NEVERS",
+"enseigne": null,
+"ville": "Varennes-Vauzelles",
+"adresse": "6 RUE THOMAS EDISON",
+"ca": 3477091,
+"effectif": "10-19 salariés",
+"activite": "Commerce et réparation d'automobiles et de motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"FAURIE PARTICIPATIONS (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/faurie-trucks-nevers-302331889"
+},
+{
+"tier": 2,
+"rang": 146,
+"siren": "549879096",
+"nom": "SAPEM SOCIETE D'APPLICATIONS ELECTRIQUES ET MECANIQUES",
+"enseigne": null,
+"ville": "Cizely",
+"adresse": "LE BOURG",
+"ca": 3467187,
+"effectif": "20-49 salariés",
+"activite": "Fabrication de machines et équipements n.c.a.",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"HPS INTERNATIONAL GROUP (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/sapem-societe-dapplications-electriques-et-mecaniques-549879096"
+},
+{
+"tier": 2,
+"rang": 147,
+"siren": "852275684",
+"nom": "LA BOULANGERIE DES DOCKS",
+"enseigne": null,
+"ville": "Nevers",
+"adresse": "2 RUE DES DOCKS",
+"ca": 3466386,
+"effectif": "20-49 salariés",
+"activite": "Industries alimentaires",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"L3AP (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/la-boulangerie-des-docks-852275684"
+},
+{
+"tier": 2,
+"rang": 148,
+"siren": "492601133",
+"nom": "AMIS BATISSEURS",
+"enseigne": null,
+"ville": "Marzy",
+"adresse": "94 ROUTE DE NEVERS",
+"ca": 3427403,
+"effectif": "6-9 salariés",
+"activite": "Construction de bâtiments",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Laurent SILVENTE (Président)",
+"Jean-Francois DUMAS (Directeur Général)",
+"Luca MARANGON (Directeur Général)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+},
+{
+"tier": 2,
+"rang": 149,
+"siren": "381215102",
+"nom": "QUALIJURIS 58",
+"enseigne": null,
+"ville": "Nevers",
+"adresse": "2 AVENUE SAINT JUST",
+"ca": 3414677,
+"effectif": "20-49 salariés",
+"activite": "Activités juridiques",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Alexandre LOVATO (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/qualijuris-58-381215102"
+},
+{
+"tier": 2,
+"rang": 150,
+"siren": "412264111",
+"nom": "LES FORGES DU MORVAN",
+"enseigne": null,
+"ville": "Luzy",
+"adresse": "RTE DE TOULON",
+"ca": 3410000,
+"effectif": "10-19 salariés",
+"activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Sergio DA SILVA MATOS (Directeur Général)",
+"Jean-Michel LHUER (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111"
+},
+{
+"tier": 2,
+"rang": 152,
+"siren": "899839492",
+"nom": "TSF GERIN EXPLOITATION",
+"enseigne": null,
+"ville": "Cosne-Cours-sur-Loire",
+"adresse": "ROUTE N7 LE GRAND CHAMP",
+"ca": 3380000,
+"effectif": "6-9 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"AH EXPLOITATION (Président)"
+],
+"interlocuteur": "Alban GRONDARD — Gérant d'AH EXPLOITATION, présidente de la société"
+},
+"opposition_prospection": true,
+"pappers_url": "https://www.pappers.fr/entreprise/tsf-gerin-exploitation-899839492"
+},
+{
+"tier": 2,
+"rang": 153,
+"siren": "318908837",
+"nom": "SELAS PIERRE JOURDIER MARIE CHERAMY ET JEAN-CHARLES REROLLE",
+"enseigne": null,
+"ville": "Nevers",
+"adresse": "3 RUE HENRI BARBUSSE",
+"ca": 3352275,
+"effectif": "10-19 salariés",
+"activite": "Activités juridiques",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Pierre JOURDIER (Président)",
+"Marie Beatrice Iris CHERAMY (FEUCHERE) (Directeur Général)",
+"Jean-Charles REROLLE (Directeur Général)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/selas-pierre-jourdier-marie-cheramy-et-jean-charles-rerolle-318908837"
+},
+{
+"tier": 2,
+"rang": 154,
+"siren": "315564443",
+"nom": "CLINIQUE DU MORVAN",
+"enseigne": null,
+"ville": "Nevers",
+"adresse": "49 BOULEVARD JEROME TRESAGUET",
+"ca": 3339049,
+"effectif": "50-99 salariés",
+"activite": "Activités pour la santé humaine",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"ELSAN SAS (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/clinique-du-morvan-315564443"
+},
+{
+"tier": 2,
+"rang": 155,
+"siren": "500433289",
+"nom": "BORFLEX CORVOL",
+"enseigne": null,
+"ville": "Corvol-l'Orgueilleux",
+"adresse": "57 GR GRANDE RUE",
+"ca": 3322743,
+"effectif": "10-19 salariés",
+"activite": "Fabrication de produits en caoutchouc et en plastique",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"HOLDING QUINTIN (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/borflex-corvol-500433289"
+},
+{
+"tier": 2,
+"rang": 156,
+"siren": "353683089",
+"nom": "COIGNET PNEUS",
+"enseigne": null,
+"ville": "Clamecy",
+"adresse": "ROUTE DE COSNE LE FOULON",
+"ca": 3250000,
+"effectif": "10-19 salariés",
+"activite": "Commerce et réparation d'automobiles et de motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Guillaume Alain COIGNET (Président)",
+"Sophie Marie Elisabeth COIGNET (Directeur Général)",
+"Alain Daniel COIGNET (Directeur général délégué)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+},
+{
+"tier": 2,
+"rang": 157,
+"siren": "498917202",
+"nom": "AMBULANCES TISSIER",
+"enseigne": null,
+"ville": "Nevers",
+"adresse": "119 RUE DE MARZY",
+"ca": 3223535,
+"effectif": "20-49 salariés",
+"activite": "Activités pour la santé humaine",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Ghislaine TISSIER (TCATCHENKO) (Gérant)",
+"Cedric TISSIER (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/ambulances-tissier-498917202"
+},
+{
+"tier": 2,
+"rang": 159,
+"siren": "321816571",
+"nom": "PHARMACIE COLBERT",
+"enseigne": null,
+"ville": "Nevers",
+"adresse": "37 B AVENUE COLBERT",
+"ca": 2929396,
+"effectif": "3-5 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Stephane JOLY (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/pharmacie-colbert-321816571"
+},
+{
+"tier": 2,
+"rang": 160,
+"siren": "479140758",
+"nom": "ANSSEMS REMORQUES",
+"enseigne": null,
+"ville": "Garchizy",
+"adresse": "RUE PIERRE BROSSOLETTE",
+"ca": 2901837,
+"effectif": "3-5 salariés",
+"activite": "Commerce et réparation d'automobiles et de motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Monique ANSSEMS (Gérant)",
+"Thijs VAN EIJNDHOVEN (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
+},
+{
+"tier": 2,
+"rang": 161,
+"siren": "528031750",
+"nom": "V 2 RESTAURATION",
+"enseigne": null,
+"ville": "Varennes-Vauzelles",
+"adresse": "88 BOULEVARD CAMILLE DAGONNEAU",
+"ca": 2865676,
+"effectif": "20-49 salariés",
+"activite": "Restauration",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Yannick ANDRIEUX (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/v-2-restauration-528031750"
+},
+{
+"tier": 2,
+"rang": 162,
+"siren": "393762919",
+"nom": "LA BUSSIERE",
+"enseigne": null,
+"ville": "Rix",
+"adresse": "LA BUSSIERE",
+"ca": 2837590,
+"effectif": "3-5 salariés",
+"activite": "Culture et production animale, chasse et services annexes",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Paul PONCELET (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/la-bussiere-393762919"
+},
+{
+"tier": 2,
+"rang": 163,
+"siren": "691880454",
+"nom": "ETABLISSEMENTS FRANCO ET FILS",
+"enseigne": null,
+"ville": "Pougues-les-Eaux",
+"adresse": "760 AVENUE DE PARIS",
+"ca": 2810000,
+"effectif": "10-19 salariés",
+"activite": "Autres industries manufacturières",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Marc-Olivier FRANCO (Président)",
+"Pierre FRANCO (Directeur Général)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/etablissements-franco-et-fils-691880454"
+},
+{
+"tier": 2,
+"rang": 164,
+"siren": "444489033",
+"nom": "DISTRI BIO",
+"enseigne": null,
+"ville": "Nevers",
+"adresse": "47 BOULEVARD GRANDS PRES DES BORDES",
+"ca": 2793984,
+"effectif": "10-19 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Maxime Theo CHERMAIN (Directeur Général)",
+"Angelique CHERMAIN (TORDEUX) (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/distri-bio-444489033"
+},
+{
+"tier": 2,
+"rang": 167,
+"siren": "390681260",
+"nom": "RPM PROPERTY",
+"enseigne": null,
+"ville": "Magny-Cours",
+"adresse": "TECHNOPOLE DU CIRCUIT",
+"ca": 2734640,
+"effectif": "10-19 salariés",
+"activite": "Activités sportives, récréatives et de loisirs",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Laurent REDON (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/rpm-property-390681260"
+},
+{
+"tier": 2,
+"rang": 168,
+"siren": "519373401",
+"nom": "CURT BATIMENT",
+"enseigne": "EG Curt",
+"ville": "Varennes-Vauzelles",
+"adresse": "12 RUE ISAAC NEWTON",
+"ca": 2688150,
+"effectif": "10-19 salariés",
+"activite": "Travaux de construction spécialisés",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"GAIA TR (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/curt-batiment-519373401"
+},
+{
+"tier": 2,
+"rang": 169,
+"siren": "489664300",
+"nom": "MARC PESCAGLINI",
+"enseigne": null,
+"ville": "Marzy",
+"adresse": "ZA LES BELLES BARBES",
+"ca": 2633121,
+"effectif": "20-49 salariés",
+"activite": "Travaux de construction spécialisés",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Barbara PESCAGLINI (Président)",
+"Marc PESCAGLINI (Directeur Général)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
+},
+{
+"tier": 2,
+"rang": 170,
+"siren": "512311390",
+"nom": "SALERNO CONSTRUCTION",
+"enseigne": null,
+"ville": "Sermoise-sur-Loire",
+"adresse": "ZONE INDUSTRIELLE DES TRAPPES",
+"ca": 2630000,
+"effectif": "0 salarié (donnée 2026)",
+"activite": "Construction de bâtiments",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Mario SALERNO (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/salerno-construction-512311390"
+},
+{
+"tier": 2,
+"rang": 172,
+"siren": "484649561",
+"nom": "HYDR'ELEC",
+"enseigne": null,
+"ville": "Saint-Benin-d'Azy",
+"adresse": "21 B RUE DE LA BADELLE",
+"ca": 2571848,
+"effectif": "10-19 salariés",
+"activite": "Captage, traitement et distribution d'eau",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Zoran MILOSEVIC (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/hydrelec-484649561"
+},
+{
+"tier": 2,
+"rang": 173,
+"siren": "804785566",
+"nom": "LOLLIPOP",
+"enseigne": null,
+"ville": "Decize",
+"adresse": "83 AVENUE DU 14 JUILLET",
+"ca": 2571371,
+"effectif": "20-49 salariés",
+"activite": "Restauration",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"STAG (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/lollipop-804785566"
+},
+{
+"tier": 2,
+"rang": 174,
+"siren": "309916021",
+"nom": "FRANCO ET FILS DISTRIBUTION",
+"enseigne": null,
+"ville": "Pougues-les-Eaux",
+"adresse": "760 AVENUE DE PARIS",
+"ca": 2550000,
+"effectif": "3-5 salariés",
+"activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Pierre FRANCO (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/franco-et-fils-distribution-309916021"
+},
+{
+"tier": 2,
+"rang": 176,
+"siren": "504703588",
+"nom": "RHEVEA",
+"enseigne": null,
+"ville": "Cercy-la-Tour",
+"adresse": "37 RUE DE LA GUETTE",
+"ca": 2533284,
+"effectif": "6-9 salariés",
+"activite": "Commerce et réparation d'automobiles et de motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Jerome LEDHUY (Président)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/rhevea-504703588"
+},
+{
+"tier": 2,
+"rang": 178,
+"siren": "414871772",
+"nom": "V.A.R.V.",
+"enseigne": null,
+"ville": "Varennes-Vauzelles",
+"adresse": "33 BOULEVARD CAMILLE DAGONNEAU",
+"ca": 2478464,
+"effectif": "10-19 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Rozenn GAUTRAIS (Gérant)",
+"TOP BOOSTER (Gérant)",
+"IMPULSE & CO (Gérant)",
+"TRAINER & CO (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/varv-414871772"
+},
+{
+"tier": 2,
+"rang": 179,
+"siren": "494516925",
+"nom": "PHARMACIE DES RECOLLETS",
+"enseigne": null,
+"ville": "La Charité-sur-Loire",
+"adresse": "63 GRANDE RUE FRANCOIS MITTERRAND",
+"ca": 2454641,
+"effectif": "6-9 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Laurent MINGEAU (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/pharmacie-des-recollets-494516925"
+},
+{
+"tier": 2,
+"rang": 180,
+"siren": "883750721",
+"nom": "PHARMACIE DES VIGNES",
+"enseigne": null,
+"ville": "Saint-Léger-des-Vignes",
+"adresse": "58 ROUTE NATIONALE",
+"ca": 2450000,
+"effectif": "6-9 salariés",
+"activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+"deja": {
+"telephone": null,
+"email": null,
+"site_web": null,
+"linkedin": null,
+"dirigeants": [
+"Helene Solange Huguette DAVEAU (Gérant)",
+"Sophie Catherine Marie GAUTHIER (MUNSCH) (Gérant)"
+],
+"interlocuteur": null
+},
+"opposition_prospection": false,
+"pappers_url": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
+}
+]

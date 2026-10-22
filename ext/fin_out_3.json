@@ -1,0 +1,1610 @@
+[
+ {
+  "siren": "830830808",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 0,
+     "resultat_net": 0
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : exercice 2024 avec ca = 0 et resultat_net = 0 (valeurs nulles : comptes probablement non publiés/confidentiels ou absence d'activité) ; Pappers non consulté (critères de l'étape 2 non remplis)"
+ },
+ {
+  "siren": "328559125",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1032424,
+     "resultat_net": 81428
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "412611550",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 17761
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : ca = 0 pour 2025 alors que resultat_net = 17761 et tranche 11 (10-19 salariés) : CA probablement non publié (confidentialité partielle du compte de résultat) ; Pappers non consulté (critères non remplis)"
+ },
+ {
+  "siren": "513172320",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2023": {
+     "ca": 1085953,
+     "resultat_net": 388793
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "881900690",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1039203,
+     "resultat_net": 55227
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "889322970",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 38151
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : ca = 0 pour 2025 alors que resultat_net = 38151 : CA probablement non publié (confidentialité partielle) ; Pappers non consulté (critères non remplis)"
+ },
+ {
+  "siren": "891398190",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1045386,
+     "resultat_net": -20240
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "405146051",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 984485,
+     "resultat_net": 12232
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "389583568",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 100571
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : ca = 0 pour 2025 alors que resultat_net = 100571 et tranche 11 : CA probablement non publié (confidentialité partielle) ; Pappers non consulté (critères non remplis). Nom API : DGV MECANIQUE DE PRECISION (PMG)"
+ },
+ {
+  "siren": "453034787",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 949800,
+     "resultat_net": 80678
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "908944739",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 934459,
+     "resultat_net": 65288
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "711880229",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 0,
+     "resultat_net": 49057
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : ca = 0 pour 2024 alors que resultat_net = 49057 : CA probablement non publié (confidentialité partielle) ; Pappers non consulté (critères non remplis)"
+ },
+ {
+  "siren": "511071904",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 606339,
+     "resultat_net": -67087
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "606K €",
+     "resultat_txt": "-67,1K €"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "646K €",
+     "resultat_txt": "-86,8K €"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "915K €",
+     "resultat_txt": "-38,1K €"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 3 et 5 salariés (2022)",
+   "procedure": "Redressement judiciaire ouvert le 12/06/2023 ; plan de redressement de 10 ans arrêté le 02/12/2024, en cours d'exécution (pas de période d'observation en cours)",
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers : plan de redressement en cours d'exécution depuis le 02/12/2024 (état des créances déposé le 26/03/2026) ; déclarations de confidentialité seulement sur des dépôts anciens (exercice 2020), pas sur 2022-2024 ; dates de clôture issues des annonces BODACC de dépôt des comptes"
+ },
+ {
+  "siren": "824070981",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2023": {
+     "ca": 913211,
+     "resultat_net": 27731
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "478129612",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 911325,
+     "resultat_net": 136949
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "408337434",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2023": {
+     "ca": 866833,
+     "resultat_net": 95201
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "867K €",
+     "resultat_txt": "95,2K €"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "900K €",
+     "resultat_txt": "-36,3K €"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/12/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "814K €",
+     "resultat_txt": "5,63K €"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 10 et 19 salariés (2022)",
+   "procedure": "Redressement judiciaire ouvert le 14/02/2018 ; plan de redressement de 10 ans adopté le 18/09/2019, modifié par jugement du 05/12/2025 ; plan en cours d'exécution, pas de procédure ouverte en cours",
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pappers affiche 'Aucune procédure collective n'est disponible' mais le BODACC liste RJ 2018 + plan 2019 (modifié 05/12/2025) ; dates de clôture issues des annonces BODACC de dépôt des comptes"
+ },
+ {
+  "siren": "339914590",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 28499
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : ca = 0 pour 2025 alors que resultat_net = 28499 : CA probablement non publié (confidentialité partielle) ; Pappers non consulté (critères non remplis)"
+ },
+ {
+  "siren": "900082157",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": 6147
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : ca = 0 pour 2025 alors que resultat_net = 6147 et tranche 11 : CA probablement non publié (confidentialité partielle) ; Pappers non consulté (critères non remplis)"
+ },
+ {
+  "siren": "831929161",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 852056,
+     "resultat_net": -156506
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "503647489",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2022": {
+     "ca": 841647,
+     "resultat_net": 246
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": 246,
+     "ca_txt": "842K €",
+     "resultat_txt": null
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/12/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "897K €",
+     "resultat_txt": "24,8K €"
+    },
+    {
+     "annee": "2020",
+     "date_cloture": "31/12/2020",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "865K €",
+     "resultat_txt": "51,8K €"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 20 et 49 salariés (2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Dernières données publiées : 2022. Déclarations de confidentialité (art. L. 232-25) au BODACC pour les exercices 2023, 2024 et 2025 (aussi 2015 et 2017) ; comptes 2023-2025 déposés sans chiffres. Effectif Pappers 20-49 (2022) vs tranche API 11 (2024). Dates de clôture issues des annonces BODACC"
+ },
+ {
+  "siren": "507534758",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 737541,
+     "resultat_net": 10321
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "447844242",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 481711,
+     "resultat_net": 7391
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "482K €",
+     "resultat_txt": "7,39K €"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "528K €",
+     "resultat_txt": "-82,4K €"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "730K €",
+     "resultat_txt": "-26,2K €"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 6 et 9 salariés (2023)",
+   "procedure": "Redressement judiciaire ouvert le 24/07/2022 (TC Bourges) ; plan de redressement de 10 ans adopté le 13/07/2023, modifié par jugement du 22/10/2024 (Nevers) ; plan en cours d'exécution, pas de procédure ouverte en cours",
+   "radiee_ou_dissoute": false
+  },
+  "note": "Plan de redressement en cours d'exécution ; section Conformité Pappers indique '0 procédure collective' alors que le BODACC liste 3 événements ; déclarations de confidentialité seulement sur dépôts 2016-2020 ; établissements secondaires fermés (siège actif) ; dates de clôture issues des annonces BODACC"
+ },
+ {
+  "siren": "841590581",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 727145,
+     "resultat_net": 32074
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "383622479",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 670213,
+     "resultat_net": 109170
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "834294126",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2023",
+   "finances": {
+    "2024": {
+     "ca": 700487,
+     "resultat_net": -160674
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "502997745",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2024": {
+     "ca": 688151,
+     "resultat_net": 109829
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "415166008",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 687157,
+     "resultat_net": -17727
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "882956204",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2025": {
+     "ca": 685464,
+     "resultat_net": 332384
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "481303451",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2009173,
+     "resultat_net": -58203
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "849789680",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 814441,
+     "resultat_net": -58399
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "851715821",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 804088,
+     "resultat_net": 108261
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "324950039",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2024": {
+     "ca": 443718,
+     "resultat_net": 3015900
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : résultat net 2024 (3015900) très supérieur au CA (443718), probablement produits financiers/dividendes (holding ?) ; tranche NN"
+ },
+ {
+  "siren": "901643510",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 513333,
+     "resultat_net": 7117
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "879790616",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 531290,
+     "resultat_net": 100965
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "538548199",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2131423,
+     "resultat_net": 33693
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "449498245",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2023": {
+     "ca": 1367747,
+     "resultat_net": 30153
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "501796601",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2022": {
+     "ca": 722997,
+     "resultat_net": 51071
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "723K €",
+     "resultat_txt": "51,1K €"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/12/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "604K €",
+     "resultat_txt": "41K €"
+    },
+    {
+     "annee": "2020",
+     "date_cloture": "31/12/2020",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "553K €",
+     "resultat_txt": "31,6K €"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 20 et 49 salariés (2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Dernières données publiées : 2022 ; aucun chiffre 2023 ni 2024 sur Pappers ; comptes 2024 déposés le 28/08/2025 avec déclaration de confidentialité (art. L. 232-25). Effectif Pappers 20-49 (2022) vs tranche API 03 (2024). Dates de clôture issues des annonces BODACC"
+ },
+ {
+  "siren": "925318248",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "21",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 4326268,
+     "resultat_net": 407444
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "442496816",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 3176598,
+     "resultat_net": 33514
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "494516925",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 2454641,
+     "resultat_net": -357122
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "414839274",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1899816,
+     "resultat_net": 117844
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,9M €",
+     "resultat_txt": "118K €"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,29M €",
+     "resultat_txt": "-1,87M €"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,37M €",
+     "resultat_txt": "589K €"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 20 et 49 salariés (donnée 2022) ; 27 en 2022",
+   "procedure": "Procédure de sauvegarde ouverte le 01/08/2024 (TC Lyon), terminée le 26/11/2024 à la demande du débiteur (jugement de clôture publié le 07/12/2024) ; pas de procédure en cours",
+   "radiee_ou_dissoute": false
+  },
+  "note": "Sauvegarde 2024 close ; établissement secondaire de Décines-Charpieu fermé le 26/11/2024 (activité transférée au siège) ; dates de clôture issues des annonces BODACC"
+ },
+ {
+  "siren": "384831046",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1752014,
+     "resultat_net": 198453
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "840688428",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1089649,
+     "resultat_net": 102317
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "495186884",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1160992,
+     "resultat_net": 60764
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "445089469",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2023": {
+     "ca": 854363,
+     "resultat_net": 20100
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "501503114",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2022": {
+     "ca": 763483,
+     "resultat_net": 19397
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "763K €",
+     "resultat_txt": "19,4K €"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/12/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "766K €",
+     "resultat_txt": "51,2K €"
+    },
+    {
+     "annee": "2020",
+     "date_cloture": "31/12/2020",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "715K €",
+     "resultat_txt": "36,6K €"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Dernières données publiées : 2022 ; comptes 2023 et 2024 déposés le 28/08/2025 avec déclaration de confidentialité (art. L. 232-25). Dates de clôture issues des annonces BODACC"
+ },
+ {
+  "siren": "432099091",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2022": {
+     "ca": 711834,
+     "resultat_net": 70722
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2022",
+     "date_cloture": "31/08/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "712K €",
+     "resultat_txt": "70,7K €"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Seul l'exercice 2022 (clos au 31/08/2022 selon BODACC) est chiffré sur Pappers ; déclarations de confidentialité (art. L. 232-25) pour les exercices 2016-2021 et 2023-2025 (pas 2022). Exercice clos au 31/08"
+ },
+ {
+  "siren": "631880374",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2023": {
+     "ca": 5212419,
+     "resultat_net": -455515
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "480634682",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 404815,
+     "resultat_net": 7309
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "909990079",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 6055221,
+     "resultat_net": 46681
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "494122401",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "NN",
+   "annee_tranche_effectif": null,
+   "finances": {
+    "2023": {
+     "ca": 118551,
+     "resultat_net": 19014
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "518047618",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 3957643,
+     "resultat_net": 41250
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "444863005",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1389710,
+     "resultat_net": 17992
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "448807214",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 902970,
+     "resultat_net": 37971
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "651880031",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 692567,
+     "resultat_net": 71123
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "909830408",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 957144,
+     "resultat_net": -75582
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "301503496",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 4188584,
+     "resultat_net": 6284
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "4,19M €",
+     "resultat_txt": "6,28K €"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "4,2M €",
+     "resultat_txt": "-107K €"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-110K €"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 20 et 49 salariés (2022)",
+   "procedure": "Redressement judiciaire ouvert le 20/01/2025 (TC Nevers) ; plan de redressement de 12 ans adopté le 24/06/2026, en cours d'exécution (pas de période d'observation en cours)",
+   "radiee_ou_dissoute": false
+  },
+  "note": "Plan de redressement en cours d'exécution depuis le 24/06/2026 (bandeau Pappers 'Plan de redressement en cours') ; CA 2023 non affiché ; déclarations de confidentialité pour les exercices 2019-2023 mais pas 2024-2025 ; dates de clôture issues des annonces BODACC"
+ },
+ {
+  "siren": "412264111",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": -90289
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-90,3K €"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "3,41M €",
+     "resultat_txt": "289K €"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,42M €",
+     "resultat_txt": "112K €"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Entre 10 et 19 salariés (2022)",
+   "procedure": "Procédure de sauvegarde ouverte le 04/12/2019 ; plan de sauvegarde de 10 ans adopté le 28/01/2021 (en principe en cours d'exécution, clôture non mentionnée) ; pas de procédure ouverte en cours",
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité PARTIELLE des comptes 2025 (CA 2025 non publié, d'où ca=0 dans l'API) ; plan de sauvegarde 2021 sur 10 ans ; Pappers affiche 'Aucune procédure collective n'est disponible' malgré les annonces BODACC ; dates de clôture issues des annonces BODACC / liens de comptes"
+ },
+ {
+  "siren": "440852895",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1982072,
+     "resultat_net": 66376
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "950379529",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1758766,
+     "resultat_net": 5526
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "902897073",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 817627,
+     "resultat_net": 48549
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "835401936",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 0,
+     "resultat_net": 38474
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : ca = 0 pour 2024 alors que resultat_net = 38474 et tranche 11 : CA probablement non publié (confidentialité partielle) ; Pappers non consulté (critères non remplis)"
+ },
+ {
+  "siren": "408482636",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 640524,
+     "resultat_net": 94386
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "792570335",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 4094565,
+     "resultat_net": 177215
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "390681260",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 2734640,
+     "resultat_net": -155789
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "507748283",
+  "api": null,
+  "pappers": null,
+  "note": "API recherche-entreprises : 3 échecs (client_error) — pas de données API ; à recompléter"
+ },
+ {
+  "siren": "344153150",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 0,
+     "resultat_net": -65818
+    }
+   }
+  },
+  "pappers": null,
+  "note": "API : ca = 0 pour 2025 alors que resultat_net = -65818 : CA probablement non publié (confidentialité partielle) ; Pappers non consulté (critères non remplis)"
+ },
+ {
+  "siren": "509591103",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1466320,
+     "resultat_net": -620055
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "478725278",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 958882,
+     "resultat_net": -40939
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "821299328",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 982323,
+     "resultat_net": -690488
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "321675712",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1829624,
+     "resultat_net": 165601
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "549879096",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 3467187,
+     "resultat_net": 221398
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "484649561",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 2571848,
+     "resultat_net": 218291
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "533513594",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "01",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1244706,
+     "resultat_net": -121
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "484652227",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2023": {
+     "ca": 1566687,
+     "resultat_net": 36532
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "533201596",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 930805,
+     "resultat_net": 20739
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "491233797",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "02",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2023": {
+     "ca": 546450,
+     "resultat_net": 72826
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "438536393",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 1822148,
+     "resultat_net": 154820
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "701880023",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1336195,
+     "resultat_net": 165333
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "409109360",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 3528278,
+     "resultat_net": 32908
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "804785566",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 2571371,
+     "resultat_net": 144466
+    }
+   }
+  },
+  "pappers": null,
+  "note": null
+ },
+ {
+  "siren": "883750721",
+  "api": null,
+  "pappers": null,
+  "note": "PROVISOIRE : quota horaire de WebFetch atteint, API non encore interrogée"
+ },
+ {
+  "siren": "810992081",
+  "api": null,
+  "pappers": null,
+  "note": "PROVISOIRE : quota horaire de WebFetch atteint, API non encore interrogée"
+ },
+ {
+  "siren": "750984064",
+  "api": null,
+  "pappers": null,
+  "note": "PROVISOIRE : quota horaire de WebFetch atteint, API non encore interrogée"
+ }
+]

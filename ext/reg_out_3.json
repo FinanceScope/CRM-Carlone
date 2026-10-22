@@ -1,0 +1,1758 @@
+[
+  {
+    "siren": "834179566",
+    "nom_complet": "SOLILOIRE",
+    "enseignes": [],
+    "adresse": "44 T BOULEVARD MARECHAL JUIN",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 47.0058845935701,
+    "longitude": 3.15401239557358,
+    "naf": "86.22A",
+    "nature_juridique": "5485",
+    "date_creation": "2018-01-02",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Laurent BAIL",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Nicolas CHAILLET",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Mehdi CHERFAOUI",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Marc FOINANT",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "493717102",
+    "nom_complet": "TC VRAC (TC TRANSPORTS)",
+    "enseignes": [],
+    "adresse": "45 RUE DE LA GUETTE",
+    "code_postal": "58340",
+    "commune": "CERCY-LA-TOUR",
+    "latitude": 46.853847963,
+    "longitude": 3.6370442058,
+    "naf": "49.41A",
+    "nature_juridique": "5710",
+    "date_creation": "2007-01-02",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HOLDING CASSIER",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "AGM AUDIT LEGAL",
+        "fonction": "Commissaire aux comptes titulaire"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "530610187",
+    "nom_complet": "CF2C",
+    "enseignes": [],
+    "adresse": "30 AVENUE PIERRE BEREGOVOY",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.989333007455,
+    "longitude": 3.15733170297131,
+    "naf": "66.22Z",
+    "nature_juridique": "5710",
+    "date_creation": "2011-01-06",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Louis BAUVILLARD",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "Constance Martine Marie DENJEAN (GAUME)",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "500113691",
+    "nom_complet": "LE PRIMEUR DE NEVERS",
+    "enseignes": [],
+    "adresse": "LES COMMAILLES",
+    "code_postal": "58640",
+    "commune": "VARENNES VAUZELLES",
+    "latitude": 47.022267204,
+    "longitude": 3.1474670634,
+    "naf": "47.21Z",
+    "nature_juridique": "5202",
+    "date_creation": "2007-08-01",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "SARL PROPART",
+        "fonction": "Associé indéfiniment et solidairement responsable"
+      },
+      {
+        "nom": "PROSOL EXPLOITATION",
+        "fonction": "Gérant et associé indéfiniment responsable"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "811119403",
+    "nom_complet": "EL FAYZI",
+    "enseignes": [],
+    "adresse": "RUE DES FONDEURS",
+    "code_postal": "58200",
+    "commune": "COSNE-COURS-SUR-LOIRE",
+    "latitude": 47.379418019,
+    "longitude": 2.9111667907,
+    "naf": "49.41B",
+    "nature_juridique": "5499",
+    "date_creation": "2015-04-24",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Ibrahim EL FAYZI",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Mustapha EL FAYZI",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "888572831",
+    "nom_complet": "GERMAIN'S DEVELOPMENT",
+    "enseignes": [],
+    "adresse": "AVENUE DE LA FRINGALE",
+    "code_postal": "58190",
+    "commune": "TANNAY",
+    "latitude": 47.3678145737934,
+    "longitude": 3.58501306452511,
+    "naf": "47.11D",
+    "nature_juridique": "5710",
+    "date_creation": "2020-09-14",
+    "tranche_effectif": "NN",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Julien Claude Henri GERMAIN",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "445382310",
+    "nom_complet": "PHARMACIE DU PAYS CORBIGEOIS (PHARMACIE DU PAYS CORBIGEOIS)",
+    "enseignes": [
+      "PHARMACIE DU PAYS CORBIGEOIS"
+    ],
+    "adresse": "26 AVENUE DU CHAMP DE FOIRE",
+    "code_postal": "58800",
+    "commune": "CORBIGNY",
+    "latitude": 47.2545374826321,
+    "longitude": 3.68149304971924,
+    "naf": "47.73Z",
+    "nature_juridique": "5785",
+    "date_creation": "2003-02-14",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Marie Anne Dominique BONGARD",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Eugenie Francoise Jacqueline MARTIN",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "925318248",
+    "nom_complet": "LE NOUVEAU CHAMP DE LA DAME (CHAMP DE LA DAME)",
+    "enseignes": [],
+    "adresse": "2 RUE DES ECOLES",
+    "code_postal": "58400",
+    "commune": "VARENNES-LES-NARCY",
+    "latitude": 47.2142051283091,
+    "longitude": 3.0710667609074,
+    "naf": "87.10A",
+    "nature_juridique": "5710",
+    "date_creation": "2024-04-04",
+    "tranche_effectif": "21",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "DOMIDEP",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "530108307",
+    "nom_complet": "AP NEVERS (LES RIVES DE LA NIEVRE)",
+    "enseignes": [
+      "LES RIVES DE LA NIEVRE"
+    ],
+    "adresse": "37-39, 37 RUE JEAN GAUTHERIN",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 47.0005563801502,
+    "longitude": 3.17071801504137,
+    "naf": "87.10A",
+    "nature_juridique": "5710",
+    "date_creation": "2011-01-17",
+    "tranche_effectif": "21",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "DOMIDEP",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "AP2",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "AGM AUDIT LEGAL",
+        "fonction": "Commissaire aux comptes titulaire"
+      },
+      {
+        "nom": "SAINT HONORE SEREG",
+        "fonction": "Commissaire aux comptes suppléant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "518047618",
+    "nom_complet": "SARL ROCHES",
+    "enseignes": [],
+    "adresse": "13 RUE DE LA FORTERRE",
+    "code_postal": "58310",
+    "commune": "BOUHY",
+    "latitude": 47.486339193,
+    "longitude": 3.1674931827,
+    "naf": "45.20A",
+    "nature_juridique": "5499",
+    "date_creation": "2009-10-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Viviane ROCHES (BUISSET)",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Eddie ROCHES",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "347508384",
+    "nom_complet": "DECIZE VOYAGES (VIABELA ET VIABELA VOYAGES)",
+    "enseignes": [
+      "VIABELA ET VIABELA VOYAGES"
+    ],
+    "adresse": "69 RUE DE LA REPUBLIQUE",
+    "code_postal": "58300",
+    "commune": "DECIZE",
+    "latitude": 46.828343804,
+    "longitude": 3.4601361052,
+    "naf": "79.11Z",
+    "nature_juridique": "5710",
+    "date_creation": "1988-06-21",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Olivier Michel Nicolas ROUSSAT",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "817976657",
+    "nom_complet": "BKN",
+    "enseignes": [],
+    "adresse": "57 ROUTE DE NEVERS",
+    "code_postal": "58180",
+    "commune": "MARZY",
+    "latitude": 46.9995132004021,
+    "longitude": 3.1075748894022,
+    "naf": "56.10C",
+    "nature_juridique": "5710",
+    "date_creation": "2016-01-18",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Maud BELIN",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "SERENIUM",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "CHD AUDIT AUVERGNE-RHONE-ALPES",
+        "fonction": "Commissaire aux comptes titulaire"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "381215102",
+    "nom_complet": "QUALIJURIS 58",
+    "enseignes": [],
+    "adresse": "2 AVENUE SAINT JUST",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.990491207,
+    "longitude": 3.157992874,
+    "naf": "69.10Z",
+    "nature_juridique": "5485",
+    "date_creation": "1991-02-07",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Alexandre LOVATO",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "317750313",
+    "nom_complet": "ABCHOTELS",
+    "enseignes": [
+      "IBIS NEVERS"
+    ],
+    "adresse": "RN 7, 3 PLT DE LA BONNE DAME",
+    "code_postal": "58000",
+    "commune": "CHALLUY",
+    "latitude": null,
+    "longitude": null,
+    "naf": "55.10Z",
+    "nature_juridique": "5710",
+    "date_creation": "1980-04-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HPVA PARTICIPATIONS",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "EMERSON AUDIT",
+        "fonction": "Commissaire aux comptes titulaire"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "500433289",
+    "nom_complet": "BORFLEX CORVOL",
+    "enseignes": [],
+    "adresse": "57 GR GRANDE RUE",
+    "code_postal": "58460",
+    "commune": "CORVOL L ORGUEILLEUX",
+    "latitude": 47.431051349,
+    "longitude": 3.4004749053,
+    "naf": "22.19Z",
+    "nature_juridique": "5710",
+    "date_creation": "2007-10-05",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HOLDING QUINTIN",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "484649561",
+    "nom_complet": "HYDR'ELEC (HYDR'ELEC)",
+    "enseignes": [
+      "HYDR'ELEC"
+    ],
+    "adresse": "21 B RUE DE LA BADELLE",
+    "code_postal": "58270",
+    "commune": "SAINT-BENIN-D AZY",
+    "latitude": 47.0050143074268,
+    "longitude": 3.39444359754368,
+    "naf": "36.00Z",
+    "nature_juridique": "5710",
+    "date_creation": "2005-09-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Zoran MILOSEVIC",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "305065658",
+    "nom_complet": "ETABLISSEMENTS GAUBIER",
+    "enseignes": [],
+    "adresse": "92 RUE SAINT-AGNAN",
+    "code_postal": "58200",
+    "commune": "COSNE-COURS-SUR-LOIRE",
+    "latitude": 47.406148329,
+    "longitude": 2.9223553886,
+    "naf": "96.03Z",
+    "nature_juridique": "5710",
+    "date_creation": "1975-01-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Bruno SPAGNUOLO",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "INFINI DEVELOPPEMENT",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "393762919",
+    "nom_complet": "LA BUSSIERE",
+    "enseignes": [],
+    "adresse": "LA BUSSIERE",
+    "code_postal": "58500",
+    "commune": "RIX",
+    "latitude": 47.426795377,
+    "longitude": 3.4835138115,
+    "naf": "01.46Z",
+    "nature_juridique": "5710",
+    "date_creation": "1993-12-29",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Paul PONCELET",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "444489033",
+    "nom_complet": "DISTRI BIO",
+    "enseignes": [],
+    "adresse": "47 BOULEVARD GRANDS PRES DES BORDES",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.994603768,
+    "longitude": 3.1221050766,
+    "naf": "47.29Z",
+    "nature_juridique": "5710",
+    "date_creation": "2003-01-08",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Maxime Theo CHERMAIN",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "Angelique CHERMAIN (TORDEUX)",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "391868635",
+    "nom_complet": "CABIA MATERIAUX SAS",
+    "enseignes": [],
+    "adresse": "1 ALLEE LOUIS BLERIOT",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.46807804,
+    "longitude": 3.5163491459,
+    "naf": "46.73A",
+    "nature_juridique": "5710",
+    "date_creation": "1993-07-15",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Christophe DARENNE",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "329779284",
+    "nom_complet": "MICHEL REDDE ET FILS",
+    "enseignes": [],
+    "adresse": "LA MOYNERIE, LD LES BERTHIERS",
+    "code_postal": "58150",
+    "commune": "SAINT-ANDELAIN",
+    "latitude": 47.307160707,
+    "longitude": 2.9503668962,
+    "naf": "01.21Z",
+    "nature_juridique": "5710",
+    "date_creation": "1984-03-18",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Romain REDDE",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "Sebastien REDDE",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "THIERRY REDDE",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "333749216",
+    "nom_complet": "NOUVELLES TECHNIQUES DU BATIMENT (NTB)",
+    "enseignes": [],
+    "adresse": "47 RUE DE L'USINE",
+    "code_postal": "58130",
+    "commune": "URZY",
+    "latitude": 47.069503229,
+    "longitude": 3.1976367968,
+    "naf": "41.20A",
+    "nature_juridique": "5599",
+    "date_creation": "1985-10-01",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Frederic FRAYSSE",
+        "fonction": "Président du conseil d’administration"
+      },
+      {
+        "nom": "Jacques FRAYSSE",
+        "fonction": "Administrateur"
+      },
+      {
+        "nom": "Jean-Pierre HERAULT",
+        "fonction": "Administrateur"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "792018814",
+    "nom_complet": "M.L.K.M.C.",
+    "enseignes": [
+      "CARREFOUR CITY"
+    ],
+    "adresse": "10 AVENUE DU GENERAL DE GAULLE",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.988856031,
+    "longitude": 3.1553855303,
+    "naf": "47.11D",
+    "nature_juridique": "5499",
+    "date_creation": "2013-03-26",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Lionel Aime DECOSSE",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "541880043",
+    "nom_complet": "MANGEON SOC",
+    "enseignes": [],
+    "adresse": "24 BOULEVARD CAMILLE DAGONNEAU",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.009890581,
+    "longitude": 3.1520273052,
+    "naf": "43.22A",
+    "nature_juridique": "5710",
+    "date_creation": "1954-01-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Isabel AMESTONN (AMARO)",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "Roland AMESTONN",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "379781610",
+    "nom_complet": "DENIS ET FILS",
+    "enseignes": [],
+    "adresse": "ZI DE VILLEMENANT",
+    "code_postal": "58130",
+    "commune": "GUERIGNY",
+    "latitude": 47.091819092,
+    "longitude": 3.2076268177,
+    "naf": "43.32A",
+    "nature_juridique": "5710",
+    "date_creation": "1990-10-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "ROSAWOOD",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "803527944",
+    "nom_complet": "CEDRIC ROYER INVESTISSEMENTS",
+    "enseignes": [],
+    "adresse": "27 RUE LEON BLUM",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.023249217,
+    "longitude": 3.1411116585,
+    "naf": "64.20Z",
+    "nature_juridique": "5710",
+    "date_creation": "2014-07-10",
+    "tranche_effectif": "01",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Cedric ROYER",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "305690950",
+    "nom_complet": "CINE MAZARIN (CINE MAZARIN)",
+    "enseignes": [
+      "CINE MAZARIN"
+    ],
+    "adresse": "120 RUE DE CHARLEVILLE-MEZIERES",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.990911035,
+    "longitude": 3.149270713,
+    "naf": "59.14Z",
+    "nature_juridique": "5710",
+    "date_creation": "1957-01-01",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "CINEWEST",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "753212240",
+    "nom_complet": "F.M BOURGUIGNON",
+    "enseignes": [],
+    "adresse": "74 AVENUE DU 8 MAI 1945",
+    "code_postal": "58660",
+    "commune": "COULANGES-LES-NEVERS",
+    "latitude": 47.002547962,
+    "longitude": 3.1833786336,
+    "naf": "10.71C",
+    "nature_juridique": "5710",
+    "date_creation": "2012-07-21",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "SARL DES CHAMPS",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "801649526",
+    "nom_complet": "COSNE",
+    "enseignes": [
+      "NOZ"
+    ],
+    "adresse": "RUE HENRI DUNANT",
+    "code_postal": "58200",
+    "commune": "COSNE-COURS-SUR-LOIRE",
+    "latitude": 47.396266349,
+    "longitude": 2.9211179264,
+    "naf": "68.20B",
+    "nature_juridique": "5202",
+    "date_creation": "2014-04-10",
+    "tranche_effectif": "00",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Rozenn GAUTRAIS",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "LERYA S.A.",
+        "fonction": null
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "514610377",
+    "nom_complet": "EURL DELBOVE MARCILLAC",
+    "enseignes": [],
+    "adresse": "28 RUE DU COMMERCE",
+    "code_postal": "58330",
+    "commune": "SAINT-SAULGE",
+    "latitude": 47.104394305,
+    "longitude": 3.5122912872,
+    "naf": "47.73Z",
+    "nature_juridique": "5499",
+    "date_creation": "2009-07-17",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Margueritte-Marie Anne-Therese DELBOVE MARCILLAC (MARCILLAC)",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "799194881",
+    "nom_complet": "AKBAYIN MURAT",
+    "enseignes": [],
+    "adresse": "A RUE AUX CHEVAUX",
+    "code_postal": "58180",
+    "commune": "MARZY",
+    "latitude": 46.984184987,
+    "longitude": 3.0871657818,
+    "naf": "43.99C",
+    "nature_juridique": "5499",
+    "date_creation": "2013-12-10",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Murat AKBAYIN",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "434618773",
+    "nom_complet": "EDARD-TP-TRANSPORT",
+    "enseignes": [],
+    "adresse": "LA SABLIERE",
+    "code_postal": "58000",
+    "commune": "SAINT ELOI",
+    "latitude": 46.983640193,
+    "longitude": 3.2077172809,
+    "naf": "49.41A",
+    "nature_juridique": "5710",
+    "date_creation": "2001-02-14",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Bruno Jean-Paul EDARD",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Laurence Andree Christine MICHOT (EDARD)",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "447698069",
+    "nom_complet": "SARL MAINGAUD FRERES",
+    "enseignes": [],
+    "adresse": "13 RUE DE LA CHAUME",
+    "code_postal": "58360",
+    "commune": "SAINT-HONORE-LES-BAINS",
+    "latitude": 46.908224594,
+    "longitude": 3.8323847567,
+    "naf": "81.30Z",
+    "nature_juridique": "5499",
+    "date_creation": "2003-02-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Bruno MAINGAUD",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Stephane MAINGAUD",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "484652227",
+    "nom_complet": "TRAVAUX PUBLICS DES AMOGNES (TPA)",
+    "enseignes": [],
+    "adresse": "PARC D'ACTIVITES DES AMOGNES, 1 RUE FRANCOIS ARCHER",
+    "code_postal": "58270",
+    "commune": "SAINT-BENIN-D'AZY",
+    "latitude": 47.004197939,
+    "longitude": 3.4007752561,
+    "naf": "43.12A",
+    "nature_juridique": "5499",
+    "date_creation": "2005-09-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Patrice RIBLET",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "803113612",
+    "nom_complet": "TAXI CAROLA",
+    "enseignes": [],
+    "adresse": "20 RUE DES SABLONS",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.988907762,
+    "longitude": 3.1985602541,
+    "naf": "49.32Z",
+    "nature_juridique": "5710",
+    "date_creation": "2014-06-24",
+    "tranche_effectif": "12",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Marie Brigitte CAROLA (MARAIS)",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "E PLURIBUS UNUM",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "841401722",
+    "nom_complet": "DB INFORMATIQUE (DB INFORMATIQUE - UNFINITI - CENTRE INFORMATIQUE PRESTO MICRO)",
+    "enseignes": [
+      "DB INFORMATIQUE - UNFINITI - CENTRE INFORMATIQUE",
+      "PRESTO MICRO"
+    ],
+    "adresse": "18 RUE DE CHARLEVILLE-MEZIERES",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.989773489,
+    "longitude": 3.1504194012,
+    "naf": "47.41Z",
+    "nature_juridique": "5710",
+    "date_creation": "2018-07-23",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Fabrice Lilian Philippe BONNEVILLE",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "RIFF",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "320926249",
+    "nom_complet": "ETABLISSEMENTS BILLEBAULT",
+    "enseignes": [],
+    "adresse": "1 RUE JOLIN",
+    "code_postal": "58440",
+    "commune": "LA CELLE-SUR-LOIRE",
+    "latitude": 47.48176314,
+    "longitude": 2.9241558469,
+    "naf": "16.29Z",
+    "nature_juridique": "5710",
+    "date_creation": "1964-01-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "INIGO",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "534437553",
+    "nom_complet": "THAUSE",
+    "enseignes": [],
+    "adresse": "22 ROUTE NATIONALE",
+    "code_postal": "58300",
+    "commune": "SAINT-LEGER-DES-VIGNES",
+    "latitude": 46.837088788,
+    "longitude": 3.4609590436,
+    "naf": "96.03Z",
+    "nature_juridique": "5499",
+    "date_creation": "2011-10-01",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Nicolas THAUSE",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "402891774",
+    "nom_complet": "LE CYPRES - GENS DE LA LUNE",
+    "enseignes": [],
+    "adresse": "17 RUE DU PONT CIZEAU",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.989400075,
+    "longitude": 3.1634905142,
+    "naf": "47.61Z",
+    "nature_juridique": "5499",
+    "date_creation": "1995-11-17",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Wilfried SEJEAU",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "392638243",
+    "nom_complet": "SAS VANNIER (SAS VANNIER)",
+    "enseignes": [],
+    "adresse": "2 ROUTE DE NEVERS",
+    "code_postal": "58130",
+    "commune": "SAINT-MARTIN-D'HEUILLE",
+    "latitude": 47.038279752,
+    "longitude": 3.2135646473,
+    "naf": "25.11Z",
+    "nature_juridique": "5710",
+    "date_creation": "1993-10-01",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Chryss VANNIER",
+        "fonction": "Président de SAS"
+      },
+      {
+        "nom": "Yoann VANNIER",
+        "fonction": "Directeur Général"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "447839440",
+    "nom_complet": "SARL LEYMONIE",
+    "enseignes": [],
+    "adresse": "5 B RUE DU MOULIN D ECORCE",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.99114136,
+    "longitude": 3.1679284854,
+    "naf": "43.22A",
+    "nature_juridique": "5499",
+    "date_creation": "2003-03-26",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Alain LEYMONIE",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Fabien Thomas PARAY",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "753956606",
+    "nom_complet": "POMPES FUNEBRES BULOT",
+    "enseignes": [
+      "ROC-ECLERC"
+    ],
+    "adresse": "1 PLACE DES GRANDS JARDINS",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.996157256,
+    "longitude": 3.1366097578,
+    "naf": "96.03Z",
+    "nature_juridique": "5710",
+    "date_creation": "2012-09-21",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Jean-Marc VILLENEUVE",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "INFINI DEVELOPPEMENT",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "833557259",
+    "nom_complet": "BATI PRO 58",
+    "enseignes": [],
+    "adresse": "8 CHEMIN DE LA BEUE",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.022197302,
+    "longitude": 3.1630930727,
+    "naf": "43.99C",
+    "nature_juridique": "5499",
+    "date_creation": "2017-11-01",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Dilan YILDIZ",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "840688428",
+    "nom_complet": "EMH",
+    "enseignes": [],
+    "adresse": "114 ROUTE D'ANTIBES",
+    "code_postal": "58400",
+    "commune": "MESVES-SUR-LOIRE",
+    "latitude": 47.233172953,
+    "longitude": 2.9990532458,
+    "naf": "55.10Z",
+    "nature_juridique": "5710",
+    "date_creation": "2018-06-27",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "ERIC MORIN ENTREPRISES",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "909830408",
+    "nom_complet": "MA BOUTIQUE VELO",
+    "enseignes": [],
+    "adresse": "16 RUE DE LA BANNE",
+    "code_postal": "58160",
+    "commune": "SAUVIGNY-LES-BOIS",
+    "latitude": 46.98194238,
+    "longitude": 3.2364959686,
+    "naf": "47.64Z",
+    "nature_juridique": "5499",
+    "date_creation": "2022-01-29",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Pascal Maurice DOUET",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "752896159",
+    "nom_complet": "MIMA",
+    "enseignes": [
+      "PANDA RESTO"
+    ],
+    "adresse": "CHAMP DE LA DISPUTE, AVENUE DU 85EME DE LIGNE",
+    "code_postal": "58200",
+    "commune": "COSNE-COURS-SUR-LOIRE",
+    "latitude": 47.38885358,
+    "longitude": 2.9237661774,
+    "naf": "56.10A",
+    "nature_juridique": "5499",
+    "date_creation": "2012-07-23",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Laurent ZHOU",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "891398190",
+    "nom_complet": "SAS TMS 58",
+    "enseignes": [],
+    "adresse": "85 FAUBOURG DU GRAND MOUESSE",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.989665722,
+    "longitude": 3.1792240362,
+    "naf": "55.10Z",
+    "nature_juridique": "5710",
+    "date_creation": "2020-11-26",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Fabien GUICHARD",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "749853057",
+    "nom_complet": "VILLEMIN ETIENNE (OPTIQUE POULAIN)",
+    "enseignes": [
+      "OPTIQUE POULAIN"
+    ],
+    "adresse": "6/8, 6 RUE MARIE DAVY",
+    "code_postal": "58500",
+    "commune": "CLAMECY",
+    "latitude": 47.460191855,
+    "longitude": 3.5222102541,
+    "naf": "47.78A",
+    "nature_juridique": "5499",
+    "date_creation": "2012-02-23",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Etienne VILLEMIN",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "797612009",
+    "nom_complet": "L'ABBATIALE DU TRONCHET",
+    "enseignes": [],
+    "adresse": "RN 7, LA CASTILLE",
+    "code_postal": "58150",
+    "commune": "POUILLY SUR LOIRE",
+    "latitude": 47.267559186,
+    "longitude": 2.9821452488,
+    "naf": "55.10Z",
+    "nature_juridique": "5499",
+    "date_creation": "2013-10-01",
+    "tranche_effectif": "NN",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Arnaud Jean-Louis SAGET",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Laurent Olivier SAGET",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "533201596",
+    "nom_complet": "EVERTZ FRANCE CENTRE (EVERTZ FRANCE CENTRE)",
+    "enseignes": [],
+    "adresse": "CROIX DE CRIENS",
+    "code_postal": "58270",
+    "commune": "BILLY-CHEVANNES",
+    "latitude": 47.010278043,
+    "longitude": 3.481052066,
+    "naf": "24.10Z",
+    "nature_juridique": "5710",
+    "date_creation": "2011-01-20",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Gilles SCHWIRTZ",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "834422685",
+    "nom_complet": "MCTA",
+    "enseignes": [],
+    "adresse": "15 RUE DE LA LOGE",
+    "code_postal": "58300",
+    "commune": "SAINT-LEGER-DES-VIGNES",
+    "latitude": 46.84100163,
+    "longitude": 3.4485226562,
+    "naf": "71.12B",
+    "nature_juridique": "5710",
+    "date_creation": "2017-12-27",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Francois BUCHERON",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "Yannick DAGOBERT",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "798554978",
+    "nom_complet": "CAVE ET SERVICES",
+    "enseignes": [
+      "INTER CAVES"
+    ],
+    "adresse": "VILLAGE COSNE ACTIVITES, 44 AVENUE DU 85EME DE LIGNE",
+    "code_postal": "58200",
+    "commune": "COSNE-COURS-SUR-LOIRE",
+    "latitude": 47.399437861,
+    "longitude": 2.9226048166,
+    "naf": "47.25Z",
+    "nature_juridique": "5499",
+    "date_creation": "2013-11-12",
+    "tranche_effectif": "01",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Aurelien VAIRET",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "400163820",
+    "nom_complet": "ENTREPRISE HOUSSIN ET FILS",
+    "enseignes": [],
+    "adresse": "ZONE ARTISANALE, ROUTE DE SAINT-SAULGE",
+    "code_postal": "58800",
+    "commune": "CORBIGNY",
+    "latitude": 47.244613174,
+    "longitude": 3.6696156248,
+    "naf": "43.22A",
+    "nature_juridique": "5499",
+    "date_creation": "1995-01-01",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "David HOUSSIN",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Nicolas HOUSSIN",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "950499582",
+    "nom_complet": "SOCIETE MAILLOT DISTRIBUTION",
+    "enseignes": [],
+    "adresse": "4 RUE JOSEPH MARIE JACQUARD",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 47.047102219,
+    "longitude": 3.1232385949,
+    "naf": "47.99B",
+    "nature_juridique": "5710",
+    "date_creation": "1989-10-01",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "MAUGUIN HOLDING",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "900082157",
+    "nom_complet": "LUCAS NEVERS CARNOT (LUCAS)",
+    "enseignes": [],
+    "adresse": "1 RUE DU 14 JUILLET",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.988104221,
+    "longitude": 3.1571973737,
+    "naf": "10.71C",
+    "nature_juridique": "5710",
+    "date_creation": "2021-05-04",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HOLDING LUCAS",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "527611933",
+    "nom_complet": "SARL PICON JARDINAGE (PICON JARDINAGE)",
+    "enseignes": [
+      "PICON JARDINAGE"
+    ],
+    "adresse": "109 B AVENUE DE VERDUN",
+    "code_postal": "58300",
+    "commune": "DECIZE",
+    "latitude": 46.828136245,
+    "longitude": 3.4789799245,
+    "naf": "46.61Z",
+    "nature_juridique": "5499",
+    "date_creation": "2010-11-10",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Eric PICON",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "411480155",
+    "nom_complet": "MENUISERIE EBENISTERIE SELLIER",
+    "enseignes": [],
+    "adresse": "ZI DE SAINT ELOI, 10 RUE GEORGES DUFAUD",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 47.001954032,
+    "longitude": 3.1924867493,
+    "naf": "43.32A",
+    "nature_juridique": "5499",
+    "date_creation": "1997-01-01",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": "Dissolution de la société et cessation d'activité (BODACC B n°20260181, annonce n°4070, 22/09/2026) ; liquidateur : Bruno SELLIER depuis le 16/09/2026 ; siège fermé le 31/07/2026 ; aucune procédure collective signalée",
+    "dirigeants": [
+      {
+        "nom": "Bruno SELLIER",
+        "fonction": "Liquidateur"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "835401936",
+    "nom_complet": "SARL LAMOUREUX ET MAIZIERES",
+    "enseignes": [],
+    "adresse": "RUE DE PONT",
+    "code_postal": "58170",
+    "commune": "LUZY",
+    "latitude": 46.80121125,
+    "longitude": 3.9597360714,
+    "naf": "43.99C",
+    "nature_juridique": "5499",
+    "date_creation": "2018-02-09",
+    "tranche_effectif": "11",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Christophe Mickael Christian LAMOUREUX",
+        "fonction": "Gérant"
+      },
+      {
+        "nom": "Ludovic MAIZIERES",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "501503114",
+    "nom_complet": "DHOMPS OPTIQUE",
+    "enseignes": [],
+    "adresse": "91 RUE CAMILLE BARRERE",
+    "code_postal": "58400",
+    "commune": "LA CHARITE-SUR-LOIRE",
+    "latitude": 47.177540122,
+    "longitude": 3.0202203004,
+    "naf": "47.78A",
+    "nature_juridique": "5710",
+    "date_creation": "2007-12-14",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Bertrand FOIN",
+        "fonction": "Directeur Général"
+      },
+      {
+        "nom": "Luc LEBLANC",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "379453640",
+    "nom_complet": "ERCAEE",
+    "enseignes": [],
+    "adresse": "ZA LA CHAUME AUX SABLES",
+    "code_postal": "58300",
+    "commune": "SAINT-LEGER-DES-VIGNES",
+    "latitude": null,
+    "longitude": null,
+    "naf": "27.12Z",
+    "nature_juridique": "5499",
+    "date_creation": "1990-10-01",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Patrick TISSIER",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "501796601",
+    "nom_complet": "SARL BADAKOL",
+    "enseignes": [],
+    "adresse": "BAT C2 - APPART 47, AVENUE ROMAIN ROLLAND",
+    "code_postal": "58120",
+    "commune": "CHATEAU-CHINON (VILLE)",
+    "latitude": 47.0702493908726,
+    "longitude": 3.93100271135134,
+    "naf": "02.40Z",
+    "nature_juridique": "5499",
+    "date_creation": "2008-06-01",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Hasan BADAKOL",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "834294126",
+    "nom_complet": "RACINES HOTELS II",
+    "enseignes": [],
+    "adresse": "QUAI DE MEDINE",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.985646833,
+    "longitude": 3.1664328523,
+    "naf": "55.10Z",
+    "nature_juridique": "5710",
+    "date_creation": "2017-12-22",
+    "tranche_effectif": "03",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "HPVA PARTICIPATIONS",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "415166008",
+    "nom_complet": "SARL EUROVINS DLF",
+    "enseignes": [],
+    "adresse": "3 RUE CLAUDE TILLIER",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.988122682,
+    "longitude": 3.152361043,
+    "naf": "47.25Z",
+    "nature_juridique": "5499",
+    "date_creation": "1998-02-05",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Dominique BAZIN",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "511672032",
+    "nom_complet": "FRENCH BOOK DISTRIBUTION",
+    "enseignes": [],
+    "adresse": "22 RUE ANTONY DUVIVIER",
+    "code_postal": "58000",
+    "commune": "NEVERS",
+    "latitude": 46.9927297952797,
+    "longitude": 3.16832728904022,
+    "naf": "47.91B",
+    "nature_juridique": "5710",
+    "date_creation": "2009-04-07",
+    "tranche_effectif": "NN",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "L OLIVERAIE",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "802750471",
+    "nom_complet": "OPADE",
+    "enseignes": [],
+    "adresse": "ZAC GRANDS CHAMPS - CHAMP DES NOYERS, RUE HENRI BOUQUILLARD",
+    "code_postal": "58640",
+    "commune": "VARENNES-VAUZELLES",
+    "latitude": 46.996506772,
+    "longitude": 3.1217243337,
+    "naf": "47.78A",
+    "nature_juridique": "5499",
+    "date_creation": "2014-07-01",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Laurent PACAUD",
+        "fonction": "Gérant et associé indéfiniment responsable"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "480634682",
+    "nom_complet": "MILLE ET 1 SERVICES",
+    "enseignes": [],
+    "adresse": "CIDEX 209, LE BOURG",
+    "code_postal": "58210",
+    "commune": "CORVOL D'EMBERNARD",
+    "latitude": 47.298383437,
+    "longitude": 3.3989866218,
+    "naf": "43.22B",
+    "nature_juridique": "5499",
+    "date_creation": "2005-01-31",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Fabrice DUBOIS",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "812962827",
+    "nom_complet": "DOMAINE DE BACCHUS",
+    "enseignes": [],
+    "adresse": "3 PLACE DES FRERES MOLLET",
+    "code_postal": "58150",
+    "commune": "POUILLY-SUR-LOIRE",
+    "latitude": 47.283538754,
+    "longitude": 2.9537038088,
+    "naf": "46.34Z",
+    "nature_juridique": "5710",
+    "date_creation": "2015-04-01",
+    "tranche_effectif": "NN",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "AOC NONET HOLDING",
+        "fonction": "Président de SAS"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "491233797",
+    "nom_complet": "SOCIETE TARDIVAT ET CHARDONNERET (SOTEC)",
+    "enseignes": [],
+    "adresse": "29 RUE DE LA BADELLE",
+    "code_postal": "58270",
+    "commune": "SAINT-BENIN-D'AZY",
+    "latitude": 47.005309298,
+    "longitude": 3.397582183,
+    "naf": "43.22B",
+    "nature_juridique": "5499",
+    "date_creation": "2006-07-20",
+    "tranche_effectif": "02",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Jerome TARDIVAT",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  },
+  {
+    "siren": "519784987",
+    "nom_complet": "L'ABRI DU PECHEUR (L'ABRI DU PECHEUR)",
+    "enseignes": [],
+    "adresse": "CHAMP DE LA DAME, 119 AVENUE DE VERDUN",
+    "code_postal": "58300",
+    "commune": "DECIZE",
+    "latitude": 46.8273492920575,
+    "longitude": 3.48238533421451,
+    "naf": "47.64Z",
+    "nature_juridique": "5499",
+    "date_creation": "2010-03-01",
+    "tranche_effectif": "01",
+    "etat_administratif": "A",
+    "procedure": null,
+    "dirigeants": [
+      {
+        "nom": "Henri COMPERE",
+        "fonction": "Gérant"
+      }
+    ],
+    "source": "api"
+  }
+]

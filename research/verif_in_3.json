@@ -1,0 +1,611 @@
+[
+ {
+  "rang": 19,
+  "nom": "GRANDS CHAMPS AUTOMOBILES",
+  "nom_commercial": "SUMA (Volkswagen, Audi, SEAT, Škoda, Cupra) Nevers & Cosne",
+  "siren": "349431254",
+  "forme_juridique": "SAS",
+  "date_creation": "1989-01-01",
+  "code_naf": "45.11Z",
+  "adresse": "ZAC rue des Grands Champs, 58000 Nevers",
+  "ville": "Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "Richard VIVES",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "groupe": "Groupe SUMA (concessions VW Group et autres marques ; Nièvre, Saône-et-Loire, Allier, Ain, Rhône)",
+  "effectif": "50-99",
+  "site_web": "https://www.suma-auto.com",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Concessions du groupe SUMA dans la Nièvre : Volkswagen, VW Utilitaires, SEAT, Škoda, Cupra et Audi à Nevers, avec plusieurs établissements à Cosne-Cours-sur-Loire (Champ du Tremblat, avenue du 85e de Ligne – Audi Grands Champs Automobiles, 7 rue Bernot – GC Auto) et à Decize.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Présence directe à Cosne : soirées clients/lancements Audi-VW, déjeuners d'équipe et remises salariés pour le personnel cosnois.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GRANDS%20CHAMPS%20AUTOMOBILES",
+   "https://www.leboncoin.fr/boutique/7579/suma_nevers.htm",
+   "https://www.suma-auto.com/",
+   "https://www.justacote.com/cosne-cours-sur-loire-58200/concessionnaire/"
+  ],
+  "activite": "Commerce et réparation automobile",
+  "ca": 38965411,
+  "resultat": 523846,
+  "secteur": "Automobile"
+ },
+ {
+  "rang": 38,
+  "nom": "ETABLISSEMENTS SIMONNEAU",
+  "nom_commercial": "Renault Cosne-sur-Loire (Groupe Simonneau)",
+  "siren": "621880012",
+  "forme_juridique": "SAS",
+  "date_creation": "1962-01-01",
+  "code_naf": "45.11Z",
+  "adresse": "80 avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire",
+  "ville": "Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 0,
+  "dirigeants": [
+   {
+    "nom": "PHILIPPE SIMONNEAU HOLDING",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Groupe Simonneau (Philippe Simonneau ; environ 12 sites et 385 salariés en 2020)",
+  "effectif": "20-49",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Concession Renault/Dacia de Cosne-Cours-sur-Loire, berceau du groupe familial Simonneau (Renault, Dacia, Nissan, Mazda, Volvo), présent dans la Nièvre, le Cher, l'Indre et l'Allier. Le groupe réalisait environ 170 M€ de CA en 2019.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Voisin direct à Cosne : portes ouvertes et lancements de modèles avec traiteur, repas d'affaires de la direction du groupe, offres pour les salariés et sponsoring croisé.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ETABLISSEMENTS%20SIMONNEAU&departement=58",
+   "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html",
+   "https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB23874_renault-cosne-sur-loire"
+  ],
+  "activite": "Commerce et réparation automobile",
+  "ca": 21885061,
+  "resultat": 364,
+  "secteur": "Automobile"
+ },
+ {
+  "rang": 59,
+  "nom": "GMDE CHR BOISSONS",
+  "nom_commercial": "CHR Boissons / Caves du Val d'Or (Cosne)",
+  "siren": "400674875",
+  "forme_juridique": "SAS",
+  "date_creation": "1995-03-27",
+  "code_naf": "46.34Z",
+  "adresse": "31 B rue de Caqueret (siège) ; établissements à Cosne : Le Tremblat et 13 place Georges Clemenceau (Caves du Val d'Or)",
+  "ville": "Decize",
+  "code_postal": "58300",
+  "distance_cosne_km": 2,
+  "dirigeants": [
+   {
+    "nom": "CHR FINANCES",
+    "fonction": "Président (personne morale, depuis le 01/11/2024)"
+   },
+   {
+    "nom": "Frédéric COUSSEMENT",
+    "fonction": "Directeur général (depuis le 16/04/2025)"
+   }
+  ],
+  "groupe": "CHR Finances",
+  "effectif": "20-49",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/chr-boissons",
+  "description": "Grossiste en boissons (vins, spiritueux, bières, softs) pour les cafés, hôtels et restaurants, qui vend, installe et entretient aussi le matériel CHR (machines à café, lave-vaisselle, machines à glaçons). Siège à Decize, dépôts et caves à Cosne-Cours-sur-Loire (Le Tremblat, Caves du Val d'Or place Clemenceau), Corbigny, Moulins et Vichy.",
+  "actualite": "Nouvelle gouvernance : CHR Finances président depuis novembre 2024 et Frédéric Coussement DG depuis avril 2025 ; CA 13,2 M€ et résultat net 611 K€.",
+  "statut": "Active",
+  "angle_partenariat": "Fournisseur boissons et matériel CHR clé pour Le Vieux Relais et le M (dépôt à Cosne) : négocier conditions d'approvisionnement, prêt de matériel, soutien aux soirées/événements et animations brasseurs.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GMDE%20CHR%20BOISSONS",
+   "https://www.pappers.fr/entreprise/400674875"
+  ],
+  "activite": "Commerce de gros",
+  "ca": 13230370,
+  "resultat": 611142,
+  "secteur": "Commerce & distribution"
+ },
+ {
+  "rang": 88,
+  "nom": "LE JOURNAL DU CENTRE",
+  "nom_commercial": "Le Journal du Centre (JDC)",
+  "siren": "571880301",
+  "forme_juridique": "SA à conseil d'administration",
+  "date_creation": "1957-01-01",
+  "code_naf": "58.13Z",
+  "adresse": "3 rue du Chemin de Fer, 58000 Nevers (agence de Cosne : 31 rue Saint-Agnan, 58200 Cosne-Cours-sur-Loire)",
+  "ville": "Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "Didier Martinez",
+    "fonction": "Président du conseil d'administration et Directeur Général"
+   },
+   {
+    "nom": "Marlène Martin",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Nicolas Mérindol",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Ludovic Pillevesse",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Alain Védrine",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "SA LA MONTAGNE",
+    "fonction": "Administrateur"
+   }
+  ],
+  "groupe": "Groupe Centre France (La Montagne)",
+  "effectif": "50-99",
+  "site_web": "https://www.lejdc.fr",
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/le-jdc",
+  "description": "Quotidien régional de la Nièvre, édité à Nevers, appartenant au groupe Centre France. Dispose d'agences locales à Cosne-Cours-sur-Loire, Decize et Clamecy.",
+  "actualite": "Nouvel établissement principal ouvert au 72 avenue Colbert à Nevers (janvier 2026) ; renouvellement du conseil d'administration en novembre 2025.",
+  "statut": "Active",
+  "angle_partenariat": "Visibilité locale : article sur la reprise du Vieux Relais et du M, partenariat publicitaire et rencontres avec l'agence de Cosne (31 rue Saint-Agnan).",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=LE%20JOURNAL%20DU%20CENTRE&departement=58",
+   "https://www.pappers.fr/entreprise/le-journal-du-centre-571880301"
+  ],
+  "activite": "Édition",
+  "ca": 8624193,
+  "resultat": 290081,
+  "secteur": "Sport, loisirs & médias"
+ },
+ {
+  "rang": 100,
+  "nom": "COMMAND-SMFI",
+  "nom_commercial": "SMFI",
+  "siren": "880515994",
+  "forme_juridique": "SAS",
+  "date_creation": "2020-01-08",
+  "code_naf": "24.20Z",
+  "adresse": "5 rue des Guérins, 58200 Cosne-Cours-sur-Loire",
+  "ville": "Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 2,
+  "dirigeants": [
+   {
+    "nom": "Charles Garvey",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Nicolas Berhault",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": null,
+  "effectif": "20-49",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Fabricant et vendeur de matériel de forage (tubes, tiges et accessoires acier) installé rue des Guérins à Cosne-Cours-sur-Loire, sous la marque SMFI. Société créée en 2020 pour reprendre l'activité SMFI, présidée par Charles Garvey.",
+  "actualite": "Forte baisse du CA en 2025 (3,95 M€ contre 7,26 M€ en 2024, -45,6 %) avec une perte de 463 K€ ; nouveau directeur général (Nicolas Berhault) en mai 2026.",
+  "statut": "Active",
+  "angle_partenariat": "Industriel cosnois : déjeuners d'affaires pour les clients et visiteurs (y compris internationaux) et afterworks/repas d'équipe à deux pas du centre-ville.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=COMMAND-SMFI&departement=58",
+   "https://www.pappers.fr/entreprise/command-smfi-880515994"
+  ],
+  "activite": "Métallurgie",
+  "ca": 7263329,
+  "resultat": 449562,
+  "secteur": "Industrie"
+ },
+ {
+  "rang": 4,
+  "nom": "TEXTILOT",
+  "nom_commercial": "Textilot / magasins Plus",
+  "siren": "301420626",
+  "forme_juridique": "SAS",
+  "date_creation": "1974-01-01",
+  "code_naf": "46.42Z",
+  "adresse": "5 rue Denis Papin, 58640 Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "DUMANGE FAMILY (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Dumange Family (holding familiale Dumange)",
+  "effectif": "500-999",
+  "site_web": "https://www.textilot.fr",
+  "telephone": "03 86 71 62 08",
+  "email": null,
+  "linkedin": null,
+  "description": "Grossiste en prêt-à-porter femme et enfant fondé en 1974 par Régis Dumange, fournisseur des rayons textile de la grande distribution (Carrefour, Intermarché, Leclerc, Super U, Auchan, Casino) en France, Belgique et Luxembourg. Exploite aussi des magasins à l'enseigne « Plus » et l'e-shop maboutiqueplus.fr. Un des plus gros employeurs privés de la Nièvre, connu pour son sponsoring sportif (USON Nevers rugby).",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Entreprise très engagée dans le sponsoring local : partenariat événementiel/sponsoring, afterworks et soirées pour 500+ salariés, réceptions de clients acheteurs GMS.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=TEXTILOT&departement=58",
+   "https://www.textilot.fr",
+   "https://everybodywiki.com/Textilot"
+  ],
+  "activite": "Commerce de gros",
+  "ca": 175716257,
+  "resultat": 8978024,
+  "secteur": "Commerce & distribution"
+ },
+ {
+  "rang": 15,
+  "nom": "SIMONNEAU AUTOMOBILES",
+  "nom_commercial": "Renault / Dacia Nevers – Simonneau Automobiles",
+  "siren": "523229268",
+  "forme_juridique": "SAS",
+  "date_creation": "2010-06-18",
+  "code_naf": "45.11Z",
+  "adresse": "ZA Les Commailles, 2 rue Léonard de Vinci, 58640 Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "PHILIPPE SIMONNEAU HOLDING (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Groupe Simonneau (Philippe Simonneau ; ≈385 salariés, 12 sites)",
+  "effectif": "50-99",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Concession Renault (et Dacia) de Nevers/Varennes-Vauzelles avec un site à Saint-Léger-des-Vignes, filiale du groupe familial Simonneau. Le groupe est né de la concession Renault de Cosne-Cours-sur-Loire et compte 12 sites (Nièvre, Cher, Indre, Allier) sous marques Renault, Dacia, Nissan, Mazda et Volvo.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Groupe historiquement cosnois (Renault Cosne) : soirées clients, lancements de véhicules, repas d'équipe ; contacter la direction du groupe pour un partenariat multi-sites.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=SIMONNEAU%20AUTOMOBILES",
+   "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  ],
+  "activite": "Commerce et réparation automobile",
+  "ca": 44612109,
+  "resultat": 539507,
+  "secteur": "Automobile"
+ },
+ {
+  "rang": 22,
+  "nom": "POLYCLINIQUE DU VAL DE LOIRE",
+  "nom_commercial": "Polyclinique du Val de Loire - Elsan",
+  "siren": "651880437",
+  "forme_juridique": "SAS",
+  "date_creation": "1964-01-01",
+  "code_naf": "86.10Z",
+  "adresse": "49 boulevard Jérôme Trésaguet, 58000 Nevers",
+  "ville": "Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "ELSAN SAS",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Elsan",
+  "effectif": "100-199",
+  "site_web": "http://www.elsan.care/fr/polyclinique-val-de-loire",
+  "telephone": "03 86 93 52 58",
+  "email": "pvl@elsan.care",
+  "linkedin": null,
+  "description": "Clinique privée du groupe Elsan à Nevers : chirurgie (orthopédie, ophtalmologie, chirurgie du sein/cancérologie), médecine ambulatoire et soins de suite et de réadaptation. Pas de service d'urgences.",
+  "actualite": "Ouverture d'une unité de polysomnographie (sept. 2024) et travaux de restructuration de la pharmacie, de la stérilisation et de l'ambulatoire lancés fin 2024 (Journal du Centre, juillet 2024).",
+  "statut": "Active",
+  "angle_partenariat": "Offres CE/réductions salariés et repas d'équipe pour le personnel soignant et les praticiens libéraux (soirées de service, pots de départ).",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=POLYCLINIQUE%20DU%20VAL%20DE%20LOIRE&departement=58",
+   "https://www.etablissementsdesante.fr/etablissement/48102-polyclinique-du-val-de-loire-elsan",
+   "https://www.elsan.care/fr/polyclinique-val-de-loire/nos-actualites/de-nouveaux-projets-la-polyclinique-du-val-de-loire"
+  ],
+  "activite": "Santé humaine",
+  "ca": 29778512,
+  "resultat": 1053051,
+  "secteur": "Santé"
+ },
+ {
+  "rang": 32,
+  "nom": "ALFA LAVAL SPIRAL",
+  "nom_commercial": "Alfa Laval Spiral",
+  "siren": "393676895",
+  "forme_juridique": "SAS",
+  "date_creation": "1994-01-01",
+  "code_naf": "28.25Z",
+  "adresse": "10 rue Alfred Massé, 58000 Nevers",
+  "ville": "Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "Johan Andre K VANHOREN",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Alfa Laval (Suède)",
+  "effectif": "100-199 (environ 115 salariés)",
+  "site_web": "https://www.alfalaval.fr/a-propos-alfa-laval/notre-entreprise/alfa-laval-en-france/alfa-laval-spiral/",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Site de production nivernais du groupe suédois Alfa Laval, centre d'excellence pour les échangeurs de chaleur spiralés destinés à l'énergie, la chimie et l'industrie dans le monde entier.",
+  "actualite": "Résultat net négatif (-0,7 M€) au dernier exercice publié selon le classement Pappers.",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires pour les clients et auditeurs du groupe en visite, et afterworks d'équipe pour environ 115 salariés.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ALFA%20LAVAL%20SPIRAL&departement=58",
+   "https://www.lindustrie-recrute.fr/entreprise/4366/"
+  ],
+  "activite": "Fabrication de machines et équipements",
+  "ca": 25690379,
+  "resultat": -699635,
+  "secteur": "Industrie"
+ },
+ {
+  "rang": 41,
+  "nom": "NOUVELLE IMPRIMERIE LABALLERY",
+  "nom_commercial": "Laballery",
+  "siren": "392607545",
+  "forme_juridique": "SCOP SA à conseil d'administration",
+  "date_creation": "1993-10-01",
+  "code_naf": "18.12Z",
+  "adresse": "Zone Industrielle, Allée Louis Blériot",
+  "ville": "Clamecy",
+  "code_postal": "58500",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "Emilie SAGNELONGE",
+    "fonction": "Présidente du conseil d'administration et Directrice générale (depuis 2025/2026)"
+   },
+   {
+    "nom": "Audrey BOUVIER",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Bruno COQUARD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Etienne FEDON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Frederic FERREIRA",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Pascal PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "David PINON",
+    "fonction": "Administrateur"
+   }
+  ],
+  "groupe": null,
+  "effectif": "50-99 (85 salariés en 2025)",
+  "site_web": "https://www.laballery.fr",
+  "telephone": "03 86 27 55 55",
+  "email": "contact@laballery.fr",
+  "linkedin": "https://www.linkedin.com/company/laballery",
+  "description": "Imprimerie de labeur fondée en 1925 à Clamecy, spécialisée dans l'impression de livres (offset, numérique, impression à la demande) pour les éditeurs. Organisée en SCOP (salariés associés), elle exploite aussi depuis 2016 l'imprimerie Floch à Mayenne.",
+  "actualite": "CA 2025 de 20 M€ (+17 %) et retour aux bénéfices après les pertes de 2022-2023 ; projet d'investissement « Laballery 3 » (2,9 M€ HT) cofinancé par le FEDER. Emilie Sagnelonge a pris la direction générale début 2026.",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'équipe / événements coopératifs (AG de SCOP, fêtes de fin d'année) pour ~85 salariés-associés, à 55 km : plutôt ponctuel.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=NOUVELLE%20IMPRIMERIE%20LABALLERY&departement=58",
+   "https://www.pappers.fr/entreprise/392607545",
+   "https://www.laballery.fr"
+  ],
+  "activite": "Imprimerie",
+  "ca": 19999538,
+  "resultat": 1518919,
+  "secteur": "Imprimerie & papier"
+ },
+ {
+  "rang": 55,
+  "nom": "DEROMEDI CARRIERES SARL",
+  "nom_commercial": "Deromedi Carrières",
+  "siren": "330907205",
+  "forme_juridique": "SARL",
+  "date_creation": "1984-10-15",
+  "code_naf": "23.99Z",
+  "adresse": "Lieu-dit Jussy",
+  "ville": "Ciez",
+  "code_postal": "58220",
+  "distance_cosne_km": 20,
+  "dirigeants": [
+   {
+    "nom": "Gilles DEROMEDI",
+    "fonction": "Gérant"
+   }
+  ],
+  "groupe": "Groupe familial Deromedi (Gilles Deromedi gère aussi SOSEMAT à Neuvy-sur-Loire et Transports Emile Boffin)",
+  "effectif": "10-19",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Exploitant de carrière à Ciez (ICPE) : extraction, concassage et production de matériaux de carrière pour l'industrie, les travaux publics et l'agriculture, avec transport routier de matériaux. Entreprise familiale rentable (CA 13,6 M€ et 1,18 M€ de résultat en 2025).",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires du gérant avec clients BTP/agricoles locaux et repas d'équipe ; société familiale proche (20 km) avec possible sponsoring local.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=DEROMEDI&departement=58",
+   "https://www.pappers.fr/entreprise/330907205",
+   "https://travail-industrie.com/risques-industriels/site/deromedi-carrieres-ciez"
+  ],
+  "activite": "Produits minéraux non métalliques",
+  "ca": 14481518,
+  "resultat": 1212304,
+  "secteur": "BTP & matériaux"
+ },
+ {
+  "rang": 66,
+  "nom": "EVORIAL",
+  "nom_commercial": "Laboratoire de biologie médicale Evorial",
+  "siren": "328162284",
+  "forme_juridique": "SELAS",
+  "date_creation": "1983-08-09",
+  "code_naf": "86.90B",
+  "adresse": "37 rue Saint-Martin, 58000 Nevers (site à Cosne-Cours-sur-Loire, rue Croix Janvier)",
+  "ville": "Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "David LONG",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Arel DESJARDIN",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Caroline FAURE",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "groupe": null,
+  "effectif": "50-99",
+  "site_web": null,
+  "telephone": "03 86 61 41 30",
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/evorial",
+  "description": "Réseau de laboratoires de biologie médicale implanté à Nevers, Cosne-Cours-sur-Loire, Decize, Sancoins, Sully-sur-Loire et Briare. Il réalise les analyses médicales pour patients, médecins et établissements de santé du Val de Loire nivernais.",
+  "actualite": "Changement de gouvernance en août 2026 : David Long devient président et Arel Desjardin directeur général.",
+  "statut": "Active",
+  "angle_partenariat": "Afterworks et repas d'équipe pour le personnel du laboratoire de Cosne (rue Croix Janvier) et repas de réseau avec les biologistes/médecins prescripteurs.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=EVORIAL&departement=58",
+   "https://www.pappers.fr/entreprise/328162284"
+  ],
+  "activite": "Santé humaine",
+  "ca": 11584870,
+  "resultat": 2585946,
+  "secteur": "Santé"
+ },
+ {
+  "rang": 87,
+  "nom": "CLINIQUE DU CHATEAU DU TREMBLAY",
+  "nom_commercial": "Clinique du Château du Tremblay (Ramsay Santé)",
+  "siren": "631880192",
+  "forme_juridique": "SASU",
+  "date_creation": "1963-01-01",
+  "code_naf": "86.10Z",
+  "adresse": "Lieu-dit Château du Tremblay, 58400 Chaulgnes",
+  "ville": "Chaulgnes",
+  "code_postal": "58400",
+  "distance_cosne_km": 40,
+  "dirigeants": [
+   {
+    "nom": "Benoît Hue",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Tanguy Charbonnier",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": "Ramsay Santé",
+  "effectif": "50-99 (64 salariés en 2025)",
+  "site_web": null,
+  "telephone": "03 86 59 75 75",
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/clinique-chateau-tremblay",
+  "description": "Clinique privée de santé mentale (psychiatrie) installée dans un château à Chaulgnes, près de La Charité-sur-Loire. Établissement du groupe Ramsay Santé, sous la convention de l'hospitalisation privée.",
+  "actualite": "Exercice clos au 30/06/2025 : CA de 8,66 M€ (+9 %) et résultat net de 1,25 M€.",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'équipe, pots de départ et soirées du personnel soignant (64 salariés à 40 km), et éventuelle remise salariés.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=CLINIQUE%20DU%20CHATEAU%20DU%20TREMBLAY&departement=58",
+   "https://www.pappers.fr/entreprise/clinique-du-chateau-du-tremblay-631880192",
+   "https://www.santeenfrance.fr/etablissement/48106-clinique-du-chateau-du-tremblay",
+   "https://www.sanitaire-social.com/annuaire-etablissements-de-sante/sante-mentale/liste-nievre-58"
+  ],
+  "activite": "Santé humaine",
+  "ca": 8663553,
+  "resultat": 1245822,
+  "secteur": "Santé"
+ },
+ {
+  "rang": 94,
+  "nom": "DISTANCE LA LOCATION AUTOMOBILE",
+  "nom_commercial": "Distance Location Automobile",
+  "siren": "950376566",
+  "forme_juridique": "SAS",
+  "date_creation": "1989-10-01",
+  "code_naf": "77.11B",
+  "adresse": "30 Route de Paris, 58640 Varennes-Vauzelles (agence : Chemin rural du Grand Champ, 58200 Cosne-Cours-sur-Loire)",
+  "ville": "Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Vincent",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": null,
+  "effectif": "10-19",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/distance-la-location-automobile",
+  "description": "Loueur indépendant de voitures, utilitaires et camions, avec des agences à Varennes-Vauzelles, Cosne-Cours-sur-Loire et Créteil (94). Clientèle de particuliers et de professionnels.",
+  "actualite": "Modification de la répartition du capital et mise à jour des statuts en septembre 2025.",
+  "statut": "Active",
+  "angle_partenariat": "Agence à Cosne : offres croisées (location de minibus/véhicule pour les événements, remise pour les clients du loueur) et déjeuners d'équipe.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=DISTANCE%20LA%20LOCATION%20AUTOMOBILE&departement=58",
+   "https://www.pappers.fr/entreprise/distance-la-location-automobile-950376566"
+  ],
+  "activite": "Location et location-bail",
+  "ca": 7953284,
+  "resultat": 372433,
+  "secteur": "Transport & logistique"
+ }
+]

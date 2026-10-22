@@ -1,0 +1,170 @@
+[
+ {
+  "rang": 354,
+  "siren": "831037817",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 557 300 € / RN -662 € exercice 2025 (clos 31/12/2025) identiques API et Pappers (557K / -662) ; dernier exercice publié. Effectif 3-5 (INSEE 2024). Adresse, Champvert, Marvine GUILLET Présidente : conformes. Active, aucune procédure."
+ },
+ {
+  "rang": 294,
+  "siren": "378124291",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "Exercice clos le 31/03/2025 : CA 907 497 € / RN 170 € ; l'API l'étiquette 2024, Pappers 2025 (décalage d'un an admis). Exercice clos 31/03/2026 pas encore publié. Effectif 3-5 = tranche INSEE 2024 (Pappers affiche 6-9, donnée 2022 plus ancienne). Adresse, Garchizy, Laurent MICHOT gérant : conformes. Active, aucune procédure."
+ },
+ {
+  "rang": 160,
+  "siren": "479140758",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 2 901 837 € / RN 32 162 € exercice 2024 (clos 31/12/2024) identiques API et Pappers (2,9M / 32,2K) ; comptes 2025 non encore déposés. Effectif 3-5 (INSEE 2024). Adresse, Garchizy, cogérants M. ANSSEMS et T. VAN EIJNDHOVEN : conformes. Active, aucune procédure."
+ },
+ {
+  "rang": 316,
+  "siren": "851715821",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 804 088 € / RN 108 261 € exercice 2024 identiques API et Pappers (804K / 108K) ; dernier dépôt (BODACC 02/10/2025). Effectif 1-2 (INSEE 2024). Adresse, Tamnay-en-Bazois, Graham SPRIGG Président : conformes. Active, aucune procédure."
+ },
+ {
+  "rang": 152,
+  "siren": "899839492",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "Exercices clos au 31/03. CA 3 380 000 € / RN 2 530 € = colonne Pappers '2024' (exercice clos le 31/03/2024 ; valeurs arrondies Pappers 3,38M / 2,53K). L'exercice clos le 31/03/2025 a été déposé avec déclaration de confidentialité : CA non publié (API '2024' : ca=0, RN 16 225 €). C'est donc bien le dernier CA publié, CA et RN du même exercice. Attention à la convention d'année : ici '2024' = clos 31/03/2024, alors que pour SOCIETE MICHOT '2024' = clos 31/03/2025. Effectif 6-9 = INSEE 2024 (Pappers 10-19, donnée 2022). Adresse, Cosne-Cours-sur-Loire, AH EXPLOITATION Président (depuis 04/04/2025) : conformes."
+ },
+ {
+  "rang": 363,
+  "siren": "812180347",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 511 515 € / RN -35 876 € exercice 2023 identiques API et Pappers (512K / -35,9K). Les comptes 2024 (BODACC 02/05/2025) et 2025 (BODACC 16/07/2026) sont déposés avec déclaration de confidentialité : 2023 est bien le dernier CA publié. Effectif INSEE 'NN' (non employeur) / Pappers 0 salarié. Adresse, Garchy, J.-B. MOURLON Président : conformes."
+ },
+ {
+  "rang": 291,
+  "siren": "920006046",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "Exercice clos le 30/09/2024 : CA 923 000 € / RN 129 183 € identiques API et Pappers (923K / 129K) ; exercice clos 30/09/2025 pas encore publié. Effectif INSEE 'NN' / Pappers 0 salarié. Adresse, Saint-Aubin-des-Chaumes, LA LICORNE Président : conformes."
+ },
+ {
+  "rang": 130,
+  "siren": "792570335",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 4 094 565 € / RN 177 215 € exercice 2024 identiques API et Pappers (4,09M / 177K). Les comptes 2025 viennent d'être déposés (en ligne sur Pappers le 07/10/2026, BODACC 22/10/2026), mais aucun chiffre 2025 n'apparaît encore dans le tableau Pappers ni dans l'API : à rafraîchir prochainement. Effectif 10-19 (INSEE 2024). Adresse, Magny-Cours, REGULAR Président (depuis 01/01/2024) : conformes."
+ },
+ {
+  "rang": 185,
+  "siren": "309230084",
+  "verdict": "ECART",
+  "ecarts": [
+   {
+    "champ": "dirigeants",
+    "crm": "Fabrice CHARLES (Gérant), listé en premier ; Roman CHARLES (Gérant)",
+    "source": "Pappers : Roman CHARLES est le seul gérant en fonction. Fabrice CHARLES est « ancien gérant » du 08/02/2017 au 19/04/2022 (PV d'AGO du 14/04/2022 « Démission de co-gérant » ; BODACC B n°20220077 du 19/04/2022, annonce 2110 : « Modification survenue sur l'administration. Gérant : CHARLES Roman »). Pappers signale aussi qu'une personne de même nom et même date de naissance (06/1951) figure au fichier des personnes décédées (08/2021). L'API recherche-entreprises liste encore les deux gérants, une donnée RNE non mise à jour que le CRM a reprise.",
+    "url": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
+   }
+  ],
+  "note": "ÉCART IMPORTANT : la première personne présentée comme gérant a quitté ses fonctions en 2022 et est probablement décédée. Finances conformes : exercice clos le 30/09/2025, CA 2 347 611 € / RN 115 844 € (API) = 2,35M / 116K (Pappers), dernier exercice publié. Mineur : eff_annee 2024 dans le CRM alors que la tranche INSEE 20-49 est millésimée 2023 (même tranche). Adresse et Dun-les-Places conformes, Active."
+ },
+ {
+  "rang": 133,
+  "siren": "530108307",
+  "verdict": "ECART",
+  "ecarts": [
+   {
+    "champ": "dirigeants",
+    "crm": "DOMIDEP (Président) ; AP2 (Président)",
+    "source": "Pappers : DOMIDEP est Président depuis le 30/06/2023. AP2 est « ancien président » du 09/11/2016 au 19/07/2023 (BODACC du 25/07/2023 : « Modification survenue sur l'administration. Président : DOMIDEP »). L'API liste encore AP2 comme Président de SAS, une donnée non mise à jour que le CRM a reprise.",
+    "url": "https://www.pappers.fr/entreprise/ap-nevers-530108307"
+   }
+  ],
+  "note": "Écart mineur : le dirigeant principal (DOMIDEP) est exact, mais la fiche affiche deux Présidents pour une SAS, dont un parti en 2023. Finances conformes : 2025, CA 3 970 594 € / RN 175 051 € (API) = 3,97M / 175K (Pappers), dépôt BODACC 20/08/2026. Effectif 50-99 (INSEE 2024). Adresse et Nevers conformes, Active."
+ },
+ {
+  "rang": 173,
+  "siren": "804785566",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 2 571 371 € / RN 144 466 € exercice 2025 identiques API et Pappers (2,57M / 144K), dépôt BODACC 06/08/2026. Effectif 20-49 (INSEE 2024). Adresse, Decize, STAG Président (depuis 01/01/2026) : conformes. Active, aucune procédure."
+ },
+ {
+  "rang": 151,
+  "siren": "302555222",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 3 391 579 € / RN -361 531 € exercice 2025 identiques API et Pappers (3,39M / -362K). Tranche d'effectif 10-19 correcte, mais l'eff_annee du CRM (2024) ne correspond pas au millésime INSEE de l'API (2023) ; écart cosmétique. Le dirigeant principal NOVARC (Président), ainsi que M&I PRO (DG) et Vincent PHEBY (DGD), sont confirmés. 'Cédric Stéphane BRA, DGD' n'est ni sur Pappers ni dans la réponse API par SIREN, mais figure dans l'API via la recherche par nom (nom_personne=BRA : DGD de DIF). Il s'agit probablement d'une nomination récente pas encore reprise par Pappers ; non retenu comme écart, à revérifier. Adresse et Cosne-Cours-sur-Loire conformes, Active."
+ },
+ {
+  "rang": 222,
+  "siren": "305690950",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 1 741 527 € / RN 13 011 € exercice 2025 identiques API et Pappers (1,74M / 13K), dépôt BODACC 09/07/2026. Effectif 6-9 (INSEE 2024). Adresse, Nevers, CINEWEST Président : conformes. Le libellé d'activité est celui de la division NAF 59 ; l'activité exacte est la projection de films (59.14Z, cinéma)."
+ },
+ {
+  "rang": 178,
+  "siren": "414871772",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 2 478 464 € / RN 26 199 € exercice 2025 identiques API et Pappers (2,48M / 26,2K), dépôt BODACC 06/08/2026. Effectif 10-19 (INSEE 2024). Adresse et Varennes-Vauzelles conformes. Les 4 gérants (R. GAUTRAIS, TOP BOOSTER, IMPULSE & CO, TRAINER & CO) sont confirmés par Pappers. SNC (magasin NOZ)."
+ },
+ {
+  "rang": 104,
+  "siren": "412880445",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA 6 630 196 € / RN 57 620 € exercice 2024 identiques API et Pappers (6,63M / 57,6K). Aucun compte 2025 déposé à ce jour. Effectif 20-49 (INSEE 2024). Adresse, Cosne-Cours-sur-Loire, XENT Président : conformes (enseigne Bricomarché)."
+ },
+ {
+  "rang": 460,
+  "siren": "351271127",
+  "verdict": "ECART",
+  "ecarts": [
+   {
+    "champ": "dirigeants",
+    "crm": "GUSTEO (Président) ; Thierry MOSSON (Gérant)",
+    "source": "Pappers : GUSTEO est Président (SAS). Thierry MOSSON est « ancien gérant » du 09/05/2019 au 16/05/2021 : le BODACC du 16/05/2021 annonce un changement de forme juridique et « Président : GUSTEO ». Une SAS n'a pas de gérant ; T. Mosson apparaissait en 2018 comme représentant de GUSTEO. L'API liste encore « MOSSON Thierry, Gérant », une donnée non mise à jour.",
+    "url": "https://www.pappers.fr/entreprise/morvan-charcuteries-salaisons-351271127"
+   }
+  ],
+  "note": "Écart mineur : le dirigeant principal GUSTEO est exact, mais le titre de gérant de T. Mosson est périmé depuis 2021. Le CA non publié est confirmé : les dépôts 2021 à 2025 portent une déclaration de confidentialité, Pappers n'a aucune ligne CA et l'API affiche ca=0, un artefact de la confidentialité (RN 2025 : 110 592 €). Effectif 10-19 (INSEE 2024). Adresse et Clamecy conformes, Active."
+ },
+ {
+  "rang": 451,
+  "siren": "351142807",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA non publié confirmé : les exercices clos les 31/03/2023, 31/03/2024 et 31/03/2025 sont déposés avec déclaration de confidentialité (Pappers : CA vide ; API '2023' : ca=0, RN 27 043 €). La note_comptes est cohérente : l'exercice 2022 (libellé Pappers, clos le 31/03/2022) affiche un CA de 4,26M ≈ 4,3 M€. 'Rien depuis' vaut pour le CA seulement, le résultat net restant publié (153K puis 27K). Tranche 20-49 correcte, mais l'eff_annee du CRM (2023) ne correspond pas au millésime INSEE de l'API (2024) ; écart cosmétique. Adresse, Nevers, DRAGONFLY ENGINEERING Président (depuis 31/03/2026) : conformes. Active."
+ },
+ {
+  "rang": 496,
+  "siren": "453672891",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA non publié confirmé : les dépôts 2016 à 2025 portent une déclaration de confidentialité, Pappers n'a aucune ligne CA et l'API 2025 affiche ca=0 (RN 151 937 €). Effectif 10-19 (INSEE 2024). Adresse et Decize conformes. Gérants Maxime BUCHEZ (depuis 04/06/2026) et Christian SAGET confirmés. Active."
+ },
+ {
+  "rang": 489,
+  "siren": "817382187",
+  "verdict": "OK",
+  "ecarts": [],
+  "note": "CA non publié confirmé : les dépôts 2016 à 2024 portent une déclaration de confidentialité, Pappers n'a aucune ligne CA et l'API 2024 affiche ca=0 (RN -46 275 €). Comptes 2025 non encore déposés. Effectif 10-19 (INSEE 2024). Adresse et Decize conformes. Maxime SORBELLO est Président depuis le 24/07/2026 ; Pappers mentionne aussi Guillaume LARNICOL, DG depuis le 08/07/2026. Active."
+ },
+ {
+  "rang": 477,
+  "siren": "818200396",
+  "verdict": "ECART",
+  "ecarts": [
+   {
+    "champ": "statut",
+    "crm": "Active (note_classement : null)",
+    "source": "Pappers : « Plan de redressement en cours ». Redressement judiciaire ouvert par jugement du TC de Nevers du 03/06/2024 (BODACC A n°20240108, annonce 945 ; cessation des paiements au 13/06/2023 ; mandataire SELARL JSA). La période d'observation a été prolongée (jugements des 02/12/2024 et 02/06/2025). Le plan de redressement a été arrêté par jugement du 01/12/2025 pour 9 ans (BODACC A n°20250234, annonce 2816 ; commissaire à l'exécution du plan : SELARL JSA). L'état des créances a été déposé (BODACC 31/07/2026). Aucun jugement de résolution ou de liquidation.",
+    "url": "https://www.pappers.fr/entreprise/818200396"
+   }
+  ],
+  "note": "ÉCART IMPORTANT : l'entreprise est sous plan de redressement de 9 ans arrêté le 01/12/2025, après un redressement judiciaire ouvert en 2024. Le statut devrait l'indiquer. Le CA non publié et la note_comptes sont exacts : l'API donne pour 2022 un CA de 715 993 € (≈ 716 k€), et aucun compte n'a été déposé depuis l'exercice 2022. Effectif 10-19 (INSEE 2024). Gérant Daniel Adrien POY confirmé. Défauts cosmétiques : le champ adresse répète '58640 VARENNES-VAUZELLES', déjà présent dans code_postal et ville ; le nom du dirigeant est au format 'DANIEL ADRIEN POY' au lieu de 'Prénom NOM' ; l'URL Pappers n'a pas de slug mais fonctionne."
+ }
+]

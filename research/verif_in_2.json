@@ -1,0 +1,622 @@
+[
+ {
+  "rang": 7,
+  "nom": "PARAGON TRANSACTION",
+  "nom_commercial": "Paragon Transaction",
+  "siren": "775722218",
+  "forme_juridique": "SAS",
+  "date_creation": "1956-10-26",
+  "code_naf": "18.12Z",
+  "adresse": "39 rue des Rivières, Saint-Agnan, 58200 Cosne-Cours-sur-Loire",
+  "ville": "Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 2,
+  "dirigeants": [
+   {
+    "nom": "PARAGON FRANCE (personne morale)",
+    "fonction": "Mandataire social (fonction non précisée)"
+   },
+   {
+    "nom": "Guilhem BOUCON",
+    "fonction": "Mandataire social (fonction non précisée)"
+   },
+   {
+    "nom": "Pauric CREAN",
+    "fonction": "Mandataire social (fonction non précisée)"
+   },
+   {
+    "nom": "Liam DEVANE",
+    "fonction": "Mandataire social (fonction non précisée)"
+   }
+  ],
+  "groupe": "Groupe Paragon (Paragon France)",
+  "effectif": "250-499 (≈326 salariés)",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Imprimerie industrielle de labeur dont le siège et l'usine sont à Cosne-Cours-sur-Loire (Saint-Agnan) : impression sécurisée et transactionnelle (chéquiers, documents de gestion) pour banques et grands comptes. 13 établissements, CA 2024 d'environ 86 M€ (résultat net -4,4 M€).",
+  "actualite": "Accords NAO et accords de transition 2025-2028 signés en 2025 (primes, congés, classification) ; résultat 2024 déficitaire.",
+  "statut": "Active",
+  "angle_partenariat": "Cible n°1 à Cosne même : déjeuners d'affaires, pots de départ/retraite, afterworks et repas de fin d'année pour ~330 salariés, carte de réduction salariés.",
+  "priorite": "Haute",
+  "sources": [
+   "https://www.xerfi.com/etudes-par-entreprise/paragon-transaction_775722218",
+   "https://travail-industrie.com/employeurs/paragon-transaction-775722218"
+  ],
+  "activite": "Imprimerie",
+  "ca": 125375295,
+  "resultat": 2349501,
+  "secteur": "Imprimerie & papier"
+ },
+ {
+  "rang": 29,
+  "nom": "SAS GARAGE VINCENT",
+  "nom_commercial": "Groupe Vincent (DS Store / Grand Tourisme Automobile / Toyota)",
+  "siren": "886020031",
+  "forme_juridique": "SAS",
+  "date_creation": "1960-01-01",
+  "code_naf": "45.11Z",
+  "adresse": "3 route de Paris, 58640 Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "Rodolphe VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Groupe Vincent (avec CATAR et Garage G.R.V. à Cosne, même président)",
+  "effectif": "50-99",
+  "site_web": "http://www.groupevincent.fr/",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Concessions automobiles du Groupe Vincent à Varennes-Vauzelles (DS Store, Grand Tourisme Automobile, Toyota, location Distance). Le groupe distribue aussi Peugeot, Citroën, Fiat, Jeep, Alfa Romeo, Abarth et Leapmotor à Nevers et Cosne-sur-Loire.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Le groupe a une concession Peugeot/Citroën à Cosne (société G.R.V.) : lancements de modèles et portes ouvertes avec traiteur, repas d'équipe, offres salariés.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GARAGE%20VINCENT&departement=58",
+   "https://acceslibre.beta.gouv.fr/app/58-varennes-vauzelles/a/carrosserie/erp/garage-vincent/",
+   "https://www.groupevincent.fr/"
+  ],
+  "activite": "Commerce et réparation automobile",
+  "ca": 26416861,
+  "resultat": 381494,
+  "secteur": "Automobile"
+ },
+ {
+  "rang": 49,
+  "nom": "PASORI",
+  "nom_commercial": "Centre de Rééducation Fonctionnelle Pasori",
+  "siren": "350293221",
+  "forme_juridique": "SAS",
+  "date_creation": "1989-04-03",
+  "code_naf": "86.10Z",
+  "adresse": "9 ter rue Franc-Nohain",
+  "ville": "Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 1,
+  "dirigeants": [
+   {
+    "nom": "Frédérique BORDET",
+    "fonction": "Présidente"
+   },
+   {
+    "nom": "Pascale BORDET",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "groupe": null,
+  "effectif": "200-249 (207 salariés en 2025)",
+  "site_web": "https://www.pasori.fr",
+  "telephone": "03 86 28 43 89",
+  "email": "contact@pasori.fr",
+  "linkedin": "https://www.linkedin.com/company/pasori",
+  "description": "Centre de soins de suite et de réadaptation (SSR) certifié HAS situé en centre-ville de Cosne : rééducation orthopédique, traumatologique et neurologique (AVC, Parkinson), post-amputation avec appareillage, hôpital de jour et balnéothérapie. Entreprise familiale (famille Bordet) qui recrute régulièrement soignants et rééducateurs.",
+  "actualite": "Participe à la campagne de prévention routière « Cosnois Courtois » (interventions auprès de 1 200 jeunes) et a signé la charte « 7 engagements des employeurs pour la sécurité routière » ; CA 2025 de 17 M€.",
+  "statut": "Active",
+  "angle_partenariat": "Afterworks, repas de service, pots de départ et soirées de fin d'année pour ~200 salariés à quelques minutes à pied, plus offre de réduction salariés et accueil des familles de patients.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=PASORI&departement=58",
+   "https://www.pappers.fr/entreprise/350293221",
+   "https://www.etablissementsdesante.fr/etablissement/48202-centre-de-reeducation-fonctionnelle-pasori",
+   "https://www.pasori.fr"
+  ],
+  "activite": "Santé humaine",
+  "ca": 17141633,
+  "resultat": 1969803,
+  "secteur": "Santé"
+ },
+ {
+  "rang": 75,
+  "nom": "SOC GARAGE G R V",
+  "nom_commercial": "Garage GRV – Citroën (Groupe Vincent Automobile)",
+  "siren": "331066639",
+  "forme_juridique": "SAS",
+  "date_creation": "1984-10-01",
+  "code_naf": "45.11Z",
+  "adresse": "Chemin Rural du Grand Champ, Avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire",
+  "ville": "Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 2,
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Groupe Vincent Automobile",
+  "effectif": "20-49",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Concession Citroën à Cosne-Cours-sur-Loire (vente de véhicules neufs et d'occasion, atelier, pièces, station), avec un second site Citroën à La Charité-sur-Loire. Liée au Groupe Vincent Automobile, également présent en location (National Citer Cosne).",
+  "actualite": "CA 2025 en baisse à 8,8 M€ avec une perte de 145 K€ (comptes publiés en juillet 2026).",
+  "statut": "Active",
+  "angle_partenariat": "Partenaire local idéal : repas d'affaires et afterworks pour l'équipe, soirées clients/lancements de modèles au restaurant le M, offres croisées pour leurs clients.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GARAGE%20G%20R%20V&departement=58",
+   "https://www.pappers.fr/entreprise/331066639",
+   "https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB20025_sa-garage-grv-cosne-sur-loire"
+  ],
+  "activite": "Commerce et réparation automobile",
+  "ca": 10956896,
+  "resultat": 255863,
+  "secteur": "Automobile"
+ },
+ {
+  "rang": 97,
+  "nom": "ASM ANDRE STOCKAGE MANUTENTION",
+  "nom_commercial": "ASM",
+  "siren": "335275319",
+  "forme_juridique": "SAS",
+  "date_creation": "1986-04-01",
+  "code_naf": "49.41A",
+  "adresse": "123 La Bichatte, 58200 Cosne-Cours-sur-Loire",
+  "ville": "Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 3,
+  "dirigeants": [
+   {
+    "nom": "RAVE CROISSANCE (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Rave Croissance (présidente) ; LinkedIn référencé « André Chenue », ce qui suggère un lien avec ce spécialiste du transport d'œuvres d'art (à confirmer)",
+  "effectif": "20-49 (45 salariés en 2025)",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/andr-chenue",
+  "description": "Société de transport routier, stockage et manutention implantée à La Bichatte à Cosne-Cours-sur-Loire, environ 45 salariés. Ses anciens établissements d'Île-de-France (Chelles, Le Plessis-Belleville) ont été fermés et regroupés à Cosne.",
+  "actualite": "CA 2025 de 6,96 M€ (-9,4 %) mais résultat net solide de 404 K€.",
+  "statut": "Active",
+  "angle_partenariat": "Employeur cosnois : afterworks d'équipe, repas de fin d'année et carte de fidélité ou remise pour ~45 salariés à quelques minutes du bar.",
+  "priorite": "Haute",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ANDRE%20STOCKAGE%20MANUTENTION&departement=58",
+   "https://www.pappers.fr/entreprise/andre-stockage-manutention-335275319"
+  ],
+  "activite": "Transports terrestres",
+  "ca": 7682908,
+  "resultat": 634413,
+  "secteur": "Transport & logistique"
+ },
+ {
+  "rang": 2,
+  "nom": "FPT POWERTRAIN TECHNOLOGIES FRANCE",
+  "nom_commercial": "FPT Industrial",
+  "siren": "350693586",
+  "forme_juridique": "SAS",
+  "date_creation": "1989-04-01",
+  "code_naf": "29.10Z",
+  "adresse": "5 rue Pierre Timbaud, 58600 Garchizy",
+  "ville": "Garchizy",
+  "code_postal": "58600",
+  "distance_cosne_km": 48,
+  "dirigeants": [
+   {
+    "nom": "Simone CURTI",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Vincent BARBOSA",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": "Iveco Group (marque FPT Industrial)",
+  "effectif": "1000-1999",
+  "site_web": "https://www.fptindustrial.com",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Filiale française de FPT Industrial (Iveco Group), motoriste pour véhicules industriels, engins agricoles et marine. Siège social à Garchizy (Nièvre) ; l'essentiel des effectifs est à l'usine de Bourbon-Lancy (≈1 200 personnes) qui produit les moteurs Cursor et XCursor 13 multi-carburants. CA 2025 de l'entité : 581 M€.",
+  "actualite": "L'usine de Bourbon-Lancy a fêté ses 150 ans en juillet 2025 (Family Day).",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires et accueil de visiteurs/clients du site de Garchizy, afterworks pour les équipes nivernaises ; effectif local à confirmer.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=FPT%20POWERTRAIN%20TECHNOLOGIES%20FRANCE&departement=58",
+   "https://travail-industrie.com/employeurs/fpt-powertrain-technologies-france-350693586",
+   "https://www.fptindustrial.com/media/press-releases/2025/07/21/14/43/Bourbon-Lancy-150"
+  ],
+  "activite": "Industrie automobile",
+  "ca": 728715022,
+  "resultat": 24829832,
+  "secteur": "Automobile"
+ },
+ {
+  "rang": 14,
+  "nom": "TRANSPORTS ROUSSEAU ERIC",
+  "nom_commercial": "Transports Rousseau",
+  "siren": "393635230",
+  "forme_juridique": "SAS",
+  "date_creation": "1994-01-01",
+  "code_naf": "49.41A",
+  "adresse": "Quartier de la Gare, 58460 Corvol-l'Orgueilleux",
+  "ville": "Corvol-l'Orgueilleux",
+  "code_postal": "58460",
+  "distance_cosne_km": 45,
+  "dirigeants": [
+   {
+    "nom": "GROUPE ROUSSEAU (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eric Ernest ROUSSEAU",
+    "fonction": "Autre (dirigeant)"
+   }
+  ],
+  "groupe": "Groupe Rousseau",
+  "effectif": "250-499",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Transporteur routier de marchandises interurbain basé à Corvol-l'Orgueilleux, avec des établissements à Clamecy, La Charité-sur-Loire, Bancourt (62) et Saint-Denis-de-Pile (33). CA 2024 d'environ 46 M€.",
+  "actualite": "Index égalité professionnelle de 80/100 en 2025 ; accords d'entreprise publiés sur Légifrance.",
+  "statut": "Active",
+  "angle_partenariat": "Repas de fin d'année / soirées pour 250+ salariés (chauffeurs), restauration de chauffeurs autour du site de La Charité-sur-Loire (≈30 km de Cosne).",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=TRANSPORTS%20ROUSSEAU%20ERIC",
+   "https://travail-industrie.com/employeurs/transports-rousseau-eric-393635230"
+  ],
+  "activite": "Transports terrestres",
+  "ca": 49999926,
+  "resultat": 859853,
+  "secteur": "Transport & logistique"
+ },
+ {
+  "rang": 21,
+  "nom": "NEXSON GROUP - INDUSTRY",
+  "nom_commercial": "Nexson Group",
+  "siren": "530572775",
+  "forme_juridique": "SAS",
+  "date_creation": "2011-03-01",
+  "code_naf": "28.25Z",
+  "adresse": "685 rue Jules Verne, 58600 Garchizy",
+  "ville": "Garchizy",
+  "code_postal": "58600",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "NEXSON CORPORATION",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Nexson Group (Nexson Corporation)",
+  "effectif": "100-199 (131 salariés selon L'industrie recrute)",
+  "site_web": "https://www.nexson-group.com",
+  "telephone": "+33 3 86 60 13 04",
+  "email": "contact@nexson-group.com",
+  "linkedin": null,
+  "description": "Concepteur et fabricant d'échangeurs de chaleur sur mesure (spiralés, à plaques soudées, plaques et calandre, tubulaires, PCHE) pour le raffinage, la papeterie, la réfrigération et la chimie. Environ 98 % du chiffre d'affaires réalisé à l'export, plus de 1 000 clients dans plus de 80 pays.",
+  "actualite": "En mars 2024, Nexson Group a racheté l'allemand Thermowave GmbH (échangeurs HVAC et froid industriel, ex-Güntner). Un second établissement a ouvert au 680 rue Jules Verne à Garchizy fin 2022.",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires pour les clients internationaux et visiteurs de l'usine, et afterworks/séminaires pour une équipe de 130 salariés.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=NEXSON%20GROUP%20INDUSTRY&departement=58",
+   "https://www.nexson-group.com/",
+   "https://www.xerfi.com/etudes-par-entreprise/nexson-group-industry_530572775",
+   "https://www.lindustrie-recrute.fr/entreprise/17071/",
+   "https://achrnews.com/articles/154348-nexson-group-acquires-heat-exchanger-manufacturer"
+  ],
+  "activite": "Fabrication de machines et équipements",
+  "ca": 31406878,
+  "resultat": 1807536,
+  "secteur": "Industrie"
+ },
+ {
+  "rang": 26,
+  "nom": "ETABLISSEMENTS COIGNETS",
+  "nom_commercial": "Etablissements Coignet",
+  "siren": "312057318",
+  "forme_juridique": "SAS",
+  "date_creation": "1978-01-01",
+  "code_naf": "46.71Z",
+  "adresse": "Les Naslots, 58220 Ciez",
+  "ville": "Ciez",
+  "code_postal": "58220",
+  "distance_cosne_km": 25,
+  "dirigeants": [
+   {
+    "nom": "Sophie Marie Elisabeth COIGNET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Guillaume Alain COIGNET",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Alain COIGNET",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "groupe": null,
+  "effectif": "10-19",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Négociant familial en combustibles : vente et livraison de fioul, granulés de bois et bois de chauffage, plus vente/montage de pneus et mécanique générale. Sites à Ciez (siège), Clamecy et La Charité-sur-Loire.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "Entreprise familiale proche de Cosne : repas d'affaires et fournisseur potentiel (granulés/bois pour chauffage), échange de visibilité locale.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ETABLISSEMENTS%20COIGNETS&departement=58",
+   "https://www.118712.fr/professionnels/X0JSVlVRFAQ"
+  ],
+  "activite": "Commerce de gros",
+  "ca": 28694748,
+  "resultat": 622149,
+  "secteur": "Commerce & distribution"
+ },
+ {
+  "rang": 37,
+  "nom": "CATAR SOC",
+  "nom_commercial": "Peugeot Nevers (CATAR) / CORAD Decize",
+  "siren": "581880044",
+  "forme_juridique": "SAS",
+  "date_creation": "1958-01-01",
+  "code_naf": "45.11Z",
+  "adresse": "102 rue Henri Bouquillard, 58000 Nevers",
+  "ville": "Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "groupe": "Groupe Vincent",
+  "effectif": "50-99",
+  "site_web": "http://www.groupevincent.fr/",
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Concession Peugeot de Nevers (enseigne CATAR) avec un site à Decize (enseigne CORAD), rattachée au Groupe Vincent, qui détient aussi Citroën/Peugeot à Cosne-sur-Loire.",
+  "actualite": null,
+  "statut": "Active",
+  "angle_partenariat": "À démarcher via la direction du Groupe Vincent (même président que la concession de Cosne) : événements de lancement de modèles et repas clients.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=CATAR&departement=58",
+   "https://www.idgarages.com/fr-fr/garage/nevers/GB16934_societe-c-a-t-a-r",
+   "https://www.groupevincent.fr/"
+  ],
+  "activite": "Commerce et réparation automobile",
+  "ca": 23565000,
+  "resultat": 284716,
+  "secteur": "Automobile"
+ },
+ {
+  "rang": 52,
+  "nom": "POPIANE",
+  "nom_commercial": "Intermarché Donzy",
+  "siren": "401453188",
+  "forme_juridique": "SAS",
+  "date_creation": "1995-06-23",
+  "code_naf": "47.11D",
+  "adresse": "1 rue Guy de Jean",
+  "ville": "Donzy",
+  "code_postal": "58220",
+  "distance_cosne_km": 17,
+  "dirigeants": [
+   {
+    "nom": "Thierry THOMAS",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Corinne THOMAS (née CHARPIN)",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché)",
+  "effectif": "20-49",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": null,
+  "description": "Supermarché indépendant sous enseigne Intermarché à Donzy, exploité par Thierry et Corinne Thomas. Labels « Professionnels du Bio » ; contrôle Alim'confiance « Satisfaisant » en août 2025.",
+  "actualite": "CA 2024 de 16,1 M€ (en hausse) et résultat net de 402 K€.",
+  "statut": "Active",
+  "angle_partenariat": "Soirée d'équipe / fin d'année pour les salariés du magasin et partenariats croisés (produits locaux, jeux-concours, animations communes) à 17 km.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=POPIANE&departement=58",
+   "https://www.pappers.fr/entreprise/401453188"
+  ],
+  "activite": "Commerce de détail",
+  "ca": 16120755,
+  "resultat": 402129,
+  "secteur": "Commerce & distribution"
+ },
+ {
+  "rang": 64,
+  "nom": "USON RUGBY PLUS",
+  "nom_commercial": "USON Nevers Rugby",
+  "siren": "513917922",
+  "forme_juridique": "SA à conseil d'administration",
+  "date_creation": "2009-07-15",
+  "code_naf": "93.12Z",
+  "adresse": "ZI, 5 rue Denis Papin, 58640 Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "dirigeants": [
+   {
+    "nom": "Régis DUMANGE",
+    "fonction": "Président du conseil d'administration et directeur général"
+   },
+   {
+    "nom": "Sébastien DUMANGE",
+    "fonction": "Directeur général délégué"
+   },
+   {
+    "nom": "Delphine DUMANGE",
+    "fonction": "Directrice générale déléguée"
+   },
+   {
+    "nom": "Catherine DUMANGE",
+    "fonction": "Directrice générale déléguée"
+   }
+  ],
+  "groupe": "Lié à la famille Dumange (Textilot administrateur)",
+  "effectif": "50-99 (96 salariés en 2023)",
+  "site_web": "https://usonneversrugby.com",
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/usonneversrugby",
+  "description": "Société gérant l'équipe professionnelle de l'USON Nevers, club de rugby évoluant en Pro D2 depuis 2017, au stade du Pré Fleuri (Sermoise-sur-Loire, ~7 500 places). Le club anime un important réseau de partenaires et de loges d'entreprises de la Nièvre.",
+  "actualite": "Saison 2026-2027 en Pro D2, campagne d'abonnements ouverte en juin 2026 ; marché de prestations publicitaires de 230 K€ avec Nevers Agglomération notifié en juillet 2026.",
+  "statut": "Active",
+  "angle_partenariat": "Entrer dans le club partenaires (sponsoring, visibilité au stade) et proposer des soirées matchs retransmis / 3e mi-temps au bar Le Vieux Relais pour fédérer les supporters du nord Nièvre.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=USON%20RUGBY%20PLUS&departement=58",
+   "https://www.pappers.fr/entreprise/513917922",
+   "https://info.fr/uson-nevers-campagne-abonnements-2026-2027-ouverture-officielle/"
+  ],
+  "activite": "Activités sportives et de loisirs",
+  "ca": 11728867,
+  "resultat": -97033,
+  "secteur": "Sport, loisirs & médias"
+ },
+ {
+  "rang": 84,
+  "nom": "CNMC CIRCUIT DE NEVERS MAGNY-COURS",
+  "nom_commercial": "Circuit de Nevers Magny-Cours",
+  "siren": "411741440",
+  "forme_juridique": "SA d'économie mixte à directoire et conseil de surveillance (SAEM)",
+  "date_creation": "1997-04-01",
+  "code_naf": "93.11Z",
+  "adresse": "Technopôle, CS 80001, 58470 Magny-Cours",
+  "ville": "Magny-Cours",
+  "code_postal": "58470",
+  "distance_cosne_km": 65,
+  "dirigeants": [
+   {
+    "nom": "Serge Saulnier",
+    "fonction": "Président du directoire"
+   },
+   {
+    "nom": "Romain Daguenet",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Katia Favaretto",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Fabien Bazin",
+    "fonction": "Président du conseil de surveillance"
+   },
+   {
+    "nom": "Dominique Bonnet",
+    "fonction": "Vice-Président du conseil de surveillance"
+   }
+  ],
+  "groupe": "SAEM détenue majoritairement par les collectivités (Conseil départemental de la Nièvre, Ville de Nevers, Union amicale des maires de la Nièvre)",
+  "effectif": "20-49 (32 salariés en 2024)",
+  "site_web": "https://www.circuitmagnycours.com",
+  "telephone": "03 86 21 80 00",
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/circuit-de-nevers-magny-cours",
+  "description": "Société d'économie mixte qui exploite le circuit automobile et moto de Nevers Magny-Cours (ancien circuit du GP de France de F1). Accueille des compétitions internationales (WorldSBK, GT World Challenge, Grand Prix Camions, Classic Days), des journées piste et une offre entreprises (séminaires, incentives, centre de conférences).",
+  "actualite": "Calendrier 2026 chargé (WorldSBK du 4 au 6 septembre, 500 Miles de Nevers Magny-Cours, Tour de France le 16 juillet) ; CA 2024 de 8,99 M€ (+8,6 %) ; marque « 500 Miles de Nevers Magny-Cours » déposée en 2025.",
+  "statut": "Active",
+  "angle_partenariat": "Hébergement/restauration des spectateurs et équipes lors des grands week-ends de course, et offres croisées (packages soirée à Cosne pour les visiteurs venant de Paris par l'A77).",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=CIRCUIT%20DE%20NEVERS%20MAGNY-COURS&departement=58",
+   "https://www.pappers.fr/entreprise/cnmc-circuit-de-nevers-magny-cours-411741440",
+   "https://www.circuitmagnycours.com/"
+  ],
+  "activite": "Activités sportives et de loisirs",
+  "ca": 8994319,
+  "resultat": 753784,
+  "secteur": "Sport, loisirs & médias"
+ },
+ {
+  "rang": 91,
+  "nom": "PARQUETERIE BEAU SOLEIL",
+  "nom_commercial": "Parqueterie Beau Soleil",
+  "siren": "323685453",
+  "forme_juridique": "SAS",
+  "date_creation": "1982-01-01",
+  "code_naf": "16.10A",
+  "adresse": "Lieu-dit Beau Soleil, Route d'Arquian, 58310 Saint-Amand-en-Puisaye",
+  "ville": "Saint-Amand-en-Puisaye",
+  "code_postal": "58310",
+  "distance_cosne_km": 25,
+  "dirigeants": [
+   {
+    "nom": "TONNELLERIE FRANCOIS FRERES (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Didier Petitrenaud",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Rémi Petitrenaud",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Xavier Petitrenaud",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "groupe": "Tonnellerie François Frères (présidente depuis 2024)",
+  "effectif": "20-49",
+  "site_web": null,
+  "telephone": null,
+  "email": null,
+  "linkedin": "https://www.linkedin.com/company/parqueterie-beau-soleil",
+  "description": "Scierie et fabricant de parquets massifs en chêne à Saint-Amand-en-Puisaye, référencé auprès des professionnels du bâtiment. Passée en 2024 sous la présidence de la Tonnellerie François Frères (groupe de tonnellerie bourguignon).",
+  "actualite": "Changement de gouvernance en 2024 (Tonnellerie François Frères présidente) ; CA de l'exercice clos en avril 2025 de 5,73 M€.",
+  "statut": "Active",
+  "angle_partenariat": "Repas d'affaires et afterworks d'équipe à 25 km, et pourquoi pas une vitrine du savoir-faire bois (parquet/mobilier) dans le bar ou le restaurant.",
+  "priorite": "Moyenne",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=PARQUETERIE%20BEAU%20SOLEIL&departement=58",
+   "https://www.pappers.fr/entreprise/parqueterie-beau-soleil-323685453",
+   "https://www.batiproduits.com/fiche/fabricant/parqueterie-du-beau-soleil-49173/"
+  ],
+  "activite": "Travail du bois",
+  "ca": 8136203,
+  "resultat": 582642,
+  "secteur": "Bois & forêt"
+ }
+]

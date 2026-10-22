@@ -1,0 +1,1720 @@
+[
+ {
+  "siren": "382085215",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/08/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "85,9K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-144K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,34M",
+     "resultat_txt": "-28,3K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,99M",
+     "resultat_txt": "-116K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 20 et 49 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle (compte de résultat) : CA vide pour 2023 et 2024, résultat publié. La page indique « confidentialité partielle de ses comptes en 2024 », mais les avis BODACC des comptes 2023 et 2024 portent tous deux une déclaration de confidentialité. Exercice clos au 31/08 (date affichée seulement pour 2024, via BODACC). Montants affichés sous forme abrégée sans symbole €. Aucune procédure collective, société active."
+ },
+ {
+  "siren": "340352939",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/03/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "17,9K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "84,5K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,47M",
+     "resultat_txt": "85,1K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,04M",
+     "resultat_txt": "39K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle (compte de résultat) : CA vide pour 2024 et 2025, résultat publié. La page indique « confidentialité partielle de ses comptes en 2025 » ; les avis BODACC des dépôts de 2024 et de 2026 portent une déclaration de confidentialité. Exercice clos au 31/03 (date 31/03/2025 lue dans l'avis BODACC, pas dans le tableau). Montants affichés sous forme abrégée sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "878108075",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/04/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "57,8K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/04/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,08M",
+     "resultat_txt": "-2,61K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/04/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "909K",
+     "resultat_txt": "99,5K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/04/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "66,6K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "0 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle intermittente : CA vide pour 2025 et 2022 (déclarations de confidentialité au BODACC pour les comptes clos au 30/04/2025, 30/04/2022, 30/04/2021 et 30/04/2020), CA publié pour 2023 et 2024. Dates de clôture issues des avis BODACC de dépôt. Montants affichés sous forme abrégée sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "797612009",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "14,7K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-5,55K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "5,83K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "950K",
+     "resultat_txt": "-114K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "0 salarié (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité DÉDUITE, non affirmée par la page : CA vide pour 2023, 2024 et 2025 alors que le résultat est publié (schéma typique d'un compte de résultat confidentiel) ; la page ne contient aucune mention explicite de confidentialité. Effectif contradictoire : en-tête « 0 salarié (donnée 2022) » mais le tableau « Structure d'activité » indique 9 pour 2022. Dates de clôture issues des avis BODACC. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "530610187",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "12",
+   "annee_tranche_effectif": "2023",
+   "finances": {
+    "2024": {
+     "ca": 5968256,
+     "resultat_net": 1474252
+    }
+   }
+  },
+  "pappers": null,
+  "note": "Attention : l'API renvoie nom_complet « CF2C » pour ce SIREN (nom attendu : ACORDIA — sans doute enseigne/sigle ou changement de dénomination, à vérifier). API interrogée avec « &per_page=1 » (la requête « ?q=SIREN » seule renvoyait une erreur client). Pappers non demandé (todo = A)."
+ },
+ {
+  "siren": "311665913",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "48,1K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "4,22M",
+     "resultat_txt": "78,1K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "4,56M",
+     "resultat_txt": "64,8K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "3,39M",
+     "resultat_txt": "87K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Entre 20 et 49 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle « en 2025 » selon la page (déclaration art. L. 232-25 dans le dépôt du 09/07/2026 des comptes 2025 ; aussi pour les dépôts 2017 et 2018) : CA 2025 vide, résultat publié. Dates de clôture issues des avis BODACC. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "351142807",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/03/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "27K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/03/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "153K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "4,26M",
+     "resultat_txt": "23,5K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "3,83M",
+     "resultat_txt": "-123K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 20 et 49 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pas de mention explicite « confidentiel » dans le tableau, mais les dépôts des comptes clos au 31/03/2023 (déposé 31/10/2023), 31/03/2024 (08/10/2024) et 31/03/2025 (16/10/2025) portent une déclaration de confidentialité art. L. 232-25 ; CA vide pour 2023 et 2024. L'exercice clos au 31/03/2025 n'apparaît pas dans le tableau. Dates de clôture 2023/2024 rapprochées des avis BODACC. Effectif du tableau : 29 en 2022, 31 en 2021. Montants abrégés sans symbole €. Aucune procédure collective, société active (SASU depuis 2019)."
+ },
+ {
+  "siren": "512311390",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/03/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "223K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/03/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "246K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/03/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,63M",
+     "resultat_txt": "271K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/03/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,76M",
+     "resultat_txt": "397K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "0 salarié (donnée 2026)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle : la page dit « en 2025 », mais le CA est vide pour 2024 et 2025 (résultat publié) et les dépôts du 12/06/2025 et du 22/01/2026 portent une déclaration de confidentialité. Exercices clos au 31/03 selon le BODACC (dates non affichées dans le tableau). Montants abrégés sans symbole €. Aucune procédure collective, société active."
+ },
+ {
+  "siren": "393036199",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "142K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "636K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "595K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,29M",
+     "resultat_txt": "621K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 20 et 49 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle : la page dit « en 2025 », mais le CA est vide pour 2023, 2024 et 2025 (résultat publié) ; déclarations de confidentialité art. L. 232-25 sur les dépôts du 30/05/2025, 08/01/2026 et 12/02/2026. Dates de clôture lues dans les avis BODACC (30/09/2025, 31/12/2024, 31/12/2023 : changement de date de clôture, exercice 2025 probablement de 9 mois ; prochaine clôture affichée 30/09/2027). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "841401722",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "227K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "167K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,4M",
+     "resultat_txt": "177K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/09/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,47M",
+     "resultat_txt": "202K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 6 et 9 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle : la page dit « en 2025 », mais le CA est vide pour 2024 et 2025 (résultat publié) et les dépôts 2024 et 2025 portent une déclaration art. L. 232-25. Dates de clôture issues des avis BODACC. Effectif du tableau : 8 en 2022. Établissement secondaire de Decize fermé le 15/07/2020. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "830830808",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "59,4K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "246K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,21M",
+     "resultat_txt": "90K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "865K",
+     "resultat_txt": "56,1K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2024 » ; le CA est toutefois vide aussi pour 2023 (résultat publié), d'où 2023 retenu comme début. Effectif du tableau : 4 en 2021. Montants abrégés sans symbole €. Aucune procédure collective, société active."
+ },
+ {
+  "siren": "412611550",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "17,8K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "25,8K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,09M",
+     "resultat_txt": "74K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-57,1K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2025 » ; CA vide pour 2024 et 2025 (et déjà pour 2022), seul 2023 publié : confidentialité intermittente, 2024 retenu comme début de la série actuelle. Clôtures au 31/12 selon les avis BODACC. Montants abrégés sans symbole €. Aucune procédure collective, société active."
+ },
+ {
+  "siren": "889322970",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "38,2K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,23M",
+     "resultat_txt": "96K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,05M",
+     "resultat_txt": "96,2K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": null
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Entre 3 et 5 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle « en 2025 » selon la page : CA 2025 vide, résultat publié. Colonne 2022 entièrement vide ; le BODACC mentionne aussi des déclarations de confidentialité pour les comptes clos au 31/12/2021 et 31/12/2022. Établissement secondaire 5 rue de la Parcheminerie fermé le 01/11/2025 (transfert). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "389583568",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "101K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "190K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,03M",
+     "resultat_txt": "35,4K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "849K",
+     "resultat_txt": "42,2K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 6 et 9 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique une « confidentialité partielle » de ses comptes en 2025 ; le CA est toutefois non affiché pour 2024 et 2025 (résultat publié), d'où 2024 retenu comme début. Clôtures au 31/12 de chaque année selon le BODACC (dates non affichées dans le tableau). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "711880229",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/03/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "49,1K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "898K",
+     "resultat_txt": "30K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "918K",
+     "resultat_txt": "36,1K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "36,3K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle « en 2025 » selon la page (déclarations de confidentialité sur plusieurs dépôts BODACC, dont celui du 26/02/2026 pour l'exercice clos au 31/03/2025) : CA vide pour 2025 et déjà pour 2022 (intermittent). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "339914590",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "28,5K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": null
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "1,12K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "871K",
+     "resultat_txt": "62,4K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2025 » (déclarations de confidentialité sur plusieurs dépôts BODACC) ; CA vide depuis 2023, et colonne 2024 entièrement vide. Dates de clôture lues dans le BODACC : 30/09/2025 (déposé 15/10/2026) et 30/09/2024 (déposé 19/02/2026). Montants abrégés sans symbole €. Aucune procédure collective, société active."
+ },
+ {
+  "siren": "900082157",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/07/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "6,15K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/07/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "40,6K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/07/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "858K",
+     "resultat_txt": "27,4K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2025 » ; CA vide pour 2024 et 2025 (résultat publié), déclarations art. L. 232-25 au BODACC pour les comptes clos en 2022 et 2024. Seulement 3 exercices affichés. Clôtures au 31/07 selon le BODACC. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "835401936",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/05/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "38,5K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "791K",
+     "resultat_txt": "54,8K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": null
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "41,9K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle « en 2025 » selon la page ; déclarations de confidentialité au BODACC pour les dépôts 2022, 2023 et 2025 : seul le CA 2024 est publié (intermittent), colonne 2023 entièrement vide. Clôture 31/05/2025 d'après le lien des comptes 2025. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "507748283",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1534543,
+     "resultat_net": -131765
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,53M",
+     "resultat_txt": "-132K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,68M",
+     "resultat_txt": "-20,3K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,53M",
+     "resultat_txt": "-65K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/09/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,23M",
+     "resultat_txt": "93,1K"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "API interrogée avec « &per_page=1 » (la requête « ?q=SIREN » seule renvoyait une erreur client). API et Pappers concordants pour 2025. Dates de clôture issues des avis BODACC. Montants Pappers abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "344153150",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-65,8K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-42,3K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "46K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,57M",
+     "resultat_txt": "77K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2025 » (déclarations art. L. 232-25 sur les dépôts 2024 et 2025) ; le CA est vide pour 2023, 2024 et 2025 (résultat publié), d'où 2023 retenu comme début. Effectif du tableau : 6 en 2022. Montants abrégés sans symbole €. Aucune procédure collective, société active."
+ },
+ {
+  "siren": "883750721",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2024": {
+     "ca": 0,
+     "resultat_net": 218799
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/06/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "219K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "208K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,45M",
+     "resultat_txt": "206K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,31M",
+     "resultat_txt": "326K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Décalage d'année : l'exercice « 2024 » de l'API (resultat_net 218799, ca 0) correspond à l'exercice « 2025 » de Pappers clos le 30/06/2025 (résultat 219K), pas au « 2024 » Pappers (208K). Le ca = 0 de l'API reflète un CA non publié (case vide sur Pappers). La page indique « confidentialité partielle de ses comptes en 2025 », mais le CA Pappers est vide pour 2024 et 2025, d'où 2024 retenu comme début. Date 30/06/2025 tirée du lien « Voir les comptes 2025-06-30 ». API interrogée avec « &per_page=1 ». Montants Pappers abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "810992081",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "03",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1978363,
+     "resultat_net": 159163
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,98M",
+     "resultat_txt": "159K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,74M",
+     "resultat_txt": "61,9K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,59M",
+     "resultat_txt": "39,1K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,5M",
+     "resultat_txt": "83,5K"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "API et Pappers concordants pour 2025. Comptes récents non confidentiels ; anciennes déclarations de confidentialité (art. L. 232-25) seulement pour les exercices clos au 31/12/2017 et 31/12/2019. API interrogée avec « &per_page=1 ». Montants Pappers abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "750984064",
+  "api": {
+   "etat_administratif": "A",
+   "tranche_effectif": "11",
+   "annee_tranche_effectif": "2024",
+   "finances": {
+    "2025": {
+     "ca": 1161489,
+     "resultat_net": -93735
+    }
+   }
+  },
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,16M",
+     "resultat_txt": "-93,7K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,13M",
+     "resultat_txt": "-56,4K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,31M",
+     "resultat_txt": "12,8K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,31M",
+     "resultat_txt": "30,5K"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 20 et 49 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "API et Pappers concordants pour 2025. Tranche d'effectif API 11 (10 à 19 salariés, 2024) contre « Entre 20 et 49 salariés (donnée 2022) » sur Pappers. Établissement secondaire (SIRET se terminant par 00022) fermé le 20/03/2024. API interrogée avec « &per_page=1 ». Montants Pappers abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "331170100",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/03/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "21,9K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "35,5K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/03/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "27,6K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "803K",
+     "resultat_txt": "15,6K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2025 » ; CA vide pour 2023, 2024 et 2025 (résultat publié) et déclarations de confidentialité au BODACC pour les dépôts du 12/12/2023 (clôture 31/03/2023) et du 06/11/2025 (clôture 31/03/2025). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "379453640",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "85,1K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "737K",
+     "resultat_txt": "136K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "588K",
+     "resultat_txt": "72,3K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "547K",
+     "resultat_txt": "49,9K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 3 et 5 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle « en 2024 » selon la page : CA 2024 non affiché, résultat publié. Clôture 30/09/2024 d'après le lien des comptes. Effectif du tableau : 4 en 2022. Seul événement capitaux propres : PV de 1993 de poursuite d'activité malgré un actif net inférieur à la moitié du capital (pas une procédure collective). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "950499673",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "16,6M",
+     "resultat_txt": "118K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "94,7K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "110K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "64,5K"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 20 et 49 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "CA 2025 publié (dépôt du 10/09/2026 sans déclaration de confidentialité) ; les dépôts des exercices 2016 à 2024 portaient une déclaration de confidentialité art. L. 232-25, d'où CA vide 2022-2024. Historique BODACC depuis 2016 surprenant pour un SIREN en 950… (possible reprise d'une société antérieure, à vérifier). Effectif du tableau : 36 (2025), 35 (2024), 33 (2022). Montants abrégés sans symbole €. Aucune procédure collective, société active."
+ },
+ {
+  "siren": "320130735",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-10,8K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "4,03M",
+     "resultat_txt": "45,4K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "31/12/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "6,33K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "31/12/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": null
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Entre 20 et 49 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pas d'exercice 2024 affiché : changement de date de clôture (31/12/2023 puis 30/09/2025, exercice 2025 probablement allongé). Confidentialité partielle « en 2025 » selon la page ; déclarations de confidentialité au BODACC pour les clôtures 2025, 2022, 2021 et 30/09/2020, pas pour 31/12/2023 : seul le CA 2023 est publié (intermittent). Dates 2021-2023 issues des avis BODACC, 2025 du tableau des comptes annuels. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "392638243",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "11,9K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "174K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,31M",
+     "resultat_txt": "194K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/09/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "987K",
+     "resultat_txt": "-23,1K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2025 » ; CA vide pour 2024 et 2025 (résultat publié), déclarations art. L. 232-25 sur les dépôts des comptes 2024 (30/05/2025) et 2025 (30/04/2026). Clôtures au 30/09 selon le BODACC. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "899839492",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/03/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "16,2K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "31/03/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "3,38M",
+     "resultat_txt": "2,53K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "31/03/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "5,41M",
+     "resultat_txt": "97K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Pas de mention explicite sur la page, mais le dépôt des comptes clos au 31/03/2025 (26/12/2025) porte une déclaration de confidentialité et le CA 2025 est vide ; dépôts antérieurs sans cette mention. Seulement 3 exercices affichés. Dates de clôture issues des avis BODACC. Changement de président : SGH EXPANSION (28/05/2021 - 04/11/2024) puis AH EXPLOITATION depuis le 04/04/2025. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "808472484",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "31/12/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "60,3K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "102K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,48M",
+     "resultat_txt": "23,4K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,67M",
+     "resultat_txt": "48,9K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 10 et 19 salariés (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2024 » ; le CA est vide aussi pour 2023 et le dépôt des comptes 2023 porte une déclaration de confidentialité (comme ceux de 2015 à 2018), d'où 2023 retenu. Date 31/12/2024 issue de l'avis BODACC. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "952050292",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "31/12/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-71,2K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "2,38M",
+     "resultat_txt": "34,4K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2025",
+   "effectif": "Au moins 1 salarié (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle « en 2025 » selon la page (déclaration de confidentialité au BODACC pour les comptes clos au 31/12/2025) : CA 2025 vide, résultat publié. Seulement 2 exercices affichés (société récente). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "753197946",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,41M",
+     "resultat_txt": "-82,3K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,62M",
+     "resultat_txt": "84,9K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,58M",
+     "resultat_txt": "40,4K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,42M",
+     "resultat_txt": "-52K"
+    }
+   ],
+   "comptes_confidentiels": false,
+   "confidentiels_depuis": null,
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "CA affiché sur Pappers pour 2022-2025 et la page ne parle pas de confidentialité ; pourtant les avis BODACC mentionnent une déclaration de confidentialité (art. L. 232-25) pour les comptes clos en 2015, 2017-2021, 2024 et 2025 (pas 2016, 2022, 2023) — portée non précisée. Effectif du tableau : 6 en 2025. AG du 14/04/2021 : poursuite d'activité malgré un actif net inférieur à la moitié du capital (pas une procédure collective). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "393733191",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "93,1K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "114K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "77,6K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,25M",
+     "resultat_txt": "124K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2025 » (déclarations de confidentialité sur plusieurs dépôts BODACC, dont celui du 24/09/2026) ; le CA est vide pour 2023, 2024 et 2025 (résultat publié), d'où 2023 retenu. Date 30/09/2025 issue de l'avis BODACC. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "848918256",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "11,4K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": "30/09/2022",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "598K",
+     "resultat_txt": "18,5K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": "30/09/2021",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "495K",
+     "resultat_txt": "55,4K"
+    },
+    {
+     "annee": "2020",
+     "date_cloture": "30/09/2020",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "565K",
+     "resultat_txt": "79,2K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle « en 2023 » selon la page : CA 2023 vide, résultat publié. Les exercices 2024 et 2025 n'apparaissent pas dans le tableau (les dépôts BODACC de 2024 et 2026 portent une déclaration de confidentialité). Clôtures au 30/09 selon le BODACC. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "888572831",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "30/11/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-12,5K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "4,41M",
+     "resultat_txt": "141K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "143K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "64,2K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "0 salarié (donnée 2023)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité DÉDUITE, non affirmée par la page : CA vide pour 2024 (et 2022, 2021) alors que le résultat est publié ; seul le CA 2023 est affiché ; la page ne mentionne aucune confidentialité. Date 30/11/2024 tirée du lien des comptes « 2024-11-30 ». Page lue via l'URL pappers.fr/entreprise/888572831 (l'URL avec slug renvoyait une erreur serveur). Établissements secondaires fermés : Beine-Nauroy (30/06/2026) et Bazancourt (06/10/2023). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "848870747",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2023",
+     "date_cloture": "31/12/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "109K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,05M",
+     "resultat_txt": "177K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "95,6K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Au moins 1 salarié (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "Confidentialité partielle « en 2023 » selon la page : CA 2023 vide (et déjà 2021), seul 2022 publié. Aucun chiffre affiché pour 2024 ou 2025 alors que des dépôts de comptes sont annoncés pour ces exercices. Date 31/12/2023 issue de l'avis BODACC. Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "751340811",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2025",
+     "date_cloture": "30/09/2025",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "82,3K"
+    },
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": null
+    },
+    {
+     "annee": "2023",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,36M",
+     "resultat_txt": "63,9K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "1,01M",
+     "resultat_txt": "-21,7K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2024",
+   "effectif": "Entre 10 et 19 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2025 » ; déclarations de confidentialité au BODACC pour les dépôts du 10/07/2025 (clôture 30/09/2024) et du 13/08/2026 (clôture 30/09/2025) : CA vide pour 2024 et 2025, colonne 2024 entièrement vide. Établissement secondaire rue de Pargon fermé le 01/01/2014 (transfert). Montants abrégés sans symbole €. 0 procédure collective, société active."
+ },
+ {
+  "siren": "483143129",
+  "api": null,
+  "pappers": {
+   "exercices": [
+    {
+     "annee": "2024",
+     "date_cloture": "30/09/2024",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "-22,3K"
+    },
+    {
+     "annee": "2023",
+     "date_cloture": "30/09/2023",
+     "ca": null,
+     "resultat": null,
+     "ca_txt": null,
+     "resultat_txt": "92,9K"
+    },
+    {
+     "annee": "2022",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "4,21M",
+     "resultat_txt": "349K"
+    },
+    {
+     "annee": "2021",
+     "date_cloture": null,
+     "ca": null,
+     "resultat": null,
+     "ca_txt": "3,92M",
+     "resultat_txt": "237K"
+    }
+   ],
+   "comptes_confidentiels": true,
+   "confidentiels_depuis": "2023",
+   "effectif": "Entre 6 et 9 salariés (donnée 2022)",
+   "procedure": null,
+   "radiee_ou_dissoute": false
+  },
+  "note": "La page indique « confidentialité partielle de ses comptes en 2024 » ; déclarations de confidentialité au BODACC pour les comptes clos au 30/09/2023 et au 30/09/2024 : CA vide pour 2023 et 2024, résultat publié. Effectif du tableau : 9 en 2024. Montants abrégés sans symbole €. Aucune procédure collective, société active."
+ }
+]

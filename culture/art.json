@@ -1,0 +1,1227 @@
+[
+  {
+    "id": "b01",
+    "nom": "Pascale Nectoux",
+    "type": "Artiste",
+    "discipline": "peinture, céramique",
+    "ville": "Pouilly-sur-Loire",
+    "code_postal": "58150",
+    "distance_cosne_km": 15,
+    "description": "Peintre et céramiste formée aux Beaux-Arts de Paris et docteure en histoire de l'art, installée depuis 2014 dans un grand atelier en bord de Loire près de Pouilly-Fumé ; elle signe parfois « Pax » et peint notamment des séries de fleurs, « Les Grilles » ou « Monts et Merveilles ». Cofondatrice et vice-présidente de l'association qui organise la FIAAC, elle est une porte d'entrée vers tout le réseau artistes-vignerons du Pouillyssois.",
+    "evenements_existants": "FIAAC 2026 (mai) : expose dans son atelier, qui accueille le Domaine de la Croisée, avec Bruno Chiapello ; exposition collective « Puissance 4 / Déploiement », Tour du Pouilly Fumé, 12–28 juillet 2024 ; une trentaine d'expositions en dix ans (Paris, île d'Yeu) selon son site.",
+    "idee_evenement": "Lui proposer une exposition personnelle avec une rencontre-talk sur la naissance de la FIAAC (art et vin), accompagnée d'une séance de peinture florale en direct pendant le vernissage.",
+    "contact": {
+      "site": "http://www.pascalenectoux.com",
+      "email": "pascale.nectoux@orange.fr",
+      "telephone": null,
+      "facebook": "https://www.facebook.com/pascale.nectoux",
+      "instagram": null,
+      "adresse": "Atelier : 2 impasse Waldeck-Rousseau, 58150 Pouilly-sur-Loire"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "http://www.pascalenectoux.com",
+      "https://grandegalerie.fiaac.fr/fiaac-2026/exposant.html/&num=223",
+      "https://grandegalerie.fiaac.fr/contact.html",
+      "https://www.banquedesterritoires.fr/une-foire-dart-ancree-dans-un-terroir-et-son-territoire-58",
+      "https://www.pouilly-fume.com/wp-content/uploads/2024/05/2024-animations-LTPFweb.pdf"
+    ]
+  },
+  {
+    "id": "b02",
+    "nom": "Isabelle de Voldère (Devoldère)",
+    "type": "Artiste",
+    "discipline": "peinture",
+    "ville": "Entrains-sur-Nohain",
+    "code_postal": "58410",
+    "distance_cosne_km": 36,
+    "description": "Peintre diplômée des Beaux-Arts de Paris, également restauratrice de tableaux, dont le travail porte sur la lumière et la monumentalité (séries « Menhirs », « Aquarius », « Encres », « Corps intérieurs »…). Elle a créé en 2016 La Tempéra, lieu de résidence et d'échanges artistiques au Château du Bois (Instagram du lieu : @_latempera_), et participe aux Portes ouvertes d'Artistes en Nièvre et au réseau Seize Mille.",
+    "evenements_existants": "Exposition « Nuit d'été » à La Tempéra jusqu'au 2 nov. 2026 ; Portes ouvertes d'ateliers d'artistes #4 les 24–25 oct. 2026 (Artistes en Nièvre / Seize Mille) ; portes ouvertes les 26–27 oct. 2024 ; documentaire sur son atelier tourné en 2024 par Maxime Morin.",
+    "idee_evenement": "Exposer une série grand format (« Menhirs » ou « Aquarius ») et organiser une soirée de projection du documentaire de 2024 sur son atelier, suivie d'un échange avec l'artiste.",
+    "contact": {
+      "site": "https://www.devoldereisabelle.com",
+      "email": "devoldereisabelle@gmail.com",
+      "telephone": "06 37 09 66 60",
+      "facebook": null,
+      "instagram": "https://www.instagram.com/devolderepeintre/",
+      "adresse": "Atelier La Tempéra, Château du Bois, 6 route des Vilnots, 58410 Entrains-sur-Nohain"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.devoldereisabelle.com",
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-d-artistes-en-nievre-la-tempera/",
+      "https://www.jds.fr/manifestations/portes-ouvertes-d-ateliers-d-artistes-4-1788649_A",
+      "https://www.jds.fr/nievre/agenda/expositions-471_B"
+    ]
+  },
+  {
+    "id": "b03",
+    "nom": "Yann Gaillot",
+    "type": "Artiste",
+    "discipline": "photographie",
+    "ville": "Nièvre (commune non précisée ; vit entre Paris et la Nièvre)",
+    "code_postal": null,
+    "distance_cosne_km": 15,
+    "description": "Photographe et auteur, ancien spécialiste de l'image chez Canon devenu artiste à plein temps, qui partage sa vie entre Paris et la Nièvre ; sa photographie naturaliste (paysages, abstraction, végétal) se veut « un chemin poétique ». Il expose depuis 2020, notamment à Expo4Art (Paris) et à la Tour du Pouilly Fumé en 2025 (distance indiquée : lieu de cette exposition).",
+    "evenements_existants": "Exposition « Point de vue », Salle Privilège de la Tour du Pouilly Fumé, 22–30 juillet 2025 ; Expo4Art, Halle des Blancs-Manteaux (Paris), décembre 2023 et juin 2024.",
+    "idee_evenement": "Accrocher une série de paysages de Loire et proposer une soirée « regard de photographe » avec lecture de ses textes, prolongée par une sortie photo au lever du soleil sur les quais de Cosne.",
+    "contact": {
+      "site": "https://www.artsper.com/us/contemporary-artists/france/125807/yann-gaillot",
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.artsper.com/us/contemporary-artists/france/125807/yann-gaillot",
+      "https://www.macommune.info/agenda/exposition-point-de-vue-a-la-tour-du-pouilly-fume/"
+    ]
+  },
+  {
+    "id": "b04",
+    "nom": "Sebka Pelli",
+    "type": "Artiste",
+    "discipline": "encre, sumi-e, dessin",
+    "ville": "Nièvre (commune non précisée)",
+    "code_postal": null,
+    "distance_cosne_km": 0,
+    "description": "Artiste pratiquant le sumi-e (peinture japonaise à l'encre noire) et le dessin à l'encre, très présente dans le circuit local en 2026 (distance indiquée : son lieu d'exposition à Cosne). Elle expose avec le réseau Artistes en Nièvre ; aucun site ni réseau social public n'a été trouvé, le contact passe par l'association (artistesennievre@gmail.com) ou les médiathèques Cœur de Loire.",
+    "evenements_existants": "Médiathèque de Donzy, 6–25 juillet 2026 ; exposition « galerie de la Loire » chez Sens figuré à Cosne, 1er–30 août 2026.",
+    "idee_evenement": "Démonstration de sumi-e en direct pendant le vernissage, suivie d'un atelier d'initiation à l'encre pour une dizaine de participants.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.jds.fr/cosne-cours-sur-loire/expos/expositions-estivales-1595385_A",
+      "https://unidivers.fr/event/exposition-aout-dans-la-galerie-de-la-loire-cosne-cours-sur-loire-nievre-2026-08-01/"
+    ]
+  },
+  {
+    "id": "b05",
+    "nom": "Louise Gros",
+    "type": "Artiste",
+    "discipline": "gravure, héliogravure",
+    "ville": "Nièvre (commune non précisée)",
+    "code_postal": null,
+    "distance_cosne_km": 17,
+    "description": "Graveuse travaillant la gravure et l'héliogravure, exposée à l'été 2026 à la médiathèque de Donzy dans le cadre des « Expositions estivales » du réseau Cœur de Loire (distance indiquée : Donzy). Aucune page professionnelle publique n'a été trouvée ; contact à obtenir via les médiathèques Cœur de Loire.",
+    "evenements_existants": "Médiathèque de Donzy, 17–31 août 2026.",
+    "idee_evenement": "Atelier d'initiation à la gravure (linogravure ou gravure sur tétrapack) avec une presse portative, puis accrochage des tirages des participants à côté de ses estampes.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.jds.fr/cosne-cours-sur-loire/expos/expositions-estivales-1595385_A"
+    ]
+  },
+  {
+    "id": "b06",
+    "nom": "Alain Gaudebert",
+    "type": "Artiste",
+    "discipline": "céramique (grès)",
+    "ville": "Puisaye (atelier non précisé)",
+    "code_postal": null,
+    "distance_cosne_km": 26,
+    "description": "Céramiste de Puisaye travaillant le grès, à qui le Musée du Grès de Saint-Amand-en-Puisaye consacre en 2026 l'exposition « Terre en vue ! », qui dévoile ses gestes, ses matières et son œuvre emblématique « La foule » (distance indiquée : Saint-Amand). Pas de site personnel identifié ; contact via le musée.",
+    "evenements_existants": "Exposition « Terre en vue ! », Musée du Grès (château de Saint-Amand-en-Puisaye), 15 juillet – 30 septembre 2026.",
+    "idee_evenement": "Exposer quelques grès en dialogue avec les peintres de l'exposition et organiser une rencontre « parcours d'un céramiste de Puisaye » co-animée avec le Musée du Grès.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://unidivers.fr/event/terre-en-vue-saint-amand-en-puisaye-nievre-2026-07-15/",
+      "https://www.jds.fr/nievre/agenda/expositions-471_B"
+    ]
+  },
+  {
+    "id": "b07",
+    "nom": "Nicole Crestou",
+    "type": "Artiste",
+    "discipline": "céramique, sculpture",
+    "ville": "Puisaye (atelier non précisé)",
+    "code_postal": null,
+    "distance_cosne_km": 38,
+    "description": "Céramiste membre de l'Association des Potiers Créateurs de Puisaye (Couvent de Treigny), qui a accompagné en 2024–2025 la résidence de l'artiste Ju Hyun Lee au Centre céramique contemporaine de La Borne (distance indiquée : Treigny). Leur série de casques en grès a été présentée en septembre 2026 dans l'exposition « Terre en têtes ».",
+    "evenements_existants": "« Terre en têtes » (avec Ju Hyun Lee), Centre céramique contemporaine La Borne, 19–20 sept. 2026 ; exposition collective « Nous » au Couvent de Treigny, 5 sept. – 1er nov. 2026.",
+    "idee_evenement": "Présenter quelques pièces sculpturales en grès et organiser un talk croisé céramique/peinture autour de la résidence de La Borne.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://unidivers.fr/event/expositions-terre-en-tetes-kouros-et-permanence-artistique-de-lassociation-ceramique-la-borne-centre-ceramique-contemporaine-henrichemont-2026-09-19t1100000200/",
+      "https://unidivers.fr/event/expo-nous-treigny-perreuse-sainte-colombe-yonne-2026-09-05/"
+    ]
+  },
+  {
+    "id": "b08",
+    "nom": "Artistes en Nièvre (association)",
+    "type": "Collectif d'artistes",
+    "discipline": "pluridisciplinaire (peinture, dessin, gravure, sculpture…)",
+    "ville": "Nevers (rayonnement départemental)",
+    "code_postal": "58000",
+    "distance_cosne_km": 55,
+    "description": "Association départementale d'artistes qui fédère plusieurs dizaines d'ateliers (37 en 2023) et organise chaque automne les Portes ouvertes des ateliers d'artistes en Nièvre, avec le soutien du Département. Elle alimente aussi des expositions mensuelles « galerie de la Loire » chez Sens figuré, rue du Commerce à Cosne, ce qui en fait le relais le plus direct vers les artistes actifs du Cosnois.",
+    "evenements_existants": "Portes ouvertes des ateliers d'artistes en Nièvre (24–25 oct. 2026 ; 25–26 oct. 2025 ; 26–27 oct. 2024 ; 28–29 oct. 2023) ; « Exposition Août, dans la galerie de la Loire » chez Sens figuré à Cosne, 1er–30 août 2026 (Martine C, Sebka Pelli, Nicole Lairez, Sylvie Vergeat).",
+    "idee_evenement": "Proposer à l'association de faire du bar-restaurant une étape « hors atelier » des Portes ouvertes d'octobre, avec une exposition collective de ses membres du secteur Cosne et un vernissage le samedi soir.",
+    "contact": {
+      "site": "https://www.tehef.fr/artistes-en-nievre/",
+      "email": "artistesennievre@gmail.com",
+      "telephone": "06 50 79 99 26",
+      "facebook": "https://www.facebook.com/profile.php?id=61564138855662",
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": {
+      "nom": "TEHEF",
+      "fonction": "artiste, organisateur des Portes ouvertes (annonce de 2023)",
+      "source": "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-d-artistes-dans-la-nievre/"
+    },
+    "priorite": "Haute",
+    "sources": [
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-d-artistes-dans-la-nievre/",
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-dartistes-en-nievre-13/",
+      "https://unidivers.fr/event/portes-ouvertes-des-ateliers-dartistes-en-nievre-nevers-nievre-2026-10-24/",
+      "https://unidivers.fr/event/exposition-aout-dans-la-galerie-de-la-loire-cosne-cours-sur-loire-nievre-2026-08-01/"
+    ]
+  },
+  {
+    "id": "b09",
+    "nom": "Le Couvent de Treigny – Association des Potiers Créateurs de Puisaye",
+    "type": "Collectif d'artistes",
+    "discipline": "céramique contemporaine",
+    "ville": "Treigny-Perreuse-Sainte-Colombe",
+    "code_postal": "89520",
+    "distance_cosne_km": 38,
+    "description": "Collectif de 14 céramistes de Puisaye installé depuis 2006 dans les cinq salles du Couvent de Treigny, qui y organise expositions saisonnières, marché potier, ateliers et stages tous publics. Membres actuels : M. Chaix, N. Crestou, I. Daucourt, I. Debruyère, É. Henrard, V. Lallier, C. Le Baron, S. MacKeith, C. Meunier, C. Petibon, D. Raimboux, N. Richard, T. Richardot et M-L. Trinquand.",
+    "evenements_existants": "Exposition des 20 ans « Nous », 5 sept. – 1er nov. 2026, avec huit ateliers gratuits le samedi (15 h–17 h) du 12 sept. au 31 oct. ; Festival de la céramique (marché potier) le 2e week-end d'août (8–9 août 2026) ; « Céramique de Noël » les 5–6 déc. 2026.",
+    "idee_evenement": "Accueillir une exposition « hors les murs » de 4 à 6 membres du collectif, avec un atelier modelage ou sgraffite animé par un céramiste le soir du vernissage.",
+    "contact": {
+      "site": "https://www.lecouventdetreigny.com/",
+      "email": "lecouventdetreigny89@orange.fr",
+      "telephone": "03 86 74 75 38",
+      "facebook": "https://www.facebook.com/lecouventdetreigny/",
+      "instagram": "https://www.instagram.com/lecouventdetreigny89/",
+      "adresse": "4 rue du Couvent, 89520 Treigny-Perreuse-Sainte-Colombe"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.lecouventdetreigny.com/",
+      "https://unidivers.fr/event/expo-nous-treigny-perreuse-sainte-colombe-yonne-2026-09-05/",
+      "https://www.puisaye-tourisme.fr/en/agenda/foire-des-potiers/",
+      "https://www.puisaye-tourisme.fr/en/ou-apprendre-la-poterie-en-bourgogne/"
+    ]
+  },
+  {
+    "id": "b10",
+    "nom": "Club Regards-photo de Cosne-sur-Loire",
+    "type": "Collectif d'artistes",
+    "discipline": "photographie",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Club photo de Cosne qui a exposé à l'été 2026 une série consacrée à l'architecture et aux monuments à la médiathèque de Cosne. Aucun site ni contact public n'a été trouvé : le joindre via les médiathèques Cœur de Loire.",
+    "evenements_existants": "Exposition « architecture et monuments », médiathèque de Cosne, 1er juillet – 31 août 2026 (Expositions estivales).",
+    "idee_evenement": "Lancer avec le club un concours photo « Cosne et la Loire » exposé dans la salle et clôturé par une soirée de remise des prix.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.jds.fr/cosne-cours-sur-loire/expos/expositions-estivales-1595385_A"
+    ]
+  },
+  {
+    "id": "b11",
+    "nom": "Club Agora Photo",
+    "type": "Collectif d'artistes",
+    "discipline": "photographie",
+    "ville": "Pouilly-sur-Loire (secteur, à confirmer)",
+    "code_postal": "58150",
+    "distance_cosne_km": 15,
+    "description": "Club de photographes amateurs qui expose régulièrement à Pouilly-sur-Loire, notamment autour de la FIAAC. Commune de rattachement et contacts non publiés dans les sources consultées (passer par la Tour du Pouilly Fumé).",
+    "evenements_existants": "« Regards sur la FIAAC » à la Galerie de Pouilly (mai 2024) ; « Expressions », Salle Privilège de la Tour du Pouilly Fumé, 1er août – 22 sept. 2024.",
+    "idee_evenement": "Exposition photo « gens des vignes et coulisses de la FIAAC » avec un diaporama projeté en soirée.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.pouilly-fume.com/wp-content/uploads/2024/05/2024-animations-LTPFweb.pdf"
+    ]
+  },
+  {
+    "id": "b12",
+    "nom": "Atelier des Peintres du Printemps",
+    "type": "Collectif d'artistes",
+    "discipline": "peinture (amateurs)",
+    "ville": "Châtillon-sur-Loire",
+    "code_postal": "45360",
+    "distance_cosne_km": 33,
+    "description": "Atelier associatif réunissant 38 peintres amateurs, qui présente chaque année une grande exposition collective sans thème imposé à l'Espace culturel de Châtillon-sur-Loire (Loiret). Un vivier de peintres locaux plutôt qu'un partenaire professionnel.",
+    "evenements_existants": "Exposition annuelle de l'Amicale des peintres du printemps à l'Espace culturel de Châtillon-sur-Loire (livret municipal 2024).",
+    "idee_evenement": "Organiser un week-end « salon des peintres de Loire » amateur avec vote du public et séance de peinture en plein air sur les quais.",
+    "contact": {
+      "site": null,
+      "email": "christine.marquois@gmail.com",
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "1 rue de Beaulieu, 45360 Châtillon-sur-Loire"
+    },
+    "responsable": {
+      "nom": "Anne-Marie Asselineau et Christine Marquois",
+      "fonction": "contacts de l'association (livret municipal)",
+      "source": "https://chatillon-sur-loire.com/wp-content/uploads/2024/03/Livret-Peintres-du-printemps.pdf"
+    },
+    "priorite": "Basse",
+    "sources": [
+      "https://chatillon-sur-loire.com/wp-content/uploads/2024/03/Livret-Peintres-du-printemps.pdf"
+    ]
+  },
+  {
+    "id": "b13",
+    "nom": "Espace Terre – Céline Badal Oliva & Fabien Badal",
+    "type": "Artisan d'art",
+    "discipline": "poterie, céramique (grès)",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Couple de potiers de Saint-Amand-en-Puisaye qui fabrique, émaille et cuit sur place une céramique mêlant tradition et design (collections « Bleu de Fer », « Rouge de Cuivre », « Lagon », jarres et pots de jardin). Boutique-atelier ouverte du vendredi au dimanche et tous les jours en juillet-août ; l'office de tourisme les cite parmi les adresses où s'initier au tournage.",
+    "evenements_existants": null,
+    "idee_evenement": "Démonstration de tournage pendant le vernissage, avec vente de pièces et service des boissons dans des gobelets en grès créés pour l'occasion.",
+    "contact": {
+      "site": "https://www.espaceterre-ceramique.com/",
+      "email": null,
+      "telephone": "06 68 62 46 69 / 07 68 39 68 85",
+      "facebook": "https://www.facebook.com/celineetfabienbadal",
+      "instagram": "https://www.instagram.com/espaceterre",
+      "adresse": "58310 Saint-Amand-en-Puisaye (boutique-atelier)"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.espaceterre-ceramique.com/",
+      "https://www.puisaye-tourisme.fr/en/ou-apprendre-la-poterie-en-bourgogne/",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/potiers-et-ceramiques/page/2/"
+    ]
+  },
+  {
+    "id": "b14",
+    "nom": "Poterie des Guimards (Nathalie et Christophe Hurtault)",
+    "type": "Artisan d'art",
+    "discipline": "poterie, grès",
+    "ville": "Bitry",
+    "code_postal": "58310",
+    "distance_cosne_km": 25,
+    "description": "Atelier familial de grès fondé en 1976, repris par Nathalie et Christophe Hurtault, qui extrait sa terre de sa propre carrière et prépare émaux et cuissons sur place ; ses collections aux formes contemporaines ont été présentées à Maison&Objet en 2015. Boutique dans la Grande Rue de Saint-Amand-en-Puisaye (le site web indiqué date d'un article de 2015, à vérifier).",
+    "evenements_existants": null,
+    "idee_evenement": "Créer une petite série de pichets ou de tasses en grès « édition exposition » pour le bar-restaurant, présentée lors d'une soirée rencontre avec les potiers.",
+    "contact": {
+      "site": "http://www.lesguimards.com/lesguimards.com/Accueil.html",
+      "email": null,
+      "telephone": "03 86 39 60 31 (atelier) / 03 86 39 72 67 (boutique)",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Atelier : 3 rue du Puits, Les Guimards, 58310 Bitry ; boutique : 11 Grande Rue, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/poterie-des-guimards/",
+      "https://www.burgundy-tourism.com/craftmanship/la-boutique-les-guimards",
+      "https://remodelista.com/posts/les-guimards-colorful-french-ceramic-tableware-and-vases-from-burgundy"
+    ]
+  },
+  {
+    "id": "b15",
+    "nom": "Yolaine Eve – poterie du Faubourg des Poteries",
+    "type": "Artisan d'art",
+    "discipline": "grès traditionnel cuit au bois",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Potière installée dans une poterie du XIXe siècle du Faubourg des Poteries, dotée d'un four à bois de 100 m³, où elle produit et vend du grès cuit au bois à l'ancienne. Le site abrite aussi l'espace Jacques-Jeanneney, en accès libre.",
+    "evenements_existants": null,
+    "idee_evenement": "Exposer une sélection de grès cuits au bois avec un diaporama commenté par la potière sur une cuisson au grand four.",
+    "contact": {
+      "site": "http://asppp.free.fr/french/index.htm",
+      "email": null,
+      "telephone": "03 86 22 77 48",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "30 Faubourg des Poteries, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/yolaine-eve/",
+      "https://www.puisaye-tourisme.fr/en/patrimoine-savoir-faire/artisanat-et-savoir-faire/potiers-et-ceramiques/page/3/"
+    ]
+  },
+  {
+    "id": "b16",
+    "nom": "L'atelier Le Fusain – Galerie du Pont",
+    "type": "Atelier & école d'art",
+    "discipline": "dessin, peinture, modèle vivant",
+    "ville": "La Charité-sur-Loire",
+    "code_postal": "58400",
+    "distance_cosne_km": 30,
+    "description": "Atelier de cours de dessin et de peinture pour adultes et adolescents (fusain, pastels, encres, huile, acrylique, modèle vivant), présenté dans un annuaire comme intervenant sur le secteur Donzy, Pouilly, Cosne, La Chapelle-Saint-André et La Charité. En 2026, il propose à la Galerie du Pont de La Charité une série de stages d'une journée (60 à 80 €).",
+    "evenements_existants": "Stages d'été 2026 à la Galerie du Pont : « Les blancs en peinture » (8 juil.), « Dessiner avec le cerveau droit » (14 juil.), « Du figuratif à l'abstrait » (15 juil.), « Modèle vivant poses longues » (18 juil., 80 €), « Dessin, les bases » (22 juil.), « Art de la composition » (23 juil.), « Développer la créativité » (28 juil., 60 €).",
+    "idee_evenement": "Organiser une session mensuelle de « croquis au bar » ou de modèle vivant encadrée par l'atelier, dont les meilleurs dessins rejoignent l'accrochage.",
+    "contact": {
+      "site": "http://atelierlefusain.fr",
+      "email": "charlotteatelierlefusain@gmail.com",
+      "telephone": "06 89 25 03 58",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Galerie du Pont, 10 rue du Pont, 58400 La Charité-sur-Loire"
+    },
+    "responsable": {
+      "nom": "Charlotte (nom de famille non publié)",
+      "fonction": "animatrice des cours et stages (prénom tiré de l'adresse de contact)",
+      "source": "https://unidivers.fr/event/stage-dessin-de-modele-vivant-poses-longues-la-charite-sur-loire-nievre-2026-07-18/"
+    },
+    "priorite": "Haute",
+    "sources": [
+      "https://unidivers.fr/event/stage-dessin-de-modele-vivant-poses-longues-la-charite-sur-loire-nievre-2026-07-18/",
+      "https://unidivers.fr/event/stage-du-figuratif-a-labstrait-en-peinture-la-charite-sur-loire-nievre-2026-07-15/",
+      "https://unidivers.fr/event/developper-la-creativite-en-peinture-la-charite-sur-loire-nievre-2026-07-28/",
+      "https://unidivers.fr/event/stage-les-blancs-en-peinture-la-charite-sur-loire-nievre-2026-07-08/",
+      "https://unidivers.fr/event/stage-dessiner-avec-le-cerveau-droit-outils-de-developpement-du-regard-la-charite-sur-loire-nievre-2026-07-14/",
+      "https://unidivers.fr/event/stage-dessin-les-bases-ombre-lumiere-perspective-la-charite-sur-loire-nievre-2026-07-22/",
+      "https://unidivers.fr/event/stage-peinture-art-de-la-composition-trouver-lequilibre-la-charite-sur-loire-nievre-2026-07-23/",
+      "https://www.gralon.net/annuaire/art-et-culture/peintres/page-web-cours-artistique--dessin--peinture--pour-adultes-et-enfants-en-bourgogne-44617.htm"
+    ]
+  },
+  {
+    "id": "b17",
+    "nom": "EMA-CNIFOP – Centre international de formation aux métiers d'art et de la céramique",
+    "type": "Atelier & école d'art",
+    "discipline": "céramique (formation)",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Centre de formation associatif fondé en 1976 qui accueille plus de 300 stagiaires par an (CAP tournage, spécialisations création et ornementation, émaillage) et propose des stages courts pour amateurs et professionnels. Il co-organise la Fête de la poterie de Saint-Amand et ouvre ses portes au public.",
+    "evenements_existants": "Fête de la poterie et 5e Championnat de France des tourneurs potiers, 16–17 mai 2026 ; journées portes ouvertes ; expositions temporaires.",
+    "idee_evenement": "Inviter des stagiaires en CAP tournage pour une démonstration publique et une exposition-vente « jeunes céramistes » adossée à l'exposition.",
+    "contact": {
+      "site": "https://www.cnifop.com/",
+      "email": "formation@cnifop.com",
+      "telephone": "03 86 39 60 17",
+      "facebook": "https://www.facebook.com/EMACNIFOP",
+      "instagram": "https://www.instagram.com/emacnifop",
+      "adresse": "21 route de Saint-Sauveur, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.cnifop.com/",
+      "https://www.puisaye-tourisme.fr/en/artisanat/centre-international-de-formation-ema-cnifop/",
+      "https://www.festivalenfrance.com/festival/f-ete-de-la-poterie-saint-amand-en-puisaye"
+    ]
+  },
+  {
+    "id": "b18",
+    "nom": "Sens figuré – « galerie de la Loire »",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "expositions collectives (peinture, dessin, sculpture)",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Lieu du 32 rue du Commerce à Cosne qui accueille des expositions mensuelles intitulées « galerie de la Loire », alimentées par des membres d'Artistes en Nièvre. La nature exacte du lieu (boutique, atelier ou galerie) n'a pas pu être vérifiée ; c'est à la fois un partenaire possible et le concurrent le plus direct en centre-ville.",
+    "evenements_existants": "« Exposition Août, dans la galerie de la Loire », 1er–30 août 2026 (10 h–18 h) : Martine C (peinture, sculpture), Sebka Pelli (dessin, encre), Nicole Lairez (peinture), Sylvie Vergeat (dessin, pastel).",
+    "idee_evenement": "Coordonner les vernissages le même soir avec un plan de visite commun, pour créer un petit parcours d'art en centre-ville.",
+    "contact": {
+      "site": null,
+      "email": "artistesennievre@gmail.com",
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "32 rue du Commerce, 58200 Cosne-Cours-sur-Loire"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://unidivers.fr/event/exposition-aout-dans-la-galerie-de-la-loire-cosne-cours-sur-loire-nievre-2026-08-01/"
+    ]
+  },
+  {
+    "id": "b19",
+    "nom": "La Tour du Pouilly Fumé – Salle Privilège",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "expositions temporaires (peinture, céramique, photo), œnotourisme",
+    "ville": "Pouilly-sur-Loire",
+    "code_postal": "58150",
+    "distance_cosne_km": 15,
+    "description": "Site de visite de l'appellation Pouilly-Fumé (EPIC communal, scénographie rénovée sous l'égide de la communauté de communes Cœur de Loire) qui abrite l'office de tourisme et une Salle Privilège accueillant des expositions l'été. C'est aussi le point d'accueil de la FIAAC (ouverture et remise des prix).",
+    "evenements_existants": "« Puissance 4 / Déploiement » (Valérie Berthelot, Lydia Lasota, Pascale Nectoux, Naomi Norberg), 12–28 juillet 2024 ; « Expressions » du club Agora Photo, 1er août – 22 sept. 2024 ; « Point de vue » de Yann Gaillot, 22–30 juillet 2025 ; cérémonies de la FIAAC en mai.",
+    "idee_evenement": "Monter un circuit « art & vin » Cosne–Pouilly : les deux expositions partagent un même week-end de vernissage, avec dégustation de Pouilly-Fumé au bar-restaurant.",
+    "contact": {
+      "site": "https://www.pouilly-fume.com/la-tour/visiter/",
+      "email": "contact@tourdupouillyfume.fr",
+      "telephone": "03 86 24 04 70",
+      "facebook": "https://www.facebook.com/profile.php?id=100064274463516",
+      "instagram": null,
+      "adresse": "30 rue Waldeck-Rousseau, 58150 Pouilly-sur-Loire"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.macommune.info/agenda/exposition-puissance-4-deploiement-a-la-tour-du-pouilly-fume/",
+      "https://www.macommune.info/agenda/exposition-point-de-vue-a-la-tour-du-pouilly-fume/",
+      "https://www.pouilly-fume.com/wp-content/uploads/2024/05/2024-animations-LTPFweb.pdf",
+      "https://www.pouilly-fume.com/la-tour/visiter/",
+      "https://www.banquedesterritoires.fr/une-foire-dart-ancree-dans-un-terroir-et-son-territoire-58"
+    ]
+  },
+  {
+    "id": "b20",
+    "nom": "Galerie Ether",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "œuvres sur papier, dessin, cabinet de curiosités",
+    "ville": "Sancerre",
+    "code_postal": "18300",
+    "distance_cosne_km": 15,
+    "description": "Galerie installée au sommet de Sancerre, spécialisée dans les œuvres sur papier et les cabinets de curiosités ; elle présente notamment Noriko Fuse, Ofer Josef, Mona Laure Millet, Emmanuel Ortiz, Cécile Reims et Monique Tello. Ouverte l'après-midi (14 h–19 h) pendant ses expositions, entrée libre.",
+    "evenements_existants": "« Encres », dessins d'Ofer Josef, 19 sept. – 21 nov. 2026.",
+    "idee_evenement": "Proposer une « carte blanche » : petite sélection d'œuvres sur papier de la galerie présentée à Cosne, avec une causerie du galeriste sur le dessin contemporain.",
+    "contact": {
+      "site": "https://ethergalerie.com",
+      "email": "contact@ethergalerie.com",
+      "telephone": "06 15 02 55 55",
+      "facebook": null,
+      "instagram": "https://www.instagram.com/ethergalerie/",
+      "adresse": "8 rue du Maréchal Macdonald, 18300 Sancerre"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://ethergalerie.com",
+      "https://www.jds.fr/expos/expo-encres-1747074_A"
+    ]
+  },
+  {
+    "id": "b21",
+    "nom": "Petite Maison de la Culture de Sancerre",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "expositions temporaires (peinture, portrait, jeunes talents)",
+    "ville": "Sancerre",
+    "code_postal": "18300",
+    "distance_cosne_km": 15,
+    "description": "Espace culturel de la ville de Sancerre qui enchaîne des expositions temporaires gratuites d'artistes locaux, avec vernissages et conférences. Il propose aussi des animations jeune public.",
+    "evenements_existants": "« Une femme, toutes les femmes » de Jean-Michel Thomas (portraits), 19 sept. – 11 oct. 2026, vernissage-conférence le 19 sept. ; « Les Sancerrois ont du talent » (deux jeunes créateurs), 27 oct. – 8 nov. 2026 ; animation « Potion et surprises », 30 oct. 2026.",
+    "idee_evenement": "Créer un échange d'expositions entre les deux rives de la Loire : un artiste exposé à Sancerre présente une seconde série à Cosne, avec une rencontre publique.",
+    "contact": {
+      "site": null,
+      "email": "petitemaisondelaculture@ville-sancerre.fr",
+      "telephone": "02 48 78 52 52",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Place Saint-Père, 18300 Sancerre"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.jds.fr/expos/exposition-une-femme-toutes-les-femmes-de-jean-michel-thomas-1673387_A",
+      "https://www.jds.fr/expos/vernissage-et-conference-de-l-expostion-une-femme-toutes-femmes-de-jean-michel-thomas-1673411_A",
+      "https://www.jds.fr/expos/exposition-les-sancerrois-ont-du-talent-1789937_A",
+      "https://www.fest.fr/agenda/nievre/cosne-cours-sur-loire/stages-ateliers-et-initiations"
+    ]
+  },
+  {
+    "id": "b22",
+    "nom": "Espace culturel de Châtillon-sur-Loire",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "expositions municipales (peinture, sculpture)",
+    "ville": "Châtillon-sur-Loire",
+    "code_postal": "45360",
+    "distance_cosne_km": 33,
+    "description": "Salle d'exposition municipale installée à la mairie de Châtillon-sur-Loire (Loiret), qui programme toute l'année des expositions gratuites de peintres et de sculpteurs, dont l'exposition annuelle des Peintres du printemps. Utile pour repérer des artistes ligériens côté Loiret.",
+    "evenements_existants": "Catherine Gilard Gratus (peintures et sculptures), 8 août – 4 sept. 2026 ; Bruno Pinard (peintures et sculptures), 24 oct. – 21 nov. 2026 ; exposition annuelle des Peintres du printemps.",
+    "idee_evenement": "Inviter à Cosne un artiste repéré dans sa programmation et organiser un vernissage commun « deux lieux, deux rives » avec covoiturage.",
+    "contact": {
+      "site": "https://chatillon-sur-loire.com",
+      "email": "espaceculturel@chatillonsurloire.fr",
+      "telephone": "02 38 31 99 66",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "47 rue Franche, 45360 Châtillon-sur-Loire"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://unidivers.fr/event/exposition-des-peintures-et-sculptures-de-bruno-pinard-chatillon-sur-loire-loiret-2026-10-24/",
+      "https://unidivers.fr/event/exposition-de-peintures-et-sculptures-de-catherine-gilard-gratus-chatillon-sur-loire-loiret-2026-08-08/",
+      "https://chatillon-sur-loire.com/wp-content/uploads/2024/03/Livret-Peintres-du-printemps.pdf"
+    ]
+  },
+  {
+    "id": "b23",
+    "nom": "Château de Ratilly",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "art contemporain, céramique (grès)",
+    "ville": "Treigny-Perreuse-Sainte-Colombe",
+    "code_postal": "89520",
+    "distance_cosne_km": 40,
+    "description": "Château fort du XIIIe siècle devenu depuis 1951 un « centre d'art vivant » sous l'impulsion de la famille Pierlot : atelier de poterie (grès de Ratilly), collection de grès anciens de Puisaye, expositions, concerts et stages. En 2026, il célèbre le centenaire du peintre Shafic Abboud avec une grande exposition.",
+    "evenements_existants": "« Shafic Abboud, Chroniques de la lumière », 20 juin – 1er nov. 2026 (vernissage à la Fête du solstice, rencontre avec les commissaires le 26 sept.) ; exposition d'art contemporain et démonstrations de grès aux Journées du patrimoine (19–20 sept. 2026) ; stages et masterclasses.",
+    "idee_evenement": "Organiser une soirée « Ratilly à Cosne » : conférence sur l'histoire du centre d'art et présentation de grès de l'atelier, en écho à sa programmation.",
+    "contact": {
+      "site": "https://chateauderatilly.fr",
+      "email": "chateauderatilly@orange.fr",
+      "telephone": "06 09 12 13 74",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Château de Ratilly, 89520 Treigny-Perreuse-Sainte-Colombe"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://chateauderatilly.fr/exposition-dete-2026/",
+      "https://unidivers.fr/event/journees-du-patrimoine-au-chateau-de-ratilly-chateau-de-ratilly-treigny-2026-09-19t1000000200/",
+      "https://www.puisaye-tourisme.fr/en/agenda/shafic-abboud-chronique-de-la-lumiere-centenaire-de-la-naissance-de-lartiste-1926-2004/"
+    ]
+  },
+  {
+    "id": "b24",
+    "nom": "Galerie La Boucherie",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "expositions (arts du feu)",
+    "ville": "Léré",
+    "code_postal": "18240",
+    "distance_cosne_km": 13,
+    "description": "Lieu d'exposition de Léré (Cher), juste de l'autre côté de la Loire, qui présente à l'automne 2026 le travail de Béatrice Sermondadaz autour des arts du feu. Coordonnées et responsable non publiés dans la source consultée.",
+    "evenements_existants": "« Se confronter aux arts du feu », Béatrice Sermondadaz, jusqu'au 16 nov. 2026 (vernissage annoncé).",
+    "idee_evenement": "Inviter Béatrice Sermondadaz à présenter une pièce et une démonstration autour des arts du feu lors d'une soirée commune Léré–Cosne.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Léré (18240)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.jds.fr/cosne-cours-sur-loire/agenda/expositions-471_B"
+    ]
+  },
+  {
+    "id": "b25",
+    "nom": "Cave Nérot",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "expositions (illustration, peinture)",
+    "ville": "Saint-Père",
+    "code_postal": "58200",
+    "distance_cosne_km": 3,
+    "description": "Cave de Saint-Père, commune voisine de Cosne, qui accueille des expositions d'artistes nivernais : un modèle direct (et un concurrent) à observer pour un lieu de convivialité qui expose. Coordonnées non précisées dans la source consultée.",
+    "evenements_existants": "Exposition de deux artistes de la Nièvre, dont Pablo, illustrateur en noir et blanc, 10 oct. – 1er nov. 2026.",
+    "idee_evenement": "Mutualiser la communication (« parcours des expos du Cosnois ») et inviter l'illustrateur Pablo à une séance de dessin en direct au bar.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Saint-Père (58200)"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.jds.fr/cosne-cours-sur-loire/agenda/expositions-471_B"
+    ]
+  },
+  {
+    "id": "b26",
+    "nom": "Office de tourisme de La Charité-sur-Loire (espace d'exposition)",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "peinture (expositions temporaires)",
+    "ville": "La Charité-sur-Loire",
+    "code_postal": "58400",
+    "distance_cosne_km": 30,
+    "description": "L'office de tourisme de La Charité-sur-Loire prête chaque été son espace, place Sainte-Croix, à des peintres de la région pour des expositions d'une quinzaine de jours. Il permet de repérer des peintres amateurs et semi-professionnels du Val de Loire nivernais.",
+    "evenements_existants": "Joëlle Martin « JDM » (acrylique, transfert photo), 4–15 août 2026 ; Nathalie Martin-Chanton (aquarelle, pouring acrylique), 18–30 août 2026.",
+    "idee_evenement": "Puiser dans ce vivier pour un « été des peintres de Loire » au bar-restaurant, avec un nouveau peintre accroché chaque quinzaine.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": "03 86 70 15 06",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "5 place Sainte-Croix, 58400 La Charité-sur-Loire"
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://unidivers.fr/event/exposition-de-peinture-joelle-martin-la-charite-sur-loire-nievre-2026-08-04/",
+      "https://unidivers.fr/event/exposition-de-peintures-nathalie-martin-chanton-la-charite-sur-loire-nievre-2026-08-18/"
+    ]
+  },
+  {
+    "id": "b27",
+    "nom": "Art d'Ici – boutique des artisans d'art de Puisaye",
+    "type": "Galerie & lieu d'expo",
+    "discipline": "artisanat d'art, céramique",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Boutique-galerie de 30 m² ouverte en 2023 par l'office de tourisme Puisaye-Forterre dans son bureau de Saint-Amand-en-Puisaye (avec une boutique sœur à Saint-Fargeau), qui présente des expositions-ventes thématiques d'artisans d'art locaux et une boutique de Noël. Un bon relais pour repérer potiers et créateurs de Puisaye.",
+    "evenements_existants": "Expositions-ventes thématiques toute l'année (ex. 19–31 oct. 2026), puis ouverture du 14 nov. 2026 au 7 mars 2027.",
+    "idee_evenement": "Monter avec l'office de tourisme une « vitrine Puisaye » temporaire au bar-restaurant : objets d'artisans d'art en dépôt-vente pendant l'exposition.",
+    "contact": {
+      "site": "https://www.puisaye-tourisme.fr/",
+      "email": null,
+      "telephone": "03 86 74 10 07 (office de tourisme Puisaye-Forterre)",
+      "facebook": "https://www.facebook.com/laPuisayeaduGenie",
+      "instagram": null,
+      "adresse": "6 Grande Rue, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/artisanat/art-dici-la-boutique-des-artisans-dart-a-saint-amand-en-puisaye/",
+      "https://www.puisaye-tourisme.fr/en/agenda/exposition-de-printemps-mains-precieuses/"
+    ]
+  },
+  {
+    "id": "b28",
+    "nom": "Musée de la Loire",
+    "type": "Institution culturelle",
+    "discipline": "beaux-arts (peinture moderne), patrimoine ligérien",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Musée de France installé dans l'ancien couvent des Augustins, consacré à la Loire et à sa marine, avec une collection Beaux-Arts de peinture moderne (École de Paris : Vlaminck, Dufy, Utrillo, Derain, Manguin, Chagall), issue en grande partie du legs Émile Loiseau. En 2026, il présente l'exposition « ARTNIMAL – Les animaux dans l'art » et une programmation régulière de visites flash, ateliers et conférences.",
+    "evenements_existants": "« ARTNIMAL – Les animaux dans l'art », 18 avril – 19 déc. 2026 ; visites flash mensuelles « ARTnimaux ! » (20 août « Gibier », 22 oct. « Les oiseaux », 19 nov. « Mythologie et idéologie », 25 nov. « dans la ville ») ; conférence sur les mariniers le 4 nov. 2026 (Palais de Loire) ; conférence Chagall le 2 déc. 2026 ; Journée de l'inclusion le 28 oct. 2026.",
+    "idee_evenement": "Co-organiser une soirée « ARTnimal hors les murs » : mini-conférence d'un médiateur du musée sur les animaux dans l'art, puis atelier de dessin animalier pendant le vernissage.",
+    "contact": {
+      "site": "https://www.museedelaloire.fr/",
+      "email": "musee@mairiecosnesurloire.fr",
+      "telephone": "03 86 26 71 02",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Place de la Résistance, 58200 Cosne-Cours-sur-Loire"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.museedelaloire.fr/",
+      "https://www.guide-tourisme-france.com/VISITER/musee-loire--cosne-cours-loire-2759.htm",
+      "https://www.guide-tourisme-france.com/AGENDA/exposition-artnimal-animaux-dans-art--musee-loire-14083.htm",
+      "https://unidivers.fr/event/artnimaux-gibier-cosne-cours-sur-loire-nievre-2026-08-20/",
+      "https://unidivers.fr/event/artnimaux-mythologie-et-ideologie-cosne-cours-sur-loire-nievre-2026-11-19/"
+    ]
+  },
+  {
+    "id": "b29",
+    "nom": "Réseau des médiathèques Cœur de Loire",
+    "type": "Institution culturelle",
+    "discipline": "expositions pluridisciplinaires (peinture, photo, gravure)",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Réseau intercommunal de médiathèques (Cosne, Donzy, Neuvy-sur-Loire…) de la communauté de communes Cœur de Loire, qui accueille chaque été des artistes locaux dans ses espaces d'exposition. C'est la vitrine la plus régulière des peintres, graveurs et photographes du secteur de Cosne.",
+    "evenements_existants": "« Expositions estivales » du 1er juillet au 31 août 2026 : club Regards-photo de Cosne, peintures de Jean-Pierre Nault, Daniel Genty et Anthony Bardes à Cosne ; Sebka Pelli (sumi-e, 6–25 juil.) et Louise Gros (gravure, 17–31 août) à Donzy ; rencontre avec les artistes le 10 juillet 2026 à 18 h. Exposition « Tactile tour » à la médiathèque de Cosne, 2–28 oct. 2026.",
+    "idee_evenement": "Monter un parcours croisé « été des artistes » : les artistes exposés à la médiathèque présentent une seconde sélection au bar-restaurant, avec un vernissage commun.",
+    "contact": {
+      "site": "https://mediatheques-coeurdeloire.bibenligne.fr",
+      "email": null,
+      "telephone": "03 86 26 50 00",
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.jds.fr/cosne-cours-sur-loire/expos/expositions-estivales-1595385_A",
+      "https://www.jds.fr/cosne-cours-sur-loire/agenda/expositions-471_B",
+      "https://www.coeurdeloire.fr"
+    ]
+  },
+  {
+    "id": "b30",
+    "nom": "Musée du Grès",
+    "type": "Institution culturelle",
+    "discipline": "céramique (grès de Puisaye)",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Musée installé dans le château Renaissance de Saint-Amand-en-Puisaye, qui retrace quatre siècles de grès utilitaire et présente des œuvres de Jean Carriès, d'Albert Vallet ainsi qu'une collection de créations contemporaines ; il est conventionné avec le Département de la Nièvre. Il programme chaque année une exposition temporaire consacrée à la céramique.",
+    "evenements_existants": "« Terre en vue ! » (Alain Gaudebert), 15 juil. – 30 sept. 2026 ; « Collecter, terres de Puisaye et d'ailleurs », 24 mai – 31 oct. 2025 ; Nuit des musées (spectacle « Les Muses au musée », mai 2025).",
+    "idee_evenement": "Monter avec le musée une soirée « de la cruche au verre » mettant en regard grès de Puisaye et art de la table, avec quelques pièces présentées par un médiateur.",
+    "contact": {
+      "site": "https://www.museedugres.fr",
+      "email": "museegres.mmp@gmail.com",
+      "telephone": "03 86 39 74 97",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Château, 13 Grande Rue, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://museedugres.fr",
+      "https://www.guide-tourisme-france.com/VISITER/musee-gres-puisaye--saint-amand-puisaye-2491.htm",
+      "https://www.macommune.info/agenda/exposition-temporaire-collecter-terres-de-puisaye-et-dailleurs/",
+      "https://unidivers.fr/event/terre-en-vue-saint-amand-en-puisaye-nievre-2026-07-15/",
+      "https://nievre.fr/wp-content/uploads/2025/05/CP-Nuit-des-musees-a-Saint-Amand-en-Puisaye-et-Varzy-17-mai.pdf"
+    ]
+  },
+  {
+    "id": "b31",
+    "nom": "Centre Céramique Contemporaine La Borne (CCCLB) & Association Céramique La Borne",
+    "type": "Institution culturelle",
+    "discipline": "céramique contemporaine",
+    "ville": "Henrichemont (La Borne)",
+    "code_postal": "18250",
+    "distance_cosne_km": 45,
+    "description": "Équipement culturel de la communauté de communes Terres du Haut Berry au cœur du village potier de La Borne, dont le projet est co-construit avec l'Association Céramique La Borne (ACLB) : résidences, expositions et une permanence artistique des céramistes de l'ACLB renouvelée tous les deux mois. Il co-organise chaque fin octobre les Grands Feux de La Borne.",
+    "evenements_existants": "« Terre en têtes » (Ju Hyun Lee & Nicole Crestou) et « …Kouros » (Dominique Coenen), 19–20 sept. 2026 ; permanence artistique bimestrielle ; Grands Feux de La Borne, oct. 2026 ; rétrospective Vassil Ivanoff au musée de La Borne, 31 août – 10 nov. 2026.",
+    "idee_evenement": "Accueillir une exposition « La Borne à Cosne » de trois ou quatre céramistes de l'ACLB, avec projection d'un film sur les cuissons au bois.",
+    "contact": {
+      "site": "http://www.laborne.org",
+      "email": null,
+      "telephone": "02 48 26 96 21",
+      "facebook": null,
+      "instagram": "https://www.instagram.com/centreceramiquelaborne",
+      "adresse": "25 Grand' Route, La Borne, 18250 Henrichemont"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://unidivers.fr/event/expositions-terre-en-tetes-kouros-et-permanence-artistique-de-lassociation-ceramique-la-borne-centre-ceramique-contemporaine-henrichemont-2026-09-19t1100000200/",
+      "https://www.festivalenfrance.com/festival/grands-feux-la-borne",
+      "https://www.france-voyage.com/events/neuilly-en-sancerre-commune-3717.htm"
+    ]
+  },
+  {
+    "id": "b32",
+    "nom": "Parc Saint Léger – Centre d'art contemporain",
+    "type": "Institution culturelle",
+    "discipline": "art contemporain",
+    "ville": "Pougues-les-Eaux",
+    "code_postal": "58320",
+    "distance_cosne_km": 44,
+    "description": "Centre d'art contemporain installé dans l'ancienne usine d'embouteillage du parc thermal de Pougues-les-Eaux (460 m² sur deux niveaux), qui présente des expositions monographiques et collectives et dispose d'un service des publics (visites, ateliers, conférences) et d'un centre de documentation d'environ 5 000 ouvrages. Sa programmation 2026 n'a pas pu être vérifiée (site officiel inaccessible).",
+    "evenements_existants": null,
+    "idee_evenement": "Solliciter son service des publics pour une conférence d'initiation à l'art contemporain ou un regard de commissaire sur la première exposition.",
+    "contact": {
+      "site": "https://www.parc-saint-leger.com",
+      "email": "clement.guignard@parcsaintleger.fr",
+      "telephone": "03 86 90 96 60",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "23 avenue Conti, 58320 Pougues-les-Eaux"
+    },
+    "responsable": {
+      "nom": "Clément Guignard",
+      "fonction": "contact indiqué dans l'annuaire e-flux (fonction non précisée)",
+      "source": "https://www.e-flux.com/directory/2735/parc-saint-leger/"
+    },
+    "priorite": "Basse",
+    "sources": [
+      "https://nevers-tourisme.com/?p=15812",
+      "https://www.e-flux.com/directory/2735/parc-saint-leger/"
+    ]
+  },
+  {
+    "id": "b33",
+    "nom": "FIAAC en Pouilly-Fumé – Foire internationale d'art actuel dans les chais",
+    "type": "Événement artistique",
+    "discipline": "peinture, sculpture (art actuel)",
+    "ville": "Pouilly-sur-Loire",
+    "code_postal": "58150",
+    "distance_cosne_km": 15,
+    "description": "Foire d'art créée en 2013 : chaque mois de mai, 15 à 20 peintres et sculpteurs sélectionnés sur appel à candidatures exposent chez des vignerons de l'appellation Pouilly-Fumé, avec un invité d'honneur et des prix (Grand Prix, Prix Zeuxis, Prix Dionysos). Environ 2 000 visiteurs par édition ; organisée par l'association Les Rendez-vous du Pouilly-Fumé, qui réunit artistes et vignerons.",
+    "evenements_existants": "12e édition en mai 2026 (invité d'honneur Stéphane Dauthuille au Pavillon du Milieu de Loire, « Panorama de la FIAAC » à la salle des fêtes) ; 10e édition du 8 au 12 mai 2024 ; 13e édition annoncée du 6 au 9 mai 2027, appel à artistes ouvert jusqu'au 1er déc. 2026.",
+    "idee_evenement": "Devenir lieu « off » de la FIAAC 2027 à Cosne : exposer un ou deux artistes de l'édition avec un vernissage-dégustation en partenariat avec un domaine participant.",
+    "contact": {
+      "site": "https://grandegalerie.fiaac.fr",
+      "email": "contact@lesrdvdupf.org",
+      "telephone": null,
+      "facebook": "https://www.facebook.com/FIAAC",
+      "instagram": "https://www.instagram.com/fiaac_en_pouilly_fume/",
+      "adresse": "Les Rendez-vous du Pouilly-Fumé, 2 impasse Waldeck-Rousseau, 58150 Pouilly-sur-Loire"
+    },
+    "responsable": {
+      "nom": "Marielle Michot",
+      "fonction": "présidente de l'association Les Rendez-vous du Pouilly-Fumé (vice-présidente : Pascale Nectoux)",
+      "source": "https://grandegalerie.fiaac.fr/contact.html"
+    },
+    "priorite": "Haute",
+    "sources": [
+      "https://www.banquedesterritoires.fr/une-foire-dart-ancree-dans-un-terroir-et-son-territoire-58",
+      "https://grandegalerie.fiaac.fr",
+      "https://grandegalerie.fiaac.fr/contact.html",
+      "https://grandegalerie.fiaac.fr/fiaac-2026/exposants.html",
+      "https://grandegalerie.fiaac.fr/fiaac-2026/exposant.html/&num=211",
+      "https://grandegalerie.fiaac.fr/fiaac/informations-pratiques.html",
+      "https://www.burgundy-tourism.com/wine-themed-events/la-fiaac-en-pouilly-fume",
+      "https://www.pouilly-fume.com/wp-content/uploads/2024/05/2024-animations-LTPFweb.pdf"
+    ]
+  },
+  {
+    "id": "b34",
+    "nom": "Portes ouvertes des ateliers d'artistes en Nièvre",
+    "type": "Événement artistique",
+    "discipline": "pluridisciplinaire",
+    "ville": "Nièvre (tout le département ; accueil place Mossé à Nevers en 2026)",
+    "code_postal": "58000",
+    "distance_cosne_km": 55,
+    "description": "Week-end annuel d'ouverture gratuite des ateliers d'artistes dans toute la Nièvre (37 ateliers en 2023), organisé par l'association Artistes en Nièvre : expositions, démonstrations, rencontres et ateliers pratiques. En 2026, certains ateliers ouvrent aussi en partenariat avec le réseau Seize Mille (ex. La Tempéra à Entrains-sur-Nohain).",
+    "evenements_existants": "Dernier week-end d'octobre : 24–25 oct. 2026 (10 h–18 h), 25–26 oct. 2025, 26–27 oct. 2024, 28–29 oct. 2023.",
+    "idee_evenement": "Programmer le vernissage du bar-restaurant le samedi soir des Portes ouvertes et le faire figurer sur la carte officielle comme lieu partenaire du nord Nièvre.",
+    "contact": {
+      "site": "https://www.tehef.fr/artistes-en-nievre/",
+      "email": "artistesennievre@gmail.com",
+      "telephone": "06 50 79 99 26",
+      "facebook": "https://www.facebook.com/profile.php?id=61564138855662",
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": {
+      "nom": "TEHEF",
+      "fonction": "artiste, organisateur (annonce de 2023)",
+      "source": "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-d-artistes-dans-la-nievre/"
+    },
+    "priorite": "Haute",
+    "sources": [
+      "https://unidivers.fr/event/portes-ouvertes-des-ateliers-dartistes-en-nievre-nevers-nievre-2026-10-24/",
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-dartistes-en-nievre-13/",
+      "https://www.macommune.info/agenda/artistes-en-nievre/",
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-d-artistes-dans-la-nievre/",
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-dartistes-en-nievre-2023/",
+      "https://www.jds.fr/manifestations/portes-ouvertes-d-ateliers-d-artistes-4-1788649_A"
+    ]
+  },
+  {
+    "id": "b35",
+    "nom": "Fête de la Poterie de Saint-Amand-en-Puisaye",
+    "type": "Événement artistique",
+    "discipline": "céramique",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Grand rendez-vous annuel des céramistes : marché d'une quarantaine de potiers dans le parc du château, démonstrations de tournage, cuisson raku, visites guidées et portes ouvertes de l'EMA-CNIFOP et de la Maison de la Mémoire potière. Gratuit ; organisé avec la commune et l'EMA-CNIFOP (l'office de tourisme cite aussi l'association des Amis de la poterie Cadet-Gaubier).",
+    "evenements_existants": "Week-end suivant l'Ascension (mi-mai) : 16–17 mai 2026 avec le 5e Championnat de France des tourneurs potiers ; 24e édition les 11–12 mai 2024.",
+    "idee_evenement": "Y recruter trois à cinq potiers pour une exposition-vente « La Puisaye à Cosne » et un concours amical de tournage en terrasse le mois suivant.",
+    "contact": {
+      "site": "https://www.cnifop.com/",
+      "email": null,
+      "telephone": "03 86 39 63 15 (mairie) ; 06 59 07 24 34 (exposants)",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Château et Faubourg des Poteries, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.festivalenfrance.com/festival/f-ete-de-la-poterie-saint-amand-en-puisaye",
+      "https://www.puisaye-tourisme.fr/en/agenda/foire-des-potiers/",
+      "https://app.panneaupocket.com/pdf/23149474566387e4c332a65.73306714-1714978380.pdf",
+      "https://www.cnifop.com/"
+    ]
+  },
+  {
+    "id": "b36",
+    "nom": "Printemps de la Céramique",
+    "type": "Événement artistique",
+    "discipline": "céramique",
+    "ville": "Saint-Amand-en-Puisaye",
+    "code_postal": "58310",
+    "distance_cosne_km": 26,
+    "description": "Marché potier d'une quarantaine de céramistes organisé le week-end de Pâques au château et dans le bourg de Saint-Amand-en-Puisaye, avec expositions, démonstrations de tournage et de décor, cuisson de four, visites de la Maison de la Mémoire potière et ateliers enfants. Gratuit ; porté par les Amis du musée de la poterie et le collectif céramique de Saint-Amand.",
+    "evenements_existants": "Week-end de Pâques : 4–5 avril 2026 (10 h–18 h).",
+    "idee_evenement": "Ouvrir une exposition céramique au bar-restaurant juste après Pâques en invitant des exposants du Printemps de la Céramique.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": "06 86 27 60 97",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Château, 58310 Saint-Amand-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.festivalenfrance.com/festival/printemps-de-la-ceramique",
+      "https://www.puisaye-tourisme.fr/en/agenda/foire-des-potiers/"
+    ]
+  },
+  {
+    "id": "b37",
+    "nom": "Festival de la céramique du Couvent de Treigny",
+    "type": "Événement artistique",
+    "discipline": "céramique",
+    "ville": "Treigny-Perreuse-Sainte-Colombe",
+    "code_postal": "89520",
+    "distance_cosne_km": 38,
+    "description": "Marché potier d'une quarantaine d'exposants dans le verger du Couvent de Treigny, avec conférence, exposition gratuite, atelier modelage, défournement d'un four à bois et concert. Organisé par les potiers du Couvent (15e édition en 2026 d'après l'office de tourisme).",
+    "evenements_existants": "2e week-end d'août : 8–9 août 2026 (cuisson le samedi, défournement le dimanche).",
+    "idee_evenement": "Organiser à Cosne, la semaine suivante, un « after » du festival avec une exposition de pièces sorties du four à bois.",
+    "contact": {
+      "site": "https://www.lecouventdetreigny.com/",
+      "email": "lecouventdetreigny89@orange.fr",
+      "telephone": "03 86 74 75 38",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "4 rue du Couvent, 89520 Treigny-Perreuse-Sainte-Colombe"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/agenda/foire-des-potiers/",
+      "https://www.puisaye-tourisme.fr/en/agenda/15e-festival-de-la-ceramique-marche-potier/occ/1/",
+      "https://www.lecouventdetreigny.com/"
+    ]
+  },
+  {
+    "id": "b38",
+    "nom": "Foire des potiers de Saint-Sauveur-en-Puisaye",
+    "type": "Événement artistique",
+    "discipline": "céramique",
+    "ville": "Saint-Sauveur-en-Puisaye",
+    "code_postal": "89520",
+    "distance_cosne_km": 42,
+    "description": "Foire potière créée en 1982 dans le parc du château, face au musée Colette, qui réunit plus de soixante exposants français et étrangers (vaisselle, bijoux, sculptures, objets décoratifs) avec des ateliers d'initiation pour enfants. Organisée par le comité des fêtes.",
+    "evenements_existants": "3e week-end de juillet : 18–19 juillet 2026.",
+    "idee_evenement": "Y repérer des céramistes pour un dîner « céramique & gastronomie » où les plats du restaurant sont servis dans leurs pièces le soir du vernissage.",
+    "contact": {
+      "site": null,
+      "email": null,
+      "telephone": "06 75 39 45 62",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Parc du château, 89520 Saint-Sauveur-en-Puisaye"
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://www.puisaye-tourisme.fr/en/agenda/foire-des-potiers/"
+    ]
+  },
+  {
+    "id": "b39",
+    "nom": "Grands Feux de La Borne",
+    "type": "Événement artistique",
+    "discipline": "céramique (cuissons au bois)",
+    "ville": "Henrichemont (La Borne)",
+    "code_postal": "18250",
+    "distance_cosne_km": 45,
+    "description": "Événement céramique international de neuf jours fin octobre : cuissons traditionnelles au feu de bois par des céramistes du monde entier, expositions, visites d'ateliers et conférences dans le hameau potier de La Borne. Organisé par l'Association Céramique La Borne et le Centre céramique contemporaine.",
+    "evenements_existants": "11e édition du 18 au 26 oct. 2025 ; 12e édition du 17 au 25 oct. 2026 (une autre source indique du 16 au 24 oct.).",
+    "idee_evenement": "Organiser en novembre un « retour des Grands Feux » à Cosne : exposition de pièces cuites pendant l'événement et rencontre avec un céramiste.",
+    "contact": {
+      "site": "http://www.laborne.org",
+      "email": null,
+      "telephone": "02 48 26 96 21",
+      "facebook": null,
+      "instagram": "https://www.instagram.com/centreceramiquelaborne",
+      "adresse": "25 Grand' Route, La Borne, 18250 Henrichemont"
+    },
+    "responsable": null,
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.festivalenfrance.com/festival/grands-feux-la-borne",
+      "https://www.france-voyage.com/events/neuilly-en-sancerre-commune-3717.htm"
+    ]
+  },
+  {
+    "id": "b40",
+    "nom": "Communauté de communes Cœur de Loire",
+    "type": "Réseau & financeur",
+    "discipline": "politique culturelle intercommunale",
+    "ville": "Cosne-Cours-sur-Loire",
+    "code_postal": "58200",
+    "distance_cosne_km": 0,
+    "description": "Intercommunalité de Cosne qui gère le réseau des médiathèques, le Pavillon du Milieu de Loire (où expose l'invité d'honneur de la FIAAC) et l'école de musique, et qui a porté la rénovation de la scénographie de la Tour du Pouilly Fumé. Elle a soutenu financièrement la FIAAC (2 500 € prévus pour l'édition 2022) : c'est l'interlocuteur public le plus direct pour un projet culturel à Cosne.",
+    "evenements_existants": "Expositions estivales des médiathèques (juillet–août) ; ciné-club à la médiathèque de Donzy (oct.–nov. 2026) ; expositions de la FIAAC au Pavillon du Milieu de Loire (mai).",
+    "idee_evenement": "Solliciter un partenariat (inscription à l'agenda culturel intercommunal, prêt de matériel d'accrochage, communication) et un soutien pour un temps fort « art & Loire » au bar-restaurant.",
+    "contact": {
+      "site": "https://www.coeurdeloire.fr",
+      "email": null,
+      "telephone": "03 86 28 92 92",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "4 place Georges Clemenceau, BP 70, 58203 Cosne-Cours-sur-Loire Cedex"
+    },
+    "responsable": null,
+    "priorite": "Haute",
+    "sources": [
+      "https://www.coeurdeloire.fr",
+      "https://www.coeurdeloire.fr/culture/",
+      "https://www.banquedesterritoires.fr/une-foire-dart-ancree-dans-un-terroir-et-son-territoire-58",
+      "https://www.pouilly-fume.com/la-tour/visiter/",
+      "https://grandegalerie.fiaac.fr/fiaac-2026/exposant.html/&num=212"
+    ]
+  },
+  {
+    "id": "b41",
+    "nom": "Département de la Nièvre – Direction de la Culture et du Sport",
+    "type": "Réseau & financeur",
+    "discipline": "politique culturelle départementale",
+    "ville": "Nevers",
+    "code_postal": "58039",
+    "distance_cosne_km": 55,
+    "description": "Le Conseil départemental conduit sa politique culturelle via la Direction de la Culture et du Sport (service des musées et du patrimoine culturel) et conventionne des musées comme le Musée du Grès et le musée Auguste-Grasset de Varzy. Il soutient des événements d'arts visuels du territoire, comme les Portes ouvertes d'Artistes en Nièvre et la FIAAC (aide de 400 € en 2019).",
+    "evenements_existants": "Nuit des musées à Saint-Amand-en-Puisaye et Varzy (mai) ; soutien aux Portes ouvertes des ateliers d'artistes (octobre).",
+    "idee_evenement": "Présenter le programme d'exposition et d'ateliers comme action culturelle en milieu rural et demander son relais dans la communication départementale.",
+    "contact": {
+      "site": "https://nievre.fr",
+      "email": "contact@nievre.fr",
+      "telephone": "03 86 60 67 00",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "Hôtel du Département, 58039 Nevers Cedex"
+    },
+    "responsable": {
+      "nom": "Amélie Foulet",
+      "fonction": "cheffe du service des musées et du patrimoine culturel (d'après une offre d'emploi de mars 2025)",
+      "source": "https://nievre.fr/wp-content/uploads/2025/03/offre_emploi_respsable_CitedesPresents_20250313.pdf"
+    },
+    "priorite": "Moyenne",
+    "sources": [
+      "https://nievre.fr/wp-content/uploads/2025/03/offre_emploi_respsable_CitedesPresents_20250313.pdf",
+      "https://nievre.fr/wp-content/uploads/2025/05/CP-Nuit-des-musees-a-Saint-Amand-en-Puisaye-et-Varzy-17-mai.pdf",
+      "https://nievre.fr/?p=25196",
+      "https://www.banquedesterritoires.fr/une-foire-dart-ancree-dans-un-terroir-et-son-territoire-58",
+      "https://www.macommune.info/agenda/portes-ouvertes-des-ateliers-d-artistes-dans-la-nievre/"
+    ]
+  },
+  {
+    "id": "b42",
+    "nom": "Seize Mille – réseau art contemporain Bourgogne-Franche-Comté",
+    "type": "Réseau & financeur",
+    "discipline": "réseau arts visuels",
+    "ville": "Besançon",
+    "code_postal": "25000",
+    "distance_cosne_km": 330,
+    "description": "Réseau régional de l'art contemporain soutenu par la DRAC, la Région et la Ville de Besançon et membre du CIPAC, qui fédère lieux et artistes, diffuse leurs actualités et anime des événements ; adhésion à partir de 30 €. Il est partenaire de portes ouvertes d'ateliers en Nièvre en 2026 (La Tempéra, Entrains-sur-Nohain).",
+    "evenements_existants": "Portes ouvertes d'ateliers d'artistes #4 avec Artistes en Nièvre, 24–25 oct. 2026 ; agenda des membres et annuaire d'artistes.",
+    "idee_evenement": "Adhérer comme lieu de diffusion pour publier l'appel à artistes et le programme de l'exposition dans l'agenda régional du réseau.",
+    "contact": {
+      "site": "https://www.seizemille.com",
+      "email": "contact@seizemille.com",
+      "telephone": "07 83 84 10 62",
+      "facebook": null,
+      "instagram": null,
+      "adresse": "12 rue Louis Pergaud, 25000 Besançon"
+    },
+    "responsable": {
+      "nom": "Charlotte Saba",
+      "fonction": "chargée d'administration et de projets",
+      "source": "https://www.seizemille.com/contact-adhesion/"
+    },
+    "priorite": "Moyenne",
+    "sources": [
+      "https://www.seizemille.com/contact-adhesion/",
+      "https://www.jds.fr/manifestations/portes-ouvertes-d-ateliers-d-artistes-4-1788649_A"
+    ]
+  },
+  {
+    "id": "b43",
+    "nom": "Région Bourgogne-Franche-Comté – Direction Culture, Sport, Jeunesse",
+    "type": "Réseau & financeur",
+    "discipline": "financement culture / éducation artistique",
+    "ville": "Besançon / Dijon",
+    "code_postal": null,
+    "distance_cosne_km": 235,
+    "description": "La Région soutient l'éducation artistique et les arts visuels, notamment via « Artistes plasticiens au lycée » (résidence d'environ 30 h) et l'appel « Culture pour tous » (aide plafonnée à 3 000 €, 70 % des dépenses, dépôt du 1er avril au 31 mai selon la brochure de 2022, à vérifier) ; elle finance aussi le réseau Seize Mille. Intéressant surtout pour un projet monté avec un lycée ou une association partenaire, pas pour un lieu privé seul.",
+    "evenements_existants": null,
+    "idee_evenement": "Monter avec un lycée du Cosnois et un artiste local un projet « Culture pour tous » dont la restitution serait exposée au bar-restaurant.",
+    "contact": {
+      "site": "https://www.bourgognefranchecomte.fr",
+      "email": "stephanie.guillemaud@bourgognefranchecomte.fr",
+      "telephone": "03 80 44 37 09",
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": {
+      "nom": "Stéphanie Guillemaud",
+      "fonction": "contact du dispositif « Culture pour tous » (brochure 2022, à vérifier)",
+      "source": "https://www.bourgognefranchecomte.fr/sites/default/files/2022-03/20220322%20dispositifs%20culturels%20web-lr_0.pdf"
+    },
+    "priorite": "Basse",
+    "sources": [
+      "https://www.bourgognefranchecomte.fr/sites/default/files/2022-03/20220322%20dispositifs%20culturels%20web-lr_0.pdf",
+      "https://www.seizemille.com/contact-adhesion/"
+    ]
+  },
+  {
+    "id": "b44",
+    "nom": "DRAC Bourgogne-Franche-Comté – arts plastiques",
+    "type": "Réseau & financeur",
+    "discipline": "financement État (arts visuels)",
+    "ville": "Dijon",
+    "code_postal": null,
+    "distance_cosne_km": 235,
+    "description": "Service régional du ministère de la Culture qui suit les arts plastiques (création, industries et action culturelles) et soutient les réseaux et lieux d'art contemporain comme Seize Mille. C'est auprès de la DRAC que les artistes plasticiens sollicitent l'Aide individuelle à la création (AIC) : utile pour orienter les artistes partenaires, pas pour financer directement un lieu privé.",
+    "evenements_existants": null,
+    "idee_evenement": "Orienter un artiste invité vers l'AIC pour produire une œuvre in situ présentée en avant-première au bar-restaurant.",
+    "contact": {
+      "site": "https://www.culture.gouv.fr/fr/regions/drac-bourgogne-franche-comte/votre-drac/creation-industries-et-action-culturelles/arts-plastiques",
+      "email": null,
+      "telephone": null,
+      "facebook": null,
+      "instagram": null,
+      "adresse": null
+    },
+    "responsable": null,
+    "priorite": "Basse",
+    "sources": [
+      "https://www.culture.gouv.fr/fr/regions/drac-bourgogne-franche-comte/votre-drac/creation-industries-et-action-culturelles/arts-plastiques",
+      "https://www.culture.gouv.fr/fr/Demarches-en-ligne/Par-type-de-demarche/Subvention/Aide-individuelle-a-la-creation-AIC",
+      "https://www.seizemille.com/contact-adhesion/"
+    ]
+  }
+]
