@@ -47,7 +47,6 @@
 "contacts_ok": true,
 "note_contacts": "Exploitant de l'Intermarché Super de Guérigny, 5 rue de Lanessan (lien SALDIA / magasin vu sur zagaz.com). Numéro du magasin vu uniquement sur un annuaire tiers (coparking.ch), à vérifier sur la page magasin intermarche.com. Personne physique derrière la holding FANALONA non trouvée en 3 recherches. Commissaire aux comptes : SA SALVAN ET ASSOCIES.",
 "telephone": "03 86 90 09 34",
-"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "FANALONA (société holding, personne physique non identifiée)",
 "fonction": "Président (personne morale)",
@@ -1908,7 +1907,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
-}
+},
+"email_a_confirmer": true
 },
 {
 "rang": 129,
