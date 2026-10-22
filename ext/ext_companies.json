@@ -657,7 +657,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jean-Paul Mochet",
+"fonction": "Président-directeur général du groupe Prosol (Grand Frais, Chaponnay) ; PROSOL EXPLOITATION, gérante de la société, est elle-même présidée par la personne morale ZF INVEST — rôle exact de J.-P. Mochet dans PROSOL EXPLOITATION non confirmé",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+},
+"contact_dirigeant": {
+"nom": "Jean-Paul Mochet",
+"fonction": "Président-directeur général du groupe Prosol (maison mère de PROSOL EXPLOITATION, gérante et associée indéfiniment responsable de la société) — date de nomination non précisée dans l'extrait",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+}
 },
 {
 "rang": 111,
@@ -710,7 +728,34 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Marc VAPPEREAU",
+"fonction": "Directeur général (registre) ; œnologue, « maître-vinificateur » de la Maison Foucher-Lebrun",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/foucher-lebrun-val-de-loire-400672762"
+},
+"contact_dirigeant": {
+"nom": "Marc VAPPEREAU",
+"fonction": "Directeur général (registre) — successeur de Jean Mounard à la tête opérationnelle de la maison selon un importateur",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://opimian.ca/maison-foucher-lebrun/"
+},
+"autres_contacts": [
+{
+"nom": "Gabriel PICARD",
+"fonction": "Président du conseil d'administration (registre)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/foucher-lebrun-val-de-loire-400672762"
+}
+]
 },
 {
 "rang": 112,
@@ -811,7 +856,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jean-Paul Mochet",
+"fonction": "Président-directeur général du groupe Prosol (Grand Frais, Chaponnay) ; PROSOL EXPLOITATION, gérante de la société, est elle-même présidée par la personne morale ZF INVEST — rôle exact de J.-P. Mochet dans PROSOL EXPLOITATION non confirmé",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+},
+"contact_dirigeant": {
+"nom": "Jean-Paul Mochet",
+"fonction": "Président-directeur général du groupe Prosol (maison mère de PROSOL EXPLOITATION, gérante et associée indéfiniment responsable de la société) — date de nomination non précisée dans l'extrait",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+}
 },
 {
 "rang": 114,
@@ -924,7 +987,41 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "David VERHILLE",
+"fonction": "Directeur général (registre)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+},
+"contact_dirigeant": {
+"nom": "David VERHILLE",
+"fonction": "Directeur général (registre)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+},
+"autres_contacts": [
+{
+"nom": "Jérôme Robert MALUS",
+"fonction": "Président du conseil d'administration (registre)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+},
+{
+"nom": "Maurice Maletras",
+"fonction": "Président de la SemOp Aquaclaire à sa création (juin 2024), vice-président de Nevers Agglomération chargé de l'eau, maire de Germigny-sur-Loire — possiblement remplacé depuis (le registre indique J. R. Malus)",
+"tel": null,
+"email": null,
+"source": "https://www.lesepl.fr/epl-en-action/la-cinquantieme-semop-a-ete-creee-a-nevers/?pdf=117963"
+}
+]
 },
 {
 "rang": 116,
@@ -1044,7 +1141,8 @@
 "angle_partenariat": "Transporteur de béton basé à Cosne même (20-49 salariés, équipes de chauffeurs) : repas d'équipe, pots et repas de fin d'année, déjeuners avec ses donneurs d'ordre du BTP.",
 "site_local": "Rue des Fondeurs, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": true,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true
 },
 {
 "rang": 118,
@@ -1085,7 +1183,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 58 71 55",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "David VEYRET",
+"fonction": "Gérant (registre)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/davemaris-535209654"
+},
+"contact_dirigeant": {
+"nom": "David VEYRET",
+"fonction": "Gérant (registre)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/davemaris-535209654"
+}
 },
 {
 "rang": 119,
@@ -1343,7 +1461,41 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Michel MALVICHE",
+"fonction": "Président (registre)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+},
+"contact_dirigeant": {
+"nom": "Michel MALVICHE",
+"fonction": "Président (registre)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+},
+"autres_contacts": [
+{
+"nom": "Karine MALVICHE",
+"fonction": "Directeur général (registre)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+},
+{
+"nom": "Jocelyne BARGEOT-MALVICHE",
+"fonction": "Directeur général (registre)",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+}
+]
 },
 {
 "rang": 123,
@@ -1921,7 +2073,28 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"contacts_ok": true,
+"telephone": "03 86 90 90 13",
+"telephone_a_confirmer": true,
+"site_web": "https://www.lagoutte-fils.fr",
+"contact_finance": {
+"nom": "Patrice LAGOUTTE",
+"fonction": "Gérant (registre)",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/320130735"
+},
+"contact_dirigeant": {
+"nom": "Patrice LAGOUTTE",
+"fonction": "Gérant (registre)",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/320130735"
+}
 },
 {
 "rang": 133,
@@ -1964,7 +2137,26 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 61 18 54",
+"contact_finance": {
+"nom": "Dominique Pellé",
+"fonction": "Fondateur et président du groupe Domidep (DOMIDEP, présidente de la société) — mention possiblement ancienne",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.capretraite.fr/choisir-une-maison-de-retraite/types-de-maison/domidep/"
+},
+"contact_dirigeant": {
+"nom": "Dominique Pellé",
+"fonction": "Fondateur et président du groupe Domidep (DOMIDEP, présidente de la société) — mention possiblement ancienne",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.capretraite.fr/choisir-une-maison-de-retraite/types-de-maison/domidep/"
+}
 },
 {
 "rang": 134,
@@ -2026,7 +2218,35 @@
 },
 "angle_partenariat": "Garage de Puisaye (Bouhy et Saint-Amand-en-Puisaye, une vingtaine de km de Cosne, 10-19 salariés) : repas d'équipe et de fin d'année, déjeuners avec les représentants du réseau Renault de passage, et visibilité croisée auprès de sa clientèle locale.",
 "opposition_prospection": false,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true,
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Eddie ROCHES",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-roches-518047618"
+},
+"contact_dirigeant": {
+"nom": "Eddie ROCHES",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sarl-roches-518047618"
+},
+"autres_contacts": [
+{
+"nom": "Viviane ROCHES (BUISSET)",
+"fonction": "Co-gérante",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/sarl-roches-518047618"
+}
+]
 },
 {
 "rang": 135,
@@ -2120,7 +2340,9 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 59 88 00"
 },
 {
 "rang": 137,
@@ -2161,7 +2383,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 78 73 90",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Pierre MARCHAND",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ets-marchand-849265954"
+},
+"contact_dirigeant": {
+"nom": "Pierre MARCHAND",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/ets-marchand-849265954"
+}
 },
 {
 "rang": 138,
@@ -2202,7 +2444,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Fabrice NINOT",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/rch-region-centre-habitat-441254968"
+},
+"contact_dirigeant": {
+"nom": "Fabrice NINOT",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/rch-region-centre-habitat-441254968"
+}
 },
 {
 "rang": 139,
@@ -2243,7 +2503,25 @@
 "statut": "Active",
 "eff_annee": "2023",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Frederic GUILBAULT",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702"
+},
+"contact_dirigeant": {
+"nom": "Frederic GUILBAULT",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702"
+}
 },
 {
 "rang": 140,
@@ -2337,7 +2615,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 36 01 10",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Yannick ANDRIEUX",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/everest-507604106"
+},
+"contact_dirigeant": {
+"nom": "Yannick ANDRIEUX",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/everest-507604106"
+}
 },
 {
 "rang": 142,
@@ -2378,7 +2676,27 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "06 24 88 37 15",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Gilles DEROMEDI",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sosemat-325414019"
+},
+"contact_dirigeant": {
+"nom": "Gilles DEROMEDI",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/sosemat-325414019"
+}
 },
 {
 "rang": 143,
@@ -2712,7 +3030,43 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 71 04 54",
+"telephone_a_confirmer": true,
+"contact_finance": {
+"nom": "Laurent SILVENTE",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+},
+"contact_dirigeant": {
+"nom": "Laurent SILVENTE",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+},
+"autres_contacts": [
+{
+"nom": "Jean-Francois DUMAS",
+"fonction": "Directeur général",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+},
+{
+"nom": "Luca MARANGON",
+"fonction": "Directeur général",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+}
+]
 },
 {
 "rang": 149,
@@ -2753,7 +3107,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Alexandre LOVATO",
+"fonction": "Gérant",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/qualijuris-58-381215102"
+},
+"contact_dirigeant": {
+"nom": "Alexandre LOVATO",
+"fonction": "Gérant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/qualijuris-58-381215102"
+}
 },
 {
 "rang": 150,
@@ -2799,7 +3171,34 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)",
-"note_classement": "Procédure collective passée : Plan de sauvegarde adopté le 28/01/2021"
+"note_classement": "Procédure collective passée : Plan de sauvegarde adopté le 28/01/2021",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Jean-Michel LHUER",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111"
+},
+"contact_dirigeant": {
+"nom": "Jean-Michel LHUER",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111"
+},
+"autres_contacts": [
+{
+"nom": "Sergio DA SILVA MATOS",
+"fonction": "Directeur général",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111"
+}
+]
 },
 {
 "rang": 151,
@@ -2931,7 +3330,8 @@
 "angle_partenariat": "Magasin d'ameublement de 10-19 salariés sur la RN7 à Cosne : repas d'équipe et de fin d'année pour l'équipe du magasin, et visibilité croisée locale (opérations commerciales communes, lots pour jeux-concours) avec une direction renouvelée en 2025.",
 "site_local": "Route N7, lieudit Le Grand Champ, 58200 Cosne-Cours-sur-Loire",
 "opposition_prospection": true,
-"enrichie": true
+"enrichie": true,
+"contacts_ok": true
 },
 {
 "rang": 153,
@@ -2980,7 +3380,42 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"site_web": "https://cheramy-nevers.notaires.fr",
+"contact_finance": {
+"nom": "Pierre JOURDIER",
+"fonction": "Président, notaire associé",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
+},
+"contact_dirigeant": {
+"nom": "Pierre JOURDIER",
+"fonction": "Président, notaire associé",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
+},
+"autres_contacts": [
+{
+"nom": "Marie CHERAMY",
+"fonction": "Notaire associée, directrice générale",
+"tel": null,
+"email": null,
+"source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
+},
+{
+"nom": "Jean-Charles REROLLE",
+"fonction": "Notaire associé, directeur général",
+"tel": null,
+"email": null,
+"source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
+}
+]
 },
 {
 "rang": 154,
@@ -3023,7 +3458,29 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"contacts_ok": true,
+"telephone": "03 86 93 52 58",
+"telephone_a_confirmer": true,
+"email": "pvl@elsan.care",
+"site_web": "https://www.elsan.care/fr/polyclinique-val-de-loire/notre-etablissement",
+"contact_finance": {
+"nom": "François Auquière",
+"fonction": "Directeur du territoire ELSAN (Nevers) — la société est présidée par ELSAN SAS",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.elsan.care/presse/la-polyclinique-val-de-loire-obtient-sa-certification-haute-qualite-des-soins?amp=1"
+},
+"contact_dirigeant": {
+"nom": "François Auquière",
+"fonction": "Directeur du territoire ELSAN (Nevers) — la société est présidée par ELSAN SAS",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.elsan.care/presse/la-polyclinique-val-de-loire-obtient-sa-certification-haute-qualite-des-soins?amp=1"
+}
 },
 {
 "rang": 155,
@@ -3064,7 +3521,25 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Olivier QUINTIN",
+"fonction": "Dirigeant du groupe Borflex (dirigeant de sociétés sœurs aux côtés de HOLDING QUINTIN, présidente de la société) — rattachement à la holding probable, non confirmé",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.xerfi.com/etudes-par-entreprise/borflex-rhone-alpes_428210488"
+},
+"contact_dirigeant": {
+"nom": "Olivier QUINTIN",
+"fonction": "Dirigeant du groupe Borflex (dirigeant de sociétés sœurs aux côtés de HOLDING QUINTIN, présidente de la société) — rattachement à la holding probable, non confirmé",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.xerfi.com/etudes-par-entreprise/borflex-rhone-alpes_428210488"
+}
 },
 {
 "rang": 156,
@@ -3113,7 +3588,41 @@
 "statut": "Active",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"contacts_ok": true,
+"contact_finance": {
+"nom": "Guillaume Alain COIGNET",
+"fonction": "Président",
+"type": "dirigeant",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+},
+"contact_dirigeant": {
+"nom": "Guillaume Alain COIGNET",
+"fonction": "Président",
+"tel_direct": null,
+"email": null,
+"linkedin": null,
+"source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+},
+"autres_contacts": [
+{
+"nom": "Sophie Marie Elisabeth COIGNET",
+"fonction": "Directrice générale",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+},
+{
+"nom": "Alain Daniel COIGNET",
+"fonction": "Directeur général délégué",
+"tel": null,
+"email": null,
+"source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+}
+]
 },
 {
 "rang": 157,

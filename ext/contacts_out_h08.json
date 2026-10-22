@@ -1,0 +1,532 @@
+[
+ {
+  "siren": "530108307",
+  "standard": {
+   "tel": "03 86 61 18 54",
+   "source": "https://www.pour-les-personnes-agees.gouv.fr/annuaire-ehpad-et-maisons-de-retraite/ehpad/nievre-58/nevers-58000/ehpad-les-rives-de-la-nievre/580781185",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Dominique Pellé",
+   "fonction": "Fondateur et président du groupe Domidep (DOMIDEP, présidente de la société) — mention possiblement ancienne",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.capretraite.fr/choisir-une-maison-de-retraite/types-de-maison/domidep/"
+  },
+  "dirigeant_principal": {
+   "nom": "Dominique Pellé",
+   "fonction": "Fondateur et président du groupe Domidep (DOMIDEP, présidente de la société) — mention possiblement ancienne",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.capretraite.fr/choisir-une-maison-de-retraite/types-de-maison/domidep/"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "EHPAD Les Rives de la Nièvre (FINESS 580781185), 37 rue Jean Gautherin, Nevers ; standard issu de l'annuaire officiel pour-les-personnes-agees.gouv.fr. Fax 03 86 36 55 33 (etablissementsdesante.fr, annuaire) ; un email de contact y est signalé mais n'apparaît pas dans l'extrait, donc non relevé. Groupe Domidep contrôlé par le fonds I Squared depuis 2019 (euodia.fr) : la présidence de Dominique Pellé provient de guides en ligne possiblement datés, à vérifier. Finance probablement centralisée au siège du groupe ; ni DAF ni directeur d'établissement nommé trouvé. Le 03 86 60 68 89 vu dans un arrêté du Département est celui du service autonomie du Conseil départemental, pas de l'EHPAD."
+ },
+ {
+  "siren": "518047618",
+  "standard": {
+   "tel": "03 86 26 42 63",
+   "source": null,
+   "fiabilite": "ancienne"
+  },
+  "email_generique": null,
+  "site_web": "https://www.garage-roches.fr/",
+  "decideur_financier": {
+   "nom": "Eddie ROCHES",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-roches-518047618"
+  },
+  "dirigeant_principal": {
+   "nom": "Eddie ROCHES",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-roches-518047618"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Viviane ROCHES (BUISSET)",
+    "fonction": "Co-gérante",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/sarl-roches-518047618"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Agent Renault « Renault AT SARL Roches Garage Didier Peinture », 13 rue de la Forterre, Bouhy (acceslibre.beta.gouv.fr, qui renvoie vers garage-roches.fr). Second site Renault SARL Roches au 1 route de Saint-Sauveur, 58310 Saint-Amand-en-Puisaye (idgarages.com, lesvoitures.fr). Le standard 03 86 26 42 63 vient uniquement de « deja » : aucune page indexée ne l'affiche (recherche du numéro sans résultat), non contredit. Aucun email générique trouvé."
+ },
+ {
+  "siren": "379574767",
+  "standard": {
+   "tel": "03 86 59 88 00",
+   "source": "https://www.pour-les-personnes-agees.gouv.fr/annuaire-ehpad-et-maisons-de-retraite/ehpad/nievre-58/nevers-58000/ehpad-marion-de-givry/580972123",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "EHPAD Résidence Marion de Givry (FINESS 580972123), 7 rue des Francs Bourgeois, Nevers, géré par SEDNA Nevers (filiale de S.E.D.N.A France, présidente personne morale). Standard issu de l'annuaire officiel pour-les-personnes-agees.gouv.fr. etablissementsdesante.fr signale un email sur le domaine SEDNA pour l'établissement, non visible dans l'extrait, donc non relevé. Aucune personne physique trouvée à la tête de SEDNA France ni de directeur d'établissement / DAF : décideur à identifier via le standard. Une recherche sur le nom de la résidence est refusée par l'outil (confondu avec une personne) : préciser « EHPAD »."
+ },
+ {
+  "siren": "849265954",
+  "standard": {
+   "tel": "03 86 78 73 90",
+   "source": "https://www.ventsdumorvan.org/pdfs/pdfs/vdm-0485.pdf",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Pierre MARCHAND",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ets-marchand-849265954"
+  },
+  "dirigeant_principal": {
+   "nom": "Pierre MARCHAND",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ets-marchand-849265954"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SARL créée en 2019, sciage et rabotage du bois, siège lieu-dit Metz Garnier et second établissement Le Bourg, 58230 Gouloux (annuaire-entreprises). Le 03 86 78 73 90 est le numéro de la Saboterie Marchand de Gouloux (magazine Vents du Morvan, date non connue ; aussi sur une fiche de gîte du Parc du Morvan) : lien avec ETS MARCHAND probable (même famille, établissement du Bourg) mais non confirmé, source faible — à vérifier à l'appel. Aucun site ni email générique trouvé."
+ },
+ {
+  "siren": "441254968",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Fabrice NINOT",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rch-region-centre-habitat-441254968"
+  },
+  "dirigeant_principal": {
+   "nom": "Fabrice NINOT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rch-region-centre-habitat-441254968"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun résultat pour « Groupe Le Carré », « Région Centre Habitat » ou le gérant à Varennes-Vauzelles (3 recherches) : ni standard, ni site, ni email trouvés. Dirigeant d'après le registre uniquement. Adresse d'entrée = lieu-dit Les Chamonds (pas de numéro de rue)."
+ },
+ {
+  "siren": "326891702",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Frederic GUILBAULT",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702"
+  },
+  "dirigeant_principal": {
+   "nom": "Frederic GUILBAULT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Aucun résultat indexé pour Ets Guilbault à Saint-Pierre-le-Moûtier (nom, adresse avenue Raymond Coutin, grossiste 58240 : 3 recherches) : ni standard, ni site, ni email. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "siren": "507604106",
+  "standard": {
+   "tel": "03 86 36 01 10",
+   "source": "https://www.bible-marques.fr/magasins/58180-marzy/mcdonalds",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Yannick ANDRIEUX",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/everest-507604106"
+  },
+  "dirigeant_principal": {
+   "nom": "Yannick ANDRIEUX",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/everest-507604106"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Restaurant franchisé McDonald's Marzy, centre commercial Carrefour CD 40. Le 03 86 36 01 10 provient de l'annuaire bible-marques.fr (non affilié à la marque) ; non confirmé sur mcdonalds.fr dans les résultats. custplace.com donne 01 30 48 60 00, qui est le standard du siège McDonald's France, pas celui du restaurant. Aucune source ne nomme le franchisé ni d'éventuels autres restaurants qu'il exploiterait ; finance probablement gérée par le franchisé ou son cabinet."
+ },
+ {
+  "siren": "325414019",
+  "standard": {
+   "tel": "06 24 88 37 15",
+   "source": "https://www.pagesjaunes.fr/pros/06737583",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Gilles DEROMEDI",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sosemat-325414019"
+  },
+  "dirigeant_principal": {
+   "nom": "Gilles DEROMEDI",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sosemat-325414019"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Carrière de sables et graviers « Les Grèves – Les Pelus » à Neuvy-sur-Loire (ICPE, autorisée en 1987, en fin d'exploitation / remise en état ; inspection Géorisques du 13/11/2025 ; travail-industrie.com). Le seul numéro trouvé est un portable affiché comme ligne de la société sur la fiche PagesJaunes « SOSEMAT – sables, cailloux, granulats », imp. du Bourg, 45700 Solterre (autre dénomination « Le Ciment Route ») : rattachement au même SIREN non vérifié, source annuaire. Aucun fixe, site ni email trouvés."
+ },
+ {
+  "siren": "492601133",
+  "standard": {
+   "tel": "03 86 71 04 54",
+   "source": "https://www.koifaire.com/bourgogne/amis,ba,tisseurs-23069.html",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Laurent SILVENTE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+  },
+  "dirigeant_principal": {
+   "nom": "Laurent SILVENTE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Jean-Francois DUMAS",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+   },
+   {
+    "nom": "Luca MARANGON",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Constructeur de maisons individuelles (SAS créée en 2006), 94 route de Nevers, Marzy, pavillon témoin à Fourchambault (koifaire.com, annonce d'annuaire non datée). Standard vu uniquement sur koifaire.com (recherche inverse du numéro sans autre résultat) : source faible. manageo.fr cite aussi un « Charles Boivin » comme président, en contradiction avec le registre (Laurent Silvente) : probablement ancien, à vérifier. Aucun site web ni email générique trouvés."
+ },
+ {
+  "siren": "381215102",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Alexandre LOVATO",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/qualijuris-58-381215102"
+  },
+  "dirigeant_principal": {
+   "nom": "Alexandre LOVATO",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/qualijuris-58-381215102"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SELARL QUALIJURIS 58, siège 2 avenue Saint-Just, Nevers (annonce BODACC 2023 : https://bodacc.fr/telechargements/COMMERCIALES/PDF/C/2023/20230172/1/BODACC_C_PDF_Unitaire_20230172_02567.pdf). Activités juridiques : très probablement une étude de commissaires de justice (ex-huissiers) ; un annuaire (demarchesadministratives.fr) liste « Lovato Huissiers de Justice Alexandre », 74 avenue Louis Coudant, 58340 Cercy-la-Tour, sans numéro visible. Aucun standard, site ni email trouvés (3 recherches) : passer par l'annuaire officiel des commissaires de justice."
+ },
+ {
+  "siren": "412264111",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean-Michel LHUER",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Michel LHUER",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Sergio DA SILVA MATOS",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "SAS de construction métallique (NAF 25.11Z), route de Toulon, Luzy, activité depuis 1997. doctrine.fr (https://www.doctrine.fr/e/ENT2ECE622AD54DAFF05BD7) signale une procédure de sauvegarde ouverte le 18/11/2019 et un plan de sauvegarde sur 10 ans arrêté en janvier 2021 (tribunal de Nevers) : sujet sensible pour un appel financier. Aucun standard, site ni email trouvés (3 recherches, y compris PagesJaunes/Kompass)."
+ },
+ {
+  "siren": "899839492",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "OPPOSITION À LA PROSPECTION (Pappers) : contacts société uniquement ; aucun nom de décideur publié sur un site propre de l'entreprise, donc décideur non renseigné (l'interlocuteur déjà connu dans « deja » reste la seule référence). Adresse route N7, lieu-dit Le Grand Champ, Cosne-Cours-sur-Loire = même emplacement que le magasin BUT Cosne-sur-Loire listé par justacote.com (page magasin https://www.but.fr/magasins/389/But-Cosne-Sur-Loire.html citée par avis-verifies.com) : il s'agit probablement du franchisé BUT, mais le lien n'est pas confirmé (un Conforama est aussi sur la N7) et aucun numéro n'a été trouvé. 3 recherches."
+ },
+ {
+  "siren": "318908837",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://cheramy-nevers.notaires.fr",
+  "decideur_financier": {
+   "nom": "Pierre JOURDIER",
+   "fonction": "Président, notaire associé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
+  },
+  "dirigeant_principal": {
+   "nom": "Pierre JOURDIER",
+   "fonction": "Président, notaire associé",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Marie CHERAMY",
+    "fonction": "Notaire associée, directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
+   },
+   {
+    "nom": "Jean-Charles REROLLE",
+    "fonction": "Notaire associé, directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Office notarial (SELAS de 3 notaires associés) avec deux offices : Nevers, 3 rue Henri Barbusse (nouvelle adresse), et Decize, 8 rue Carnot, 58300 Decize (site de l'office ; annuaires). Aucun numéro de téléphone ni email visible dans les extraits (3 recherches) : la page contact du site ou la fiche notaires.fr devraient le donner. Les numéros vus en passant (03 86 61 35 04 = Chambre des notaires de la Nièvre ; 03 86 93 90 40 = autre office, rue Vauban) ne sont pas ceux de l'office. Fonctions de DG d'après le registre (deja.dirigeants)."
+ },
+ {
+  "siren": "315564443",
+  "standard": {
+   "tel": "03 86 93 52 58",
+   "source": "https://www.etablissementsdesante.fr/etablissement/48102-polyclinique-du-val-de-loire-elsan",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": {
+   "email": "pvl@elsan.care",
+   "source": "https://www.elsan.care/sites/default/files/Livret%20accueil%20VDL.pdf"
+  },
+  "site_web": "https://www.elsan.care/fr/polyclinique-val-de-loire/notre-etablissement",
+  "decideur_financier": {
+   "nom": "François Auquière",
+   "fonction": "Directeur du territoire ELSAN (Nevers) — la société est présidée par ELSAN SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.elsan.care/presse/la-polyclinique-val-de-loire-obtient-sa-certification-haute-qualite-des-soins?amp=1"
+  },
+  "dirigeant_principal": {
+   "nom": "François Auquière",
+   "fonction": "Directeur du territoire ELSAN (Nevers) — la société est présidée par ELSAN SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.elsan.care/presse/la-polyclinique-val-de-loire-obtient-sa-certification-haute-qualite-des-soins?amp=1"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Le siège de CLINIQUE DU MORVAN est à l'adresse de la Polyclinique du Val de Loire – ELSAN (49 bd Jérôme Trésaguet, Nevers ; autre SIREN 651880437), mais l'établissement « Clinique du Morvan » est situé à Luzy (Journal du Centre via elsan.care : https://www.elsan.care/fr/nos-actualites/paru-dans-le-journal-du-centre-nouveau-directeur-la-clinique-du-val-de-loire) ; son numéro à Luzy n'a pas été trouvé. Standard et fax (03 86 93 53 93) de la polyclinique d'après etablissementsdesante.fr ; email pvl@elsan.care publié dans le livret d'accueil ELSAN. François Auquière est cité comme directeur du territoire ELSAN en septembre 2024 ; directeurs antérieurs : Michel Lagache (2014), Arnaud Goguillot (2017-2020). Finance probablement centralisée chez ELSAN ; aucun DAF/RAF ou contrôleur de gestion du site trouvé."
+ },
+ {
+  "siren": "500433289",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Olivier QUINTIN",
+   "fonction": "Dirigeant du groupe Borflex (dirigeant de sociétés sœurs aux côtés de HOLDING QUINTIN, présidente de la société) — rattachement à la holding probable, non confirmé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/borflex-rhone-alpes_428210488"
+  },
+  "dirigeant_principal": {
+   "nom": "Olivier QUINTIN",
+   "fonction": "Dirigeant du groupe Borflex (dirigeant de sociétés sœurs aux côtés de HOLDING QUINTIN, présidente de la société) — rattachement à la holding probable, non confirmé",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/borflex-rhone-alpes_428210488"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Usine du groupe Borflex (pièces techniques en caoutchouc, silicone, polyuréthane et composites ; ~60 M€ de CA groupe selon CFNews 2023 : https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Borflex-enduit-des-toiles-447198 ; 10 sites en France et en Suisse). Le site de Corvol figure dans la liste des sites du groupe et recrute (Indeed). Groupe de taille suffisante pour avoir un DAF, mais aucun nom trouvé (recherche DAF/RAF sans résultat) : finance probablement au niveau du groupe/holding. Aucun standard, site ni email trouvés pour Corvol (3 recherches)."
+ },
+ {
+  "siren": "353683089",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Guillaume Alain COIGNET",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+  },
+  "dirigeant_principal": {
+   "nom": "Guillaume Alain COIGNET",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Sophie Marie Elisabeth COIGNET",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+   },
+   {
+    "nom": "Alain Daniel COIGNET",
+    "fonction": "Directeur général délégué",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Centre pneus adhérent du réseau Eurotyre (« Eurotyre Coignet Pneus (sa) Adhérent », route de Pressures, 58500 Clamecy, selon justacote.com : https://www.justacote.com/ouagne-58500/garagiste-et-centre-auto/) ; lieu-dit Le Foulon sur la D977 (zagaz.com indique 108 route de Pressures, Le Foulon). Un établissement est aussi enregistré à Ciez (58220), lieu-dit Les Naslots (avis de situation Sirene). Aucun numéro de téléphone ni email trouvés (3 recherches, y compris via Eurotyre)."
+ }
+]

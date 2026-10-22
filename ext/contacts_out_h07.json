@@ -246,5 +246,279 @@
   "autres_contacts": [],
   "format_email_observe": null,
   "note": "Numéro déjà connu conservé (non recoupé : aucun extrait ne l'affiche). Filiale nivernaise du groupe DeCA Propreté (siège Nantes, ~4 500 salariés) : établissement « EGTN DeCA Propreté », 7 rue des Prés, Nevers (https://fr.mappy.com/poi/5a58b1c20351d13be4cd73e6) ; une fiche Bottin l'indique « fermé » (https://www.bottin.fr/fiche-locale/ggdeigfhfhbeagefdbc--egtn-entreprise-de-nettoyage--nevers.htm), Mappy l'indique ouvert — à vérifier. Finance probablement centralisée au siège du groupe à Nantes : aucun DAF/RAF nommé trouvé dans les résultats (5 requêtes, polluées par l'homonyme américain DeCA). Agence DeCA voisine d'Auxerre : ao.ca@deca-proprete.fr / 03 86 51 21 96 (DECA PROPRETE CHAMPAGNE ARDENNES 2, https://www.boamp.fr/telechargements/FILES/PDF/2024/04/24-41425.pdf) — autre entité, non retenu comme contact de EGTN."
+ },
+ {
+  "siren": "500113691",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean-Paul Mochet",
+   "fonction": "Président-directeur général du groupe Prosol (Grand Frais, Chaponnay) ; PROSOL EXPLOITATION, gérante de la société, est elle-même présidée par la personne morale ZF INVEST — rôle exact de J.-P. Mochet dans PROSOL EXPLOITATION non confirmé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Paul Mochet",
+   "fonction": "Président-directeur général du groupe Prosol (maison mère de PROSOL EXPLOITATION, gérante et associée indéfiniment responsable de la société) — date de nomination non précisée dans l'extrait",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+  },
+  "adresse": {
+   "adresse": "ZAC des Commailles, rue Léonard de Vinci, 58640 Varennes-Vauzelles",
+   "source": "https://www.au-magasin.fr/58640-varennes-vauzelles/grand-frais-93988.html"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société d'exploitation (rayon fruits et légumes) du magasin Grand Frais de Varennes-Vauzelles (adresse vue sur un annuaire participatif au-magasin.fr, rapprochement avec la société déduit de l'adresse « Les Commailles » et de la gérance PROSOL EXPLOITATION). Gérance : PROSOL EXPLOITATION (SIREN 484912928, Chaponnay), présidée par ZF INVEST (personne morale) ; décisions financières centralisées au siège du groupe Prosol à Chaponnay (Rhône). Ardian a annoncé en décembre 2025 la cession de sa participation majoritaire dans Prosol à Apollo (finalisation attendue au 2e trimestre 2026, https://www.boursorama.com/bourse/actualites/apollo-acquisition-d-une-participation-majoritaire-dans-prosol-b858d6405ea08e4b5aaf09533e696ce1). Aucun téléphone du magasin trouvé dans les extraits (3 requêtes). Prospect peu pertinent (filiale de grand groupe)."
+ },
+ {
+  "siren": "400672762",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Marc VAPPEREAU",
+   "fonction": "Directeur général (registre) ; œnologue, « maître-vinificateur » de la Maison Foucher-Lebrun",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/foucher-lebrun-val-de-loire-400672762"
+  },
+  "dirigeant_principal": {
+   "nom": "Marc VAPPEREAU",
+   "fonction": "Directeur général (registre) — successeur de Jean Mounard à la tête opérationnelle de la maison selon un importateur",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://opimian.ca/maison-foucher-lebrun/"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Gabriel PICARD",
+    "fonction": "Président du conseil d'administration (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/foucher-lebrun-val-de-loire-400672762"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Maison Foucher-Lebrun : petit négociant en vins de Loire (Sancerre, Pouilly-Fumé, Touraine…) fondé en 1921, situé à Alligny-Cosne ; Jean Mounard (négociant parisien) entré fin 2009, Marc Vappereau lui a succédé selon l'importateur Opimian (https://opimian.ca/maison-foucher-lebrun/ ; historique aussi sur https://creamwine.com/brand.php?id=294). Aucun téléphone, e-mail ni site officiel trouvé dans les extraits (3 requêtes, dont une interprétée comme une recherche de personne). SA à conseil d'administration : président du CA Gabriel PICARD (registre), sans source publique récente sur son rôle."
+ },
+ {
+  "siren": "449840974",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Jean-Paul Mochet",
+   "fonction": "Président-directeur général du groupe Prosol (Grand Frais, Chaponnay) ; PROSOL EXPLOITATION, gérante de la société, est elle-même présidée par la personne morale ZF INVEST — rôle exact de J.-P. Mochet dans PROSOL EXPLOITATION non confirmé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+  },
+  "dirigeant_principal": {
+   "nom": "Jean-Paul Mochet",
+   "fonction": "Président-directeur général du groupe Prosol (maison mère de PROSOL EXPLOITATION, gérante et associée indéfiniment responsable de la société) — date de nomination non précisée dans l'extrait",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Société d'exploitation du magasin Grand Frais de Nevers, rue Henri Bouquillard (magasin référencé à cette adresse sur https://www.au-magasin.fr/58640-varennes-vauzelles/grand-frais-93988.html ; rapprochement déduit de l'adresse et de la gérance PROSOL EXPLOITATION). Gérance : PROSOL EXPLOITATION (SIREN 484912928, Chaponnay), présidée par ZF INVEST (personne morale, https://www.lejournaldesentreprises.com/entreprise/prosol-exploitation) ; finance centralisée au siège Prosol. Aucun téléphone du magasin trouvé (2 requêtes, la 2e mutualisée avec LE PRIMEUR DE NEVERS). Prospect peu pertinent (filiale de grand groupe)."
+ },
+ {
+  "siren": "929918241",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "David VERHILLE",
+   "fonction": "Directeur général (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+  },
+  "dirigeant_principal": {
+   "nom": "David VERHILLE",
+   "fonction": "Directeur général (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Jérôme Robert MALUS",
+    "fonction": "Président du conseil d'administration (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+   },
+   {
+    "nom": "Maurice Maletras",
+    "fonction": "Président de la SemOp Aquaclaire à sa création (juin 2024), vice-président de Nevers Agglomération chargé de l'eau, maire de Germigny-sur-Loire — possiblement remplacé depuis (le registre indique J. R. Malus)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.lesepl.fr/epl-en-action/la-cinquantieme-semop-a-ete-creee-a-nevers/?pdf=117963"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "Aquaclaire est la SemOp (société d'économie mixte à opération unique, capital 500 000 €) créée le 12 juin 2024 entre Nevers Agglomération et Veolia Eau – Compagnie Générale des Eaux pour exploiter le service public d'assainissement (eaux usées et pluviales) de l'agglomération (avis d'attribution BOAMP https://www.boamp.fr/telechargements/FILES/PDF/2024/07/24-83827.pdf). Finance probablement pilotée côté Veolia (actionnaire opérateur). Aucun standard ni e-mail propre trouvé dans les extraits (3 requêtes) ; le numéro 03 86 61 81 60 vu sur selectra est celui de La Neversoise (régie eau potable), autre entité, non retenu. Prospect peu pertinent (société à capitaux publics/Veolia)."
+ },
+ {
+  "siren": "811119403",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de niveau société sont recherchées ; aucun site web de l'entreprise trouvé, donc aucun décideur nommé ici (le registre liste deux co-gérants, déjà dans « deja »). Aucun téléphone, e-mail ni site trouvé dans les extraits (3 requêtes, les résultats renvoient vers des homonymes marocains ou des pages sans rapport). Une offre France Travail de chauffeur poids lourd à Cosne-Cours-sur-Loire (https://candidat.francetravail.fr/offres/recherche/detail/191CNNW) ne nomme pas l'employeur. Vérifier l'opposition avant tout appel."
+ },
+ {
+  "siren": "535209654",
+  "standard": {
+   "tel": "03 86 58 71 55",
+   "source": "https://www.bible-marques.fr/magasins/58320-pougues-les-eaux/carrefour",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "David VEYRET",
+   "fonction": "Gérant (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/davemaris-535209654"
+  },
+  "dirigeant_principal": {
+   "nom": "David VEYRET",
+   "fonction": "Gérant (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/davemaris-535209654"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "Numéro du magasin vu sur deux agrégateurs : bible-marques (Carrefour Contact, 7 rue Morins, Pougues-les-Eaux) et Bonial (« Carrefour Proximité », 95 rue Alfred Masse — adresse du siège de DAVEMARIS, https://www.bonial.fr/Magasins/Pougues-les-Eaux/Carrefour-Proximite-Rue-Alfred-Masse/v-f542701054) ; même numéro des deux côtés, l'écart d'adresse et d'enseigne est à vérifier (fiches ac-franchise et Tiendeo signalent aussi un Carrefour Contact rue Morins / RD 907). Aucune source publique ne mentionne le gérant en dehors du registre (2 requêtes)."
+ },
+ {
+  "siren": "749981304",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Michel MALVICHE",
+   "fonction": "Président (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+  },
+  "dirigeant_principal": {
+   "nom": "Michel MALVICHE",
+   "fonction": "Président (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Karine MALVICHE",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+   },
+   {
+    "nom": "Jocelyne BARGEOT-MALVICHE",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "SAS créée le 1er février 2012, commerce de gros de bois et de matériaux de construction, 2 établissements (annuaire des entreprises : https://production-gra-01.annuaire-entreprises.infra.api.gouv.fr/documents/749981304). Un résumé de recherche mentionnait un établissement à Dijon, non confirmé par la recherche suivante. Aucun téléphone, e-mail ni site trouvé dans les extraits (3 requêtes). Société familiale : 1 président et 3 directrices générales au registre (dont Sophie RADEL)."
+ },
+ {
+  "siren": "320130735",
+  "standard": {
+   "tel": "03 86 90 90 13",
+   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/17933-lagoutte-fils-sarl/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.lagoutte-fils.fr",
+  "decideur_financier": {
+   "nom": "Patrice LAGOUTTE",
+   "fonction": "Gérant (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/320130735"
+  },
+  "dirigeant_principal": {
+   "nom": "Patrice LAGOUTTE",
+   "fonction": "Gérant (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/320130735"
+  },
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "SARL créée en 1969, menuiserie métallique et serrurerie (métallerie), certifiée Qualibat-RGE, 20-49 salariés. Numéro et site vus sur un annuaire de la rénovation énergétique qui précise ne pas vérifier ses données (SIRET 320 130 735 00022) — à confirmer ; la page de contact du site lagoutte-fils.fr n'est pas apparue dans les résultats. Aucun e-mail générique ni responsable administratif/comptable trouvé (3 requêtes)."
  }
 ]
