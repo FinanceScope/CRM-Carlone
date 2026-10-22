@@ -1,0 +1,708 @@
+[
+ {
+  "rang": 24,
+  "siren": "488376278",
+  "nom": "A.B.S AVENIR BENNES ET SERVICES",
+  "enseigne": "A.B.S",
+  "ville": "Clamecy",
+  "adresse": "ZI Bagatelle, avenue Saint-Exupéry, 58500 Clamecy, 58500 Clamecy",
+  "activite": "Entreposage et services auxiliaires des transports",
+  "effectif": "10-19",
+  "groupe": null,
+  "dirigeants": [
+   "Gilles BETHERY (Gérant)",
+   "Romain SAGNE (Gérant)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "488376278",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Gilles BETHERY",
+    "fonction": "Gérant",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/488376278"
+   },
+   "autres_contacts": [
+    {
+     "nom": "Romain SAGNE",
+     "fonction": "Gérant",
+     "tel": null,
+     "email": null,
+     "source": "https://www.pappers.fr/entreprise/488376278"
+    }
+   ],
+   "format_email_observe": null,
+   "note": "Aucune trace en ligne de la société (téléphone, site, annuaire) dans les résultats WebSearch, ni par nom ni par SIREN. Le profil surprend : environ 28,8 M€ de CA pour 10 à 19 salariés en entreposage et services auxiliaires des transports. Il peut s'agir d'une structure de négoce ou d'une société liée à un groupe local ; à vérifier sur le registre."
+  }
+ },
+ {
+  "rang": 30,
+  "siren": "825065279",
+  "nom": "NEVINO",
+  "enseigne": "Intermarché (Nevers)",
+  "ville": "Nevers",
+  "adresse": "Boulevard Jean Moulin, 58000 Nevers, 58000 Nevers",
+  "activite": "Commerce de détail",
+  "effectif": "50-99",
+  "groupe": "Groupement Les Mousquetaires (Intermarché)",
+  "dirigeants": [
+   "Laurent POMMIER (Président de SAS)",
+   "Diego FERNANDEZ (Directeur Général)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "825065279",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Laurent POMMIER",
+    "fonction": "Président de SAS",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/825065279"
+   },
+   "autres_contacts": [
+    {
+     "nom": "Diego FERNANDEZ",
+     "fonction": "Directeur Général",
+     "tel": null,
+     "email": null,
+     "source": "https://www.pappers.fr/entreprise/825065279"
+    }
+   ],
+   "format_email_observe": null,
+   "note": "Impossible de savoir quel Intermarché de Nevers exploite NEVINO : aucun Intermarché n'a été trouvé boulevard Jean Moulin. Deux magasins sont référencés. (1) Intermarché Super, 33 boulevard du Pré Plantin : 03 86 93 08 75 (au-magasin.fr, source faible, https://www.au-magasin.fr/58000-nevers/intermarche-11897.html). (2) Intermarché Hyper « Bords de Loire », rue Bernard Palissy : un annuaire donne le 03 86 93 24 00, non vérifié. Faire confirmer le bon numéro avant l'appel."
+  }
+ },
+ {
+  "rang": 33,
+  "siren": "322804931",
+  "nom": "SUMIRIKO RUBBER COMPOUNDING FRANCE SAS",
+  "enseigne": "SumiRiko",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, Les Caillots, 58300 Decize, 58300 Decize",
+  "activite": "Caoutchouc et plastique",
+  "effectif": "50-99",
+  "groupe": "Sumitomo Riko (Japon)",
+  "dirigeants": [
+   "Carlos JIMENEZ (Président de SAS)",
+   "Stéphane BIREBENT (Directeur Général)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "322804931",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Carlos JIMENEZ",
+    "fonction": "Président de SAS",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/sumiriko-rubber-compounding-france_322804931"
+   },
+   "dirigeant_principal": {
+    "nom": "Carlos JIMENEZ",
+    "fonction": "Président de SAS",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/sumiriko-rubber-compounding-france_322804931"
+   },
+   "adresse": null,
+   "autres_contacts": [
+    {
+     "nom": "Stéphane BIREBENT",
+     "fonction": "Directeur Général",
+     "tel": null,
+     "email": null,
+     "source": "https://www.xerfi.com/etudes-par-entreprise/sumiriko-rubber-compounding-france_322804931"
+    }
+   ],
+   "format_email_observe": null,
+   "note": "Filiale du groupe japonais Sumitomo Riko ; aucun standard publié trouvé dans les extraits (adresse postale : Usine des Caillots, BP 101, 58302 Decize). Une offre France Travail de contrôleur de gestion industriel à Decize (https://candidat.francetravail.fr/offres/recherche/detail/189HYHP) mentionne un rattachement au responsable financier, mais l'employeur n'est pas nommé : finance non identifiée. Le président est probablement un dirigeant du groupe ; le DG (S. Birebent) est sans doute l'interlocuteur local, non confirmé."
+  }
+ },
+ {
+  "rang": 34,
+  "siren": "379437387",
+  "nom": "ETS. BUCHEZ",
+  "enseigne": "Buchez",
+  "ville": "Corbigny",
+  "adresse": "ZI de l'Orme, 24 route de Marcilly, 58800 Corbigny, 58800 Corbigny",
+  "activite": "Commerce de gros",
+  "effectif": "20-49",
+  "groupe": "Procurium Investissement",
+  "dirigeants": [
+   "PROCURIUM INVESTISSEMENT (Président de SAS)",
+   "Olivier DUBREUILH (Directeur Général)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "379437387",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Olivier DUBREUILH",
+    "fonction": "Directeur Général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/ets-buchez_379437387"
+   },
+   "dirigeant_principal": {
+    "nom": "Olivier DUBREUILH",
+    "fonction": "Directeur Général (la présidence est tenue par la holding PROCURIUM INVESTISSEMENT, dont le représentant n'a pas été identifié)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/ets-buchez_379437387"
+   },
+   "adresse": null,
+   "autres_contacts": [],
+   "format_email_observe": null,
+   "note": "Commerce de gros de matériel agricole (NAF 46.61Z). Établissements secondaires à Moulins-Engilbert (route de Châtillon) et Autun (24 rue Nicéphore Niépce) selon Xerfi. Aucun numéro ni site trouvé dans les extraits ; une recherche a été refusée car le nom a été pris pour celui d'un particulier."
+  }
+ },
+ {
+  "rang": 35,
+  "siren": "397727397",
+  "nom": "LOOK FIXATIONS SA",
+  "enseigne": "LOOK Cycle",
+  "ville": "Nevers",
+  "adresse": "2 rue de la Pique, 58000 Nevers, 58000 Nevers",
+  "activite": "Autres industries manufacturières",
+  "effectif": "50-99",
+  "groupe": "LOOK Cycle International (actionnaire majoritaire Activa Capital depuis 2016)",
+  "dirigeants": [
+   "Damien Luc Marie OLAGNE (Président de SAS)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "397727397",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": "https://www.lookcycle.com",
+   "decideur_financier": {
+    "nom": "Damien OLAGNE",
+    "fonction": "Président de SAS (LOOK Fixations)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/397727397"
+   },
+   "dirigeant_principal": {
+    "nom": "Damien OLAGNE",
+    "fonction": "Président de SAS (LOOK Fixations)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/397727397"
+   },
+   "adresse": null,
+   "autres_contacts": [
+    {
+     "nom": "Federico MUSI",
+     "fonction": "CEO de LOOK Cycle (groupe)",
+     "tel": null,
+     "email": null,
+     "source": "https://www.activacapital.com/en/activa-capital-investment-portfolio/activa-capital-current-investments/510-look-cycle"
+    }
+   ],
+   "format_email_observe": null,
+   "note": "Aucun DAF trouvé dans les extraits. Le président D. Olagne vient du registre seul (aucune source web ne le confirme). F. Musi est CEO du groupe depuis 2016 (rachat par Activa Capital) ; il est cité comme CEO dans un article récent sur le rachat de Pembree (https://cyclingindustry.news/look-cycle-acquires-uk-brand-pembree/), mais le poste est peut-être à revérifier. Le 118500 (https://118500.fr/telephone-service-client-look-cycle) donne le siège groupe au 27 rue du Docteur Léveillé, Nevers, sans afficher le numéro."
+  }
+ },
+ {
+  "rang": 42,
+  "siren": "338339146",
+  "nom": "TC 58",
+  "enseigne": "TC Transports",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 rue de la Guette, 58340 Cercy-la-Tour",
+  "activite": "Transports terrestres",
+  "effectif": "50-99 (95 salariés en 2025)",
+  "groupe": "Holding Cassier",
+  "dirigeants": [
+   "HOLDING CASSIER (Président (personne morale))",
+   "Pierre RACOUCHOT (Directeur général)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "338339146",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/338339146"
+   },
+   "dirigeant_principal": {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Directeur général (la présidence est tenue par la personne morale HOLDING CASSIER, dont le représentant n'a pas été identifié)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/338339146"
+   },
+   "adresse": null,
+   "autres_contacts": [],
+   "format_email_observe": null,
+   "note": "TC Transports est un groupe familial de transport et logistique créé en 1981 : 11 sites en France, plus de 700 salariés selon un dossier préfectoral (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Le site de Cercy-la-Tour fait aussi du tri de pneus (ALIAPUR). Le siège du groupe est indiqué avenue Louis Coudant à Cercy-la-Tour (ContactOut, https://contactout.com/company/TC-TRANSPORTS-6049). Un DAF de groupe existe probablement mais n'a pas été trouvé. Aucun standard trouvé dans les extraits."
+  }
+ },
+ {
+  "rang": 43,
+  "siren": "529213050",
+  "nom": "NEVERS PREMIUM MOTORS",
+  "enseigne": "SUMA",
+  "ville": "Nevers",
+  "adresse": "Rond-Point Monte Cassino, 135 rue de Marzy, 58000 Nevers",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "10-19",
+  "groupe": null,
+  "dirigeants": [
+   "Richard VIVES (Président)",
+   "Eddy MICHEL (Directeur général délégué)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "529213050",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Richard VIVES",
+    "fonction": "Président",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/529213050"
+   },
+   "dirigeant_principal": {
+    "nom": "Richard VIVES",
+    "fonction": "Président (dirigeant du groupe SUMA)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://journalauto.com/distribution/le-groupe-suma-sur-le-point-de-reprendre-deux-affaires-a-vgrf/"
+   },
+   "adresse": null,
+   "autres_contacts": [
+    {
+     "nom": "Eddy MICHEL",
+     "fonction": "Directeur général délégué",
+     "tel": null,
+     "email": null,
+     "source": "https://www.pappers.fr/entreprise/529213050"
+    }
+   ],
+   "format_email_observe": null,
+   "note": "Concession du groupe SUMA (Richard Vivès, groupe basé dans la région lyonnaise : VW/Seat/Skoda/Cupra à Nevers et Cosne, Hyundai Nevers). L'annuaire Justacôté place 'Ducati Nevers - Suma' au 135 rue de Marzy (https://www.justacote.com/marzy-58180/moto-et-scooter/), soit la même adresse que la société. Aucun standard ni service comptable identifié, et une recherche dédiée au téléphone n'a rien donné. Pour la finance, le service comptable du groupe SUMA est probablement centralisé hors Nièvre (non confirmé)."
+  }
+ },
+ {
+  "rang": 51,
+  "siren": "307049437",
+  "nom": "GARAGE NEVERS SUD",
+  "enseigne": null,
+  "ville": "Challuy",
+  "adresse": "183-185 route de Lyon, 58000 Challuy",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49 (24 salariés en 2023)",
+  "groupe": "Financière Bongard",
+  "dirigeants": [
+   "FINANCIERE BONGARD (Président (personne morale))"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "307049437",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": null,
+   "dirigeant_principal": null,
+   "adresse": null,
+   "autres_contacts": [],
+   "format_email_observe": null,
+   "note": "Le président est la personne morale FINANCIERE BONGARD. Son représentant n'a pas été identifié, et aucun dirigeant personne physique n'est connu. L'annuaire 118712 (https://www.118712.fr/professionnels/X0JRVl9UFQk, numéro masqué) lie FINANCIERE BONGARD aux noms 'Renault Garage Nevers Agent', 'Garage Nevers' et 'Financière Nevers' : il s'agit probablement d'une concession Renault/Dacia, à confirmer. Un lien familial avec Bongard Bazot et Fils (Jean-Luc et Eric Bongard, DG) est possible mais non vérifié. Aucun numéro trouvé dans les extraits pour le 183-185 route de Lyon à Challuy."
+  }
+ },
+ {
+  "rang": 53,
+  "siren": "921426086",
+  "nom": "SONIRVAL ENERGIE",
+  "enseigne": null,
+  "ville": "Fourchambault",
+  "adresse": "38 route de Vauzelles, 58600 Fourchambault",
+  "activite": "Collecte et traitement des déchets",
+  "effectif": "10-19 (20 salariés en 2024)",
+  "groupe": "Lien supposé avec Veolia / RONAVAL (non confirmé)",
+  "dirigeants": [
+   "Anaël GENDRE (Président (depuis le 26/03/2026))",
+   "Frédéric LONGO (Directeur général)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "921426086",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Anaël GENDRE",
+    "fonction": "Président (depuis le 26/03/2026)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/921426086"
+   },
+   "dirigeant_principal": {
+    "nom": "Anaël GENDRE",
+    "fonction": "Président (depuis le 26/03/2026)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/921426086"
+   },
+   "adresse": null,
+   "autres_contacts": [
+    {
+     "nom": "Frédéric LONGO",
+     "fonction": "Directeur général",
+     "tel": null,
+     "email": null,
+     "source": "https://www.pappers.fr/entreprise/921426086"
+    }
+   ],
+   "format_email_observe": null,
+   "note": "Exploite l'usine d'incinération d'ordures ménagères (UIOM) de Fourchambault, anciennement SONIRVAL puis VALEST, au 38 route de Vauzelles (rapport d'inspection Géorisques de 2025 : https://www.georisques.gouv.fr/webappReport/ws/installations/inspection/IAobM3aziW4I6l01V4ghaGeHiPi9ISyX). Groupe parent non identifié. Président récent (mars 2026). Aucun standard trouvé."
+  }
+ },
+ {
+  "rang": 54,
+  "siren": "404570160",
+  "nom": "ORECA MAGNY-COURS",
+  "enseigne": "ORECA",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 58470 Magny-Cours",
+  "activite": "Industrie automobile",
+  "effectif": "50-99 (53 salariés en 2025)",
+  "groupe": "Groupe ORECA",
+  "dirigeants": [
+   "Hugues DE CHAUNAC (Président)",
+   "Serge MEYER (Directeur général)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": null
+ },
+ {
+  "rang": 61,
+  "siren": "409564481",
+  "nom": "DANIELSON ENGINEERING",
+  "enseigne": "Groupe Danielson",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 58470 Magny-Cours, 58470 Magny-Cours",
+  "activite": "Fabrication de machines et équipements",
+  "effectif": "50-99 (83 salariés en 2024 ; ~130 pour le groupe)",
+  "groupe": "Groupe Danielson (SIREN 507748283)",
+  "dirigeants": [
+   "GROUPE DANIELSON (personne morale) (Président de SAS)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "409564481",
+   "standard": {
+    "tel": null,
+    "source": null
+   },
+   "email_generique": null,
+   "site_web": "https://danielson-groupe.fr",
+   "decideur_financier": {
+    "nom": "Bernard DELAPORTE",
+    "fonction": "Président de Groupe Danielson (holding présidente de Danielson Engineering)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/409564481"
+   },
+   "dirigeant_principal": {
+    "nom": "Bernard DELAPORTE",
+    "fonction": "Président de Groupe Danielson (holding présidente de Danielson Engineering)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/409564481"
+   },
+   "adresse": null,
+   "autres_contacts": [],
+   "format_email_observe": null,
+   "note": "Recherche interrompue après une seule requête (aucun DAF/RAF trouvé) : le quota global de recherches web de la session était épuisé. Le nom de B. Delaporte vient de l'entrée (champ interlocuteur) et n'a pas été revérifié ; Pappers indique seulement la personne morale GROUPE DANIELSON comme présidente. Le site et le LinkedIn sont déjà connus. Standard à rechercher, et un DAF de groupe est probable (environ 130 salariés)."
+  }
+ },
+ {
+  "rang": 62,
+  "siren": "352563084",
+  "nom": "PHARMA DEVELOPPEMENT",
+  "enseigne": null,
+  "ville": "Corbigny",
+  "adresse": "ZI, Chemin du Moulin de Marcy, 58800 Corbigny, 58800 Corbigny",
+  "activite": "Industrie pharmaceutique",
+  "effectif": "50-99",
+  "groupe": null,
+  "dirigeants": [
+   "Mario Junio GIRON (Président de SAS)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "352563084",
+   "standard": {
+    "tel": null,
+    "source": null,
+    "fiabilite": null
+   },
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Mario Junio GIRON",
+    "fonction": "Président de SAS",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/352563084"
+   },
+   "dirigeant_principal": {
+    "nom": "Mario Junio GIRON",
+    "fonction": "Président de SAS",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/352563084"
+   },
+   "adresse": null,
+   "autres_contacts": [],
+   "format_email_observe": null,
+   "note": "3 recherches sans standard, email, site ni DAF/RAF. Le laboratoire fabrique des préparations pharmaceutiques liquides et pâteuses (fondé en 1985 selon Pharmashopi). Vidal confirme l'adresse ZI Chemin de Marcy, 58800 Corbigny (https://www.vidal.fr/medicaments/laboratoires/pharma-developpement-687.html), mais sans téléphone dans l'extrait. Le président vient seulement du registre (deja) et n'a pas été revérifié. Avec 50 à 99 salariés, un responsable administratif et financier est probable mais n'a pas été trouvé. À ne pas confondre avec la Pharmacie de l'Anguison (03 86 20 02 49), une pharmacie distincte de Corbigny."
+  }
+ },
+ {
+  "rang": 73,
+  "siren": "611880204",
+  "nom": "IGOL CENTRE",
+  "enseigne": "IGOL Centre",
+  "ville": "Nevers",
+  "adresse": "72 rue d'Alsace-Lorraine, 58000 Nevers, 58000 Nevers",
+  "activite": "Cokéfaction et raffinage",
+  "effectif": "20-49",
+  "groupe": "Réseau IGOL (fabricant français de lubrifiants, siège à Amiens)",
+  "dirigeants": [
+   "CIPELIA (personne morale) (Président de SAS)",
+   "Isabelle BILLOUE MEUNIER (Personne ayant le pouvoir d'engager la société)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "611880204",
+   "standard": null,
+   "email_generique": null,
+   "site_web": "https://www.igol.com",
+   "decideur_financier": {
+    "nom": "Isabelle Billoue Meunier",
+    "fonction": "Personne ayant le pouvoir d'engager la société (registre) ; présidente de la SAS : CIPELIA (personne morale)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/611880204"
+   },
+   "dirigeant_principal": {
+    "nom": "Isabelle Billoue Meunier",
+    "fonction": "Personne ayant le pouvoir d'engager la société (registre) ; présidente de la SAS : CIPELIA (personne morale, dirigeant personne physique non identifié)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/611880204"
+   },
+   "adresse": null,
+   "autres_contacts": [],
+   "format_email_observe": null,
+   "note": "Aucun numéro trouvé pour IGOL Centre (3 recherches). Le site du groupe IGOL (https://www.igol.com/?p=2614) confirme un site de production à Nevers (58), siège du groupe à Amiens. Xerfi (https://www.xerfi.com/etudes-par-entreprise/igol-centre_611880204) confirme l'adresse 72 rue d'Alsace-Lorraine, 58000 Nevers, SAS, 28 salariés, CA 11 M€ en 2024. Filiale d'un groupe (CIPELIA) : la fonction finance est probablement centralisée au siège d'Amiens ; aucun DAF identifié. Passer par le standard du groupe IGOL si besoin."
+  }
+ },
+ {
+  "rang": 74,
+  "siren": "453481244",
+  "nom": "SARL BOUILLET FRERES",
+  "enseigne": "Bouillet Frères",
+  "ville": "Decize",
+  "adresse": "ZA Les Champs Monarès, 58300 Decize, 58300 Decize",
+  "activite": "Commerce de gros",
+  "effectif": "10-19 (tranche INSEE la plus récente : 6-9)",
+  "groupe": null,
+  "dirigeants": [
+   "Guillaume BOUILLET (Gérant)",
+   "Jérôme BOUILLET (Gérant)",
+   "Sébastien BOUILLET (Gérant)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "453481244",
+   "standard": null,
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Guillaume Bouillet",
+    "fonction": "Gérant (co-gérant avec Jérôme et Sébastien Bouillet, registre)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   },
+   "dirigeant_principal": {
+    "nom": "Guillaume Bouillet",
+    "fonction": "Gérant (co-gérant avec Jérôme et Sébastien Bouillet, registre)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   },
+   "adresse": null,
+   "autres_contacts": [
+    {
+     "nom": "Jérôme Bouillet",
+     "fonction": "Gérant (registre)",
+     "tel": null,
+     "email": null,
+     "source": "https://www.pappers.fr/entreprise/453481244"
+    },
+    {
+     "nom": "Sébastien Bouillet",
+     "fonction": "Gérant (registre)",
+     "tel": null,
+     "email": null,
+     "source": "https://www.pappers.fr/entreprise/453481244"
+    }
+   ],
+   "format_email_observe": null,
+   "note": "Aucune trace en ligne de la société dans les résultats de recherche (3 recherches : nom + Decize, ZA des Champs Monarès, raison sociale exacte) : ni téléphone, ni site, ni activité précise. Trois co-gérants égaux au registre ; le choix de Guillaume Bouillet comme interlocuteur est arbitraire (premier listé). À compléter via PagesJaunes ou annuaire-entreprises."
+  }
+ },
+ {
+  "rang": 77,
+  "siren": "885820217",
+  "nom": "SO.DI.TAN",
+  "enseigne": "Super U Tannay (probable)",
+  "ville": "Tannay",
+  "adresse": "Avenue de la Fringale, 58190 Tannay, 58190 Tannay",
+  "activite": "Commerce de détail",
+  "effectif": "20-49 (27 salariés)",
+  "groupe": "Réseau Coopérative U (Système U) – lien via SCI des Plantes",
+  "dirigeants": [
+   "GERMAIN'S DEVELOPMENT (personne morale) (Président de SAS (depuis 24/08/2026))"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "885820217",
+   "standard": null,
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": null,
+   "dirigeant_principal": null,
+   "adresse": null,
+   "autres_contacts": [],
+   "format_email_observe": null,
+   "note": "Le Super U de Tannay existe bien avenue de la Fringale (D119), 58190 Tannay (station-service listée sur https://www.zagaz.com/station-avis.php?id_s=16310 et https://www.auto-selection.com/services/annuaire/stations-services/super-u-1020467-tannay-58-fiche-14719, cette dernière n'affichant qu'un numéro surtaxé de mise en relation, non retenu), mais le lien SO.DI.TAN = Super U Tannay reste non confirmé et aucun numéro du magasin n'a été trouvé. Présidente au registre : GERMAIN'S DEVELOPMENT (personne morale, depuis le 24/08/2026 : changement de direction récent) ; la personne physique qui dirige cette holding n'a pas été identifiée (aucun résultat). Aucun dirigeant personne physique connu : à identifier via le registre de GERMAIN'S DEVELOPMENT."
+  }
+ },
+ {
+  "rang": 81,
+  "siren": "428223531",
+  "nom": "ALBEN",
+  "enseigne": "Intermarché (Sauvigny-les-Bois)",
+  "ville": "Sauvigny-les-Bois",
+  "adresse": "Avenue de Marigny, 58160 Sauvigny-les-Bois, 58160 Sauvigny-les-Bois",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "dirigeants": [
+   "Laurent Pommier (Président de SAS)"
+  ],
+  "opposition_prospection": false,
+  "premiere_passe": {
+   "siren": "428223531",
+   "standard": null,
+   "email_generique": null,
+   "site_web": null,
+   "decideur_financier": {
+    "nom": "Laurent Pommier",
+    "fonction": "Président de SAS (registre)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/428223531"
+   },
+   "dirigeant_principal": {
+    "nom": "Laurent Pommier",
+    "fonction": "Président de SAS (registre)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/428223531"
+   },
+   "adresse": null,
+   "autres_contacts": [],
+   "format_email_observe": null,
+   "note": "Magasin Intermarché Super Sauvigny-les-Bois confirmé (ac-franchise https://ac-franchise.com/store/intermarche-265/ : av. de Marigny, 20-49 salariés ; Que Choisir https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm3143/ donne 'Route de Nevers RN 81'), mais aucun numéro de téléphone du magasin trouvé (seul un numéro surtaxé de mise en relation sur auto-selection, non retenu). Dirigeant repris du registre uniquement, non confirmé par une source récente."
+  }
+ }
+]
