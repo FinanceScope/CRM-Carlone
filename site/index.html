@@ -496,7 +496,7 @@ p.txt{margin:0;max-width:65ch}
     <select id="fPrio" aria-label="Priorité"><option value="">Toutes priorités</option><option>Haute</option><option>Moyenne</option><option>Basse</option></select>
     <select id="fSect" aria-label="Secteur"><option value="">Tous secteurs</option></select>
     <select id="fTop" aria-label="Classement"><option value="">Tout le classement</option><option value="top">Top 100</option><option value="ext">Rangs 101 à 500</option></select>
-    <select id="fContact" aria-label="Coordonnées"><option value="">Toutes coordonnées</option><option value="tel">Avec téléphone</option><option value="fin">Avec décideur financier</option></select>
+    <select id="fContact" aria-label="Coordonnées"><option value="">Toutes coordonnées</option><option value="tel">Avec téléphone</option><option value="notel">Sans téléphone</option><option value="fin">Avec décideur financier</option></select>
     <select id="fArt" aria-label="Profil fiscal"><option value="">Tous profils fiscaux</option><option value="isb">À l'IS et bénéficiaires</option><option value="pub">Lieu ouvert au public</option><option value="big">Plafond au-dessus de 20 000 €</option></select>
     <select id="fSort" aria-label="Trier">
       <option value="rang">Tri : rang (CA)</option>
@@ -811,6 +811,7 @@ function filtered(){
     if(filt.top==="ext"&&c.rang<=100)return false;
     if(filt.contact==="tel"&&!(c.telephone||(c.contact_finance||{}).tel_direct))return false;
     if(filt.contact==="fin"&&!(c.contact_finance&&c.contact_finance.nom))return false;
+    if(filt.contact==="notel"&&(c.telephone||(c.contact_finance||{}).tel_direct))return false;
     if(filt.art==="isb"&&!isOk(c))return false;
     if(filt.art==="pub"&&!(c.art&&c.art.public))return false;
     if(filt.art==="big"&&!(c.art&&c.art.plafond>PLANCHER))return false;

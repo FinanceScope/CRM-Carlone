@@ -1,0 +1,301 @@
+[
+ {
+  "siren": "338339146",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.tc-transports.fr",
+  "decideur_financier": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "dirigeant_principal": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (président : HOLDING CASSIER, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Pierre-Henri JUHEN",
+    "fonction": "Directeur de l'organisation du groupe TC Transports (interview, date non précisée)",
+    "tel": null,
+    "email": null,
+    "source": "https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches, aucun numéro trouvé (ni pour le 45 rue de la Guette, ni pour le groupe ; le site tc-transports.fr n'apparaît pas dans les extraits). L'avis SIRENE confirme l'établissement « TC TRANSPORTS », 45 rue de la Guette, 58340 Cercy-la-Tour (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023). Selon un dossier ICPE de la préfecture (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf), TC ENVIRONNEMENT appartient au groupe HOLDING CASSIER, dont le président est la SARL CASSIER DÉVELOPPEMENT ; le représentant personne physique (membre de la famille Cassier) n'a pas été identifié. Pierre Racouchot (DG au registre) est aussi DG de POLE SUD-EST (Montpellier) depuis le 12/05/2023 selon verif.com (https://www.verif.com/en/leaders/Pierre-RACOUCHOT-J38747119/) : il s'agit vraisemblablement d'un dirigeant de groupe plutôt que d'un responsable local. Le groupe annonce une douzaine de sites, 700 salariés, 500 moteurs et 80 M€ de CA consolidé (interview de P.-H. Juhen, truckonline). Aucun DAF de groupe trouvé. À l'appel : obtenir le standard du groupe (siège Cercy-la-Tour ou Digoin), demander le DAF ou le service comptable du groupe et le nom du représentant de la holding Cassier. 3e passe : 5 recherches (« TC Transports » Cercy-la-Tour + téléphone/accueil, site:tc-transports.fr, siège commercial ZI Les Mûriers à Digoin, offres d'emploi France Travail, standard du groupe en 03 8x) : aucun numéro, ni pour le site de Cercy ni pour le groupe sur une source officielle. Seuls éléments : la fiche Railmarket (https://railmarket.com/ap/profile/tc-transports) donne le siège commercial ZI Les Mûriers, 71160 Digoin, sans téléphone ; des offres France Travail de TC-Transports concernent Auby (59) et Aulnat (63), sans numéro du site nivernais.",
+  "decision": "Probablement au niveau de la holding familiale HOLDING CASSIER (famille Cassier, présidée par la SARL CASSIER DÉVELOPPEMENT), qui pilote le groupe TC Transports depuis Cercy-la-Tour (siège indiqué avenue Louis Coudant) et son siège commercial de Digoin (Saône-et-Loire) : TC 58 n'est qu'une des filiales d'un groupe d'environ 700 salariés et 80 M€ de CA consolidé."
+ },
+ {
+  "siren": "307049437",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": null,
+  "dirigeant_principal": null,
+  "adresse": null,
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches, aucun numéro, site ou dirigeant personne physique trouvé. Élément nouveau : l'avis SIRENE de l'établissement 307 049 437 00030 (https://api-avis-situation-sirene.insee.fr/identification/pdf/30704943700030) indique un code NAF 45.19Z (commerce d'autres véhicules automobiles, c'est-à-dire en principe poids lourds/véhicules de plus de 3,5 t), une création en 1976 et un établissement dans un parc logistique sur la RN7 à Toulon-sur-Allier (03400). Il s'agirait donc plutôt d'un distributeur de poids lourds ou véhicules industriels (piste Renault Trucks, cohérente avec la mention « Renault Garage Nevers Agent » de l'annuaire 118712, non confirmée) que d'une concession VP. Aucune activité indexée au 183-185 route de Lyon à Challuy (seul un Speedy au 5 route de Lyon) ; aucune trace web de « Financière Bongard » ni de « Garage Nevers Sud » en dehors du SIRENE. Le lien avec Bongard Bazot et Fils reste non vérifié. Aucun DAF ni comptable trouvé, et aucun dirigeant personne physique connu (d'où dirigeant et décideur financier à null). À l'appel (numéro à obtenir via le 118 712 ou sur place) : demander quelle marque est distribuée, le nom du représentant de Financière Bongard et la personne en charge de la comptabilité. 3e passe : 5 recherches (route de Lyon à Challuy + poids lourds, Renault Trucks Nevers/Challuy, « Garage Nevers Sud » + Toulon-sur-Allier, Bongard + Toulon-sur-Allier RN7, « 183 route de Lyon » Challuy) : aucun numéro ni marque identifiée. Le seul concessionnaire Renault Trucks trouvé près de Nevers est Faurie Trucks (Varennes-Vauzelles) et le site Volvo de la zone est à Moulins (Relais Poids Lourds Auvergne, groupe Brochard) : aucun lien établi avec Garage Nevers Sud. L'adresse du 183-185 route de Lyon n'est indexée nulle part.",
+  "decision": "Probablement au niveau de la holding FINANCIERE BONGARD (présidente de la SAS), dont la localisation et le dirigeant n'ont pas été identifiés ; l'entreprise a un établissement hors Nièvre (Toulon-sur-Allier, Allier), ce qui suggère un petit groupe régional."
+ },
+ {
+  "siren": "921426086",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026) ; aucun DAF/RAF identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "dirigeant_principal": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026, registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "adresse": null,
+  "autres_contacts": [
+   {
+    "nom": "Frédéric LONGO",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/921426086"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches. Un avenant d'accord d'entreprise (https://www.maitredata.com/app/accords-entreprise/sonirval-energie/230270) explique que SONIRVAL ENERGIE a été créée comme société dédiée à l'exploitation de la délégation de service public (DSP) de l'UVE de Fourchambault : le personnel du site a été transféré de SONIRVAL à SONIRVAL ENERGIE au 1er février 2023. La société relève de l'UES VALEST (VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), avec un siège indiqué à Vaulx-en-Velin (69), à vérifier. Le rapport Géorisques confirme l'exploitation de l'UVE (46 000 t/an autorisées, ligne de 6 t/h). Aucun lien avec Veolia ou Dalkia trouvé : l'hypothèse « Veolia / RONAVAL » de l'entrée n'est pas étayée. Aucune trace en ligne d'Anaël Gendre ni de Frédéric Longo (président et DG selon le registre). Aucun standard, email, site ni DAF/RAF trouvé. À l'appel (via l'accueil de l'UVE, route de Vauzelles) : demander le directeur ou responsable d'exploitation de l'UVE, le nom du groupe propriétaire de VALEST/SONIRVAL et le service comptable ou financier du groupe. 3e passe : 5 recherches (UVE route de Vauzelles + téléphone, « Sonirval » contact/accueil, presse locale, offres d'emploi « Sonirval Energie », ensemble VALEST/SHMVD/Valinea) : aucun numéro de l'usine ni du groupe. Le seul numéro vu (03 39 59 67 37, rapport DREAL sur Géorisques) est celui de l'inspecteur des installations classées, non retenu. Un avis préfectoral (https://www.nievre.gouv.fr/index.php/contenu/telechargement/6688/73364/file/avis_au_public_pour_arrete_sonirval.pdf) indique que l'usine était auparavant exploitée sous le nom VALEST ; une fiche PagesJaunes de VALEST existe à Sens (RCS Nancy) mais sans numéro dans l'extrait.",
+  "decision": "Décision probablement prise hors de la Nièvre, au niveau de l'ensemble VALEST (UES VALEST : VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), SONIRVAL ENERGIE étant une société dédiée créée pour la DSP de l'UVE de Fourchambault et dont le siège serait à Vaulx-en-Velin (69) d'après un accord d'entreprise ; actionnaire final non confirmé."
+ },
+ {
+  "siren": "352563084",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/352563084"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches. Le registre est confirmé par des pages de revendeurs (Pharmashopi, Soin et Nature : https://www.soin-et-nature.com/fr/528_pharma-developpement) : laboratoire « dirigé par Mario Giron », qui l'a racheté en 2008 et l'a développé à l'export (États-Unis, Afrique francophone, Irak, Algérie, Thaïlande) ; produit phare Ydrovit (soluté de réhydratation, 2013). Date de création divergente selon les sources (1985 ou 1991). Une notice ANSM (https://ansm.sante.fr/actualites/impression/1899) mentionne une injonction contre l'établissement pharmaceutique de Corbigny, prolongée en 2018 puis levée le 13/03/2019. Aucun standard, email, site officiel ni DAF/RAF trouvé : la fiche Usine Nouvelle a des « contacts par direction » réservés aux abonnés (https://industrie.usinenouvelle.com/fiche/etablissement/pharma-developpement-100919204), et la page Vidal du laboratoire peut afficher un téléphone non visible dans les extraits. Les numéros en 03 86 20 vus à Corbigny sont ceux de pharmacies ou d'un cabinet comptable, non retenus. À l'appel : trouver le numéro via la page Vidal ou le fichier Usine Nouvelle, demander le pharmacien responsable ou le directeur de site, le responsable administratif et financier, et si Mario Giron est présent sur place. 3e passe : 5 recherches (adresse « Moulin de Marcy », fiche Vidal + « Tél », raison sociale + « 03 86 », offres d'emploi, produit Ydrovit + contact) : aucun numéro. Les fiches Vidal (https://www.vidal.fr/parapharmacie/societes/pharma-developpement-687.html) ne montrent que l'adresse « Zone industrielle Chemin de Marcy, 58800 Corbigny » dans les extraits. Une offre de pharmacien assurance qualité en CDI à Corbigny (reprise par la-mairie.com, https://www.la-mairie.com/chitry-les-mines/emploi) indique un service qualité de 16 personnes rattaché à la pharmacienne responsable et à la directrice qualité, sans téléphone.",
+  "dirigeant_principal": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS (registre) ; propriétaire-dirigeant depuis le rachat du laboratoire en 2008, également fondateur de la société pharmaceutique Global Farma",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pharmashopi.com/pharma-developpement-m-713.html"
+  },
+  "decision": "Décision probablement prise par le propriétaire-président Mario Giron, qui a racheté le laboratoire en 2008 et le dirige sans groupe identifié ; il est aussi fondateur de Global Farma, son lieu de résidence (France ou étranger) n'est pas connu, donc vérifier s'il est présent à Corbigny."
+ },
+ {
+  "siren": "611880204",
+  "standard": {
+   "tel": "03 86 59 78 80",
+   "source": "https://www.igol.com/en/regional-directorates/",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.igol.com",
+  "decideur_financier": {
+   "nom": "Isabelle Billoue Meunier",
+   "fonction": "Personne ayant le pouvoir d'engager la société (registre) ; aucun DAF/RAF identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/611880204"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches (IGOL Centre Nevers, CIPELIA + IGOL, Billoue + IGOL, fonctions IGOL Centre, adresse + 03 86 refusée par le moteur comme recherche de personne privée, puis reformulée avec la raison sociale). Aucun standard du site de Nevers trouvé ; le site igol.com (https://www.igol.com/?p=2614) confirme le site de production de Nevers et précise qu'IGOL France est la filiale commune des sociétés régionales franchisées : IGOL Centre est donc une société indépendante, pas une filiale d'Amiens. Indice : un article du Journal des entreprises (https://www.lejournaldesentreprises.com/article/unil-opal-developpe-un-lubrifiant-alternatif-et-veut-accelerer-linternational-2140017) présente CIPELIA comme un groupe de lubrifiants qui a repris Unil Opal (Saumur) en 2024 : CIPELIA, présidente d'IGOL Centre, serait donc un groupe de lubrifiants plus large, dont le siège et le dirigeant personne physique restent à identifier. Une brochure IGOL de janvier 2023 cite une direction régionale des ventes « IGOL Centre » (Christophe Luino, donnée incohérente, non retenue). Aucun nom de DAF/comptable. Dirigeant repris du registre, non confirmé par une source récente. À l'appel (numéro à trouver via le standard IGOL ou PagesJaunes) : demander qui dirige le site de Nevers, si la comptabilité est tenue sur place ou chez CIPELIA, et le nom du dirigeant de CIPELIA. 3e passe : standard trouvé sur la page officielle des directions régionales IGOL (https://www.igol.com/en/regional-directorates/) : « IGOL CENTRE, 72 rue d'Alsace Lorraine, CS 70002, 58028 Nevers Cedex, Tél. +33 (0)3 86 59 78 80 » (aussi repris dans une brochure IGOL de janvier 2023 : https://www.igol.com/wp-content/uploads/2022/12/brochure-igol-profil-janv-23.pdf) ; fax 03 86 59 14 88. Lu dans les extraits de recherche, pas sur la page elle-même ; une recherche exacte du numéro n'a rien renvoyé d'autre. Le 02 40 32 80 00 vu dans d'autres documents IGOL relève vraisemblablement d'une autre direction régionale (indicatif de Loire-Atlantique) et le 03 10 00 14 60 est l'assistance technique nationale : non retenus.",
+  "dirigeant_principal": {
+   "nom": "Isabelle Billoue Meunier",
+   "fonction": "Personne ayant le pouvoir d'engager la société (registre) ; présidente de la SAS : CIPELIA (personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/611880204"
+  },
+  "decision": "Probablement à Nevers, chez IGOL Centre ou sa société mère CIPELIA (ville non identifiée) : IGOL Centre est une société régionale du réseau IGOL (IGOL France à Amiens est la filiale commune des sociétés régionales qui exploitent la marque en franchise), donc le siège d'Amiens ne décide vraisemblablement pas pour elle."
+ },
+ {
+  "siren": "453481244",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Guillaume Bouillet",
+   "fonction": "Gérant (co-gérant, registre) ; aucun responsable financier identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/453481244"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jérôme Bouillet",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   },
+   {
+    "nom": "Sébastien Bouillet",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches (raison sociale + Decize, négoce bestiaux, SIREN, filières fioul/céréales/matériaux/bois, « marchand de bestiaux » 58300, annuaire PagesJaunes) : toujours aucune trace en ligne de la société (ni site, ni téléphone, ni activité précise) ; seuls des homonymes sans lien (Bouillet Cestas, Laurent Bouillet Cergy, Établissements Bouillet). L'activité exacte de ce commerce de gros (11 M€ de CA avec moins de 10 salariés : profil compatible avec un négoce agricole ou de bestiaux) reste à confirmer. Les trois co-gérants du registre sont repris tels quels, non confirmés par une source récente. À l'appel : il faut d'abord un numéro (annuaire inverse sur l'adresse ZA Les Champs Monarès ou passage sur place) ; demander lequel des trois frères gère l'administratif et la comptabilité, et si un cabinet comptable externe tient les comptes. 3e passe : 5 recherches (« Champs Monarès » Decize, « frères Bouillet » + Journal du Centre, Bouillet + négoce/export de bovins, prénoms des trois co-gérants + Decize, « SARL Bouillet »/« Bouillet Frères » + agrément ou commerce de gros) : toujours aucune trace en ligne, ni numéro, ni activité précise. Le lieu-dit « Champs Monarès » n'est indexé nulle part (orthographe à vérifier).",
+  "dirigeant_principal": {
+   "nom": "Guillaume Bouillet",
+   "fonction": "Gérant (co-gérant avec Jérôme et Sébastien Bouillet, registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/453481244"
+  },
+  "decision": "Dans la société elle-même, à Decize : SARL familiale indépendante (aucun groupe) dirigée par trois frères co-gérants, qui décident vraisemblablement ensemble."
+ },
+ {
+  "siren": "701880155",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.transports-charrier.fr",
+  "decideur_financier": {
+   "nom": "Eric Rousseau",
+   "fonction": "Président de GROUPE ROUSSEAU ; aucun DAF/RAF du groupe ni de la filiale identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://copeps.fr/actualites/sarl-rousseau-eric/"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jade Rousseau",
+    "fonction": "Directrice générale de GROUPE ROUSSEAU (depuis le 06/02/2025)",
+    "tel": null,
+    "email": null,
+    "source": "https://copeps.fr/actualites/sarl-rousseau-eric/"
+   }
+  ],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches. Rachat confirmé : selon Auris Finance (https://auris-finance.fr/en/?p=8298 et https://auris-finance.fr/en/?p=9631), le groupe de transport Rousseau a racheté Transports Charrier (entreprise familiale de Decize) et Transports Boudet (Saint-Florent-sur-Cher, 18), intégrés en 2023, puis EF Bennes (avril 2023) ; le groupe compterait environ 740 salariés et 1 200 véhicules. Dirigeants du groupe trouvés sur un agrégateur de données légales (copeps.fr, source secondaire, à confirmer au registre) : Eric Rousseau, président de GROUPE ROUSSEAU depuis 2016, et Jade Rousseau, directrice générale depuis février 2025. Une opération de réorganisation du capital d'un « groupe Rousseau » avec Turenne Groupe et Bpifrance (https://www.lemondedudroit.fr/deals/88411-moncey-avocats-conseille-turenne-groupe-et-bpifrance-dans-le-cadre-de-la-reorganisation-du-capital-du-groupe-rousseau.html) n'a pas pu être rattachée avec certitude à ce groupe. Le siège du groupe est situé dans la Nièvre d.après l.immatriculation de Transports Rousseau Eric au greffe de Nevers (même source copeps). Toujours aucun standard (ni pour Decize ni pour le siège du groupe), aucun DAF/RAF ni comptable identifié ; site web transports-charrier.fr repris de deja, non vérifié. Ne pas confondre avec Transports Rousseau SAS de Cognac (vins et spiritueux) ni avec le Groupe Rousseau automobile (Val-d'Oise). À l'appel : obtenir le standard du Groupe Rousseau (siège dans la Nièvre), demander qui est le responsable administratif et financier du groupe et s'il couvre Transports Charrier, et demander Eric ou Jade Rousseau. 3e passe : 5 recherches (« Transports Charrier » + route des Feuillats + téléphone, site transports-charrier.fr + contact, offres d'emploi France Travail/Indeed, groupe Transports Rousseau + Charrier/Boudet/EF Bennes, site officiel Transports Rousseau) : aucun numéro, ni pour Decize ni pour le groupe Rousseau. Un avis sur gowork.fr (https://gowork.fr/transports-charrier-et-co-decize) signale qu'un numéro publié dans une annonce Pôle emploi était celui d'un particulier : se méfier des numéros d'annonces. Le 05 45 82 15 10 vu dans les résultats est celui de Transports Rousseau SAS à Cognac (homonyme), non retenu.",
+  "dirigeant_principal": {
+   "nom": "Eric Rousseau",
+   "fonction": "Président de GROUPE ROUSSEAU (depuis le 10/03/2016), société présidente de Transports Charrier et Compagnie",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://copeps.fr/actualites/sarl-rousseau-eric/"
+  },
+  "decision": "Au siège du Groupe Rousseau, groupe familial de transport de la Nièvre (Transports Rousseau Eric, immatriculé au greffe de Nevers) : Transports Charrier a été racheté par ce groupe en 2023 et est présidé par la holding GROUPE ROUSSEAU, dirigée par Eric Rousseau avec Jade Rousseau comme DG ; ce type de dépense se décide vraisemblablement au niveau du groupe et non à Decize."
+ },
+ {
+  "siren": "692007768",
+  "standard": {
+   "tel": null,
+   "source": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "GRAPHILYS (SAS, personne morale)",
+   "fonction": "Présidente de SAS (registre) ; aucun DAF/RAF/comptable identifié, ni à Luzy ni au siège de Perpignan",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches (dirigeant de GRAPHILYS, groupe Asteria, direction de GRAPHILYS, site de Luzy, fonctions financières de GRAPHILYS, raison sociale + Luzy). Nouveau : des offres d'emploi Indeed (https://fr.indeed.com/q-administration-des-ventes-l-toulouges-(66)-emplois.html) indiquent que GRAPHILYS (étiquettes adhésives depuis 2002, environ 33 M€ de CA, plus de 60 salariés) a rejoint en 2021 le groupe international ASTERIA, avec des postes basés « sur notre site de production à Luzy (58) ou à notre siège social à Perpignan (66) » ; le site d'Asteria Group (siège en Belgique, filiales en Europe) a une fiche GRAPHILYS (https://asteriagroup.eu/?p=4738). Chaîne de contrôle : Lithopress → GRAPHILYS (Perpignan) → Asteria Group (Belgique). Aucun nom de dirigeant personne physique, de directeur du site de Luzy ni de DAF trouvé ; aucun téléphone ni site web propre (Xerfi https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768 confirme La Maladière, Luzy, CA 2024 7,66 M€). Le CRM n'a toujours aucun numéro : à chercher dans un annuaire (PagesJaunes) avant l'appel. À l'appel : demander le responsable du site de Luzy et le nom du directeur général de GRAPHILYS, et si la décision se prend à Perpignan ou au niveau d'Asteria. 3e passe : 5 recherches (Graphilys + Luzy + La Maladière, « Lithopress » Luzy + téléphone, Graphilys contact/nos sites, fiche Asteria Group France, « Lithopress » + 58170 + « 03 86 ») : aucun numéro, ni pour Luzy ni pour Graphilys (Perpignan) sur une source officielle. Villepratique liste « Lithopress, imprimeur, Maladière, 58170 Luzy » sans téléphone ; la page France d'Asteria (https://asteriagroup.eu/country/france/) n'affiche pas de numéro dans les extraits.",
+  "dirigeant_principal": {
+   "nom": "GRAPHILYS (SAS, personne morale)",
+   "fonction": "Présidente de SAS (registre) ; personne physique qui la représente non identifiée",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768"
+  },
+  "decision": "Hors de la Nièvre, au siège de GRAPHILYS à Perpignan (Pyrénées-Orientales), qui préside Lithopress et présente Luzy comme son site de production ; GRAPHILYS appartient depuis 2021 au groupe belge Asteria, qui pourrait devoir valider une dépense de ce type."
+ },
+ {
+  "siren": "404816712",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "decideur_financier": {
+   "nom": "Xavier BOULOT",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS (aucun DAF/RAF/comptable nommé trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712"
+  },
+  "dirigeant_principal": {
+   "nom": "Xavier BOULOT",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS, elle-même présidente de la SAS CIA Imprimerie (information CRM/registre, non confirmée en ligne)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712"
+  },
+  "adresse": {
+   "adresse": "1A Impasse des Montais, 58320 Pougues-les-Eaux",
+   "source": "https://my.motherbase.ai/company/202689-imprimerie-ciagraphic"
+  },
+  "autres_contacts": [],
+  "format_email_observe": null,
+  "note": "2e niveau : 6 recherches (CIA Graphic + téléphone, « ciagraphic » Nevers, Imprifrance + CIA, « Xavier Boulot » imprimerie, « 2B Finance et Conseils », CIA Imprimerie/CIA Bourgogne 58320) sans numéro, site officiel ni email. Seules sources : Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712 : imprimerie de labeur NAF 18.12Z, siège ZI de Pougues-les-Eaux, établissement « CIA Bourgogne IB Imprimerie », CA 2024 = 7 024 k€) et Motherbase (agrégateur, « Imprimerie CIA Graphic », 1A impasse des Montais, membre du réseau Imprifrance). Le 03 86 90 96 00 vu dans les résultats est celui de la mairie de Pougues, non retenu. Aucune trace en ligne de Xavier Boulot ni de la holding 2B Finance et Conseils : nom du dirigeant à confirmer à l'appel. À faire : trouver le numéro via l'annuaire de l'adhérent Imprifrance ou PagesJaunes (recherche « CIA Graphic » Pougues), puis demander au standard le dirigeant et la personne qui tient la comptabilité (souvent l'assistante de direction / comptable dans une PME de cette taille). 3e passe : 5 recherches (« impasse des Montais » Pougues, « IB Imprimerie »/« CIA Bourgogne » + téléphone, offres d'emploi « CIA Graphic », « ciagraphic » + contact/devis, « CIA Direct »/« CIA Com ») : aucun numéro, site ni email. Seules sources toujours : Xerfi et Motherbase (agrégateur : offset feuille, numérique, façonnage, réseau Imprifrance, travail en 3x8).",
+  "decision": "Décision probablement prise localement à Pougues-les-Eaux par le dirigeant de la holding présidente 2B Finance et Conseils (PME indépendante de ~30 salariés, sans groupe extérieur identifié)."
+ }
+]

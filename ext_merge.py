@@ -750,6 +750,7 @@ RETIRER = {'823687033': ('email',),       # adresse hotmail nominative, introuva
 AUDITEURS = re.compile(r'(KPMG|DELOITTE|MAZARS|ERNST|PRICEWATERHOUSE|GRANT THORNTON|BDO)\b', re.I)
 for c in base + ext:
     for k in RETIRER.get(sid(c.get('siren')), ()): c[k] = None
+    if not c.get('telephone'): c.pop('telephone_a_confirmer', None); c.pop('telephone_groupe', None)
     c.pop('format_email', None)
     c['sources'] = [s for s in (c.get('sources') or []) if 'linkedin.com/in/' not in s]
     if c.get('effectif') == 'NN': c['effectif'] = 'Non employeuse'
