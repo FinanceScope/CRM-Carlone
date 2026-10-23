@@ -1,0 +1,83 @@
+[
+ {
+  "siren": "651880437",
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Seul le communiqué Elsan (source citée) donne le titre de DG délégué aux finances. Traces indirectes cohérentes : départ de Solocal annoncé en août 2024 (AMF/Option Finance) et mention d'un mandat d'administrateur chez Elsan Holding Avignon au 31/12/2024 (Societe.com, non vérifié en détail). Rien de 2025-2026 sur son maintien en poste, mais rien de contradictoire non plus. C'est un DAF de groupe, pas de la polyclinique."
+ },
+ {
+  "siren": "338657604",
+  "decideur_financier": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Vincent Castaing comme CFO de Babeau Seguin : seule source = annuaire ESCP Alumni (source citée). Le lien Styl'Habitat - groupe Babeau Seguin est attesté seulement en 2014 (CV pmebtp.com). Numéro 03 86 36 57 55 : aucune trace indépendante. ForumConstruire situe le siège à Varennes-Vauzelles (agences à Varennes-Vauzelles et Cosne)."
+ },
+ {
+  "siren": "530572775",
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Deux recherches (nom + Nexson, Nexson + Nevers/Garchizy) : aucune trace indépendante de Charles Bonnafous chez Nexson Group."
+ },
+ {
+  "siren": "304890817",
+  "dirigeant_principal": {"verdict": "confirme", "corrige": null, "source": "https://candidat.francetravail.fr/offres/recherche/detail/187YZTK"},
+  "note": "Le Guide Hachette des Vins et une offre France Travail de 2025 (187YZTK ou 189QCKL) indiquent que la maison est dirigée par les fils du fondateur, Arnaud et Laurent Saget. Le titre exact de PDG ne vient que du registre. Arnaud Saget co-dirige."
+ },
+ {
+  "siren": "333222214",
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Seule la fiche Societe.com (source citée) ressort : président de GEFICCA TECHNOLOGIES depuis 2013, président du directoire depuis le 12/01/2024, ancien président du directoire de GEFICCA jusqu'au 02/02/2024. C'est cohérent avec l'affirmation, mais aucune source indépendante ne le confirme."
+ },
+ {
+  "siren": "490935756",
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Aucune trace de Philippe Leuwers hors du communiqué cité. Un article plus ancien du Monde du Droit (entrée d'Isatis Capital, vers 2018) nomme Emmanuel Esnault directeur général, aux côtés du président-fondateur. C'est antérieur à 2024, donc ce n'est pas une contradiction. Le maintien en poste reste à confirmer."
+ },
+ {
+  "siren": "404816712",
+  "dirigeant_principal": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Aucune trace en ligne de Xavier Boulot en lien avec CIA Graphic / CIA Imprimerie (Pougues-les-Eaux)."
+ },
+ {
+  "siren": "301420626",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Deux recherches, numéro introuvable. Kompass donne le siège au 5 rue Denis Papin, 58640 Varennes-Vauzelles, sans téléphone, et cite Sébastien Dumange comme dirigeant."
+ },
+ {
+  "siren": "833243801",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://www.bonial.fr/Magasins/Coulanges-les-Nevers/E-Leclerc-boulevard-Beauregard/v-f247122442"},
+  "note": "Bonial (annuaire indépendant) donne bien 03 86 71 84 10 pour l'E.Leclerc du boulevard Beauregard à Coulanges-lès-Nevers. C'est le numéro du magasin ; le lien SIREN VANAJEF - magasin n'a pas été revérifié."
+ },
+ {
+  "siren": "349431254",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://lesvoitures.fr/adresse/volkswagen-sa-grands-champs-automobiles-nevers/"},
+  "note": "lesvoitures.fr rattache 03 86 36 18 74 au Volkswagen de Nevers (ZAC Grands Champs), sous la raison sociale SA Grands Champs Automobiles. La page partenaire VW « SUMA Nevers » donne la même entité légale. Vérifier que le SIREN 349431254 correspond bien à cette société."
+ },
+ {
+  "siren": "312057318",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Deux recherches, numéro introuvable. L'annuaire des entreprises donne le siège aux Naslots, 58220 Ciez, avec trois établissements (Ciez, Clamecy, La Charité-sur-Loire) et une activité de vente à distance sur catalogue spécialisé."
+ },
+ {
+  "siren": "621880012",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html"},
+  "note": "La liste officielle des ateliers Renault donne +33 3 86 26 81 81 pour Renault Cosne-sur-Loire, 80 avenue du 85e (site Renault-Dacia). L'appartenance au groupe Simonneau n'a pas été vérifiée."
+ },
+ {
+  "siren": "513917922",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Aucune trace indépendante de 03 86 71 62 12 pour le club. Le seul autre numéro trouvé (03 86 21 66 00) est celui de l'EPL de Nevers, partenaire de la section rugby, pas du club. Ce numéro est très proche de celui attribué à Textilot (03 86 71 62 08) : à éclaircir."
+ },
+ {
+  "siren": "479965980",
+  "standard": {"verdict": "confirme", "corrige": null, "source": "https://coparking.ch/en/France/parkings/4443"},
+  "note": "Coparking et Cylex (annuaires indépendants) donnent tous deux 03 86 37 60 71 pour l'Intermarché Super de Challuy (Le Clos Ry, RN7). Cylex indique une autre adresse (route de Lyon), mais le même numéro."
+ },
+ {
+  "siren": "428223531",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Numéro introuvable hors de la source citée. Les annuaires donnent le magasin avenue de Marigny / RN81 route de Nevers, à Sauvigny-les-Bois, sans téléphone fiable (un seul numéro surtaxé de mise en relation)."
+ },
+ {
+  "siren": "950376566",
+  "standard": {"verdict": "non_confirme", "corrige": null, "source": null},
+  "note": "Aucune trace de 03 86 71 09 10 ni de Distance location auto à Varennes-Vauzelles dans les résultats."
+ }
+]

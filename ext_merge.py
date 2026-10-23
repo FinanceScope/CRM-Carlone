@@ -711,7 +711,12 @@ for c in base + ext:
             n_vf['dirigeant corrigé'] += 1
         else:
             del c['contact_dirigeant']; n_vf['dirigeant retiré'] += 1
-    adr, x = ((e.get('adresse') or {}).get('adresse') or '').strip(), v.get('adresse')
+    elif cd and verdict(x) == 'non_confirme':      # signalé seulement s'il diffère du registre et n'a pas de source indépendante
+        au_registre = ' '.join(norm(d.get('nom')) for d in c.get('dirigeants') or [])
+        if not any(len(t) > 3 and norm(t) in au_registre for t in re.split(r'[\s-]+', cd.get('nom') or '')):
+            cd['a_confirmer'] = True; n_vf['dirigeant à confirmer'] += 1
+    ad0 = e.get('adresse')
+    adr, x = ((ad0.get('adresse') if isinstance(ad0, dict) else ad0) or '').strip(), v.get('adresse')
     if adr and c.get('adresse') == adr and verdict(x) == 'contredit':
         c['adresse'] = x['corrige'].strip() if x.get('corrige') else None; n_vf['adresse ' + ('corrigée' if x.get('corrige') else 'retirée')] += 1
     if c.get('autres_contacts'):
