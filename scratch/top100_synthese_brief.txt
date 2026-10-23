@@ -1,0 +1,30 @@
+Context. Two to four business partners based in Cosne-Cours-sur-Loire (Nièvre, France) will phone the 100 largest companies of the Nièvre to sell them original artworks by living artists. Their argument is the French tax deduction of article 238 bis AB of the CGI: a company subject to corporate tax (IS) that buys an original work by a living artist and records it as a fixed asset deducts its price from taxable profit in equal fifths over 5 years (the purchase year and the next 4), within a yearly cap of 20 000 € or 5 ‰ of turnover (HT) if higher, reduced by the year's sponsorship gifts; the work must be displayed free of charge for those 5 years in a place accessible to the public or to all employees (not offices, not a room for a few people); a special reserve is recorded on the balance sheet. The deduction only helps a company that pays tax (profitable). Purchases before 31/12/2028. Validation always goes through the company's accountant.
+
+Absolute rules for everything you write:
+- Never mention Le Vieux Relais, "le M", the partners' own businesses, "nos établissements", or any place where WE would exhibit works. The work is exhibited in the company's own premises.
+- Never use the words "bar", "restaurant", "restaurants" or "chambres" (say "cantine", "espace d'accueil", "salle de pause" instead).
+- Use only facts present in the input record. Never invent a person, a number, an event, a premises feature or a figure. When the input says something is uncertain, keep it uncertain ("à confirmer"). Figures: use the record's art.plafond (yearly deductible cap, €), art.prix_max (5 × cap), art.resultat / art.annee (last profit), art.regime, art.espace_txt.
+- Write in French, plainly and soberly, no flattery, no marketing superlatives, short sentences.
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of full CRM records (one per company), including contact research notes (note_contacts), the place of decision (decision), people (contact_dirigeant, contact_finance, autres_contacts, dirigeants from the registry), phone reliability flags (telephone_a_confirmer, telephone_groupe), old partnership-era notes (angle_partenariat, interlocuteur_cible: background only, the old "partnership / events / meals" logic is obsolete).
+
+For each record produce:
+{"siren": "...",
+ "nom_affiche": the name a caller would recognise, at most 45 characters (brand + town, e.g. "Intermarché Super La Charité", "Renault Cosne (groupe Simonneau)"); must match what the company really is according to the record (careful with corrected records such as LOOK Fixations = Rossignol ski bindings plant),
+ "activite": one short phrase: what this company actually does here,
+ "groupe": current owner / group in a few words ("Indépendante, famille X", "Groupe Y (siège à Z)"), only from the record, "à confirmer" when uncertain,
+ "resume": 2 sentences: who they are, size, site(s) in the Nièvre, how decisions are taken,
+ "angle_art": 2 or 3 sentences: the tailored pitch. Name the concrete place where a work could hang or stand in THEIR premises given their activity (showroom, surface de vente, hall d'accueil, salle d'attente, cantine, salle de pause, entrée de l'usine…), say why it makes sense for them (clients who see it, employees, image, local roots) and give their own figure: "jusqu'à X € déductibles par an" from art.plafond (round to the thousand, use the narrow no-break space or a normal space as thousands separator). If the company is loss-making (art.benefice false) say plainly that the deduction will only help once they are profitable again.
+ "qui_appeler": 1 or 2 sentences: the call path: which number (standard of the site, or group switchboard → ask for the Nièvre site), whom to ask for by name and title (the finance decision-maker if known locally, else the head of the company or site director), and the fallback ("demander le responsable administratif et financier"). If opposition_prospection is true: say "contact direct uniquement, pas de mailing".
+ "vigilance": array of 0 to 4 short points the caller must know (losses, recent takeover, decision at a distant head office, data to confirm on the call, contract at risk, person probably gone, opposition to prospecting…), each one sentence, only from the record,
+ "questions": array of exactly 2 specific questions to ask during the call (about their premises, their tax situation, their accountant, who decides…),
+ "priorite_conseillee": "Haute" | "Moyenne" | "Basse" | "Exclure",
+ "raison": one sentence justifying the priority.
+}
+Priority criteria: "Haute" = profitable company subject to IS, with a decision-maker reachable in the Nièvre (local owner or autonomous site) and a natural place to display a work; "Moyenne" = profitable but the decision is taken at a distant group head office, or data still too uncertain; "Basse" = loss-making, or a pure holding / site with no autonomy and no public or staff area; "Exclure" = public entity or semi-public company (SEM), dedicated company without staff, company in a collective procedure, or no real business. Start from the record's current "priorite" and change it only with a clear reason from the record.
+
+Web search: normally none (everything you need is in the record). At most 1 search per company, and at most 8 in total, only when the activity of the company is genuinely unclear from the record; only WebSearch works (load it with ToolSearch); WebFetch and curl are blocked.
+
+Output: write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE}: an array, one object per input record, in input order. Then check your own output with this command and fix any line it prints:
+python3 -I -c "import json,re,sys; d=json.load(open(sys.argv[1])); bad=re.compile(r'vieux relais|\ble m\b|\bdu m\b|\bau m\b|nos établissements|\bbar\b|\brestaurants?\b|chambres', re.I); [print(x['siren'], k) for x in d for k,v in x.items() if bad.search(json.dumps(v, ensure_ascii=False))]; print(len(d), 'fiches')" <path>
+Do not modify any other file.

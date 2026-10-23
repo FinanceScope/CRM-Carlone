@@ -8,7 +8,7 @@ Règles (BOFiP BOI-BIC-CHG-70-10-20260415, à valider avec l'expert-comptable de
   ou 5 ‰ du CA HT si ce montant est plus élevé, minorée des dons de mécénat (article 238 bis) ;
 - œuvre exposée gratuitement dans un lieu accessible au public ou aux salariés, sauf leurs bureaux ;
 - réserve spéciale au passif du montant déduit."""
-import json, os, re
+import glob, json, os, re
 from collections import Counter
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -56,6 +56,11 @@ def k_eur(n):
     return f"{round(n / 1000):,}".replace(',', ' ') + ' k€' if n < 1e6 else f"{n / 1e6:.1f}".replace('.', ',').replace(',0', '') + ' M€'
 
 companies = json.load(open(SITE + '/companies.json', encoding='utf-8'))
+# fiches consolidées des 100 entreprises du classement initial (top100_synthese.py, relues une par une)
+SYN = {}
+for f in sorted(glob.glob(ROOT + '/ext/top100_synth_out_*.json')):
+    for x in json.load(open(f, encoding='utf-8')):
+        SYN[re.sub(r'\D', '', str(x.get('siren')))[-9:]] = x
 for c in companies:
     ca = c.get('ca_recent') if c.get('ca_recent') is not None else c.get('ca')
     res = c.get('res_recent') if c.get('res_recent') is not None else c.get('resultat')
@@ -89,19 +94,31 @@ for c in companies:
         prio = 'Moyenne'
     else:
         prio = 'Basse'
-    vague = (1 if near else 2 if bassin else 3) if prio == 'Haute' else None
+    syn, exclue = SYN.get(c.get('siren')), False
+    if syn and active:   # priorité revue fiche par fiche (rentabilité, lieu de décision, autonomie du site)
+        pc = syn.get('priorite_conseillee')
+        if pc == 'Exclure': prio, exclue = 'Basse', True
+        elif pc in ('Haute', 'Moyenne', 'Basse'): prio = pc
+    vague = (1 if near else 2 if bassin else 3) if prio == 'Haute' and active else None
     c['art'] = {
         'regime': reg, 'benefice': benef, 'resultat': res, 'ca': ca, 'annee': annee,
         'plafond': plafond, 'prix_max': 5 * plafond, 'economie_max': round(5 * plafond * TAUX_IS),
         'espace': esp, 'espace_txt': ESPACES[esp], 'public': esp in PUBLIC, 'notes': notes,
     }
     c['priorite'], c['vague'] = prio, vague
+    c['exclue'] = exclue
+    c.pop('fiche', None); c.pop('priorite_raison', None)
+    if syn:
+        c['fiche'] = {k: syn.get(k) for k in ('activite', 'groupe', 'resume', 'angle_art', 'qui_appeler', 'vigilance', 'questions', 'priorite_conseillee', 'raison')}
+        c['priorite_raison'] = syn.get('raison')
+        if syn.get('nom_affiche'): c['nom_court'] = syn['nom_affiche'].strip()
     c['offres'] = []
 
 # garde-fou : aucune mention des établissements des associés dans les textes générés
 INTERDIT = re.compile(r"vieux relais|\ble m\b|\bdu m\b|\bau m\b|nos établissements|\bbar\b|\brestaurants?\b|chambres|bar-restaurant", re.I)
 for c in companies:
-    for t in [c['art']['espace_txt']] + c['art']['notes']:
+    textes = [c['art']['espace_txt']] + c['art']['notes'] + [json.dumps(c.get('fiche') or {}, ensure_ascii=False), c.get('nom_court') or '']
+    for t in textes:
         assert not INTERDIT.search(t), (c['rang'], t)
 
 json.dump(companies, open(SITE + '/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
@@ -110,6 +127,7 @@ print('régime', Counter(c['art']['regime'] for c in companies))
 print('espace', Counter(c['art']['espace'] for c in companies))
 print('bénéfice', Counter(c['art']['benefice'] for c in companies))
 print('plafond > 20 k€', sum(1 for c in companies if c['art']['plafond'] > PLANCHER))
+print('fiches consolidées', sum(1 for c in companies if c.get('fiche')), '| exclues', sum(1 for c in companies if c.get('exclue')))
 print('priorités', Counter(c['priorite'] for c in companies), '| vagues', Counter(c['vague'] for c in companies))
 for v in (1, 2, 3):
     print(v, [(c['rang'], c.get('nom_court') or c.get('nom_commercial') or c['nom'], c.get('distance_cosne_km')) for c in companies if c['vague'] == v])

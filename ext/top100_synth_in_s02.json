@@ -1,0 +1,872 @@
+[
+ {
+  "rang": 12,
+  "siren": "399502897",
+  "nom": "HOLDING CASSIER",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "secteur": "Holdings & finance",
+  "description": "Holding de la famille Cassier à Cercy-la-Tour (sud Nièvre), présidente notamment de TC Environnement (récupération/recyclage de déchets triés, sites à Cercy-la-Tour et TC Manutention à Nevers–Saint-Éloi). Le détail des autres activités du groupe (≈71 M€ de CA consolidé) n'a pas été confirmé.",
+  "groupe": "Groupe familial Cassier (filiales dont TC Environnement / TC Manutention)",
+  "ca": 71530000,
+  "resultat": 1452000,
+  "effectif": "10-19",
+  "forme_juridique": "SAS à directoire et conseil de surveillance",
+  "ville": "Cercy-la-Tour",
+  "adresse": "33 avenue Louis Coudant, 58340 Cercy-la-Tour",
+  "code_postal": "58340",
+  "distance_cosne_km": 95,
+  "site_cosne": false,
+  "priorite": "Moyenne",
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1452000,
+   "ca": 71530000,
+   "annee": null,
+   "plafond": 357650,
+   "prix_max": 1788250,
+   "economie_max": 447062,
+   "espace": "groupe",
+   "espace_txt": "Sites du groupe ouverts au public ou aux salariés (à valider)",
+   "public": false,
+   "notes": [
+    "Holding : à aborder avec la tête du groupe, l'œuvre pouvant être exposée dans un site du groupe (à valider)."
+   ]
+  },
+  "dirigeants": [
+   {
+    "nom": "Jean-François CASSIER",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Alain CASSIER",
+    "fonction": "Président du conseil de surveillance"
+   },
+   {
+    "nom": "Luc CASSIER",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Jean-Luc FUMOUX",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Membre du directoire"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-François CASSIER",
+   "fonction": "Président de SAS (registre ; holding du groupe familial TC-Transports)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/399502897"
+  },
+  "contact_finance": {
+   "nom": "Jean-François CASSIER",
+   "fonction": "Président de SAS (registre) — aucun DAF/RAF du groupe TC-Transports nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/399502897"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jean-Luc FUMOUX",
+    "fonction": "Membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/399502897",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/399502897"
+   }
+  ],
+  "decision": "Décision prise à Cercy-la-Tour par la famille Cassier : HOLDING CASSIER est la tête du groupe familial de transport et logistique TC-Transports (créé en 1981, 11 sites, plus de 700 salariés) et de TC Environnement, sans actionnaire extérieur identifié.",
+  "note_contacts": "Aucun résultat en 3 recherches (raison sociale + adresse, nom dans la commune, noms des dirigeants) ; activité opérationnelle du groupe (71,5 M€) non identifiée. Le registre mélange président de SAS et organes de SA à directoire (Alain CASSIER président du conseil de surveillance, Luc CASSIER, J.-L. FUMOUX et P. RACOUCHOT membres du directoire) : liste probablement en partie ancienne. Les membres du directoire hors famille pourraient porter la fonction financière, non vérifié. 2e niveau : 6 recherches. Activité identifiée : HOLDING CASSIER est la holding du groupe familial TC-Transports (transport routier, logistique, stockage, manutention, transport de verre ; « groupe familial français de transports et logistique créé en 1981 », 11 sites en France, plus de 700 salariés) et de TC ENVIRONNEMENT (SAS créée en 2012, présidée par la SARL CASSIER DEVELOPPEMENT, projet de plateforme de broyage de pneus usagés au lieu-dit Les Fourneaux) — source : dossier ICPE PJ11 capacités techniques et financières, préfecture de la Nièvre (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Siège TC-Transports avenue Louis Coudant à Cercy-la-Tour (ContactOut, https://contactout.com/company/TC-TRANSPORTS-6049) ; Railmarket mentionne un bureau commercial à Digoin (71). Aucun numéro ni site officiel trouvé dans les extraits (le numéro PagesJaunes vu concernait une autre société, non retenu) : chercher « TC Transports Cercy-la-Tour » sur PagesJaunes / Google Maps, puis demander le service comptabilité / direction administrative et financière du groupe (avec 700 salariés, un DAF ou RAF groupe existe très probablement ; les membres du directoire Jean-Luc FUMOUX ou Pierre RACOUCHOT pourraient porter la finance — non vérifié). Registre mêlant président de SAS et organes de SA à directoire : à faire préciser. « Ets Cassier Combustibles » et « Cassier Vrac » (rue de la Guette) à Cercy portent le même nom, lien non confirmé. Vérification : Aucun résultat web sur la famille Cassier à Cercy-la-Tour : président confirmé par le registre seulement ; activité opérationnelle toujours non identifiée. Aucun résultat reliant Pierre Racouchot à Holding Cassier. Aucune occurrence de Fumoux associée à Cassier ou à Cercy-la-Tour. Membre du directoire selon le seul registre.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible : groupe basé à ~95 km ; éventuellement prestataire déchets/recyclage plutôt que client.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=HOLDING%20CASSIER&departement=58",
+   "https://recherche-entreprises.api.gouv.fr/search?q=CASSIER&departement=58&per_page=10"
+  ]
+ },
+ {
+  "rang": 13,
+  "siren": "334898277",
+  "nom": "CLAMECY DISTRIBUTION",
+  "nom_commercial": "E.Leclerc Clamecy",
+  "activite": "Commerce de détail",
+  "secteur": "Commerce & distribution",
+  "description": "Société d'exploitation de l'hypermarché E.Leclerc de Clamecy (Haut-Nivernais), magasin indépendant adhérent du Mouvement E.Leclerc.",
+  "groupe": "Mouvement E.Leclerc (adhérent indépendant)",
+  "ca": 52212855,
+  "resultat": 1546945,
+  "effectif": "100-199",
+  "forme_juridique": "SAS",
+  "ville": "Clamecy",
+  "adresse": "2 avenue Saint-Exupéry, 58500 Clamecy",
+  "code_postal": "58500",
+  "distance_cosne_km": 58,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1546945,
+   "ca": 52212855,
+   "annee": null,
+   "plafond": 261064,
+   "prix_max": 1305320,
+   "economie_max": 326330,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 27 17 08",
+  "site_web": "https://www.e.leclerc/mag/e-leclerc-clamecy",
+  "dirigeants": [
+   {
+    "nom": "Letitia BELLANGER",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Letitia BELLANGER",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/334898277"
+  },
+  "contact_finance": {
+   "nom": "Letitia BELLANGER",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/334898277"
+  },
+  "decision": "À Clamecy, chez l'adhérente qui préside la société : le magasin est un adhérent indépendant E.Leclerc et aucune holding ni groupe extérieur n'apparaît.",
+  "note_contacts": "Le numéro vient d'annuaires (au-magasin.fr, site participatif, et Bonial pour le Drive à la même adresse : https://www.bonial.fr/Magasins/Clamecy/E-Leclerc-Drive-Avenue-Antoine-de-Saint-Exupery/v-f542564339). Source faible : la page officielle e.leclerc du magasin n'est pas ressortie. Environ 120 salariés selon une offre d'emploi. Aucun responsable comptable ni RAF nommé publiquement. 2e niveau : 6 recherches. Standard désormais confirmé sur la page officielle du magasin (e.leclerc/mag/e-leclerc-clamecy, avenue Antoine Saint-Exupéry), le même numéro que les annuaires ; la page n'est pas récente, mais le numéro est cohérent partout. Les offres d'emploi décrivent un centre créé en 2005, 120 salariés, plus de 900 000 clients par an, avec un drive à la même adresse. Aucune source publique ne cite Letitia Bellanger (ni sous la graphie Laetitia) : registre non contredit mais non confirmé. Aucun RAF, chef comptable ni assistante de direction nommé ; aucune offre de poste comptable trouvée. Au téléphone : demander la direction du magasin, puis la personne qui tient la comptabilité ; vérifier si la présidente est aussi la directrice opérationnelle. Vérification : La fiche officielle e.leclerc du magasin indique « avenue Antoine Saint Exupéry, 58500 Clamecy, Tél. : 03.86.27.17.08 ». La copie indexée est ancienne (environ 5 ans), mais les annuaires récents donnent le même numéro. Aucun résultat ne nomme Letitia Bellanger. Aucun annuaire indépendant trouvé pour le numéro 03 86 27 17 08 de l'E.Leclerc Clamecy (2 recherches).",
+  "opposition_prospection": false,
+  "angle_partenariat": "Repas d'équipe/fin d'année pour 100+ salariés ; potentiel limité par la distance (~1 h de route).",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=CLAMECY%20DISTRIBUTION&departement=58"
+  ]
+ },
+ {
+  "rang": 14,
+  "siren": "393635230",
+  "nom": "TRANSPORTS ROUSSEAU ERIC",
+  "nom_commercial": "Transports Rousseau",
+  "activite": "Transports terrestres",
+  "secteur": "Transport & logistique",
+  "description": "Transporteur routier basé à Corvol-l'Orgueilleux depuis 1994 (≈360 salariés, groupe de plus de 700) : distribution nationale de palettes, température dirigée, lots complets, vrac, matières dangereuses, transport de fûts et location de véhicules. Établissements ouverts : Corvol-l'Orgueilleux (siège), Clamecy, Bancourt (62) et Saint-Denis-de-Pile (33) ; l'ancien site de La Charité-sur-Loire est fermé depuis 2008. CA 2025 ≈ 50 M€ (résultat net 57 K€).",
+  "actualite": "Index égalité professionnelle de 80/100 en 2025 ; NAO 2025 signée le 29/12/2025 et accord égalité femmes-hommes signé le 24/11/2025 (applicable à partir du 01/06/2026).",
+  "groupe": "Groupe Rousseau",
+  "ca": 49999926,
+  "resultat": 859853,
+  "res_recent": 57093,
+  "effectif": "250-499 (≈360 salariés selon une offre France Travail d'avril 2025 ; groupe de plus de 700)",
+  "forme_juridique": "SAS",
+  "ville": "Corvol-l'Orgueilleux",
+  "adresse": "Quartier de la Gare, 58460 Corvol-l'Orgueilleux",
+  "code_postal": "58460",
+  "distance_cosne_km": 45,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 57093,
+   "ca": 49999926,
+   "annee": null,
+   "plafond": 250000,
+   "prix_max": 1250000,
+   "economie_max": 312500,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Bénéfice modeste (57 k€) : l'économie d'impôt est limitée par le bénéfice plus que par le plafond."
+   ]
+  },
+  "dirigeants": [
+   {
+    "nom": "GROUPE ROUSSEAU (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eric Ernest ROUSSEAU",
+    "fonction": "Autre (dirigeant)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Dirigeant (registre : « Autre ») ; président de la holding Groupe Rousseau, présidente de la SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/393635230"
+  },
+  "contact_finance": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de la holding Groupe Rousseau, présidente de Transports Rousseau Eric",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/393635230"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jade ROUSSEAU",
+    "fonction": "Directrice générale du groupe (source tierce faible, non confirmée)",
+    "tel": null,
+    "email": null,
+    "source": "https://copeps.fr/actualites/sarl-rousseau-eric/",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Dans la Nièvre, au niveau de la holding familiale Groupe Rousseau, présidée par Eric Rousseau, dont le siège a été transféré à Clamecy en 2021 : entreprise familiale sans groupe extérieur.",
+  "note_contacts": "Aucun téléphone ni site officiel trouvé via WebSearch. Le numéro PagesJaunes 05 45 82 15 10 correspond à une autre société, Transports Rousseau SAS à Cognac : à ne pas confondre. Établissement secondaire à Clamecy. Environ 360 salariés, plus de 700 pour le groupe : un DAF ou RAF existe probablement mais n'a pas été identifié publiquement. Le rôle de Jade Rousseau vient d'un site tiers (copeps.fr) : source faible, à vérifier. 2e passe : 3 recherches (Corvol + « 03 86 », Groupe Rousseau Corvol / Clamecy, « Transports Rousseau Eric » téléphone) sans numéro ni site ; seuls réapparaissent l'offre France Travail 191MYKZ et le numéro de Transports Rousseau SAS (Cognac), à ne pas utiliser. 2e niveau : 6 recherches, toujours aucun numéro ni site officiel. Le 05 45 82 15 10 (PagesJaunes) est celui de Transports Rousseau SAS à Cognac, une autre société : ne pas l'utiliser ; le 03 86 29 13 77 est celui de la mairie de Corvol et le 03 86 27 02 51 celui de l'office de tourisme de Clamecy. Selon un annuaire d'entreprises, le siège du groupe a été transféré à Clamecy en 2021 ; établissement secondaire rue Clément Ader à Clamecy (selon copeps.fr). Activités du groupe (offre France Travail 191MYKZ) : distribution de palettes, température dirigée, lots, vrac, matières dangereuses, transport de fûts, location de véhicules ; présent dans la Nièvre depuis 1994, 360 salariés, plus de 700 pour le groupe. Copeps.fr cite Eric Rousseau comme président du groupe et Jade Rousseau comme directrice générale (source faible). Aucun DAF, RAF ni comptable nommé, bien que la taille du groupe en suppose un. Prochaine étape : appeler les renseignements ou passer par l'offre France Travail pour obtenir le standard, puis demander le service comptable ou administratif du groupe. 2e niveau : 6 recherches, toujours aucun numéro ni site officiel. Le 05 45 82 15 10 (PagesJaunes) est celui de Transports Rousseau SAS à Cognac, une autre société : ne pas l'utiliser ; le 03 86 29 13 77 est celui de la mairie de Corvol et le 03 86 27 02 51 celui de l'office de tourisme de Clamecy. Selon un annuaire d'entreprises, le siège du groupe a été transféré à Clamecy en 2021 ; établissement secondaire rue Clément Ader à Clamecy (selon copeps.fr). Activités du groupe (offre France Travail 191MYKZ) : distribution de palettes, température dirigée, lots, vrac, matières dangereuses, transport de fûts, location de véhicules ; présent dans la Nièvre depuis 1994, 360 salariés, plus de 700 pour le groupe. Copeps.fr cite Eric Rousseau comme président du groupe et Jade Rousseau comme directrice générale (source faible). Aucun DAF, RAF ni comptable nommé, bien que la taille du groupe en suppose un. Prochaine étape : appeler les renseignements ou passer par l'offre France Travail pour obtenir le standard, puis demander le service comptable ou administratif du groupe. 3e passe : 5 recherches (site de Clamecy rue Clément Ader, « Groupe Rousseau » transports Clamecy, offres d'emploi Corvol, Rousseau + 58460 + 03 86, « Transports Rousseau Eric » + standard) sans aucun numéro ni site officiel. L'offre France Travail 191MYKZ nomme Mme Colette Cendre comme contact de recrutement, sans téléphone. Le seul numéro rencontré, le 05 45 82 15 10, est celui de Transports Rousseau SAS à Cognac, une autre société. Standard toujours manquant. Vérification : « Eric Rousseau » + Transports Rousseau Corvol : les résultats (offre France Travail, travail-industrie.com, copeps.fr) ne nomment aucun dirigeant. La fiche Pappers d'un Eric Rousseau né en 1960 concerne une société forestière de la Creuse : homonyme probable, sans lien établi. Son titre de président de la holding Groupe Rousseau n'est pas confirmé. Recherche « Jade Rousseau » + Transports Rousseau + Corvol : aucun résultat. Seul ressort un homonyme d'entreprise (Transports Rousseau SAS à Cognac, sans rapport). Source tierce faible non recoupée.",
+  "corrections": [
+   "L'établissement de La Charité-sur-Loire est fermé depuis le 30/04/2008 : retiré de la description et de l'angle (qui reposait sur ce site)",
+   "Résultat : 860 K€ correspond à 2022 ; exercice 2025 = CA 50,0 M€, résultat net 57 K€ (le CA 2024 de 46 M€ est remplacé par le chiffre 2025)",
+   "Priorité Moyenne ramenée à Basse : aucun site près de Cosne"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Siège à ≈45 km (Corvol-l'Orgueilleux) et site de Clamecy, aucun établissement près de Cosne : repas de fin d'année ou séminaires possibles, mais l'éloignement limite l'intérêt (pas de chauffeurs basés près de Cosne).",
+  "interlocuteur_cible": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Dirigeant (la holding Groupe Rousseau est présidente de la société)",
+   "source": "https://www.pappers.fr/entreprise/transports-rousseau-eric-393635230"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=TRANSPORTS%20ROUSSEAU%20ERIC",
+   "https://travail-industrie.com/employeurs/transports-rousseau-eric-393635230",
+   "https://recherche-entreprises.api.gouv.fr/search?q=transports%20rousseau&code_postal=58460",
+   "https://www.pappers.fr/entreprise/transports-rousseau-eric-393635230",
+   "https://candidat.francetravail.fr/offres/recherche/detail/191MYKZ",
+   "https://www.webvilles.net/itineraire/58085-corvol-l-orgueilleux.php"
+  ]
+ },
+ {
+  "rang": 15,
+  "siren": "523229268",
+  "nom": "SIMONNEAU AUTOMOBILES",
+  "nom_commercial": "Renault / Dacia Nevers – Simonneau Automobiles",
+  "nom_court": "Renault Nevers (groupe Simonneau)",
+  "activite": "Commerce et réparation automobile",
+  "secteur": "Automobile",
+  "description": "Concession Renault et Dacia de Nevers, implantée ZA Les Commailles à Varennes-Vauzelles (2 rue Léonard de Vinci), avec un atelier 2 rue Gay-Lussac et le site Renault de Saint-Léger-des-Vignes (173 route nationale, agglomération de Decize) ; filiale du groupe familial Simonneau, né de la concession Renault de Cosne-Cours-sur-Loire (1970) et présent dans la Nièvre, le Cher, l'Indre et l'Allier (12 sites en 2020 selon L'argus).",
+  "actualite": "Comptes 2025 : CA 43,7 M€ (-2,1 %) et résultat net 549 K€ ; 91 salariés en 2024.",
+  "groupe": "Groupe Simonneau (holding Philippe Simonneau Holding, Saint-Doulchard (18), présidée par Philippe Simonneau ; environ 385 salariés et 12 sites selon L'argus, déc. 2020)",
+  "ca": 44612109,
+  "resultat": 539507,
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZA Les Commailles, 2 rue Léonard de Vinci, 58640 Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 539507,
+   "ca": 44612109,
+   "annee": null,
+   "plafond": 223061,
+   "prix_max": 1115305,
+   "economie_max": 278826,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 93 00 00",
+  "email": "contact@groupesimonneau.fr",
+  "site_web": "https://www.renault-nevers.fr",
+  "dirigeants": [
+   {
+    "nom": "PHILIPPE SIMONNEAU HOLDING (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Philippe SIMONNEAU",
+   "fonction": "Dirigeant du groupe Simonneau, président de Philippe Simonneau Holding (présidente de la SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "contact_finance": {
+   "nom": "Philippe SIMONNEAU",
+   "fonction": "Dirigeant du groupe Simonneau, président de Philippe Simonneau Holding (présidente de la SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre SIMONNEAU",
+    "fonction": "Directeur adjoint du groupe (entré en 2018, fils du dirigeant)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement à la holding familiale Philippe Simonneau Holding (Saint-Doulchard, Cher), qui préside la société et pilote les sites Renault/Dacia du groupe dans la Nièvre et le Cher.",
+  "note_contacts": "Le standard et l'e-mail viennent des données existantes ('deja') ; aucun extrait WebSearch ne les confirme ni ne les contredit, d'où une source nulle. Aucun DAF ou RAF du groupe identifié. Selon BuiltWith, le siège du groupe serait à Saint-Doulchard (18), où la fonction finance est probablement centralisée. 2e niveau : 6 recherches sans résultat nouveau. Ni le standard 03 86 93 00 00 ni l'e-mail contact@groupesimonneau.fr n'apparaissent dans les extraits (ni page renault.fr de la concession de Varennes-Vauzelles, ni site groupesimonneau.fr indexé) : ils restent à confirmer. Philippe Simonneau reste le seul dirigeant nommé (L'argus) ; aucun DAF, RAF, chef comptable ni directeur de concession trouvé. Pappers rattacherait un établissement de la société à Saint-Léger-des-Vignes (Renault Decize, page renault.fr dwsShortName=decize) : vérifier quel site correspond au SIREN. À demander à l'appel : le nom du directeur de la concession de Nevers et du responsable administratif et financier du groupe (probablement au siège de Saint-Doulchard). Vérification : La liste officielle des ateliers Renault donne le +33 3 86 93 00 00 pour « RENAULT NEVERS », 2 rue Léonard de Vinci (adresse de la société). L'e-mail contact@groupesimonneau.fr est introuvable ; BuiltWith rattache le groupe au domaine groupe-simonneau.fr (avec tiret, Saint-Doulchard). Le nom de domaine enregistré est donc douteux : à ne pas utiliser sans vérification. Pour Philippe Simonneau, seul l'article de L'argus déjà cité ressort ; cela reste cohérent avec le registre (Philippe Simonneau Holding présidente), rien de contraire. La recherche ne fait ressortir que l'article L'argus déjà cité, centré sur Philippe Simonneau (dirigeant du groupe). Aucune trace indépendante de Pierre Simonneau ni de son poste de directeur adjoint.",
+  "corrections": [
+   "Description : « compte 12 sites … sous marques Nissan, Mazda et Volvo » reprenait des données de 2020 (L'argus) présentées au présent ; désormais datées"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Groupe historiquement cosnois (Renault Cosne) : soirées clients, lancements de véhicules, repas d'équipe ; contacter la direction du groupe pour un partenariat multi-sites.",
+  "interlocuteur_cible": {
+   "nom": "Philippe Simonneau",
+   "fonction": "Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société) ; son fils Pierre Simonneau était directeur adjoint du groupe en 2020",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) + L'argus, 09/12/2020"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=SIMONNEAU%20AUTOMOBILES",
+   "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html",
+   "https://recherche-entreprises.api.gouv.fr/search?q=523229268",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SIMONNEAU&departement=58&per_page=25",
+   "https://www.pappers.fr/entreprise/523229268",
+   "https://www.renault-nevers.fr/"
+  ]
+ },
+ {
+  "rang": 16,
+  "siren": "422593491",
+  "nom": "TOYOTA CONCES NEVERS CENTRAL PARC AUTOMOBILE",
+  "nom_commercial": "Toyota Nevers / Central Parc Automobile",
+  "activite": "Commerce et réparation automobile",
+  "secteur": "Automobile",
+  "description": "Concessions Toyota du Groupe Vincent : Nevers/Varennes-Vauzelles, Saint-Doulchard (Bourges), Avermes (Moulins) et Montluçon.",
+  "groupe": "Groupe Vincent",
+  "ca": 44575907,
+  "resultat": 980611,
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "1 route de Paris, 58640 Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 980611,
+   "ca": 44575907,
+   "annee": null,
+   "plafond": 222880,
+   "prix_max": 1114400,
+   "economie_max": 278600,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 71 69 00",
+  "email": "cpa@groupevincent.fr",
+  "site_web": "https://www.groupevincent.fr",
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS, dirigeant du groupe Vincent",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/422593491"
+  },
+  "contact_finance": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS, dirigeant du groupe Vincent",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/422593491"
+  },
+  "decision": "Probablement chez Rodolphe Vincent, à la tête du groupe Vincent (environ 16 concessions Peugeot, Citroën/DS et Toyota dans la Nièvre, le Cher, l'Allier et le Loiret) : groupe familial régional, dont le berceau est Nevers depuis 2011, sans siège extérieur identifié.",
+  "note_contacts": "Le numéro et l'e-mail viennent de la fiche officielle du concessionnaire sur toyota.fr (fax 03 86 71 69 09). Société (CPA) rattachée au groupe Vincent de Rodolphe Vincent (concessions Toyota ; rachat d'un site Citroën/DS dans le Cher selon journalauto.com). Aucun DAF ou responsable comptable du groupe identifié. 2e niveau : standard 03 86 71 69 00 et e-mail cpa@groupevincent.fr confirmés par la fiche officielle Toyota France de Central Parc Automobile (fax 03 86 71 69 09). Rodolphe Vincent, président selon le registre, est aussi présenté comme le patron du groupe par Journal de l'Automobile (articles 2013-2019 : environ 170 M€ de CA et 367 salariés en 2018). Aucune source plus récente que 2019, et aucun DAF, chef comptable, contrôleur de gestion ni directeur de concession trouvé (recherches presse, LinkedIn et offres d'emploi). À demander au standard : le nom du directeur de la concession Toyota de Nevers et celui du responsable administratif et financier du groupe, ainsi que la ville où il travaille (Nevers ou Bourges/Saint-Doulchard). Vérification : Le téléphone et l'e-mail sont repris par d'autres pages du site officiel Toyota (réseau), et non par une source tierce. Une recherche sur cpa@groupevincent.fr seul ne donne rien d'autre ; BuiltWith situe bien groupevincent.fr à Varennes-Vauzelles. Le Journal de l'Automobile (2016) indique que la société CPA de Rodolphe Vincent exploite la concession Toyota de la Nièvre. Le 03 86 71 69 00 n'apparaît que sur toyota.fr (la source citée ; fax 03 86 71 69 09, mail cpa@groupevincent.fr). Un annuaire (justacote) confirme la concession au 1 route de Paris, mais pas le numéro. Une fiche Mappy indique « fermé » : à revérifier.",
+  "corrections": [
+   "Résultat net 2025 au registre : 719 269 € (le 980 611 € de la fiche correspond à un autre exercice que le CA 2025 de 44,6 M€)"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "À traiter avec le Groupe Vincent (même dirigeant) : événements clients et soirées d'équipe.",
+  "interlocuteur_cible": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=TOYOTA%20CONCES%20NEVERS%20CENTRAL%20PARC%20AUTOMOBILE",
+   "https://www.groupevincent.fr",
+   "https://recherche-entreprises.api.gouv.fr/search?q=422593491",
+   "https://journalauto.com/distribution/le-groupe-vincent-se-renforce-chez-toyota/"
+  ]
+ },
+ {
+  "rang": 17,
+  "siren": "509948659",
+  "nom": "VELORIS FR SAS",
+  "nom_commercial": "Veloris (ex-Ecobat Battery / Manbat France / BAT)",
+  "activite": "Commerce de gros",
+  "secteur": "Commerce & distribution",
+  "description": "Filiale française d'un distributeur européen de batteries multimarques (auto, poids lourds, industrie, loisirs), siège à Varennes-Vauzelles (Manbat France) et agences « BAT – Batteries Accus Technologies » dans le sud de la France.",
+  "actualite": "En 2025, Ecobat Battery a été cédé au fonds Endless LLP et rebaptisé Veloris – The Battery Partner.",
+  "groupe": "Veloris (ex-Ecobat Battery, cédé en 2025 à Endless LLP)",
+  "ca": 41437953,
+  "resultat": -3111,
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "8 rue Édouard Branly, 58640 Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -3111,
+   "ca": 41437953,
+   "annee": null,
+   "plafond": 207190,
+   "prix_max": 1035950,
+   "economie_max": 258988,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "site_web": "https://veloris.com",
+  "dirigeants": [
+   {
+    "nom": "Russell Sinclair MCBURNIE",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Russell McBURNIE",
+   "fonction": "Président de SAS (CEO du groupe Veloris, ex-directeur général d'Ecobat Battery)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.batteriesinternational.com/?p=21668"
+  },
+  "contact_finance": {
+   "nom": "Russell McBURNIE",
+   "fonction": "Président de SAS (CEO du groupe Veloris) — aucun responsable financier France identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/509948659"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Frédéric LEVERT-FREBAULT",
+    "fonction": "Directeur de BAT – Batteries Accus Technologies (Varennes-Vauzelles) lors du rachat par Ecobat en 2014 ; fonction actuelle non confirmée",
+    "tel": null,
+    "email": null,
+    "source": "https://www.catmag.co.uk/news/manbat-and-french-compatriots-bat-join-forces",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au siège du groupe Veloris au Royaume-Uni (CEO Russell McBurnie, actionnaire le fonds britannique Endless LLP) : la filiale de Varennes-Vauzelles est un centre de distribution d'environ 20-49 salariés sans dirigeant français identifié.",
+  "note_contacts": "Ex-Ecobat Battery France / Manbat France : cédée par Ecobat Group à Endless LLP en juin 2025 puis renommée Veloris (https://aftermarketinsight.spglobal.com/news/4949/independent-battery-distributor-ecobat-battery-relaunches-as-veloris). Filiale française installée dans de nouveaux locaux à Varennes-Vauzelles en février 2025 (https://j2rauto.com/rechange/ecobat-battery-passe-sous-le-giron-dendless-pour-accelerer-son-developpement) ; Xerfi indique encore l'ancienne adresse 8 rue Denis Papin et 5 autres établissements. Président = dirigeant du groupe (basé au Royaume-Uni, siège Shrewsbury) : interlocuteur peu accessible localement ; aucun responsable finance ou directeur France trouvé (3 recherches). Aucun numéro français trouvé. 2e niveau : 6 recherches. Aucun numéro de standard ni email trouvé pour le site de Varennes-Vauzelles (ni sur veloris.com dans les extraits, ni dans les annuaires ; un ECO-BAT de Mâcon sur PagesJaunes est une autre société). Siège confirmé au 8 rue Édouard Branly par une annonce légale du 30/09/2026 : VELORIS FR SAS (ex-MANBAT FRANCE, RCS Nevers) a racheté le fonds de LA MAISON DE LA BATTERIE (https://www.lagazettefrance.fr/annonce-legale/20261016163102-204525-000091523284) — la société est donc en croissance externe. Relance d'Ecobat Battery sous la marque Veloris (23 hubs UK, Irlande, France, Pays-Bas, Belgique, Espagne ; https://endlessllp.com/investments/veloris/). Registre cohérent (Russell McBurnie président). Frédéric Levert-Frebault dirigeait BAT (Batteries Accus Technologies, filiale française reprise par Ecobat en 2014) : à vérifier s'il est toujours en poste comme directeur France. À demander à l'appel : le nom du directeur France / responsable du site et de la personne qui tient la comptabilité française (souvent pilotée depuis le Royaume-Uni). Vérification : Seul l'article catmag de 2014 (rachat de BAT par Ecobat) ressort ; aucune trace récente, et Ecobat a depuis cédé ses activités françaises : fonction actuelle inconnue.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible : petite équipe locale ; éventuels déjeuners d'affaires.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=VELORIS%20FR",
+   "https://veloris.com/about-us/"
+  ]
+ },
+ {
+  "rang": 18,
+  "siren": "507757672",
+  "nom": "DECIZE DISTRIBUTION",
+  "nom_commercial": "E.Leclerc Decize",
+  "activite": "Commerce de détail",
+  "secteur": "Commerce & distribution",
+  "description": "Société d'exploitation de l'hypermarché E.Leclerc de Decize (route de Champvert), avec station-service, drive et Leclerc Sports.",
+  "groupe": "Mouvement E.Leclerc (adhérent indépendant)",
+  "ca": 40020643,
+  "resultat": 315761,
+  "effectif": "100-199",
+  "forme_juridique": "SAS",
+  "ville": "Decize",
+  "adresse": "Route de Champvert, 58300 Decize",
+  "code_postal": "58300",
+  "distance_cosne_km": 90,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 315761,
+   "ca": 40020643,
+   "annee": null,
+   "plafond": 200103,
+   "prix_max": 1000515,
+   "economie_max": 250129,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 25 50 00",
+  "telephone_a_confirmer": true,
+  "dirigeants": [
+   {
+    "nom": "Jean-François MARTIN",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Laetitia MARTIN (GAGNE)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-François MARTIN",
+   "fonction": "Président de SAS (adhérent E.Leclerc)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/507757672"
+  },
+  "contact_finance": {
+   "nom": "Jean-François MARTIN",
+   "fonction": "Président de SAS (adhérent E.Leclerc)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/507757672"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Laetitia MARTIN (GAGNE)",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/507757672",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Sur place à Decize : magasin d'un adhérent indépendant E.Leclerc, dirigé par le couple Martin (président et directrice générale), qui décide seul de ses achats hors centrale.",
+  "note_contacts": "Le numéro ne figure que sur Custplace, un agrégateur d'avis : source faible, non recoupée, la page officielle e.leclerc n'étant pas ressortie. Environ 90 salariés et centre créé en 1988 selon une offre Wizbii (https://www.wizbii.com/company/leclerc/job/secretaire-comptable-h-f-1171). Aucun responsable comptable nommé ; l'offre de secrétaire comptable laisse penser que la comptabilité est gérée en interne. 2e niveau : 6 recherches. Le 03 86 25 50 00 n'apparaît toujours que sur Custplace (annuaire d'avis), la page officielle e.leclerc du magasin n'est pas indexée : à confirmer au premier appel. Aucune source récente (presse locale, LinkedIn) ne confirme ni ne contredit le registre (Jean-François Martin président, Laetitia Martin directrice générale). Aucun responsable comptable nommé ; l'offre Wizbii de secrétaire comptable montre une comptabilité tenue sur place (environ 90 salariés, centre créé en 1988). La station-service porte le nom « Leclerc DECIZE DISTRIBUTION » (l-itineraire.com), ce qui confirme la raison sociale du site. À demander à l'accueil : le nom de la personne chargée de la comptabilité et le créneau pour joindre M. ou Mme Martin. Vérification : Deux recherches n'ont fait ressortir le 03 86 25 50 00 que sur Custplace, la source déjà citée. Aucune page officielle e.leclerc ni aucun autre annuaire ne le reprend. Aucun résultat ne nomme Jean-François Martin. Recherche « Laetitia Martin » + Leclerc + Decize : aucun résultat ne la cite (fiches du magasin seulement). Registre seul.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible : trop éloigné de Cosne pour des repas d'équipe réguliers.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=DECIZE%20DISTRIBUTION",
+   "https://www.l-itineraire.com/stations_service/decize/decize-distribution",
+   "https://www.tiendeo.fr/Magasins/decize/leclerc-sports-route-de-champvert/319796"
+  ]
+ },
+ {
+  "rang": 19,
+  "siren": "349431254",
+  "nom": "GRANDS CHAMPS AUTOMOBILES",
+  "nom_commercial": "SUMA (Volkswagen, VW Utilitaires, SEAT, Cupra, Škoda) Nevers & Volkswagen Cosne",
+  "nom_court": "SUMA Volkswagen (Nevers et Cosne)",
+  "activite": "Commerce et réparation automobile",
+  "secteur": "Automobile",
+  "description": "Société du groupe SUMA qui exploite, sous l'enseigne SUMA, le pôle Volkswagen Group de la ZAC des Grands Champs à Nevers (Volkswagen, VW Utilitaires, SEAT, Cupra, Škoda – 41 bd du Grand Pré des Bordes) et le site SUMA Volkswagen de Cosne-Cours-sur-Loire (1 rue des Gabarriers : vente Volkswagen, après-vente SEAT, Škoda et VW Utilitaires). Seuls deux établissements sont ouverts (siège de Nevers et Cosne) : les anciens sites cosnois de l'avenue du 85e de Ligne (fermé en 2014) et du 7 rue Bernot (fermé en 1998), ainsi que celui de Decize (fermé en 2013), n'existent plus. Audi Nevers relève d'une autre société du groupe (Nevers Premium Motors).",
+  "actualite": "CA 2024 de 38,4 M€ (-1,5 %) pour un résultat net de 524 K€ (comptes déposés en janvier 2026).",
+  "groupe": "Groupe SUMA (concessions VW Group et autres marques ; Nièvre, Saône-et-Loire, Allier, Ain, Rhône)",
+  "ca": 38965411,
+  "resultat": 523846,
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "ville": "Nevers",
+  "adresse": "ZAC rue des Grands Champs, 58000 Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "site_cosne": true,
+  "site_local": "SUMA Volkswagen Cosne (vente VW ; après-vente SEAT, Škoda, VW Utilitaires) – 1 rue des Gabarriers, 58200 Cosne-Cours-sur-Loire (établissement RCS « Champ du Tremblat », SIRET 349 431 254 00060) – 03 58 05 30 30",
+  "priorite": "Haute",
+  "vague": 1,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 523846,
+   "ca": 38965411,
+   "annee": null,
+   "plafond": 194827,
+   "prix_max": 974135,
+   "economie_max": 243534,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 36 18 74",
+  "site_web": "https://www.suma-auto.com",
+  "dirigeants": [
+   {
+    "nom": "Richard VIVES",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Richard VIVES (Vivès)",
+   "fonction": "Président de SAS (dirige le groupe SUMA / SUMA Invest, Limonest)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"
+  },
+  "contact_finance": {
+   "nom": "Richard VIVES (Vivès)",
+   "fonction": "Président de SAS (aucun DAF/RAF nommé trouvé ; finance centralisée chez SUMA Invest à Limonest)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/349431254",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision probablement prise au siège du groupe SUMA (holding SUMA Invest, Limonest, Rhône) par Richard Vivès : la concession de Nevers est l'une des 26 affaires du groupe et les fonctions finance (RAF, contrôle de gestion) sont recrutées au niveau de SUMA Invest.",
+  "note_contacts": "Concession du groupe SUMA (26 sites, ~370 salariés, siège 210 chemin de Paisy, Limonest). La fonction finance est centralisée au niveau groupe (SUMA INVEST, Limonest : offre de RAF vue sur France Travail https://candidat.francetravail.fr/offres/recherche/detail/189JCTR et fiche https://gowork.fr/suma-invest-limonest/salary) mais aucun nom de DAF/RAF trouvé. Standard confirmé par la page partenaire Volkswagen et lesvoitures.fr. Aucun email générique publié trouvé. 2e niveau : standard 03 86 36 18 74 confirmé sur la page partenaire officielle Volkswagen (SUMA Nevers, lun-ven 8h30-12h/14h-19h, sam 9h-12h/14h-18h) ; la concession recrute sous le nom « GCA Nevers ». Richard Vivès toujours cité comme dirigeant du groupe SUMA (presse auto 2023, pas de source plus récente) ; registre cohérent. Aucun DAF/RAF nommé : offres de RAF et de contrôleur de gestion publiées par SUMA INVEST (Limonest, https://gowork.fr/suma-invest-limonest/salary), donc finance groupe à Limonest. Rôle d'Eddy Michel (DG délégué) non documenté en ligne. Aucun email générique publié. À demander à l'appel : nom du directeur de la concession de Nevers et du responsable administratif et financier de SUMA Invest à Limonest ; vérifier que le standard est bien celui de la concession (ZAC des Grands Champs vs bd des Grands-Prés-des-Bordes selon les annuaires). Vérification : Lesvoitures.fr lie le 03 86 36 18 74 à « Volkswagen SA Grands Champs Automobiles », ZAC Grands Champs, Nevers ; la page volkswagen.fr citée n'est pas ressortie. Leboncoin et Mappy placent SUMA Nevers au 41 bd du Grand Pré des Bordes (adresse non vérifiée). Eddy Michel : dirigeant du registre, aucune trace de départ. Richard Vivès est cité comme président du groupe SUMA par Caradisiac et Journal de l'Automobile. L'argus (2025) et d'autres articles du Journal de l'Automobile confirment que Richard Vivès dirige le groupe Suma (Limonest), présent en Nièvre. Le mandat de président de cette SAS en nom propre n'est pas vérifié (la présidente peut être la holding SUMA INVEST). lesvoitures.fr rattache 03 86 36 18 74 au Volkswagen de Nevers (ZAC Grands Champs), sous la raison sociale SA Grands Champs Automobiles. La page partenaire VW « SUMA Nevers » donne la même entité légale. Vérifier que le SIREN 349431254 correspond bien à cette société. Recherche nom + Volkswagen Nevers + SUMA : SUMA Nevers bien identifiée (VW, Seat, Skoda, Cupra à Nevers et Cosne), mais Eddy Michel n'est cité nulle part. Repose sur le seul registre.",
+  "corrections": [
+   "Les établissements cosnois de l'avenue du 85e de Ligne (« Audi Grands Champs Automobiles ») et du 7 rue Bernot (« GC Auto ») étaient présentés comme actifs : fermés respectivement le 31/07/2014 et le 02/03/1998 ; l'établissement de Decize est fermé depuis le 30/04/2013",
+   "Le seul site actif à Cosne est SUMA Volkswagen, 1 rue des Gabarriers (RCS : Champ du Tremblat) – il n'y a pas d'Audi à Cosne",
+   "Audi Nevers n'est pas exploité par cette société mais par Nevers Premium Motors (SIREN 529 213 050, même groupe SUMA) : Audi retiré du nom commercial et de l'angle"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Présence directe à Cosne (SUMA Volkswagen, 1 rue des Gabarriers) : soirées clients et lancements de modèles Volkswagen, déjeuners d'équipe et remises pour le personnel du site cosnois ; la même direction (Richard Vives / Eddy Michel) pilote aussi Audi Nevers via Nevers Premium Motors (rang 43), d'où un possible partenariat élargi.",
+  "interlocuteur_cible": {
+   "nom": "Eddy Michel",
+   "fonction": "Directeur général délégué (aussi DG délégué de Nevers Premium Motors – Audi Nevers) ; président : Richard Vives",
+   "source": "Registre national des entreprises (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GRANDS%20CHAMPS%20AUTOMOBILES",
+   "https://www.leboncoin.fr/boutique/7579/suma_nevers.htm",
+   "https://www.suma-auto.com/",
+   "https://www.justacote.com/cosne-cours-sur-loire-58200/concessionnaire/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=349431254",
+   "https://recherche-entreprises.api.gouv.fr/search?q=GRANDS%20CHAMPS%20AUTOMOBILES&code_postal=58200"
+  ]
+ },
+ {
+  "rang": 20,
+  "siren": "775732811",
+  "nom": "EUROSIT",
+  "nom_commercial": "Eurosit",
+  "activite": "Fabrication de meubles",
+  "secteur": "Bois & forêt",
+  "description": "Fabricant français de sièges de bureau (sièges ergonomiques, gamme E8…) basé dans la ZI de Nevers–Saint-Éloi depuis 1954, avec showroom à Paris (rue d'Anjou) et agences commerciales (Boulogne, Lyon). CA 2024 de 32,3 M€ (en baisse vs 36,9 M€ en 2023).",
+  "actualite": "Chiffre d'affaires 2024 en recul (32,3 M€ contre 36,9 M€ en 2023).",
+  "groupe": "Actionnaire administrateur : SOFIKOA SAS",
+  "ca": 37049625,
+  "resultat": 1280131,
+  "ca_recent": 30785528,
+  "res_recent": 849504,
+  "annee_recent": "2025",
+  "effectif": "100-199",
+  "forme_juridique": "SA à conseil d'administration",
+  "ville": "Saint-Éloi",
+  "adresse": "ZI de Nevers – Saint-Éloi, 58000 Saint-Éloi",
+  "code_postal": "58000",
+  "distance_cosne_km": 60,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 849504,
+   "ca": 30785528,
+   "annee": "2025",
+   "plafond": 153928,
+   "prix_max": 769640,
+   "economie_max": 192410,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 21 68 00",
+  "telephone_a_confirmer": true,
+  "site_web": "http://www.eurosit.fr",
+  "dirigeants": [
+   {
+    "nom": "Timothée ACHERITOGARAY",
+    "fonction": "Président du conseil d'administration"
+   },
+   {
+    "nom": "Massimiliano PRESTIFILIPPO",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Massimiliano PRESTIFILIPPO",
+   "fonction": "Directeur Général",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/775732811"
+  },
+  "contact_finance": {
+   "nom": "Massimiliano PRESTIFILIPPO",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/775732811"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Timothée ACHERITOGARAY",
+    "fonction": "Président du conseil d'administration (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/775732811",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au siège du groupe Sokoa à Hendaye (Pyrénées-Atlantiques), via sa holding Sofikoa, actionnaire d'Eurosit : le directeur général de Nevers peut porter le dossier, mais la validation remonterait au groupe.",
+  "note_contacts": "Le numéro vient de la fiche Usine Nouvelle (annuaire), non confirmé sur eurosit.fr. Le site et l'adresse postale (10 rue Georges Dufaud, BP 11, 58028 Nevers Cedex) viennent de la fiche Maison&Objet (https://mom.maison-objet.com/en/brand/13415/eurosit), qui donne aussi un service client à Paris : 01 44 29 03 52. Environ 135 salariés, usine à Nevers depuis 1973. Aucun DAF ni contrôleur de gestion identifié via WebSearch. 2e niveau : Eurosit appartient au groupe Sokoa (mobilier de bureau, plus de 100 M€ de CA consolidé, siège 26 route de Behobie à Hendaye, avec Genexco et Sellex) selon motherbase.ai et Xerfi ; l'actionnaire SOFIKOA SAS est très probablement la holding de ce groupe. Le standard 03 86 21 68 00 ne vient toujours que de la fiche Usine Nouvelle (annuaire), il n'apparaît sur aucune page eurosit.fr indexée. Aucune source récente ne confirme ni ne contredit le registre (Massimiliano Prestifilippo DG, Timothée Acheritogaray président du conseil). Xerfi cite aussi Sébastien Paulini et Michel Videgain parmi les mandataires, sans fonction claire. Aucun DAF, RAF ni contrôleur de gestion trouvé, ni chez Eurosit ni chez Sokoa. CA 2024 d'environ 32 M€ selon Xerfi (en baisse). À demander au standard : le nom du responsable administratif et financier du site de Nevers, ou à défaut celui du DAF du groupe Sokoa à Hendaye. Vérification : Trois recherches n'ont fait ressortir le 03 86 21 68 00 que sur la fiche Usine Nouvelle déjà citée, et non sur eurosit.fr. « Prestifilippo » + Eurosit ne donne aucun résultat pertinent. Aucun résultat pour ce nom associé à Eurosit.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Repas d'équipe pour ~150 salariés ; éventuellement fournisseur local de mobilier et de sièges plutôt que client.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=EUROSIT",
+   "https://www.xerfi.com/etudes-par-entreprise/eurosit_775732811"
+  ]
+ },
+ {
+  "rang": 21,
+  "siren": "530572775",
+  "nom": "NEXSON GROUP - INDUSTRY",
+  "nom_commercial": "Nexson Group",
+  "activite": "Fabrication de machines et équipements",
+  "secteur": "Industrie",
+  "description": "Concepteur et fabricant d'échangeurs de chaleur sur mesure (spiralés, à plaques soudées, plaques et calandre, tubulaires, PCHE) pour le raffinage, la papeterie, la réfrigération et la chimie. Environ 98 % du chiffre d'affaires réalisé à l'export, plus de 1 000 clients dans plus de 80 pays.",
+  "actualite": "En mars 2024, Nexson Group a racheté l'allemand Thermowave GmbH (échangeurs à plaques pour CVC et froid industriel, cédé par Güntner / groupe A-Heat). Second établissement au 680 rue Jules Verne à Garchizy (octobre 2022) et nouvel établissement ouvert le 03/10/2025 dans la ZI Nevers-Garchizy (11 rue Joseph-Marie-Jacquard, Varennes-Vauzelles) ; Nexson Corporation présidente depuis le 01/09/2025 ; l'entreprise donne son nom au « Nevers Marathon by Nexson » (21-22 novembre 2026, calendrier du circuit de Nevers Magny-Cours).",
+  "groupe": "Nexson Group (Nexson Corporation)",
+  "ca": 31406878,
+  "resultat": 1807536,
+  "ca_recent": 26799673,
+  "effectif": "100-199 (131 salariés selon L'industrie recrute)",
+  "forme_juridique": "SAS",
+  "ville": "Garchizy",
+  "adresse": "685 rue Jules Verne, 58600 Garchizy",
+  "code_postal": "58600",
+  "distance_cosne_km": 50,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1807536,
+   "ca": 26799673,
+   "annee": null,
+   "plafond": 133998,
+   "prix_max": 669990,
+   "economie_max": 167498,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 60 13 04",
+  "telephone_a_confirmer": true,
+  "email": "contact@nexson-group.com",
+  "site_web": "https://www.nexson-group.com",
+  "dirigeants": [
+   {
+    "nom": "NEXSON CORPORATION (personne morale, SIREN 891083107)",
+    "fonction": "Président de SAS (depuis le 01/09/2025, en remplacement de Charles Bonnafous)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025, remplacé par la personne morale Nexson Corporation)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/530572775",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/530572775"
+  },
+  "decision": "Probablement au niveau de la holding Nexson Corporation (SIREN 891083107), présidente de la société depuis septembre 2025, donc à la direction du groupe à Garchizy, où se trouve le siège industriel.",
+  "note_contacts": "Le standard et l'e-mail viennent des données existantes ('deja') ; aucun extrait WebSearch ne les confirme ni ne les contredit. Depuis le 01/09/2025, la présidente de la société est la personne morale Nexson Corporation, en remplacement de Charles Bonnafous ; son rôle actuel de CEO du groupe est à reconfirmer. Groupe en croissance externe (rachat de l'allemand Thermowave en 2024) : un DAF existe probablement mais n'a pas été trouvé via WebSearch. 2e niveau : 6 recherches. Seuls les éléments d'activité sont confirmés (échangeurs de chaleur et appareils à pression, 685 rue Jules Verne à Garchizy ; rachat de l'allemand Thermowave, filiale d'A-Heat, en mars 2024, qui reste une entité autonome). Aucun extrait ne nomme le dirigeant actuel : le communiqué Thermowave ne cite aucun CEO, et aucune source ne relie Charles Bonnafous à Nexson Corporation. Son rôle actuel reste donc à confirmer, tout comme l'identité de la personne qui préside la holding. Le standard 03 86 60 13 04 et l'e-mail contact@nexson-group.com (données existantes) ne sont confirmés par aucun extrait, faute de page contact indexée. Aucun DAF ni contrôleur de gestion trouvé, alors qu'un groupe de cette taille (environ 31 M€ de CA, filiale allemande) en a très probablement un. À demander au standard : qui dirige aujourd'hui Nexson Group et le nom du directeur administratif et financier. Vérification : Ni le 03 86 60 13 04 ni contact@nexson-group.com ne ressortent : seuls l'adresse du 685 rue Jules Verne à Garchizy (salons, PitchBook) et un numéro incomplet apparaissent. Aucun résultat ne relie Charles Bonnafous à Nexson. Le titre « Fondateur et CEO » vient des données existantes et non de Pappers, qui indique Nexson Corporation présidente depuis le 01/09/2025. Deux recherches (nom + Nexson, Nexson + Nevers/Garchizy) : aucune trace indépendante de Charles Bonnafous chez Nexson Group.",
+  "corrections": [
+   "Champ ca : 31,4 M€ correspond à l'exercice clos au 31/03/2024 alors que le résultat (1,81 M€) est celui de l'exercice clos au 31/03/2025 : CA de cet exercice = 26,8 M€",
+   "Ajout : Nexson Corporation présidente depuis le 01/09/2025 (Charles Bonnafous n'est plus président de cette entité) ; nouvel établissement à Varennes-Vauzelles depuis octobre 2025"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Repas d'affaires pour les clients internationaux et visiteurs de l'usine (souvent via Paris et l'A77, qui passe à Cosne), afterworks et séminaires pour ≈130 salariés ; entreprise dirigée par son fondateur et déjà engagée dans le sponsoring local.",
+  "interlocuteur_cible": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group",
+   "source": "https://achrnews.com/articles/154348-nexson-group-acquires-heat-exchanger-manufacturer"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=NEXSON%20GROUP%20INDUSTRY&departement=58",
+   "https://www.nexson-group.com/",
+   "https://www.xerfi.com/etudes-par-entreprise/nexson-group-industry_530572775",
+   "https://www.lindustrie-recrute.fr/entreprise/17071/",
+   "https://achrnews.com/articles/154348-nexson-group-acquires-heat-exchanger-manufacturer",
+   "https://recherche-entreprises.api.gouv.fr/search?q=530572775"
+  ]
+ }
+]

@@ -1,0 +1,830 @@
+[
+ {
+  "rang": 43,
+  "siren": "529213050",
+  "nom": "NEVERS PREMIUM MOTORS",
+  "nom_commercial": "SUMA",
+  "activite": "Commerce et réparation automobile",
+  "secteur": "Automobile",
+  "description": "Concession automobile à Nevers exploitée sous l'enseigne SUMA : vente de véhicules neufs et d'occasion, entretien, réparation, location et pièces détachées. Anciennement « Nevers Premium Automobiles » (renommée en octobre 2024) ; les marques distribuées ne sont pas confirmées par les sources consultées.",
+  "actualite": "CA en baisse à 15,9 M€ en 2024 (-18 %) ; changement de dénomination en « Nevers Premium Motors » le 29/10/2024.",
+  "ca": 19349583,
+  "resultat": 165195,
+  "ca_recent": 15865876,
+  "res_recent": 69502,
+  "annee_recent": "2024",
+  "effectif": "10-19",
+  "forme_juridique": "SAS",
+  "ville": "Nevers",
+  "adresse": "Rond-Point Monte Cassino, 135 rue de Marzy",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 69502,
+   "ca": 15865876,
+   "annee": "2024",
+   "plafond": 79329,
+   "prix_max": 396645,
+   "economie_max": 99161,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 71 01 53",
+  "telephone_a_confirmer": true,
+  "dirigeants": [
+   {
+    "nom": "Richard VIVES",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Richard VIVES",
+   "fonction": "Président (président du groupe SUMA)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.caradisiac.com/ducati-se-rapproche-d-audi-et-ouvre-une-nouvelle-concession-213290.htm"
+  },
+  "contact_finance": {
+   "nom": "Richard VIVES",
+   "fonction": "Président (aucun DAF/RAF/comptable du groupe SUMA identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/529213050"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué (selon registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/529213050",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au siège du groupe SUMA (Richard Vivès), hors Nièvre, a priori dans le Rhône (région lyonnaise, ville non confirmée) : la société n'est qu'une des 26 concessions d'un groupe de 370 salariés réparti sur 5 départements (Rhône, Saône-et-Loire, Nièvre, Allier, Ain).",
+  "note_contacts": "Concession du groupe SUMA (Richard Vivès, groupe basé dans la région lyonnaise : VW/Seat/Skoda/Cupra à Nevers et Cosne, Hyundai Nevers). L'annuaire Justacôté place 'Ducati Nevers - Suma' au 135 rue de Marzy (https://www.justacote.com/marzy-58180/moto-et-scooter/), soit la même adresse que la société. Aucun standard ni service comptable identifié, et une recherche dédiée au téléphone n'a rien donné. Pour la finance, le service comptable du groupe SUMA est probablement centralisé hors Nièvre (non confirmé). 2e passe : la société exploite la concession Audi Nevers du groupe SUMA (Mappy liste « Audi Suma Concessionnaire », rond-point de Monte Cassino, Nevers, https://fr.mappy.com/poi/5c6a91b60351d1296305b4f0 ; SUMA y a ouvert la première concession mixte Audi-Ducati de France, https://journalauto.com/distribution/le-groupe-suma-ouvre-la-premiere-concession-mixte-audi-ducati-de-france/). Le 03 86 71 01 53 est donné par lesvoitures.fr pour « Audi Nevers – Nevers Premium Automobiles », mais à une autre adresse (10 bd des Grands Prés des Bordes, probablement l'ancien site) : numéro à confirmer. 2e niveau : 6 recherches. La société exploite la concession Audi (et l'espace Ducati ouvert en janvier 2025, premier site mixte Audi-Ducati de France) au rond-point de Monte Cassino, Nevers (https://journalauto.com/distribution/le-groupe-suma-ouvre-la-premiere-concession-mixte-audi-ducati-de-france/). Richard Vivès est confirmé comme président du groupe SUMA par Caradisiac ; Eddy Michel (DG délégué) n'apparaît dans aucune source web. Le 03 86 71 01 53 reste à confirmer : il n'est publié que par lesvoitures.fr pour « Audi Nevers – Nevers Premium Automobiles », à l'adresse du boulevard des Grands Prés des Bordes (probable ancien site) ; une recherche du numéro seul n'a rien donné, et aucune page officielle (site SUMA, localisateur Audi) n'est ressortie. Le groupe compte 26 points de vente, 17 marques et 370 collaborateurs (offre France Travail, https://candidat.francetravail.fr/offres/recherche/detail/2172188). Aucun DAF ni service comptable du groupe trouvé. À l'appel : vérifier le numéro, demander le directeur de la concession Audi Nevers et les coordonnées du service administratif et financier du groupe SUMA. Vérification : Le Journal de l'Automobile (article distinct de la source enregistrée) décrit le groupe SUMA, siège à Limonest, comme « dirigé par Richard Vivès », présent dans la Nièvre ; un autre article signale la concession mixte Audi-Ducati du groupe à Nevers (https://journalauto.com/distribution/le-groupe-suma-ouvre-la-premiere-concession-mixte-audi-ducati-de-france/), cohérent avec le 135 rue de Marzy. Le registre le donne président de la société. Recherche nom + SUMA + groupe automobile : aucune mention dans SUMA (26 points de vente, 370 salariés). Seul homonyme trouvé : un Eddy Michel associé-gérant d'ECOTEST (contrôle technique) depuis 2005, sans lien établi avec SUMA.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Événements clients (lancement de modèle, soirée VIP) ou échange de visibilité ; intérêt limité vu la distance.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=NEVERS%20PREMIUM%20MOTORS&departement=58",
+   "https://www.pappers.fr/entreprise/529213050"
+  ]
+ },
+ {
+  "rang": 44,
+  "siren": "562010454",
+  "nom": "G.C.E. SAS",
+  "nom_commercial": "GCE (Gas Control Equipment)",
+  "activite": "Commerce de gros",
+  "secteur": "Commerce & distribution",
+  "description": "Filiale française de GCE (Gas Control Equipment) : fabrication et vente d'équipements pour la soudure autogène, détendeurs et vannes pour gaz industriels et médicaux. Rattachée au groupe international ESAB (soudage/coupage).",
+  "actualite": "Changements de direction : Curtis Jewell nommé DG le 29/06/2026 en remplacement de Kevin Johnson ; CA en baisse à 17,8 M€ en 2025 (résultat net 408 K€).",
+  "groupe": "GCE (Gas Control Equipment), membre du groupe ESAB depuis 2018 (ESAB Corporation, coté au NYSE depuis 2022)",
+  "ca": 19287312,
+  "resultat": 717363,
+  "effectif": "10-19 (14 salariés en 2025)",
+  "forme_juridique": "SASU",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "70 rue du Puits Charles",
+  "code_postal": "58400",
+  "distance_cosne_km": 30,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 717363,
+   "ca": 19287312,
+   "annee": null,
+   "plafond": 96437,
+   "prix_max": 482185,
+   "economie_max": 120546,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 69 46 20",
+  "telephone_a_confirmer": true,
+  "site_web": "https://www.gascontrol.com",
+  "dirigeants": [
+   {
+    "nom": "Mathieu BENIER",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Curtis Evan JEWELL",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Piyushkumar SHETH",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Tommaso TOFFOLO",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mathieu Benier",
+   "fonction": "Président de la SAS (registre) ; cité comme Directeur général de GCE SAS dans le catalogue GCE Healthcare 2019",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/562010454"
+  },
+  "contact_finance": {
+   "nom": "Mathieu Benier",
+   "fonction": "Président de la SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/562010454"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Piyush Sheth",
+    "fonction": "Vice President & General Manager, GCE (niveau groupe ESAB) ; directeur général de la SAS au registre",
+    "tel": null,
+    "email": null,
+    "source": "https://gcegroup.com/about"
+   }
+  ],
+  "decision": "Décision très probablement prise au niveau du groupe GCE (siège à Steinhausen, Suisse) / ESAB Corporation (États-Unis) : filiale commerciale de 14 salariés dont trois des quatre mandataires sont des dirigeants du groupe ; le président Mathieu Benier est le seul relais local.",
+  "note_contacts": "Filiale française du groupe GCE (siège groupe : Steinhausen, Suisse, +41 41 560 07 00 ; site groupe https://gcegroup.com). Standard et fax (03 86 70 09 81) issus d'un catalogue de 2019 : à vérifier. Les autres DG au registre (Jewell, Sheth, Toffolo) sont des dirigeants du groupe ; la finance est probablement gérée au niveau groupe, aucun responsable financier France trouvé. Le catalogue mentionne des e-mails @gcegroup.com pour les contacts mais ils n'apparaissent pas dans les extraits : non relevés. 2e niveau : 6 recherches (téléphone La Charité, direction de site, adresse rue du Puits Charles, finance/comptabilité, nom du président, contact France sur gcegroup.com) sans aucun résultat nouveau : le site de La Charité-sur-Loire n'apparaît sur aucune page web indexée. Le standard 03 86 69 46 20 (et fax 03 86 70 09 81) reste celui du catalogue GCE de 2019 : source officielle mais ancienne, à confirmer au premier appel. Le site du groupe indique une production centralisée en République tchèque, au Royaume-Uni et en Chine : La Charité serait surtout un site commercial/logistique. Aucun responsable financier France identifié ; la comptabilité est probablement tenue par le groupe ou un cabinet. Au standard : demander si Mathieu Benier est toujours président/directeur du site et qui gère l'administration et la finance en France. Cible peu probable pour un achat d'œuvres (décision hors de France). Vérification : Le 03 86 69 46 20 n'apparaît que dans le catalogue GCE de 2019 (non retrouvé ailleurs) : à traiter comme ancien. Mathieu Benier : aucune source hors registre/catalogue. Les deux commerciaux viennent du seul catalogue 2019, probablement obsolètes. Fiche ESAB (Yahoo Finance) et communiqué GCE de mars 2026 : VP & General Manager de GCE / Gas Control. Mandat dans la SAS française non vérifié ; dirigeant groupe, pas local.",
+  "corrections": [
+   "Site web : gcegroup.com redirige désormais vers gascontrol.com",
+   "Groupe : GCE a rejoint ESAB en 2018 (ESAB n'a pas « racheté Gas Control Equipment » au sens d'une marque ESAB d'origine) – formulation précisée"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Repas d'affaires pour les visiteurs/clients internationaux du groupe ESAB et déjeuners d'équipe, à 30 km de Cosne.",
+  "interlocuteur_cible": {
+   "nom": "Mathieu Benier",
+   "fonction": "Président (depuis 04/2024)",
+   "source": "Pappers / registre"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=G.C.E.%20SAS&departement=58",
+   "https://www.pappers.fr/entreprise/562010454",
+   "https://esab.com/am/eur_en/brands/esab-family-brands/gce/",
+   "https://gcegroup.com/about",
+   "https://recherche-entreprises.api.gouv.fr/search?q=562010454",
+   "https://www.gascontrol.com/en/about-us"
+  ]
+ },
+ {
+  "rang": 45,
+  "siren": "819621194",
+  "nom": "ASTRA RECYCLAGE",
+  "nom_commercial": "Groupe Astradec Environnement",
+  "activite": "Collecte et traitement des déchets",
+  "secteur": "Énergie & environnement",
+  "description": "Société du groupe Astradec spécialisée dans la récupération et le négoce de déchets triés (métaux, déchets industriels), la collecte de déchets industriels et ménagers et le transport. Sites actifs à Saint-Éloi (58), La Grande-Paroisse (77), Cheu et Saint-Florentin (89).",
+  "actualite": "CA en recul (12,2 M€ en 2024 contre 19 M€ en 2022, perte nette de 360 K€) ; cessions de sites (Gien en 2024, La Grande-Paroisse en 2026).",
+  "groupe": "Groupe Astradec",
+  "ca": 18962775,
+  "resultat": 86534,
+  "ca_recent": 12200308,
+  "res_recent": -359983,
+  "annee_recent": "2024",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "Saint-Éloi",
+  "adresse": "6 ZI de Nevers - Saint-Éloi",
+  "code_postal": "58000",
+  "distance_cosne_km": 60,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -359983,
+   "ca": 12200308,
+   "annee": "2024",
+   "plafond": 61002,
+   "prix_max": 305010,
+   "economie_max": 76252,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "email": "contact@astradec.com",
+  "site_web": "https://www.astradec.com",
+  "dirigeants": [
+   {
+    "nom": "E.B.P.",
+    "fonction": "Président (personne morale)"
+   },
+   {
+    "nom": "Emmanuel BIALLAIS",
+    "fonction": "Autre (représentant)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Emmanuel Biallais",
+   "fonction": "Représentant permanent de E.B.P., présidente de la société",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/819621194"
+  },
+  "contact_finance": {
+   "nom": "Emmanuel Biallais",
+   "fonction": "Représentant permanent de E.B.P., présidente de la société",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/819621194"
+  },
+  "decision": "Probablement au siège du groupe Astradec à Arques (Pas-de-Calais) ou chez sa holding E.B.P. : le site de Saint-Éloi est une filiale d'exploitation rachetée par Astradec fin 2020, sans direction financière locale identifiée.",
+  "note_contacts": "Filiale du groupe Astradec (siège à Arques, 62 ; ~300 salariés, ~70 M€ de CA selon une offre France Travail : https://candidat.francetravail.fr/offres/recherche/detail/4923071). Pas de numéro trouvé pour le site de Saint-Éloi (6 route de la Zone industrielle selon Géorisques/travail-industrie.com). Le seul numéro vu est celui du siège du groupe à Arques, 03 21 93 60 60, dans un dossier ICPE de 2021 (https://www.pas-de-calais.gouv.fr/contenu/telechargement/64684/369634/file/PJ 5_1 demande enregistrement ASTRADEC_v2_PJ 5 GROUPE ASTRADEC 2021.pdf) : utilisable pour joindre la direction financière du groupe, mais ce n'est pas le standard du site nivernais. Aucun DAF du groupe trouvé ; dirigeant tiré du registre (deja), non confirmé par une autre source. 2e niveau : toujours aucun standard propre au site de Saint-Éloi (6 recherches : annuaires, presse, site du groupe). Le groupe Astradec (siège Arques 62, ~300 salariés, ~70 M€ de CA, 20 sites, 4 pôles) publie l'email générique contact@astradec.com et le site www.astradec.com (cités dans un dossier ICPE de la préfecture du Pas-de-Calais et un annuaire pro ; attribution exacte de l'email à vérifier). Le site de Saint-Éloi a été racheté par Astradec le 28/12/2020 (Géorisques) ; une autre société ASTRA RECYCLAGE (même nom) recrute à Saint-Florentin (89), ex-Odelot Recyclage. Historique : Le Journal des Entreprises citait Eric Bée comme dirigeant-fondateur d'Astradec (article ancien, ~2010) ; E.B.P. est vraisemblablement sa holding (projet de financement « E.B.P. » sur october.eu : https://october.eu/project/e-b-p/), non confirmé. Emmanuel Biallais n'apparaît dans aucune source hors registre. Aucun DAF/RAF trouvé. À l'appel : passer par le siège d'Arques (03 21 93 60 60, numéro vu en 2021 dans un dossier ICPE, non reconfirmé) et demander qui gère la finance des filiales et qui dirige le site de Saint-Éloi.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Potentiel faible ; éventuellement prestataire de collecte et de recyclage des déchets plutôt que client.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ASTRA%20RECYCLAGE&departement=58",
+   "https://www.pappers.fr/entreprise/819621194"
+  ]
+ },
+ {
+  "rang": 46,
+  "siren": "518482013",
+  "nom": "ANVIS DECIZE SAS",
+  "nom_commercial": "Anvis",
+  "activite": "Caoutchouc et plastique",
+  "secteur": "Industrie",
+  "description": "Usine du groupe Anvis fabriquant des pièces en caoutchouc et caoutchouc-métal (systèmes antivibratoires) principalement pour l'industrie automobile. Le site a successivement appartenu à SumiRiko puis au groupe Anvis.",
+  "actualite": "Retour à un léger bénéfice en 2025 (129 K€, CA 17,3 M€) après trois années de pertes (2022-2024) ; nouvelle direction générale en 2025.",
+  "groupe": "Anvis Group (Anvis Holding ; ex-SumiRiko)",
+  "ca": 18637655,
+  "resultat": -1018632,
+  "effectif": "100-199 (119 salariés en 2025)",
+  "forme_juridique": "SASU",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, 12 rue Henri Darcy",
+  "code_postal": "58300",
+  "distance_cosne_km": 90,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -1018632,
+   "ca": 18637655,
+   "annee": null,
+   "plafond": 93188,
+   "prix_max": 465940,
+   "economie_max": 116485,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "site_web": "https://anvisgroup.com",
+  "dirigeants": [
+   {
+    "nom": "Olaf HAHN",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Laurent COBIGO",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Fabien LHULLIER",
+    "fonction": "Directeur général délégué"
+   },
+   {
+    "nom": "Marc RITZENTHALER",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent Cobigo",
+   "fonction": "Directeur général (Managing Director d'Anvis Decize)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://anvisgroup.com/de/?p=754"
+  },
+  "contact_finance": {
+   "nom": "Laurent Cobigo",
+   "fonction": "Directeur général (Managing Director d'Anvis Decize)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://anvisgroup.com/de/?p=754"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Olaf Hahn",
+    "fonction": "Président (registre) ; groupe Anvis repris par HAHN GmbH",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/518482013",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement partagée entre la direction de Decize (Laurent Cobigo, DG) et Anvis Holding / l'actionnaire allemand HAHN GmbH (président Olaf Hahn), qui pilote les budgets des entités françaises via un directeur financier holding.",
+  "note_contacts": "Aucun standard ni email trouvé dans les extraits. Pas de nom de DAF/RAF : le groupe Anvis a publié en 2023 des offres de « Directeur financier » (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-DIRECTEUR-FINANCIER.pdf) et de contrôleur de gestion industriel senior basé à Decize (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-Controleur-de-Gestion-industrielle-senior.pdf ; nouvelle annonce France Travail en avril 2025 : https://candidat.francetravail.fr/offres/recherche/detail/189HYHP), donc une fonction finance existe sur place mais sans titulaire identifié. Marc Ritzenthaler (DGD au registre) est présenté par societe.com comme ancien dirigeant d'Anvis Decize (mandat terminé en juillet 2020), aujourd'hui DG d'Anvis Epinal et DG de Bioscovery France depuis le 28/12/2023 (https://www.societe.com/manager/Marc.RITZENTHALER.sQCCJWm2PWI.html) : liste du registre possiblement pas à jour. Wikipédia (https://en.wikipedia.org/wiki/Anvis_Group) indique que la production de Decize a été transférée en 2023 dans une installation plus petite. Dirigeants tirés du registre (deja), non confirmés par une source récente. 2e niveau : la page presse du groupe (anvisgroup.com) présente Laurent Cobigo comme « Managing Director of Anvis Decize » (page non datée), cohérent avec le registre (DG) : c'est lui le dirigeant opérationnel, Olaf Hahn étant président côté actionnaire (HAHN GmbH, qui a racheté le groupe puis signé la construction d'un nouveau site à Decize — rubrique news/decize du site). Marc Ritzenthaler : mandats à Decize terminés, aujourd'hui DG ailleurs (societe.com) — registre en partie périmé. Finance : l'offre de contrôleur de gestion industriel basée à Decize (France Travail 189HYHP, 2025) indique un poste « rattaché au responsable Finance » (nom non publié ; l'extrait ne nomme pas Anvis, mais l'offre Anvis de 2023 vise le même poste) ; le groupe recrutait en 2023 un « Directeur Finances » pour Anvis Holding (budgets des entités françaises). Aucun nom trouvé : décideur financier = DG par défaut. Aucun standard trouvé (6 recherches, annuaires et site du groupe) ; l'usine a déménagé en 2023 dans un site plus petit, l'adresse du CRM (12 rue Henri Darcy) est peut-être à mettre à jour. À l'appel : demander le responsable Finance du site de Decize et le nom du DAF d'Anvis Holding. Vérification : Recherche sur Anvis Decize et la reprise par Hahn (« Olaf Hahn ») : aucun résultat pertinent, que des homonymes. Registre seul.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible vu la distance (90 km) ; éventuellement séminaire de direction ou événement d'équipe ponctuel.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ANVIS%20DECIZE&departement=58",
+   "https://www.pappers.fr/entreprise/518482013",
+   "https://en.wikipedia.org/wiki/Anvis_Group"
+  ]
+ },
+ {
+  "rang": 47,
+  "siren": "411012107",
+  "nom": "FORESTA",
+  "nom_commercial": "Foresta (marques Foresta, Habrita)",
+  "activite": "Commerce de gros",
+  "secteur": "Commerce & distribution",
+  "description": "Négociant/fabricant d'aménagements extérieurs en bois (abris de jardin, pergolas, chalets) vendus sous les marques Foresta et Habrita via les réseaux de bricolage (Mr Bricolage, Bricocash…). Sites à Challuy (siège), Varennes-sur-Allier, Cournon-d'Auvergne, Saint-Germain-du-Puy et Loriol-sur-Drôme.",
+  "actualite": "Forte baisse d'activité (CA 8,9 M€ en 2025 contre 18,5 M€ en 2022) et perte de 1,48 M€ en 2025 ; projets de fusion déposés en mai et juillet 2026.",
+  "groupe": "Burgundy Garden",
+  "ca": 18548985,
+  "resultat": 1449637,
+  "ca_recent": 8898654,
+  "res_recent": -1477701,
+  "annee_recent": "2024",
+  "effectif": "20-49",
+  "forme_juridique": "SASU",
+  "ville": "Challuy",
+  "adresse": "63 route de Bourges",
+  "code_postal": "58000",
+  "distance_cosne_km": 60,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -1477701,
+   "ca": 8898654,
+   "annee": "2024",
+   "plafond": 44493,
+   "prix_max": 222465,
+   "economie_max": 55616,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "email": "order.foresta@altona.fr",
+  "dirigeants": [
+   {
+    "nom": "BURGUNDY GARDEN",
+    "fonction": "Président (personne morale)"
+   },
+   {
+    "nom": "Eric BOUVIER",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Eric Bouvier",
+   "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411012107"
+  },
+  "contact_finance": {
+   "nom": "Eric Bouvier",
+   "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411012107"
+  },
+  "decision": "Probablement à Challuy, chez le dirigeant repreneur via la holding Burgundy Garden, avec l'aval du fonds Atlantic Entrepreneur Fund (groupe suisse Atlantic) qui a participé à la reprise de Foresta vers 2021.",
+  "note_contacts": "Aucun numéro trouvé. L'email order.foresta@altona.fr (adresse de commande, domaine altona.fr) figure dans les fiches fabricant des abris Habrita/Foresta chez des revendeurs (Bricocash, Mr Bricolage) avec l'adresse route de Bourges, Challuy : source revendeur, pas le site de l'entreprise. Aucun site web propre confirmé. Personne physique derrière Burgundy Garden non identifiée ; DG tiré du registre (deja), non confirmé par une autre source (homonymes Eric Bouvier sans lien). 2e niveau : Foresta (créée en 1997, marque Habrita « du groupe Foresta », ~39 salariés en France et ~55 en Roumanie) a été transmise vers 2021 : cfnews titrait « Foresta planche sur sa transmission » (04/03/2021, https://cfnews.net/Annuaires-base-de-deals/Acteurs-Corporate-Finance/Fonds-d-investissement/ATLANTIC-ENTREPRENEUR-LUXEMBOURG) et allnews.ch « Atlantic Entrepreneur Fund participe à la reprise de Foresta » (https://allnews.ch/node/44632) ; ce fonds finance des MBI de managers repreneurs, d'où Burgundy Garden = holding de reprise, Eric Bouvier (DG au registre) probablement le repreneur — non confirmé, nom absent des extraits. Les fiches Habrita chez Bricomarché confirment la raison sociale Foresta, 63 route de Bourges à Challuy, mais sans téléphone ; pas de site officiel habrita/foresta trouvé dans les résultats. Email déjà connu (order.foresta@altona.fr, adresse de commande) inchangé. Aucun standard, aucun RAF trouvé (6 recherches). À l'appel : obtenir le standard via un annuaire au moment de l'appel, demander M. Bouvier et le/la responsable administratif(ve) et financier(ère).",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible : entreprise en difficulté et éloignée ; éventuel fournisseur de mobilier/terrasse bois plutôt que client.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=FORESTA&departement=58",
+   "https://www.pappers.fr/entreprise/411012107",
+   "https://www.mr-bricolage.fr/abri-de-jardin-bois-1265m-foresta.html"
+  ]
+ },
+ {
+  "rang": 48,
+  "siren": "701880486",
+  "nom": "ETOILE 58",
+  "nom_commercial": "Mercedes-Benz Nevers (Groupe Chopard)",
+  "activite": "Commerce et réparation automobile",
+  "secteur": "Automobile",
+  "description": "Concession Mercedes-Benz de Nevers (voitures, utilitaires et camions, VO garantis, atelier toutes marques), exploitée par le Groupe Chopard depuis 2016 et certifiée Mercedes Van ProCenter. Ex-Établissements Bezin ; une antenne à Cosne-sur-Loire a fermé en 2016.",
+  "actualite": "CA 2025 de 19,4 M€ (+10 %) mais pertes en 2024 et 2025 et capitaux propres négatifs ; réductions de capital décidées en 2025.",
+  "groupe": "Groupe Chopard Automobile",
+  "ca": 17591324,
+  "resultat": -350833,
+  "effectif": "20-49 (24 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "ville": "Nevers",
+  "adresse": "38 boulevard du Pré Plantin",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -350833,
+   "ca": 17591324,
+   "annee": null,
+   "plafond": 87957,
+   "prix_max": 439785,
+   "economie_max": 109946,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "telephone": "03 86 68 21 70",
+  "telephone_a_confirmer": true,
+  "site_web": "https://www.groupechopard.com/concessions/mercedes-benz-nevers",
+  "dirigeants": [
+   {
+    "nom": "E.C.L.",
+    "fonction": "Président (personne morale)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Erik Chopard-Lallier",
+   "fonction": "Président du Groupe Chopard (E.C.L., présidente de la société)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-chopard-valorise-sa-politique-rse/"
+  },
+  "contact_finance": {
+   "nom": "Sébastien Pate",
+   "fonction": "Directeur financier du groupe Chopard (DAF du groupe, holding à Besançon ; donnée 2020)",
+   "type": "autre",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.autoactu.com/content/uploads/actualite/fichiers/doc_new/477GROUPE-CHOPARD.pdf",
+   "a_confirmer": true
+  },
+  "decision": "Au siège du Groupe Chopard à Besançon (holding E.C.L. d'Erik Chopard-Lallier) : Étoile 58 n'est qu'une concession d'un groupe de ~3 000 salariés et 132 points de vente, dont la finance est centralisée.",
+  "note_contacts": "Standard 03 86 68 21 70 (déjà connu) confirmé seulement par un annuaire (lesvoitures.fr, 38 bd du Pré Plantin) ; la page contact officielle du groupe (https://www.groupechopard.com/mercedes-benz/contact/mercedes-nevers/) confirme qu'Étoile 58 = Mercedes-Benz Nevers, groupe Chopard depuis 2016, mais son numéro n'apparaît pas dans l'extrait. Groupe Chopard : siège à Besançon, ~3 000 salariés, 1,9 Md€ de CA 2024, président Erik Chopard-Lallier, vice-président Quentin Chopard-Lallier depuis 2024 (journalauto.com). Lien E.C.L. = holding d'Erik Chopard-Lallier déduit des initiales, non confirmé par une source. Aucun DAF du groupe identifié : décideur financier = dirigeant par défaut. 2e niveau : standard 03 86 68 21 70 toujours confirmé uniquement par des annuaires (lesvoitures.fr et un second annuaire), absent des extraits de la page officielle groupechopard.com (qui donne seulement les horaires : lun-ven 8h-12h/14h-19h, sam 9h-12h/14h-18h) ; aucun autre numéro trouvé. Finance : l'annuaire 2020 des groupes de distribution (autoactu.com) cite Sébastien Pate comme directeur financier du groupe Chopard (CA 2019 : 872 M€) — donnée de 2020, à faire confirmer (le groupe pèse aujourd'hui 1,9 Md€, il a pu changer). Président : Erik Chopard-Lallier (journalauto 2025), vice-président Quentin Chopard-Lallier. Pas de chef de concession nommé à Nevers. À l'appel : demander le directeur de la concession (relais local), puis le nom et la ligne de la direction financière du groupe à Besançon. Vérification : Erik Chopard-Lallier confirmé président de la holding ECL / Groupe Chopard (annuaire Auto Infos). Aucune trace indépendante de Sébastien Pate comme DAF du groupe (donnée 2020, à revérifier).",
+  "opposition_prospection": false,
+  "angle_partenariat": "Soirées clients / lancements de modèles Mercedes, offres pour la clientèle premium du Cosnois (ancienne présence à Cosne).",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ETOILE%2058&departement=58",
+   "https://www.pappers.fr/entreprise/701880486",
+   "https://www.groupechopard.com/concessions/mercedes-benz-nevers"
+  ]
+ },
+ {
+  "rang": 49,
+  "siren": "350293221",
+  "nom": "PASORI",
+  "nom_commercial": "Centre de Rééducation Fonctionnelle Pasori",
+  "nom_court": "Pasori (centre de rééducation)",
+  "activite": "Santé humaine",
+  "secteur": "Santé",
+  "description": "Centre de soins médicaux et de réadaptation (SMR, ex-SSR) certifié HAS situé en centre-ville de Cosne (9 ter rue Franc-Nohain) : rééducation orthopédique et traumatologique, neurologique (AVC, hémiplégie, atteintes cérébrales), amputations avec appareillage, rééducation polyvalente, hospitalisation complète et hôpital de jour, balnéothérapie et école du dos. Entreprise familiale (famille Bordet) qui recrute régulièrement soignants et rééducateurs.",
+  "actualite": "Participe à la campagne de prévention routière « Cosnois Courtois » (interventions auprès de 1 200 jeunes) et a signé la charte « 7 engagements des employeurs pour la sécurité routière » ; CA 2025 de 17 M€.",
+  "ca": 17141633,
+  "resultat": 1969803,
+  "ca_recent": 16968091,
+  "res_recent": 743622,
+  "effectif": "200-249 (207 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "9 ter rue Franc-Nohain",
+  "code_postal": "58200",
+  "distance_cosne_km": 1,
+  "site_cosne": true,
+  "site_local": "9 ter rue Franc-Nohain, 58200 Cosne-Cours-sur-Loire (établissement unique) – tél. 03 86 28 43 89, fax 03 86 28 77 10",
+  "priorite": "Haute",
+  "vague": 1,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 743622,
+   "ca": 16968091,
+   "annee": null,
+   "plafond": 84840,
+   "prix_max": 424200,
+   "economie_max": 106050,
+   "espace": "sante",
+   "espace_txt": "Hall et salles d'attente ouverts au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 28 43 89",
+  "email": "contact@pasori.fr",
+  "site_web": "https://www.pasori.fr",
+  "dirigeants": [
+   {
+    "nom": "Frédérique BORDET",
+    "fonction": "Présidente"
+   },
+   {
+    "nom": "Pascale BORDET",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Frédérique BORDET",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "contact_finance": {
+   "nom": "Frédérique BORDET",
+   "fonction": "Présidente (aucun DAF/RAF ni chef comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pascale BORDET",
+    "fonction": "Directrice générale (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/350293221",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision probablement prise sur place à Cosne-Cours-sur-Loire par la direction familiale (Frédérique Bordet, présidente, et Pascale Bordet, DG) : établissement privé indépendant, sans groupe ni holding identifiés.",
+  "note_contacts": "Aucun DAF/RAF ou responsable comptable trouvé malgré la taille (~207 salariés). Fax 03 86 28 77 10 (santeenfrance.fr). Email contact@pasori.fr déjà connu (deja) et repris dans un résumé de recherche sans source précise : source réelle non confirmée. Xerfi cite aussi Agnès Perrot parmi les dirigeants (fonction non précisée) : https://www.xerfi.com/etudes-par-entreprise/pasori_350293221 2e niveau : standard 03 86 28 43 89 et contact@pasori.fr retrouvés uniquement dans des annuaires santé (santeenfrance.fr, etablissementsdesante.fr, koifaire), pas sur une page officielle ; fax 03 86 28 77 10. CRF privé (FINESS 580972008, 99 lits et places, plus de 160 professionnels selon une annonce). Aucune source récente (presse, site, LinkedIn) ne nomme la direction ni un responsable administratif/financier : dirigeants du registre non confirmés mais non contredits ; Agnès Perrot (citée par Xerfi) introuvable. À demander à l'appel : qui de la présidente ou de la DG décide des achats, et nom du responsable administratif et financier ou du comptable de l'établissement. Vérification : Email et téléphone publiés dans les annuaires santé (etablissementsdesante.fr / santeenfrance.fr, cylex) ; pas vus sur pasori.fr lui-même. Les Bordet viennent du registre, sans source web plus récente indiquant un changement. Aucun résultat reliant Pascale Bordet à Pasori ou à Cosne. Seul résultat : une homonyme, costumière de théâtre décédée en 2023, sans rapport. DG selon le seul registre.",
+  "corrections": [
+   "LinkedIn : la page officielle est linkedin.com/company/pasori-reeducation (lien affiché sur pasori.fr), pas linkedin.com/company/pasori",
+   "Champs ca/resultat issus d'exercices différents (résultat 1,97 M€ = 2022) : exercice 2025 = CA 16,97 M€, résultat net 744 K€",
+   "Précision : appellation SMR (ex-SSR) ; la mention « Parkinson » n'apparaît pas sur le site, remplacée par les pathologies citées par l'établissement"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Afterworks, repas de service, pots de départ et soirées de fin d'année pour ~200 salariés à Cosne même, plus offre de réduction salariés et accueil des familles de patients.",
+  "interlocuteur_cible": {
+   "nom": "Pascale BORDET",
+   "fonction": "Directrice générale (Frédérique Bordet est présidente)",
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=PASORI&departement=58",
+   "https://www.pappers.fr/entreprise/350293221",
+   "https://www.etablissementsdesante.fr/etablissement/48202-centre-de-reeducation-fonctionnelle-pasori",
+   "https://www.pasori.fr",
+   "https://recherche-entreprises.api.gouv.fr/search?q=350293221"
+  ]
+ },
+ {
+  "rang": 51,
+  "siren": "307049437",
+  "nom": "GARAGE NEVERS SUD",
+  "activite": "Commerce et réparation automobile",
+  "secteur": "Automobile",
+  "description": "Garage de véhicules industriels et utilitaires : vente, pièces et réparation de poids lourds, véhicules agricoles et de travaux publics, location sans chauffeur. Remporte de nombreux marchés publics (châssis de bennes à ordures, pièces Scania) ; sites secondaires à Toulon-sur-Allier et Bourges.",
+  "groupe": "Financière Bongard",
+  "ca": 16553114,
+  "resultat": 345862,
+  "effectif": "20-49 (24 salariés en 2023)",
+  "forme_juridique": "SAS",
+  "ville": "Challuy",
+  "adresse": "183-185 route de Lyon",
+  "code_postal": "58000",
+  "distance_cosne_km": 60,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 345862,
+   "ca": 16553114,
+   "annee": null,
+   "plafond": 82766,
+   "prix_max": 413830,
+   "economie_max": 103458,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "dirigeants": [
+   {
+    "nom": "FINANCIERE BONGARD",
+    "fonction": "Président (personne morale)"
+   }
+  ],
+  "decision": "Probablement au niveau de la holding FINANCIERE BONGARD (présidente de la SAS), dont la localisation et le dirigeant n'ont pas été identifiés ; l'entreprise a un établissement hors Nièvre (Toulon-sur-Allier, Allier), ce qui suggère un petit groupe régional.",
+  "note_contacts": "Le président est la personne morale FINANCIERE BONGARD. Son représentant n'a pas été identifié, et aucun dirigeant personne physique n'est connu. L'annuaire 118712 (https://www.118712.fr/professionnels/X0JRVl9UFQk, numéro masqué) lie FINANCIERE BONGARD aux noms 'Renault Garage Nevers Agent', 'Garage Nevers' et 'Financière Nevers' : il s'agit probablement d'une concession Renault/Dacia, à confirmer. Un lien familial avec Bongard Bazot et Fils (Jean-Luc et Eric Bongard, DG) est possible mais non vérifié. Aucun numéro trouvé dans les extraits pour le 183-185 route de Lyon à Challuy. 2e passe : 3 recherches (adresse 183 route de Lyon Challuy, agent Renault Challuy, garage route de Lyon) sans résultat : aucun garage ni numéro trouvé à cette adresse dans les extraits (seul un Speedy au 5 route de Lyon, sans lien). 2e niveau : 6 recherches, aucun numéro, site ou dirigeant personne physique trouvé. Élément nouveau : l'avis SIRENE de l'établissement 307 049 437 00030 (https://api-avis-situation-sirene.insee.fr/identification/pdf/30704943700030) indique un code NAF 45.19Z (commerce d'autres véhicules automobiles, c'est-à-dire en principe poids lourds/véhicules de plus de 3,5 t), une création en 1976 et un établissement dans un parc logistique sur la RN7 à Toulon-sur-Allier (03400). Il s'agirait donc plutôt d'un distributeur de poids lourds ou véhicules industriels (piste Renault Trucks, cohérente avec la mention « Renault Garage Nevers Agent » de l'annuaire 118712, non confirmée) que d'une concession VP. Aucune activité indexée au 183-185 route de Lyon à Challuy (seul un Speedy au 5 route de Lyon) ; aucune trace web de « Financière Bongard » ni de « Garage Nevers Sud » en dehors du SIRENE. Le lien avec Bongard Bazot et Fils reste non vérifié. Aucun DAF ni comptable trouvé, et aucun dirigeant personne physique connu (d'où dirigeant et décideur financier à null). À l'appel (numéro à obtenir via le 118 712 ou sur place) : demander quelle marque est distribuée, le nom du représentant de Financière Bongard et la personne en charge de la comptabilité. 2e niveau : 6 recherches, aucun numéro, site ou dirigeant personne physique trouvé. Élément nouveau : l'avis SIRENE de l'établissement 307 049 437 00030 (https://api-avis-situation-sirene.insee.fr/identification/pdf/30704943700030) indique un code NAF 45.19Z (commerce d'autres véhicules automobiles, c'est-à-dire en principe poids lourds/véhicules de plus de 3,5 t), une création en 1976 et un établissement dans un parc logistique sur la RN7 à Toulon-sur-Allier (03400). Il s'agirait donc plutôt d'un distributeur de poids lourds ou véhicules industriels (piste Renault Trucks, cohérente avec la mention « Renault Garage Nevers Agent » de l'annuaire 118712, non confirmée) que d'une concession VP. Aucune activité indexée au 183-185 route de Lyon à Challuy (seul un Speedy au 5 route de Lyon) ; aucune trace web de « Financière Bongard » ni de « Garage Nevers Sud » en dehors du SIRENE. Le lien avec Bongard Bazot et Fils reste non vérifié. Aucun DAF ni comptable trouvé, et aucun dirigeant personne physique connu (d'où dirigeant et décideur financier à null). À l'appel (numéro à obtenir via le 118 712 ou sur place) : demander quelle marque est distribuée, le nom du représentant de Financière Bongard et la personne en charge de la comptabilité. 3e passe : 5 recherches (route de Lyon à Challuy + poids lourds, Renault Trucks Nevers/Challuy, « Garage Nevers Sud » + Toulon-sur-Allier, Bongard + Toulon-sur-Allier RN7, « 183 route de Lyon » Challuy) : aucun numéro ni marque identifiée. Le seul concessionnaire Renault Trucks trouvé près de Nevers est Faurie Trucks (Varennes-Vauzelles) et le site Volvo de la zone est à Moulins (Relais Poids Lourds Auvergne, groupe Brochard) : aucun lien établi avec Garage Nevers Sud. L'adresse du 183-185 route de Lyon n'est indexée nulle part. Vérification : Aucun élément renseigné dans la fiche (standard, e-mail, dirigeant, adresse tous null) : rien à vérifier, aucune recherche faite.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible : clientèle de transporteurs ; éventuellement offre repas pour chauffeurs/clients poids lourds.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GARAGE%20NEVERS%20SUD&departement=58",
+   "https://www.pappers.fr/entreprise/307049437"
+  ]
+ },
+ {
+  "rang": 52,
+  "siren": "401453188",
+  "nom": "POPIANE",
+  "nom_commercial": "Intermarché Donzy",
+  "activite": "Commerce de détail",
+  "secteur": "Commerce & distribution",
+  "description": "Supermarché indépendant sous enseigne Intermarché à Donzy, exploité par Thierry et Corinne Thomas. Labels « Professionnels du Bio » ; contrôle Alim'confiance « Satisfaisant » en août 2025.",
+  "actualite": "CA 2024 de 16,1 M€ (en hausse) et résultat net de 402 K€.",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché)",
+  "ca": 16120755,
+  "resultat": 402129,
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "Donzy",
+  "adresse": "1 rue Guy de Jean",
+  "code_postal": "58220",
+  "distance_cosne_km": 17,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 402129,
+   "ca": 16120755,
+   "annee": null,
+   "plafond": 80604,
+   "prix_max": 403020,
+   "economie_max": 100755,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 39 47 28",
+  "site_web": "https://www.intermarche.com/magasin?pdvref=01255",
+  "dirigeants": [
+   {
+    "nom": "Thierry THOMAS",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Corinne THOMAS (née CHARPIN)",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Thierry Thomas",
+   "fonction": "Président (SAS POPIANE, exploitant de l'Intermarché Super de Donzy)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/401453188"
+  },
+  "contact_finance": {
+   "nom": "Thierry Thomas",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/401453188"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Corinne Thomas",
+    "fonction": "Directrice générale (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/401453188",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision prise sur place à Donzy par le couple d'adhérents indépendants Thierry et Corinne Thomas (POPIANE SAS) : le magasin est un point de vente indépendant du Groupement Les Mousquetaires, qui ne décide pas des achats de la société.",
+  "note_contacts": "Intermarché Super indépendant (20-49 salariés) : pas de responsable financier, le couple dirigeant exploite le magasin (Corinne Thomas, directrice générale). Numéro confirmé uniquement par un agrégateur (coparking.ch) ; PagesJaunes (https://www.pagesjaunes.fr/pros/59482582) rattache l'adresse à POPIANE. 2e niveau : standard 03 86 39 47 28 désormais confirmé sur la page officielle du magasin intermarche.com (infos pratiques, magasin n° 01255 ; ouvert lun.-sam. 8h45-19h30, dim. 9h-12h30) → fiabilité officielle. La station-service attenante est aussi au nom de Popiane SAS (zagaz). Dirigeants : rien de plus récent que le registre (Thierry Thomas président, Corinne Thomas DG) ; aucune presse locale trouvée. Pas de responsable financier attendu à cette taille (20-49 salariés) : comptabilité probablement confiée à un cabinet ou aux services du groupement. Aucun e-mail générique publié. Au standard : demander M. ou Mme Thomas (adhérents) plutôt que le directeur de magasin ; éviter les heures d'affluence (fin d'après-midi, samedi). Vérification : Le 03 86 39 47 28 n'est retrouvé que sur coparking.ch (source déjà citée) ; PagesJaunes ne montre pas le numéro dans les extraits. Thierry Thomas : registre seulement. Aucune trace du 03 86 39 47 28. Le magasin (1 rue Guy de Jean, Donzy ; Intermarché Contact, Popiane SAS selon Zagaz) est confirmé, sans numéro. Aucun résultat nommant Corinne Thomas ; l'Intermarché de Donzy apparaît exploité par la SAS POPIANE (1 rue Guy de Jean).",
+  "opposition_prospection": false,
+  "angle_partenariat": "Soirée d'équipe / fin d'année pour les salariés du magasin et partenariats croisés (produits locaux, jeux-concours, animations communes) à 17 km.",
+  "interlocuteur_cible": {
+   "nom": "Thierry THOMAS",
+   "fonction": "Président, exploitant du magasin avec Corinne Thomas (directrice générale)",
+   "source": "https://recherche-entreprises.api.gouv.fr/search?q=401453188"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=POPIANE&departement=58",
+   "https://www.pappers.fr/entreprise/401453188",
+   "https://recherche-entreprises.api.gouv.fr/search?q=401453188",
+   "https://www.pagesjaunes.fr/pros/59482582",
+   "https://coparking.ch/en/France/parkings/4803",
+   "https://www.au-magasin.fr/58220-donzy/intermarche-11900.html"
+  ]
+ },
+ {
+  "rang": 53,
+  "siren": "921426086",
+  "nom": "SONIRVAL ENERGIE",
+  "activite": "Collecte et traitement des déchets",
+  "secteur": "Énergie & environnement",
+  "description": "Société dédiée à l'exploitation du centre de traitement des déchets ménagers de Fourchambault dans le cadre d'une délégation de service public de Nevers Agglomération (traitement et valorisation des déchets non dangereux).",
+  "actualite": "CA 2024 de 15,9 M€ (+41 %) et bénéfice de 4 M€ après une perte en 2023 ; changement de président en mars 2026.",
+  "groupe": "Lien supposé avec Veolia / RONAVAL (non confirmé)",
+  "ca": 15871139,
+  "resultat": 4022201,
+  "effectif": "10-19 (20 salariés en 2024)",
+  "forme_juridique": "SAS",
+  "ville": "Fourchambault",
+  "adresse": "38 route de Vauzelles",
+  "code_postal": "58600",
+  "distance_cosne_km": 50,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 4022201,
+   "ca": 15871139,
+   "annee": null,
+   "plafond": 79356,
+   "prix_max": 396780,
+   "economie_max": 99195,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "dirigeants": [
+   {
+    "nom": "Anaël GENDRE",
+    "fonction": "Président (depuis le 26/03/2026)"
+   },
+   {
+    "nom": "Frédéric LONGO",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026, registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "contact_finance": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026) ; aucun DAF/RAF identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Frédéric LONGO",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/921426086",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision probablement prise hors de la Nièvre, au niveau de l'ensemble VALEST (UES VALEST : VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), SONIRVAL ENERGIE étant une société dédiée créée pour la DSP de l'UVE de Fourchambault et dont le siège serait à Vaulx-en-Velin (69) d'après un accord d'entreprise ; actionnaire final non confirmé.",
+  "note_contacts": "Exploite l'usine d'incinération d'ordures ménagères (UIOM) de Fourchambault, anciennement SONIRVAL puis VALEST, au 38 route de Vauzelles (rapport d'inspection Géorisques de 2025 : https://www.georisques.gouv.fr/webappReport/ws/installations/inspection/IAobM3aziW4I6l01V4ghaGeHiPi9ISyX). Groupe parent non identifié. Président récent (mars 2026). Aucun standard trouvé. 2e passe : 3 recherches (UIOM route de Vauzelles + téléphone, Sonirval + 03 86, groupe exploitant) sans numéro de l'usine. Le seul numéro vu (03 39 59 67 37) est celui de l'inspecteur DREAL Nièvre/Yonne, non retenu. Un document de Nevers Agglomération associe SONIRVAL à 45 000 t d'ordures ménagères brûlées par an qui alimentent le réseau de chaleur urbain géré par Énéa (Dalkia) (https://www.nevers.fr/sites/default/files/Fichiers/Actus/2021/2021-12/NCMB%20243%20Le%20r%C3%A9seau%20de%20chaleur%20urbain%202021.pdf) ; groupe parent toujours non identifié. 2e niveau : 6 recherches. Un avenant d'accord d'entreprise (https://www.maitredata.com/app/accords-entreprise/sonirval-energie/230270) explique que SONIRVAL ENERGIE a été créée comme société dédiée à l'exploitation de la délégation de service public (DSP) de l'UVE de Fourchambault : le personnel du site a été transféré de SONIRVAL à SONIRVAL ENERGIE au 1er février 2023. La société relève de l'UES VALEST (VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), avec un siège indiqué à Vaulx-en-Velin (69), à vérifier. Le rapport Géorisques confirme l'exploitation de l'UVE (46 000 t/an autorisées, ligne de 6 t/h). Aucun lien avec Veolia ou Dalkia trouvé : l'hypothèse « Veolia / RONAVAL » de l'entrée n'est pas étayée. Aucune trace en ligne d'Anaël Gendre ni de Frédéric Longo (président et DG selon le registre). Aucun standard, email, site ni DAF/RAF trouvé. À l'appel (via l'accueil de l'UVE, route de Vauzelles) : demander le directeur ou responsable d'exploitation de l'UVE, le nom du groupe propriétaire de VALEST/SONIRVAL et le service comptable ou financier du groupe. 2e niveau : 6 recherches. Un avenant d'accord d'entreprise (https://www.maitredata.com/app/accords-entreprise/sonirval-energie/230270) explique que SONIRVAL ENERGIE a été créée comme société dédiée à l'exploitation de la délégation de service public (DSP) de l'UVE de Fourchambault : le personnel du site a été transféré de SONIRVAL à SONIRVAL ENERGIE au 1er février 2023. La société relève de l'UES VALEST (VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), avec un siège indiqué à Vaulx-en-Velin (69), à vérifier. Le rapport Géorisques confirme l'exploitation de l'UVE (46 000 t/an autorisées, ligne de 6 t/h). Aucun lien avec Veolia ou Dalkia trouvé : l'hypothèse « Veolia / RONAVAL » de l'entrée n'est pas étayée. Aucune trace en ligne d'Anaël Gendre ni de Frédéric Longo (président et DG selon le registre). Aucun standard, email, site ni DAF/RAF trouvé. À l'appel (via l'accueil de l'UVE, route de Vauzelles) : demander le directeur ou responsable d'exploitation de l'UVE, le nom du groupe propriétaire de VALEST/SONIRVAL et le service comptable ou financier du groupe. 3e passe : 5 recherches (UVE route de Vauzelles + téléphone, « Sonirval » contact/accueil, presse locale, offres d'emploi « Sonirval Energie », ensemble VALEST/SHMVD/Valinea) : aucun numéro de l'usine ni du groupe. Le seul numéro vu (03 39 59 67 37, rapport DREAL sur Géorisques) est celui de l'inspecteur des installations classées, non retenu. Un avis préfectoral (https://www.nievre.gouv.fr/index.php/contenu/telechargement/6688/73364/file/avis_au_public_pour_arrete_sonirval.pdf) indique que l'usine était auparavant exploitée sous le nom VALEST ; une fiche PagesJaunes de VALEST existe à Sens (RCS Nancy) mais sans numéro dans l'extrait. Vérification : Aucun résultat pour « Anaël Gendre » ni pour « Sonirval Energie » Fourchambault : président (mars 2026) issu du registre seul, non contredit. Recherche « Frédéric Longo » + Sonirval ou énergie à Nevers : aucun résultat ne le cite, ni la société. Registre seul.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible : petite équipe d'exploitation à 50 km ; pas de cible prioritaire.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=SONIRVAL%20ENERGIE",
+   "https://www.pappers.fr/entreprise/921426086"
+  ]
+ }
+]

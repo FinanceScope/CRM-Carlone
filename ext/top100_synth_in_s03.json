@@ -1,0 +1,902 @@
+[
+ {
+  "rang": 22,
+  "siren": "651880437",
+  "nom": "POLYCLINIQUE DU VAL DE LOIRE",
+  "nom_commercial": "Polyclinique du Val de Loire - Elsan",
+  "activite": "Santé humaine",
+  "secteur": "Santé",
+  "description": "Clinique privée du groupe Elsan à Nevers (49 bd Jérôme Trésaguet) : chirurgie (orthopédie-traumatologie, viscérale et digestive, urologie, ORL, ophtalmologie, stomatologie), cancérologie (oncologie médicale, chimiothérapie), cardiologie, unité de polysomnographie et parcours de soins de suite et de réadaptation (SSR) ; 80 lits, 35 places d'ambulatoire, 10 places de chimiothérapie, plus de 50 médecins spécialistes et une équipe d'environ 200 personnes. Pas de service d'urgences ; certifiée « avec mention » par la HAS depuis juillet 2024.",
+  "actualite": "Selon le Journal du Centre (20/07/2024), ouverture d'une unité de polysomnographie annoncée pour septembre 2024 et restructuration de la pharmacie, de la stérilisation et de l'ambulatoire prévue à partir de fin 2024 ; certification HAS « avec mention » (juillet 2024). Comptes 2025 : CA 29,8 M€, résultat net 119 K€.",
+  "groupe": "Elsan",
+  "ca": 29778512,
+  "resultat": 1053051,
+  "effectif": "100-199 (160 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "ville": "Nevers",
+  "adresse": "49 boulevard Jérôme Trésaguet, 58000 Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1053051,
+   "ca": 29778512,
+   "annee": null,
+   "plafond": 148893,
+   "prix_max": 744465,
+   "economie_max": 186116,
+   "espace": "sante",
+   "espace_txt": "Hall et salles d'attente ouverts au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 93 52 58",
+  "email": "pvl@elsan.care",
+  "site_web": "https://www.elsan.care/fr/polyclinique-val-de-loire",
+  "dirigeants": [
+   {
+    "nom": "ELSAN SAS",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sébastien PROTO",
+   "fonction": "Président exécutif du groupe Elsan (Elsan SAS, présidente de la société)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.elsan.care/fr/presse/elsan-nomme-un-nouveau-directeur-general-delegue-aux-finances-et-renouvelle-son-comite"
+  },
+  "contact_finance": {
+   "nom": "Olivier REGNARD",
+   "fonction": "Directeur général délégué aux finances, DAF du groupe Elsan (depuis le 16/09/2024)",
+   "type": "autre",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.elsan.care/fr/presse/elsan-nomme-un-nouveau-directeur-general-delegue-aux-finances-et-renouvelle-son-comite",
+   "a_confirmer": true
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jean-Claude PENET",
+    "fonction": "Directeur de la polyclinique (donnée CRM existante, non confirmée)",
+    "tel": null,
+    "email": null,
+    "source": null
+   },
+   {
+    "nom": "François AUQUIÈRE",
+    "fonction": "Directeur territorial Bourgogne-Franche-Comté du groupe Elsan (juillet 2024)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.elsan.care/fr/polyclinique-val-de-loire/nos-actualites/de-nouveaux-projets-la-polyclinique-du-val-de-loire",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Au siège du groupe Elsan à Paris (direction financière et direction générale), éventuellement via la direction territoriale Bourgogne-Franche-Comté : la clinique est une filiale à 100 % présidée par Elsan SAS et n'a pas d'autonomie budgétaire pour ce type de dépense.",
+  "note_contacts": "Standard confirmé par le livret d'accueil officiel d'Elsan. D'autres numéros circulent dans les annuaires (03 86 93 52 94 ; 08 26 39 99 45, ligne surtaxée ; fax 03 86 93 53 93). L'e-mail pvl@elsan.care, le directeur et la responsable RH viennent des données existantes ('deja') : aucun extrait WebSearch ne les confirme. Les seuls directeurs nommés dans les extraits sont plus anciens (Michel Lagache en 2014, Arnaud Goguillot en 2017) : faire confirmer le nom du directeur actuel au standard. Clinique du groupe Elsan : la fonction finance est probablement assurée par un contrôleur de gestion régional ou au siège du groupe ; aucun n'a été identifié. 2e niveau : standard 03 86 93 52 58 et e-mail pvl@elsan.care repris des pages officielles elsan.care (livret d'accueil). Directeur d'établissement actuel non trouvé : les seuls directeurs nommés datent de 2014 (Michel Lagache) et 2017 (Arnaud Goguillot). En juillet 2024, Elsan fait parler de la clinique François Auquière, directeur territorial Bourgogne-Franche-Comté ; Jean-Claude Penet (donnée CRM) n'apparaît dans aucun extrait. Aucun RAF ni contrôleur de gestion de site trouvé, d'où le DAF du groupe : Olivier Regnard, nommé directeur général délégué aux finances en septembre 2024 en remplacement de Romain Ferrière, rattaché à Sébastien Proto. Un autre communiqué Elsan annonce la nomination de Paolo Silvano comme directeur général délégué (domaine non visible) : vérifier qu'Olivier Regnard est toujours en poste. Le registre indique Elsan SAS comme présidente. À demander au standard : le nom du directeur ou de la directrice de la polyclinique et celui du responsable administratif et financier ou du contrôleur de gestion du site. Vérification : Le livret d'accueil Elsan indique « Mail de contact : pvl@elsan.care » et le 03.86.93.52.58. D'autres numéros circulent : 03 86 93 52 94 sur gowork, et 08 26 39 99 45, ligne surtaxée, sur santeenfrance. Deux recherches ne trouvent aucune mention de Jean-Claude Penet. Le seul directeur nommé dans les résultats est Michel Lagache, en 2014 (actualité elsan.care), donc ancien. Nom du directeur actuel à faire confirmer au standard. Seul le communiqué Elsan (source citée) donne le titre de DG délégué aux finances. Traces indirectes cohérentes : départ de Solocal annoncé en août 2024 (AMF/Option Finance) et mention d'un mandat d'administrateur chez Elsan Holding Avignon au 31/12/2024 (Societe.com, non vérifié en détail). Rien de 2025-2026 sur son maintien en poste, mais rien de contradictoire non plus. C'est un DAF de groupe, pas de la polyclinique. Sébastien Proto président exécutif d'Elsan depuis sept. 2023 (communiqué gouvernance juillet 2024, MarketScreener) ; c'est le dirigeant du groupe, pas le directeur local de la clinique. Standard 03 86 93 52 58 confirmé par etablissementsdesante.fr ; d'autres annuaires citent 03 86 93 52 94 ou 08 26 39 99 45. Recherche sur le directeur de la Polyclinique du Val de Loire : aucune mention de Jean-Claude Penet. Les seuls directeurs nommés sont anciens (Michel Lagache en 2014, Arnaud Goguillot en 2017). François Auquière y est cité en juillet 2024 comme directeur territorial Elsan Bourgogne-Franche-Comté, pas comme directeur du site. Nom sans source : à faire confirmer au standard. Aucun résultat indépendant associant François Auquière à Elsan ; seule la page Elsan citée le mentionne. Rôle de directeur territorial BFC (2024) non revérifié.",
+  "corrections": [
+   "Actualité : l'article de juillet 2024 annonçait les travaux (prévus fin 2024) ; leur lancement effectif n'est pas confirmé par les sources"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Cible secondaire (Nevers, 56 km, aucun site à Cosne) : offres CE / cartes cadeaux pour les salariés résidant dans le Cosnois, pots et soirées de service ponctuels ; passer par la direction ou la responsable RH.",
+  "interlocuteur_cible": {
+   "nom": "Jean-Claude Penet",
+   "fonction": "Directeur de la polyclinique (responsable RH : Marianne Save)",
+   "source": "elsan.care – page « Notre établissement »"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=POLYCLINIQUE%20DU%20VAL%20DE%20LOIRE&departement=58",
+   "https://www.etablissementsdesante.fr/etablissement/48102-polyclinique-du-val-de-loire-elsan",
+   "https://www.elsan.care/fr/polyclinique-val-de-loire/nos-actualites/de-nouveaux-projets-la-polyclinique-du-val-de-loire",
+   "https://recherche-entreprises.api.gouv.fr/search?q=651880437",
+   "https://www.pappers.fr/entreprise/651880437",
+   "https://www.elsan.care/fr/polyclinique-val-de-loire"
+  ]
+ },
+ {
+  "rang": 23,
+  "siren": "483276820",
+  "nom": "LIGIER AUTOMOTIVE",
+  "nom_commercial": "Ligier Automotive",
+  "activite": "Industrie automobile",
+  "secteur": "Automobile",
+  "description": "Constructeur français de voitures de course (prototypes LMP/JS P, JS2 R, monoplaces) basé sur la technopole du circuit de Magny-Cours. Organise des championnats monomarques (Ligier JS Cup France) et des événements sur circuit.",
+  "actualite": "Fin 2024, Ligier a pris le contrôle de Mygale, renommé Ligier Advanced Technologies en avril 2025 ; en 2026, Ligier a été retenu comme fournisseur de châssis LMP2 et vise un retour aux 24 Heures du Mans en 2028.",
+  "groupe": "Ligier (filiale Ligier Advanced Technologies, ex-Mygale)",
+  "ca": 29320370,
+  "resultat": 1590644,
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 8 rue du Champ de Magny, 58470 Magny-Cours",
+  "code_postal": "58470",
+  "distance_cosne_km": 70,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1590644,
+   "ca": 29320370,
+   "annee": null,
+   "plafond": 146602,
+   "prix_max": 733010,
+   "economie_max": 183252,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "email": "sales@ligierautomotive.com",
+  "site_web": "https://ligierautomotive.com",
+  "dirigeants": [
+   {
+    "nom": "Jacques NICOLET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Pierre NICOLET",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jacques NICOLET",
+   "fonction": "Président (fondateur ; actionnaire majoritaire de Mygale / Ligier Advanced Technologies depuis fin 2024)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ligierautomotive.com/en/news/ligier-automotive-becomes-majority-shareholder-of-mygale-ushering-in-a-new-era-for-french-formula-racing/"
+  },
+  "contact_finance": {
+   "nom": "Jacques NICOLET",
+   "fonction": "Président (aucun DAF nommé trouvé ; poste de DAF créé en 2025, rattaché au DG Pierre Nicolet)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ligierautomotive.com/wp-content/uploads/2025/02/2025-offre-demploi-directeur-administratif-et-financier-h-f.pdf"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre NICOLET",
+    "fonction": "Directeur Général (CEO)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/ligier-automotive_483276820"
+   }
+  ],
+  "decision": "Décision prise à Magny-Cours, siège de Ligier Automotive, par la famille Nicolet (Jacques, président fondateur, et Pierre, DG) : société indépendante qui pilote elle-même ses filiales d'Amilly et des États-Unis, avec un comité de direction local auquel siège le DAF.",
+  "note_contacts": "En février 2025, Ligier Automotive a publié une offre de directeur administratif et financier (CDI, poste créé, basé à Magny-Cours, rattaché au DG, chargé aussi des filiales d'Amilly et des États-Unis, candidatures jusqu'au 30/06/2025) : https://ligierautomotive.com/wp-content/uploads/2025/02/2025-offre-demploi-directeur-administratif-et-financier-h-f.pdf. Un DAF est donc probablement en poste, mais son nom n'est pas apparu dans les résultats : à demander à l'accueil. Aucun téléphone trouvé dans les extraits. Adresse : Technopole, 8 rue du Champ de Magny, Magny-Cours. 2e passe : pas de numéro trouvé (les 03 86 21 xx xx du Technopôle relevés dans un document de 2012 sont ceux du circuit et du Pôle de la Performance, non retenus) ; e-mail commercial sales@ligierautomotive.com publié sur le site Ligier (actualité Ligier Days, 2021). Ligier est actionnaire majoritaire de Mygale depuis fin 2024, également installée au Technopôle. 2e niveau : 6 recherches (DAF, CFO/LinkedIn, téléphone 03 86, +33 3 86, Pages Jaunes, page « présence internationale ») sans aucun numéro de standard publié : le site ne montre pas de téléphone dans les extraits ; les numéros du Technopôle (circuit, Pôle de la Performance) ne sont pas ceux de Ligier. Dirigeants inchangés par rapport au registre (Jacques Nicolet président, confirmé par le communiqué Mygale de décembre 2024 ; Pierre Nicolet DG/CEO). Le poste de DAF (création, CDI, Magny-Cours, rattaché au DG, membre du comité de direction, candidatures jusqu'au 30/06/2025) est probablement pourvu, mais aucun nom n'apparaît. Un article professionnel de 2025 citerait Richard Tur comme COO (non vérifié). Adresse de recrutement publiée : recrutement@ligierautomotive.com (non commerciale). Attention : ne pas confondre avec Ligier Group (voiturettes, Abrest, Allier). À l'appel (numéro à obtenir via le Technopôle ou le formulaire du site) : demander le nom du DAF arrivé en 2025 et l'assistante de Pierre Nicolet. 2e niveau : 6 recherches (DAF, CFO/LinkedIn, téléphone 03 86, +33 3 86, Pages Jaunes, page « présence internationale ») sans aucun numéro de standard publié : le site ne montre pas de téléphone dans les extraits ; les numéros du Technopôle (circuit, Pôle de la Performance) ne sont pas ceux de Ligier. Dirigeants inchangés par rapport au registre (Jacques Nicolet président, confirmé par le communiqué Mygale de décembre 2024 ; Pierre Nicolet DG/CEO). Le poste de DAF (création, CDI, Magny-Cours, rattaché au DG, membre du comité de direction, candidatures jusqu'au 30/06/2025) est probablement pourvu, mais aucun nom n'apparaît. Un article professionnel de 2025 citerait Richard Tur comme COO (non vérifié). Adresse de recrutement publiée : recrutement@ligierautomotive.com (non commerciale). Attention : ne pas confondre avec Ligier Group (voiturettes, Abrest, Allier). À l'appel (numéro à obtenir via le Technopôle ou le formulaire du site) : demander le nom du DAF arrivé en 2025 et l'assistante de Pierre Nicolet. 3e passe : 5 recherches (adresse exacte 8 rue du Champ de Magny + téléphone, contact / accueil / standard Technopôle, offres d'emploi, variantes +33 (0)3 86, annuaire des entreprises du Technopôle) sans numéro de standard. Les offres publiées en PDF sur ligierautomotive.com (alternance HSE 2026, ingénieur électronicien, directeur des programmes) ne montrent pas de téléphone dans les extraits, et le site des carrières renvoie à recrutement@ligierautomotive.com. Pas de repli groupe possible : le siège est lui-même à Magny-Cours. Standard toujours manquant. Vérification : L'infobox Wikipedia indique « Pierre Nicolet (CEO) » et Jacques Nicolet président. Le communiqué de 2021 sur l'arrivée de Franck Tiné (ligierautomotive.com) remercie Jacques et Pierre Nicolet. Le titre de directeur général au registre est cohérent. Wikipedia le donne CEO de Ligier Automotive (Jacques Nicolet président) ; presse auto récente le cite comme dirigeant à Magny-Cours.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Soirées/réceptions pour clients et pilotes lors des courses à Magny-Cours, et sponsoring croisé autour du sport automobile.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=LIGIER%20AUTOMOTIVE&departement=58",
+   "https://ligierautomotive.com/en/news/mygale-becomes-ligier-advanced-technologies-a-new-identity-for-strengthened-expertise-in-single-seaters-and-advanced-engineering/",
+   "https://www.diariomotor.com/competicion/noticia/ligier-regresar-a-le-mans-2028/",
+   "https://ligierautomotive.com/en/news/tte-pirelli-series-of-course-competition-secures-the-2025-ligier-js2-r-trophy-at-magny-cours/"
+  ]
+ },
+ {
+  "rang": 24,
+  "siren": "488376278",
+  "nom": "A.B.S AVENIR BENNES ET SERVICES",
+  "nom_commercial": "A.B.S",
+  "activite": "Entreposage et services auxiliaires des transports",
+  "secteur": "Transport & logistique",
+  "description": "Société de Clamecy classée en affrètement et organisation des transports (NAF 52.29B) ; d'après son nom, activité de bennes et services logistiques. Peu d'informations publiques disponibles en ligne.",
+  "ca": 28777360,
+  "resultat": 79798,
+  "effectif": "10-19",
+  "forme_juridique": "SARL",
+  "ville": "Clamecy",
+  "adresse": "ZI Bagatelle, avenue Saint-Exupéry, 58500 Clamecy",
+  "code_postal": "58500",
+  "distance_cosne_km": 55,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS probable",
+   "benefice": true,
+   "resultat": 79798,
+   "ca": 28777360,
+   "annee": null,
+   "plafond": 143887,
+   "prix_max": 719435,
+   "economie_max": 179859,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Bénéfice modeste (80 k€) : l'économie d'impôt est limitée par le bénéfice plus que par le plafond."
+   ]
+  },
+  "dirigeants": [
+   {
+    "nom": "Gilles BETHERY",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Romain SAGNE",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Gilles BETHERY",
+   "fonction": "Gérant (cogérant avec Romain SAGNE, selon le registre ; aucune source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/488376278"
+  },
+  "contact_finance": {
+   "nom": "Gilles BETHERY",
+   "fonction": "Gérant (aucun DAF/RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/488376278"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Romain SAGNE",
+    "fonction": "Gérant (cogérant, registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/488376278",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision probablement prise à Clamecy par les deux cogérants (G. Bethery, R. Sagne) : aucune trace de groupe ou de holding extérieure ; la société pilote un réseau de transporteurs adhérents depuis son siège de Clamecy.",
+  "note_contacts": "Aucune trace en ligne de la société (téléphone, site, annuaire) dans les résultats WebSearch, ni par nom ni par SIREN. Le profil surprend : environ 28,8 M€ de CA pour 10 à 19 salariés en entreposage et services auxiliaires des transports. Il peut s'agir d'une structure de négoce ou d'une société liée à un groupe local ; à vérifier sur le registre. 2e passe : 3 recherches (nom exact + Clamecy, transport vrac avenue Saint-Exupéry, nom + téléphone/contact). Seule trace : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) listant « A.B.S. Avenir Bennes et Services », avenue St Exupéry, 58500 Clamecy, transport de vrac sec en France et pays limitrophes (170 véhicules, réseau de 20 transporteurs adhérents, ce qui explique le CA), sans numéro visible dans l'extrait. Aucun standard trouvé. 2e niveau : 6 recherches (nom exact + Clamecy, noms des gérants + transport, sigle A.B.S + vrac, adresse + téléphone, site officiel) sans standard, site ni e-mail. Seule source : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) qui reprend l'auto-présentation de la société : « spécialiste du transport en vrac solide en France et dans les pays limitrophes, flotte de 170 véhicules récents, réseau de 20 transporteurs adhérents », avenue St Exupéry, 58500 Clamecy, numéro non visible dans l'extrait (fonction « afficher le n° » de l'annuaire). Une fiche 118712.fr de transport vrac/céréales (https://www.118712.fr/professionnels/X0dXWl5THwk) pourrait correspondre, non confirmé. Le CA (28,8 M€ pour 10-19 salariés) s'explique par la sous-traitance aux transporteurs adhérents. Dirigeants : registre non contredit, aucune source récente. À faire avant l'appel : relever le numéro sur la fiche 118000.fr ou Pages Jaunes ; à l'appel, demander qui gère la comptabilité (probablement un cabinet externe) et lequel des deux gérants décide. 2e niveau : 6 recherches (nom exact + Clamecy, noms des gérants + transport, sigle A.B.S + vrac, adresse + téléphone, site officiel) sans standard, site ni e-mail. Seule source : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) qui reprend l'auto-présentation de la société : « spécialiste du transport en vrac solide en France et dans les pays limitrophes, flotte de 170 véhicules récents, réseau de 20 transporteurs adhérents », avenue St Exupéry, 58500 Clamecy, numéro non visible dans l'extrait (fonction « afficher le n° » de l'annuaire). Une fiche 118712.fr de transport vrac/céréales (https://www.118712.fr/professionnels/X0dXWl5THwk) pourrait correspondre, non confirmé. Le CA (28,8 M€ pour 10-19 salariés) s'explique par la sous-traitance aux transporteurs adhérents. Dirigeants : registre non contredit, aucune source récente. À faire avant l'appel : relever le numéro sur la fiche 118000.fr ou Pages Jaunes ; à l'appel, demander qui gère la comptabilité (probablement un cabinet externe) et lequel des deux gérants décide. 3e passe : 5 recherches (nom exact + Clamecy, phrase d'auto-présentation « spécialiste du transport en vrac solide », ABS + bennes céréalières + avenue Saint-Exupéry / Bagatelle, recrutement et site web « avenir-bennes », PagesJaunes / 118712 / societe.com) sans numéro, site ni e-mail : seule la fiche 118000.fr déjà connue ressort, au numéro masqué. BENNES SERVICES (SIREN 353054471, Quincy-Voisins) est une autre société. Standard toujours manquant. Vérification : Aucun résultat ne nomme Gilles Bethery. Contrairement à la note du chercheur (« aucune trace en ligne »), une liste du 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) cite Avenir Bennes et Services, avenue St Exupéry à Clamecy : transport de vrac sec, flotte de 170 véhicules, réseau de 20 transporteurs partenaires. Cela explique le chiffre d'affaires. Aucun numéro trouvé dans les extraits. Recherche « Romain Sagne » + Clamecy : aucun résultat (seulement Romain Rolland et la ville). Registre seul.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Repas d'affaires ponctuels pour une petite équipe ; potentiel limité.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=AVENIR%20BENNES%20ET%20SERVICES&departement=58"
+  ]
+ },
+ {
+  "rang": 25,
+  "siren": "419013297",
+  "nom": "ANTARES",
+  "nom_commercial": "Intermarché Super La Charité-sur-Loire",
+  "activite": "Commerce de détail",
+  "secteur": "Commerce & distribution",
+  "description": "Société exploitant le supermarché Intermarché Super de La Charité-sur-Loire (avec station-service et drive).",
+  "groupe": "Groupement Les Mousquetaires (Intermarché) ; présidée par la holding ALFOCEA (SIREN 447741109), dont le siège est à Cosne-Cours-sur-Loire (gérant Alain Jaudon)",
+  "ca": 28757298,
+  "resultat": 1225614,
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "2 rue des Plantes des Religieuses, 58400 La Charité-sur-Loire",
+  "code_postal": "58400",
+  "distance_cosne_km": 30,
+  "site_cosne": false,
+  "site_local": "Magasin : 2 rue des Plantes des Religieuses, 58400 La Charité-sur-Loire – 03 86 70 28 62 ; holding propriétaire domiciliée à Cosne-Cours-sur-Loire",
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1225614,
+   "ca": 28757298,
+   "annee": null,
+   "plafond": 143786,
+   "prix_max": 718930,
+   "economie_max": 179732,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 70 28 62",
+  "site_web": "https://www.intermarche.com/magasin?pdvref=02766",
+  "dirigeants": [
+   {
+    "nom": "ALFOCEA",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Fanny JAUDON (STIOT)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Fanny Jaudon (née Stiot)",
+   "fonction": "Directrice générale (présidente : la holding ALFOCEA)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/419013297"
+  },
+  "contact_finance": {
+   "nom": "Fanny Jaudon (née Stiot)",
+   "fonction": "Directrice générale",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/419013297"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Alain Jaudon",
+    "fonction": "Gérant de la holding ALFOCEA (Cosne-Cours-sur-Loire), présidente d'ANTARES",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/447741109",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Dans la famille Jaudon (adhérents Intermarché indépendants) : la DG Fanny Jaudon au magasin de La Charité ou la holding familiale ALFOCEA à Cosne-Cours-sur-Loire (Alain Jaudon) ; pas de centrale de décision externe pour ce type d'achat.",
+  "note_contacts": "Supermarché Intermarché indépendant (adhérent), 20-49 salariés : pas de DAF identifié, la directrice générale est l'interlocutrice finance. Numéro du magasin issu d'un agrégateur (au-magasin.fr) ; attention, une fiche Cylex attribue le même numéro et la même adresse à un 'SPAR' (erreur d'annuaire probable). Président : ALFOCEA (personne morale, holding probable). 2e niveau : numéro 03 86 70 28 62 désormais confirmé par la fiche officielle du magasin sur intermarche.com (Intermarché Super La Charité-sur-Loire, 2 rue des Plantes des Religieuses ; lun-sam 8h30-19h15, dim 8h30-12h ; station-service 24h/24). Fiabilité passée d'agrégateur à officielle. Aucune source de presse récente ne cite Fanny ou Alain Jaudon (4 recherches sur les noms, ALFOCEA et le magasin) : dirigeants repris du registre, non contredits. Pas de DAF/comptable identifié (20-49 salariés, comptabilité probablement externalisée ou tenue par la holding). Au standard : demander Mme Jaudon (directrice) et qui gère la comptabilité/administration (holding ALFOCEA ?). Vérification : Numéro retrouvé sur Cylex (supermarché, 2 rue Plantes des Religieuses) en plus d'au-magasin.fr : deux annuaires, aucune source officielle Intermarché. Fanny Jaudon (DG) : uniquement au registre (Pappers), aucune source indépendante trouvée. Le 03 86 70 28 62 est repris par au-magasin.fr et Cylex pour l'Intermarché de la ZI des Plantes des Religieuses. Aucune trace indépendante de Fanny Jaudon (ni de la holding ALFOCEA) liée au magasin. Aucun résultat associant Alain Jaudon à Intermarché, aux Mousquetaires ou à la Charité-sur-Loire. Lien holding ALFOCEA / ANTARES fondé sur le seul registre.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Les propriétaires (famille Jaudon, holding ALFOCEA) sont basés à Cosne-Cours-sur-Loire : animations croisées, sponsoring local, approvisionnement d'appoint et repas d'équipe pour les salariés du magasin.",
+  "interlocuteur_cible": {
+   "nom": "Fanny Jaudon",
+   "fonction": "Directrice générale",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ANTARES&departement=58",
+   "https://www.118000.fr/e_C0101989445",
+   "https://recherche-entreprises.api.gouv.fr/search?q=419013297",
+   "https://recherche-entreprises.api.gouv.fr/search?q=Jaudon&departement=58",
+   "https://www.au-magasin.fr/58400-la-charite-sur-loire/intermarche-12506.html"
+  ]
+ },
+ {
+  "rang": 26,
+  "siren": "312057318",
+  "nom": "ETABLISSEMENTS COIGNETS",
+  "nom_commercial": "Etablissements Coignet",
+  "activite": "Commerce de gros",
+  "secteur": "Commerce & distribution",
+  "description": "Négociant familial en énergies : livraison de fioul et biofioul, carburants (station à Ciez), GNR, AdBlue, granulés et bûches de bois compressé, vente et nettoyage de cuves, plus atelier (pneus, vidanges, mécanique). Siège à Ciez, établissements à Clamecy (Le Foulon) et La Charité-sur-Loire (ZI rue de Gérigny), et un distributeur de granulés en libre-service à Cosne (avenue du 85e de Ligne).",
+  "actualite": "CA 2025 de 20,6 M€ (28,7 M€ en 2022), résultat net de 524 K€.",
+  "ca": 28694748,
+  "resultat": 622149,
+  "ca_recent": 20602407,
+  "res_recent": 524302,
+  "effectif": "10-19",
+  "forme_juridique": "SAS",
+  "ville": "Ciez",
+  "adresse": "6 route du Puits, Les Naslots, 58220 Ciez",
+  "code_postal": "58220",
+  "distance_cosne_km": 25,
+  "site_cosne": false,
+  "site_local": "Distributeur de granulés de bois en libre-service, avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire (selon le site de l'entreprise)",
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 524302,
+   "ca": 20602407,
+   "annee": null,
+   "plafond": 103012,
+   "prix_max": 515060,
+   "economie_max": 128765,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 26 43 28",
+  "email": "coignet-ciez@orange.fr",
+  "site_web": "http://www.etablissements-coignet.fr",
+  "dirigeants": [
+   {
+    "nom": "Sophie Marie Elisabeth COIGNET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Guillaume Alain COIGNET",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Alain COIGNET",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sophie Coignet",
+   "fonction": "Présidente (SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/312057318"
+  },
+  "contact_finance": {
+   "nom": "Sophie Coignet",
+   "fonction": "Présidente (SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/312057318"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Guillaume Coignet",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/312057318"
+   },
+   {
+    "nom": "Alain Coignet",
+    "fonction": "Directeur général délégué",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/312057318",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Dans l'entreprise elle-même, à Ciez : PME familiale indépendante (« depuis 3 générations ») sans groupe ni holding connus, dirigée par la famille Coignet (Sophie, Guillaume et Alain).",
+  "note_contacts": "Numéro déjà connu (deja.telephone), conservé mais non reconfirmé par un extrait de recherche (la fiche 118712 'Garage Coignet' à Ciez, https://www.118712.fr/professionnels/X0JSVlVRFAQ, masque le numéro). Activité réelle : distribution de fioul domestique / carburants (station 'Coignet Carburant' aux Naslots), malgré un code APE vente à distance ; 3 établissements (Ciez, Clamecy, La Charité-sur-Loire). Présidente : Sophie Coignet. Aucun responsable financier trouvé (10-19 salariés). 2e niveau : le 03 86 26 43 28 est maintenant confirmé par le site officiel (page contact, 6 route du Puits, Les Naslots, 58220 Ciez), qui publie aussi l'e-mail générique coignet-ciez@orange.fr. Activité : livraison de fioul, biofioul, carburants, GNR, AdBlue, granulés, nettoyage de cuves, station libre-service aux Naslots ; agences/pages locales à Clamecy, La Charité-sur-Loire et Cosne-Cours-sur-Loire. Aucune source de presse ou web récente ne nomme les dirigeants (le site ne cite aucun nom) : registre conservé, non contredit. Aucun comptable ni RAF trouvé (10-19 salariés, recherche d'offres d'emploi sans résultat). Au téléphone : demander Mme Sophie Coignet (présidente) ou M. Guillaume Coignet (DG), et qui s'occupe de la comptabilité. Vérification : Le 03 86 26 43 28 n'apparaît dans aucun résultat (118712 masque le numéro). Guillaume Coignet (DG) : registre seulement, aucune source indépendante. Deux recherches, numéro introuvable. L'annuaire des entreprises donne le siège aux Naslots, 58220 Ciez, avec trois établissements (Ciez, Clamecy, La Charité-sur-Loire) et une activité de vente à distance sur catalogue spécialisé. Aucune trace d'un Guillaume Coignet lié aux Établissements Coignet de Ciez (résultats historiques homonymes). Recherche « Alain Coignet » + Ciez + Nièvre : aucun résultat ne le cite. Registre seul.",
+  "corrections": [
+   "Champs ca/resultat = exercice 2022 (28,7 M€ / 622 K€) : exercice 2025 = CA 20,6 M€, résultat 524 K€",
+   "Ajout : présence à Cosne (distributeur de granulés en libre-service, avenue du 85e de Ligne) et adresse précise du siège"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Entreprise familiale proche de Cosne et déjà présente à Cosne (distributeur de granulés) : repas d'affaires, échange de visibilité locale, fournisseur potentiel (combustibles, granulés).",
+  "interlocuteur_cible": {
+   "nom": "Guillaume COIGNET",
+   "fonction": "Directeur général (Sophie Coignet est présidente)",
+   "source": "https://www.pappers.fr/entreprise/312057318"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ETABLISSEMENTS%20COIGNETS&departement=58",
+   "https://www.118712.fr/professionnels/X0JSVlVRFAQ",
+   "https://recherche-entreprises.api.gouv.fr/search?q=312057318",
+   "https://www.pappers.fr/entreprise/312057318",
+   "http://www.etablissements-coignet.fr"
+  ]
+ },
+ {
+  "rang": 28,
+  "siren": "300822335",
+  "nom": "ETABLISSEMENTS MARECHAL",
+  "nom_commercial": "Ets Maréchal",
+  "activite": "Commerce de gros",
+  "secteur": "Commerce & distribution",
+  "description": "Distributeur familial de matériel agricole (vente, location, pièces, atelier) fondé en 1963. Siège à Donzy et agences à Corbigny, Sermoise-sur-Loire, Saint-Satur (18) et Torteron (18) ; CA 27,6 M€ en 2024.",
+  "ca": 27552969,
+  "resultat": 1113333,
+  "effectif": "50-99 (tranche INSEE 2024 de l'entreprise) ; 48 salariés selon Xerfi",
+  "forme_juridique": "SAS",
+  "ville": "Donzy",
+  "adresse": "Route de la Belle Etoile, 58220 Donzy",
+  "code_postal": "58220",
+  "distance_cosne_km": 17,
+  "site_cosne": false,
+  "site_local": "Agence de Saint-Satur (18300, secteur Saint-Thibault) à env. 12 km de Cosne – adresse exacte et téléphone non confirmés",
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1113333,
+   "ca": 27552969,
+   "annee": null,
+   "plafond": 137765,
+   "prix_max": 688825,
+   "economie_max": 172206,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 39 30 51",
+  "telephone_a_confirmer": true,
+  "dirigeants": [
+   {
+    "nom": "Claude MARECHAL",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Christophe MARECHAL",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Claude Maréchal",
+   "fonction": "Président (SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/300822335"
+  },
+  "contact_finance": {
+   "nom": "Claude Maréchal",
+   "fonction": "Président (SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/300822335"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Christophe Maréchal",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/300822335",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Dans l'entreprise elle-même, à Donzy : SAS familiale indépendante (famille Maréchal, président Claude Maréchal, DG Christophe Maréchal), sans groupe ni holding identifiés.",
+  "note_contacts": "Négoce / location de matériel agricole (NAF 46.61Z), siège à Donzy + 4 autres établissements dont Corbigny ; 48 salariés selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335), qui cite aussi COGEP Audit / Groupe COGEP parmi les mandataires (probablement commissaire aux comptes). Ni téléphone, ni site web, ni responsable comptable/financier trouvés après 5 recherches. Président : Claude Maréchal. 2e passe : 3 recherches (Ets Maréchal Donzy matériel agricole, établissement de Corbigny 15 route de Saint-Saulge, « Belle Etoile » + « 03 86 ») sans numéro ni site ; Xerfi confirme l'établissement de Corbigny (15 route de St Saulge). 2e niveau : premier numéro trouvé : 03 86 39 30 51, donné par plusieurs annuaires pour « Maréchal (Sté) », La Belle Etoile, Donzy (PagesJaunes https://www.pagesjaunes.fr/pros/00382909, 118000 https://www.118000.fr/e_C0002437156, 118712) ; aucun site officiel trouvé pour le confirmer (fiabilité annuaire). Horaires PagesJaunes : lun-ven 8h-18h, sam 8h-12h. Établissements : Donzy (siège), Corbigny (15 route de Saint-Saulge, fiche PagesJaunes « Etablissements Maréchal SA » https://www.pagesjaunes.fr/pros/00382424), Saint-Satur (18), Sermoise-sur-Loire, Torteron (18). Activité : vente, réparation et location de matériel agricole ; marque(s) représentée(s) non identifiée(s). Aucun comptable/RAF trouvé (48 salariés selon Xerfi ; COGEP Audit est vraisemblablement commissaire aux comptes). Dirigeants du registre non contredits (aucune source récente). Au téléphone : demander M. Claude ou Christophe Maréchal et le/la responsable administratif(ve) ou comptable. Vérification : Xerfi cite Christophe Maréchal parmi les dirigeants (fonction DG non précisée par Xerfi, cohérente avec le registre). Recherche nom + Donzy : aucune occurrence (seulement des pages sur la commune et un archéologue homonyme partiel). DG selon le seul registre.",
+  "corrections": [
+   "Tranche d'effectif : le registre INSEE 2024 indique 50-99 salariés pour l'entreprise (20-49 ne vaut que pour le siège) ; Xerfi annonce 48"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Tout proche de Cosne (Donzy, Saint-Satur) : journées clients/portes ouvertes avec traiteur, repas d'affaires avec agriculteurs et repas de fin d'année des 48 salariés.",
+  "interlocuteur_cible": {
+   "nom": "Christophe Maréchal",
+   "fonction": "Directeur général",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ETABLISSEMENTS%20MARECHAL&departement=58",
+   "https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335",
+   "https://recherche-entreprises.api.gouv.fr/search?q=300822335",
+   "https://www.le-site-de.com/marechal-ets--18300_193152.html"
+  ]
+ },
+ {
+  "rang": 29,
+  "siren": "886020031",
+  "nom": "SAS GARAGE VINCENT",
+  "nom_commercial": "Garage Vincent – Citroën & DS Store Nevers (3 route de Paris) / Grand Tourisme Automobile – GTA (Fiat, Alfa Romeo, Jeep ; 30 route de Paris)",
+  "activite": "Commerce et réparation automobile",
+  "secteur": "Automobile",
+  "description": "Société principale du Groupe Vincent, route de Paris à Varennes-Vauzelles (nord de Nevers) : concession Citroën et DS Store (3 route de Paris) et, depuis juillet 2024, l'établissement Grand Tourisme Automobile (GTA : Fiat, Alfa Romeo, Jeep ; 30 route de Paris). La concession Toyota voisine (1 route de Paris) relève de Central Parc Automobile. Le Groupe Vincent (≈18 sites en Nièvre, Cher, Allier, Loiret et Val-de-Marne) distribue aussi Peugeot, Leapmotor, Toyota et la location Distance, et est présent à Cosne via SOC GARAGE G R V (Citroën/Peugeot).",
+  "actualite": "Exercice 2025 : CA 26,4 M€ (stable) mais perte nette de 608 K€, après un bénéfice de 381 K€ en 2024 ; l'établissement Grand Tourisme Automobile (30 route de Paris) a été rattaché à la société en juillet 2024.",
+  "groupe": "Groupe Vincent (même président que CATAR et SOC GARAGE G R V à Cosne ; la concession Toyota de Varennes-Vauzelles est exploitée par Central Parc Automobile, autre société du groupe)",
+  "ca": 26416861,
+  "resultat": 381494,
+  "res_recent": -608244,
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "3 route de Paris, 58640 Varennes-Vauzelles",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "site_cosne": false,
+  "site_local": "Aucun établissement de la société près de Cosne ; le groupe y est présent via SOC GARAGE G R V (Citroën/Peugeot), chemin rural du Grand Champ – RN7 sud, 58200 Cosne-Cours-sur-Loire, tél. 03 86 28 49 70",
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -608244,
+   "ca": 26416861,
+   "annee": null,
+   "plafond": 132084,
+   "prix_max": 660420,
+   "economie_max": 165105,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "telephone": "03 86 68 22 00",
+  "site_web": "http://www.groupevincent.fr/",
+  "dirigeants": [
+   {
+    "nom": "Rodolphe VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (dirigeant du groupe Vincent)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+  },
+  "contact_finance": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (aucun DAF/RAF/chef comptable du groupe publié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/886020031"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Guillaume VINCENT",
+    "fonction": "Directeur général délégué de la société sœur 571881002 (registre) — rôle dans SAS Garage Vincent à confirmer",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/571881002",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Au niveau du groupe familial Vincent, dont le siège et la principale concession sont route de Paris à Varennes-Vauzelles (Nièvre) : Rodolphe Vincent préside la société et toutes les sociétés sœurs (Central Parc Automobile, CATAR, Garage GRV, Distance).",
+  "note_contacts": "03 86 68 22 00 = Citroën/DS, 3 route de Paris (confirmé par un annuaire) ; 03 86 71 09 10 = GTA (Fiat, Alfa Romeo, Jeep), 30 route de Paris, repris de deja sans revérification. Le Groupe Vincent a repris GTA – Garages Tenailles Auto (Nevers, Varennes-Vauzelles, Moulins) selon le Journal de l'Automobile. Aucun DAF/comptable nommé trouvé ; une offre France Travail « Chef de service comptabilité » à Nevers (https://candidat.francetravail.fr/offres/recherche/detail/191KRJF) n'est pas rattachée à un employeur identifié. 2e niveau : 6 recherches. SAS Garage Vincent exploite la concession Citroën/DS du 3 route de Paris (idGarages, acceslibre, Mappy) et apparaît aussi comme exploitant de la concession Fiat du 30 route de Paris (https://lesvoitures.fr/adresse/fiat-sas-garage-vincent-varennes-vauzelles/). Standard 03 86 68 22 00 : mes extraits ne le montrent que sur l'annuaire lesvoitures.fr ; la page officielle groupevincent.fr citée en source l'affiche selon le relevé du lot t02 (avec DS Store 03 86 68 53 10 et GTA Fiat/Alfa/Jeep 03 86 71 09 10). Le numéro +33 3 81 31 19 89 attribué au groupe par BuiltWith (indicatif du Doubs) reste écarté. Dirigeant conforme au registre ; presse spécialisée (Journal de l'Automobile) seulement jusqu'en 2019 : 16 concessions Cher/Loiret/Nièvre/Allier. Aucun DAF, RAF, chef comptable ni contrôleur de gestion trouvé (presse, offres d'emploi, LinkedIn) ; les offres d'assistant comptable à Varennes-Vauzelles émanent du cabinet COGEP (commissaire aux comptes du groupe selon une autre fiche), pas du groupe. À demander à l'appel : le nom du responsable administratif et financier ou chef comptable du groupe Vincent (siège route de Paris) et du directeur de la concession Citroën/DS. Vérification : 03 86 68 22 00 confirmé pour Citroën SAS Garage Vincent, 3 route de Paris (annuaire lesvoitures.fr). Le site Fiat (30 route de Paris) a un autre numéro : 03 86 71 09 10. Garage Vincent (3 route de Paris, Varennes-Vauzelles) bien trouvé, mais aucun résultat ne nomme Guillaume Vincent.",
+  "corrections": [
+   "Toyota attribué à tort : la concession Toyota de Varennes-Vauzelles (1 route de Paris) est exploitée par Central Parc Automobile, autre société du groupe",
+   "Enseignes réelles de la société : Citroën et DS Store (3 route de Paris) et Grand Tourisme Automobile (Fiat/Alfa Romeo/Jeep, 30 route de Paris, rattaché en juillet 2024)",
+   "Résultat : 381 K€ correspond à l'exercice 2024 ; l'exercice 2025 (CA 26,4 M€) se solde par une perte de 608 K€",
+   "Priorité Haute ramenée à Moyenne : aucun établissement près de Cosne (la présence cosnoise du groupe est GRV, fiche distincte déjà en priorité Haute)"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Pas d'établissement près de Cosne : à traiter avec la fiche GRV (même président, Rodolphe Vincent) ; intérêt surtout pour des événements à l'échelle du groupe (lancements de modèles, séminaires, repas d'équipe).",
+  "interlocuteur_cible": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président (préside aussi GRV à Cosne et CATAR à Nevers)",
+   "source": "https://www.pappers.fr/entreprise/886020031"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GARAGE%20VINCENT&departement=58",
+   "https://acceslibre.beta.gouv.fr/app/58-varennes-vauzelles/a/carrosserie/erp/garage-vincent/",
+   "https://www.groupevincent.fr/",
+   "https://www.pappers.fr/entreprise/886020031",
+   "https://www.groupevincent.fr/contact/",
+   "https://lesvoitures.fr/adresse/citroen-sas-garage-vincent-varennes-vauzelles/"
+  ]
+ },
+ {
+  "rang": 30,
+  "siren": "825065279",
+  "nom": "NEVINO",
+  "nom_commercial": "Intermarché (Nevers)",
+  "activite": "Commerce de détail",
+  "secteur": "Commerce & distribution",
+  "description": "Société exploitant un hypermarché/supermarché sous enseigne Intermarché à Nevers (boulevard Jean Moulin selon le registre).",
+  "groupe": "Groupement Les Mousquetaires (Intermarché)",
+  "ca": 26212653,
+  "resultat": 1024882,
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "ville": "Nevers",
+  "adresse": "Boulevard Jean Moulin, 58000 Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1024882,
+   "ca": 26212653,
+   "annee": null,
+   "plafond": 131063,
+   "prix_max": 655315,
+   "economie_max": 163829,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 93 24 00",
+  "telephone_a_confirmer": true,
+  "dirigeants": [
+   {
+    "nom": "Laurent POMMIER",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Diego FERNANDEZ",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent POMMIER",
+   "fonction": "Président de SAS (adhérent Intermarché ; registre, aucune source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/825065279"
+  },
+  "contact_finance": {
+   "nom": "Laurent POMMIER",
+   "fonction": "Président de SAS (aucun RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/825065279"
+  },
+  "decision": "Décision prise localement à Nevers par l'adhérent qui possède le magasin (Laurent Pommier, avec son DG Diego Fernandez) : chez Intermarché chaque point de vente appartient à un chef d'entreprise indépendant, le groupement (ITM, Paris) n'intervient pas dans ce type d'achat.",
+  "note_contacts": "Impossible de savoir quel Intermarché de Nevers exploite NEVINO : aucun Intermarché n'a été trouvé boulevard Jean Moulin. Deux magasins sont référencés. (1) Intermarché Super, 33 boulevard du Pré Plantin : 03 86 93 08 75 (au-magasin.fr, source faible, https://www.au-magasin.fr/58000-nevers/intermarche-11897.html). (2) Intermarché Hyper « Bords de Loire », rue Bernard Palissy : un annuaire donne le 03 86 93 24 00, non vérifié. Faire confirmer le bon numéro avant l'appel. 2e passe : le 03 86 93 08 75 est donné par Cylex pour l'« Intermarché Super Nevers » (dit « Nevers Hôpital »), rue Romain Baron, centre commercial Les Loges, et par au-magasin.fr pour le 33 bd du Pré Plantin : deux annuaires concordants pour le seul Intermarché Super de Nevers (l'autre magasin est l'Hyper « Bords de Loire », rue Bernard Palissy). Le rattachement de NEVINO (adresse bd Jean Moulin, 50-99 salariés) à ce Super reste probable mais non confirmé : demander à l'accueil si le magasin est bien exploité par NEVINO. 2e niveau : changement de standard. Le numéro déjà présent (03 86 93 08 75) est celui de l'Intermarché Super du bd du Pré Plantin / rue Romain Baron, qui est exploité par une autre société, LODILOIRE (SIREN 424455012) : fiche station Zagaz « Intermarché - Super - Nevers - Lodiloire SA » (https://www.zagaz.com/carte.php?id_s=7467) et décision 17-DCC-161 de l'Autorité de la concurrence (Lodiloire exploite un Intermarché de 2 090 m² à Nevers, https://www.autoritedelaconcurrence.fr/sites/default/files/commitments//17DCC161versionpublication.pdf). Par élimination, NEVINO exploite très probablement l'autre magasin, l'Intermarché Hyper du centre commercial des Bords de Loire, 22 rue Bernard Palissy : 03 86 93 24 00 (Cylex et mylpg.eu concordants, annuaires). Hypothèse non confirmée par une source officielle (aucune page intermarche.com dans les résultats) ; une décision 19-DCC-71 (prise de contrôle d'un fonds Intermarché à Nevers par Intermarché Alimentaire International, avril 2019) pourrait concerner ce magasin. Aucune trace en ligne du nom NEVINO ni de L. Pommier ; dirigeants du registre non contredits. 6 recherches utilisées. À l'appel : vérifier que le magasin est bien exploité par NEVINO (sinon essayer le 03 86 93 08 75), demander M. Pommier ou le directeur du magasin, et qui tient la comptabilité (souvent un cabinet ou le pôle de gestion de l'adhérent). Vérification : « Laurent Pommier » + Intermarché Nevers : aucun résultat ne le nomme. Les résultats listent deux Intermarché à Nevers, l'un rue Bernard Palissy (Hyper), l'autre boulevard du Pré Plantin (Super) ; aucun boulevard Jean Moulin. Le magasin exploité par NEVINO reste incertain. Recherche « Diego Fernandez » + Intermarché + Nevers : ac-franchise indique que l'Intermarché de La Machine « est géré par Diego Fernandez » depuis mai (année non précisée), avec son épouse Carole. Le couple est arrivé dans la Nièvre en 2018. Ce magasin dépend d'une autre société (MADELIE, SIREN 391484730, où le CRM le liste déjà), dont le registre n'est pas encore à jour : la reprise est donc récente, et postérieure à son mandat de DG chez NEVINO. Il dirige désormais son propre magasin. Remplaçant chez NEVINO inconnu : demander M. Pommier.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Peu de potentiel direct à Cosne : soirée d'équipe pour les salariés ou opérations promotionnelles croisées.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=NEVINO&departement=58"
+  ]
+ },
+ {
+  "rang": 31,
+  "siren": "631880408",
+  "nom": "BONGARD BAZOT ET FILS",
+  "nom_commercial": "Bongard Bazot et Fils",
+  "activite": "Sylviculture et exploitation forestière",
+  "secteur": "Bois & forêt",
+  "description": "Entreprise familiale d'exploitation forestière et de scierie dans le Morvan (Saint-Péreuse), avec des sites à La Machine et Moulins-Engilbert. Achat de bois sur pied, abattage, sciage et commerce de bois.",
+  "groupe": "Famille Bongard-Bazot (groupements forestiers, SCI)",
+  "ca": 25977485,
+  "resultat": 351969,
+  "effectif": "100-199",
+  "forme_juridique": "SAS",
+  "ville": "Saint-Péreuse",
+  "adresse": "1 route des Fontaines, 58110 Saint-Péreuse",
+  "code_postal": "58110",
+  "distance_cosne_km": 110,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 351969,
+   "ca": 25977485,
+   "annee": null,
+   "plafond": 129887,
+   "prix_max": 649435,
+   "economie_max": 162359,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 84 40 12",
+  "telephone_a_confirmer": true,
+  "site_web": "http://www.bongard-bazot.fr",
+  "dirigeants": [
+   {
+    "nom": "Jean-Philippe BAZOT",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eric BAZOT (BONGARD)",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Jean-Luc BONGARD",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Philippe BAZOT",
+   "fonction": "Président de SAS (registre ; aucune source plus récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "contact_finance": {
+   "nom": "Jean-Philippe BAZOT",
+   "fonction": "Président de SAS (aucun DAF/RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eric BAZOT (BONGARD)",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/631880408",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Jean-Luc BONGARD",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/631880408"
+   }
+  ],
+  "decision": "Décision prise dans la Nièvre, au siège de Saint-Péreuse, par les familles Bazot et Bongard (président et deux DG) : entreprise familiale indépendante créée en 1963, sans groupe extérieur.",
+  "note_contacts": "Standard = numéro déjà connu (entrée), non revérifié : les extraits Cylex (https://www.cylex-locale.fr/entreprises/bongard-bazot-et-fils-11307240.html) n'affichaient pas le numéro. Aucun DAF/RAF/comptable trouvé malgré 100-199 salariés. Un dossier ICPE de la préfecture (https://www.nievre.gouv.fr/index.php/contenu/telechargement/6361/71729/file/Dossier_enregistrement_BBF.pdf) situe la scierie à La Machine (route de Decize, 58260). Directeurs généraux au registre : Eric BAZOT (BONGARD) et Jean-Luc BONGARD. 2e niveau : 6 recherches. Standard 03 86 84 40 12 (déjà au CRM) non confirmé : aucune page en ligne ne l'affiche dans les extraits (Cylex et Manageo masquent le numéro derrière « afficher le numéro »). Fiche Cylex mise à jour en avril 2026 (https://www.cylex-locale.fr/entreprises/bongard-bazot-et-fils-11307240.html) : Le Bourg, 58110 Saint-Péreuse, ouvert du lundi au vendredi 8h-12h / 13h30-17h ; sciage de chêne et de Douglas, bois de chauffage, granulés, plaquettes. Communiqué de la préfecture de 2021 (https://www.nievre.gouv.fr/contenu/telechargement/10196/90904/file/210428_dp_mercredi_relance_foret_graines_et_plants.pdf) : entreprise familiale créée en 1963, 113 salariés, environ 20 M€ de CA, exploitation forestière, sciage et travaux ruraux ; scierie à La Machine (route de Decize). Site bongard-bazot.fr signalé par Manageo, non vu dans les résultats. Aucun DAF/RAF ni comptable nommé, aucune offre d'emploi trouvée ; dirigeants du registre non contredits. Une société distincte « Entreprise Jean-Philippe Bazot » (SIREN 405106956) existe à la même adresse. Ne pas confondre avec Bongard (fours de boulangerie, Alsace). À l'appel : confirmer le numéro, demander la personne en charge de la comptabilité / administration (taille 100-199 salariés : probablement un(e) responsable administratif(ve) ou comptable interne) et lequel des dirigeants traite les dons et achats d'œuvres. Vérification : Numéro cherché seul puis avec le nom : introuvable (Cylex et Manageo ne l'affichent pas). Le préfixe 03 86 84 correspond bien au secteur Châtillon-en-Bazois. J.-Ph. Bazot n'apparaît en ligne que comme entrepreneur individuel (sylviculture, Saint-Péreuse) ; aucun départ signalé. Un annuaire d'entreprises le donne PDG de Bongard Bazot et Fils de 2003 au 26/03/2020 (mandat clos) ; rien ne confirme la fonction actuelle de DG. À vérifier au registre avant appel. Résultats : autres membres de la famille Bazot à Saint-Péreuse (Jeanne, Tristan, Fanny, entreprise Jean-Philippe Bazot) et anciens DG non nommés (2004-2017). Aucun Eric Bazot trouvé ; à vérifier avant appel.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Trop éloigné de Cosne pour des repas réguliers ; éventuel fournisseur de bois pour l'aménagement ou le chauffage.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=BONGARD%20BAZOT&departement=58",
+   "https://www.cylex-locale.fr/entreprises/bongard-bazot-et-fils-11307240.html"
+  ]
+ },
+ {
+  "rang": 32,
+  "siren": "393676895",
+  "nom": "ALFA LAVAL SPIRAL",
+  "nom_commercial": "Alfa Laval Spiral",
+  "activite": "Fabrication de machines et équipements",
+  "secteur": "Industrie",
+  "description": "Site de production nivernais du groupe suédois Alfa Laval (10 rue Alfred Massé, Nevers) : site industriel créé en 1947 (cuves à lait) qui fabrique et entretient depuis 1972 des échangeurs de chaleur spiralés pour la pétrochimie, le raffinage, la sidérurgie, la papeterie, le traitement des eaux et la pharmacie. Premier site de production d'Alfa Laval en France et centre d'excellence de cette technologie, il livre le monde entier hors Amériques et Inde.",
+  "actualite": "Comptes 2025 déposés (BODACC du 08/10/2026) : CA 23,2 M€ (contre 25,7 M€ en 2024) et perte nette de 3,56 M€, après -0,7 M€ en 2024 ; capital porté à 1,35 M€ (BODACC du 17/02/2026).",
+  "groupe": "Alfa Laval (Suède)",
+  "ca": 25690379,
+  "resultat": -699635,
+  "effectif": "100-199 (environ 115 salariés)",
+  "forme_juridique": "SAS",
+  "ville": "Nevers",
+  "adresse": "10 rue Alfred Massé, 58000 Nevers",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -699635,
+   "ca": 25690379,
+   "annee": null,
+   "plafond": 128452,
+   "prix_max": 642260,
+   "economie_max": 160565,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "telephone": "03 86 59 83 01",
+  "site_web": "https://www.alfalaval.fr/a-propos-alfa-laval/notre-entreprise/alfa-laval-en-france/alfa-laval-spiral/",
+  "dirigeants": [
+   {
+    "nom": "Johan Andre K VANHOREN",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Johan VANHOREN",
+   "fonction": "Président de SAS (depuis le 10/05/2022, mandataire du groupe Alfa Laval)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/393676895"
+  },
+  "contact_finance": {
+   "nom": "Johan VANHOREN",
+   "fonction": "Président de SAS (aucun contrôleur de gestion ni responsable financier du site publié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/393676895"
+  },
+  "decision": "Probablement hors de la Nièvre, au niveau du groupe suédois Alfa Laval (président de SAS = mandataire du groupe) : le site de Nevers est une usine de production sans directeur ni financier publié, et le budget mécénat/achat relève sans doute de la direction France ou du groupe.",
+  "note_contacts": "Standard repris de deja, non revu dans les résultats de recherche. Site de production d'échangeurs de chaleur spiralés depuis 1972, plus de 100 salariés (https://www.alfalaval.com/fr-ca/propos-dalfa-laval-au-canada/notre-entreprise/alfa-laval-en-france/alfa-laval-spiral/) ; Xerfi : environ 106 salariés, CA 2024 d'environ 25,7 M€. Aucun directeur de site ni contrôleur de gestion nommé trouvé (3 recherches) ; la finance relève probablement du groupe (Alfa Laval recrute par ailleurs un « Factory Controller » pour son usine de Chalon-sur-Saône). Président = mandataire du groupe, peu accessible localement. 2e niveau : 6 recherches. Standard 03 86 59 83 01 (repris de « deja ») introuvable sur le web, même en recherche exacte : non confirmé, à vérifier à l'appel ; aucune autre ligne trouvée (Pappers, Xerfi, 118000 ne donnent que l'adresse 10 rue Alfred Massé). Registre cohérent (Johan Vanhoren président depuis 2022) ; aucune source plus récente sur un directeur d'usine. Un profil LinkedIn (https://fr.linkedin.com/in/roula-nahas) remonte sur les recherches « Alfa Laval Spiral Nevers directeur de site » mais aucun extrait ne confirme son poste : piste à vérifier, non retenue. Aucun contrôleur de gestion / RAF du site trouvé ; le groupe recrute des « Factory Controller » par usine (offre à Chalon-sur-Saône), donc un contrôleur d'usine existe probablement à Nevers. Pappers : CA 2024 ≈ 25,7 M€ et perte nette ≈ 0,7 M€ (impact sur l'intérêt fiscal de l'achat). Plus de 100 salariés et une dizaine d'alternants (page officielle). À demander à l'appel : le nom du directeur de site et du contrôleur de gestion de l'usine de Nevers.",
+  "corrections": [
+   "Actualité : le dernier exercice publié est 2025 (perte nette de 3,56 M€, CA 23,2 M€), et non 2024 (-0,7 M€)",
+   "Description : le site livre le monde entier hors Amériques et Inde (et non « le monde entier »)"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Cible secondaire (Nevers, 56 km) : repas d'affaires pour clients et auditeurs du groupe en visite, événements d'équipe pour ~115 salariés ; contexte de pertes (-3,56 M€ en 2025) peu propice aux dépenses.",
+  "interlocuteur_cible": {
+   "nom": "Johan Vanhoren",
+   "fonction": "Président de la SAS depuis le 10/05/2022 (mandataire du groupe ; directeur de site non identifié publiquement)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ALFA%20LAVAL%20SPIRAL&departement=58",
+   "https://www.lindustrie-recrute.fr/entreprise/4366/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=393676895",
+   "https://www.pappers.fr/entreprise/393676895",
+   "https://www.alfalaval.fr/a-propos-alfa-laval/notre-entreprise/alfa-laval-en-france/alfa-laval-spiral/"
+  ]
+ }
+]

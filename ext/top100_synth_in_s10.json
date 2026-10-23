@@ -1,0 +1,589 @@
+[
+ {
+  "rang": 94,
+  "siren": "950376566",
+  "nom": "DISTANCE LA LOCATION AUTOMOBILE",
+  "nom_commercial": "Distance Location Automobile",
+  "nom_court": "Distance location auto (groupe Vincent)",
+  "activite": "Location et location-bail",
+  "secteur": "Transport & logistique",
+  "description": "Loueur de voitures, utilitaires et camions (courte et longue durée) basé route de Paris à Varennes-Vauzelles, avec des agences à Cosne-Cours-sur-Loire (chemin rural du Grand Champ, depuis 2014) et à Créteil (94, depuis 2021) ; clientèle de particuliers, d'entreprises et de collectivités (marchés de location de véhicules avec Ivry-sur-Seine et Saint-Maur-des-Fossés). Société rattachée au groupe automobile Vincent.",
+  "actualite": "Modification de la répartition du capital et mise à jour des statuts en septembre 2025.",
+  "groupe": "Groupe Vincent (distribution automobile nivernaise) : holding VINCENT SAS, 3 route de Paris à Varennes-Vauzelles, présidée par Rodolphe Vincent, également président de Distance (VINCENT SA était administratrice jusqu'en 2023)",
+  "ca": 7953284,
+  "resultat": 372433,
+  "effectif": "10-19",
+  "forme_juridique": "SAS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "30 Route de Paris, 58640 Varennes-Vauzelles (agence : Chemin rural du Grand Champ, 58200 Cosne-Cours-sur-Loire)",
+  "code_postal": "58640",
+  "distance_cosne_km": 50,
+  "site_cosne": true,
+  "site_local": "Agence Distance – chemin rural du Grand Champ (secteur RN7 Cosne Sud), 58200 Cosne-Cours-sur-Loire (établissement actif depuis 2014 ; téléphone non trouvé)",
+  "priorite": "Haute",
+  "vague": 1,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 372433,
+   "ca": 7953284,
+   "annee": null,
+   "plafond": 39766,
+   "prix_max": 198830,
+   "economie_max": 49708,
+   "espace": "agence",
+   "espace_txt": "Espace d'accueil de la clientèle",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 71 09 10",
+  "site_web": "https://www.groupevincent.fr/rent-distance/",
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Vincent",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président (président de la SAS Distance et dirigeant du groupe Vincent)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/950376566"
+  },
+  "contact_finance": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/950376566"
+  },
+  "decision": "Au niveau du groupe familial Vincent (holding VINCENT SAS, route de Paris à Varennes-Vauzelles, Nièvre) : Distance est la branche location du groupe et Rodolphe Vincent préside à la fois la société et le groupe.",
+  "note_contacts": "Aucun numéro, email ni site trouvés (les recherches sur « Distance » renvoient des calculateurs d'itinéraires). Rodolphe Vincent dirige le groupe Vincent (concessions Fiat/Alfa Romeo/Jeep autour de Nevers, Varennes-Vauzelles et Moulins selon https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/, article de 2018). Aucun responsable finance du groupe trouvé. 2e passe : 3 recherches sans numéro propre. Xerfi confirme le siège au 30 route de Paris, 3 autres établissements et l'activité de location longue durée (https://www.xerfi.com/etudes-par-entreprise/distance-la-location-automobile_950376566) ; Justacoté liste « Distance Location Automobile » aux 3 et 30 route de Paris (voitures, minibus, utilitaires) sans numéro visible (https://www.justacote.com/germigny-sur-loire-58320/location-de-vehicule/). Non retenu comme standard : le garage Citroën SAS Garage Vincent (autre société du groupe Vincent), 3 route de Paris, 03 86 68 22 00 selon un annuaire (https://lesvoitures.fr/adresse/citroen-sas-garage-vincent-varennes-vauzelles/). 2e niveau : site officiel trouvé : Distance est la marque location du groupe Vincent (page https://www.groupevincent.fr/rent-distance/), avec des agences à Varennes-Vauzelles/Nevers (https://www.groupevincent.fr/etablissement/distance-nevers/), Cosne-sur-Loire (https://www.groupevincent.fr/etablissement/distance-cosne-sur-loire/) et Créteil. Le numéro propre de l'agence Distance n'est pas apparu dans les extraits (quota de 6 recherches atteint) : à lire sur la page établissement Distance Nevers. Standard retenu à défaut : 03 86 71 09 10, ligne officielle de la concession Grand Tourisme Automobile (Fiat/Alfa Romeo/Jeep) du groupe Vincent au 30 route de Paris, même adresse que le siège de Distance. Autres lignes officielles du groupe à Varennes-Vauzelles : Citroën 3 route de Paris 03 86 68 22 00, DS Store 03 86 68 53 10, Toyota 1 route de Paris 03 86 71 69 00 (https://www.groupevincent.fr/etablissement/citroen-varennes-vauzelles/). Aucun DAF/comptable du groupe trouvé (recherche « Groupe Vincent » DAF/RAF/chef comptable sans résultat) : demander au standard qui tient la comptabilité du groupe (probablement centralisée à la holding). Groupe familial « depuis 1909 », 16 concessions en Cher, Loiret, Nièvre et Allier selon la presse (2018-2019). Vérification : Rodolphe Vincent : président du registre. Journal de l'Automobile le cite à la tête du groupe Vincent (articles 2013-2019). Aucune trace de 03 86 71 09 10 ni de Distance location auto à Varennes-Vauzelles dans les résultats.",
+  "corrections": [
+   "Groupe : présentée comme loueur indépendant (groupe null) alors qu'elle est liée au groupe Vincent (holding VINCENT SAS, même président ; VINCENT SA administratrice jusqu'en 2023 ; catégorie INSEE ETI)"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Agence à Cosne : offres croisées (location de minibus/véhicules pour les événements, remise pour les clients du loueur) et déjeuners d'équipe ; possibilité d'élargir au groupe Vincent (VINCENT SAS, même président).",
+  "interlocuteur_cible": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président (depuis 2021) ; préside aussi la holding VINCENT SAS",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=DISTANCE%20LA%20LOCATION%20AUTOMOBILE&departement=58",
+   "https://www.pappers.fr/entreprise/distance-la-location-automobile-950376566",
+   "https://recherche-entreprises.api.gouv.fr/search?q=950376566",
+   "https://recherche-entreprises.api.gouv.fr/search?q=571881002",
+   "https://recherche-entreprises.api.gouv.fr/search?q=GRANDS%20CHAMPS%20AUTOMOBILES&code_postal=58200",
+   "https://www.pappers.fr/entreprise/950376566"
+  ]
+ },
+ {
+  "rang": 95,
+  "siren": "823921739",
+  "nom": "MAELANN",
+  "nom_commercial": "Intermarché (Dornes)",
+  "activite": "Commerce de détail",
+  "secteur": "Commerce & distribution",
+  "description": "Société d'exploitation du supermarché Intermarché de Dornes, dans le sud de la Nièvre, en direction de Moulins. Magasin indépendant du Groupement Les Mousquetaires.",
+  "actualite": "Nomination de deux directrices générales en juin 2025 ; décision de la cour d'appel de Bourges en mai 2026 dans un contentieux.",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "ca": 7790567,
+  "resultat": 35116,
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "Dornes",
+  "adresse": "Lieu-dit Les Blondeaux, Route de Moulins, 58390 Dornes",
+  "code_postal": "58390",
+  "distance_cosne_km": 90,
+  "site_cosne": false,
+  "priorite": "Moyenne",
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 35116,
+   "ca": 7790567,
+   "annee": null,
+   "plafond": 38953,
+   "prix_max": 194765,
+   "economie_max": 48691,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "dirigeants": [
+   {
+    "nom": "Mikaël Le Guillou",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Aurore Jeandeau",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Déborah Lefebvre",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mikaël LE GUILLOU",
+   "fonction": "Président de SAS (registre ; non confirmé par une source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/823921739"
+  },
+  "contact_finance": {
+   "nom": "Mikaël LE GUILLOU",
+   "fonction": "Président de SAS (registre) — aucun comptable/RAF nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/823921739"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Aurore JEANDEAU",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/823921739",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Déborah LEFEBVRE",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/823921739"
+   }
+  ],
+  "decision": "Décision prise sur place à Dornes par l'adhérent exploitant (Intermarché = adhérents indépendants propriétaires de leur point de vente) et ses co-DG ; pas de siège de groupe impliqué.",
+  "note_contacts": "Aucun numéro de magasin trouvé dans les extraits (Que Choisir, Zagaz, ac-franchise, prix-carburant ne donnent pas de téléphone). Magasin Intermarché Super/Contact, route de Moulins, lieu-dit Les Blondeaux, Dornes (https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm6558/). Aucune source publique ne confirme les mandats au-delà du registre. 2e niveau : 6 recherches (téléphone magasin, « 03 86 », Le Guillou, Maelann, offres d'emploi) sans numéro du magasin ni nom au-delà du registre. Confirmé : Intermarché Contact / Super exploité par « SA Maelann », lieu-dit Les Blondeaux, route de Moulins (D13), 58390 Dornes, station carburant 24h/24 et DAB (Zagaz, https://www.zagaz.com/station-avis.php?id_s=21265 ; Que Choisir, https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm6558/) ; magasin relativement récent (création 06/03/2017 selon Promocatalogues). Numéros vus mais NON retenus : 03 86 50 61 44 (Pharmacie Trouart, 6 route de Moulins) et 03 86 50 60 47 (mairie de Dornes). À faire : trouver le numéro sur intermarche.com (fiche magasin Dornes) ou Google Maps ; à l'appel, demander M. Le Guillou ou l'une des deux directrices générales (Aurore Jeandeau, Déborah Lefebvre) et qui tient la comptabilité. Vérification : Aucune occurrence du nom. Une brochure Mousquetaires de 2021 cite une adhérente prénommée Aurore, mais en Gironde et sans nom de famille ; probablement une autre personne.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Très faible : magasin dans le sud du département, sans lien avec Cosne.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=MAELANN&departement=58",
+   "https://www.pappers.fr/entreprise/maelann-823921739"
+  ]
+ },
+ {
+  "rang": 96,
+  "siren": "404816712",
+  "nom": "CIA IMPRIMERIE",
+  "nom_commercial": "CIA Graphic (enseignes CIA Bourgogne, IB Imprimerie, CIA Direct, CIA Com)",
+  "activite": "Imprimerie",
+  "secteur": "Imprimerie & papier",
+  "description": "Imprimerie de labeur (tous travaux d'impression) à Pougues-les-Eaux, qui se présente comme « l'imprimeur près de chez vous ». Titulaire de marchés publics nationaux (Institut national du cancer, 2023).",
+  "actualite": "CA en recul de 7,73 M€ (2023) à 5,74 M€ (2025), résultat d'exploitation négatif depuis 2023 mais résultat net positif (163 K€ en 2025).",
+  "groupe": "2B Finance et Conseils (holding présidente)",
+  "ca": 7725252,
+  "resultat": 317557,
+  "effectif": "20-49 (30 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "Zone Industrielle, 58320 Pougues-les-Eaux",
+  "code_postal": "58320",
+  "distance_cosne_km": 45,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 317557,
+   "ca": 7725252,
+   "annee": null,
+   "plafond": 38626,
+   "prix_max": 193130,
+   "economie_max": 48282,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "dirigeants": [
+   {
+    "nom": "2B FINANCE ET CONSEILS (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Xavier BOULOT",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS, elle-même présidente de la SAS CIA Imprimerie (information CRM/registre, non confirmée en ligne)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Xavier BOULOT",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS (aucun DAF/RAF/comptable nommé trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712"
+  },
+  "decision": "Décision probablement prise localement à Pougues-les-Eaux par le dirigeant de la holding présidente 2B Finance et Conseils (PME indépendante de ~30 salariés, sans groupe extérieur identifié).",
+  "note_contacts": "Aucun numéro trouvé (3 recherches). Imprimerie CIA Graphic membre du réseau Imprifrance (profil Motherbase, auto-déclaratif). Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712) : créée en mars 1996, capital 604 k€, siège à Pougues-les-Eaux. Dirigeant repris de deja/registre (Xavier Boulot via la holding 2B Finance et Conseils), non confirmé par une source en ligne. Adresse issue d'un agrégateur (Motherbase) : à vérifier. 2e passe : 3 recherches (CIA Graphic + Pougues, adresse 1A impasse des Montais, enseignes CIA Bourgogne / IB Imprimerie) sans numéro ni site officiel ; l'adresse 1A impasse des Montais, 58320 Pougues-les-Eaux n'apparaît que sur Motherbase (agrégateur). 2e niveau : 6 recherches (CIA Graphic + téléphone, « ciagraphic » Nevers, Imprifrance + CIA, « Xavier Boulot » imprimerie, « 2B Finance et Conseils », CIA Imprimerie/CIA Bourgogne 58320) sans numéro, site officiel ni email. Seules sources : Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712 : imprimerie de labeur NAF 18.12Z, siège ZI de Pougues-les-Eaux, établissement « CIA Bourgogne IB Imprimerie », CA 2024 = 7 024 k€) et Motherbase (agrégateur, « Imprimerie CIA Graphic », 1A impasse des Montais, membre du réseau Imprifrance). Le 03 86 90 96 00 vu dans les résultats est celui de la mairie de Pougues, non retenu. Aucune trace en ligne de Xavier Boulot ni de la holding 2B Finance et Conseils : nom du dirigeant à confirmer à l'appel. À faire : trouver le numéro via l'annuaire de l'adhérent Imprifrance ou PagesJaunes (recherche « CIA Graphic » Pougues), puis demander au standard le dirigeant et la personne qui tient la comptabilité (souvent l'assistante de direction / comptable dans une PME de cette taille). 2e niveau : 6 recherches (CIA Graphic + téléphone, « ciagraphic » Nevers, Imprifrance + CIA, « Xavier Boulot » imprimerie, « 2B Finance et Conseils », CIA Imprimerie/CIA Bourgogne 58320) sans numéro, site officiel ni email. Seules sources : Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712 : imprimerie de labeur NAF 18.12Z, siège ZI de Pougues-les-Eaux, établissement « CIA Bourgogne IB Imprimerie », CA 2024 = 7 024 k€) et Motherbase (agrégateur, « Imprimerie CIA Graphic », 1A impasse des Montais, membre du réseau Imprifrance). Le 03 86 90 96 00 vu dans les résultats est celui de la mairie de Pougues, non retenu. Aucune trace en ligne de Xavier Boulot ni de la holding 2B Finance et Conseils : nom du dirigeant à confirmer à l'appel. À faire : trouver le numéro via l'annuaire de l'adhérent Imprifrance ou PagesJaunes (recherche « CIA Graphic » Pougues), puis demander au standard le dirigeant et la personne qui tient la comptabilité (souvent l'assistante de direction / comptable dans une PME de cette taille). 3e passe : 5 recherches (« impasse des Montais » Pougues, « IB Imprimerie »/« CIA Bourgogne » + téléphone, offres d'emploi « CIA Graphic », « ciagraphic » + contact/devis, « CIA Direct »/« CIA Com ») : aucun numéro, site ni email. Seules sources toujours : Xerfi et Motherbase (agrégateur : offset feuille, numérique, façonnage, réseau Imprifrance, travail en 3x8). Vérification : 1A Impasse des Montais : seul Motherbase (source déjà citée, auto-déclarative) la donne ; Xerfi indique seulement 'Zone Industrielle, 58320 Pougues-les-Eaux'. Xavier Boulot : aucun lien en ligne avec l'imprimerie ni avec 2B Finance et Conseils (2 recherches). Aucune trace en ligne de Xavier Boulot en lien avec CIA Graphic / CIA Imprimerie (Pougues-les-Eaux).",
+  "corrections": [
+   "Résultat d'exploitation négatif dès 2023 (et non seulement en 2025), résultat net resté positif"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Fournisseur local de supports imprimés (menus, cartes, affiches d'événements) en échange de visibilité ou de repas d'équipe.",
+  "interlocuteur_cible": {
+   "nom": "Xavier Boulot",
+   "fonction": "Président de 2B Finance et Conseils, holding présidente de CIA Imprimerie",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=CIA%20IMPRIMERIE&departement=58",
+   "https://www.pappers.fr/entreprise/cia-imprimerie-404816712",
+   "https://my.motherbase.ai/company/202689-imprimerie-ciagraphic",
+   "https://recherche-entreprises.api.gouv.fr/search?q=404816712",
+   "https://recherche-entreprises.api.gouv.fr/search?q=794966010"
+  ]
+ },
+ {
+  "rang": 97,
+  "siren": "335275319",
+  "nom": "ASM ANDRE STOCKAGE MANUTENTION",
+  "nom_commercial": "ASM",
+  "activite": "Transports terrestres",
+  "secteur": "Transport & logistique",
+  "description": "Société de transport routier, stockage et manutention implantée à La Bichatte (Cosne-Cours-sur-Loire), ≈45 salariés. Présidée depuis mars 2020 par Rave Croissance, holding du Groupe Rave, en remplacement d'Alain André. Ses anciens établissements d'Île-de-France (Chelles, Le Plessis-Belleville) sont fermés depuis 2003-2004.",
+  "actualite": "CA 2025 de 6,96 M€ (-9,4 %) mais résultat net solide de 404 K€.",
+  "groupe": "Groupe Rave (transport et logistique, siège à Torcy, 71), via sa holding Rave Croissance, présidente d'ASM depuis mars 2020 (famille Charbon ; président du directoire : Pascal Polte). Standard du groupe : 03 85 77 93 00 (ravegroupe.com)",
+  "ca": 7682908,
+  "resultat": 634413,
+  "ca_recent": 6959452,
+  "res_recent": 403944,
+  "effectif": "20-49 (45 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "123 La Bichatte, 58200 Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 3,
+  "site_cosne": true,
+  "site_local": "123 La Bichatte, 58200 Cosne-Cours-sur-Loire (seul établissement ouvert)",
+  "priorite": "Haute",
+  "vague": 1,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 403944,
+   "ca": 6959452,
+   "annee": null,
+   "plafond": 34797,
+   "prix_max": 173985,
+   "economie_max": 43496,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 85 77 93 00",
+  "telephone_groupe": true,
+  "site_web": "https://www.ravegroupe.com/reseau/",
+  "dirigeants": [
+   {
+    "nom": "RAVE CROISSANCE (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Benjamin André",
+   "fonction": "Directeur d'ASM (direction confiée lors de l'intégration au groupe Rave en 2020 ; présidente : RAVE CROISSANCE)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Benjamin André",
+   "fonction": "Directeur d'ASM",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Xavier Charbon",
+    "fonction": "Directeur général et membre du directoire de RAVE CROISSANCE (société présidente d'ASM)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/Xavier.CHARBON.vj35ILbmW6s.html",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au siège du groupe Rave à Torcy (Saône-et-Loire) : ASM est une filiale rachetée en 2020 et présidée par la holding RAVE CROISSANCE ; le directeur local (Benjamin André) peut relayer mais ne décide sans doute pas seul.",
+  "note_contacts": "Le registre ne donne qu'une personne morale (RAVE CROISSANCE, holding basée à Torcy 71) ; le décideur indiqué est le DG de cette holding, pas un dirigeant direct d'ASM — à confirmer. Aucun numéro trouvé : 118000.fr liste « André Stockage Manutention » au 44 avenue du 85e de Ligne à Cosne mais sans numéro visible (https://www.118000.fr/v_cosne-cours-sur-loire_58/c_demenagement). Lien possible avec l'agence de déménagement « André » / Gentlemen du Déménagement au 123 route des Cours (https://www.gentlemen-demenagement.com/en/movers/demenageur-nievre-58-cosne-cours-sur-loire/) et avec André Chenue (LinkedIn de deja), non confirmé. 2e passe : 3 recherches (adresse La Bichatte, « André Stockage Manutention » Cosne, site de Cosne du groupe Rave) sans numéro. La fiche 118000.fr (44 av. du 85e de Ligne) porte la mention « Opposé au marketing direct » et n'affiche pas de numéro. Seule ligne connue : le standard du groupe Rave (03 85 77 93 00, cf. champ groupe), qui n'est pas propre à ASM et n'est donc pas reporté dans « standard ». 2e niveau : le communiqué officiel du groupe Rave (https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/) confirme le rachat d'ASM (fondée en 1969 ; transport de chariots élévateurs, location de véhicules avec chauffeur, logistique ; client principal Urban/Fenwick-Still) et indique que « la direction est confiée à Benjamin André » ; information de 2020, à confirmer (aucune source récente trouvée sur lui). Adresse officielle du site : 123 route des Cours, 58200 Cosne-Cours-sur-Loire (page réseau Rave). Aucun numéro propre au site de Cosne trouvé (6 recherches) ; seule ligne officielle : standard du siège Rave à Torcy 03 85 77 93 00 et e-mail générique du groupe rave@ravegroupe.com (https://www.ravegroupe.com/contact/), non reportés comme coordonnées d'ASM. La fiche 118000 (44 av. du 85e de Ligne) ne montre pas de numéro. Aucun DAF du groupe Rave identifié (≈1 400 salariés, 26 sites). Au téléphone (siège de Torcy) : demander le site de Cosne, M. Benjamin André, et qui suit la comptabilité/finance d'ASM au siège. 2e niveau : le communiqué officiel du groupe Rave (https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/) confirme le rachat d'ASM (fondée en 1969 ; transport de chariots élévateurs, location de véhicules avec chauffeur, logistique ; client principal Urban/Fenwick-Still) et indique que « la direction est confiée à Benjamin André » ; information de 2020, à confirmer (aucune source récente trouvée sur lui). Adresse officielle du site : 123 route des Cours, 58200 Cosne-Cours-sur-Loire (page réseau Rave). Aucun numéro propre au site de Cosne trouvé (6 recherches) ; seule ligne officielle : standard du siège Rave à Torcy 03 85 77 93 00 et e-mail générique du groupe rave@ravegroupe.com (https://www.ravegroupe.com/contact/), non reportés comme coordonnées d'ASM. La fiche 118000 (44 av. du 85e de Ligne) ne montre pas de numéro. Aucun DAF du groupe Rave identifié (≈1 400 salariés, 26 sites). Au téléphone (siège de Torcy) : demander le site de Cosne, M. Benjamin André, et qui suit la comptabilité/finance d'ASM au siège. 3e passe : 4 recherches pour le site de Cosne (nom + Cosne + téléphone, « ASM » + route des Cours, offres d'emploi Rave à Cosne, nom + « 03 86 ») sans numéro propre au site ; le 118000 situe l'entreprise au 44 av. du 85e de Ligne sans numéro, et le « 123 route de Cours » y est attribué à une autre société (Assistance Déménagement). Standard renseigné par défaut avec le standard du groupe Rave relevé en 2e passe sur la page contact officielle (ravegroupe.com/contact), non revérifié par un extrait en 3e passe : standard du groupe (siège à Torcy) : demander le site de Cosne-Cours-sur-Loire. Vérification : X. Charbon n'apparaît que sur societe.com : DG de RAVE CROISSANCE depuis 05/2020 et membre (pas président) du directoire depuis 01/2023. Le président du directoire de la holding n'a pas été identifié et rien ne relie Charbon directement à ASM. 118000.fr liste ASM au 44 av. du 85e de Ligne à Cosne sans numéro (opposé au marketing direct). Rachat d'André Stockage Manutention par le groupe Rave en février 2020 confirmé (PitchBook), mais aucune trace indépendante de Benjamin André comme directeur. Recherche « Xavier Charbon » + ASM + Cosne : seule réapparaît la fiche societe.com déjà citée (DG et membre du directoire de RAVE CROISSANCE depuis janvier 2023). Aucune source indépendante. Son lien opérationnel avec ASM n'est pas établi.",
+  "corrections": [
+   "LinkedIn « linkedin.com/company/andr-chenue » : c'est la page d'une autre société (André Chenue, transport d'œuvres d'art), lien supprimé",
+   "Groupe : Rave Croissance est la holding du Groupe Rave (transport-logistique, Torcy 71), présidente depuis 2020 ; aucun lien trouvé avec André Chenue",
+   "Champs ca/resultat mélangeant 2024 (CA 7,68 M€) et 2023 (résultat 634 K€) : exercice 2025 = CA 6,96 M€, résultat 404 K€",
+   "Précision : fermeture des établissements franciliens datée de 2003-2004"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Employeur cosnois : afterworks d'équipe, repas de fin d'année et carte de fidélité ou remise pour ~45 salariés à Cosne même.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ANDRE%20STOCKAGE%20MANUTENTION&departement=58",
+   "https://www.pappers.fr/entreprise/andre-stockage-manutention-335275319",
+   "https://recherche-entreprises.api.gouv.fr/search?q=335275319",
+   "https://recherche-entreprises.api.gouv.fr/search?q=503362659",
+   "https://recherche-entreprises.api.gouv.fr/search?q=RAVE&departement=71",
+   "https://www.ravegroupe.com"
+  ]
+ },
+ {
+  "rang": 98,
+  "siren": "450817200",
+  "nom": "SUMIRIKO SD FRANCE SAS",
+  "nom_commercial": "SumiRiko SD France (ex-Anvis SD France)",
+  "activite": "Recherche-développement scientifique",
+  "secteur": "Industrie",
+  "description": "Centre de R&D et d'ingénierie du groupe japonais Sumitomo Riko à Decize, spécialisé dans les pièces en caoutchouc antivibratoires pour l'automobile (prototypes, présérie, études, outillage, qualité). Anciennement Anvis SD France, renommé en 2017.",
+  "actualite": "CA de l'exercice clos au 31/03/2025 de 5,67 M€ (-22,7 %) avec une perte de 412 K€ ; changements de direction en 2024-2025.",
+  "groupe": "Sumitomo Riko (Japon)",
+  "ca": 7334541,
+  "resultat": 321622,
+  "ca_recent": 5666060,
+  "res_recent": -412013,
+  "annee_recent": "2024",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, Les Caillots, 58300 Decize",
+  "code_postal": "58300",
+  "distance_cosne_km": 90,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -412013,
+   "ca": 5666060,
+   "annee": "2024",
+   "plafond": 28330,
+   "prix_max": 141650,
+   "economie_max": 35412,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "site_web": "https://anvisgroup.com",
+  "dirigeants": [
+   {
+    "nom": "Carlos Jimenez",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Stéphane Birebent",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Stéphane Birebent",
+   "fonction": "Directeur général (registre ; président de la SAS : Carlos Jimenez)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/450817200"
+  },
+  "contact_finance": {
+   "nom": "Stéphane Birebent",
+   "fonction": "Directeur général (aucun responsable financier nommé ; la finance France semble pilotée par la direction financière d'Anvis Holding)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/450817200"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Carlos Jimenez",
+    "fonction": "Président de SAS (registre ; vraisemblablement dirigeant au niveau du groupe SumiRiko AVS Europe)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/450817200",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Au niveau du groupe Sumitomo Riko (Japon), via sa branche européenne SumiRiko AVS Europe (ex-groupe Anvis, d'origine allemande) et Anvis Holding, dont le directeur financier établit les budgets de toutes les entités françaises en lien avec leurs directeurs généraux : une petite entité de R&D comme celle-ci n'a vraisemblablement pas d'autonomie d'achat.",
+  "note_contacts": "Filiale du groupe japonais Sumitomo Riko (ex-Anvis SD France), sur le même site que Anvis Decize (Usine des Caillots). Aucun numéro, email ni site propre trouvé, ni pour cette société ni pour le site des Caillots. Dirigeants tirés du registre (deja), non confirmés en ligne ; verif.com présente Axel Edwin Benz comme directeur général de SumiRiko SD France depuis 2014 (https://www.verif.com/en/leaders/Axel-BENZ-3623766/), information probablement périmée. Aucun responsable financier identifié. 2e niveau : 6 recherches. Société de R&D du groupe Sumitomo Riko à Decize (registre : Usine des Caillots) ; Verif la donne filiale du groupe Sumitomo Electric et lui attribue le site wocogroup.com (héritage Woco/Anvis, périmé). Sur le même site des Caillots : SumiRiko Rubber Compounding France (SIREN 322804931, CA ≈ 25 M€ en 2024) ; Patsnap cite aussi SumiRiko Industry France SAS à Decize. La page presse d'Anvis signale un déménagement d'Anvis des Caillots vers la zone du Four-à-Chaux à Decize : l'adresse de cette société est peut-être à mettre à jour. Le groupe Anvis est devenu SumiRiko AVS Europe en 2017. Aucun numéro de standard trouvé (ni annuaire, ni page officielle). Dirigeants : seulement le registre (Carlos Jimenez président, Stéphane Birebent DG), aucune source en ligne ; la mention d'Axel Edwin Benz comme DG (verif.com, depuis 2014) est périmée. Finance : Anvis a publié en 2023 des offres de contrôleur de gestion industriel senior à Decize (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-Controleur-de-Gestion-industrielle-senior.pdf) et de directeur financier d'Anvis Holding couvrant toutes les entités françaises (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-DIRECTEUR-FINANCIER.pdf), sans nom ; un profil Viadeo décrit un ancien responsable financier et informatique Anvis France (Decize et Épinal, 2015-2017), donc périmé. À demander à l'appel (via le standard Anvis/SumiRiko de Decize) : le nom du directeur financier d'Anvis Holding / SumiRiko France et si M. Birebent est sur le site de Decize. Vérification : Recherche nom + SumiRiko AVS Europe : uniquement des homonymes (basketteur, footballeur, commerciaux). SumiRiko AVS Germany est dirigée par Kazuhiko Kato selon un profil trouvé. Président de la SAS selon le seul registre.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Peu pertinent (site à Decize) ; éventuels repas d'affaires pour les visiteurs internationaux de passage sur l'axe Paris-A77.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=SUMIRIKO%20SD%20FRANCE&departement=58",
+   "https://www.pappers.fr/entreprise/sumiriko-sd-france-sas-450817200"
+  ]
+ },
+ {
+  "rang": 99,
+  "siren": "887120046",
+  "nom": "MORVAN DISTRIBUTION",
+  "nom_commercial": "Weldom Clamecy / U Express Lormes",
+  "activite": "Commerce de détail",
+  "secteur": "Commerce & distribution",
+  "description": "Société du groupe de distribution Schiever qui exploite le magasin de bricolage Weldom de Clamecy et un U Express à Lormes. Commerce de détail de bricolage, quincaillerie et alimentaire dans le nord-est de la Nièvre.",
+  "actualite": "CA 2024 de 7,17 M€ (-2 %) et résultat net de 241 K€ ; cession d'un établissement en Côte-d'Or en 2023.",
+  "groupe": "Groupe Schiever (Anciens Ets Georges Schiever et Fils)",
+  "ca": 7322689,
+  "resultat": 320854,
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "Clamecy",
+  "adresse": "Route d'Orléans, La Vanne du Gour, 58500 Clamecy",
+  "code_postal": "58500",
+  "distance_cosne_km": 55,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 320854,
+   "ca": 7322689,
+   "annee": null,
+   "plafond": 36613,
+   "prix_max": 183065,
+   "economie_max": 45766,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 27 11 89",
+  "site_web": "https://www.weldom.fr/m/weldom-clamecy",
+  "dirigeants": [
+   {
+    "nom": "ANCIENS ETABLISSEMENTS GEORGES SCHIEVER ET FILS (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Dominique De Matteis",
+    "fonction": "Autre (mandataire)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Vincent PICQ",
+   "fonction": "PDG du groupe Schiever (fiche employeur Indeed, contributive ; cité comme directeur général du groupe Schiever en 2006) – la présidente de MORVAN DISTRIBUTION est la holding ANCIENS ETS GEORGES SCHIEVER ET FILS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://fr.indeed.com/cmp/Schiever",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Vincent PICQ",
+   "fonction": "PDG du groupe Schiever (aucun DAF/RAF du groupe ni du magasin trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.observatoiredelafranchise.fr/indiscretions-actualite/WELDOM-maxi-brico-les-30-magasins-rejoignent-le-reseau-weldom-52643.htm"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Dominique DE MATTEIS",
+    "fonction": "Mandataire inscrit au registre (rôle exact non précisé, probablement représentant de la holding Schiever)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/887120046",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision vraisemblablement prise au siège du groupe Schiever à Avallon (Yonne) : MORVAN DISTRIBUTION est une filiale présidée par la holding familiale Anciens Ets Georges Schiever et Fils, qui gère une trentaine de magasins Weldom et des supermarchés de façon centralisée.",
+  "note_contacts": "Aucun numéro trouvé (3 recherches). Le magasin Weldom de Clamecy est listé au 8 route de Beaugy, 58500 Clamecy (118000 https://www.118000.fr/e_C0070527250, ac-franchise https://ac-franchise.com/store/weldom-66/), et non à l'adresse du siège (route d'Orléans, La Vanne du Gour) ; numéro non visible dans les extraits (le 03 86 24 01 83 vu dans les résultats est celui de la PMI de l'hôpital, non retenu). Présidente au registre : ANCIENS ETABLISSEMENTS GEORGES SCHIEVER ET FILS (groupe Schiever, personne morale) : la personne physique qui la dirige et le DAF du groupe n'ont pas été identifiés ; la finance est vraisemblablement centralisée au niveau du groupe Schiever. 2e passe : numéro du magasin Weldom Clamecy (8 route de Beaugy) trouvé sur sa page officielle weldom.fr, 03 86 27 11 89 (aussi sur PagesJaunes https://www.pagesjaunes.fr/pros/07757816) ; Legadom confirme que MORVAN DISTRIBUTION exploite des grandes surfaces de quincaillerie/bricolage avec des établissements à Clamecy et Lormes (https://legadom.com/entreprises/887120046-morvan-distribution). Numéro du site de Lormes non recherché. 2e niveau : standard 03 86 27 11 89 = magasin Weldom Clamecy (8 route de Beaugy), page officielle weldom.fr (trouvé en 1re/2e passe, non remis en cause). 6 recherches : aucun DAF/RAF du groupe Schiever publié (résultats limités à des offres d'emploi Schiever à Avallon : responsable de région, logistique) ; dirigeant du groupe : Vincent Picq indiqué comme PDG sur la fiche Indeed (contributive) et cité comme DG du groupe en 2006 (Observatoire de la franchise, passage de 30 Maxi Brico sous enseigne Weldom), donc à confirmer. Aucune trace en ligne de Dominique De Matteis. Groupe familial et indépendant (~8 000 collaborateurs, alimentaire, bricolage, décoration, sport, textile), siège rue de l'Étang, 89200 Avallon (agrégateur Motherbase). Numéro du U Express de Lormes non trouvé (seules des fiches d'autres U Express). À demander à l'appel : nom du directeur du magasin de Clamecy et coordonnées de la direction administrative et financière du groupe Schiever à Avallon ; vérifier si Dominique De Matteis est le directeur de magasin ou le représentant de la holding. Vérification : Aucune valeur enregistrée à vérifier hors autres_contacts (non vérifiés par consigne) ; aucune recherche faite. Aucune source ne relie Vincent Picq au groupe Schiever ; les recherches n'ont pas permis d'identifier le PDG actuel du groupe. La fiche Indeed (contributive) et une mention de 2006 sont insuffisantes. Fiche 118000.fr de Weldom Clamecy (8 route de Beaugy) trouvée, mais le numéro n'y est pas lisible ; 03 86 27 11 89 non confirmé (2 recherches). Aucun résultat pour Dominique De Matteis ni lien avec Schiever / Weldom Clamecy.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible : magasins à Clamecy et Lormes ; au mieux un fournisseur de bricolage ou un repas d'équipe ponctuel.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=MORVAN%20DISTRIBUTION&departement=58",
+   "https://www.pappers.fr/entreprise/morvan-distribution-887120046"
+  ]
+ },
+ {
+  "rang": 100,
+  "siren": "880515994",
+  "nom": "COMMAND-SMFI",
+  "nom_commercial": "SMFI",
+  "activite": "Métallurgie",
+  "secteur": "Industrie",
+  "description": "Fabricant de matériel de forage tubulaire (tiges, tubes et accessoires en acier, usinage de pièces techniques) sous la marque SMFI, installé 5 rue des Guérins à Cosne-Cours-sur-Loire ; environ 37 salariés et une clientèle surtout export (3,4 M€ sur 3,95 M€ de CA en 2025). Société créée en janvier 2020 et présidée par Charles Garvey, qui a repris l'activité SMFI auparavant exploitée à la même adresse par Altifort SMFI (savoir-faire de plus de 60 ans revendiqué).",
+  "actualite": "CA 2025 en forte baisse (3,95 M€ contre 7,26 M€ en 2024, -45,6 %) avec une perte nette de 463 K€ ; Nicolas Berhault nommé directeur général le 01/04/2026 (BODACC du 11/05/2026), en remplacement de Jean-Pierre Alaux.",
+  "ca": 7263329,
+  "resultat": 449562,
+  "ca_recent": 3951320,
+  "res_recent": -462632,
+  "annee_recent": "2025",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "5 rue des Guérins, 58200 Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "distance_cosne_km": 2,
+  "site_cosne": true,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -462632,
+   "ca": 3951320,
+   "annee": "2025",
+   "plafond": 20000,
+   "prix_max": 100000,
+   "economie_max": 25000,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là.",
+    "Opposée à la prospection : pas de mailing, contact direct uniquement."
+   ]
+  },
+  "dirigeants": [
+   {
+    "nom": "Charles Garvey",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Nicolas Berhault",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "decision": "Vraisemblablement prise à Cosne-Cours-sur-Loire même : SAS autonome (aucun groupe identifié) créée en 2020 pour reprendre l'ancienne activité produits de forage SMFI/Vallourec du site, sans siège extérieur connu — à confirmer au standard.",
+  "note_contacts": "Opposition à la prospection (Pappers) : seules les coordonnées de l'entreprise ont été recherchées. Aucun numéro, email ni site web trouvé (3 recherches). Xerfi (https://www.xerfi.com/etudes-par-entreprise/command-smfi_880515994) : société créée en janvier 2020, fabrication et vente de matériel de forage (NAF tubes et profilés en acier), CA 7,3 M€ en 2024, 20-49 salariés — vraisemblablement l'ancienne activité produits de forage de Vallourec/SMF International à Cosne (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638). Aucun site de l'entreprise trouvé, donc aucun nom de décideur repris. 2e niveau : opposition à la prospection (Pappers), donc uniquement des coordonnées d'entreprise et aucun nom hors site officiel. 6 recherches supplémentaires sans résultat : aucun site web, aucun numéro de standard, aucun email générique publiés. Seule la fiche LEI Bloomberg (https://lei.bloomberg.com/leis/view/969500S5WC7849E1Y596) confirme la SAS COMMAND-SMFI active au 5 rue des Guérins, 58200 Cosne-Cours-sur-Loire. Contexte : en 2017, Vallourec a cédé à NOV ses produits de forage, hors sites français de Cosne et Tarbes, mis en vente séparément. La page CFNews sur cette cession (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638) cite SMFI et ALTIFOR en mots-clés, sans détail visible. Une question à l'Assemblée nationale (https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QG451.pdf) indiquait alors 139 salariés à Cosne ; l'effectif actuel est de 20 à 49. Attention : GlobalSpec liste « Vam Drilling France » au 7 rue des Frères Lumière à Cosne, une autre adresse et une autre entité (ancienne dénomination Vallourec), dont les coordonnées ne doivent pas être reprises. La marque SMFI (tiges, masses-tiges, stabilisateurs) appartient historiquement à SMF International. À faire : chercher le numéro par l'annuaire inversé ou l'accueil de la zone des Guérins, puis demander au standard qui gère la comptabilité (interne ou expert-comptable externe) et qui décide des achats hors production.",
+  "corrections": [
+   "Actualité : Nicolas Berhault a été nommé DG le 01/04/2026 (mai 2026 est la date de publication au BODACC) ; il remplace Jean-Pierre Alaux"
+  ],
+  "opposition_prospection": true,
+  "angle_partenariat": "Industriel cosnois (≈37 salariés, clients surtout à l'export) : déjeuners d'affaires avec clients et visiteurs étrangers, repas d'équipe et afterworks à Cosne même ; contexte financier tendu (perte en 2025), proposer des formules simples. NB : Pappers signale que la société s'est opposée à l'usage de ses données à des fins de prospection – privilégier un contact direct (visite, téléphone).",
+  "interlocuteur_cible": {
+   "nom": "Nicolas Berhault",
+   "fonction": "Directeur général (depuis le 01/04/2026) ; président : Charles Garvey",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers (BODACC du 11/05/2026)"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=COMMAND-SMFI&departement=58",
+   "https://www.pappers.fr/entreprise/command-smfi-880515994",
+   "https://recherche-entreprises.api.gouv.fr/search?q=880515994",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SMFI&departement=58&per_page=25",
+   "https://www.pappers.fr/entreprise/880515994",
+   "https://mercato-emploi.com/?p=96330"
+  ]
+ }
+]

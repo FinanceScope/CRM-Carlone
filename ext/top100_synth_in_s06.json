@@ -1,0 +1,854 @@
+[
+ {
+  "rang": 54,
+  "siren": "404570160",
+  "nom": "ORECA MAGNY-COURS",
+  "nom_commercial": "ORECA",
+  "activite": "Industrie automobile",
+  "secteur": "Automobile",
+  "description": "Département moteurs du groupe ORECA (sport automobile, Le Mans/endurance) installé sur la technopole du circuit de Magny-Cours : conception, construction et développement de moteurs de compétition et de leur électronique pour de grands constructeurs (3 600 m², 4 bancs d'essai). Développe aussi un moteur thermique à hydrogène pour le rallye-raid (programme Dakar Future).",
+  "actualite": "CA 2025 d'environ 15 M€ (+1,5 %) ; ouverture d'un établissement secondaire à Taverny (95) en février 2026.",
+  "groupe": "Groupe ORECA",
+  "ca": 15007462,
+  "resultat": 674696,
+  "effectif": "50-99 (53 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole",
+  "code_postal": "58470",
+  "distance_cosne_km": 70,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 674696,
+   "ca": 15007462,
+   "annee": null,
+   "plafond": 75037,
+   "prix_max": 375185,
+   "economie_max": 93796,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 21 08 00",
+  "telephone_a_confirmer": true,
+  "site_web": "https://www.oreca.fr",
+  "dirigeants": [
+   {
+    "nom": "Hugues DE CHAUNAC",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Serge MEYER",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Hugues DE CHAUNAC",
+   "fonction": "Président (fondateur et président du groupe ORECA, siège à Signes, Var)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://en.wikipedia.org/wiki/Oreca"
+  },
+  "contact_finance": {
+   "nom": "Serge MEYER",
+   "fonction": "Directeur général (registre) ; aucun DAF/RAF nommé trouvé, finance probablement au siège du groupe à Signes",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404570160"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Rémi TAFFIN",
+    "fonction": "Directeur technique du groupe ORECA (nommé en 2021, couvre Signes et le site moteurs de Magny-Cours ; poste actuel non revérifié)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.lejournaldesentreprises.com/breve/remi-taffin-nomme-directeur-technique-doreca-1657534"
+   }
+  ],
+  "decision": "Décision probablement prise au siège du groupe ORECA à Signes (Var) par Hugues de Chaunac, fondateur et président : le site de Magny-Cours est le département moteurs et faisceaux électriques du groupe et aucune fonction finance locale n'apparaît.",
+  "note_contacts": "Site oreca.fr bloqué aux robots (contact non lu) ; aucun numéro du site de Magny-Cours trouvé dans les annuaires accessibles. Filiale du groupe ORECA (siège groupe dans le Var) : DAF probablement au niveau groupe, non identifié. Décideur = DG d'après le registre. 2e passe (pas d'entrée en 1re passe ; champs personnes non renseignés, registre : Hugues de Chaunac président, Serge Meyer DG) : le +33 (0)3 86 21 08 00 figure dans un communiqué de presse ORECA de janvier 2020 pour le site Technopôle du Circuit, 58470 Magny-Cours (département moteurs d'ORECA Motorsport) ; source officielle mais ancienne, une recherche du numéro seul n'a rien confirmé. Ne pas confondre avec le standard du circuit (03 86 21 80 00). Siège du groupe ORECA à Signes (83). 2e niveau : 6 recherches. Standard 03 86 21 08 00 (fax 03 86 21 08 02) listé comme ligne du département moteurs ORECA par l'annuaire 118500.fr ; il concorde avec le numéro relevé en 2e passe dans un communiqué de presse ORECA (source officielle mais ancienne) : deux sources concordantes, à confirmer à l'appel. Ne pas confondre avec le standard du circuit (03 86 21 80 00). Les offres d'emploi 2025 d'ORECA Motorsport (fluidjobs) décrivent Magny-Cours comme le département moteurs et mentionnent un « Directeur d'Exploitation » et un « Chef d'Atelier Moteur », sans nom. Aucune source publique récente sur Serge Meyer (DG au registre) ni sur un DAF du groupe : registre non contredit. Rémi Taffin, ancien directeur technique moteur de Renault F1, a été nommé directeur technique du groupe en 2021 (rôle technique, pas un acheteur). À l'appel : demander le directeur d'exploitation du site de Magny-Cours, confirmer le rôle de Serge Meyer et obtenir le nom du DAF ou responsable comptable du groupe à Signes. Vérification : Wikipedia, PMW Magazine et motor.es : directeur technique d'ORECA depuis décembre 2021, avec le développement moteur à Magny-Cours dans son périmètre. Aucune annonce de départ trouvée, mais aucune source 2025-2026 ne cite son poste nommément.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible sur le quotidien (70 km), mais image « sport auto » intéressante pour un événement thématique ou un sponsoring croisé lors des Grands Prix de Magny-Cours.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=ORECA%20MAGNY%20COURS&departement=58",
+   "https://www.pappers.fr/entreprise/404570160",
+   "https://www.vehiculedufutur.com/uploads/presse/CP/2022/CP_ORECA_PVF_MCIH2_20220125.pdf",
+   "https://pmw-magazine.com/news/rd/oreca-to-expand-with-new-manufacturing-facility.html"
+  ]
+ },
+ {
+  "rang": 55,
+  "siren": "330907205",
+  "nom": "DEROMEDI CARRIERES SARL",
+  "nom_commercial": "Deromedi Carrières",
+  "activite": "Produits minéraux non métalliques",
+  "secteur": "BTP & matériaux",
+  "description": "Exploitant de carrière à Ciez (ICPE) : extraction, concassage et production de matériaux de carrière pour l'industrie, les travaux publics et l'agriculture, avec transport routier de matériaux. Entreprise familiale rentable (CA 13,6 M€ et 1,18 M€ de résultat en 2025).",
+  "groupe": "Groupe familial Deromedi – pôle Deromedi Carrières et Matériaux (Paris 16e, présidé par Gilles Deromedi : 6 sites, ~70 collaborateurs, ~1,5 Mt extraites par an) ; Gilles Deromedi gère aussi SOSEMAT (sablière Les Pelus, Neuvy-sur-Loire) et Transports Emile Boffin (Villemandeur, 45)",
+  "ca": 14481518,
+  "resultat": 1212304,
+  "effectif": "10-19",
+  "forme_juridique": "SARL",
+  "ville": "Ciez",
+  "adresse": "Lieu-dit Jussy",
+  "code_postal": "58220",
+  "distance_cosne_km": 20,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS probable",
+   "benefice": true,
+   "resultat": 1212304,
+   "ca": 14481518,
+   "annee": null,
+   "plafond": 72408,
+   "prix_max": 362040,
+   "economie_max": 90510,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "email": "dsa@deromedi.fr",
+  "site_web": "https://www.deromedicarrieres.fr",
+  "dirigeants": [
+   {
+    "nom": "Gilles DEROMEDI",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Gilles Deromedi",
+   "fonction": "Gérant (registre) ; président du pôle Deromedi Carrières et Matériaux et directeur de la publication du site",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.deromedicarrieres.fr/mentions-legales/"
+  },
+  "contact_finance": {
+   "nom": "Gilles Deromedi",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/330907205"
+  },
+  "decision": "Décision probablement prise au siège du groupe familial Deromedi Carrières et Matériaux à Paris 16e par Gilles Deromedi lui-même (gérant de la SARL et président du pôle) : le site de Ciez est une carrière d'exploitation sans direction autonome.",
+  "note_contacts": "Carrière de sables et argiles (APE 08.12Z, site ICPE à Jussy, Ciez) ; CA 2024 ~13 M€ selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/deromedi-carrieres_330907205). Gilles Deromedi préside aussi Deromedi Carrières et Matériaux (structure de groupe probable). Aucun numéro de standard ni e-mail trouvé dans les extraits (4 recherches) : à chercher sur la page contact du site. 2e passe : 3 recherches (Ciez / Jussy téléphone, « Deromedi » + « 03 86 », Deromedi Carrières et Matériaux contact) sans numéro ni e-mail ; le groupe exploite aussi la société Le Ciment Route à Sainte-Geneviève-des-Bois (45) selon les dossiers de la préfecture du Loiret. Numéro à relever sur la page contact de deromedicarrieres.fr. 2e niveau : site officiel confirmé (pages contact, mentions légales, produits granulats / béton / charges minérales). Les mentions légales donnent l'e-mail générique dsa@deromedi.fr, situent le siège du groupe à Paris 16e et nomment Gilles Deromedi directeur de la publication ; le site revendique 40 ans d'expérience et environ 70 salariés. La page contact ne propose qu'un formulaire, et aucun numéro de standard n'apparaît ni sur le site ni dans les annuaires (PagesJaunes, recherches Ciez / Jussy) : standard toujours manquant. Xerfi : CA 2024 13,5 M€ (14,5 M€ en 2023), résultat net 728 k€ ; Creatis Audit figure comme commissaire aux comptes, pas comme dirigeant. Aucun responsable administratif ou financier trouvé : la comptabilité est vraisemblablement centralisée au siège parisien. Piste : écrire à dsa@deromedi.fr ou passer par le formulaire pour obtenir le numéro du siège et le nom du responsable administratif et financier du groupe ; vérifier aussi le numéro de la carrière sur place (Lieu-dit Jussy, Ciez). 2e niveau : site officiel confirmé (pages contact, mentions légales, produits granulats / béton / charges minérales). Les mentions légales donnent l'e-mail générique dsa@deromedi.fr, situent le siège du groupe à Paris 16e et nomment Gilles Deromedi directeur de la publication ; le site revendique 40 ans d'expérience et environ 70 salariés. La page contact ne propose qu'un formulaire, et aucun numéro de standard n'apparaît ni sur le site ni dans les annuaires (PagesJaunes, recherches Ciez / Jussy) : standard toujours manquant. Xerfi : CA 2024 13,5 M€ (14,5 M€ en 2023), résultat net 728 k€ ; Creatis Audit figure comme commissaire aux comptes, pas comme dirigeant. Aucun responsable administratif ou financier trouvé : la comptabilité est vraisemblablement centralisée au siège parisien. Piste : écrire à dsa@deromedi.fr ou passer par le formulaire pour obtenir le numéro du siège et le nom du responsable administratif et financier du groupe ; vérifier aussi le numéro de la carrière sur place (Lieu-dit Jussy, Ciez). 3e passe : 5 recherches (carrière Ciez / Jussy + téléphone, « Deromedi Carrières » + téléphone, arrêtés préfectoraux carrière de Ciez, siège du groupe à Paris 16e, offres d'emploi) sans numéro du site ni du siège. Seule trace ICPE : arrêté 99-P-4664 du 22/12/1999 pour une carrière de pierres calcaires à Entrains-sur-Nohain / Ciez (recueil des actes de la Nièvre, 2019), sans téléphone. Le 01 40 71 71 71 (DER.IM, agence immobilière du boulevard Murat, représentant Philippe Deromedi) et la fiche PagesJaunes de SOSEMAT (société sœur de Neuvy-sur-Loire) ne sont pas des numéros de Deromedi Carrières : non retenus. Standard toujours manquant ; passer par dsa@deromedi.fr. Vérification : Xerfi liste Gilles Deromedi comme dirigeant (avec Creatis Audit).",
+  "opposition_prospection": false,
+  "angle_partenariat": "Repas d'affaires du gérant avec clients BTP/agricoles locaux et repas d'équipe ; société familiale proche (20 km) avec possible sponsoring local.",
+  "interlocuteur_cible": {
+   "nom": "Gilles Deromedi",
+   "fonction": "Gérant (depuis le 01/04/2017) ; président de Deromedi Carrières et Matériaux",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / mentions légales deromedicarrieres.fr"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=DEROMEDI&departement=58",
+   "https://www.pappers.fr/entreprise/330907205",
+   "https://travail-industrie.com/risques-industriels/site/deromedi-carrieres-ciez",
+   "https://recherche-entreprises.api.gouv.fr/search?q=330907205",
+   "https://recherche-entreprises.api.gouv.fr/search?q=DEROMEDI&per_page=25",
+   "https://recherche-entreprises.api.gouv.fr/search?q=SOSEMAT&per_page=10"
+  ]
+ },
+ {
+  "rang": 56,
+  "siren": "809097561",
+  "nom": "VGB FRANCE - PREFABRIQUES",
+  "nom_commercial": "VGB France",
+  "activite": "Produits minéraux non métalliques",
+  "secteur": "BTP & matériaux",
+  "description": "Filiale française du préfabricant portugais Vigobloco : conception, préfabrication, commercialisation et montage d'éléments en béton pour la construction, depuis son usine de La Machine.",
+  "actualite": "CA 2025 de 12,1 M€ (+16,5 %) mais perte de 468 K€ ; Vigobloco devenu président de la société fin 2024.",
+  "groupe": "Vigobloco (Portugal)",
+  "ca": 14323732,
+  "resultat": 705601,
+  "ca_recent": 12091604,
+  "res_recent": -468057,
+  "annee_recent": "2025",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "La Machine",
+  "adresse": "ZI Les Fontaines Douces",
+  "code_postal": "58260",
+  "distance_cosne_km": 85,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -468057,
+   "ca": 12091604,
+   "annee": "2025",
+   "plafond": 60458,
+   "prix_max": 302290,
+   "economie_max": 75572,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "dirigeants": [
+   {
+    "nom": "VIGOBLOCO - PRE FABRICADOS S.A.",
+    "fonction": "Président (personne morale étrangère, depuis le 26/11/2024)"
+   },
+   {
+    "nom": "Daniel Filipe DA FONSECA MARINHO",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Daniel Filipe Da Fonseca Marinho",
+   "fonction": "Directeur général (présidente : VIGOBLOCO - PRE FABRICADOS S.A. depuis le 26/11/2024)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/vgb-france-prefabriques_809097561"
+  },
+  "contact_finance": {
+   "nom": "Daniel Filipe Da Fonseca Marinho",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/809097561"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eric Mena",
+    "fonction": "Dirigeant cité par Xerfi (rôle non précisé, possiblement ancien président avant la reprise de la présidence par Vigobloco en 11/2024)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/vgb-france-prefabriques_809097561",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au siège du groupe Vigobloco à Ourém (Portugal), présidente de la société depuis novembre 2024, le DG local Daniel Da Fonseca Marinho servant de relais ; décision difficile vu la perte de 2024.",
+  "note_contacts": "Filiale du groupe portugais Vigobloco (Président personne morale VIGOBLOCO - PRE FABRICADOS S.A.). Aucun site web propre ni numéro trouvé (recherche annuaires infructueuse, PagesJaunes recherche bloquée) ; page LinkedIn entreprise connue : https://www.linkedin.com/company/vgbfranceprefabriques. Pas de RAF identifié. 2e niveau : Xerfi donne un CA 2024 d'environ 10,4 M€ (contre 14,3 M€ en 2023, chiffre du CRM) et une perte nette d'environ 681 k€ en 2024 (bénéfice de 706 k€ en 2023) : société en recul, cible moins favorable pour un achat défiscalisé. Dirigeants cités par Xerfi : Daniel Da Fonseca Marinho (DG au registre) et Eric Mena (rôle non précisé, absent du registre transmis — à clarifier). Vigobloco = préfabricant béton portugais d'Ourém (>100 salariés) ; aucune source ne décrit l'acquisition de VGB France, seul le registre lie les deux. Aucun site web, standard, email ni RAF trouvé (6 recherches : annuaires, LinkedIn, presse). Page LinkedIn connue : https://www.linkedin.com/company/vgbfranceprefabriques. À l'appel : chercher le numéro dans un annuaire au moment de l'appel, demander le DG et la personne qui tient la comptabilité (peut-être externalisée ou gérée depuis le Portugal). Vérification : Aucune trace d'Eric Mena ; seule la fiche annuaire-entreprises de VGB France - Préfabriqués (La Machine) ressort.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible : éloigné (85 km) ; pas de cible prioritaire.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=VGB%20FRANCE&departement=58",
+   "https://www.pappers.fr/entreprise/809097561"
+  ]
+ },
+ {
+  "rang": 57,
+  "siren": "428862403",
+  "nom": "TCT-TORES COMPOSANTS TECHNOLOGIES",
+  "nom_commercial": "TCT",
+  "activite": "Fabrication d'équipements électriques",
+  "secteur": "Industrie",
+  "description": "Conception et fabrication de noyaux magnétiques (tores en nanocristallin, Fe-Ni, Fe-Si…) et de composants électromagnétiques bobinés pour l'aéronautique, la défense, le ferroviaire, l'énergie, le médical et l'automobile. Certifiée ISO 9001, filiale du groupe Socomec depuis 2023.",
+  "actualite": "CA 2025 d'environ 14 M€ (+11,4 %) et résultat net de 1,56 M€ ; nouveau DG Julien Coulon en septembre 2025.",
+  "groupe": "Socomec",
+  "ca": 14033416,
+  "resultat": 1562720,
+  "effectif": "50-99 (69 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "ville": "Sauvigny-les-Bois",
+  "adresse": "ZA de la Turlurette",
+  "code_postal": "58160",
+  "distance_cosne_km": 65,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1562720,
+   "ca": 14033416,
+   "annee": null,
+   "plafond": 70167,
+   "prix_max": 350835,
+   "economie_max": 87709,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 90 77 55",
+  "email": "sales@tct.fr",
+  "site_web": "https://www.tct.fr",
+  "dirigeants": [
+   {
+    "nom": "SOCOMEC",
+    "fonction": "Président (personne morale)"
+   },
+   {
+    "nom": "Julien COULON",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Julien COULON",
+   "fonction": "Directeur général (registre ; président : SOCOMEC, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428862403"
+  },
+  "contact_finance": {
+   "nom": "Julien COULON",
+   "fonction": "Directeur général ; aucun RAF/DAF de site ni DAF du groupe Socomec nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428862403"
+  },
+  "decision": "Décision probablement validée au siège du groupe Socomec à Benfeld (Bas-Rhin), présidente de TCT (CA groupe 477 M€ en 2024), le DG Julien Coulon portant la demande localement ; un don ou achat de mécénat passerait sans doute par la direction financière ou communication du groupe.",
+  "note_contacts": "Filiale du groupe SOCOMEC (Président personne morale) : la fonction finance est probablement au niveau groupe ; aucun RAF/DAF de site identifié. Autre email générique publié : commercial@tct.fr (mentions légales). Les mentions légales du site nomment encore Ludovic De Ternay comme directeur général / responsable de la publication, alors que le registre indique Julien COULON comme DG : mention probablement ancienne, à vérifier à l'appel. 2e niveau : 6 recherches, sans élément nouveau sur les personnes. Standard 03 86 90 77 55 et email sales@tct.fr repris du CRM (site tct.fr), non reconfirmés : le moteur de recherche ne remonte ni le numéro ni le site. Aucune trace publique de Julien Coulon comme DG de TCT : le registre reste la seule source ; les mentions légales du site citeraient encore Ludovic De Ternay (ancien DG), à vérifier. Socomec (siège 1 rue de Westhouse, 67230 Benfeld, CA 477 M€ en 2024 selon Xerfi : https://www.xerfi.com/etudes-par-entreprise/socomec_548500149) cite Michel Krumenacker et Ivan Steyert parmi ses dirigeants ; aucun DAF de groupe nommé trouvé. Aucun RAF ou comptable du site de Sauvigny-les-Bois trouvé (69 salariés, poste comptable local probable). À l'appel : demander Julien Coulon, puis le nom du responsable administratif et financier ou du comptable du site, et savoir si les décisions de mécénat se prennent chez Socomec à Benfeld.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Faible vu la distance (65 km, secteur Nevers) ; éventuellement séminaire ou repas clients ponctuel.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=TORES%20COMPOSANTS%20TECHNOLOGIES&departement=58",
+   "https://www.pappers.fr/entreprise/428862403",
+   "https://www.tct.fr",
+   "https://www.pole-medee.com/wp-content/uploads/2015/07/Plaquette-TCT-fr_tct.pdf"
+  ]
+ },
+ {
+  "rang": 58,
+  "siren": "388806317",
+  "nom": "BONJOUR",
+  "nom_commercial": "Intermarché Decize",
+  "activite": "Commerce de détail",
+  "secteur": "Commerce & distribution",
+  "description": "Supermarché sous enseigne Intermarché situé route de Moulins à Decize, exploité par la holding NALOUMY. Labels « Professionnels du Bio ».",
+  "actualite": "CA 2024 de 13,3 M€, retour à un léger bénéfice (12,6 K€) après une perte en 2023.",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché)",
+  "ca": 13326536,
+  "resultat": 110035,
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "ville": "Decize",
+  "adresse": "107 route de Moulins",
+  "code_postal": "58300",
+  "distance_cosne_km": 90,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 110035,
+   "ca": 13326536,
+   "annee": null,
+   "plafond": 66633,
+   "prix_max": 333165,
+   "economie_max": 83291,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": []
+  },
+  "telephone": "03 86 77 18 90",
+  "telephone_a_confirmer": true,
+  "site_web": "https://www.intermarche.com/magasin?pdvref=08116",
+  "dirigeants": [
+   {
+    "nom": "NALOUMY",
+    "fonction": "Président (personne morale, depuis le 01/07/2022)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Anthony PEZANT",
+   "fonction": "Dirigeant présumé de NALOUMY (SIREN 790009658), holding présidente de BONJOUR depuis le 01/07/2022 ; président de BONJOUR en nom propre jusqu'au 27/01/2023 (lien à confirmer)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/388806317",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Anthony PEZANT",
+   "fonction": "Dirigeant présumé de la holding NALOUMY ; aucun comptable ou RAF nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/388806317"
+  },
+  "decision": "Décision prise localement par l'adhérent Intermarché (chef d'entreprise indépendant, propriétaire du magasin via sa holding NALOUMY), et non par le Groupement Les Mousquetaires : c'est à lui qu'il faut s'adresser au magasin de Decize.",
+  "note_contacts": "Numéro du magasin issu d'un agrégateur (Bonial) : source faible, à confirmer ; la fiche 118000.fr et la page magasin intermarche.com (JS) n'affichent pas le numéro. Lien PEZANT–NALOUMY tiré de la section « Entreprises citées » de Pappers (générée automatiquement) : à confirmer à l'appel. 2e niveau : 6 recherches. Standard 03 86 77 18 90 confirmé par plusieurs annuaires concordants (118000.fr, Bonial, mylpg.eu) pour l'Intermarché Super, 107 route de Moulins, 58300 Decize (lun-sam 8h30-19h30, dim 9h-12h30 selon Bonial) ; la page officielle intermarche.com n'est pas remontée par la recherche, d'où la fiabilité « annuaire ». Aucune source publique (presse, site) ne nomme l'adhérent ou le directeur du magasin : Anthony Pezant et la holding NALOUMY restent introuvables hors registre, le lien vient des « entreprises citées » de Pappers. Pas de comptable identifié : dans le réseau Intermarché, la comptabilité est souvent tenue par le magasin ou un cabinet. À l'appel : demander le chef d'entreprise (adhérent) ou le directeur du magasin, vérifier qu'il s'agit bien d'Anthony Pezant, et demander qui tient la comptabilité. Vérification : Aucune trace d'Anthony Pezant ni de NALOUMY en lien avec l'Intermarché de Decize. Zagaz confirme seulement que le magasin (107 route de Moulins) est exploité par BONJOUR SA.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Aucun intérêt direct (supermarché à 90 km de Cosne).",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=BONJOUR&departement=58",
+   "https://www.pappers.fr/entreprise/388806317"
+  ]
+ },
+ {
+  "rang": 59,
+  "siren": "400674875",
+  "nom": "GMDE CHR BOISSONS",
+  "nom_commercial": "CHR Boissons / Caves du Val d'Or (Cosne)",
+  "nom_court": "CHR Boissons / Cave du Val d'Or",
+  "activite": "Commerce de gros",
+  "secteur": "Commerce & distribution",
+  "description": "Grossiste en boissons (vins, spiritueux, bières, cafés, eaux, softs) pour les cafés, hôtels et restaurants, les associations et les particuliers : environ 40 salariés, plus de 500 clients CHR de Gien à Clermont, membre du réseau de distributeurs indépendants C10. L'activité déclarée au RCS inclut la vente et l'entretien de matériel CHR. Siège à Decize ; 5 dépôts (Decize, Corbigny, Cosne-Cours-sur-Loire – ZI du Tremblat, Moulins, Vichy/Creuzier-le-Vieux) et un réseau de caves, dont la Cave du Val d'Or, 13 place Georges-Clemenceau à Cosne.",
+  "actualite": "Nouvelle gouvernance : CHR Finances présidente depuis le 01/11/2024 et Frédéric Coussement directeur général depuis le 16/04/2025 (Thomas Coussement n'est plus DG, BODACC du 09/05/2025). CA 2023 : 13,2 M€ (+17 %) pour un résultat net de 518 K€ ; résultat net 2024 : 611 K€ (CA 2024 non publié).",
+  "groupe": "CHR Finances",
+  "ca": 13230370,
+  "resultat": 611142,
+  "effectif": "20-49 (environ 40 salariés selon le site)",
+  "forme_juridique": "SAS",
+  "ville": "Decize",
+  "adresse": "31 B rue de Caqueret (siège) ; établissements à Cosne : Le Tremblat et 13 place Georges Clemenceau (Caves du Val d'Or)",
+  "code_postal": "58300",
+  "distance_cosne_km": 95,
+  "site_cosne": true,
+  "site_local": "Dépôt CHR Boissons – ZI du Tremblat, 58200 Cosne-Cours-sur-Loire – 03 86 24 09 92 ; Cave du Val d'Or (même société) – 13 place Georges-Clemenceau, 58200 Cosne-Cours-sur-Loire – 03 86 26 91 63 (fiche annuaire non officielle)",
+  "priorite": "Haute",
+  "vague": 1,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 611142,
+   "ca": 13230370,
+   "annee": null,
+   "plafond": 66152,
+   "prix_max": 330760,
+   "economie_max": 82690,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 25 08 35",
+  "telephone_a_confirmer": true,
+  "site_web": "https://www.chrboissons.com",
+  "dirigeants": [
+   {
+    "nom": "CHR FINANCES",
+    "fonction": "Président (personne morale, depuis le 01/11/2024)"
+   },
+   {
+    "nom": "Frédéric COUSSEMENT",
+    "fonction": "Directeur général (depuis le 16/04/2025)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Frédéric COUSSEMENT",
+   "fonction": "Directeur général (depuis avril 2025 ; président jusqu'au 18/04/2025) ; président de la holding CHR Finances, elle-même présidente de CHR Boissons",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Frederic.COUSSEMENT.263qO-yHG89.html"
+  },
+  "contact_finance": {
+   "nom": "Frédéric COUSSEMENT",
+   "fonction": "Directeur général (aucun DAF/RAF ni comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Frederic.COUSSEMENT.263qO-yHG89.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Paul COUSSEMENT",
+    "fonction": "Directeur général de la holding CHR Finances (depuis avril 2023, selon societe.com)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/Paul.COUSSEMENT.u0vDNmkbYWD.html",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Thomas COUSSEMENT",
+    "fonction": "Mandataire lié à CHR Boissons depuis février 2024 selon societe.com (fonction exacte à confirmer)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/Thomas.COUSSEMENT.3VyFNHyrgpw.html"
+   }
+  ],
+  "decision": "Décision probablement prise dans la holding familiale CHR Finances à Decize (famille Coussement : Frédéric, président de CHR Finances, Paul, DG de la holding), qui préside CHR Boissons depuis novembre 2024.",
+  "note_contacts": "Standard 03 86 25 08 35 déjà connu (deja) mais non retrouvé dans les résultats de recherche (non revérifié). Président = holding CHR FINANCES ; pas de DAF/RAF trouvé (~40 salariés). Aucun numéro trouvé pour les Caves du Val d'Or à Cosne. Societe.com indique que Frédéric Coussement a été président jusqu'au 18/04/2025, cohérent avec son passage à DG. 2e niveau : le standard 03 86 25 08 35 (deja) reste introuvable en ligne (recherche du numéro exact sans résultat, chrboissons.com non indexé) : à vérifier en appelant ; aucun numéro trouvé non plus pour les Caves du Val d'Or à Cosne. SIRENE (avis de situation du 06/10/2025) confirme SAS active depuis 1995, enseigne Caves du Val d'Or à Cosne. Gouvernance familiale : Frédéric Coussement président de CHR Finances depuis 2007, DG de CHR Boissons depuis avril 2025 ; Paul et Thomas Coussement apparaissent comme mandataires (génération suivante probable, rôles à confirmer). Aucun DAF/RAF ni comptable trouvé (~40 salariés, 5 dépôts selon un annuaire). À demander à l'appel : qui gère la comptabilité/finance (en interne ou cabinet), et lequel des Coussement décide. Vérification : Le 03 86 25 08 35 n'apparaît dans aucun résultat (recherche du numéro, du nom et de Decize). Selon societe.com, Frédéric Coussement a démissionné de la présidence le 18/04/2025 et est devenu directeur général. Thomas Coussement n'est plus DG de CHR BOISSONS : il est passé à CHR FINANCES à la même date. Recherche « Paul Coussement » + CHR boissons : aucun résultat ne le cite. Seule source : societe.com, déjà citée.",
+  "corrections": [
+   "Distance : 2 km correspondait au dépôt de Cosne et non au siège de Decize (≈95 km de Cosne par la route) ; distance du siège rétablie et présence cosnoise reportée dans site_local",
+   "Actualité : « CA 13,2 M€ et résultat net 611 K€ » mélangeait deux exercices (CA 2023, résultat 2024)",
+   "Description : les types de matériel cités (lave-vaisselle, machines à glaçons…) n'étaient pas vérifiables ; remplacés par l'activité déclarée au RCS"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Grossiste en boissons avec un dépôt à Cosne : partenaire local pour l'approvisionnement, le prêt de matériel et le soutien aux soirées et événements.",
+  "interlocuteur_cible": {
+   "nom": "Frédéric Coussement",
+   "fonction": "Directeur général (depuis le 16/04/2025)",
+   "source": "Registre (recherche-entreprises.api.gouv.fr) / Pappers"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GMDE%20CHR%20BOISSONS",
+   "https://www.pappers.fr/entreprise/400674875",
+   "https://recherche-entreprises.api.gouv.fr/search?q=400674875",
+   "https://api-avis-situation-sirene.insee.fr/identification/pdf/40067487500051",
+   "https://www.chrboissons.com",
+   "https://www.chrboissons.com/contact/"
+  ]
+ },
+ {
+  "rang": 60,
+  "siren": "333222214",
+  "nom": "GEFICCA",
+  "nom_commercial": "GEFICCA (Groupe d'Étude de Fabrication Industrielle de Commercialisation du Caoutchouc)",
+  "nom_court": "GEFICCA",
+  "activite": "Caoutchouc et plastique",
+  "secteur": "Industrie",
+  "description": "Spécialiste des solutions élastomères sur mesure depuis plus de 40 ans : pièces techniques en caoutchouc moulées et surmoulées (antivibratoire/acoustique, étanchéité, revêtements, caoutchouc connecté) pour l'industrie, la manutention, l'énergie, la défense, le sport, l'automobile, l'agroalimentaire et le médical. Note Egapro 2025 de 99/100.",
+  "actualite": "Établissement secondaire immatriculé le 21/08/2023 à la même adresse (5 allée des Entrepreneurs) ; passage en SAS présidée par Geficca Technologies au 01/01/2024 ; exposant au salon Global Industrie 2024 ; index Egapro 2025 : 99/100.",
+  "groupe": "Geficca Technologies (holding, Cosne-Cours-sur-Loire, présidée par Dominique Froux ; également présidente de SMAC à La Garde – 83, caoutchouc)",
+  "ca": 12615989,
+  "resultat": 837143,
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ZI Le Tremblat, 5 allée des Entrepreneurs",
+  "code_postal": "58200",
+  "distance_cosne_km": 3,
+  "site_cosne": true,
+  "site_local": "Siège et usine à Cosne : 5 allée des Entrepreneurs, ZI Le Tremblat, 58200 Cosne-Cours-sur-Loire",
+  "priorite": "Haute",
+  "vague": 1,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 837143,
+   "ca": 12615989,
+   "annee": null,
+   "plafond": 63080,
+   "prix_max": 315400,
+   "economie_max": 78850,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 39 59 75",
+  "email": "contact@geficca.fr",
+  "site_web": "https://www.geficca.fr",
+  "dirigeants": [
+   {
+    "nom": "GEFICCA TECHNOLOGIES",
+    "fonction": "Président (personne morale, depuis le 01/01/2024)"
+   },
+   {
+    "nom": "Vincent DESNOST",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Abel KAICHOUH",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Dominique FROUX",
+   "fonction": "Président du directoire de GEFICCA TECHNOLOGIES (holding présidente de GEFICCA depuis le 01/01/2024)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Dominique FROUX",
+   "fonction": "Président du directoire de GEFICCA TECHNOLOGIES (aucun DAF/RAF ni comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Vincent DESNOST",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/333222214",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Abel KAICHOUH",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/333222214"
+   }
+  ],
+  "decision": "Décision probablement prise à Cosne-Cours-sur-Loire au niveau de la holding GEFICCA TECHNOLOGIES (même adresse), dont Dominique Froux préside le directoire ; les deux DG (V. Desnost, A. Kaichouh) gèrent l'opérationnel.",
+  "note_contacts": "Standard et email déjà connus (deja) mais non retrouvés dans les résultats de recherche (non revérifiés). Aucun DAF/RAF/comptable trouvé (recherches LinkedIn, Kompass sans résultat ; pas de fiche Kompass). 50-99 salariés, filiale de GEFICCA TECHNOLOGIES. 2e niveau : standard 03 86 39 59 75 retrouvé sur la fiche Usine Nouvelle (annuaire, contacts détaillés réservés aux abonnés), pas sur geficca.fr (non indexé) ; contact@geficca.fr (deja) non retrouvé en ligne. Dominique Froux : président de Geficca Technologies depuis 2013, président du directoire depuis le 12/01/2024 (réorganisation début 2024 : la holding devient présidente de Geficca). Fabricant de pièces techniques moulées en élastomères (OFB, entreprise engagée pour la nature) ; 2 établissements actifs à Cosne. Aucun DAF/RAF/comptable trouvé (une recherche LinkedIn a été refusée par l'outil). À demander à l'appel : nom du responsable administratif et financier (holding ou filiale) et qui de D. Froux ou des DG valide ce type d'achat. Vérification : Standard +33 3 86 39 59 75 confirmé par la fiche L'Usine Nouvelle. contact@geficca.fr ne figure dans aucun résultat. Desnost et Kaichouh : dirigeants du registre, aucune trace de départ. D. Froux : président de GEFICCA TECHNOLOGIES depuis le 14/08/2013, président du directoire depuis le 12/01/2024 (données du registre via societe.com). Seule la fiche Societe.com (source citée) ressort : président de GEFICCA TECHNOLOGIES depuis 2013, président du directoire depuis le 12/01/2024, ancien président du directoire de GEFICCA jusqu'au 02/02/2024. C'est cohérent avec l'affirmation, mais aucune source indépendante ne le confirme. Aucun résultat pour Abel Kaichouh ni lien avec GEFICCA. Société.com (fiche d'un co-mandataire) le relie à GEFICCA Technologies comme membre d'organe de direction, mais avec une période indiquée du 09/10/2013 au 02/02/2024 : le mandat pourrait avoir pris fin en février 2024. Fonction actuelle de DG non établie : à vérifier sur le registre avant tout appel.",
+  "corrections": [
+   "« Nouvel établissement ouvert à Cosne en 2024 » inexact : l'établissement secondaire a été créé le 21/08/2023, à la même adresse que le siège (pas un nouveau site)"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Employeur industriel de Cosne (50-99 salariés, ZI du Tremblat) : afterworks, repas d'équipe, fêtes de fin d'année et déjeuners d'affaires avec clients industriels en visite.",
+  "interlocuteur_cible": {
+   "nom": "Vincent Desnost",
+   "fonction": "Directeur général",
+   "source": "Registre (recherche-entreprises.api.gouv.fr)"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=GEFICCA",
+   "https://www.pappers.fr/entreprise/333222214",
+   "https://www.geficca.fr",
+   "https://mygi.global-industrie.com/event/gi-2024-salon-exhibition/exhibitor/RXhoaWJpdG9yXzE0MTMyODU=",
+   "https://recherche-entreprises.api.gouv.fr/search?q=333222214",
+   "https://recherche-entreprises.api.gouv.fr/search?q=794722066"
+  ]
+ },
+ {
+  "rang": 61,
+  "siren": "409564481",
+  "nom": "DANIELSON ENGINEERING",
+  "nom_commercial": "Groupe Danielson",
+  "activite": "Fabrication de machines et équipements",
+  "secteur": "Industrie",
+  "description": "Bureau d'études et atelier mécanique du technopôle de Magny-Cours : conception, fabrication et mise au point de moteurs et pièces mécaniques (fonderie, usinage, soudure) pour l'aéronautique, l'automobile et le sport auto. Le groupe Danielson conçoit notamment les moteurs turbodiesel Trident destinés aux drones.",
+  "actualite": "Deux projets de fusion déposés (BODACC, février et avril 2026), nature de l'opération non détaillée publiquement ; CA de l'exercice clos au 30/09/2025 en recul de 13 % à 10,7 M€ (résultat net 392 K€).",
+  "groupe": "Groupe Danielson (SIREN 507748283)",
+  "ca": 12364671,
+  "resultat": 728286,
+  "effectif": "50-99 (83 salariés en 2024 ; ~130 pour le groupe)",
+  "forme_juridique": "SAS",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 58470 Magny-Cours",
+  "code_postal": "58470",
+  "distance_cosne_km": 65,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 728286,
+   "ca": 12364671,
+   "annee": null,
+   "plafond": 61823,
+   "prix_max": 309115,
+   "economie_max": 77279,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "telephone": "03 86 21 88 10",
+  "telephone_a_confirmer": true,
+  "site_web": "https://danielson-groupe.fr",
+  "dirigeants": [
+   {
+    "nom": "GROUPE DANIELSON (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de GROUPE DANIELSON, holding présidente de DANIELSON ENGINEERING (nom repris du CRM, non revérifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de GROUPE DANIELSON ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481"
+  },
+  "decision": "Décision probablement prise par la holding GROUPE DANIELSON (SIREN 507748283), présidente de la société et implantée comme elle au Technopôle de Magny-Cours, donc dans la Nièvre ; le président de la holding est l'interlocuteur à viser.",
+  "note_contacts": "Recherche interrompue après une seule requête (aucun DAF/RAF trouvé) : le quota global de recherches web de la session était épuisé. Le nom de B. Delaporte vient de l'entrée (champ interlocuteur) et n'a pas été revérifié ; Pappers indique seulement la personne morale GROUPE DANIELSON comme présidente. Le site et le LinkedIn sont déjà connus. Standard à rechercher, et un DAF de groupe est probable (environ 130 salariés). 2e passe : 3 recherches (nom + Magny-Cours + téléphone, site danielson-groupe.fr + contact, Groupe Danielson + tél.) sans numéro de l'entreprise ; les seuls numéros vus sont ceux du circuit (03 86 21 80 00) et du Pôle de la Performance du Technopôle (03 86 21 22 00, source 2012), non retenus. 2e niveau : 6 recherches. Numéro 03 86 21 88 10 relevé sur la fiche gowork.fr de Danielson Engineering (agrégateur d'avis, Magny-Cours) : seule piste de standard, non confirmée ailleurs (une recherche du numéro seul n'a rien donné), à vérifier à l'appel. Ne pas confondre avec le circuit (03 86 21 80 00). CB Insights décrit l'entreprise comme une société d'ingénierie fondée en 2000, spécialisée dans la conception, la fabrication et la validation de démonstrateurs technologiques pour la mobilité (https://www.cbinsights.com/company/danielson-engineering). Aucune source en ligne ne relie Bernard Delaporte à Danielson : le nom vient du CRM et reste à confirmer ; le registre ne cite que la personne morale GROUPE DANIELSON. Aucun DAF, RAF, comptable ou contrôleur de gestion trouvé (un poste de contrôleur de gestion relevé à Magny-Cours concerne Ligier Automotive, pas Danielson). Un responsable du département moteurs de Danielson apparaît sur rocketreach, sans source professionnelle exploitable. À l'appel : demander le président du groupe (confirmer le nom), puis le responsable administratif et financier du groupe (environ 130 salariés). Vérification : Deux recherches sans aucun lien entre Bernard Delaporte et Danielson : le nom vient seulement du champ interlocuteur de l'entrée (le registre ne donne que la personne morale GROUPE DANIELSON). À vérifier avant appel. Aucun résultat liant Bernard Delaporte à Groupe Danielson / Danielson Engineering (2 recherches).",
+  "corrections": [
+   "« Réorganisation intragroupe » non confirmée par les sources : la nature des projets de fusion 2026 n'est pas publique",
+   "Site web trouvé : danielson-groupe.fr (danielson-eng.fr y redirige)"
+  ],
+  "opposition_prospection": false,
+  "angle_partenariat": "Repas d'affaires pour les clients/partenaires industriels et sportifs du technopôle de Magny-Cours, et afterworks d'équipe pour ~80 salariés.",
+  "interlocuteur_cible": {
+   "nom": "Bernard Delaporte",
+   "fonction": "Président de Groupe Danielson (présidente de Danielson Engineering)",
+   "source": "Pappers (fiche Groupe Danielson)"
+  },
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=DANIELSON%20ENGINEERING&departement=58",
+   "https://www.pappers.fr/entreprise/409564481",
+   "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/",
+   "https://www.pappers.fr/entreprise/507748283",
+   "https://danielson-groupe.fr/",
+   "https://www.cbinsights.com/company/danielson-engineering"
+  ]
+ },
+ {
+  "rang": 62,
+  "siren": "352563084",
+  "nom": "PHARMA DEVELOPPEMENT",
+  "activite": "Industrie pharmaceutique",
+  "secteur": "Santé",
+  "description": "Laboratoire pharmaceutique fabriquant des médicaments et compléments à Corbigny (marques Algesal, A 313, Hydrosol polyvitaminé, Alcaphor, Dermo 6…). Il distribue aussi des produits diététiques et vétérinaires ; un établissement secondaire est situé à Paris 15e.",
+  "actualite": "Marché de 300 000 € de gouttes polyvitaminées notifié en juillet 2026 par un CHU de Toulouse ; CA 2025 en recul à 11,3 M€.",
+  "ca": 12242827,
+  "resultat": 1419420,
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "ville": "Corbigny",
+  "adresse": "ZI, Chemin du Moulin de Marcy, 58800 Corbigny",
+  "code_postal": "58800",
+  "distance_cosne_km": 80,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1419420,
+   "ca": 12242827,
+   "annee": null,
+   "plafond": 61214,
+   "prix_max": 306070,
+   "economie_max": 76518,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": []
+  },
+  "dirigeants": [
+   {
+    "nom": "Mario Junio GIRON",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS (registre) ; propriétaire-dirigeant depuis le rachat du laboratoire en 2008, également fondateur de la société pharmaceutique Global Farma",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pharmashopi.com/pharma-developpement-m-713.html"
+  },
+  "contact_finance": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/352563084"
+  },
+  "decision": "Décision probablement prise par le propriétaire-président Mario Giron, qui a racheté le laboratoire en 2008 et le dirige sans groupe identifié ; il est aussi fondateur de Global Farma, son lieu de résidence (France ou étranger) n'est pas connu, donc vérifier s'il est présent à Corbigny.",
+  "note_contacts": "3 recherches sans standard, email, site ni DAF/RAF. Le laboratoire fabrique des préparations pharmaceutiques liquides et pâteuses (fondé en 1985 selon Pharmashopi). Vidal confirme l'adresse ZI Chemin de Marcy, 58800 Corbigny (https://www.vidal.fr/medicaments/laboratoires/pharma-developpement-687.html), mais sans téléphone dans l'extrait. Le président vient seulement du registre (deja) et n'a pas été revérifié. Avec 50 à 99 salariés, un responsable administratif et financier est probable mais n'a pas été trouvé. À ne pas confondre avec la Pharmacie de l'Anguison (03 86 20 02 49), une pharmacie distincte de Corbigny. 2e passe : 3 recherches (nom + 03 86, adresse Chemin de Marcy, site officiel / façonnier) : aucun numéro, email ni site officiel ; seules les fiches Vidal (adresse ZI Chemin de Marcy, produits Alcaphor, Algesal baume, Plasmarine) et Usine Nouvelle (contacts réservés aux abonnés) apparaissent. 2e niveau : 6 recherches. Le registre est confirmé par des pages de revendeurs (Pharmashopi, Soin et Nature : https://www.soin-et-nature.com/fr/528_pharma-developpement) : laboratoire « dirigé par Mario Giron », qui l'a racheté en 2008 et l'a développé à l'export (États-Unis, Afrique francophone, Irak, Algérie, Thaïlande) ; produit phare Ydrovit (soluté de réhydratation, 2013). Date de création divergente selon les sources (1985 ou 1991). Une notice ANSM (https://ansm.sante.fr/actualites/impression/1899) mentionne une injonction contre l'établissement pharmaceutique de Corbigny, prolongée en 2018 puis levée le 13/03/2019. Aucun standard, email, site officiel ni DAF/RAF trouvé : la fiche Usine Nouvelle a des « contacts par direction » réservés aux abonnés (https://industrie.usinenouvelle.com/fiche/etablissement/pharma-developpement-100919204), et la page Vidal du laboratoire peut afficher un téléphone non visible dans les extraits. Les numéros en 03 86 20 vus à Corbigny sont ceux de pharmacies ou d'un cabinet comptable, non retenus. À l'appel : trouver le numéro via la page Vidal ou le fichier Usine Nouvelle, demander le pharmacien responsable ou le directeur de site, le responsable administratif et financier, et si Mario Giron est présent sur place. 2e niveau : 6 recherches. Le registre est confirmé par des pages de revendeurs (Pharmashopi, Soin et Nature : https://www.soin-et-nature.com/fr/528_pharma-developpement) : laboratoire « dirigé par Mario Giron », qui l'a racheté en 2008 et l'a développé à l'export (États-Unis, Afrique francophone, Irak, Algérie, Thaïlande) ; produit phare Ydrovit (soluté de réhydratation, 2013). Date de création divergente selon les sources (1985 ou 1991). Une notice ANSM (https://ansm.sante.fr/actualites/impression/1899) mentionne une injonction contre l'établissement pharmaceutique de Corbigny, prolongée en 2018 puis levée le 13/03/2019. Aucun standard, email, site officiel ni DAF/RAF trouvé : la fiche Usine Nouvelle a des « contacts par direction » réservés aux abonnés (https://industrie.usinenouvelle.com/fiche/etablissement/pharma-developpement-100919204), et la page Vidal du laboratoire peut afficher un téléphone non visible dans les extraits. Les numéros en 03 86 20 vus à Corbigny sont ceux de pharmacies ou d'un cabinet comptable, non retenus. À l'appel : trouver le numéro via la page Vidal ou le fichier Usine Nouvelle, demander le pharmacien responsable ou le directeur de site, le responsable administratif et financier, et si Mario Giron est présent sur place. 3e passe : 5 recherches (adresse « Moulin de Marcy », fiche Vidal + « Tél », raison sociale + « 03 86 », offres d'emploi, produit Ydrovit + contact) : aucun numéro. Les fiches Vidal (https://www.vidal.fr/parapharmacie/societes/pharma-developpement-687.html) ne montrent que l'adresse « Zone industrielle Chemin de Marcy, 58800 Corbigny » dans les extraits. Une offre de pharmacien assurance qualité en CDI à Corbigny (reprise par la-mairie.com, https://www.la-mairie.com/chitry-les-mines/emploi) indique un service qualité de 16 personnes rattaché à la pharmacienne responsable et à la directrice qualité, sans téléphone. Vérification : Aucun résultat reliant M. J. Giron à Pharma Développement ; président issu du registre seul, non contredit.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Séminaires ou repas de direction et réceptions de visiteurs (labos, délégués) pour une PME de 50-99 salariés, mais éloignée de Cosne.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=PHARMA%20DEVELOPPEMENT&departement=58",
+   "https://www.pappers.fr/entreprise/352563084",
+   "https://www.vidal.fr/medicaments/laboratoires/pharma-developpement-687.html"
+  ]
+ },
+ {
+  "rang": 63,
+  "siren": "711880021",
+  "nom": "SAEMAN NIEVRE",
+  "nom_commercial": "Nièvre Aménagement",
+  "activite": "Génie civil",
+  "secteur": "BTP & matériaux",
+  "description": "Société d'économie mixte d'aménagement de la Nièvre : opérations d'aménagement, de construction et de gestion immobilière pour le compte des collectivités. Elle exploite aussi le restaurant « Le Gai Rivage » (6 quai des Mariniers, Nevers).",
+  "actualite": "Nouvelle directrice générale (Sandrine Bertrand) nommée en 2026 ; CA 2025 en hausse à 8,3 M€ mais résultat toujours déficitaire (-226 K€).",
+  "groupe": "SEM du Département de la Nièvre (administrateurs : Département, Ville de Nevers, Nièvre Habitat, Caisse des Dépôts…)",
+  "ca": 12006166,
+  "resultat": 168808,
+  "ca_recent": 8315829,
+  "res_recent": -226187,
+  "annee_recent": "2025",
+  "effectif": "10-19 (15 salariés)",
+  "forme_juridique": "SA d'économie mixte à conseil d'administration",
+  "ville": "Nevers",
+  "adresse": "Hôtel du Département, 64 rue de la Préfecture, 58000 Nevers (établissement principal : 11 rue Bovet, Nevers)",
+  "code_postal": "58000",
+  "distance_cosne_km": 55,
+  "site_cosne": false,
+  "priorite": "Basse",
+  "art": {
+   "regime": "IS",
+   "benefice": false,
+   "resultat": -226187,
+   "ca": 8315829,
+   "annee": "2025",
+   "plafond": 41579,
+   "prix_max": 207895,
+   "economie_max": 51974,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Pas de bénéfice au dernier exercice publié : la déduction n'allège pas l'impôt cette année-là."
+   ]
+  },
+  "email": "Sem@nievreamenagement.com",
+  "site_web": "https://nievreamenagement.com",
+  "dirigeants": [
+   {
+    "nom": "Sandrine Anne BERTRAND",
+    "fonction": "Directrice générale"
+   },
+   {
+    "nom": "Jocelyne Marie GUERIN",
+    "fonction": "Présidente du conseil d'administration"
+   },
+   {
+    "nom": "Denis THURIOT",
+    "fonction": "Vice-président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sandrine Bertrand",
+   "fonction": "Directrice générale",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/711880021"
+  },
+  "contact_finance": {
+   "nom": "Sandrine Bertrand",
+   "fonction": "Directrice générale",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/711880021"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jocelyne Guérin",
+    "fonction": "Présidente du conseil d'administration (conseillère départementale)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/mars_2022_rna_nievre_amgt.pdf",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "À Nevers, au sein de la SEM, mais une dépense de mécénat devrait passer par la directrice générale puis le conseil d'administration (11 membres dont 8 élus, présidé par une conseillère départementale) : décision lente et politiquement sensible pour une SEM à capitaux majoritairement publics.",
+  "note_contacts": "SEM d'aménagement du Département (capital mixte 2,5 M€). Aucun numéro, email ni site web trouvé dans les extraits. La présentation du Réseau national des aménageurs de mars 2022 citait comme directeur général Cédric Duhem et mentionnait un(e) responsable administratif(ve) et financier(ère) non nommé(e) dans l'équipe de 15 personnes : le registre (deja) donne aujourd'hui Sandrine Bertrand comme directrice générale, non confirmée par une autre source. Pour un appel, demander le/la RAF via le standard. 2e niveau : un avis de marché européen de 2023 (TED) donne l'adresse 13 rue Ferdinand Gambon à Nevers (différente du registre : Hôtel du Département / 11 rue Bovet), l'email Sem@nievreamenagement.com et le site nievreamenagement.com ; pas de numéro dans l'extrait, aucun standard trouvé ailleurs (6 recherches). Direction : en mars 2022 le DG était Cédric Duhem (RNA) ; le registre donne aujourd'hui Sandrine Bertrand, aucune source publique ne la confirme. Le RAF de l'équipe (15 personnes) reste non nommé. Cible peu naturelle (SEM publique, CA de concessions d'aménagement). À l'appel : demander le standard via l'email/le site, confirmer la DG et le nom du/de la RAF. Vérification : Recherche sur la présidence du conseil d'administration de Nièvre Aménagement : aucun résultat sur cette société. La source citée date de mars 2022. Un changement de présidence en juin 2026 concerne Nièvre Attractive, un autre organisme, et ne vaut pas preuve ici. Présidence actuelle à reconfirmer.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Contact institutionnel utile pour les projets de revitalisation du centre-ville de Cosne et pour l'accueil de réunions avec les élus ; faible potentiel direct.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=SAEMAN%20NIEVRE&departement=58",
+   "https://www.pappers.fr/entreprise/711880021"
+  ]
+ }
+]
