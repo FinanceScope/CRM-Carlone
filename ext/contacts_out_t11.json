@@ -1,0 +1,231 @@
+[
+ {
+  "siren": "398711283",
+  "standard": {
+   "tel": "03 86 57 56 33",
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "technic.e.58@wanadoo.fr",
+   "source": null
+  },
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Thierry Bourbon",
+   "fonction": "Président de SAS (registre) ; directeur général : Romain Blond (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/398711283"
+  },
+  "decideur_financier": {
+   "nom": "Thierry Bourbon",
+   "fonction": "Président de SAS (registre) ; aucun DAF/RAF/comptable identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/398711283"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Romain Blond",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/398711283"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Dans l'entreprise à Nevers (ou sa holding Holding Technic'Elec 58, créée en 2023, contrôlée par les mêmes dirigeants) : PME indépendante d'électricité, le groupement GESEC n'est qu'une centrale d'achat et ne décide pas pour ses adhérents.",
+  "note": "2e niveau : 6 recherches (raison sociale + Nevers, dirigeants + raison sociale, adresse + téléphone, GESEC, Romain Blond + entreprise, numéro exact). Aucune présence officielle trouvée (pas de site web) : seule une fiche annuaire Hello Watt (https://www.hellowatt.fr/panneaux-solaires-photovoltaiques/installateurs/nievre/technic-elec-58) présente l'entreprise comme installateur photovoltaïque (QUALIBAT PV, QUALIFELEC PV) au boulevard du Pré Plantin à Nevers, avec un téléphone et un e-mail non visibles dans l'extrait. L'avis de situation INSEE (https://api-avis-situation-sirene.insee.fr/identification/pdf/39871128300026, 06/09/2025) confirme le siège au 31 boulevard du Pré Plantin et l'activité depuis 1994. Standard et e-mail Wanadoo repris de deja, toujours non confirmés (numéro exact introuvable en ligne). Une offre Agefiph de technicien bureau d'études électricité en CDI à Nevers pourrait émaner de l'entreprise (non confirmé). Aucun nom de comptable ou RAF. Dirigeants repris du registre, aucune source récente. À l'appel : vérifier que le numéro est bien celui de Technic'Elec 58, demander Thierry Bourbon ou Romain Blond, et qui tient la comptabilité (en interne ou cabinet)."
+ },
+ {
+  "siren": "411741440",
+  "standard": {
+   "tel": "03 86 21 80 00",
+   "source": null,
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "info@circuitmagnycours.com",
+   "source": null
+  },
+  "site_web": "https://www.circuitmagnycours.com",
+  "dirigeant_principal": {
+   "nom": "Serge Saulnier",
+   "fonction": "Président du directoire (registre ; en poste depuis 2010)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411741440"
+  },
+  "decideur_financier": {
+   "nom": "Serge Saulnier",
+   "fonction": "Président du directoire (registre) ; aucun DAF/RAF identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411741440"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Romain Daguenet",
+    "fonction": "Membre du directoire (depuis le 31/05/2025, registre) ; présenté comme directeur adjoint du circuit dans la presse",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/Romain.DAGUENET.2sbIWfl60o2.html"
+   },
+   {
+    "nom": "Katia Favaretto",
+    "fonction": "Membre du directoire (registre), rôle exact non confirmé",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/411741440"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "À Magny-Cours, au directoire de la SAEM (Serge Saulnier, avec Romain Daguenet et Katia Favaretto) ; une dépense de mécénat inhabituelle pourrait remonter au conseil de surveillance présidé par Fabien Bazin, président du Conseil départemental de la Nièvre (actionnaire majoritaire), à Nevers.",
+  "note": "2e niveau : 6 recherches (DAF du circuit, Katia Favaretto, équipe de direction, Serge Saulnier 2026, fonctions comptables, Favaretto + SAEM). Aucun DAF, RAF ni comptable nommé en ligne. societe.com (https://www.societe.com/manager/Romain.DAGUENET.2sbIWfl60o2.html) confirme Romain Daguenet membre du directoire depuis le 31/05/2025 et Fabien Bazin président du conseil de surveillance ; un article Flashscore (https://www.flashscore.fr/actualites/le-circuit-de-nevers-magny-cours-joue-sur-sa-polyvalence/EmzUL6Am/) le présente comme directeur adjoint du circuit. Serge Saulnier (ancien de Peugeot Sport) est président du directoire depuis 2010 ; la source datée la plus récente qui le cite est l'annonce de la prolongation du WorldSBK jusqu'en 2022 (https://www.moto-net.com/live/le-worldsbk-a-magny-cours-jusqu-en-2022.html), rien de plus récent trouvé, mais le registre le donne toujours en poste. Aucune trace en ligne de Katia Favaretto : elle pourrait tenir l'administratif et la finance (3e membre du directoire), non confirmé. Standard et e-mail générique repris de deja (confirmés en 1re passe par les fiches événement WorldSBK), non revus ici. À l'appel : demander qui gère l'administration et les finances (Katia Favaretto ?), et passer par Romain Daguenet si Serge Saulnier n'est pas joignable ; une SAEM peut faire du mécénat mais la décision risque de passer par le conseil de surveillance."
+ },
+ {
+  "siren": "420237398",
+  "standard": {
+   "tel": "03 86 58 45 45",
+   "source": "https://www.intermarche.com/magasins/50264/saint-benin-d'azy-58270/infos-pratiques",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasins/50264/saint-benin-d'azy-58270/infos-pratiques",
+  "dirigeant_principal": {
+   "nom": "Myriam Mordzialek",
+   "fonction": "Présidente de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/420237398"
+  },
+  "decideur_financier": {
+   "nom": "Myriam Mordzialek",
+   "fonction": "Présidente de SAS (registre) ; aucun comptable ou RAF identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/420237398"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Au magasin, à Saint-Benin-d'Azy, par la présidente adhérente : les Intermarché sont tenus par des adhérents indépendants du groupement Les Mousquetaires, qui décident seuls de ce type de dépense pour leur société d'exploitation.",
+  "note": "2e niveau : 6 recherches (enseigne + nom de la dirigeante, raison sociale DAJAZY, presse locale sur le magasin, numéro exact, nom de la dirigeante + enseigne/Nièvre, offres d'emploi du magasin). Aucune trace en ligne de Myriam Mordzialek ni de la raison sociale DAJAZY : dirigeante reprise du registre, non confirmée par une source récente. Magasin confirmé ZAC de la Badelle (Que Choisir https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm11494/, Tiendeo), avec station-service 24/24. Le 03 86 58 45 45 n'apparaît dans aucun extrait de résultat cette fois ; il est conservé sur la foi de la page infos pratiques du magasin sur intermarche.com relevée en 1re passe. Aucun e-mail générique publié. Petite structure (10-19 salariés) : la comptabilité est probablement tenue par un cabinet ou par les services proposés aux adhérents du groupement. À l'appel : demander Mme Mordzialek (présidente), vérifier qu'elle exploite toujours le magasin, et demander qui suit la comptabilité."
+ },
+ {
+  "siren": "631880192",
+  "standard": {
+   "tel": "03 86 59 75 75",
+   "source": "https://www.santeenfrance.fr/etablissement/48106-clinique-du-chateau-du-tremblay",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://clinique-chateau-du-tremblay.ramsaysante.fr",
+  "dirigeant_principal": {
+   "nom": "Tanguy Charbonnier",
+   "fonction": "Directeur général de la SAS (depuis le 01/07/2023, registre), vraisemblablement directeur de l'établissement ; président : Benoît Hue (Ramsay Santé)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880192"
+  },
+  "decideur_financier": {
+   "nom": "Tanguy Charbonnier",
+   "fonction": "Directeur général de la SAS (registre) ; aucun RAF du site ni DAF régional identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880192"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Benoît Hue",
+    "fonction": "Président de la SAS (registre), représentant du groupe Ramsay Santé",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/631880192"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Au siège du groupe Ramsay Santé à Paris plutôt qu'à Chaulgnes : la clinique est une filiale à 100 % présidée par un cadre du groupe, et une dépense de mécénat relève en principe de la direction du groupe ou de sa direction des exploitations, le directeur local pouvant seulement relayer.",
+  "note": "2e niveau : 6 recherches (directeur 2025, Tanguy Charbonnier + Ramsay, nominations de directeur, site de la clinique, fonctions administratives et comptables, LinkedIn). Nouveau : Augustin Roiret, directeur nommé en mai 2017 (https://presse.ramsaygds.fr/Handlers/HTFile.ashx?Id=102240), a quitté le site ; un communiqué Ramsay de novembre 2019 le nomme directeur de la Clinique Mon Repos à Ecully (https://presse.ramsaygds.fr/Handlers/HTFile.ashx?Id=146295). Aucun successeur nommé en ligne ; aucune trace de Tanguy Charbonnier dans les communiqués Ramsay, mais sa qualité de DG de la SAS depuis juillet 2023 laisse penser qu'il dirige l'établissement (à confirmer). Aucun RAF, comptable ou contrôleur de gestion trouvé : la gestion est vraisemblablement mutualisée au niveau régional ou du groupe. Standard confirmé seulement par l'annuaire Santé en France (identique à deja). À l'appel : demander le directeur d'établissement (M. Charbonnier ?), qui suit la gestion du site (contrôleur de gestion régional ?) et si une décision de mécénat se prend localement ou au siège."
+ },
+ {
+  "siren": "844428623",
+  "standard": {
+   "tel": "03 86 71 94 20",
+   "source": "https://tsi.mobigo.cityway.fr/en/bus-and-trams/53/taneo-network-nevers/264",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.taneo-bus.fr",
+  "dirigeant_principal": {
+   "nom": "Nathalie Juston (Barbrel)",
+   "fonction": "Gérante (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/844428623"
+  },
+  "decideur_financier": {
+   "nom": "Nathalie Juston (Barbrel)",
+   "fonction": "Gérante (registre) ; aucun RAF local ni DAF régional identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/844428623"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Au siège du groupe Keolis (Paris) ou à sa direction régionale plutôt qu'à Nevers : Keolis Nevers est une filiale dédiée au contrat de délégation de service public de Nevers Agglomération, dont le budget est encadré par ce contrat, et la gérante locale a peu de latitude pour une dépense de mécénat.",
+  "note": "2e niveau : 6 recherches (directeur 2025, nom d'usage et nom de naissance de la gérante + Keolis, téléphone du dépôt rue de Marzy, fonctions de direction de Keolis Nevers, DSP 2026). Aucune source en ligne ne cite la gérante ni un directeur de site : gérante reprise du registre. Standard : seul le numéro de l'Espace Taneo (accueil clientèle, 31 avenue Pierre Bérégovoy) est publié, sur Mobigo, le service régional d'information transport ; aucun numéro du dépôt du 120 rue de Marzy (le 03 86 61 81 60 est celui de Nevers Agglomération). Fait important : Nevers Agglomération a lancé en janvier 2026 la procédure de renouvellement de la DSP du réseau urbain (DSP_TR_2026, 6 ans, environ 52,8 M€ HT, avis BOAMP https://www.boamp.fr/telechargements/FILES/PDF/2026/01/26-96.pdf) ; le contrat actuel 2020-2025 a été prolongé par avenant ; attributaire non trouvé, Keolis Nevers pourrait perdre le contrat ou être remplacée par une nouvelle société dédiée. Le directeur financier France du groupe (Jean-Michel Archambault, https://www.lemondedudroit.fr/nominations/6949-jean-michel-archambault-devient-directeur-financier-france-et-directeur-du-controle-de-gestion-du-groupe-keolis) date d'une nomination ancienne, non retenu. À l'appel : demander le directeur ou la directrice de Keolis Nevers, vérifier l'issue de l'appel d'offres 2026, et qui valide les dépenses hors contrat (direction régionale ?)."
+ },
+ {
+  "siren": "692007768",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "GRAPHILYS (SAS, personne morale)",
+   "fonction": "Présidente de SAS (registre) ; personne physique qui la représente non identifiée",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768"
+  },
+  "decideur_financier": {
+   "nom": "GRAPHILYS (SAS, personne morale)",
+   "fonction": "Présidente de SAS (registre) ; aucun DAF/RAF/comptable identifié, ni à Luzy ni au siège de Perpignan",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Hors de la Nièvre, au siège de GRAPHILYS à Perpignan (Pyrénées-Orientales), qui préside Lithopress et présente Luzy comme son site de production ; GRAPHILYS appartient depuis 2021 au groupe belge Asteria, qui pourrait devoir valider une dépense de ce type.",
+  "note": "2e niveau : 6 recherches (dirigeant de GRAPHILYS, groupe Asteria, direction de GRAPHILYS, site de Luzy, fonctions financières de GRAPHILYS, raison sociale + Luzy). Nouveau : des offres d'emploi Indeed (https://fr.indeed.com/q-administration-des-ventes-l-toulouges-(66)-emplois.html) indiquent que GRAPHILYS (étiquettes adhésives depuis 2002, environ 33 M€ de CA, plus de 60 salariés) a rejoint en 2021 le groupe international ASTERIA, avec des postes basés « sur notre site de production à Luzy (58) ou à notre siège social à Perpignan (66) » ; le site d'Asteria Group (siège en Belgique, filiales en Europe) a une fiche GRAPHILYS (https://asteriagroup.eu/?p=4738). Chaîne de contrôle : Lithopress → GRAPHILYS (Perpignan) → Asteria Group (Belgique). Aucun nom de dirigeant personne physique, de directeur du site de Luzy ni de DAF trouvé ; aucun téléphone ni site web propre (Xerfi https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768 confirme La Maladière, Luzy, CA 2024 7,66 M€). Le CRM n'a toujours aucun numéro : à chercher dans un annuaire (PagesJaunes) avant l'appel. À l'appel : demander le responsable du site de Luzy et le nom du directeur général de GRAPHILYS, et si la décision se prend à Perpignan ou au niveau d'Asteria."
+ }
+]

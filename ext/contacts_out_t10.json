@@ -1,0 +1,217 @@
+[
+ {
+  "siren": "611880204",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.igol.com",
+  "dirigeant_principal": {
+   "nom": "Isabelle Billoue Meunier",
+   "fonction": "Personne ayant le pouvoir d'engager la société (registre) ; présidente de la SAS : CIPELIA (personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/611880204"
+  },
+  "decideur_financier": {
+   "nom": "Isabelle Billoue Meunier",
+   "fonction": "Personne ayant le pouvoir d'engager la société (registre) ; aucun DAF/RAF identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/611880204"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement à Nevers, chez IGOL Centre ou sa société mère CIPELIA (ville non identifiée) : IGOL Centre est une société régionale du réseau IGOL (IGOL France à Amiens est la filiale commune des sociétés régionales qui exploitent la marque en franchise), donc le siège d'Amiens ne décide vraisemblablement pas pour elle.",
+  "note": "2e niveau : 6 recherches (IGOL Centre Nevers, CIPELIA + IGOL, Billoue + IGOL, fonctions IGOL Centre, adresse + 03 86 refusée par le moteur comme recherche de personne privée, puis reformulée avec la raison sociale). Aucun standard du site de Nevers trouvé ; le site igol.com (https://www.igol.com/?p=2614) confirme le site de production de Nevers et précise qu'IGOL France est la filiale commune des sociétés régionales franchisées : IGOL Centre est donc une société indépendante, pas une filiale d'Amiens. Indice : un article du Journal des entreprises (https://www.lejournaldesentreprises.com/article/unil-opal-developpe-un-lubrifiant-alternatif-et-veut-accelerer-linternational-2140017) présente CIPELIA comme un groupe de lubrifiants qui a repris Unil Opal (Saumur) en 2024 : CIPELIA, présidente d'IGOL Centre, serait donc un groupe de lubrifiants plus large, dont le siège et le dirigeant personne physique restent à identifier. Une brochure IGOL de janvier 2023 cite une direction régionale des ventes « IGOL Centre » (Christophe Luino, donnée incohérente, non retenue). Aucun nom de DAF/comptable. Dirigeant repris du registre, non confirmé par une source récente. À l'appel (numéro à trouver via le standard IGOL ou PagesJaunes) : demander qui dirige le site de Nevers, si la comptabilité est tenue sur place ou chez CIPELIA, et le nom du dirigeant de CIPELIA."
+ },
+ {
+  "siren": "453481244",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Guillaume Bouillet",
+   "fonction": "Gérant (co-gérant avec Jérôme et Sébastien Bouillet, registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/453481244"
+  },
+  "decideur_financier": {
+   "nom": "Guillaume Bouillet",
+   "fonction": "Gérant (co-gérant, registre) ; aucun responsable financier identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/453481244"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jérôme Bouillet",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   },
+   {
+    "nom": "Sébastien Bouillet",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Dans la société elle-même, à Decize : SARL familiale indépendante (aucun groupe) dirigée par trois frères co-gérants, qui décident vraisemblablement ensemble.",
+  "note": "2e niveau : 6 recherches (raison sociale + Decize, négoce bestiaux, SIREN, filières fioul/céréales/matériaux/bois, « marchand de bestiaux » 58300, annuaire PagesJaunes) : toujours aucune trace en ligne de la société (ni site, ni téléphone, ni activité précise) ; seuls des homonymes sans lien (Bouillet Cestas, Laurent Bouillet Cergy, Établissements Bouillet). L'activité exacte de ce commerce de gros (11 M€ de CA avec moins de 10 salariés : profil compatible avec un négoce agricole ou de bestiaux) reste à confirmer. Les trois co-gérants du registre sont repris tels quels, non confirmés par une source récente. À l'appel : il faut d'abord un numéro (annuaire inverse sur l'adresse ZA Les Champs Monarès ou passage sur place) ; demander lequel des trois frères gère l'administratif et la comptabilité, et si un cabinet comptable externe tient les comptes."
+ },
+ {
+  "siren": "885820217",
+  "standard": {
+   "tel": "03 86 29 30 65",
+   "source": "https://www.pagesjaunes.fr/pros/53294328",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.magasins-u.com/magasin/uexpress-tannay",
+  "dirigeant_principal": {
+   "nom": "GERMAIN'S DEVELOPMENT (personne morale)",
+   "fonction": "Présidente de SAS depuis le 24/08/2026 (registre) ; dirigeant personne physique non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/885820217"
+  },
+  "decideur_financier": {
+   "nom": "GERMAIN'S DEVELOPMENT (personne morale)",
+   "fonction": "Présidente de SAS (registre) ; aucun responsable financier identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/885820217"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement chez l'associé exploitant du magasin via sa holding GERMAIN'S DEVELOPMENT (ville non identifiée) : les magasins U sont tenus par des commerçants indépendants associés de la Coopérative U, qui décident eux-mêmes de ce type de dépense ; le changement de présidence d'août 2026 suggère un nouvel exploitant.",
+  "note": "2e niveau : 6 recherches. Correction d'enseigne : le magasin U de l'avenue de la Fringale à Tannay est un U Express, pas un Super U (fiche officielle magasins-u.com https://www.magasins-u.com/magasin/uexpress-tannay et station https://www.magasins-u.com/station/uexpress-tannay_82289). Standard 03 86 29 30 65 (fax 03 86 29 33 48) trouvé sur PagesJaunes (https://www.pagesjaunes.fr/pros/53294328), fiabilité annuaire : le numéro n'a pas pu être lu sur la page officielle U. Le lien SO.DI.TAN = U Express Tannay reste une forte présomption (même adresse, seul magasin U de Tannay, CA et effectif cohérents), non confirmée par une source écrite. Aucune trace en ligne de GERMAIN'S DEVELOPMENT ni de la personne qui la dirige, ni d'article de presse sur la reprise d'août 2026. À l'appel : vérifier que le magasin est bien exploité par SO.DI.TAN, demander le nom du nouveau directeur / associé U (arrivé vers fin août 2026) et qui suit la comptabilité (souvent un cabinet externe ou la holding)."
+ },
+ {
+  "siren": "919448043",
+  "standard": {
+   "tel": "03 86 25 11 77",
+   "source": "https://www.pagesjaunes.fr/pros/55681845",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.carrefour.fr/magasin/market-decize",
+  "dirigeant_principal": {
+   "nom": "CORVAHIE (personne morale)",
+   "fonction": "Présidente de SAS (registre) ; dirigeant personne physique de la holding non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/919448043"
+  },
+  "decideur_financier": {
+   "nom": "CORVAHIE (personne morale)",
+   "fonction": "Présidente de SAS (registre) ; aucun responsable financier identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/919448043"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Chez le franchisé, via sa holding CORVAHIE (ville non identifiée) : le Carrefour Market de Decize est un magasin franchisé (enseigne ouverte le 03/10/2022 selon ac-franchise), donc l'achat relève de l'exploitant et non du siège Carrefour.",
+  "note": "2e niveau : 6 recherches. Standard 03 86 25 11 77 confirmé par deux annuaires concordants (PagesJaunes https://www.pagesjaunes.fr/pros/55681845, 18 route de Champvert, et bible-marques https://www.bible-marques.fr/magasins/58300-decize/carrefour) ; la page officielle du magasin (https://www.carrefour.fr/magasin/market-decize) existe mais le numéro n'a pas pu y être lu, d'où fiabilité « annuaire ». Ne pas confondre avec le drive (09 80 98 09 86 selon carrefour.fr, 09 80 98 09 87 selon le site traiteur Carrefour), ni avec le E.Leclerc voisin (03 86 25 50 00). Aucune trace en ligne de CORVAHIE ni de VALENJE (holding et société d'exploitation non indexées), aucun article de presse sur l'ouverture de 2022, aucun nom de directeur de magasin. À l'appel : demander le nom du directeur du magasin et celui du franchisé (dirigeant de CORVAHIE), et si la comptabilité est tenue au magasin, à la holding ou par un cabinet externe."
+ },
+ {
+  "siren": "428223531",
+  "standard": {
+   "tel": "03 86 90 33 22",
+   "source": "https://www.intermarche.com/magasins/03333/sauvigny-les-bois-58160/infos-pratiques",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasins/03333/sauvigny-les-bois-58160/infos-pratiques",
+  "dirigeant_principal": {
+   "nom": "Laurent Pommier",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428223531"
+  },
+  "decideur_financier": {
+   "nom": "Laurent Pommier",
+   "fonction": "Président de SAS (registre) ; aucun responsable financier identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428223531"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Dans la société elle-même, à Sauvigny-les-Bois : ALBEN est le point de vente d'un adhérent indépendant du Groupement Les Mousquetaires, dont le président décide seul de ce type de dépense ; aucun groupe ni holding intermédiaire n'apparaît.",
+  "note": "2e niveau : 6 recherches. Standard trouvé : 03 86 90 33 22, indiqué sur la page officielle du magasin Intermarché Super Sauvigny-les-Bois (pdvref 03333, Route de Nevers RN 81) https://www.intermarche.com/magasins/03333/sauvigny-les-bois-58160/infos-pratiques et repris par PagesJaunes (https://www.pagesjaunes.fr/pros/01719045, fax 03 86 90 33 23) ; le même numéro dessert le drive et la station (référencée « Intermarché Imphy »). Dirigeant : Laurent Pommier, repris du registre ; aucune source récente (presse, site, LinkedIn) ne le mentionne, ni ne contredit le registre. Aucun nom de directeur de magasin, de comptable ou de responsable administratif trouvé (pas d'offre d'emploi ni d'article de presse locale). À l'appel : demander M. Pommier (adhérent / président) et la personne qui gère l'administratif et la comptabilité du magasin, ou le cabinet comptable externe le cas échéant."
+ },
+ {
+  "siren": "701880155",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.transports-charrier.fr",
+  "dirigeant_principal": {
+   "nom": "Eric Rousseau",
+   "fonction": "Président de GROUPE ROUSSEAU (depuis le 10/03/2016), société présidente de Transports Charrier et Compagnie",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://copeps.fr/actualites/sarl-rousseau-eric/"
+  },
+  "decideur_financier": {
+   "nom": "Eric Rousseau",
+   "fonction": "Président de GROUPE ROUSSEAU ; aucun DAF/RAF du groupe ni de la filiale identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://copeps.fr/actualites/sarl-rousseau-eric/"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jade Rousseau",
+    "fonction": "Directrice générale de GROUPE ROUSSEAU (depuis le 06/02/2025)",
+    "tel": null,
+    "email": null,
+    "source": "https://copeps.fr/actualites/sarl-rousseau-eric/"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Au siège du Groupe Rousseau, groupe familial de transport de la Nièvre (Transports Rousseau Eric, immatriculé au greffe de Nevers) : Transports Charrier a été racheté par ce groupe en 2023 et est présidé par la holding GROUPE ROUSSEAU, dirigée par Eric Rousseau avec Jade Rousseau comme DG ; ce type de dépense se décide vraisemblablement au niveau du groupe et non à Decize.",
+  "note": "2e niveau : 6 recherches. Rachat confirmé : selon Auris Finance (https://auris-finance.fr/en/?p=8298 et https://auris-finance.fr/en/?p=9631), le groupe de transport Rousseau a racheté Transports Charrier (entreprise familiale de Decize) et Transports Boudet (Saint-Florent-sur-Cher, 18), intégrés en 2023, puis EF Bennes (avril 2023) ; le groupe compterait environ 740 salariés et 1 200 véhicules. Dirigeants du groupe trouvés sur un agrégateur de données légales (copeps.fr, source secondaire, à confirmer au registre) : Eric Rousseau, président de GROUPE ROUSSEAU depuis 2016, et Jade Rousseau, directrice générale depuis février 2025. Une opération de réorganisation du capital d'un « groupe Rousseau » avec Turenne Groupe et Bpifrance (https://www.lemondedudroit.fr/deals/88411-moncey-avocats-conseille-turenne-groupe-et-bpifrance-dans-le-cadre-de-la-reorganisation-du-capital-du-groupe-rousseau.html) n'a pas pu être rattachée avec certitude à ce groupe. Le siège du groupe est situé dans la Nièvre d.après l.immatriculation de Transports Rousseau Eric au greffe de Nevers (même source copeps). Toujours aucun standard (ni pour Decize ni pour le siège du groupe), aucun DAF/RAF ni comptable identifié ; site web transports-charrier.fr repris de deja, non vérifié. Ne pas confondre avec Transports Rousseau SAS de Cognac (vins et spiritueux) ni avec le Groupe Rousseau automobile (Val-d'Oise). À l'appel : obtenir le standard du Groupe Rousseau (siège dans la Nièvre), demander qui est le responsable administratif et financier du groupe et s'il couvre Transports Charrier, et demander Eric ou Jade Rousseau."
+ }
+]

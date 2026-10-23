@@ -1,0 +1,229 @@
+[
+ {
+  "siren": "404816712",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Xavier BOULOT",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS, elle-même présidente de la SAS CIA Imprimerie (information CRM/registre, non confirmée en ligne)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712"
+  },
+  "decideur_financier": {
+   "nom": "Xavier BOULOT",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS (aucun DAF/RAF/comptable nommé trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise localement à Pougues-les-Eaux par le dirigeant de la holding présidente 2B Finance et Conseils (PME indépendante de ~30 salariés, sans groupe extérieur identifié).",
+  "note": "2e niveau : 6 recherches (CIA Graphic + téléphone, « ciagraphic » Nevers, Imprifrance + CIA, « Xavier Boulot » imprimerie, « 2B Finance et Conseils », CIA Imprimerie/CIA Bourgogne 58320) sans numéro, site officiel ni email. Seules sources : Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712 : imprimerie de labeur NAF 18.12Z, siège ZI de Pougues-les-Eaux, établissement « CIA Bourgogne IB Imprimerie », CA 2024 = 7 024 k€) et Motherbase (agrégateur, « Imprimerie CIA Graphic », 1A impasse des Montais, membre du réseau Imprifrance). Le 03 86 90 96 00 vu dans les résultats est celui de la mairie de Pougues, non retenu. Aucune trace en ligne de Xavier Boulot ni de la holding 2B Finance et Conseils : nom du dirigeant à confirmer à l'appel. À faire : trouver le numéro via l'annuaire de l'adhérent Imprifrance ou PagesJaunes (recherche « CIA Graphic » Pougues), puis demander au standard le dirigeant et la personne qui tient la comptabilité (souvent l'assistante de direction / comptable dans une PME de cette taille)."
+ },
+ {
+  "siren": "887120046",
+  "standard": {
+   "tel": "03 86 27 11 89",
+   "source": "https://www.weldom.fr/m/weldom-clamecy",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.weldom.fr/m/weldom-clamecy",
+  "dirigeant_principal": {
+   "nom": "Vincent PICQ",
+   "fonction": "PDG du groupe Schiever (fiche employeur Indeed, contributive ; cité comme directeur général du groupe Schiever en 2006) – la présidente de MORVAN DISTRIBUTION est la holding ANCIENS ETS GEORGES SCHIEVER ET FILS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://fr.indeed.com/cmp/Schiever"
+  },
+  "decideur_financier": {
+   "nom": "Vincent PICQ",
+   "fonction": "PDG du groupe Schiever (aucun DAF/RAF du groupe ni du magasin trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.observatoiredelafranchise.fr/indiscretions-actualite/WELDOM-maxi-brico-les-30-magasins-rejoignent-le-reseau-weldom-52643.htm"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Dominique DE MATTEIS",
+    "fonction": "Mandataire inscrit au registre (rôle exact non précisé, probablement représentant de la holding Schiever)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/887120046"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision vraisemblablement prise au siège du groupe Schiever à Avallon (Yonne) : MORVAN DISTRIBUTION est une filiale présidée par la holding familiale Anciens Ets Georges Schiever et Fils, qui gère une trentaine de magasins Weldom et des supermarchés de façon centralisée.",
+  "note": "2e niveau : standard 03 86 27 11 89 = magasin Weldom Clamecy (8 route de Beaugy), page officielle weldom.fr (trouvé en 1re/2e passe, non remis en cause). 6 recherches : aucun DAF/RAF du groupe Schiever publié (résultats limités à des offres d'emploi Schiever à Avallon : responsable de région, logistique) ; dirigeant du groupe : Vincent Picq indiqué comme PDG sur la fiche Indeed (contributive) et cité comme DG du groupe en 2006 (Observatoire de la franchise, passage de 30 Maxi Brico sous enseigne Weldom), donc à confirmer. Aucune trace en ligne de Dominique De Matteis. Groupe familial et indépendant (~8 000 collaborateurs, alimentaire, bricolage, décoration, sport, textile), siège rue de l'Étang, 89200 Avallon (agrégateur Motherbase). Numéro du U Express de Lormes non trouvé (seules des fiches d'autres U Express). À demander à l'appel : nom du directeur du magasin de Clamecy et coordonnées de la direction administrative et financière du groupe Schiever à Avallon ; vérifier si Dominique De Matteis est le directeur de magasin ou le représentant de la holding."
+ },
+ {
+  "siren": "571881002",
+  "standard": {
+   "tel": "03 86 68 22 00",
+   "source": "https://lesvoitures.fr/adresse/citroen-sas-garage-vincent-varennes-vauzelles/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.groupevincent.fr",
+  "dirigeant_principal": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (dirigeant du Groupe Vincent ; aussi président de Central Parc Automobile)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-vincent-se-porte-acquereur-dun-site-citroen-et-ds-dans-le-cher/"
+  },
+  "decideur_financier": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (aucun DAF/RAF/chef comptable du groupe trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/571881002"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Guillaume VINCENT",
+    "fonction": "Directeur général délégué (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/571881002"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision prise à Varennes-Vauzelles, au siège de la holding familiale VINCENT SAS, par Rodolphe Vincent : groupe familial indépendant dont le siège et la principale concession (Citroën, 3 route de Paris) sont dans la Nièvre.",
+  "note": "2e niveau : 6 recherches. Standard 03 86 68 22 00 (concession Citroën SAS Garage Vincent, 3 route de Paris, même adresse que le siège) confirmé seulement par des annuaires (lesvoitures.fr ; idgarages, Mappy et acceslibre confirment l'adresse sans numéro) : aucune page officielle citroen.fr trouvée, d'où fiabilité « annuaire ». Autre site du groupe : Fiat SAS Garage Vincent, 30 route de Paris, 03 86 71 09 10 (annuaire). Le +33 3 81 31 19 89 de BuiltWith reste incohérent (indicatif du Doubs), non retenu. Dirigeant : Rodolphe Vincent cité par la presse auto jusqu'en 2019 (Journal de l'Automobile : 16 concessions Cher/Loiret/Nièvre/Allier, 170 M€ de CA et 367 salariés en 2019) et président de Central Parc Automobile (rubypayeur, CAC COGEP) ; registre cohérent, pas de source plus récente. Aucun DAF, RAF, chef comptable ni contrôleur de gestion publié malgré la taille du groupe (pas d'offre d'emploi ni de profil trouvé). À demander à l'appel : le nom du responsable administratif et financier / chef comptable du groupe au siège de Varennes-Vauzelles et le rôle de Guillaume Vincent (DG délégué)."
+ },
+ {
+  "siren": "978029817",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Sébastien DUMANGE",
+   "fonction": "Président de SAS (holding DUMANGE FAMILY) ; également président-directeur général de TEXTILOT (SIREN 301 420 626, même adresse) selon Kompass",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://fr.kompass.com/c/textilot/fr1911157/"
+  },
+  "decideur_financier": {
+   "nom": "Sébastien DUMANGE",
+   "fonction": "Président de SAS (aucun DAF/RAF/contrôleur de gestion de la holding ni de Textilot trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/978029817"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Delphine DUMANGE",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/978029817"
+   },
+   {
+    "nom": "Régis DUMANGE",
+    "fonction": "Fondateur et ancien président de Textilot (Textilot Plus, données fin 2018) ; président du club de rugby USON Nevers depuis 2009",
+    "tel": null,
+    "email": null,
+    "source": "https://everybodywiki.com/Textilot"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision prise dans la Nièvre, à Varennes-Vauzelles (5 rue Denis Papin), par la famille Dumange : DUMANGE FAMILY est la holding familiale de Textilot (prêt-à-porter vendu en GMS et magasins « Plus », l'un des plus gros employeurs privés de la Nièvre) ; la famille est aussi très engagée dans le mécénat sportif (USON Nevers), argument utile pour un achat d'œuvres en 238 bis AB.",
+  "note": "2e niveau : 6 recherches. Filiale opérationnelle identifiée : TEXTILOT SAS (SIREN 301 420 626, créée en 1974, capital 50 M€, siège 5 rue Denis Papin à Varennes-Vauzelles comme la holding, établissements « TEXTILOT 58 » et magasins sous enseigne PLUS à Nevers, Garchizy, Moulins, Montluçon, Saint-Germain-du-Puy… ; création et distribution de prêt-à-porter fabriqué en Asie du Sud-Est et vendu en GMS) – sources Kompass (https://fr.kompass.com/c/textilot/fr1911157/), Pappers (https://pappers.fr/entreprise/301420626) et EverybodyWiki (https://everybodywiki.com/Textilot, moins fiable). Sébastien Dumange y apparaît comme PDG (Kompass), cohérent avec le registre de la holding ; Régis Dumange, fondateur et président historique, président de l'USON Nevers rugby depuis 2009 : le « Catering USON Plus » du groupe va dans ce sens. Aucun numéro de standard ni site officiel trouvé (Kompass sans téléphone ni site dans les extraits) ; aucun DAF/RAF/contrôleur de gestion publié (offres Indeed Textilot limitées à la logistique). À faire : obtenir le standard de Textilot (siège/entrepôt de Varennes-Vauzelles) via PagesJaunes ; à l'appel, demander le directeur administratif et financier de Textilot / de la holding et la secrétaire de direction de Sébastien Dumange."
+ },
+ {
+  "siren": "510317191",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de SAS (fondateur du groupe de transport routier Rousseau, né des Transports Éric Rousseau créés en 1994)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://auris-finance.fr/en/?p=9631"
+  },
+  "decideur_financier": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de SAS (aucun DAF/RAF/contrôleur de gestion du groupe trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/510317191"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jade ROUSSEAU",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/510317191"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision prise à Clamecy par la famille Rousseau (Éric Rousseau, président, et Jade Rousseau, DG) : GROUPE ROUSSEAU est la holding familiale nivernaise d'un groupe de transport routier indépendant (~740 salariés, 10 sites) qui a gardé son siège dans la Nièvre.",
+  "note": "2e niveau : 6 recherches. Activité identifiée (la 1re passe avait confondu avec un homonyme normand) : holding du groupe de transport routier Rousseau, issu des Transports Éric Rousseau (1994, RCS Nevers), qui a repris Transports Malleret (1999), Transports Charrier (Decize) et Boudet (Saint-Florent-sur-Cher), EF Bennes (avril 2023) et Van de Walle (septembre 2024, 210 salariés, 30 M€) ; ~740 salariés, 1 200 véhicules, 10 sites (Nièvre, Pas-de-Calais, Gironde, Yonne, Cher, Puy-de-Dôme) ; transport sous température dirigée, matières dangereuses, vrac et bennes – source conseil M&A Auris Finance (https://auris-finance.fr/en/?p=9631 et https://auris-finance.fr/en/?p=8298). Attention aux homonymes : Groupe Rousseau (construction métallique, Normandie, Turenne/Bpifrance), Rousseau Automobile (Île-de-France), Transports Rousseau SAS (Cognac), Transports Cyril Rousseau (Marseille) – sans lien. Aucun site officiel, standard ni email trouvé ; aucun DAF/RAF publié. À faire : trouver le numéro des Transports Éric Rousseau à Clamecy (allée Clément Ader) via PagesJaunes ; à l'appel, demander le responsable administratif et financier du groupe et confirmer le rôle de Jade Rousseau (DG)."
+ },
+ {
+  "siren": "833243801",
+  "standard": {
+   "tel": "03 86 71 84 10",
+   "source": "https://www.e.leclerc/mag/e-leclerc-nevers",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.e.leclerc/mag/e-leclerc-nevers",
+  "dirigeant_principal": {
+   "nom": "Jean-François MOUSSET",
+   "fonction": "Président de SAS (holding VANAJEF ; lien nominatif avec l'E.Leclerc de Nevers non confirmé en ligne)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/833243801"
+  },
+  "decideur_financier": {
+   "nom": "Jean-François MOUSSET",
+   "fonction": "Président de SAS (aucun RAF/comptable du centre E.Leclerc de Nevers trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/833243801"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Nadia MOUSSET (MADAIRE)",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/833243801"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision vraisemblablement prise à Coulanges-lès-Nevers par le couple Mousset, adhérents propriétaires (le mouvement E.Leclerc est fait de magasins indépendants détenus par leurs adhérents) : la holding VANAJEF, domiciliée à l'adresse de l'hypermarché, contrôle la société d'exploitation ; pas de siège de groupe ailleurs.",
+  "note": "2e niveau : 6 recherches. Standard 03 86 71 84 10 désormais confirmé sur la page officielle du magasin (e.leclerc, boulevard Beauregard, 58660 Coulanges-lès-Nevers ; lun-jeu et sam 8h45-19h30, ven 8h45-20h ; même numéro sur Bonial) : fiabilité passée à « officielle ». La station-service du site est listée sous « Leclerc NEVERS DISTRIBUTION » (l-itineraire.com), ce qui va dans le sens de la société d'exploitation Soc Nevers Dis citée dans le CRM. Centre E.Leclerc de Nevers : ~210 salariés, créé en 1983, hypermarché de Coulanges, drive de Nevers (rue des Docks) et Express de Saint-Éloi (offres d'emploi Agefiph/Meteojob). Aucune source publique ne nomme les Mousset comme adhérents du magasin (recherches « Mousset » Leclerc Nevers et « Jean-François Mousset » E.Leclerc sans résultat) : lien VANAJEF – Leclerc Nevers toujours à confirmer à l'appel. Aucun RAF / chef comptable nommé ; une offre « Responsable administratif et financier – E.Leclerc » existe sur Meteojob (https://www.meteojob.com/jobs/55933966) mais sa localisation n'est pas visible, donc non attribuée. À l'appel : demander M. ou Mme Mousset (direction du centre) et le responsable administratif et financier / comptable du centre E.Leclerc."
+ }
+]
