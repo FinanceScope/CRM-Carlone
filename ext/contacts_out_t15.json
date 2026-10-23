@@ -1,0 +1,224 @@
+[
+ {
+  "siren": "819621194",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "contact@astradec.com",
+   "source": "https://www.pas-de-calais.gouv.fr/contenu/telechargement/66982/380725/file/5_1_PJ5_Capacités techniques et financières.pdf"
+  },
+  "site_web": "https://www.astradec.com",
+  "dirigeant_principal": {
+   "nom": "Emmanuel Biallais",
+   "fonction": "Représentant permanent de E.B.P., présidente de la société",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/819621194"
+  },
+  "decideur_financier": {
+   "nom": "Emmanuel Biallais",
+   "fonction": "Représentant permanent de E.B.P., présidente de la société",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/819621194"
+  },
+  "autres_contacts": [],
+  "adresse": "6 route de la Zone industrielle de Nevers, 58000 Saint-Éloi",
+  "format_email_observe": null,
+  "decision": "Probablement au siège du groupe Astradec à Arques (Pas-de-Calais) ou chez sa holding E.B.P. : le site de Saint-Éloi est une filiale d'exploitation rachetée par Astradec fin 2020, sans direction financière locale identifiée.",
+  "note": "2e niveau : toujours aucun standard propre au site de Saint-Éloi (6 recherches : annuaires, presse, site du groupe). Le groupe Astradec (siège Arques 62, ~300 salariés, ~70 M€ de CA, 20 sites, 4 pôles) publie l'email générique contact@astradec.com et le site www.astradec.com (cités dans un dossier ICPE de la préfecture du Pas-de-Calais et un annuaire pro ; attribution exacte de l'email à vérifier). Le site de Saint-Éloi a été racheté par Astradec le 28/12/2020 (Géorisques) ; une autre société ASTRA RECYCLAGE (même nom) recrute à Saint-Florentin (89), ex-Odelot Recyclage. Historique : Le Journal des Entreprises citait Eric Bée comme dirigeant-fondateur d'Astradec (article ancien, ~2010) ; E.B.P. est vraisemblablement sa holding (projet de financement « E.B.P. » sur october.eu : https://october.eu/project/e-b-p/), non confirmé. Emmanuel Biallais n'apparaît dans aucune source hors registre. Aucun DAF/RAF trouvé. À l'appel : passer par le siège d'Arques (03 21 93 60 60, numéro vu en 2021 dans un dossier ICPE, non reconfirmé) et demander qui gère la finance des filiales et qui dirige le site de Saint-Éloi."
+ },
+ {
+  "siren": "518482013",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://anvisgroup.com",
+  "dirigeant_principal": {
+   "nom": "Laurent Cobigo",
+   "fonction": "Directeur général (Managing Director d'Anvis Decize)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://anvisgroup.com/de/?p=754"
+  },
+  "decideur_financier": {
+   "nom": "Laurent Cobigo",
+   "fonction": "Directeur général (Managing Director d'Anvis Decize)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://anvisgroup.com/de/?p=754"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Olaf Hahn",
+    "fonction": "Président (registre) ; groupe Anvis repris par HAHN GmbH",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/518482013"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement partagée entre la direction de Decize (Laurent Cobigo, DG) et Anvis Holding / l'actionnaire allemand HAHN GmbH (président Olaf Hahn), qui pilote les budgets des entités françaises via un directeur financier holding.",
+  "note": "2e niveau : la page presse du groupe (anvisgroup.com) présente Laurent Cobigo comme « Managing Director of Anvis Decize » (page non datée), cohérent avec le registre (DG) : c'est lui le dirigeant opérationnel, Olaf Hahn étant président côté actionnaire (HAHN GmbH, qui a racheté le groupe puis signé la construction d'un nouveau site à Decize — rubrique news/decize du site). Marc Ritzenthaler : mandats à Decize terminés, aujourd'hui DG ailleurs (societe.com) — registre en partie périmé. Finance : l'offre de contrôleur de gestion industriel basée à Decize (France Travail 189HYHP, 2025) indique un poste « rattaché au responsable Finance » (nom non publié ; l'extrait ne nomme pas Anvis, mais l'offre Anvis de 2023 vise le même poste) ; le groupe recrutait en 2023 un « Directeur Finances » pour Anvis Holding (budgets des entités françaises). Aucun nom trouvé : décideur financier = DG par défaut. Aucun standard trouvé (6 recherches, annuaires et site du groupe) ; l'usine a déménagé en 2023 dans un site plus petit, l'adresse du CRM (12 rue Henri Darcy) est peut-être à mettre à jour. À l'appel : demander le responsable Finance du site de Decize et le nom du DAF d'Anvis Holding."
+ },
+ {
+  "siren": "411012107",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Eric Bouvier",
+   "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411012107"
+  },
+  "decideur_financier": {
+   "nom": "Eric Bouvier",
+   "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411012107"
+  },
+  "autres_contacts": [],
+  "adresse": "63 route de Bourges, 58000 Challuy",
+  "format_email_observe": null,
+  "decision": "Probablement à Challuy, chez le dirigeant repreneur via la holding Burgundy Garden, avec l'aval du fonds Atlantic Entrepreneur Fund (groupe suisse Atlantic) qui a participé à la reprise de Foresta vers 2021.",
+  "note": "2e niveau : Foresta (créée en 1997, marque Habrita « du groupe Foresta », ~39 salariés en France et ~55 en Roumanie) a été transmise vers 2021 : cfnews titrait « Foresta planche sur sa transmission » (04/03/2021, https://cfnews.net/Annuaires-base-de-deals/Acteurs-Corporate-Finance/Fonds-d-investissement/ATLANTIC-ENTREPRENEUR-LUXEMBOURG) et allnews.ch « Atlantic Entrepreneur Fund participe à la reprise de Foresta » (https://allnews.ch/node/44632) ; ce fonds finance des MBI de managers repreneurs, d'où Burgundy Garden = holding de reprise, Eric Bouvier (DG au registre) probablement le repreneur — non confirmé, nom absent des extraits. Les fiches Habrita chez Bricomarché confirment la raison sociale Foresta, 63 route de Bourges à Challuy, mais sans téléphone ; pas de site officiel habrita/foresta trouvé dans les résultats. Email déjà connu (order.foresta@altona.fr, adresse de commande) inchangé. Aucun standard, aucun RAF trouvé (6 recherches). À l'appel : obtenir le standard via un annuaire au moment de l'appel, demander M. Bouvier et le/la responsable administratif(ve) et financier(ère)."
+ },
+ {
+  "siren": "701880486",
+  "standard": {
+   "tel": "03 86 68 21 70",
+   "source": "https://lesvoitures.fr/adresse/etoile-58-nevers/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.groupechopard.com/concessions/mercedes-benz-nevers",
+  "dirigeant_principal": {
+   "nom": "Erik Chopard-Lallier",
+   "fonction": "Président du Groupe Chopard (E.C.L., présidente de la société)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-chopard-valorise-sa-politique-rse/"
+  },
+  "decideur_financier": {
+   "nom": "Sébastien Pate",
+   "fonction": "Directeur financier du groupe Chopard (DAF du groupe, holding à Besançon ; donnée 2020)",
+   "type": "autre",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.autoactu.com/content/uploads/actualite/fichiers/doc_new/477GROUPE-CHOPARD.pdf"
+  },
+  "autres_contacts": [],
+  "adresse": "38 boulevard du Pré Plantin, 58000 Nevers",
+  "format_email_observe": null,
+  "decision": "Au siège du Groupe Chopard à Besançon (holding E.C.L. d'Erik Chopard-Lallier) : Étoile 58 n'est qu'une concession d'un groupe de ~3 000 salariés et 132 points de vente, dont la finance est centralisée.",
+  "note": "2e niveau : standard 03 86 68 21 70 toujours confirmé uniquement par des annuaires (lesvoitures.fr et un second annuaire), absent des extraits de la page officielle groupechopard.com (qui donne seulement les horaires : lun-ven 8h-12h/14h-19h, sam 9h-12h/14h-18h) ; aucun autre numéro trouvé. Finance : l'annuaire 2020 des groupes de distribution (autoactu.com) cite Sébastien Pate comme directeur financier du groupe Chopard (CA 2019 : 872 M€) — donnée de 2020, à faire confirmer (le groupe pèse aujourd'hui 1,9 Md€, il a pu changer). Président : Erik Chopard-Lallier (journalauto 2025), vice-président Quentin Chopard-Lallier. Pas de chef de concession nommé à Nevers. À l'appel : demander le directeur de la concession (relais local), puis le nom et la ligne de la direction financière du groupe à Besançon."
+ },
+ {
+  "siren": "809097561",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Daniel Filipe Da Fonseca Marinho",
+   "fonction": "Directeur général (présidente : VIGOBLOCO - PRE FABRICADOS S.A. depuis le 26/11/2024)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/vgb-france-prefabriques_809097561"
+  },
+  "decideur_financier": {
+   "nom": "Daniel Filipe Da Fonseca Marinho",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/809097561"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eric Mena",
+    "fonction": "Dirigeant cité par Xerfi (rôle non précisé, possiblement ancien président avant la reprise de la présidence par Vigobloco en 11/2024)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/vgb-france-prefabriques_809097561"
+   }
+  ],
+  "adresse": "ZI Les Fontaines Douces, 58260 La Machine",
+  "format_email_observe": null,
+  "decision": "Probablement au siège du groupe Vigobloco à Ourém (Portugal), présidente de la société depuis novembre 2024, le DG local Daniel Da Fonseca Marinho servant de relais ; décision difficile vu la perte de 2024.",
+  "note": "2e niveau : Xerfi donne un CA 2024 d'environ 10,4 M€ (contre 14,3 M€ en 2023, chiffre du CRM) et une perte nette d'environ 681 k€ en 2024 (bénéfice de 706 k€ en 2023) : société en recul, cible moins favorable pour un achat défiscalisé. Dirigeants cités par Xerfi : Daniel Da Fonseca Marinho (DG au registre) et Eric Mena (rôle non précisé, absent du registre transmis — à clarifier). Vigobloco = préfabricant béton portugais d'Ourém (>100 salariés) ; aucune source ne décrit l'acquisition de VGB France, seul le registre lie les deux. Aucun site web, standard, email ni RAF trouvé (6 recherches : annuaires, LinkedIn, presse). Page LinkedIn connue : https://www.linkedin.com/company/vgbfranceprefabriques. À l'appel : chercher le numéro dans un annuaire au moment de l'appel, demander le DG et la personne qui tient la comptabilité (peut-être externalisée ou gérée depuis le Portugal)."
+ },
+ {
+  "siren": "711880021",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "Sem@nievreamenagement.com",
+   "source": "https://ted.europa.eu/en/notice/165245-2023/pdf"
+  },
+  "site_web": "https://nievreamenagement.com",
+  "dirigeant_principal": {
+   "nom": "Sandrine Bertrand",
+   "fonction": "Directrice générale",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/711880021"
+  },
+  "decideur_financier": {
+   "nom": "Sandrine Bertrand",
+   "fonction": "Directrice générale",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/711880021"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jocelyne Guérin",
+    "fonction": "Présidente du conseil d'administration (conseillère départementale)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/mars_2022_rna_nievre_amgt.pdf"
+   }
+  ],
+  "adresse": "13 rue Ferdinand Gambon, 58000 Nevers (adresse de l'avis de marché TED 2023)",
+  "format_email_observe": null,
+  "decision": "À Nevers, au sein de la SEM, mais une dépense de mécénat devrait passer par la directrice générale puis le conseil d'administration (11 membres dont 8 élus, présidé par une conseillère départementale) : décision lente et politiquement sensible pour une SEM à capitaux majoritairement publics.",
+  "note": "2e niveau : un avis de marché européen de 2023 (TED) donne l'adresse 13 rue Ferdinand Gambon à Nevers (différente du registre : Hôtel du Département / 11 rue Bovet), l'email Sem@nievreamenagement.com et le site nievreamenagement.com ; pas de numéro dans l'extrait, aucun standard trouvé ailleurs (6 recherches). Direction : en mars 2022 le DG était Cédric Duhem (RNA) ; le registre donne aujourd'hui Sandrine Bertrand, aucune source publique ne la confirme. Le RAF de l'équipe (15 personnes) reste non nommé. Cible peu naturelle (SEM publique, CA de concessions d'aménagement). À l'appel : demander le standard via l'email/le site, confirmer la DG et le nom du/de la RAF."
+ }
+]

@@ -1,0 +1,15 @@
+[
+ {
+  "siren": "880515994",
+  "standard": {"tel": null, "source": null, "fiabilite": null},
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Vraisemblablement prise à Cosne-Cours-sur-Loire même : SAS autonome (aucun groupe identifié) créée en 2020 pour reprendre l'ancienne activité produits de forage SMFI/Vallourec du site, sans siège extérieur connu — à confirmer au standard.",
+  "note": "2e niveau : opposition à la prospection (Pappers), donc uniquement des coordonnées d'entreprise et aucun nom hors site officiel. 6 recherches supplémentaires sans résultat : aucun site web, aucun numéro de standard, aucun email générique publiés. Seule la fiche LEI Bloomberg (https://lei.bloomberg.com/leis/view/969500S5WC7849E1Y596) confirme la SAS COMMAND-SMFI active au 5 rue des Guérins, 58200 Cosne-Cours-sur-Loire. Contexte : en 2017, Vallourec a cédé à NOV ses produits de forage, hors sites français de Cosne et Tarbes, mis en vente séparément. La page CFNews sur cette cession (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638) cite SMFI et ALTIFOR en mots-clés, sans détail visible. Une question à l'Assemblée nationale (https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QG451.pdf) indiquait alors 139 salariés à Cosne ; l'effectif actuel est de 20 à 49. Attention : GlobalSpec liste « Vam Drilling France » au 7 rue des Frères Lumière à Cosne, une autre adresse et une autre entité (ancienne dénomination Vallourec), dont les coordonnées ne doivent pas être reprises. La marque SMFI (tiges, masses-tiges, stabilisateurs) appartient historiquement à SMF International. À faire : chercher le numéro par l'annuaire inversé ou l'accueil de la zone des Guérins, puis demander au standard qui gère la comptabilité (interne ou expert-comptable externe) et qui décide des achats hors production."
+ }
+]

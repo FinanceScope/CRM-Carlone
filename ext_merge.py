@@ -676,7 +676,7 @@ for f in sorted(glob.glob(EXT + '/contacts_verif_*.json')):
     except Exception: continue
     for v in data:
         k = sid(v.get('siren'))
-        if k: VERIF[k] = v
+        if k: VERIF[k] = dict(VERIF.get(k) or {}, **{kk: vv for kk, vv in v.items() if vv not in (None, '', [])})   # vérifications successives cumulées
 def verdict(x): return x.get('verdict') if isinstance(x, dict) else None
 n_vf = Counter()
 for c in base + ext:

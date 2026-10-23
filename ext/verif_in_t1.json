@@ -1,0 +1,155 @@
+[
+ {
+  "siren": "440326692",
+  "rang": 1,
+  "entreprise": "Aperam Alloys Imphy",
+  "ville": "Imphy",
+  "type": "decideur_financier",
+  "valeur": "Nicolas Changeur — Chief Financial Officer d'Aperam (DAF du groupe, Luxembourg)",
+  "source": "https://lu.linkedin.com/in/nicolas-changeur-8428797"
+ },
+ {
+  "siren": "571880301",
+  "rang": 88,
+  "entreprise": "Le Journal du Centre",
+  "ville": "Nevers",
+  "type": "decideur_financier",
+  "valeur": "Philippe de LAMBERTYE — Directeur général adjoint Opérations, Finance et Support — DAF du groupe Centre France La Montagne (nommé pour janvier 2024)",
+  "source": "https://www.cbnews.fr/node/81152"
+ },
+ {
+  "siren": "349431254",
+  "rang": 19,
+  "entreprise": "SUMA Volkswagen (Nevers et Cosne)",
+  "ville": "Nevers",
+  "type": "dirigeant_principal",
+  "valeur": "Richard VIVES (Vivès) — Président de SAS (dirige le groupe SUMA / SUMA Invest, Limonest)",
+  "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"
+ },
+ {
+  "siren": "419013297",
+  "rang": 25,
+  "entreprise": "Intermarché Super La Charité-sur-Loire",
+  "ville": "La Charité-sur-Loire",
+  "type": "dirigeant_principal",
+  "valeur": "Fanny Jaudon (née Stiot) — Directrice générale (présidente : la holding ALFOCEA)",
+  "source": "https://www.pappers.fr/entreprise/419013297"
+ },
+ {
+  "siren": "388806317",
+  "rang": 58,
+  "entreprise": "Intermarché Decize",
+  "ville": "Decize",
+  "type": "dirigeant_principal",
+  "valeur": "Anthony PEZANT — Dirigeant présumé de NALOUMY (SIREN 790009658), holding présidente de BONJOUR depuis le 01/07/2022 ; président de BONJOUR en nom propre jusqu'au 27/01/2023 (lien à confirmer)",
+  "source": "https://www.pappers.fr/entreprise/388806317"
+ },
+ {
+  "siren": "753221092",
+  "rang": 69,
+  "entreprise": "Hyundai Nevers – Groupe Suma",
+  "ville": "Nevers",
+  "type": "dirigeant_principal",
+  "valeur": "Richard VIVÈS — Président du groupe SUMA (siège à Limonest, 69) ; la présidente de la SAS est la holding SUMA INVEST",
+  "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"
+ },
+ {
+  "siren": "955500194",
+  "rang": 85,
+  "entreprise": "CARRIERES ET MATERIAUX",
+  "ville": "Sardy-lès-Épiry",
+  "type": "dirigeant_principal",
+  "valeur": "Urbain Nourissat — Directeur d'exploitation de la carrière de Picampoix selon l'organigramme du dossier DREAL (date non visible ; présidente de la SAS : EIFFAGE INFRASTRUCTURES GESTION ET DEVELOPPEMENT, personne morale, aucune personne physique trouvée)",
+  "source": "https://www.bourgogne-franche-comte.developpement-durable.gouv.fr/IMG/pdf/t1_da_et_mt_carrieres_et_materiaux_-_picampoix_58__partie_2-1-137.pdf"
+ },
+ {
+  "siren": "887120046",
+  "rang": 99,
+  "entreprise": "Weldom Clamecy / U Express Lormes",
+  "ville": "Clamecy",
+  "type": "dirigeant_principal",
+  "valeur": "Vincent PICQ — PDG du groupe Schiever (fiche employeur Indeed, contributive ; cité comme directeur général du groupe Schiever en 2006) – la présidente de MORVAN DISTRIBUTION est la holding ANCIENS ETS GEORGES SCHIEVER ET FILS",
+  "source": "https://fr.indeed.com/cmp/Schiever"
+ },
+ {
+  "siren": "327098364",
+  "rang": 10,
+  "entreprise": "E.Leclerc Nevers",
+  "ville": "Coulanges-lès-Nevers",
+  "type": "standard_officiel",
+  "valeur": "03 86 71 84 10",
+  "source": "https://www.e.leclerc/mag/e-leclerc-nevers"
+ },
+ {
+  "siren": "422593491",
+  "rang": 16,
+  "entreprise": "Toyota Nevers / Central Parc Automobile",
+  "ville": "Varennes-Vauzelles",
+  "type": "standard_officiel",
+  "valeur": "03 86 71 69 00",
+  "source": "https://www.toyota.fr/reseau/00CD2-CFF8A-50822-01800-01200-1"
+ },
+ {
+  "siren": "419013297",
+  "rang": 25,
+  "entreprise": "Intermarché Super La Charité-sur-Loire",
+  "ville": "La Charité-sur-Loire",
+  "type": "standard_officiel",
+  "valeur": "03 86 70 28 62",
+  "source": "https://www.intermarche.com/magasins/02766/la-charite-sur-loire-58400/infos-pratiques"
+ },
+ {
+  "siren": "581880044",
+  "rang": 37,
+  "entreprise": "Peugeot Nevers (CATAR) / CORAD Decize",
+  "ville": "Nevers",
+  "type": "standard_officiel",
+  "valeur": "03 86 93 45 45",
+  "source": "https://concessions.peugeot.fr/catarnevers/nous-contacter/peugeot-professionnel/concession-coordonnees/"
+ },
+ {
+  "siren": "401453188",
+  "rang": 52,
+  "entreprise": "Intermarché Donzy",
+  "ville": "Donzy",
+  "type": "standard_officiel",
+  "valeur": "03 86 39 47 28",
+  "source": "https://www.intermarche.com/magasins/01255/donzy-58220/infos-pratiques"
+ },
+ {
+  "siren": "403894512",
+  "rang": 67,
+  "entreprise": "Bricomarché Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "type": "standard_officiel",
+  "valeur": "03 86 36 00 11",
+  "source": "https://www.bricomarche.com/magasin/varennes-vauzelles/01461"
+ },
+ {
+  "siren": "418048591",
+  "rang": 72,
+  "entreprise": "Intermarché Super Fourchambault",
+  "ville": "Fourchambault",
+  "type": "standard_officiel",
+  "valeur": "03 86 60 99 30",
+  "source": "https://www.intermarche.com/magasins/02520/fourchambault-58600/infos-pratiques"
+ },
+ {
+  "siren": "420237398",
+  "rang": 86,
+  "entreprise": "Intermarché Contact (Saint-Benin-d'Azy)",
+  "ville": "Saint-Benin-d'Azy",
+  "type": "standard_officiel",
+  "valeur": "03 86 58 45 45",
+  "source": "https://www.intermarche.com/magasins/50264/saint-benin-d'azy-58270/infos-pratiques"
+ },
+ {
+  "siren": "844428623",
+  "rang": 92,
+  "entreprise": "Taneo (réseau de bus de Nevers Agglomération)",
+  "ville": "Nevers",
+  "type": "standard_officiel",
+  "valeur": "03 86 71 94 20",
+  "source": "https://tsi.mobigo.cityway.fr/en/bus-and-trams/53/taneo-network-nevers/264"
+ }
+]

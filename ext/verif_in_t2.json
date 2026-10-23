@@ -1,0 +1,155 @@
+[
+ {
+  "siren": "651880437",
+  "rang": 22,
+  "entreprise": "Polyclinique du Val de Loire - Elsan",
+  "ville": "Nevers",
+  "type": "decideur_financier",
+  "valeur": "Olivier REGNARD — Directeur général délégué aux finances, DAF du groupe Elsan (depuis le 16/09/2024)",
+  "source": "https://www.elsan.care/fr/presse/elsan-nomme-un-nouveau-directeur-general-delegue-aux-finances-et-renouvelle-son-comite"
+ },
+ {
+  "siren": "338657604",
+  "rang": 90,
+  "entreprise": "Styl'Habitat",
+  "ville": "Nevers",
+  "type": "decideur_financier",
+  "valeur": "Vincent Castaing — DAF du groupe Babeau Seguin (Chief Financial Officer depuis janvier 2024) — groupe dont relèverait Styl'Habitat, à confirmer",
+  "source": "https://www.escpalumni.org/en/mobilites/-3805"
+ },
+ {
+  "siren": "530572775",
+  "rang": 21,
+  "entreprise": "Nexson Group",
+  "ville": "Garchizy",
+  "type": "dirigeant_principal",
+  "valeur": "Charles BONNAFOUS — Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025, remplacé par la personne morale Nexson Corporation)",
+  "source": "https://www.pappers.fr/entreprise/530572775"
+ },
+ {
+  "siren": "304890817",
+  "rang": 39,
+  "entreprise": "Saget La Perrière",
+  "ville": "Pouilly-sur-Loire",
+  "type": "dirigeant_principal",
+  "valeur": "Laurent Saget — Président du conseil d'administration et directeur général (PDG)",
+  "source": "https://www.pappers.fr/entreprise/304890817"
+ },
+ {
+  "siren": "333222214",
+  "rang": 60,
+  "entreprise": "GEFICCA",
+  "ville": "Cosne-Cours-sur-Loire",
+  "type": "dirigeant_principal",
+  "valeur": "Dominique FROUX — Président du directoire de GEFICCA TECHNOLOGIES (holding présidente de GEFICCA depuis le 01/01/2024)",
+  "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html"
+ },
+ {
+  "siren": "490935756",
+  "rang": 70,
+  "entreprise": "Texys Group / Texense",
+  "ville": "Varennes-Vauzelles",
+  "type": "dirigeant_principal",
+  "valeur": "Philippe LEUWERS — Directeur général de Texys Group (communiqué du 29/01/2024) ; président de la SAS : TEXYS HD (holding) ; maintien en poste à confirmer",
+  "source": "https://www.vehiculedufutur.com/uploads/images/News-et-opportunites/Texys/20240129_CdP_Texys.pdf"
+ },
+ {
+  "siren": "404816712",
+  "rang": 96,
+  "entreprise": "CIA Graphic (enseignes CIA Bourgogne, IB Imprimerie, CIA Direct, CIA Com)",
+  "ville": "Pougues-les-Eaux",
+  "type": "dirigeant_principal",
+  "valeur": "Xavier BOULOT — Président de la holding 2B FINANCE ET CONSEILS, elle-même présidente de la SAS CIA Imprimerie (information CRM/registre, non confirmée en ligne)",
+  "source": "https://www.pappers.fr/entreprise/404816712"
+ },
+ {
+  "siren": "301420626",
+  "rang": 4,
+  "entreprise": "Textilot / magasins Plus",
+  "ville": "Varennes-Vauzelles",
+  "type": "standard_officiel",
+  "valeur": "03 86 71 62 08",
+  "source": "https://www.textilot.fr"
+ },
+ {
+  "siren": "833243801",
+  "rang": 11,
+  "entreprise": "VANAJEF",
+  "ville": "Coulanges-lès-Nevers",
+  "type": "standard_officiel",
+  "valeur": "03 86 71 84 10",
+  "source": "https://www.e.leclerc/mag/e-leclerc-nevers"
+ },
+ {
+  "siren": "349431254",
+  "rang": 19,
+  "entreprise": "SUMA Volkswagen (Nevers et Cosne)",
+  "ville": "Nevers",
+  "type": "standard_officiel",
+  "valeur": "03 86 36 18 74",
+  "source": "https://www.volkswagen.fr/fr/partenaire/suma-nevers.html"
+ },
+ {
+  "siren": "312057318",
+  "rang": 26,
+  "entreprise": "Etablissements Coignet",
+  "ville": "Ciez",
+  "type": "standard_officiel",
+  "valeur": "03 86 26 43 28",
+  "source": "https://www.etablissements-coignet.fr/contact"
+ },
+ {
+  "siren": "621880012",
+  "rang": 38,
+  "entreprise": "Renault Cosne (groupe Simonneau)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "type": "standard_officiel",
+  "valeur": "03 86 26 81 81",
+  "source": "https://concessionnaire.renault.fr/cosne-sur-loire.html"
+ },
+ {
+  "siren": "513917922",
+  "rang": 64,
+  "entreprise": "USON Nevers Rugby",
+  "ville": "Varennes-Vauzelles",
+  "type": "standard_officiel",
+  "valeur": "03 86 71 62 12",
+  "source": "https://www.usonneversrugby.com/cgv-billetterie-2526"
+ },
+ {
+  "siren": "479965980",
+  "rang": 68,
+  "entreprise": "Intermarché Super Challuy",
+  "ville": "Challuy",
+  "type": "standard_officiel",
+  "valeur": "03 86 37 60 71",
+  "source": "https://www.intermarche.com/magasins/08763/challuy-58000/infos-pratiques"
+ },
+ {
+  "siren": "428223531",
+  "rang": 81,
+  "entreprise": "Intermarché (Sauvigny-les-Bois)",
+  "ville": "Sauvigny-les-Bois",
+  "type": "standard_officiel",
+  "valeur": "03 86 90 33 22",
+  "source": "https://www.intermarche.com/magasins/03333/sauvigny-les-bois-58160/infos-pratiques"
+ },
+ {
+  "siren": "338657604",
+  "rang": 90,
+  "entreprise": "Styl'Habitat",
+  "ville": "Nevers",
+  "type": "standard_officiel",
+  "valeur": "03 86 36 57 55",
+  "source": "https://www.styl-habitat.fr/mentions-legales/"
+ },
+ {
+  "siren": "950376566",
+  "rang": 94,
+  "entreprise": "Distance location auto (groupe Vincent)",
+  "ville": "Varennes-Vauzelles",
+  "type": "standard_officiel",
+  "valeur": "03 86 71 09 10",
+  "source": "https://groupevincent.fr/grand-tourisme-automobile"
+ }
+]

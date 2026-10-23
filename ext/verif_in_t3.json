@@ -1,0 +1,155 @@
+[
+ {
+  "siren": "701880486",
+  "rang": 48,
+  "entreprise": "Mercedes-Benz Nevers (Groupe Chopard)",
+  "ville": "Nevers",
+  "type": "decideur_financier",
+  "valeur": "Sébastien Pate — Directeur financier du groupe Chopard (DAF du groupe, holding à Besançon ; donnée 2020)",
+  "source": "https://www.autoactu.com/content/uploads/actualite/fichiers/doc_new/477GROUPE-CHOPARD.pdf"
+ },
+ {
+  "siren": "323685453",
+  "rang": 91,
+  "entreprise": "Parqueterie Beau Soleil",
+  "ville": "Saint-Amand-en-Puisaye",
+  "type": "decideur_financier",
+  "valeur": "Thierry Simonel — Directeur administratif et financier (DAF du groupe TFF Group, actionnaire à 51 % et présidente de la SAS)",
+  "source": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/03/FCECO081406_20260331.pdf"
+ },
+ {
+  "siren": "651880437",
+  "rang": 22,
+  "entreprise": "Polyclinique du Val de Loire - Elsan",
+  "ville": "Nevers",
+  "type": "dirigeant_principal",
+  "valeur": "Sébastien PROTO — Président exécutif du groupe Elsan (Elsan SAS, présidente de la société)",
+  "source": "https://www.elsan.care/fr/presse/elsan-nomme-un-nouveau-directeur-general-delegue-aux-finances-et-renouvelle-son-comite"
+ },
+ {
+  "siren": "701880486",
+  "rang": 48,
+  "entreprise": "Mercedes-Benz Nevers (Groupe Chopard)",
+  "ville": "Nevers",
+  "type": "dirigeant_principal",
+  "valeur": "Erik Chopard-Lallier — Président du Groupe Chopard (E.C.L., présidente de la société)",
+  "source": "https://journalauto.com/distribution/le-groupe-chopard-valorise-sa-politique-rse/"
+ },
+ {
+  "siren": "409564481",
+  "rang": 61,
+  "entreprise": "Groupe Danielson",
+  "ville": "Magny-Cours",
+  "type": "dirigeant_principal",
+  "valeur": "Bernard DELAPORTE — Président de GROUPE DANIELSON, holding présidente de DANIELSON ENGINEERING (nom repris du CRM, non revérifié)",
+  "source": "https://www.pappers.fr/entreprise/409564481"
+ },
+ {
+  "siren": "391484730",
+  "rang": 76,
+  "entreprise": "Intermarché Super La Machine",
+  "ville": "La Machine",
+  "type": "dirigeant_principal",
+  "valeur": "Diego FERNANDEZ — Exploitant (repreneur) de l'Intermarché Super de La Machine, successeur de Fabrice et Sylvie Ponti — mandat exact dans MADELIE (présidence via la personne morale REGULAR ?) non confirmé",
+  "source": "https://ac-franchise.com/article/le-groupement-les-mousquetaires-annonce-des-reprises-et-des-transformations"
+ },
+ {
+  "siren": "335275319",
+  "rang": 97,
+  "entreprise": "ASM",
+  "ville": "Cosne-Cours-sur-Loire",
+  "type": "dirigeant_principal",
+  "valeur": "Benjamin André — Directeur d'ASM (direction confiée lors de l'intégration au groupe Rave en 2020 ; présidente : RAVE CROISSANCE)",
+  "source": "https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/"
+ },
+ {
+  "siren": "775722218",
+  "rang": 7,
+  "entreprise": "Paragon Transaction",
+  "ville": "Cosne-Cours-sur-Loire",
+  "type": "standard_officiel",
+  "valeur": "03 86 26 51 51",
+  "source": "https://www.paragon.world/fr"
+ },
+ {
+  "siren": "334898277",
+  "rang": 13,
+  "entreprise": "E.Leclerc Clamecy",
+  "ville": "Clamecy",
+  "type": "standard_officiel",
+  "valeur": "03 86 27 17 08",
+  "source": "https://www.e.leclerc/mag/e-leclerc-clamecy"
+ },
+ {
+  "siren": "651880437",
+  "rang": 22,
+  "entreprise": "Polyclinique du Val de Loire - Elsan",
+  "ville": "Nevers",
+  "type": "standard_officiel",
+  "valeur": "03 86 93 52 58",
+  "source": "https://www.elsan.care/sites/default/files/Livret%20accueil%20VDL.pdf"
+ },
+ {
+  "siren": "886020031",
+  "rang": 29,
+  "entreprise": "Garage Vincent – Citroën & DS Store Nevers (3 route de Paris) / Grand Tourisme Automobile – GTA (Fiat, Alfa Romeo, Jeep ; 30 route de Paris)",
+  "ville": "Varennes-Vauzelles",
+  "type": "standard_officiel",
+  "valeur": "03 86 68 22 00",
+  "source": "https://www.groupevincent.fr/etablissement/citroen-varennes-vauzelles/"
+ },
+ {
+  "siren": "304890817",
+  "rang": 39,
+  "entreprise": "Saget La Perrière",
+  "ville": "Pouilly-sur-Loire",
+  "type": "standard_officiel",
+  "valeur": "03 86 39 57 75",
+  "source": "https://www.sagetlaperriere.com/mentions-legal"
+ },
+ {
+  "siren": "385044599",
+  "rang": 65,
+  "entreprise": "Casino Planétarium / Casino de Pougues-les-Eaux (groupe Tranchant)",
+  "ville": "Pougues-les-Eaux",
+  "type": "standard_officiel",
+  "valeur": "03 86 90 17 00",
+  "source": "https://casino-pougues-les-eaux.fr/"
+ },
+ {
+  "siren": "490935756",
+  "rang": 70,
+  "entreprise": "Texys Group / Texense",
+  "ville": "Varennes-Vauzelles",
+  "type": "standard_officiel",
+  "valeur": "03 86 21 27 18",
+  "source": "https://texysgroup.com/fr/the-group"
+ },
+ {
+  "siren": "411741440",
+  "rang": 84,
+  "entreprise": "Circuit de Nevers Magny-Cours",
+  "ville": "Magny-Cours",
+  "type": "standard_officiel",
+  "valeur": "03 86 21 80 00",
+  "source": null
+ },
+ {
+  "siren": "323685453",
+  "rang": 91,
+  "entreprise": "Parqueterie Beau Soleil",
+  "ville": "Saint-Amand-en-Puisaye",
+  "type": "standard_officiel",
+  "valeur": "03 86 39 56 00",
+  "source": "https://www.parquet-beausoleil.fr/wp-content/uploads/2021/07/Parqueterie-BEAU-SOLEIL-_-Collection-2021.pdf"
+ },
+ {
+  "siren": "887120046",
+  "rang": 99,
+  "entreprise": "Weldom Clamecy / U Express Lormes",
+  "ville": "Clamecy",
+  "type": "standard_officiel",
+  "valeur": "03 86 27 11 89",
+  "source": "https://www.weldom.fr/m/weldom-clamecy"
+ }
+]
