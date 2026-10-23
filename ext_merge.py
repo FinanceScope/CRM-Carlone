@@ -672,13 +672,14 @@ for c in base + ext:
 print('contacts :', len(CONTACTS), dict(n_ct), '| avec téléphone :', sum(1 for c in base + ext if c.get('telephone')), '/ 500')
 
 # vérification indépendante (contacts_verif_*.json) : valeur contredite corrigée ou retirée, valeur non confirmée signalée
-VERIF = {}
+VERIF, VERIF_NOTES = {}, {}
 for f in sorted(glob.glob(EXT + '/contacts_verif_*.json')):
     try: data = json.load(open(f, encoding='utf-8'))
     except Exception: continue
     for v in data:
         k = sid(v.get('siren'))
         if k: VERIF[k] = dict(VERIF.get(k) or {}, **{kk: vv for kk, vv in v.items() if vv not in (None, '', [])})   # vérifications successives cumulées
+        if k and v.get('note'): VERIF_NOTES.setdefault(k, []).append(v['note'])
 def verdict(x): return x.get('verdict') if isinstance(x, dict) else None
 n_vf = Counter()
 for c in base + ext:
@@ -737,6 +738,9 @@ for c in base + ext:
             garde.append(y)
         c['autres_contacts'] = garde
         if not c['autres_contacts']: del c['autres_contacts']
+    notes_v = [str(n).strip() for n in (VERIF_NOTES.get(k) or []) if n and str(n).strip()]
+    if notes_v:   # remarques des vérificateurs (mandat terminé, homonyme…) ajoutées aux notes de recherche
+        c['note_contacts'] = ((c.get('note_contacts') or '') + ' Vérification : ' + ' '.join(dict.fromkeys(notes_v))).strip()
 print('vérifications :', len(VERIF), dict(n_vf))
 
 # relecture du 22/10/2026 : coordonnées sans source publiée, profils LinkedIn personnels, libellés
