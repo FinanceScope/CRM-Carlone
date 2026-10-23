@@ -1,0 +1,240 @@
+[
+ {
+  "rang": 12,
+  "siren": "399502897",
+  "nom": "HOLDING CASSIER",
+  "enseigne": null,
+  "ville": "Cercy-la-Tour",
+  "adresse": "33 avenue Louis Coudant, 58340 Cercy-la-Tour",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "effectif": "10-19",
+  "ca": 71530000,
+  "groupe": "Groupe familial Cassier (filiales dont TC Environnement / TC Manutention)",
+  "dirigeants_registre": [
+   "Jean-François CASSIER (Président de SAS)",
+   "Alain CASSIER (Président du conseil de surveillance)",
+   "Luc CASSIER (Membre du directoire)",
+   "Jean-Luc FUMOUX (Membre du directoire)",
+   "Pierre RACOUCHOT (Membre du directoire)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Jean-François CASSIER",
+    "fonction": "Président de SAS",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/399502897"
+   },
+   "contact_finance": {
+    "nom": "Jean-François CASSIER",
+    "fonction": "Président de SAS",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/399502897"
+   },
+   "note": "Aucun résultat en 3 recherches (raison sociale + adresse, nom dans la commune, noms des dirigeants) ; activité opérationnelle du groupe (71,5 M€) non identifiée. Le registre mélange président de SAS et organes de SA à directoire (Alain CASSIER président du conseil de surveillance, Luc CASSIER, J.-L. FUMOUX et P. RACOUCHOT membres du directoire) : liste probablement en partie ancienne. Les membres du directoire hors famille pourraient porter la fonction financière, non vérifié."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 76,
+  "siren": "391484730",
+  "nom": "MADELIE",
+  "enseigne": "Intermarché Super La Machine",
+  "ville": "La Machine",
+  "adresse": "Route de Decize, Forêt des Glénons, 58260 La Machine",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "ca": 10635825,
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "dirigeants_registre": [
+   "Fabrice PONTI (Président de SAS)",
+   "Pierre PONTI (Directeur général)",
+   "Sylvie PONTI (Directrice générale)",
+   "REGULAR (personne morale) (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": "03 86 50 44 21",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Diego Fernandez",
+    "fonction": "Exploitant (repreneur) de l'Intermarché Super de La Machine depuis un mois de mai (année non précisée), successeur de Fabrice et Sylvie Ponti ; mandat exact dans MADELIE non confirmé",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://ac-franchise.com/article/le-groupement-les-mousquetaires-annonce-des-reprises-et-des-transformations"
+   },
+   "contact_finance": {
+    "nom": "Diego Fernandez",
+    "fonction": "Exploitant (repreneur) de l'Intermarché Super de La Machine, avec son épouse Carole ; lien juridique avec MADELIE (présidence via la personne morale REGULAR ?) non confirmé",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://ac-franchise.com/article/le-groupement-les-mousquetaires-annonce-des-reprises-et-des-transformations"
+   },
+   "note": "Numéro du magasin vu uniquement sur un agrégateur (Bonial) — à vérifier. Le registre liste encore Fabrice PONTI (président) et Pierre/Sylvie PONTI (DG) mais aussi une personne morale REGULAR comme présidente : ac-franchise annonce la reprise du magasin par Diego et Carole Fernandez (succédant à Fabrice et Sylvie Ponti) ; à confirmer au téléphone qui préside MADELIE aujourd'hui. Zagaz signale un nouveau supermarché en construction à l'entrée sud de La Machine (déménagement possible)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 78,
+  "siren": "778492009",
+  "nom": "CMG CENTRE DE MATERIEL GENERAL",
+  "enseigne": "CMG TP",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "2 B rue Thomas Edison, 58640 Varennes-Vauzelles",
+  "activite": "Commerce de gros",
+  "effectif": "20-49",
+  "ca": 10343552,
+  "groupe": "AFIC (holding présidente)",
+  "dirigeants_registre": [
+   "AFIC (personne morale) (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": null,
+   "note": "Aucun résultat exploitable via WebSearch (5 requêtes : CMG TP, Centre de Matériel Général, Varennes-Vauzelles, rue Thomas Edison). Présidence assurée par la personne morale AFIC, dont le représentant n'a pas été identifié. Seule la page LinkedIn entreprise déjà connue (linkedin.com/company/cmgtp) existe. À rechercher directement (PagesJaunes / Google Maps)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 79,
+  "siren": "799292206",
+  "nom": "ENERGIES NEVERS AGGLOMERATION - ENEA",
+  "enseigne": "ENEA – réseau de chaleur de Nevers",
+  "ville": "Nevers",
+  "adresse": "32 rue de Barcelone, 58000 Nevers",
+  "activite": "Production et distribution d'électricité, gaz, vapeur",
+  "effectif": "0",
+  "ca": 10204392,
+  "groupe": "Société dédiée à la délégation de service public (lien Dalkia supposé, non confirmé)",
+  "dirigeants_registre": [
+   "Jérôme AGUESSE (Président de SAS)",
+   "Nicolas VOLTZ (Directeur général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Jérôme AGUESSE",
+    "fonction": "Président de SAS (registre)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/799292206"
+   },
+   "contact_finance": {
+    "nom": "Jérôme AGUESSE",
+    "fonction": "Président de SAS (registre) — société filiale de Dalkia sans salarié",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/799292206"
+   },
+   "note": "ENEA est une société dédiée (0 salarié) de Dalkia France (groupe EDF) qui exploite depuis 2013 la centrale de cogénération biomasse et le réseau de chaleur de Nevers (source : https://www.nevers.fr/sites/default/files/Fichiers/Actus/2021/2021-12/NCMB%20243%20Le%20r%C3%A9seau%20de%20chaleur%20urbain%202021.pdf). Pas de standard propre trouvé ; décisions financières prises au niveau de Dalkia Centre-Est (achats : marche.centre.est@dalkia.fr, 15A avenue Albert Einstein, Villeurbanne, vu sur https://ted.europa.eu/en/notice/080626-2023/pdf — adresse achats/marchés, non un standard). Seul numéro trouvé : service client national Dalkia 08 10 80 48 05 (agrégateur 118500.fr, payant) — non retenu. Aucune source publique ne confirme le poste de J. Aguesse ou N. Voltz chez Dalkia. Prospect peu pertinent (filiale de grand groupe)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 95,
+  "siren": "823921739",
+  "nom": "MAELANN",
+  "enseigne": "Intermarché (Dornes)",
+  "ville": "Dornes",
+  "adresse": "Lieu-dit Les Blondeaux, Route de Moulins, 58390 Dornes",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "ca": 7790567,
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "dirigeants_registre": [
+   "Mikaël Le Guillou (Président de SAS)",
+   "Aurore Jeandeau (Directeur Général)",
+   "Déborah Lefebvre (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Mikaël Le Guillou",
+    "fonction": "Président de SAS (registre)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/823921739"
+   },
+   "contact_finance": {
+    "nom": "Mikaël Le Guillou",
+    "fonction": "Président de SAS (registre)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/823921739"
+   },
+   "note": "Aucun numéro de magasin trouvé dans les extraits (Que Choisir, Zagaz, ac-franchise, prix-carburant ne donnent pas de téléphone). Magasin Intermarché Super/Contact, route de Moulins, lieu-dit Les Blondeaux, Dornes (https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm6558/). Aucune source publique ne confirme les mandats au-delà du registre."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 7,
+  "siren": "775722218",
+  "nom": "PARAGON TRANSACTION",
+  "enseigne": "Paragon Transaction",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "39 rue des Rivières, Saint-Agnan, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Imprimerie",
+  "effectif": "250-499 (374 salariés à la clôture du 30/06/2025, 326 un an plus tôt ; site principal de Cosne : tranche 100-199)",
+  "ca": 125375295,
+  "groupe": "Groupe Paragon (Paragon France)",
+  "dirigeants_registre": [
+   "PARAGON FRANCE (personne morale, SIREN 908242787) (Président de SAS (depuis le 20/12/2024))",
+   "Pauric CREAN (Directeur général (depuis le 20/12/2024))",
+   "Liam DEVANE (Directeur général (depuis le 20/12/2024))",
+   "Laurent ESTIVAL (Directeur général (depuis le 28/11/2025))"
+  ],
+  "deja": {
+   "telephone": "03 86 26 51 51",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.paragon.world/fr",
+   "contact_dirigeant": {
+    "nom": "Laurent ESTIVAL",
+    "fonction": "Directeur général (depuis le 28/11/2025) ; président : PARAGON FRANCE (personne morale)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/775722218"
+   },
+   "contact_finance": {
+    "nom": "Laurent ESTIVAL",
+    "fonction": "Directeur général (depuis le 28/11/2025)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/775722218"
+   },
+   "note": "Standard publié sur le site du groupe Paragon pour le site de Cosne (39 rue des Rivières, Saint-Agnan, 58200 Cosne-Cours-sur-Loire). Aucun DAF/RAF/contrôleur de gestion nommé trouvé (2 recherches dédiées) malgré 374 salariés : la fonction finance est probablement portée par PARAGON FRANCE / le groupe ; le DG reste l'interlocuteur par défaut. Autres DG au registre : Pauric CREAN et Liam DEVANE (depuis le 20/12/2024, dirigeants groupe). Laurent SALMON apparaît comme directeur général délégué de Paragon Transaction SA depuis 2014 sur MarketScreener (https://uk.marketscreener.com/insider/LAURENT-SALMON-A27MXL/) — probablement ancien, absent du registre actuel. Contacts cités dans deja d'après Kompass (Christine Berneau, responsable du personnel ; Benoît Collin, directeur de site) non revérifiés."
+  },
+  "opposition_prospection": false
+ }
+]

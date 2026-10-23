@@ -1,0 +1,243 @@
+[
+ {
+  "rang": 45,
+  "siren": "819621194",
+  "nom": "ASTRA RECYCLAGE",
+  "enseigne": "Groupe Astradec Environnement",
+  "ville": "Saint-Éloi",
+  "adresse": "6 ZI de Nevers - Saint-Éloi",
+  "activite": "Collecte et traitement des déchets",
+  "effectif": "20-49",
+  "ca": 18962775,
+  "groupe": "Groupe Astradec",
+  "dirigeants_registre": [
+   "E.B.P. (Président (personne morale))",
+   "Emmanuel BIALLAIS (Autre (représentant))"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Emmanuel Biallais",
+    "fonction": "Représentant permanent de E.B.P., présidente de la société",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/819621194"
+   },
+   "contact_finance": {
+    "nom": "Emmanuel Biallais",
+    "fonction": "Représentant permanent de E.B.P., présidente de la société",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/819621194"
+   },
+   "note": "Filiale du groupe Astradec (siège à Arques, 62 ; ~300 salariés, ~70 M€ de CA selon une offre France Travail : https://candidat.francetravail.fr/offres/recherche/detail/4923071). Pas de numéro trouvé pour le site de Saint-Éloi (6 route de la Zone industrielle selon Géorisques/travail-industrie.com). Le seul numéro vu est celui du siège du groupe à Arques, 03 21 93 60 60, dans un dossier ICPE de 2021 (https://www.pas-de-calais.gouv.fr/contenu/telechargement/64684/369634/file/PJ 5_1 demande enregistrement ASTRADEC_v2_PJ 5 GROUPE ASTRADEC 2021.pdf) : utilisable pour joindre la direction financière du groupe, mais ce n'est pas le standard du site nivernais. Aucun DAF du groupe trouvé ; dirigeant tiré du registre (deja), non confirmé par une autre source."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 46,
+  "siren": "518482013",
+  "nom": "ANVIS DECIZE SAS",
+  "enseigne": "Anvis",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, 12 rue Henri Darcy",
+  "activite": "Caoutchouc et plastique",
+  "effectif": "100-199 (119 salariés en 2025)",
+  "ca": 18637655,
+  "groupe": "Anvis Group (Anvis Holding ; ex-SumiRiko)",
+  "dirigeants_registre": [
+   "Olaf HAHN (Président)",
+   "Laurent COBIGO (Directeur général)",
+   "Fabien LHULLIER (Directeur général délégué)",
+   "Marc RITZENTHALER (Directeur général délégué)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://anvisgroup.com",
+   "contact_dirigeant": {
+    "nom": "Olaf Hahn",
+    "fonction": "Président",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/518482013"
+   },
+   "contact_finance": {
+    "nom": "Olaf Hahn",
+    "fonction": "Président",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/518482013"
+   },
+   "note": "Aucun standard ni email trouvé dans les extraits. Pas de nom de DAF/RAF : le groupe Anvis a publié en 2023 des offres de « Directeur financier » (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-DIRECTEUR-FINANCIER.pdf) et de contrôleur de gestion industriel senior basé à Decize (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-Controleur-de-Gestion-industrielle-senior.pdf ; nouvelle annonce France Travail en avril 2025 : https://candidat.francetravail.fr/offres/recherche/detail/189HYHP), donc une fonction finance existe sur place mais sans titulaire identifié. Marc Ritzenthaler (DGD au registre) est présenté par societe.com comme ancien dirigeant d'Anvis Decize (mandat terminé en juillet 2020), aujourd'hui DG d'Anvis Epinal et DG de Bioscovery France depuis le 28/12/2023 (https://www.societe.com/manager/Marc.RITZENTHALER.sQCCJWm2PWI.html) : liste du registre possiblement pas à jour. Wikipédia (https://en.wikipedia.org/wiki/Anvis_Group) indique que la production de Decize a été transférée en 2023 dans une installation plus petite. Dirigeants tirés du registre (deja), non confirmés par une source récente."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 47,
+  "siren": "411012107",
+  "nom": "FORESTA",
+  "enseigne": "Foresta (marques Foresta, Habrita)",
+  "ville": "Challuy",
+  "adresse": "63 route de Bourges",
+  "activite": "Commerce de gros",
+  "effectif": "20-49",
+  "ca": 18548985,
+  "groupe": "Burgundy Garden",
+  "dirigeants_registre": [
+   "BURGUNDY GARDEN (Président (personne morale))",
+   "Eric BOUVIER (Directeur général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": "order.foresta@altona.fr",
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Eric Bouvier",
+    "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/411012107"
+   },
+   "contact_finance": {
+    "nom": "Eric Bouvier",
+    "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/411012107"
+   },
+   "note": "Aucun numéro trouvé. L'email order.foresta@altona.fr (adresse de commande, domaine altona.fr) figure dans les fiches fabricant des abris Habrita/Foresta chez des revendeurs (Bricocash, Mr Bricolage) avec l'adresse route de Bourges, Challuy : source revendeur, pas le site de l'entreprise. Aucun site web propre confirmé. Personne physique derrière Burgundy Garden non identifiée ; DG tiré du registre (deja), non confirmé par une autre source (homonymes Eric Bouvier sans lien)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 48,
+  "siren": "701880486",
+  "nom": "ETOILE 58",
+  "enseigne": "Mercedes-Benz Nevers (Groupe Chopard)",
+  "ville": "Nevers",
+  "adresse": "38 boulevard du Pré Plantin",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49 (24 salariés en 2025)",
+  "ca": 17591324,
+  "groupe": "Groupe Chopard Automobile",
+  "dirigeants_registre": [
+   "E.C.L. (Président (personne morale))"
+  ],
+  "deja": {
+   "telephone": "03 86 68 21 70",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.groupechopard.com/concessions/mercedes-benz-nevers",
+   "contact_dirigeant": {
+    "nom": "Erik Chopard-Lallier",
+    "fonction": "Président du Groupe Chopard (E.C.L., présidente de la société)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://journalauto.com/distribution/le-groupe-chopard-valorise-sa-politique-rse/"
+   },
+   "contact_finance": {
+    "nom": "Erik Chopard-Lallier",
+    "fonction": "Président du Groupe Chopard (E.C.L., présidente de la société)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://journalauto.com/distribution/le-groupe-chopard-valorise-sa-politique-rse/"
+   },
+   "note": "Standard 03 86 68 21 70 (déjà connu) confirmé seulement par un annuaire (lesvoitures.fr, 38 bd du Pré Plantin) ; la page contact officielle du groupe (https://www.groupechopard.com/mercedes-benz/contact/mercedes-nevers/) confirme qu'Étoile 58 = Mercedes-Benz Nevers, groupe Chopard depuis 2016, mais son numéro n'apparaît pas dans l'extrait. Groupe Chopard : siège à Besançon, ~3 000 salariés, 1,9 Md€ de CA 2024, président Erik Chopard-Lallier, vice-président Quentin Chopard-Lallier depuis 2024 (journalauto.com). Lien E.C.L. = holding d'Erik Chopard-Lallier déduit des initiales, non confirmé par une source. Aucun DAF du groupe identifié : décideur financier = dirigeant par défaut."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 56,
+  "siren": "809097561",
+  "nom": "VGB FRANCE - PREFABRIQUES",
+  "enseigne": "VGB France",
+  "ville": "La Machine",
+  "adresse": "ZI Les Fontaines Douces",
+  "activite": "Produits minéraux non métalliques",
+  "effectif": "20-49",
+  "ca": 14323732,
+  "groupe": "Vigobloco (Portugal)",
+  "dirigeants_registre": [
+   "VIGOBLOCO - PRE FABRICADOS S.A. (Président (personne morale étrangère, depuis le 26/11/2024))",
+   "Daniel Filipe DA FONSECA MARINHO (Directeur général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Daniel Filipe DA FONSECA MARINHO",
+    "fonction": "Directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/809097561"
+   },
+   "note": "Filiale du groupe portugais Vigobloco (Président personne morale VIGOBLOCO - PRE FABRICADOS S.A.). Aucun site web propre ni numéro trouvé (recherche annuaires infructueuse, PagesJaunes recherche bloquée) ; page LinkedIn entreprise connue : https://www.linkedin.com/company/vgbfranceprefabriques. Pas de RAF identifié."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 63,
+  "siren": "711880021",
+  "nom": "SAEMAN NIEVRE",
+  "enseigne": "Nièvre Aménagement",
+  "ville": "Nevers",
+  "adresse": "Hôtel du Département, 64 rue de la Préfecture, 58000 Nevers (établissement principal : 11 rue Bovet, Nevers)",
+  "activite": "Génie civil",
+  "effectif": "10-19 (15 salariés)",
+  "ca": 12006166,
+  "groupe": "SEM du Département de la Nièvre (administrateurs : Département, Ville de Nevers, Nièvre Habitat, Caisse des Dépôts…)",
+  "dirigeants_registre": [
+   "Sandrine Anne BERTRAND (Directrice générale)",
+   "Jocelyne Marie GUERIN (Présidente du conseil d'administration)",
+   "Denis THURIOT (Vice-président)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Sandrine Bertrand",
+    "fonction": "Directrice générale",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/711880021"
+   },
+   "contact_finance": {
+    "nom": "Sandrine Bertrand",
+    "fonction": "Directrice générale",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/711880021"
+   },
+   "note": "SEM d'aménagement du Département (capital mixte 2,5 M€). Aucun numéro, email ni site web trouvé dans les extraits. La présentation du Réseau national des aménageurs de mars 2022 citait comme directeur général Cédric Duhem et mentionnait un(e) responsable administratif(ve) et financier(ère) non nommé(e) dans l'équipe de 15 personnes : le registre (deja) donne aujourd'hui Sandrine Bertrand comme directrice générale, non confirmée par une autre source. Pour un appel, demander le/la RAF via le standard."
+  },
+  "opposition_prospection": false
+ }
+]

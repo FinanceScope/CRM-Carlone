@@ -1,0 +1,42 @@
+[
+ {
+  "siren": "349431254",
+  "standard": {
+   "tel": "03 86 36 18 74",
+   "source": "https://www.volkswagen.fr/fr/partenaire/suma-nevers.html",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.suma-auto.com",
+  "dirigeant_principal": {
+   "nom": "Richard VIVES (Vivès)",
+   "fonction": "Président de SAS (dirige le groupe SUMA / SUMA Invest, Limonest)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"
+  },
+  "decideur_financier": {
+   "nom": "Richard VIVES (Vivès)",
+   "fonction": "Président de SAS (aucun DAF/RAF nommé trouvé ; finance centralisée chez SUMA Invest à Limonest)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-suma-se-developpe-dans-lallier-avec-volkswagen/"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/349431254"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise au siège du groupe SUMA (holding SUMA Invest, Limonest, Rhône) par Richard Vivès : la concession de Nevers est l'une des 26 affaires du groupe et les fonctions finance (RAF, contrôle de gestion) sont recrutées au niveau de SUMA Invest.",
+  "note": "2e niveau : standard 03 86 36 18 74 confirmé sur la page partenaire officielle Volkswagen (SUMA Nevers, lun-ven 8h30-12h/14h-19h, sam 9h-12h/14h-18h) ; la concession recrute sous le nom « GCA Nevers ». Richard Vivès toujours cité comme dirigeant du groupe SUMA (presse auto 2023, pas de source plus récente) ; registre cohérent. Aucun DAF/RAF nommé : offres de RAF et de contrôleur de gestion publiées par SUMA INVEST (Limonest, https://gowork.fr/suma-invest-limonest/salary), donc finance groupe à Limonest. Rôle d'Eddy Michel (DG délégué) non documenté en ligne. Aucun email générique publié. À demander à l'appel : nom du directeur de la concession de Nevers et du responsable administratif et financier de SUMA Invest à Limonest ; vérifier que le standard est bien celui de la concession (ZAC des Grands Champs vs bd des Grands-Prés-des-Bordes selon les annuaires)."
+ }
+]

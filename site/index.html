@@ -194,6 +194,10 @@ a{color:var(--accent);text-underline-offset:2px}
 @media (max-width:860px){.calc{grid-template-columns:minmax(0,1fr)}.calc .out{border-left:0;border-top:1px solid var(--line-2)}}
 @media (max-width:480px){.calc .in{grid-template-columns:minmax(0,1fr)}.calc .out .figs{grid-template-columns:minmax(0,1fr)}}
 .acts{display:flex;gap:8px;flex-wrap:wrap}
+.scope{display:inline-flex;gap:3px;padding:4px;background:var(--sunk);border:1px solid var(--line);border-radius:999px}
+.scope button{border:0;background:transparent;color:var(--muted);padding:7px 14px;border-radius:999px;font-weight:600;cursor:pointer;font-size:13.5px;white-space:nowrap}
+.scope button:hover{color:var(--ink)}
+.scope button[aria-pressed="true"]{background:var(--surface);color:var(--accent);box-shadow:0 1px 3px rgba(70,45,20,.14)}
 .who-h{font-size:12.5px;font-weight:700;color:var(--accent);margin-top:4px}
 
 /* Discours */
@@ -363,6 +367,7 @@ p.txt{margin:0;max-width:65ch}
         <p>Proposer aux entreprises de la Nièvre des œuvres d'artistes vivants, déductibles de leur résultat (article 238 bis AB du CGI). Fiches, plafonds de déduction, priorités et suivi des démarches, partagés entre associés, avec le volet culture : artistes, associations et lieux.</p>
       </div>
       <div class="top-actions">
+        <div class="scope" id="scope" role="group" aria-label="Périmètre"><button type="button" data-scope="100" aria-pressed="true">100 entreprises</button><button type="button" data-scope="all" aria-pressed="false">Les 500</button></div>
         <span class="sync" id="sync"><i></i><span>Connexion…</span></span>
         <button class="btn-ghost" id="exportBtn" type="button"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>Exporter CSV</button>
       </div>
@@ -371,7 +376,7 @@ p.txt{margin:0;max-width:65ch}
     <svg class="loire" viewBox="0 0 1200 24" preserveAspectRatio="none" aria-hidden="true"><path d="M0 14 C 60 4, 120 4, 180 12 S 300 22, 360 14 S 480 2, 560 10 S 700 22, 780 14 S 900 4, 980 10 S 1120 22, 1200 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"/></svg>
     <div class="tabs" role="tablist" aria-label="Vues">
       <button class="tab" role="tab" id="tab-plan" data-view="plan" aria-selected="true" type="button">Plan d'attaque</button>
-      <button class="tab" role="tab" id="tab-fiches" data-view="fiches" aria-selected="false" type="button">Les 500 entreprises</button>
+      <button class="tab" role="tab" id="tab-fiches" data-view="fiches" aria-selected="false" type="button">Les 100 entreprises</button>
       <button class="tab" role="tab" id="tab-culture" data-view="culture" aria-selected="false" type="button">Culture &amp; événements</button>
     </div>
 
@@ -616,7 +621,7 @@ const farSite=c=>c.site_cosne&&(c.distance_cosne_km==null||c.distance_cosne_km>5
 const kmEff=c=>farSite(c)?2:(c.distance_cosne_km??0);
 const kmL=d=>d===0?"< 1 km":d+" km";
 
-let companies=[],byId={},suivi={},sel=null,db=null,userNs=null,mode="loading",canWrite=true,routeAnimated=false,view="plan";
+let allCompanies=[],scope="100",companies=[],byId={},suivi={},sel=null,db=null,userNs=null,mode="loading",canWrite=true,routeAnimated=false,view="plan";
 let filt={q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:"rang"};
 let culture={prospects:[],playbook:null},cById={},csel=null,cfilt={q:"",fam:"",prio:"",statut:""};
 
@@ -703,7 +708,7 @@ function renderPlan(){
   const count=k=>companies.filter(c=>c.vague===k).length;
   const tel=companies.filter(c=>c.telephone).length;
   $("#kpis").innerHTML=[
-    ["",companies.length,"entreprises analysées","Les plus grosses de la Nièvre, d'après Pappers et le registre national"],
+    ["",companies.length,"entreprises analysées",scope==="100"?"Les 100 plus grosses de la Nièvre, classement Pappers du 02/09/2026":"Les plus grosses de la Nièvre, d'après Pappers et le registre national"],
     ["",inW.length,"cibles prioritaires","Société à l'IS, bénéfice d'au moins 50 k€, lieu d'exposition tout trouvé"],
     ["k1",count(1),"à appeler cette semaine","Avec un site à Cosne même"],
     ["k2",tel,"fiches avec un téléphone","Recherche des coordonnées en cours"]
@@ -1156,6 +1161,7 @@ function setView(v){
   if(v==="plan")renderRoute();
 }
 function openFiche(r){
+  if(byId[r]&&!companies.includes(byId[r]))setScope("all");
   sel=r;setView("fiches");
   filt={q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:filt.sort};$("#q").value="";$("#fPrio").value="";$("#fSect").value="";$("#fTop").value="";$("#fContact").value="";$("#fArt").value="";
   renderPipeline();renderList();renderDetail(true);
@@ -1214,21 +1220,44 @@ $("#exportBtn").addEventListener("click",async()=>{
   try{await dl.save({filename,data:csv})}catch(e){if(e&&e.code!=="declined")toast("Export impossible pour le moment")}
 });
 
+/* ---------- Périmètre : les 100 entreprises du classement initial, ou les 500 ---------- */
+function renderMethod(){
+  {const xa=companies.filter(c=>c.ext&&!c.ca_non_publie),xn=companies.filter(c=>c.ca_non_publie),n0=companies.length-xa.length-xn.length;
+   const minCA=xa.length?Math.min(...xa.map(c=>c.ca||0)):0;
+   $("#methodNote").textContent=`Rangs 1 à ${n0} : classement Pappers du 02/09/2026. `+(xa.length?`Rangs ${n0+1} à ${n0+xa.length} : entreprises classées par le chiffre d'affaires de leur dernier exercice publié (2023 ou plus récent), d'après le registre national ou, à défaut, leur fiche Pappers ; seuil d'entrée ${eur(minCA)}. `:"")+(xn.length?`Rangs ${n0+xa.length+1} à ${n0+xa.length+xn.length} : entreprises qui ne publient pas leurs comptes et emploient au moins 10 salariés, classées par effectif. `:"")+(xa.length||xn.length?`Candidates repérées le 22/10/2026 sur les classements Pappers par commune et au registre national. `:"")
+   +`Priorités pour la vente d'œuvres : haute = société à l'IS, bénéfice d'au moins 50 k€ au dernier exercice publié, lieu ouvert au public ou au moins 10 salariés, et au-delà de 30 km de Cosne plus de 4 M€ de CA ; moyenne = autres entreprises bénéficiaires ; basse = pertes, procédure en cours ou régime fiscal à vérifier. Plafond de déduction calculé sur le dernier CA publié.`}
+}
+function applyScope(first){
+  companies=scope==="all"?allCompanies:allCompanies.filter(c=>c.rang<=100);
+  document.querySelectorAll("#scope button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.scope===scope));
+  $("#tab-fiches").textContent=scope==="all"?"Les 500 entreprises":"Les 100 entreprises";
+  $("#fTop").hidden=scope!=="all";
+  if(scope!=="all"){filt.top="";$("#fTop").value=""}
+  if(sel!=null&&!companies.includes(byId[sel]))sel=null;
+  const box=$("#route");if(box)delete box.dataset.w;
+  renderMethod();
+  if(!first)renderAll();
+}
+function setScope(v){
+  scope=v==="all"?"all":"100";
+  try{localStorage.setItem("crm58-scope",scope)}catch(e){}
+  applyScope();
+}
+$("#scope").addEventListener("click",e=>{const b=e.target.closest("[data-scope]");if(b&&b.dataset.scope!==scope)setScope(b.dataset.scope)});
+
 /* ---------- Démarrage ---------- */
 (async function start(){
   try{const s=localStorage.getItem("crm58-sort");if(s){filt.sort=s;$("#fSort").value=s}}catch(e){}
   $("#cstatut").insertAdjacentHTML("beforeend",STATUTS.map(s=>`<option value="${s.k}">${s.l}</option>`).join(""));
   const [cj,uj]=await Promise.all([fetch("companies.json").then(r=>r.json()).catch(()=>null),fetch("culture.json").then(r=>r.ok?r.json():null).catch(()=>null)]);
   if(!cj){$("#rows").innerHTML=`<div class="empty">Les fiches n'ont pas pu être chargées. Recharge la page.</div>`;return}
-  companies=cj;companies.forEach(c=>{c.id=c.ext&&c.siren?"s"+c.siren:"r"+c.rang;byId[c.rang]=c});
-  {const xa=companies.filter(c=>c.ext&&!c.ca_non_publie),xn=companies.filter(c=>c.ca_non_publie),n0=companies.length-xa.length-xn.length;
-   const minCA=xa.length?Math.min(...xa.map(c=>c.ca||0)):0;
-   $("#methodNote").textContent=`Rangs 1 à ${n0} : classement Pappers du 02/09/2026. `+(xa.length?`Rangs ${n0+1} à ${n0+xa.length} : entreprises classées par le chiffre d'affaires de leur dernier exercice publié (2023 ou plus récent), d'après le registre national ou, à défaut, leur fiche Pappers ; seuil d'entrée ${eur(minCA)}. `:"")+(xn.length?`Rangs ${n0+xa.length+1} à ${n0+xa.length+xn.length} : entreprises qui ne publient pas leurs comptes et emploient au moins 10 salariés, classées par effectif. `:"")+`Candidates repérées le 22/10/2026 sur les classements Pappers par commune et au registre national. `
-   +`Priorités pour la vente d'œuvres : haute = société à l'IS, bénéfice d'au moins 50 k€ au dernier exercice publié, lieu ouvert au public ou au moins 10 salariés, et au-delà de 30 km de Cosne plus de 4 M€ de CA ; moyenne = autres entreprises bénéficiaires ; basse = pertes, procédure en cours ou régime fiscal à vérifier. Plafond de déduction calculé sur le dernier CA publié.`}
+  allCompanies=cj;allCompanies.forEach(c=>{c.id=c.ext&&c.siren?"s"+c.siren:"r"+c.rang;byId[c.rang]=c});
+  try{if(localStorage.getItem("crm58-scope")==="all")scope="all"}catch(e){}
+  applyScope(true);
   renderSim();
   if(uj){culture=uj;(culture.prospects||[]).forEach(x=>cById[x.id]=x)}
   else $("#crows").innerHTML=`<div class="empty">Les prospects culture n'ont pas pu être chargés.</div>`;
-  const sects=[...new Set(companies.map(c=>c.secteur).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"fr"));
+  const sects=[...new Set(allCompanies.map(c=>c.secteur).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"fr"));
   $("#fSect").insertAdjacentHTML("beforeend",sects.map(s=>`<option>${esc(s)}</option>`).join(""));
   const fams=Object.keys(FAMS).filter(f=>cPros().some(x=>x.famille===f));
   $("#cfam").insertAdjacentHTML("beforeend",fams.map(f=>`<option>${esc(f)}</option>`).join(""));

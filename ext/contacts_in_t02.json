@@ -1,0 +1,205 @@
+[
+ {
+  "rang": 90,
+  "siren": "338657604",
+  "nom": "STYL'HABITAT",
+  "enseigne": "Styl'Habitat",
+  "ville": "Nevers",
+  "adresse": "21 rue des Merciers, 58000 Nevers (agence : 29 boulevard de la République, 58200 Cosne-Cours-sur-Loire)",
+  "activite": "Construction de bâtiments",
+  "effectif": "10-19 (10 salariés en 2025)",
+  "ca": 8332303,
+  "groupe": "GBS II (holding présidente)",
+  "dirigeants_registre": [
+   "GBS II (personne morale) (Président de SAS)",
+   "Arnaud Labaune (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.styl-habitat.fr",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Arnaud LABAUNE",
+    "fonction": "Directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/338657604"
+   },
+   "note": "Aucun numéro ni email trouvé dans les résultats. ForumConstruire indique un siège à Varennes-Vauzelles et des agences à Cosne-Cours-sur-Loire et Varennes-Vauzelles (https://www.forumconstruire.com/recits/constructeur-1056-styl-habitat.php) ; l'établissement de Cosne (29 bd de la République) est confirmé par INSEE (https://api-avis-situation-sirene.insee.fr/identification/pdf/33865760400082). Président = GBS II ; un CV de 2014 rattache Styl'Habitat au groupe Babeau Seguin (source faible). 2e passe : 3 recherches (constructeur Styl'Habitat Nevers, Varennes-Vauzelles / Cosne + « 03 86 », PagesJaunes) sans numéro ni e-mail : seules les fiches ForumConstruire et INSEE ressortent. Ne pas confondre avec Styl Habitat Concept (La Tessoualle, 49)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 94,
+  "siren": "950376566",
+  "nom": "DISTANCE LA LOCATION AUTOMOBILE",
+  "enseigne": "Distance location auto (groupe Vincent)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "30 Route de Paris, 58640 Varennes-Vauzelles (agence : Chemin rural du Grand Champ, 58200 Cosne-Cours-sur-Loire)",
+  "activite": "Location et location-bail",
+  "effectif": "10-19",
+  "ca": 7953284,
+  "groupe": "Groupe Vincent (distribution automobile nivernaise) : holding VINCENT SAS, 3 route de Paris à Varennes-Vauzelles, présidée par Rodolphe Vincent, également président de Distance (VINCENT SA était administratrice jusqu'en 2023)",
+  "dirigeants_registre": [
+   "Rodolphe Vincent (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Rodolphe VINCENT",
+    "fonction": "Président",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/950376566"
+   },
+   "note": "Aucun numéro, email ni site trouvés (les recherches sur « Distance » renvoient des calculateurs d'itinéraires). Rodolphe Vincent dirige le groupe Vincent (concessions Fiat/Alfa Romeo/Jeep autour de Nevers, Varennes-Vauzelles et Moulins selon https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/, article de 2018). Aucun responsable finance du groupe trouvé. 2e passe : 3 recherches sans numéro propre. Xerfi confirme le siège au 30 route de Paris, 3 autres établissements et l'activité de location longue durée (https://www.xerfi.com/etudes-par-entreprise/distance-la-location-automobile_950376566) ; Justacoté liste « Distance Location Automobile » aux 3 et 30 route de Paris (voitures, minibus, utilitaires) sans numéro visible (https://www.justacote.com/germigny-sur-loire-58320/location-de-vehicule/). Non retenu comme standard : le garage Citroën SAS Garage Vincent (autre société du groupe Vincent), 3 route de Paris, 03 86 68 22 00 selon un annuaire (https://lesvoitures.fr/adresse/citroen-sas-garage-vincent-varennes-vauzelles/)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 97,
+  "siren": "335275319",
+  "nom": "ASM ANDRE STOCKAGE MANUTENTION",
+  "enseigne": "ASM",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "123 La Bichatte, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Transports terrestres",
+  "effectif": "20-49 (45 salariés en 2025)",
+  "ca": 7682908,
+  "groupe": "Groupe Rave (transport et logistique, siège à Torcy, 71), via sa holding Rave Croissance, présidente d'ASM depuis mars 2020 (famille Charbon ; président du directoire : Pascal Polte). Standard du groupe : 03 85 77 93 00 (ravegroupe.com)",
+  "dirigeants_registre": [
+   "RAVE CROISSANCE (personne morale) (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Xavier CHARBON",
+    "fonction": "Directeur général et membre du directoire de RAVE CROISSANCE (société présidente d'ASM)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.societe.com/manager/Xavier.CHARBON.vj35ILbmW6s.html"
+   },
+   "note": "Le registre ne donne qu'une personne morale (RAVE CROISSANCE, holding basée à Torcy 71) ; le décideur indiqué est le DG de cette holding, pas un dirigeant direct d'ASM — à confirmer. Aucun numéro trouvé : 118000.fr liste « André Stockage Manutention » au 44 avenue du 85e de Ligne à Cosne mais sans numéro visible (https://www.118000.fr/v_cosne-cours-sur-loire_58/c_demenagement). Lien possible avec l'agence de déménagement « André » / Gentlemen du Déménagement au 123 route des Cours (https://www.gentlemen-demenagement.com/en/movers/demenageur-nievre-58-cosne-cours-sur-loire/) et avec André Chenue (LinkedIn de deja), non confirmé. 2e passe : 3 recherches (adresse La Bichatte, « André Stockage Manutention » Cosne, site de Cosne du groupe Rave) sans numéro. La fiche 118000.fr (44 av. du 85e de Ligne) porte la mention « Opposé au marketing direct » et n'affiche pas de numéro. Seule ligne connue : le standard du groupe Rave (03 85 77 93 00, cf. champ groupe), qui n'est pas propre à ASM et n'est donc pas reporté dans « standard »."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 25,
+  "siren": "419013297",
+  "nom": "ANTARES",
+  "enseigne": "Intermarché Super La Charité-sur-Loire",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "2 rue des Plantes des Religieuses, 58400 La Charité-sur-Loire",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "ca": 28757298,
+  "groupe": "Groupement Les Mousquetaires (Intermarché) ; présidée par la holding ALFOCEA (SIREN 447741109), dont le siège est à Cosne-Cours-sur-Loire (gérant Alain Jaudon)",
+  "dirigeants_registre": [
+   "ALFOCEA (Président de SAS)",
+   "Fanny JAUDON (STIOT) (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": "03 86 70 28 62",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.intermarche.com/magasin?pdvref=02766",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Fanny Jaudon",
+    "fonction": "Directeur Général (Directrice générale)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/419013297"
+   },
+   "note": "Supermarché Intermarché indépendant (adhérent), 20-49 salariés : pas de DAF identifié, la directrice générale est l'interlocutrice finance. Numéro du magasin issu d'un agrégateur (au-magasin.fr) ; attention, une fiche Cylex attribue le même numéro et la même adresse à un 'SPAR' (erreur d'annuaire probable). Président : ALFOCEA (personne morale, holding probable)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 26,
+  "siren": "312057318",
+  "nom": "ETABLISSEMENTS COIGNETS",
+  "enseigne": "Etablissements Coignet",
+  "ville": "Ciez",
+  "adresse": "6 route du Puits, Les Naslots, 58220 Ciez",
+  "activite": "Commerce de gros",
+  "effectif": "10-19",
+  "ca": 28694748,
+  "groupe": null,
+  "dirigeants_registre": [
+   "Sophie Marie Elisabeth COIGNET (Président de SAS)",
+   "Guillaume Alain COIGNET (Directeur Général)",
+   "Alain COIGNET (Directeur général délégué)"
+  ],
+  "deja": {
+   "telephone": "03 86 26 43 28",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "http://www.etablissements-coignet.fr",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Guillaume Coignet",
+    "fonction": "Directeur Général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/312057318"
+   },
+   "note": "Numéro déjà connu (deja.telephone), conservé mais non reconfirmé par un extrait de recherche (la fiche 118712 'Garage Coignet' à Ciez, https://www.118712.fr/professionnels/X0JSVlVRFAQ, masque le numéro). Activité réelle : distribution de fioul domestique / carburants (station 'Coignet Carburant' aux Naslots), malgré un code APE vente à distance ; 3 établissements (Ciez, Clamecy, La Charité-sur-Loire). Présidente : Sophie Coignet. Aucun responsable financier trouvé (10-19 salariés)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 28,
+  "siren": "300822335",
+  "nom": "ETABLISSEMENTS MARECHAL",
+  "enseigne": "Ets Maréchal",
+  "ville": "Donzy",
+  "adresse": "Route de la Belle Etoile, 58220 Donzy",
+  "activite": "Commerce de gros",
+  "effectif": "50-99 (tranche INSEE 2024 de l'entreprise) ; 48 salariés selon Xerfi",
+  "ca": 27552969,
+  "groupe": null,
+  "dirigeants_registre": [
+   "Claude MARECHAL (Président de SAS)",
+   "Christophe MARECHAL (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Christophe Maréchal",
+    "fonction": "Directeur Général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/300822335"
+   },
+   "note": "Négoce / location de matériel agricole (NAF 46.61Z), siège à Donzy + 4 autres établissements dont Corbigny ; 48 salariés selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335), qui cite aussi COGEP Audit / Groupe COGEP parmi les mandataires (probablement commissaire aux comptes). Ni téléphone, ni site web, ni responsable comptable/financier trouvés après 5 recherches. Président : Claude Maréchal. 2e passe : 3 recherches (Ets Maréchal Donzy matériel agricole, établissement de Corbigny 15 route de Saint-Saulge, « Belle Etoile » + « 03 86 ») sans numéro ni site ; Xerfi confirme l'établissement de Corbigny (15 route de St Saulge)."
+  },
+  "opposition_prospection": false
+ }
+]

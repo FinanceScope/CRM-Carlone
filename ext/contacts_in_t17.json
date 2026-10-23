@@ -1,0 +1,28 @@
+[
+ {
+  "rang": 100,
+  "siren": "880515994",
+  "nom": "COMMAND-SMFI",
+  "enseigne": "SMFI",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "5 rue des Guérins, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Métallurgie",
+  "effectif": "20-49",
+  "ca": 7263329,
+  "groupe": null,
+  "dirigeants_registre": [
+   "Charles Garvey (Président de SAS)",
+   "Nicolas Berhault (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": null,
+   "note": "Opposition à la prospection (Pappers) : seules les coordonnées de l'entreprise ont été recherchées. Aucun numéro, email ni site web trouvé (3 recherches). Xerfi (https://www.xerfi.com/etudes-par-entreprise/command-smfi_880515994) : société créée en janvier 2020, fabrication et vente de matériel de forage (NAF tubes et profilés en acier), CA 7,3 M€ en 2024, 20-49 salariés — vraisemblablement l'ancienne activité produits de forage de Vallourec/SMF International à Cosne (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638). Aucun site de l'entreprise trouvé, donc aucun nom de décideur repris."
+  },
+  "opposition_prospection": true
+ }
+]

@@ -1,0 +1,209 @@
+[
+ {
+  "rang": 39,
+  "siren": "304890817",
+  "nom": "SAGET LA PERRIERE",
+  "enseigne": "Saget La Perrière",
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "La Castille, RN 7, 58150 Pouilly-sur-Loire",
+  "activite": "Culture et production animale",
+  "effectif": "50-99",
+  "ca": 21041920,
+  "groupe": "Famille Saget (Financière Saget)",
+  "dirigeants_registre": [
+   "Laurent Olivier SAGET (Président du conseil d'administration et directeur général)",
+   "Arnaud SAGET (Directeur général délégué)",
+   "SARL FINANCIERE SAGET (Administrateur)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 57 75",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.sagetlaperriere.com",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Laurent Saget",
+    "fonction": "Président du conseil d'administration et directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/304890817"
+   },
+   "note": "Maison de vins familiale (50-99 salariés, SA à conseil d'administration, holding SARL Financière Saget) : un responsable financier/comptable est probable mais aucun n'a été trouvé (recherches LinkedIn/DAF sans résultat). Standard confirmé par plusieurs guides vins (Hachette, Le Quotidien du Médecin, Falstaff). Aucun e-mail générique publié trouvé. Directeur général délégué : Arnaud Saget."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 44,
+  "siren": "562010454",
+  "nom": "G.C.E. SAS",
+  "enseigne": "GCE (Gas Control Equipment)",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "70 rue du Puits Charles",
+  "activite": "Commerce de gros",
+  "effectif": "10-19 (14 salariés en 2025)",
+  "ca": 19287312,
+  "groupe": "GCE (Gas Control Equipment), membre du groupe ESAB depuis 2018 (ESAB Corporation, coté au NYSE depuis 2022)",
+  "dirigeants_registre": [
+   "Mathieu BENIER (Président)",
+   "Curtis Evan JEWELL (Directeur général)",
+   "Piyushkumar SHETH (Directeur général)",
+   "Tommaso TOFFOLO (Directeur général)"
+  ],
+  "deja": {
+   "telephone": "03 86 69 46 20",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.gascontrol.com",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Mathieu Benier",
+    "fonction": "Président (registre) ; cité comme Directeur Général de GCE SAS dans le catalogue GCE Healthcare 2019",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/562010454"
+   },
+   "note": "Filiale française du groupe GCE (siège groupe : Steinhausen, Suisse, +41 41 560 07 00 ; site groupe https://gcegroup.com). Standard et fax (03 86 70 09 81) issus d'un catalogue de 2019 : à vérifier. Les autres DG au registre (Jewell, Sheth, Toffolo) sont des dirigeants du groupe ; la finance est probablement gérée au niveau groupe, aucun responsable financier France trouvé. Le catalogue mentionne des e-mails @gcegroup.com pour les contacts mais ils n'apparaissent pas dans les extraits : non relevés."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 52,
+  "siren": "401453188",
+  "nom": "POPIANE",
+  "enseigne": "Intermarché Donzy",
+  "ville": "Donzy",
+  "adresse": "1 rue Guy de Jean",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "ca": 16120755,
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché)",
+  "dirigeants_registre": [
+   "Thierry THOMAS (Président)",
+   "Corinne THOMAS (née CHARPIN) (Directrice générale)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 47 28",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.intermarche.com/magasin?pdvref=01255",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Thierry Thomas",
+    "fonction": "Président",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/401453188"
+   },
+   "note": "Intermarché Super indépendant (20-49 salariés) : pas de responsable financier, le couple dirigeant exploite le magasin (Corinne Thomas, directrice générale). Numéro confirmé uniquement par un agrégateur (coparking.ch) ; PagesJaunes (https://www.pagesjaunes.fr/pros/59482582) rattache l'adresse à POPIANE."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 55,
+  "siren": "330907205",
+  "nom": "DEROMEDI CARRIERES SARL",
+  "enseigne": "Deromedi Carrières",
+  "ville": "Ciez",
+  "adresse": "Lieu-dit Jussy",
+  "activite": "Produits minéraux non métalliques",
+  "effectif": "10-19",
+  "ca": 14481518,
+  "groupe": "Groupe familial Deromedi – pôle Deromedi Carrières et Matériaux (Paris 16e, présidé par Gilles Deromedi : 6 sites, ~70 collaborateurs, ~1,5 Mt extraites par an) ; Gilles Deromedi gère aussi SOSEMAT (sablière Les Pelus, Neuvy-sur-Loire) et Transports Emile Boffin (Villemandeur, 45)",
+  "dirigeants_registre": [
+   "Gilles DEROMEDI (Gérant)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.deromedicarrieres.fr",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Gilles Deromedi",
+    "fonction": "Gérant",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/330907205"
+   },
+   "note": "Carrière de sables et argiles (APE 08.12Z, site ICPE à Jussy, Ciez) ; CA 2024 ~13 M€ selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/deromedi-carrieres_330907205). Gilles Deromedi préside aussi Deromedi Carrières et Matériaux (structure de groupe probable). Aucun numéro de standard ni e-mail trouvé dans les extraits (4 recherches) : à chercher sur la page contact du site. 2e passe : 3 recherches (Ciez / Jussy téléphone, « Deromedi » + « 03 86 », Deromedi Carrières et Matériaux contact) sans numéro ni e-mail ; le groupe exploite aussi la société Le Ciment Route à Sainte-Geneviève-des-Bois (45) selon les dossiers de la préfecture du Loiret. Numéro à relever sur la page contact de deromedicarrieres.fr."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 91,
+  "siren": "323685453",
+  "nom": "PARQUETERIE BEAU SOLEIL",
+  "enseigne": "Parqueterie Beau Soleil",
+  "ville": "Saint-Amand-en-Puisaye",
+  "adresse": "Lieu-dit Beau Soleil, Route d'Arquian, 58310 Saint-Amand-en-Puisaye",
+  "activite": "Travail du bois",
+  "effectif": "20-49",
+  "ca": 8136203,
+  "groupe": "Tonnellerie François Frères (présidente depuis 2024)",
+  "dirigeants_registre": [
+   "TONNELLERIE FRANCOIS FRERES (personne morale) (Président de SAS)",
+   "Didier Petitrenaud (Directeur Général)",
+   "Rémi Petitrenaud (Directeur Général)",
+   "Xavier Petitrenaud (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 56 00",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.parquet-beausoleil.fr/",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Xavier Petitrenaud",
+    "fonction": "Directeur Général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/323685453"
+   },
+   "note": "Numéro déjà connu (deja.telephone), conservé mais non reconfirmé par les extraits. Depuis mai 2024, TFF Group (Tonnellerie François Frères, coté) détient 51 % du groupe Petitrenaud (Scierie Petitrenaud + Parqueterie Beausoleil) ; les Petitrenaud restent aux commandes opérationnelles (AMF : https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2024/05/FCECO074978_20240531.pdf). Trois DG au registre : Didier, Rémi et Xavier Petitrenaud (Xavier, à l'initiative du rapprochement, retenu comme interlocuteur). Finance probablement remontée au niveau groupe : le DAF de TFF Group est indiqué en autre contact (donnée abcbourse 2025, à vérifier). ~32 personnes selon A@W."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 1,
+  "siren": "440326692",
+  "nom": "APERAM ALLOYS IMPHY",
+  "enseigne": "Aperam Alloys Imphy",
+  "ville": "Imphy",
+  "adresse": "1 avenue Jean Jaurès, 58160 Imphy",
+  "activite": "Métallurgie",
+  "effectif": "500-999",
+  "ca": 887454070,
+  "groupe": "Aperam (groupe sidérurgique, Luxembourg)",
+  "dirigeants_registre": [
+   "Frédéric MATTEI (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": "03 86 21 30 00",
+   "telephone_fiabilite": "à confirmer",
+   "email": "nickel.alloys@aperam.com (contact commercial alliages, affiché sur la page du site d'Imphy)",
+   "site_web": "https://www.aperam.com/alloys/what-is-alloys/imphy/",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Frédéric Mattei",
+    "fonction": "Président de la SAS (depuis 2014) ; CEO d'Aperam Alloys au niveau groupe",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/440326692"
+   },
+   "note": "Standard du site d'Imphy non publié sur les pages consultées (page Aperam Imphy sans téléphone ; societe.com masque le numéro derrière « Afficher le numéro » ; Pappers n'en affiche pas). L'email nickel.alloys@aperam.com est le contact commercial « Alliages » affiché sur la page du site d'Imphy, pas une adresse comptable. Aucun DAF / contrôleur de gestion du site identifié publiquement (recherches LinkedIn sans résultat exploitable) ; le président est un mandataire groupe, à contourner via le standard. Une offre France Travail de « Responsable administratif et financier » à Imphy est apparue en recherche, employeur non vérifié. 2e passe (aucune 1re passe) : standard 03 86 21 30 00 vu uniquement sur une fiche Panjiva (données import-export, adresse AV JEAN JAURES 58160 IMPHY) : source agrégateur, non confirmée par le site Aperam (recherche du numéro exact sans résultat). E-mail générique de la division alliages nickel (nickel.alloys@aperam.com) donné par une fiche technique Aperam de mai 2025, qui indique l'adresse B.P. 1, avenue Jean Jaurès, 58160 Imphy. Personnes non recherchées dans cette passe."
+  },
+  "opposition_prospection": false
+ }
+]

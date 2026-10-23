@@ -1,0 +1,227 @@
+[
+ {
+  "rang": 17,
+  "siren": "509948659",
+  "nom": "VELORIS FR SAS",
+  "enseigne": "Veloris (ex-Ecobat Battery / Manbat France / BAT)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "8 rue Édouard Branly, 58640 Varennes-Vauzelles",
+  "activite": "Commerce de gros",
+  "effectif": "20-49",
+  "ca": 41437953,
+  "groupe": "Veloris (ex-Ecobat Battery, cédé en 2025 à Endless LLP)",
+  "dirigeants_registre": [
+   "Russell Sinclair MCBURNIE (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://veloris.com",
+   "contact_dirigeant": {
+    "nom": "Russell Sinclair MCBURNIE",
+    "fonction": "Président de SAS (CEO du groupe Veloris)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/509948659"
+   },
+   "contact_finance": {
+    "nom": "Russell Sinclair MCBURNIE",
+    "fonction": "Président de SAS (CEO du groupe Veloris)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/ecobat-battery-france_509948659"
+   },
+   "note": "Ex-Ecobat Battery France / Manbat France : cédée par Ecobat Group à Endless LLP en juin 2025 puis renommée Veloris (https://aftermarketinsight.spglobal.com/news/4949/independent-battery-distributor-ecobat-battery-relaunches-as-veloris). Filiale française installée dans de nouveaux locaux à Varennes-Vauzelles en février 2025 (https://j2rauto.com/rechange/ecobat-battery-passe-sous-le-giron-dendless-pour-accelerer-son-developpement) ; Xerfi indique encore l'ancienne adresse 8 rue Denis Papin et 5 autres établissements. Président = dirigeant du groupe (basé au Royaume-Uni, siège Shrewsbury) : interlocuteur peu accessible localement ; aucun responsable finance ou directeur France trouvé (3 recherches). Aucun numéro français trouvé."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 29,
+  "siren": "886020031",
+  "nom": "SAS GARAGE VINCENT",
+  "enseigne": "Garage Vincent – Citroën & DS Store Nevers (3 route de Paris) / Grand Tourisme Automobile – GTA (Fiat, Alfa Romeo, Jeep ; 30 route de Paris)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "3 route de Paris, 58640 Varennes-Vauzelles",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "50-99",
+  "ca": 26416861,
+  "groupe": "Groupe Vincent (même président que CATAR et SOC GARAGE G R V à Cosne ; la concession Toyota de Varennes-Vauzelles est exploitée par Central Parc Automobile, autre société du groupe)",
+  "dirigeants_registre": [
+   "Rodolphe VINCENT (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": "03 86 68 22 00 (Citroën/DS, 3 route de Paris) ; 03 86 71 09 10 (GTA, 30 route de Paris)",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "http://www.groupevincent.fr/",
+   "contact_dirigeant": {
+    "nom": "Rodolphe VINCENT",
+    "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+   },
+   "contact_finance": {
+    "nom": "Rodolphe VINCENT",
+    "fonction": "Président de SAS",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/886020031"
+   },
+   "note": "03 86 68 22 00 = Citroën/DS, 3 route de Paris (confirmé par un annuaire) ; 03 86 71 09 10 = GTA (Fiat, Alfa Romeo, Jeep), 30 route de Paris, repris de deja sans revérification. Le Groupe Vincent a repris GTA – Garages Tenailles Auto (Nevers, Varennes-Vauzelles, Moulins) selon le Journal de l'Automobile. Aucun DAF/comptable nommé trouvé ; une offre France Travail « Chef de service comptabilité » à Nevers (https://candidat.francetravail.fr/offres/recherche/detail/191KRJF) n'est pas rattachée à un employeur identifié."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 32,
+  "siren": "393676895",
+  "nom": "ALFA LAVAL SPIRAL",
+  "enseigne": "Alfa Laval Spiral",
+  "ville": "Nevers",
+  "adresse": "10 rue Alfred Massé, 58000 Nevers",
+  "activite": "Fabrication de machines et équipements",
+  "effectif": "100-199 (environ 115 salariés)",
+  "ca": 25690379,
+  "groupe": "Alfa Laval (Suède)",
+  "dirigeants_registre": [
+   "Johan Andre K VANHOREN (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": "03 86 59 83 01",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.alfalaval.fr/a-propos-alfa-laval/notre-entreprise/alfa-laval-en-france/alfa-laval-spiral/",
+   "contact_dirigeant": {
+    "nom": "Johan VANHOREN",
+    "fonction": "Président de SAS (depuis le 10/05/2022, mandataire du groupe Alfa Laval)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/393676895"
+   },
+   "contact_finance": {
+    "nom": "Johan VANHOREN",
+    "fonction": "Président de SAS (depuis le 10/05/2022, mandataire du groupe Alfa Laval)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/alfa-laval-spiral_393676895"
+   },
+   "note": "Standard repris de deja, non revu dans les résultats de recherche. Site de production d'échangeurs de chaleur spiralés depuis 1972, plus de 100 salariés (https://www.alfalaval.com/fr-ca/propos-dalfa-laval-au-canada/notre-entreprise/alfa-laval-en-france/alfa-laval-spiral/) ; Xerfi : environ 106 salariés, CA 2024 d'environ 25,7 M€. Aucun directeur de site ni contrôleur de gestion nommé trouvé (3 recherches) ; la finance relève probablement du groupe (Alfa Laval recrute par ailleurs un « Factory Controller » pour son usine de Chalon-sur-Saône). Président = mandataire du groupe, peu accessible localement."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 37,
+  "siren": "581880044",
+  "nom": "CATAR SOC",
+  "enseigne": "Peugeot Nevers (CATAR) / CORAD Decize",
+  "ville": "Nevers",
+  "adresse": "102 rue Henri Bouquillard, 58000 Nevers",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "50-99",
+  "ca": 23565000,
+  "groupe": "Groupe Vincent",
+  "dirigeants_registre": [
+   "Rodolphe Dimitri VINCENT (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "http://www.groupevincent.fr/",
+   "contact_dirigeant": {
+    "nom": "Rodolphe VINCENT",
+    "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/581880044"
+   },
+   "contact_finance": {
+    "nom": "Rodolphe VINCENT",
+    "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/581880044"
+   },
+   "note": "Recherche incomplète : le quota de recherches web de la session a été atteint après 4 requêtes sur cette société. Adresse 102 rue Henri Bouquillard confirmée par idGarages (atelier du réseau Peugeot, https://www.idgarages.com/fr-fr/garage/nevers/GB16934_societe-c-a-t-a-r) mais aucun numéro de standard ni email générique visible dans les extraits. Aucun DAF/RAF du Groupe Vincent trouvé (le groupe a aussi repris des concessions à Vierzon et Bourges en 2019, décision Autorité de la concurrence) : décideur financier = président par défaut."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 38,
+  "siren": "621880012",
+  "nom": "ETABLISSEMENTS SIMONNEAU",
+  "enseigne": "Renault Cosne (groupe Simonneau)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "80 avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49",
+  "ca": 21885061,
+  "groupe": "Groupe Simonneau (holding Philippe Simonneau Holding, Saint-Doulchard (18), présidée par Philippe Simonneau ; environ 12 sites et 385 salariés selon L'argus, déc. 2020)",
+  "dirigeants_registre": [
+   "PHILIPPE SIMONNEAU HOLDING (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": "03 86 26 81 81",
+   "telephone_fiabilite": null,
+   "email": "contact@groupesimonneau.fr",
+   "site_web": "https://www.renault-cosne.fr",
+   "contact_dirigeant": {
+    "nom": "Philippe Simonneau",
+    "fonction": "Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+   },
+   "contact_finance": {
+    "nom": "Philippe Simonneau",
+    "fonction": "Dirigeant du groupe Simonneau (président de Philippe Simonneau Holding, présidente de la société)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+   },
+   "note": "Standard 03 86 26 81 81 (déjà connu) confirmé par la liste des ateliers Renault (renault.fr, document non daté). Email contact@groupesimonneau.fr repris de « deja », non revu dans les résultats de recherche. Aucun DAF/RAF/comptable du groupe Simonneau trouvé (le groupe a une entité à Saint-Doulchard, 18) : décideur financier = dirigeant par défaut."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 40,
+  "siren": "552032237",
+  "nom": "AXA STENMAN FRANCE",
+  "enseigne": "AXA",
+  "ville": "Clamecy",
+  "adresse": "Usine de Beaulieu 2, Beaulieu, 58500 Clamecy",
+  "activite": "Fabrication d'autres matériels de transport",
+  "effectif": "50-99",
+  "ca": 20451340,
+  "groupe": "AXA Stenman Holding",
+  "dirigeants_registre": [
+   "AXA STENMAN HOLDING (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://axasecurity.com",
+   "contact_dirigeant": null,
+   "contact_finance": null,
+   "note": "Aucun numéro ni email trouvé pour l'usine de Clamecy (les recherches renvoient vers l'assureur AXA, homonyme). Site web = site de la marque AXA (antivols et éclairage vélo, groupe néerlandais AXA Stenman / Stenman Holding BV, https://www.preqin.com/data/profile/asset/stenman-holding-bv/35896). Président = AXA STENMAN HOLDING (personne morale) ; aucune personne physique (directeur d'usine, DAF) identifiée. La fiche Xerfi (https://www.xerfi.com/etudes-par-entreprise/axa-stenman-france_552032237) indique un effectif de 100 à 199 salariés, siège unique à Beaulieu, Clamecy. Une recherche LinkedIn ciblée a été refusée par l'outil."
+  },
+  "opposition_prospection": false
+ }
+]

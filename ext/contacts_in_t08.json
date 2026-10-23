@@ -1,0 +1,224 @@
+[
+ {
+  "rang": 53,
+  "siren": "921426086",
+  "nom": "SONIRVAL ENERGIE",
+  "enseigne": null,
+  "ville": "Fourchambault",
+  "adresse": "38 route de Vauzelles",
+  "activite": "Collecte et traitement des déchets",
+  "effectif": "10-19 (20 salariés en 2024)",
+  "ca": 15871139,
+  "groupe": "Lien supposé avec Veolia / RONAVAL (non confirmé)",
+  "dirigeants_registre": [
+   "Anaël GENDRE (Président (depuis le 26/03/2026))",
+   "Frédéric LONGO (Directeur général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Anaël GENDRE",
+    "fonction": "Président (depuis le 26/03/2026)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/921426086"
+   },
+   "contact_finance": {
+    "nom": "Anaël GENDRE",
+    "fonction": "Président (depuis le 26/03/2026)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/921426086"
+   },
+   "note": "Exploite l'usine d'incinération d'ordures ménagères (UIOM) de Fourchambault, anciennement SONIRVAL puis VALEST, au 38 route de Vauzelles (rapport d'inspection Géorisques de 2025 : https://www.georisques.gouv.fr/webappReport/ws/installations/inspection/IAobM3aziW4I6l01V4ghaGeHiPi9ISyX). Groupe parent non identifié. Président récent (mars 2026). Aucun standard trouvé. 2e passe : 3 recherches (UIOM route de Vauzelles + téléphone, Sonirval + 03 86, groupe exploitant) sans numéro de l'usine. Le seul numéro vu (03 39 59 67 37) est celui de l'inspecteur DREAL Nièvre/Yonne, non retenu. Un document de Nevers Agglomération associe SONIRVAL à 45 000 t d'ordures ménagères brûlées par an qui alimentent le réseau de chaleur urbain géré par Énéa (Dalkia) (https://www.nevers.fr/sites/default/files/Fichiers/Actus/2021/2021-12/NCMB%20243%20Le%20r%C3%A9seau%20de%20chaleur%20urbain%202021.pdf) ; groupe parent toujours non identifié."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 54,
+  "siren": "404570160",
+  "nom": "ORECA MAGNY-COURS",
+  "enseigne": "ORECA",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole",
+  "activite": "Industrie automobile",
+  "effectif": "50-99 (53 salariés en 2025)",
+  "ca": 15007462,
+  "groupe": "Groupe ORECA",
+  "dirigeants_registre": [
+   "Hugues DE CHAUNAC (Président)",
+   "Serge MEYER (Directeur général)"
+  ],
+  "deja": {
+   "telephone": "03 86 21 08 00",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.oreca.fr",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Serge MEYER",
+    "fonction": "Directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/404570160"
+   },
+   "note": "Site oreca.fr bloqué aux robots (contact non lu) ; aucun numéro du site de Magny-Cours trouvé dans les annuaires accessibles. Filiale du groupe ORECA (siège groupe dans le Var) : DAF probablement au niveau groupe, non identifié. Décideur = DG d'après le registre. 2e passe (pas d'entrée en 1re passe ; champs personnes non renseignés, registre : Hugues de Chaunac président, Serge Meyer DG) : le +33 (0)3 86 21 08 00 figure dans un communiqué de presse ORECA de janvier 2020 pour le site Technopôle du Circuit, 58470 Magny-Cours (département moteurs d'ORECA Motorsport) ; source officielle mais ancienne, une recherche du numéro seul n'a rien confirmé. Ne pas confondre avec le standard du circuit (03 86 21 80 00). Siège du groupe ORECA à Signes (83)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 57,
+  "siren": "428862403",
+  "nom": "TCT-TORES COMPOSANTS TECHNOLOGIES",
+  "enseigne": "TCT",
+  "ville": "Sauvigny-les-Bois",
+  "adresse": "ZA de la Turlurette",
+  "activite": "Fabrication d'équipements électriques",
+  "effectif": "50-99 (69 salariés en 2025)",
+  "ca": 14033416,
+  "groupe": "Socomec",
+  "dirigeants_registre": [
+   "SOCOMEC (Président (personne morale))",
+   "Julien COULON (Directeur général)"
+  ],
+  "deja": {
+   "telephone": "03 86 90 77 55",
+   "telephone_fiabilite": null,
+   "email": "sales@tct.fr",
+   "site_web": "https://www.tct.fr",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Julien COULON",
+    "fonction": "Directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/428862403"
+   },
+   "note": "Filiale du groupe SOCOMEC (Président personne morale) : la fonction finance est probablement au niveau groupe ; aucun RAF/DAF de site identifié. Autre email générique publié : commercial@tct.fr (mentions légales). Les mentions légales du site nomment encore Ludovic De Ternay comme directeur général / responsable de la publication, alors que le registre indique Julien COULON comme DG : mention probablement ancienne, à vérifier à l'appel."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 58,
+  "siren": "388806317",
+  "nom": "BONJOUR",
+  "enseigne": "Intermarché Decize",
+  "ville": "Decize",
+  "adresse": "107 route de Moulins",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "ca": 13326536,
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché)",
+  "dirigeants_registre": [
+   "NALOUMY (Président (personne morale, depuis le 01/07/2022))"
+  ],
+  "deja": {
+   "telephone": "03 86 77 18 90",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.intermarche.com/magasin?pdvref=08116",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Anthony PEZANT",
+    "fonction": "Dirigeant de NALOUMY (SIREN 790009658), holding présidente de BONJOUR depuis le 01/07/2022 ; ancien président de BONJOUR jusqu'au 27/01/2023",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/388806317"
+   },
+   "note": "Numéro du magasin issu d'un agrégateur (Bonial) : source faible, à confirmer ; la fiche 118000.fr et la page magasin intermarche.com (JS) n'affichent pas le numéro. Lien PEZANT–NALOUMY tiré de la section « Entreprises citées » de Pappers (générée automatiquement) : à confirmer à l'appel."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 61,
+  "siren": "409564481",
+  "nom": "DANIELSON ENGINEERING",
+  "enseigne": "Groupe Danielson",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 58470 Magny-Cours",
+  "activite": "Fabrication de machines et équipements",
+  "effectif": "50-99 (83 salariés en 2024 ; ~130 pour le groupe)",
+  "ca": 12364671,
+  "groupe": "Groupe Danielson (SIREN 507748283)",
+  "dirigeants_registre": [
+   "GROUPE DANIELSON (personne morale) (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://danielson-groupe.fr",
+   "contact_dirigeant": {
+    "nom": "Bernard DELAPORTE",
+    "fonction": "Président de Groupe Danielson (holding présidente de Danielson Engineering)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/409564481"
+   },
+   "contact_finance": {
+    "nom": "Bernard DELAPORTE",
+    "fonction": "Président de Groupe Danielson (holding présidente de Danielson Engineering)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/409564481"
+   },
+   "note": "Recherche interrompue après une seule requête (aucun DAF/RAF trouvé) : le quota global de recherches web de la session était épuisé. Le nom de B. Delaporte vient de l'entrée (champ interlocuteur) et n'a pas été revérifié ; Pappers indique seulement la personne morale GROUPE DANIELSON comme présidente. Le site et le LinkedIn sont déjà connus. Standard à rechercher, et un DAF de groupe est probable (environ 130 salariés). 2e passe : 3 recherches (nom + Magny-Cours + téléphone, site danielson-groupe.fr + contact, Groupe Danielson + tél.) sans numéro de l'entreprise ; les seuls numéros vus sont ceux du circuit (03 86 21 80 00) et du Pôle de la Performance du Technopôle (03 86 21 22 00, source 2012), non retenus."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 62,
+  "siren": "352563084",
+  "nom": "PHARMA DEVELOPPEMENT",
+  "enseigne": null,
+  "ville": "Corbigny",
+  "adresse": "ZI, Chemin du Moulin de Marcy, 58800 Corbigny",
+  "activite": "Industrie pharmaceutique",
+  "effectif": "50-99",
+  "ca": 12242827,
+  "groupe": null,
+  "dirigeants_registre": [
+   "Mario Junio GIRON (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Mario Junio GIRON",
+    "fonction": "Président de SAS",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/352563084"
+   },
+   "contact_finance": {
+    "nom": "Mario Junio GIRON",
+    "fonction": "Président de SAS",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/352563084"
+   },
+   "note": "3 recherches sans standard, email, site ni DAF/RAF. Le laboratoire fabrique des préparations pharmaceutiques liquides et pâteuses (fondé en 1985 selon Pharmashopi). Vidal confirme l'adresse ZI Chemin de Marcy, 58800 Corbigny (https://www.vidal.fr/medicaments/laboratoires/pharma-developpement-687.html), mais sans téléphone dans l'extrait. Le président vient seulement du registre (deja) et n'a pas été revérifié. Avec 50 à 99 salariés, un responsable administratif et financier est probable mais n'a pas été trouvé. À ne pas confondre avec la Pharmacie de l'Anguison (03 86 20 02 49), une pharmacie distincte de Corbigny. 2e passe : 3 recherches (nom + 03 86, adresse Chemin de Marcy, site officiel / façonnier) : aucun numéro, email ni site officiel ; seules les fiches Vidal (adresse ZI Chemin de Marcy, produits Alcaphor, Algesal baume, Plasmarine) et Usine Nouvelle (contacts réservés aux abonnés) apparaissent."
+  },
+  "opposition_prospection": false
+ }
+]

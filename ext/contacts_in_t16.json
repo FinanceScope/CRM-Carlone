@@ -1,0 +1,234 @@
+[
+ {
+  "rang": 64,
+  "siren": "513917922",
+  "nom": "USON RUGBY PLUS",
+  "enseigne": "USON Nevers Rugby",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZI, 5 rue Denis Papin, 58640 Varennes-Vauzelles",
+  "activite": "Activités sportives et de loisirs",
+  "effectif": "50-99 (96 salariés en 2023)",
+  "ca": 11728867,
+  "groupe": "Lié à la famille Dumange (Textilot administrateur)",
+  "dirigeants_registre": [
+   "Régis DUMANGE (Président du conseil d'administration et directeur général)",
+   "Sébastien DUMANGE (Directeur général délégué)",
+   "Delphine DUMANGE (Directrice générale déléguée)",
+   "Catherine DUMANGE (Directrice générale déléguée)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": "contact@usonrugbyplus.com",
+   "site_web": "https://usonneversrugby.com",
+   "contact_dirigeant": {
+    "nom": "Régis Dumange",
+    "fonction": "Président du conseil d'administration et directeur général (président de l'USON Nevers Rugby)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.usonneversrugby.com/_files/ugd/890962_60332dcecc2a4e27903affda93d1cc68.pdf"
+   },
+   "contact_finance": {
+    "nom": "Régis Dumange",
+    "fonction": "Président du conseil d'administration et directeur général (président de l'USON Nevers Rugby)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.usonneversrugby.com/_files/ugd/890962_60332dcecc2a4e27903affda93d1cc68.pdf"
+   },
+   "note": "Aucun numéro de standard trouvé dans les extraits (adresse 5 rue Denis Papin, Varennes-Vauzelles confirmée par globalsportsarchive.com). Email contact@usonrugbyplus.com repris de « deja », non revu. Aucun DAF/RAF nommé trouvé (effectif composé surtout de joueurs et staff sportif ; Xavier Péméja est directeur sportif selon rugbypass.com) : décideur financier = président-DG. Régis Dumange signe comme « Président de l'USON Nevers Rugby » dans un document de partenariat publié sur le site du club."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 71,
+  "siren": "331967943",
+  "nom": "AIZEN INDUSTRIES FRANCE S.A.",
+  "enseigne": "ex-Aisan Industry France",
+  "ville": "Nevers",
+  "adresse": "1-6 rue des Grands Champs, 58000 Nevers",
+  "activite": "Fabrication de machines et équipements",
+  "effectif": "20-49 (37 salariés en 2024 ; ~60 annoncés en 2023)",
+  "ca": 11176580,
+  "groupe": "Ancienne filiale du groupe japonais AISAN ; nouvel actionnariat lié à la famille Gupta depuis 2025",
+  "dirigeants_registre": [
+   "Ambrish Kumar GUPTA (Président du conseil d'administration)",
+   "Shelaindra BHARDWAJ (Directeur général)",
+   "Karan GUPTA (Administrateur)"
+  ],
+  "deja": {
+   "telephone": "07 45 89 14 30",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "http://www.aisanindustryfrance.fr",
+   "contact_dirigeant": {
+    "nom": "Shelaindra Bhardwaj",
+    "fonction": "Directeur général",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/331967943"
+   },
+   "contact_finance": {
+    "nom": "Shelaindra Bhardwaj",
+    "fonction": "Directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/331967943"
+   },
+   "note": "Le numéro de contact est un 07 (mobile) publié comme contact de l'entreprise dans la présentation Aisan Industry France de 2024 (pôle Véhicule du Futur) : numéro professionnel publié, mais antérieur au changement de nom en Aizen Industries France, à revérifier. Aucune source en ligne sur la reprise par Aizen ni sur les nouveaux dirigeants indiens (registre uniquement). Sources anciennes : MarketScreener citait Koji Tanaka (Chairman & GM) et un document de 2020 citait Nicolas Berhault comme directeur d'usine — ce dernier est aujourd'hui DG de COMMAND-SMFI (Cosne) depuis 04/2026. Aucun DAF/RAF trouvé : décideur financier = DG par défaut."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 75,
+  "siren": "331066639",
+  "nom": "SOC GARAGE G R V",
+  "enseigne": "Garage GRV (Citroën et Peugeot Cosne)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "Chemin Rural du Grand Champ, Avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49",
+  "ca": 10956896,
+  "groupe": "Groupe Vincent Automobile",
+  "dirigeants_registre": [
+   "Rodolphe Dimitri VINCENT (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": "03 86 28 49 70",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.groupevincent.fr/",
+   "contact_dirigeant": {
+    "nom": "Rodolphe Vincent",
+    "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+   },
+   "contact_finance": {
+    "nom": "Rodolphe Vincent",
+    "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+   },
+   "note": "Le numéro 03 86 28 49 70 vient seulement de « deja » : une recherche exacte sur ce numéro ne renvoie aucune page, donc non confirmé. Le garage est bien listé comme atelier Peugeot (Chemin rural du Grand Champ, 58204 Cosne-sur-Loire Cedex : https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB17007_garage-grv) et Citroën (https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB20025_sa-garage-grv-cosne-sur-loire), sans numéro dans les extraits. Groupe Vincent : 16 concessions (Cher, Loiret, Nièvre, Allier), 367 salariés en 2019 (journalauto.com) ; aucun DAF/RAF du groupe identifié, décideur financier = président par défaut."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 85,
+  "siren": "955500194",
+  "nom": "CARRIERES ET MATERIAUX",
+  "enseigne": null,
+  "ville": "Sardy-lès-Épiry",
+  "adresse": "Lieu-dit Picampoix, 58800 Sardy-lès-Épiry",
+  "activite": "Autres industries extractives",
+  "effectif": "10-19 (20 salariés en 2025)",
+  "ca": 8807994,
+  "groupe": "Eiffage (Eiffage Infrastructures)",
+  "dirigeants_registre": [
+   "EIFFAGE INFRASTRUCTURES GESTION ET DEVELOPPEMENT (personne morale) (Président de SAS)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": null,
+   "note": "Filiale du groupe Eiffage (carrière de microgranite de Picampoix, Sardy-lès-Épiry/Pazy, exploitée depuis 1974). Aucun numéro, email ni site propre trouvé. Présidente = EIFFAGE INFRASTRUCTURES GESTION ET DEVELOPPEMENT (personne morale) ; aucune personne physique ni responsable financier identifié (finance vraisemblablement centralisée chez Eiffage). Les deux contacts de site viennent de l'organigramme du dossier « porter à connaissance » déposé à la DREAL Bourgogne-Franche-Comté (date non visible dans l'extrait, noms possiblement non à jour)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 89,
+  "siren": "671880227",
+  "nom": "SOYEZ FRERES SA",
+  "enseigne": "Soyez Frères",
+  "ville": "Donzy",
+  "adresse": "Lieu-dit Usine de la Bertine, 58220 Donzy",
+  "activite": "Industrie du papier et du carton",
+  "effectif": "50-99 (75 salariés)",
+  "ca": 8338464,
+  "groupe": null,
+  "dirigeants_registre": [
+   "Frédéric Soyez (Président de SAS)",
+   "Pierre Soyez (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Frédéric Soyez",
+    "fonction": "Président de SAS",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/soyez-freres_671880227"
+   },
+   "contact_finance": {
+    "nom": "Frédéric Soyez",
+    "fonction": "Président de SAS",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/soyez-freres_671880227"
+   },
+   "note": "Aucun numéro, email ni site web trouvé (3 recherches ; les résultats renvoient vers des papeteries homonymes). Xerfi confirme l'adresse (Usine de la Bertine, Donzy), l'activité NAF 17.22Z (articles en papier à usage sanitaire ou domestique), un CA de 7,3 M€ en 2023, 75 salariés, et cite Frédéric Soyez parmi les dirigeants. Malgré l'effectif (75), aucun RAF/comptable nommé trouvé : décideur financier = président par défaut."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 98,
+  "siren": "450817200",
+  "nom": "SUMIRIKO SD FRANCE SAS",
+  "enseigne": "SumiRiko SD France (ex-Anvis SD France)",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, Les Caillots, 58300 Decize",
+  "activite": "Recherche-développement scientifique",
+  "effectif": "20-49",
+  "ca": 7334541,
+  "groupe": "Sumitomo Riko (Japon)",
+  "dirigeants_registre": [
+   "Carlos Jimenez (Président de SAS)",
+   "Stéphane Birebent (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Carlos Jimenez",
+    "fonction": "Président de SAS",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/450817200"
+   },
+   "contact_finance": {
+    "nom": "Carlos Jimenez",
+    "fonction": "Président de SAS",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/450817200"
+   },
+   "note": "Filiale du groupe japonais Sumitomo Riko (ex-Anvis SD France), sur le même site que Anvis Decize (Usine des Caillots). Aucun numéro, email ni site propre trouvé, ni pour cette société ni pour le site des Caillots. Dirigeants tirés du registre (deja), non confirmés en ligne ; verif.com présente Axel Edwin Benz comme directeur général de SumiRiko SD France depuis 2014 (https://www.verif.com/en/leaders/Axel-BENZ-3623766/), information probablement périmée. Aucun responsable financier identifié."
+  },
+  "opposition_prospection": false
+ }
+]

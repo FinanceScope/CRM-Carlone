@@ -1,0 +1,205 @@
+[
+ {
+  "rang": 19,
+  "siren": "349431254",
+  "nom": "GRANDS CHAMPS AUTOMOBILES",
+  "enseigne": "SUMA Volkswagen (Nevers et Cosne)",
+  "ville": "Nevers",
+  "adresse": "ZAC rue des Grands Champs, 58000 Nevers",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "50-99",
+  "ca": 38965411,
+  "groupe": "Groupe SUMA (concessions VW Group et autres marques ; Nièvre, Saône-et-Loire, Allier, Ain, Rhône)",
+  "dirigeants_registre": [
+   "Richard VIVES (Président de SAS)",
+   "Eddy MICHEL (Directeur général délégué)"
+  ],
+  "deja": {
+   "telephone": "03 86 36 18 74",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.suma-auto.com",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/349431254"
+   },
+   "note": "Concession du groupe SUMA (26 sites, ~370 salariés, siège 210 chemin de Paisy, Limonest). La fonction finance est centralisée au niveau groupe (SUMA INVEST, Limonest : offre de RAF vue sur France Travail https://candidat.francetravail.fr/offres/recherche/detail/189JCTR et fiche https://gowork.fr/suma-invest-limonest/salary) mais aucun nom de DAF/RAF trouvé. Standard confirmé par la page partenaire Volkswagen et lesvoitures.fr. Aucun email générique publié trouvé."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 49,
+  "siren": "350293221",
+  "nom": "PASORI",
+  "enseigne": "Pasori (centre de rééducation)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "9 ter rue Franc-Nohain",
+  "activite": "Santé humaine",
+  "effectif": "200-249 (207 salariés en 2025)",
+  "ca": 17141633,
+  "groupe": null,
+  "dirigeants_registre": [
+   "Frédérique BORDET (Présidente)",
+   "Pascale BORDET (Directrice générale)"
+  ],
+  "deja": {
+   "telephone": "03 86 28 43 89",
+   "telephone_fiabilite": null,
+   "email": "contact@pasori.fr",
+   "site_web": "https://www.pasori.fr",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Pascale BORDET",
+    "fonction": "Directrice générale",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/350293221"
+   },
+   "note": "Aucun DAF/RAF ou responsable comptable trouvé malgré la taille (~207 salariés). Fax 03 86 28 77 10 (santeenfrance.fr). Email contact@pasori.fr déjà connu (deja) et repris dans un résumé de recherche sans source précise : source réelle non confirmée. Xerfi cite aussi Agnès Perrot parmi les dirigeants (fonction non précisée) : https://www.xerfi.com/etudes-par-entreprise/pasori_350293221"
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 59,
+  "siren": "400674875",
+  "nom": "GMDE CHR BOISSONS",
+  "enseigne": "CHR Boissons / Cave du Val d'Or",
+  "ville": "Decize",
+  "adresse": "31 B rue de Caqueret (siège) ; établissements à Cosne : Le Tremblat et 13 place Georges Clemenceau (Caves du Val d'Or)",
+  "activite": "Commerce de gros",
+  "effectif": "20-49 (environ 40 salariés selon le site)",
+  "ca": 13230370,
+  "groupe": "CHR Finances",
+  "dirigeants_registre": [
+   "CHR FINANCES (Président (personne morale, depuis le 01/11/2024))",
+   "Frédéric COUSSEMENT (Directeur général (depuis le 16/04/2025))"
+  ],
+  "deja": {
+   "telephone": "03 86 25 08 35",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.chrboissons.com",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Frédéric COUSSEMENT",
+    "fonction": "Directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/400674875"
+   },
+   "note": "Standard 03 86 25 08 35 déjà connu (deja) mais non retrouvé dans les résultats de recherche (non revérifié). Président = holding CHR FINANCES ; pas de DAF/RAF trouvé (~40 salariés). Aucun numéro trouvé pour les Caves du Val d'Or à Cosne. Societe.com indique que Frédéric Coussement a été président jusqu'au 18/04/2025, cohérent avec son passage à DG."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 60,
+  "siren": "333222214",
+  "nom": "GEFICCA",
+  "enseigne": "GEFICCA",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ZI Le Tremblat, 5 allée des Entrepreneurs",
+  "activite": "Caoutchouc et plastique",
+  "effectif": "50-99",
+  "ca": 12615989,
+  "groupe": "Geficca Technologies (holding, Cosne-Cours-sur-Loire, présidée par Dominique Froux ; également présidente de SMAC à La Garde – 83, caoutchouc)",
+  "dirigeants_registre": [
+   "GEFICCA TECHNOLOGIES (Président (personne morale, depuis le 01/01/2024))",
+   "Vincent DESNOST (Directeur général)",
+   "Abel KAICHOUH (Directeur général)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 59 75",
+   "telephone_fiabilite": null,
+   "email": "contact@geficca.fr",
+   "site_web": "https://www.geficca.fr",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Vincent DESNOST",
+    "fonction": "Directeur général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/333222214"
+   },
+   "note": "Standard et email déjà connus (deja) mais non retrouvés dans les résultats de recherche (non revérifiés). Aucun DAF/RAF/comptable trouvé (recherches LinkedIn, Kompass sans résultat ; pas de fiche Kompass). 50-99 salariés, filiale de GEFICCA TECHNOLOGIES."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 66,
+  "siren": "328162284",
+  "nom": "EVORIAL",
+  "enseigne": "Laboratoire de biologie médicale Evorial",
+  "ville": "Nevers",
+  "adresse": "37 rue Saint-Martin, 58000 Nevers (site à Cosne-Cours-sur-Loire, rue Croix Janvier)",
+  "activite": "Santé humaine",
+  "effectif": "50-99",
+  "ca": 11584870,
+  "groupe": null,
+  "dirigeants_registre": [
+   "David LONG (Président de SAS)",
+   "Arel DESJARDIN (Directeur général)",
+   "Caroline FAURE (Directrice générale)"
+  ],
+  "deja": {
+   "telephone": "03 86 61 41 30",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.evorial.fr",
+   "contact_dirigeant": null,
+   "contact_finance": null,
+   "note": "OPPOSITION À LA PROSPECTION : uniquement coordonnées société. Aucun nom de décideur trouvé sur le site evorial.fr via les résultats, donc decideur_financier laissé à null (les dirigeants du registre sont dans deja). Standard Nevers issu d'un annuaire COVID (source faible, possiblement ancienne). Site de Cosne (9 rue Croix Janvier) : 03 86 28 04 66 selon https://www.nonsurtaxe.com/covid/centre-de-depistage/pTwglB8dZwgpUQJH- (source faible). Laboratoire multisite : Nevers, Cosne, Decize, Briare, Sully-sur-Loire, Sancoins."
+  },
+  "opposition_prospection": true
+ },
+ {
+  "rang": 88,
+  "siren": "571880301",
+  "nom": "LE JOURNAL DU CENTRE",
+  "enseigne": "Le Journal du Centre",
+  "ville": "Nevers",
+  "adresse": "3 rue du Chemin de Fer, 58000 Nevers (agence de Cosne : 31 rue Saint-Agnan, 58200 Cosne-Cours-sur-Loire)",
+  "activite": "Édition",
+  "effectif": "50-99",
+  "ca": 8624193,
+  "groupe": "Groupe Centre France (La Montagne)",
+  "dirigeants_registre": [
+   "Didier Martinez (Président du conseil d'administration et Directeur Général)",
+   "Marlène Martin (Administrateur)",
+   "Nicolas Mérindol (Administrateur)",
+   "Ludovic Pillevesse (Administrateur)",
+   "Alain Védrine (Administrateur)",
+   "SA LA MONTAGNE (Administrateur)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.lejdc.fr",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Philippe de LAMBERTYE",
+    "fonction": "Directeur général adjoint Opérations, Finance et Support du groupe Centre France La Montagne (nommé à partir de janvier 2024)",
+    "type": "DAF/RAF",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.cbnews.fr/node/81152",
+    "a_confirmer": true
+   },
+   "note": "Filiale du groupe Centre France La Montagne (siège Clermont-Ferrand) : la finance est pilotée au niveau groupe ; le décideur indiqué est le responsable finance du groupe (article CB News de fin 2023, ancien DAF du groupe Ligier) — fonction à reconfirmer, possiblement datée. Aucun responsable finance propre au JDC trouvé. Aucun numéro de standard trouvé dans les résultats (ni siège Nevers ni agence de Cosne). 2e passe : 3 recherches (adresse 3 rue du Chemin de Fer + téléphone, « Journal du Centre » accueil « 03 86 », page contact lejdc.fr) sans aucun numéro dans les extraits ; à relever sur la page contact ou les mentions légales de lejdc.fr."
+  },
+  "opposition_prospection": false
+ }
+]
