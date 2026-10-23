@@ -1,0 +1,26 @@
+Context. A small CRM lists the 100 largest companies of the Nièvre (France) by turnover, from a Pappers ranking photographed on 02/09/2026. For each company the CRM computes a yearly tax-deduction cap (20 000 € or 5 ‰ of turnover HT if higher) and says whether the company is profitable. The reference figures are "ca" (turnover, €) and "resultat" (net result, €) from the ranking, sometimes replaced by "ca_recent" / "res_recent" / "annee_recent" from the national registry. Later research wrote more recent figures in free text (fields "actualite", "description", "note_classement", "corrections", "note_contacts", and the drafted card "fiche_redigee"), e.g. "CA 2025 : 8,19 M€, résultat net 46,8 K€" or "CA de l'exercice clos au 30/09/2025 en recul de 13 % à 10,7 M€ (résultat net 392 K€)". These newer figures are not used yet: your job is to extract them so the cap and the profitable/loss-making flag can be recomputed.
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of records.
+
+For each record, look for a financial year MORE RECENT than the one behind the reference figures, stated in the record's own text. The reference figures usually are the 2024 accounts (2023 for some); when "annee_recent" is set the reference year is that one. If the text gives figures for the same year as the reference, or only older ones, there is nothing to extract.
+
+Output one object per input record, in input order:
+{"siren": "...", "rang": N,
+ "trouve": true | false,
+ "annee": "2025" (the year the financial year ENDS; a year closed on 30/09/2025 is "2025"),
+ "cloture": "2025-09-30" or null when the closing date is not stated,
+ "ca": turnover in euros as an integer, or null if not stated (convert "10,7 M€" → 10700000, "958 K€" → 958000),
+ "resultat": NET result in euros as an integer (negative for a loss), or null if not stated. Never use an operating result ("résultat d'exploitation"), an EBITDA, a gross margin or a group figure as the net result: put null and say so in "remarque".
+ "perimetre": "societe" when the figures are those of this legal entity (the SIREN), "groupe" when they are consolidated group figures or figures of another entity,
+ "citation": the exact sentence(s) of the record you took the figures from (verbatim, copied character for character),
+ "champ": the field name the citation comes from,
+ "remarque": one short French sentence when something is uncertain (contradiction between two fields, approximate figure, unit doubt), else ""}
+When "trouve" is false, set annee, cloture, ca, resultat, citation, champ to null and remarque to "".
+
+Rules:
+- Only figures written in the record. Never compute a figure from a percentage alone, never estimate, never use web search.
+- If two fields give different figures for the same year, take the most precise one, and explain in "remarque".
+- Group figures ("perimetre": "groupe") are reported but will not be used for the cap: still extract them so we know.
+- Write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE}. Then check it with:
+python3 -I <racine du dépôt>/scratch/check_comptes.py <output path> <input path>
+and fix every line it prints (a citation must be an exact substring of one text of the input record). Do not modify any other file.
