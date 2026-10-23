@@ -38,5 +38,48 @@
   "format_email_observe": null,
   "decision": "Décision probablement prise au siège du groupe SUMA (holding SUMA Invest, Limonest, Rhône) par Richard Vivès : la concession de Nevers est l'une des 26 affaires du groupe et les fonctions finance (RAF, contrôle de gestion) sont recrutées au niveau de SUMA Invest.",
   "note": "2e niveau : standard 03 86 36 18 74 confirmé sur la page partenaire officielle Volkswagen (SUMA Nevers, lun-ven 8h30-12h/14h-19h, sam 9h-12h/14h-18h) ; la concession recrute sous le nom « GCA Nevers ». Richard Vivès toujours cité comme dirigeant du groupe SUMA (presse auto 2023, pas de source plus récente) ; registre cohérent. Aucun DAF/RAF nommé : offres de RAF et de contrôleur de gestion publiées par SUMA INVEST (Limonest, https://gowork.fr/suma-invest-limonest/salary), donc finance groupe à Limonest. Rôle d'Eddy Michel (DG délégué) non documenté en ligne. Aucun email générique publié. À demander à l'appel : nom du directeur de la concession de Nevers et du responsable administratif et financier de SUMA Invest à Limonest ; vérifier que le standard est bien celui de la concession (ZAC des Grands Champs vs bd des Grands-Prés-des-Bordes selon les annuaires)."
+ },
+ {
+  "siren": "350293221",
+  "standard": {
+   "tel": "03 86 28 43 89",
+   "source": "https://santeenfrance.fr/etablissement/48202-centre-de-reeducation-fonctionnelle-pasori",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": {
+   "email": "contact@pasori.fr",
+   "source": "https://www.etablissementsdesante.fr/etablissement/48202-centre-de-reeducation-fonctionnelle-pasori"
+  },
+  "site_web": "https://www.pasori.fr",
+  "dirigeant_principal": {
+   "nom": "Frédérique BORDET",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "decideur_financier": {
+   "nom": "Frédérique BORDET",
+   "fonction": "Présidente (aucun DAF/RAF ni chef comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pascale BORDET",
+    "fonction": "Directrice générale (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/350293221"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise sur place à Cosne-Cours-sur-Loire par la direction familiale (Frédérique Bordet, présidente, et Pascale Bordet, DG) : établissement privé indépendant, sans groupe ni holding identifiés.",
+  "note": "2e niveau : standard 03 86 28 43 89 et contact@pasori.fr retrouvés uniquement dans des annuaires santé (santeenfrance.fr, etablissementsdesante.fr, koifaire), pas sur une page officielle ; fax 03 86 28 77 10. CRF privé (FINESS 580972008, 99 lits et places, plus de 160 professionnels selon une annonce). Aucune source récente (presse, site, LinkedIn) ne nomme la direction ni un responsable administratif/financier : dirigeants du registre non confirmés mais non contredits ; Agnès Perrot (citée par Xerfi) introuvable. À demander à l'appel : qui de la présidente ou de la DG décide des achats, et nom du responsable administratif et financier ou du comptable de l'établissement."
  }
 ]
