@@ -1,0 +1,24 @@
+Context. Two to four business partners based in Cosne-Cours-sur-Loire (Nièvre, France) will phone the 100 largest companies of the Nièvre to sell them original artworks by living artists, with the tax deduction of article 238 bis AB of the CGI as the argument (deduction in fifths over 5 years, yearly cap of 20 000 € or 5 ‰ of turnover HT if higher; the deduction only helps a company that makes a taxable profit; validation by the company's accountant). Each company has a call card ("fiche") written earlier from older accounts. The accounts were then updated with more recent figures found in the research (usually the 2025 financial year), so the cap ("plafond"), the last result and the profitable / loss-making flag may have changed. Your job: bring each card in line with the new figures, and change nothing else.
+
+Absolute rules for everything you write:
+- Never mention Le Vieux Relais, "le M", the partners' own businesses, "nos établissements", or any place where WE would exhibit works.
+- Never use the words "bar", "restaurant", "restaurants" or "chambres".
+- Use only facts present in the input. French, plain, sober, short sentences. Keep the existing style of the card (thousands separated by a narrow no-break space U+202F, a no-break space U+00A0 before €).
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of objects, one per company:
+ "fiche": the current card (fields nom_affiche, activite, groupe, resume, angle_art, qui_appeler, vigilance, questions, priorite_conseillee, raison),
+ "avant": the figures the card was written from (plafond, resultat, benefice, annee),
+ "apres": the new figures (plafond = yearly deductible cap in €, prix_max = 5 × cap, resultat = last net result, annee_resultat = its year, benefice = true / false / null, annee = year of the turnover, regime, espace_txt),
+ "comptes_recherche": the sentence of the research the new figures come from,
+ "priorite_calculee": the priority the CRM's own rule gives with the new figures.
+
+For each company, rewrite the card:
+- angle_art: the figure must be "jusqu'à X € déductibles par an" with X = apres.plafond rounded to the thousand. If apres.benefice is false, say plainly that the deduction will only help once the company is profitable again. Remove any sentence saying the cap is to be recalculated or that the figures contradict each other, now that the figures are updated.
+- vigilance (0 to 4 points): remove the points that only said the cap or the result were out of date or contradictory; add one point with the new figures when they show a loss, a sharp fall of the result or of the turnover ("Exercice 2025 : CA X, résultat Y, d'après la recherche, à confirmer"). Keep every other point.
+- resume, raison: update any figure they quote.
+- priorite_conseillee: apply the same criteria as before ("Haute" = profitable company subject to IS, with a decision-maker reachable in the Nièvre and a natural place to display a work; "Moyenne" = profitable but the decision is taken at a distant group head office, or data still too uncertain; "Basse" = loss-making, or a pure holding / site with no autonomy; "Exclure" = public or semi-public entity, dedicated company without staff, collective procedure, no real business). A loss-making company (apres.benefice false) is "Basse". A company that is now profitable again may go up, but only if the other criteria of the card allow it.
+- Keep nom_affiche, activite, groupe, qui_appeler, questions exactly as they are, unless they quote a figure that changed.
+
+Output: write valid JSON (UTF-8, indent 1) to <racine du dépôt>/ext/{OUTFILE}: an array, one object per input company, in input order, each being the full rewritten card with "siren" first (same fields as "fiche", plus "siren"), and a field "modifs": one short French sentence listing what you changed. Then check it with:
+python3 -I -c "import json,re,sys; d=json.load(open(sys.argv[1])); bad=re.compile(r'vieux relais|\ble m\b|\bdu m\b|\bau m\b|nos établissements|\bbar\b|\brestaurants?\b|chambres', re.I); [print(x['siren'], k) for x in d for k,v in x.items() if bad.search(json.dumps(v, ensure_ascii=False))]; [print(x['siren'], 'questions') for x in d if len(x.get('questions') or [])!=2]; print(len(d), 'fiches')" <output path>
+and fix every line it prints. No web search. Do not modify any other file.

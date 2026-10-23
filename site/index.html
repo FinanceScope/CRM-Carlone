@@ -1056,7 +1056,7 @@ function renderDetail(force){
     </div>
     <dl class="kv">
       ${line("Régime fiscal",esc(a.regime)+(c.forme_juridique?` <span class="muted">— ${esc(c.forme_juridique)}</span>`:""))}
-      ${line("Dernier résultat",a.resultat!=null?`<span class="num">${eur(a.resultat)}</span>${a.annee?` <span class="muted">(exercice ${esc(a.annee)})</span>`:""}`:`<span class="muted">Non publié</span>`)}
+      ${line("Dernier résultat",a.resultat!=null?`<span class="num">${eur(a.resultat)}</span>${(a.annee_resultat||a.annee)?` <span class="muted">(exercice ${esc(a.annee_resultat||a.annee)}${a.source==="recherche"&&a.annee_resultat===a.annee?", relevé par la recherche, à confirmer":""})</span>`:""}`:`<span class="muted">Non publié</span>`)}
       ${line("Où exposer",esc(a.espace_txt))}
       ${line("À qui parler",who)}
       ${line("Où se décide l'achat",c.decision?esc(c.decision):"")}
@@ -1077,6 +1077,7 @@ function renderDetail(force){
       <div class="fig"><b class="num">${esc(effShort(c.effectif)||"—")}</b><span>Salariés</span></div>
     </div>
     ${c.ca_recent!=null||c.res_recent!=null?`<div class="recent"><b>${c.annee_recent?"Registre national, exercice "+esc(c.annee_recent):"Dernier exercice publié"}</b>${[c.ca_recent!=null?"CA "+eur(c.ca_recent):null,c.res_recent!=null?"résultat net "+eur(c.res_recent):null].filter(Boolean).join(" · ")}<span>${c.annee_recent?"Le classement Pappers du 02/09 reprend parfois un exercice plus ancien.":"Le classement mélange parfois des exercices différents : détail dans la contre-vérification plus bas."}</span></div>`:""}
+    ${c.comptes_recherche?`<div class="recent"><b>Exercice ${esc(c.comptes_recherche.annee)} relevé par la recherche</b>${[c.comptes_recherche.ca!=null?"CA "+eur(c.comptes_recherche.ca):null,c.comptes_recherche.resultat!=null?"résultat net "+eur(c.comptes_recherche.resultat):null].filter(Boolean).join(" · ")}<span>« ${esc(c.comptes_recherche.citation)} »${c.comptes_recherche.remarque?" "+esc(c.comptes_recherche.remarque):""} Le plafond et le calcul ci-dessus partent de ces chiffres : à confirmer avec l'entreprise.</span></div>`:""}
     ${c.note_classement?`<div class="recent"><b>À noter</b><span>${esc(c.note_classement)}</span></div>`:""}
     ${c.ca_non_publie?`<div class="recent"><b>Comptes non publiés</b><span>${esc(c.note_comptes||"L'entreprise ne publie pas ses comptes.")} Elle figure dans la liste pour son effectif (10 salariés ou plus), après les entreprises classées par chiffre d'affaires.</span></div>`:""}
     ${/[(;]/.test(c.effectif||"")?`<span class="muted" style="font-size:12.5px">Effectif : ${esc(c.effectif)}</span>`:""}

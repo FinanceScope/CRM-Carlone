@@ -58,14 +58,31 @@ def k_eur(n):
 companies = json.load(open(SITE + '/companies.json', encoding='utf-8'))
 # fiches consolidées des 100 entreprises du classement initial (top100_synthese.py, relues une par une)
 SYN = {}
-for f in sorted(glob.glob(ROOT + '/ext/top100_synth_out_*.json')):
+# puis fiches réécrites après la mise à jour des comptes (fiches_maj_lots.py), qui remplacent les premières
+for f in sorted(glob.glob(ROOT + '/ext/top100_synth_out_*.json')) + sorted(glob.glob(ROOT + '/ext/fiches_maj_out_*.json')):
     for x in json.load(open(f, encoding='utf-8')):
         SYN[re.sub(r'\D', '', str(x.get('siren')))[-9:]] = x
+# comptes plus récents cités dans les fiches du top 100 (comptes_lots.py, chaque relevé contre-vérifié) ;
+# seuls les chiffres propres à la société comptent, pas ceux d'un groupe
+CR = {}
+for f in sorted(glob.glob(ROOT + '/ext/comptes_out_*.json')):
+    for x in json.load(open(f, encoding='utf-8')):
+        if x.get('trouve') and x.get('perimetre') == 'societe' and (x.get('ca') is not None or x.get('resultat') is not None):
+            CR[re.sub(r'\D', '', str(x.get('siren')))[-9:]] = x
+n_cr = 0
 for c in companies:
     ca = c.get('ca_recent') if c.get('ca_recent') is not None else c.get('ca')
     res = c.get('res_recent') if c.get('res_recent') is not None else c.get('resultat')
     if c.get('ca_non_publie'): ca = res = None
     annee = c.get('annee_recent') or c.get('annee_ca') or None
+    annee_res, source = annee, None
+    c.pop('comptes_recherche', None)
+    cr = CR.get(c.get('siren'))
+    if cr and str(cr.get('annee') or '') > str(annee or ''):
+        if cr.get('ca') is not None: ca = cr['ca']
+        if cr.get('resultat') is not None: res, annee_res = cr['resultat'], cr['annee']
+        annee, source, n_cr = cr['annee'], 'recherche', n_cr + 1
+        c['comptes_recherche'] = {k: cr.get(k) for k in ('annee', 'cloture', 'ca', 'resultat', 'citation', 'remarque')}
     plafond = max(PLANCHER, round(TAUX_CA * ca)) if ca else PLANCHER
     reg = regime(c.get('forme_juridique'))
     esp = espace(c)
@@ -77,6 +94,8 @@ for c in companies:
     elif benef and res / (1 - TAUX_IS) < plafond:
         notes.append(f"Bénéfice modeste ({k_eur(res)}) : l'économie d'impôt est limitée par le bénéfice plus que par le plafond.")
     if ca is None: notes.append('Comptes non publiés : plafond minimal de 20 000 € par an, à affiner avec le CA réel.')
+    if source: notes.append(f"Chiffres de l'exercice {annee} relevés par la recherche, à confirmer avec l'entreprise.")
+    if source and annee_res != annee: notes.append(f"Résultat {annee} non connu : le résultat indiqué est celui de l'exercice précédent.")
     if reg == 'À vérifier': notes.append("Régime fiscal à vérifier (EURL, SNC ou forme inconnue : souvent à l'IR).")
     if esp == 'groupe': notes.append('Holding : à aborder avec la tête du groupe, l\'œuvre pouvant être exposée dans un site du groupe (à valider).')
     if c.get('opposition_prospection'): notes.append('Opposée à la prospection : pas de mailing, contact direct uniquement.')
@@ -98,10 +117,10 @@ for c in companies:
     if syn and active:   # priorité revue fiche par fiche (rentabilité, lieu de décision, autonomie du site)
         pc = syn.get('priorite_conseillee')
         if pc == 'Exclure': prio, exclue = 'Basse', True
-        elif pc in ('Haute', 'Moyenne', 'Basse'): prio = pc
+        elif pc in ('Haute', 'Moyenne', 'Basse') and not (pc != 'Basse' and benef is False): prio = pc   # en perte : Basse
     vague = (1 if near else 2 if bassin else 3) if prio == 'Haute' and active else None
     c['art'] = {
-        'regime': reg, 'benefice': benef, 'resultat': res, 'ca': ca, 'annee': annee,
+        'regime': reg, 'benefice': benef, 'resultat': res, 'ca': ca, 'annee': annee, 'annee_resultat': annee_res, 'source': source,
         'plafond': plafond, 'prix_max': 5 * plafond, 'economie_max': round(5 * plafond * TAUX_IS),
         'espace': esp, 'espace_txt': ESPACES[esp], 'public': esp in PUBLIC, 'notes': notes,
     }
@@ -127,6 +146,7 @@ print('régime', Counter(c['art']['regime'] for c in companies))
 print('espace', Counter(c['art']['espace'] for c in companies))
 print('bénéfice', Counter(c['art']['benefice'] for c in companies))
 print('plafond > 20 k€', sum(1 for c in companies if c['art']['plafond'] > PLANCHER))
+print('comptes plus récents relevés par la recherche', n_cr)
 print('fiches consolidées', sum(1 for c in companies if c.get('fiche')), '| exclues', sum(1 for c in companies if c.get('exclue')))
 print('priorités', Counter(c['priorite'] for c in companies), '| vagues', Counter(c['vague'] for c in companies))
 for v in (1, 2, 3):
