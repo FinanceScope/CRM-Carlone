@@ -8623,7 +8623,8 @@
 "fonction": "Chef de cuisine",
 "tel": null,
 "email": null,
-"source": "https://fr.gaultmillau.com/fr/restaurants/le-relais-de-pouilly"
+"source": "https://fr.gaultmillau.com/fr/restaurants/le-relais-de-pouilly",
+"a_confirmer": true
 }
 ],
 "telephone_a_confirmer": true

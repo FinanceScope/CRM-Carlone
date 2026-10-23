@@ -1,0 +1,227 @@
+[
+ {
+  "siren": "350693586",
+  "rang": 2,
+  "entreprise": "FPT Industrial",
+  "ville": "Garchizy",
+  "nom": "Vincent BARBOSA",
+  "fonction": "Directeur Général (registre, non confirmé par une source récente)",
+  "source": "https://www.pappers.fr/entreprise/350693586"
+ },
+ {
+  "siren": "978029817",
+  "rang": 5,
+  "entreprise": "DUMANGE FAMILY",
+  "ville": "Varennes-Vauzelles",
+  "nom": "Delphine DUMANGE",
+  "fonction": "Directeur général (registre)",
+  "source": "https://www.pappers.fr/entreprise/978029817"
+ },
+ {
+  "siren": "334934304",
+  "rang": 6,
+  "entreprise": "MS Bois (Monnet-Sève Sougy)",
+  "ville": "Sougy-sur-Loire",
+  "nom": "Guillaume CRUZILLE",
+  "fonction": "Directeur général délégué (registre)",
+  "source": "https://www.pappers.fr/entreprise/334934304"
+ },
+ {
+  "siren": "833243801",
+  "rang": 11,
+  "entreprise": "VANAJEF",
+  "ville": "Coulanges-lès-Nevers",
+  "nom": "Nadia MOUSSET (MADAIRE)",
+  "fonction": "Directeur général (registre)",
+  "source": "https://www.pappers.fr/entreprise/833243801"
+ },
+ {
+  "siren": "393635230",
+  "rang": 14,
+  "entreprise": "Transports Rousseau",
+  "ville": "Corvol-l'Orgueilleux",
+  "nom": "Jade ROUSSEAU",
+  "fonction": "Directrice générale du groupe (source tierce faible, non confirmée)",
+  "source": "https://copeps.fr/actualites/sarl-rousseau-eric/"
+ },
+ {
+  "siren": "507757672",
+  "rang": 18,
+  "entreprise": "E.Leclerc Decize",
+  "ville": "Decize",
+  "nom": "Laetitia MARTIN (GAGNE)",
+  "fonction": "Directeur Général (registre)",
+  "source": "https://www.pappers.fr/entreprise/507757672"
+ },
+ {
+  "siren": "651880437",
+  "rang": 22,
+  "entreprise": "Polyclinique du Val de Loire - Elsan",
+  "ville": "Nevers",
+  "nom": "Jean-Claude PENET",
+  "fonction": "Directeur de la polyclinique (donnée CRM existante, non confirmée)",
+  "source": null
+ },
+ {
+  "siren": "488376278",
+  "rang": 24,
+  "entreprise": "A.B.S",
+  "ville": "Clamecy",
+  "nom": "Romain SAGNE",
+  "fonction": "Gérant (cogérant, registre)",
+  "source": "https://www.pappers.fr/entreprise/488376278"
+ },
+ {
+  "siren": "312057318",
+  "rang": 26,
+  "entreprise": "Etablissements Coignet",
+  "ville": "Ciez",
+  "nom": "Alain Coignet",
+  "fonction": "Directeur général délégué",
+  "source": "https://www.pappers.fr/entreprise/312057318"
+ },
+ {
+  "siren": "825065279",
+  "rang": 30,
+  "entreprise": "Intermarché (Nevers)",
+  "ville": "Nevers",
+  "nom": "Diego FERNANDEZ",
+  "fonction": "Directeur Général (registre)",
+  "source": "https://www.pappers.fr/entreprise/825065279"
+ },
+ {
+  "siren": "322804931",
+  "rang": 33,
+  "entreprise": "SumiRiko",
+  "ville": "Decize",
+  "nom": "Stéphane BIREBENT",
+  "fonction": "Directeur Général (registre ; probablement le dirigeant présent à Decize, non confirmé)",
+  "source": "https://www.xerfi.com/etudes-par-entreprise/sumiriko-rubber-compounding-france_322804931"
+ },
+ {
+  "siren": "621880012",
+  "rang": 38,
+  "entreprise": "Renault Cosne (groupe Simonneau)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "nom": "Pierre SIMONNEAU",
+  "fonction": "Directeur (concession Renault Cosne-sur-Loire ; fils de Philippe Simonneau, directeur adjoint du groupe selon L'argus 2020)",
+  "source": "https://concessionnaire.renault.fr/cosne-sur-loire.html"
+ },
+ {
+  "siren": "338339146",
+  "rang": 42,
+  "entreprise": "TC Transports",
+  "ville": "Cercy-la-Tour",
+  "nom": "Pierre-Henri JUHEN",
+  "fonction": "Directeur de l'organisation du groupe TC Transports (interview, date non précisée)",
+  "source": "https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/"
+ },
+ {
+  "siren": "518482013",
+  "rang": 46,
+  "entreprise": "Anvis",
+  "ville": "Decize",
+  "nom": "Olaf Hahn",
+  "fonction": "Président (registre) ; groupe Anvis repris par HAHN GmbH",
+  "source": "https://www.pappers.fr/entreprise/518482013"
+ },
+ {
+  "siren": "921426086",
+  "rang": 53,
+  "entreprise": "SONIRVAL ENERGIE",
+  "ville": "Fourchambault",
+  "nom": "Frédéric LONGO",
+  "fonction": "Directeur général (registre)",
+  "source": "https://www.pappers.fr/entreprise/921426086"
+ },
+ {
+  "siren": "400674875",
+  "rang": 59,
+  "entreprise": "CHR Boissons / Cave du Val d'Or",
+  "ville": "Decize",
+  "nom": "Paul COUSSEMENT",
+  "fonction": "Directeur général de la holding CHR Finances (depuis avril 2023, selon societe.com)",
+  "source": "https://www.societe.com/manager/Paul.COUSSEMENT.u0vDNmkbYWD.html"
+ },
+ {
+  "siren": "711880021",
+  "rang": 63,
+  "entreprise": "Nièvre Aménagement",
+  "ville": "Nevers",
+  "nom": "Jocelyne Guérin",
+  "fonction": "Présidente du conseil d'administration (conseillère départementale)",
+  "source": "https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/mars_2022_rna_nievre_amgt.pdf"
+ },
+ {
+  "siren": "403894512",
+  "rang": 67,
+  "entreprise": "Bricomarché Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "nom": "Gaëlle DUQUESNE",
+  "fonction": "Directrice générale (registre ; Xerfi cite une Gaëlle Desjardins, peut-être la même personne)",
+  "source": "https://www.xerfi.com/etudes-par-entreprise/versthan_403894512"
+ },
+ {
+  "siren": "418048591",
+  "rang": 72,
+  "entreprise": "Intermarché Super Fourchambault",
+  "ville": "Fourchambault",
+  "nom": "Thomas Aurélien KERBOURC'H",
+  "fonction": "Directeur général (registre)",
+  "source": "https://www.pappers.fr/entreprise/418048591"
+ },
+ {
+  "siren": "799292206",
+  "rang": 79,
+  "entreprise": "ENEA – réseau de chaleur de Nevers",
+  "ville": "Nevers",
+  "nom": "Nicolas VOLTZ",
+  "fonction": "Directeur général (registre)",
+  "source": "https://www.pappers.fr/entreprise/799292206"
+ },
+ {
+  "siren": "411741440",
+  "rang": 84,
+  "entreprise": "Circuit de Nevers Magny-Cours",
+  "ville": "Magny-Cours",
+  "nom": "Romain Daguenet",
+  "fonction": "Membre du directoire (depuis le 31/05/2025, registre) ; présenté comme directeur adjoint du circuit dans la presse",
+  "source": "https://www.societe.com/manager/Romain.DAGUENET.2sbIWfl60o2.html"
+ },
+ {
+  "siren": "955500194",
+  "rang": 85,
+  "entreprise": "CARRIERES ET MATERIAUX",
+  "ville": "Sardy-lès-Épiry",
+  "nom": "Fabrice Gorecki",
+  "fonction": "Responsable commercial (organigramme du dossier « porter à connaissance », date non visible)",
+  "source": "https://www.bourgogne-franche-comte.developpement-durable.gouv.fr/IMG/pdf/t1_da_et_mt_carrieres_et_materiaux_-_picampoix_58__partie_2-1-137.pdf"
+ },
+ {
+  "siren": "671880227",
+  "rang": 89,
+  "entreprise": "Soyez Frères",
+  "ville": "Donzy",
+  "nom": "Pierre Soyez",
+  "fonction": "Directeur général (registre ; cité parmi les dirigeants par Xerfi)",
+  "source": "https://www.xerfi.com/etudes-par-entreprise/soyez-freres_671880227"
+ },
+ {
+  "siren": "323685453",
+  "rang": 91,
+  "entreprise": "Parqueterie Beau Soleil",
+  "ville": "Saint-Amand-en-Puisaye",
+  "nom": "Rémi Petitrenaud",
+  "fonction": "Directeur général (registre)",
+  "source": "https://www.pappers.fr/entreprise/323685453"
+ },
+ {
+  "siren": "335275319",
+  "rang": 97,
+  "entreprise": "ASM",
+  "ville": "Cosne-Cours-sur-Loire",
+  "nom": "Xavier Charbon",
+  "fonction": "Directeur général et membre du directoire de RAVE CROISSANCE (société présidente d'ASM)",
+  "source": "https://www.societe.com/manager/Xavier.CHARBON.vj35ILbmW6s.html"
+ }
+]

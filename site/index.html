@@ -935,7 +935,7 @@ function renderDetail(force){
       ${line("Adresse",addr?copyable(addr):"")}
       ${line("Distance",c.distance_cosne_km!=null?`<span class="num">${c.distance_cosne_km===0?"À Cosne même":"≈ "+c.distance_cosne_km+" km de Cosne"}</span>`:"")}
       ${line("Site près de Cosne",c.site_local?esc(c.site_local):"")}
-      ${line("Téléphone",c.telephone?copyable(c.telephone)+(c.telephone_a_confirmer?ACONF:""):"")}
+      ${line("Téléphone",c.telephone?copyable(c.telephone)+(c.telephone_groupe?`<span class="muted" style="display:block;font-size:12.5px">Standard du groupe : demander le site de la Nièvre</span>`:"")+(c.telephone_a_confirmer?ACONF:""):"")}
       ${line("E-mail",c.email?copyable(c.email)+(c.email_a_confirmer?ACONF:""):"")}
       ${line("Site web",linkOut(c.site_web))}
       ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise"):"")}
@@ -949,7 +949,7 @@ function renderDetail(force){
     ${cfin?`<span class="who-h">${cfin.type==="dirigeant"?"Dirigeant, qui décide aussi des finances":"Décideur financier"}</span>${personKV(cfin)}`:""}
     ${cd&&!cfin?`<span class="muted" style="font-size:12.5px">Pas de directeur financier identifié : c'est le dirigeant qui décide.</span>`:""}
     ${(cd||cfin)&&![cd,cfin].some(p=>p&&(p.tel_direct||p.email))?`<span class="muted" style="font-size:12.5px">Pas de ligne directe publiée : passer par le standard et demander ${cfin&&cfin.type!=="dirigeant"?"le service administratif et financier":"la direction"}.</span>`:""}
-    ${(c.autres_contacts||[]).length?`<span class="who-h">Autres contacts</span><dl class="kv">${c.autres_contacts.map(o=>line(esc(o.fonction||"Contact"),esc(o.nom||"")+(o.tel?" · "+esc(o.tel):"")+(o.email?" · "+esc(o.email):""))).join("")}</dl>`:""}
+    ${(c.autres_contacts||[]).length?`<span class="who-h">Autres contacts</span><dl class="kv">${c.autres_contacts.map(o=>line(esc(o.fonction||"Contact"),esc(o.nom||"")+(o.a_confirmer?" (à confirmer)":"")+(o.tel?" · "+esc(o.tel):"")+(o.email?" · "+esc(o.email):""))).join("")}</dl>`:""}
   </div>`:""}
   <div class="d-sec">
     <h3>Dirigeants (registre)</h3>

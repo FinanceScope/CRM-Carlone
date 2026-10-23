@@ -642,6 +642,8 @@ for c in base + ext:
         c.pop('telephone_a_confirmer', None)
     if std.get('tel') and c.get('telephone') == clean_tel(std['tel']) and std.get('fiabilite') in ('annuaire', 'ancienne'):
         c['telephone_a_confirmer'] = True                    # annuaire seul ou source ancienne (levé si la vérification confirme)
+    if std.get('tel') and c.get('telephone') == clean_tel(std['tel']) and std.get('fiabilite') == 'groupe':
+        c['telephone_groupe'] = True                         # standard du siège du groupe : demander le site de la Nièvre
     eg = e.get('email_generique') or {}
     if eg.get('email') and not c.get('email'): c['email'] = eg['email'].strip(); n_ct['email ajouté'] += 1
     if e.get('site_web') and not c.get('site_web'): c['site_web'] = e['site_web']
@@ -720,8 +722,20 @@ for c in base + ext:
     if adr and c.get('adresse') == adr and verdict(x) == 'contredit':
         c['adresse'] = x['corrige'].strip() if x.get('corrige') else None; n_vf['adresse ' + ('corrigée' if x.get('corrige') else 'retirée')] += 1
     if c.get('autres_contacts'):
-        faux = {y.get('nom') for y in (v.get('autres_contacts') or []) if verdict(y) == 'contredit'}
-        c['autres_contacts'] = [y for y in c['autres_contacts'] if y.get('nom') not in faux]
+        verdicts = {norm(y.get('nom')): y for y in (v.get('autres_contacts') or []) if isinstance(y, dict) and y.get('nom')}
+        garde = []
+        for y in c['autres_contacts']:
+            w = verdicts.get(norm(y.get('nom')))
+            if w and verdict(w) == 'contredit':
+                if w.get('corrige'):      # la personne a changé de poste ou a été remplacée : on garde la valeur établie
+                    nom, _, fct = str(w['corrige']).partition(' — ')
+                    garde.append({'nom': nom.strip(), 'fonction': fct.strip() or None, 'tel': None, 'email': None, 'source': w.get('source')}); n_vf['autre contact corrigé'] += 1
+                else: n_vf['autre contact retiré'] += 1
+                continue
+            if w and verdict(w) == 'non_confirme': y = dict(y, a_confirmer=True); n_vf['autre contact à confirmer'] += 1
+            elif w and verdict(w) == 'confirme': y = {kk: vv for kk, vv in y.items() if kk != 'a_confirmer'}
+            garde.append(y)
+        c['autres_contacts'] = garde
         if not c['autres_contacts']: del c['autres_contacts']
 print('vérifications :', len(VERIF), dict(n_vf))
 
