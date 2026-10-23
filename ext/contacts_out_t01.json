@@ -81,5 +81,156 @@
   "format_email_observe": null,
   "decision": "Décision probablement prise sur place à Cosne-Cours-sur-Loire par la direction familiale (Frédérique Bordet, présidente, et Pascale Bordet, DG) : établissement privé indépendant, sans groupe ni holding identifiés.",
   "note": "2e niveau : standard 03 86 28 43 89 et contact@pasori.fr retrouvés uniquement dans des annuaires santé (santeenfrance.fr, etablissementsdesante.fr, koifaire), pas sur une page officielle ; fax 03 86 28 77 10. CRF privé (FINESS 580972008, 99 lits et places, plus de 160 professionnels selon une annonce). Aucune source récente (presse, site, LinkedIn) ne nomme la direction ni un responsable administratif/financier : dirigeants du registre non confirmés mais non contredits ; Agnès Perrot (citée par Xerfi) introuvable. À demander à l'appel : qui de la présidente ou de la DG décide des achats, et nom du responsable administratif et financier ou du comptable de l'établissement."
+ },
+ {
+  "siren": "400674875",
+  "standard": {
+   "tel": "03 86 25 08 35",
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.chrboissons.com",
+  "dirigeant_principal": {
+   "nom": "Frédéric COUSSEMENT",
+   "fonction": "Directeur général (depuis avril 2025 ; président jusqu'au 18/04/2025) ; président de la holding CHR Finances, elle-même présidente de CHR Boissons",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Frederic.COUSSEMENT.263qO-yHG89.html"
+  },
+  "decideur_financier": {
+   "nom": "Frédéric COUSSEMENT",
+   "fonction": "Directeur général (aucun DAF/RAF ni comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Frederic.COUSSEMENT.263qO-yHG89.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Paul COUSSEMENT",
+    "fonction": "Directeur général de la holding CHR Finances (depuis avril 2023, selon societe.com)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/Paul.COUSSEMENT.u0vDNmkbYWD.html"
+   },
+   {
+    "nom": "Thomas COUSSEMENT",
+    "fonction": "Mandataire lié à CHR Boissons depuis février 2024 selon societe.com (fonction exacte à confirmer)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/Thomas.COUSSEMENT.3VyFNHyrgpw.html"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise dans la holding familiale CHR Finances à Decize (famille Coussement : Frédéric, président de CHR Finances, Paul, DG de la holding), qui préside CHR Boissons depuis novembre 2024.",
+  "note": "2e niveau : le standard 03 86 25 08 35 (deja) reste introuvable en ligne (recherche du numéro exact sans résultat, chrboissons.com non indexé) : à vérifier en appelant ; aucun numéro trouvé non plus pour les Caves du Val d'Or à Cosne. SIRENE (avis de situation du 06/10/2025) confirme SAS active depuis 1995, enseigne Caves du Val d'Or à Cosne. Gouvernance familiale : Frédéric Coussement président de CHR Finances depuis 2007, DG de CHR Boissons depuis avril 2025 ; Paul et Thomas Coussement apparaissent comme mandataires (génération suivante probable, rôles à confirmer). Aucun DAF/RAF ni comptable trouvé (~40 salariés, 5 dépôts selon un annuaire). À demander à l'appel : qui gère la comptabilité/finance (en interne ou cabinet), et lequel des Coussement décide."
+ },
+ {
+  "siren": "333222214",
+  "standard": {
+   "tel": "03 86 39 59 75",
+   "source": "https://industrie.usinenouvelle.com/fiche/etablissement/groupe-detude-de-fabrication-industrielle-de-commercialisation-du-caoutchouc-100882831",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.geficca.fr",
+  "dirigeant_principal": {
+   "nom": "Dominique FROUX",
+   "fonction": "Président du directoire de GEFICCA TECHNOLOGIES (holding présidente de GEFICCA depuis le 01/01/2024)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html"
+  },
+  "decideur_financier": {
+   "nom": "Dominique FROUX",
+   "fonction": "Président du directoire de GEFICCA TECHNOLOGIES (aucun DAF/RAF ni comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Vincent DESNOST",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/333222214"
+   },
+   {
+    "nom": "Abel KAICHOUH",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/333222214"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise à Cosne-Cours-sur-Loire au niveau de la holding GEFICCA TECHNOLOGIES (même adresse), dont Dominique Froux préside le directoire ; les deux DG (V. Desnost, A. Kaichouh) gèrent l'opérationnel.",
+  "note": "2e niveau : standard 03 86 39 59 75 retrouvé sur la fiche Usine Nouvelle (annuaire, contacts détaillés réservés aux abonnés), pas sur geficca.fr (non indexé) ; contact@geficca.fr (deja) non retrouvé en ligne. Dominique Froux : président de Geficca Technologies depuis 2013, président du directoire depuis le 12/01/2024 (réorganisation début 2024 : la holding devient présidente de Geficca). Fabricant de pièces techniques moulées en élastomères (OFB, entreprise engagée pour la nature) ; 2 établissements actifs à Cosne. Aucun DAF/RAF/comptable trouvé (une recherche LinkedIn a été refusée par l'outil). À demander à l'appel : nom du responsable administratif et financier (holding ou filiale) et qui de D. Froux ou des DG valide ce type d'achat."
+ },
+ {
+  "siren": "328162284",
+  "standard": {
+   "tel": "03 86 61 41 30",
+   "source": "https://www.nonsurtaxe.com/covid/centre-de-depistage/bZTh0j6G1by8UMtz-LBM-EVORIAL-NEVERS",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://evorial.fr",
+  "dirigeant_principal": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise au siège de la SELAS Evorial à Nevers (37 rue Saint-Martin) par les biologistes associés : laboratoire multisite indépendant (membre du réseau des biologistes indépendants), sans groupe national identifié.",
+  "note": "2e niveau — OPPOSITION À LA PROSPECTION : coordonnées société uniquement. Standard Nevers 03 86 61 41 30 retrouvé dans plusieurs annuaires (nonsurtaxe, keskeces), toujours pas sur evorial.fr (les pages labo et contact du site ne montrent pas de numéro dans les extraits ; le contact se fait par e-mail/formulaire : https://evorial.fr/contact.html). Aucun nom de dirigeant ou de biologiste visible sur le site officiel (mentions légales : https://www.evorial.fr/mentions-legales.html, contenu non lisible via la recherche), donc aucun nom retenu. Sites : Nevers, Cosne-Cours-sur-Loire, Decize, Briare, Sully-sur-Loire, Sancoins ; accréditation COFRAC ISO 15189. À l'appel : demander au standard le service administratif/direction du siège de Nevers, sans citer de nom."
+ },
+ {
+  "siren": "571880301",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.lejdc.fr",
+  "dirigeant_principal": {
+   "nom": "Didier MARTINEZ",
+   "fonction": "Président du conseil d'administration et Directeur général (registre, non confirmé par une source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/571880301"
+  },
+  "decideur_financier": {
+   "nom": "Philippe de LAMBERTYE",
+   "fonction": "Directeur général adjoint Opérations, Finance et Support — DAF du groupe Centre France La Montagne (nommé pour janvier 2024)",
+   "type": "autre",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.cbnews.fr/node/81152"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Francis GAUNAND",
+    "fonction": "Directeur général du groupe Centre France (depuis le 17/12/2025, successeur de Soizic Bouju)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.cbnews.fr/node/97656"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise au siège du groupe Centre France à Clermont-Ferrand (DG Francis Gaunand depuis décembre 2025, finance pilotée par le DGA Opérations-Finance-Support) : Le Journal du Centre est une filiale régionale du groupe.",
+  "note": "2e niveau : toujours aucun numéro de standard trouvé (3 rue du Chemin de Fer, lejdc.fr non indexé ; recherche d'un numéro supposé en 03 86 71 45 sans résultat) : à relever sur la page contact / mentions légales de lejdc.fr ou via le standard du groupe Centre France. Changement au sommet du groupe : Francis Gaunand DG de Centre France depuis le 17/12/2025 (CB News). Didier Martinez, PDG au registre, n'apparaît dans aucune source de presse liée au groupe : à vérifier (registre possiblement à jour mais non corroboré). Philippe de Lambertye (DAF groupe) : nomination de fin 2023 non revérifiée en 2026. Philippe Depalle cité comme rédacteur en chef du JDC en 2022 (franco.wiki), non retenu comme décideur. À demander à l'appel : directeur délégué ou responsable administratif du JDC à Nevers, et si l'achat se décide localement ou à Clermont-Ferrand."
  }
 ]

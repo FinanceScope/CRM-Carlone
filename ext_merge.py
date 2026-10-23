@@ -633,8 +633,13 @@ for c in base + ext:
     if not e: continue
     c['contacts_ok'] = True
     if e.get('note'): c['note_contacts'] = str(e['note']).strip()
+    if e.get('decision'): c['decision'] = str(e['decision']).strip()      # où se prend la décision d'achat (recherche approfondie du top 100)
     std = e.get('standard') or {}
     if std.get('tel') and not c.get('telephone'): c['telephone'] = clean_tel(std['tel']); n_ct['tel ajouté'] += 1
+    elif std.get('tel') and std.get('fiabilite') == 'officielle' and c.get('telephone') != clean_tel(std['tel']):
+        c['telephone'] = clean_tel(std['tel']); n_ct['tel remplacé par un numéro officiel'] += 1   # source officielle plutôt qu'un annuaire
+    if std.get('tel') and c.get('telephone') == clean_tel(std['tel']) and std.get('fiabilite') == 'officielle':
+        c.pop('telephone_a_confirmer', None)
     if std.get('tel') and c.get('telephone') == clean_tel(std['tel']) and std.get('fiabilite') in ('annuaire', 'ancienne'):
         c['telephone_a_confirmer'] = True                    # annuaire seul ou source ancienne (levé si la vérification confirme)
     eg = e.get('email_generique') or {}
@@ -684,7 +689,7 @@ for c in base + ext:
         if verdict(x) == 'contredit':
             c[champ] = (clean_tel(x['corrige']) if champ == 'telephone' else x['corrige'].strip()) if x.get('corrige') else None
             n_vf[champ + (' corrigé' if x.get('corrige') else ' retiré')] += 1
-        elif verdict(x) == 'non_confirme':
+        elif verdict(x) == 'non_confirme' and not (champ == 'telephone' and (e.get('standard') or {}).get('fiabilite') == 'officielle'):
             c[champ + '_a_confirmer'] = True; n_vf[champ + ' à confirmer'] += 1
         elif verdict(x) == 'confirme':
             c.pop(champ + '_a_confirmer', None)
