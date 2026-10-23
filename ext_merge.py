@@ -1,7 +1,7 @@
 """Ajoute au CRM les entreprises 101 à 500 de la Nièvre.
 Sources : classements Pappers par commune (relevés le 22/10/2026), passe complémentaire sous 500 k€,
 registre officiel (API Recherche d'entreprises, à défaut fiche Pappers) pour le siège exact, les dirigeants, l'état."""
-import json, glob, os, re, math, unicodedata
+import json, glob, os, re, sys, math, unicodedata
 from collections import Counter
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -608,7 +608,7 @@ json.dump([{'siren': c['siren'], 'nom': c['nom'], 'url': c.get('url'), 'ca': c['
 CONTACTS = {}
 for f in sorted(glob.glob(EXT + '/contacts_out_*.json')):
     try: data = json.load(open(f, encoding='utf-8'))
-    except Exception: continue   # fichier en cours d'écriture par un agent
+    except Exception as err: sys.exit(f'Fichier illisible : {f} ({err}). Attendre la fin du lot ou le corriger, puis relancer.')
     for e in data:
         k = sid(e.get('siren'))
         if re.match(r'\s*(non traité|pending)', str(e.get('note') or ''), re.I): continue   # lot interrompu : entreprise pas encore recherchée
@@ -675,7 +675,7 @@ print('contacts :', len(CONTACTS), dict(n_ct), '| avec téléphone :', sum(1 for
 VERIF, VERIF_NOTES = {}, {}
 for f in sorted(glob.glob(EXT + '/contacts_verif_*.json')):
     try: data = json.load(open(f, encoding='utf-8'))
-    except Exception: continue
+    except Exception as err: sys.exit(f'Fichier illisible : {f} ({err}). Attendre la fin du lot ou le corriger, puis relancer.')
     for v in data:
         k = sid(v.get('siren'))
         if k: VERIF[k] = dict(VERIF.get(k) or {}, **{kk: vv for kk, vv in v.items() if vv not in (None, '', [])})   # vérifications successives cumulées
@@ -748,8 +748,28 @@ RETIRER = {'823687033': ('email',),       # adresse hotmail nominative, introuva
            '397727397': ('telephone', 'autres_contacts')}   # LOOK Fixations (Rossignol) : numéro et contact des passes précédentes = LOOK Cycle
 # le mobile d'Aizen (331967943), d'abord retiré faute de source, figure dans la présentation 2024 de l'entreprise (lot h23)
 AUDITEURS = re.compile(r'(KPMG|DELOITTE|MAZARS|ERNST|PRICEWATERHOUSE|GRANT THORNTON|BDO)\b', re.I)
+TEL_RE = re.compile(r'(?:\+33\s?(?:\(0\)\s?)?|0)[1-9](?:[\s.-]?\d{2}){4}')
+EMAIL_RE = re.compile(r'[\w.+-]+@[\w-]+(?:\.[\w-]+)+')
+def sans_annotation(v, rx, propre, quoi, c):
+    """« 03 86 … (concession …) » -> « 03 86 … », la remarque rejoint les notes de recherche de la fiche"""
+    m = rx.search(str(v)) if v else None
+    if not m or str(v).strip() == m.group(): return v
+    reste = (str(v)[:m.start()] + ' ' + str(v)[m.end():]).strip(' ;,–-()')
+    if reste: c['note_contacts'] = ((c.get('note_contacts') or '') + f' {quoi} {m.group()} : {reste}.').strip()
+    return propre(m.group())
 for c in base + ext:
     for k in RETIRER.get(sid(c.get('siren')), ()): c[k] = None
+    c['telephone'] = sans_annotation(c.get('telephone'), TEL_RE, clean_tel, 'Téléphone', c)
+    c['email'] = sans_annotation(c.get('email'), EMAIL_RE, str, 'E-mail', c)
+    for pp in [c.get('contact_dirigeant'), c.get('contact_finance')] + list(c.get('autres_contacts') or []):
+        if not isinstance(pp, dict): continue
+        for kk, rx, pr in (('tel_direct', TEL_RE, clean_tel), ('tel', TEL_RE, clean_tel), ('email', EMAIL_RE, str)):
+            if pp.get(kk): pp[kk] = sans_annotation(pp[kk], rx, pr, 'Contact ' + (pp.get('nom') or ''), c)
+    if sid(c.get('siren')) == '397727397':   # LOOK Fixations : les passes précédentes ont confondu avec LOOK Cycle
+        c['sources'] = [u for u in (c.get('sources') or []) if not re.search(r'look.?cycle|bicycleretailer|118500', u, re.I)] or ['https://look-bindings.com/history']
+        if c.get('note_contacts') and not c['note_contacts'].startswith('Attention'):
+            c['note_contacts'] = ("Attention : les recherches de coordonnées ont d'abord confondu cette usine avec LOOK Cycle ; "
+                                  "les numéros et contacts de LOOK Cycle cités ci-dessous ne sont pas ceux de l'usine de fixations. " + c['note_contacts'])
     if not c.get('telephone'): c.pop('telephone_a_confirmer', None); c.pop('telephone_groupe', None)
     c.pop('format_email', None)
     c['sources'] = [s for s in (c.get('sources') or []) if 'linkedin.com/in/' not in s]

@@ -70,6 +70,7 @@ for f in sorted(glob.glob(ROOT + '/ext/comptes_out_*.json')):
         if x.get('trouve') and x.get('perimetre') == 'societe' and (x.get('ca') is not None or x.get('resultat') is not None):
             CR[re.sub(r'\D', '', str(x.get('siren')))[-9:]] = x
 n_cr = 0
+proche = lambda a, b: a is not None and b is not None and abs(a - b) <= max(1000, 0.01 * abs(b))
 for c in companies:
     ca = c.get('ca_recent') if c.get('ca_recent') is not None else c.get('ca')
     res = c.get('res_recent') if c.get('res_recent') is not None else c.get('resultat')
@@ -79,8 +80,12 @@ for c in companies:
     c.pop('comptes_recherche', None)
     cr = CR.get(c.get('siren'))
     if cr and str(cr.get('annee') or '') > str(annee or ''):
-        if cr.get('ca') is not None: ca = cr['ca']
-        if cr.get('resultat') is not None: res, annee_res = cr['resultat'], cr['annee']
+        nca, nres = cr.get('ca'), cr.get('resultat')
+        if nres is None and proche(nca, c.get('ca')): nca, nres = c.get('ca'), c.get('resultat')   # le classement donnait déjà cet exercice
+        if proche(nca, ca): nca = ca          # chiffre arrondi d'un montant déjà connu : garder le montant exact
+        if proche(nres, res): nres = res
+        if nca is not None: ca = nca
+        if nres is not None: res, annee_res = nres, cr['annee']
         annee, source, n_cr = cr['annee'], 'recherche', n_cr + 1
         c['comptes_recherche'] = {k: cr.get(k) for k in ('annee', 'cloture', 'ca', 'resultat', 'citation', 'remarque')}
     plafond = max(PLANCHER, round(TAUX_CA * ca)) if ca else PLANCHER

@@ -1,0 +1,398 @@
+[
+ {
+  "rang": 4,
+  "siren": "301420626",
+  "nom": "TEXTILOT",
+  "fiche": {
+   "nom_affiche": "Textilot / Plus (Varennes-Vauzelles)",
+   "activite": "Grossiste en prêt-à-porter pour les rayons textile de la grande distribution, et magasins « Plus ».",
+   "groupe": "Indépendante, famille Dumange (holding Dumange Family)",
+   "resume": "Grossiste en prêt-à-porter fondé en 1974, fournisseur de la grande distribution en France, Belgique et Luxembourg, qui exploite aussi une dizaine de magasins « Plus » ; 500 à 999 salariés, siège à Varennes-Vauzelles. Les décisions se prennent dans la Nièvre par la famille Dumange, via la holding Dumange Family présidée par Sébastien Dumange.",
+   "angle_art": "Une œuvre pourrait être exposée dans le hall du siège de Varennes-Vauzelles, dans une salle de pause commune aux salariés, ou dans un magasin Plus ouvert au public, comme celui de Nevers. L'entreprise, l'un des plus gros employeurs privés de la Nièvre, est déjà liée à la vie locale par le rugby nivernais : soutenir un artiste vivant va dans le même sens. Jusqu'à 879 000 € déductibles par an d'après les comptes de 2022, à recalculer sur le dernier exercice.",
+   "qui_appeler": "Appeler le standard du siège au 03 86 71 62 08 et demander Sébastien Dumange, président de la holding familiale qui dirige Textilot, ou son secrétariat. À défaut, demander la directrice administrative et financière (poste signalé sans nom, à confirmer) ou le responsable administratif et financier.",
+   "vigilance": [
+    "Bénéfice 2025 de 130 K€ seulement (CA 167 M€), contre 8,98 M€ en 2022, base du plafond affiché : l'intérêt fiscal est à vérifier avec le comptable.",
+    "Le nom de la directrice administrative et financière n'est pas connu (poste signalé par une source faible) : le demander au standard.",
+    "Mêmes décideurs que la holding Dumange Family : un seul appel pour les deux."
+   ],
+   "questions": [
+    "Le siège de Varennes-Vauzelles a-t-il un hall ou une salle de pause commune à tous les salariés, ou préférez-vous exposer l'œuvre dans un magasin Plus ?",
+    "Votre expert-comptable peut-il confirmer l'intérêt de la déduction au vu du résultat 2025, et l'achat serait-il porté par Textilot ou par la holding ?"
+   ],
+   "priorite_conseillee": "Haute",
+   "raison": "Entreprise familiale bénéficiaire, décidée dans la Nièvre, avec un siège et des magasins où exposer, même si le bénéfice 2025 est faible."
+  },
+  "avant": {
+   "plafond": 878581,
+   "resultat": 8978024,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 835000,
+   "resultat": 130000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 4175000,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 167000000,
+   "resultat": 130000,
+   "citation": "CA 2025 de 167 M€ pour un résultat net de 130 K€, contre 8,98 M€ de bénéfice en 2022",
+   "remarque": ""
+  },
+  "priorite_calculee": "Haute"
+ },
+ {
+  "rang": 15,
+  "siren": "523229268",
+  "nom": "SIMONNEAU AUTOMOBILES",
+  "fiche": {
+   "nom_affiche": "Renault Dacia Nevers (groupe Simonneau)",
+   "activite": "Concession Renault et Dacia (vente et atelier)",
+   "groupe": "Groupe familial Simonneau (holding à Saint-Doulchard, Cher)",
+   "resume": "Concession Renault et Dacia de Nevers, ZA Les Commailles à Varennes-Vauzelles, avec un atelier rue Gay-Lussac et le site Renault de Saint-Léger-des-Vignes ; 91 salariés en 2024 et 43,7 M€ de CA en 2025. Elle appartient au groupe familial Simonneau, né de la concession Renault de Cosne en 1970, et la décision revient probablement à la holding de Philippe Simonneau à Saint-Doulchard (Cher).",
+   "angle_art": "Une œuvre a sa place dans le showroom de Varennes-Vauzelles, vue chaque jour par les clients qui achètent ou font entretenir leur véhicule, et par les équipes. Pour un groupe familial né à Cosne, c'est une façon visible de montrer son ancrage dans la Nièvre. Jusqu'à 223 000 € déductibles par an.",
+   "qui_appeler": "Standard de la concession 03 86 93 00 00 (liste officielle Renault) : demander le nom du directeur de la concession, puis Philippe Simonneau, dirigeant du groupe. À défaut, demander le responsable administratif et financier du groupe, probablement au siège de Saint-Doulchard.",
+   "vigilance": [
+    "Décision probablement prise à la holding familiale de Saint-Doulchard (Cher), pas à Nevers.",
+    "Ne pas utiliser l'e-mail contact@groupesimonneau.fr, introuvable (le domaine du groupe serait groupe-simonneau.fr).",
+    "Pierre Simonneau était directeur adjoint du groupe en 2020 : fonction actuelle non confirmée."
+   ],
+   "questions": [
+    "Qui valide ce type d'achat dans le groupe : la direction de la concession ou la holding de Saint-Doulchard ?",
+    "Le showroom de Varennes-Vauzelles a-t-il un mur ou un espace d'accueil où une œuvre resterait visible des clients pendant cinq ans ?"
+   ],
+   "priorite_conseillee": "Haute",
+   "raison": "Concession bénéficiaire avec showroom ouvert au public, dans un groupe familial régional né à Cosne et dirigé par Philippe Simonneau."
+  },
+  "avant": {
+   "plafond": 223061,
+   "resultat": 539507,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 218500,
+   "resultat": 549000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 1092500,
+   "regime": "IS",
+   "espace_txt": "Surface de vente ouverte au public"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 43700000,
+   "resultat": 549000,
+   "citation": "Comptes 2025 : CA 43,7 M€ (-2,1 %) et résultat net 549 K€",
+   "remarque": ""
+  },
+  "priorite_calculee": "Haute"
+ },
+ {
+  "rang": 16,
+  "siren": "422593491",
+  "nom": "TOYOTA CONCES NEVERS CENTRAL PARC AUTOMOBILE",
+  "fiche": {
+   "nom_affiche": "Toyota Nevers (groupe Vincent)",
+   "activite": "Concession Toyota (vente et après-vente)",
+   "groupe": "Groupe familial Vincent (Rodolphe Vincent, berceau à Nevers)",
+   "resume": "Central Parc Automobile exploite la concession Toyota de Nevers, 1 route de Paris à Varennes-Vauzelles, avec 50 à 99 salariés, au sein du groupe Vincent (environ 16 concessions Peugeot, Citroën/DS et Toyota dans la Nièvre, le Cher, l'Allier et le Loiret). La décision revient probablement à Rodolphe Vincent, président de la société et dirigeant de ce groupe familial régional, sans siège extérieur connu.",
+   "angle_art": "Une œuvre peut être exposée dans le showroom du 1 route de Paris, vue par les clients venus choisir ou faire entretenir leur véhicule. Pour un groupe familial dont le berceau est Nevers, elle marque un attachement au territoire auprès de la clientèle locale. Jusqu'à 223 000 € déductibles par an.",
+   "qui_appeler": "Standard de la concession 03 86 71 69 00 (fiche officielle Toyota) : demander Rodolphe Vincent, président, ou le directeur de la concession. À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Une fiche Mappy indique la concession « fermée » : vérifier en début d'appel que le site du 1 route de Paris est bien actif.",
+    "Aucun responsable financier connu et sources sur le groupe antérieures à 2019 : demander s'il travaille à Nevers ou à Bourges/Saint-Doulchard."
+   ],
+   "questions": [
+    "Qui valide ce type d'achat dans le groupe Vincent : Rodolphe Vincent ou le responsable administratif et financier ?",
+    "Le showroom a-t-il un espace d'accueil où une œuvre resterait visible des clients pendant cinq ans ?"
+   ],
+   "priorite_conseillee": "Haute",
+   "raison": "Concession bénéficiaire avec showroom ouvert au public, dirigée par un groupe familial dont le berceau est Nevers."
+  },
+  "avant": {
+   "plafond": 222880,
+   "resultat": 980611,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 222880,
+   "resultat": 719269,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 1114400,
+   "regime": "IS",
+   "espace_txt": "Surface de vente ouverte au public"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 44575907,
+   "resultat": 719269,
+   "citation": "Résultat net 2025 au registre : 719 269 € (le 980 611 € de la fiche correspond à un autre exercice que le CA 2025 de 44,6 M€)",
+   "remarque": "Le CA 2025 cité (44,6 M€) est celui du champ ca, repris au chiffre exact de 44 575 907 € ; seul le résultat net 2025 est nouveau."
+  },
+  "priorite_calculee": "Haute"
+ },
+ {
+  "rang": 19,
+  "siren": "349431254",
+  "nom": "GRANDS CHAMPS AUTOMOBILES",
+  "fiche": {
+   "nom_affiche": "SUMA Volkswagen Nevers et Cosne",
+   "activite": "Concessions Volkswagen, VW Utilitaires, SEAT, Cupra et Škoda (vente et après-vente)",
+   "groupe": "Groupe SUMA (holding SUMA Invest, siège à Limonest, Rhône)",
+   "resume": "Société du groupe SUMA qui exploite le pôle Volkswagen Group de Nevers, ZAC des Grands Champs (Volkswagen, VW Utilitaires, SEAT, Cupra, Škoda), et le site SUMA Volkswagen de Cosne, 1 rue des Gabarriers ; 50 à 99 salariés et 38,4 M€ de CA en 2024. La décision et la finance sont probablement centralisées au siège du groupe à Limonest (Rhône), dirigé par Richard Vivès ; Eddy Michel est directeur général délégué selon le registre.",
+   "angle_art": "Une œuvre a sa place dans le showroom de Cosne, rue des Gabarriers, ou dans celui de Nevers, vue par les clients venus choisir ou faire entretenir leur véhicule. Présente à Nevers et à Cosne, la concession montrerait ainsi son attachement local à sa clientèle. Jusqu'à 195 000 € déductibles par an.",
+   "qui_appeler": "Standard de Nevers 03 86 36 18 74, ou site de Cosne 03 58 05 30 30 : demander le directeur de la concession et Eddy Michel, directeur général délégué. À défaut, demander le responsable administratif et financier de SUMA Invest à Limonest.",
+   "vigilance": [
+    "Décision et finance probablement centralisées chez SUMA Invest à Limonest (Rhône).",
+    "Rôle d'Eddy Michel connu par le seul registre ; le mandat de Richard Vivès comme président de cette société n'est pas vérifié.",
+    "À Cosne, seul le site de la rue des Gabarriers est actif ; Audi Nevers dépend d'une autre société du groupe (Nevers Premium Motors).",
+    "Vérifier que le 03 86 36 18 74 est bien celui de la concession, deux adresses étant citées à Nevers."
+   ],
+   "questions": [
+    "L'achat peut-il être décidé par la direction des concessions de Nevers et Cosne, ou doit-il passer par SUMA Invest à Limonest ?",
+    "Quel showroom, Cosne ou Nevers, peut accueillir une œuvre visible des clients pendant cinq ans ?"
+   ],
+   "priorite_conseillee": "Moyenne",
+   "raison": "Bénéficiaire avec des showrooms à Nevers et Cosne, mais décision et finance probablement centralisées au siège du groupe SUMA à Limonest."
+  },
+  "avant": {
+   "plafond": 194827,
+   "resultat": 523846,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 192000,
+   "resultat": 523846,
+   "benefice": true,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "prix_max": 960000,
+   "regime": "IS",
+   "espace_txt": "Surface de vente ouverte au public"
+  },
+  "comptes_recherche": {
+   "annee": "2024",
+   "cloture": null,
+   "ca": 38400000,
+   "resultat": 523846,
+   "citation": "CA 2024 de 38,4 M€ (-1,5 %) pour un résultat net de 524 K€ (comptes déposés en janvier 2026).",
+   "remarque": "Le recul de 1,5 % indique que le CA de référence (38,97 M€) est celui de 2023, alors que le résultat 2024 (524 K€) est déjà le résultat de référence, repris au chiffre exact de 523 846 €."
+  },
+  "priorite_calculee": "Moyenne"
+ },
+ {
+  "rang": 22,
+  "siren": "651880437",
+  "nom": "POLYCLINIQUE DU VAL DE LOIRE",
+  "fiche": {
+   "nom_affiche": "Polyclinique du Val de Loire (Elsan, Nevers)",
+   "activite": "Clinique privée : chirurgie, cancérologie, cardiologie et soins de suite et de réadaptation.",
+   "groupe": "Groupe Elsan (siège à Paris)",
+   "resume": "Clinique privée du groupe Elsan à Nevers, boulevard Jérôme Trésaguet : 80 lits, 35 places d'ambulatoire, plus de 50 médecins spécialistes et une équipe d'environ 200 personnes (160 salariés en 2025), pour un CA 2025 de 29,8 M€. Filiale à 100 % présidée par Elsan SAS, elle n'a pas d'autonomie budgétaire pour ce type de dépense : la décision se prend au siège d'Elsan à Paris, éventuellement via la direction territoriale Bourgogne-Franche-Comté.",
+   "angle_art": "Une œuvre pourrait être installée dans le hall d'accueil ou dans une salle d'attente de la polyclinique, ouverts au public. Elle serait vue chaque jour par les patients, leurs proches et les équipes ; pour la clinique d'un grand groupe, c'est aussi une marque d'attache à Nevers. Son plafond permet jusqu'à 149 000 € déductibles par an.",
+   "qui_appeler": "Appeler le standard 03 86 93 52 58 (confirmé par le livret d'accueil Elsan) et demander le nom du directeur actuel de la polyclinique et celui du responsable administratif et financier ou du contrôleur de gestion du site. Au groupe, le décideur finance est Olivier Regnard, directeur général délégué aux finances d'Elsan (à confirmer) ; à défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Décision au siège d'Elsan à Paris : la clinique, filiale à 100 %, n'a pas d'autonomie budgétaire pour ce type de dépense.",
+    "Directeur actuel inconnu : Jean-Claude Penet (donnée CRM) n'apparaît dans aucune source, faire confirmer le nom au standard.",
+    "Résultat à vérifier : la fiche retient 1,05 M€, mais l'actualité indique un résultat net 2025 de 119 K€.",
+    "Olivier Regnard est le DAF du groupe depuis septembre 2024, pas celui de la clinique, et son maintien en poste n'est pas confirmé."
+   ],
+   "questions": [
+    "Le hall d'accueil ou une salle d'attente pourrait-il recevoir une œuvre exposée en permanence pendant cinq ans ?",
+    "Ce type d'achat peut-il être proposé par la direction de la polyclinique, ou doit-il être validé par la direction financière d'Elsan à Paris ?"
+   ],
+   "priorite_conseillee": "Moyenne",
+   "raison": "Clinique bénéficiaire avec un hall ouvert au public, mais la décision se prend au siège d'Elsan à Paris, sans autonomie budgétaire locale."
+  },
+  "avant": {
+   "plafond": 148893,
+   "resultat": 1053051,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 148893,
+   "resultat": 119000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 744465,
+   "regime": "IS",
+   "espace_txt": "Hall et salles d'attente ouverts au public"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 29800000,
+   "resultat": 119000,
+   "citation": "Comptes 2025 : CA 29,8 M€, résultat net 119 K€.",
+   "remarque": "CA 2025 (29,8 M€) égal à l'arrondi du CA de référence (29 778 512 €) alors que le résultat tombe de 1,05 M€ à 119 K€ : exercice et source à confirmer."
+  },
+  "priorite_calculee": "Moyenne"
+ },
+ {
+  "rang": 32,
+  "siren": "393676895",
+  "nom": "ALFA LAVAL SPIRAL",
+  "fiche": {
+   "nom_affiche": "Alfa Laval Spiral (Nevers)",
+   "activite": "Usine de fabrication et d'entretien d'échangeurs de chaleur spiralés pour l'industrie.",
+   "groupe": "Groupe Alfa Laval (Suède)",
+   "resume": "Site industriel de Nevers créé en 1947, premier site de production d'Alfa Laval en France et centre d'excellence des échangeurs spiralés, avec environ 115 salariés et un CA 2025 de 23,2 M€. La décision se prend probablement hors de la Nièvre, à la direction France ou au groupe suédois : le président de la SAS est un mandataire du groupe et aucun directeur de site n'est publié.",
+   "angle_art": "Une œuvre pourrait être installée dans le hall d'entrée de l'usine ou dans une salle de pause ouverte à tous les salariés, où la verraient chaque jour les quelque 115 personnes du site. Elle ferait écho à l'histoire industrielle de ce site ouvert en 1947. Le plafond permet jusqu'à 128 000 € déductibles par an, mais la société est en perte (0,7 M€ en 2024, 3,56 M€ en 2025) : la déduction ne l'aidera qu'une fois revenue aux bénéfices.",
+   "qui_appeler": "Appeler l'usine au 03 86 59 83 01 (numéro non confirmé) et demander le nom du directeur du site de Nevers et du contrôleur de gestion de l'usine, le président Johan Vanhoren étant un mandataire du groupe peu accessible. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Pertes en hausse : 0,7 M€ en 2024 puis 3,56 M€ en 2025, avec un CA en baisse à 23,2 M€ ; le plafond de 128 000 € est calculé sur le CA 2024 (25,7 M€).",
+    "Décision probablement prise à la direction France ou au groupe Alfa Laval en Suède.",
+    "Le 03 86 59 83 01 est introuvable en ligne : à vérifier à l'appel.",
+    "Aucun directeur de site ni contrôleur de gestion identifié."
+   ],
+   "questions": [
+    "Le site de Nevers peut-il engager seul ce type d'achat, ou faut-il passer par la direction France d'Alfa Laval ?",
+    "Le site prévoit-il un retour aux bénéfices, condition pour que la déduction ait un intérêt ?"
+   ],
+   "priorite_conseillee": "Basse",
+   "raison": "Société en perte deux années de suite, dont la décision relève du groupe Alfa Laval."
+  },
+  "avant": {
+   "plafond": 128452,
+   "resultat": -699635,
+   "benefice": false,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 116000,
+   "resultat": -3560000,
+   "benefice": false,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 580000,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 23200000,
+   "resultat": -3560000,
+   "citation": "Comptes 2025 déposés (BODACC du 08/10/2026) : CA 23,2 M€ (contre 25,7 M€ en 2024) et perte nette de 3,56 M€, après -0,7 M€ en 2024 ; capital porté à 1,35 M€ (BODACC du 17/02/2026).",
+   "remarque": ""
+  },
+  "priorite_calculee": "Basse"
+ },
+ {
+  "rang": 38,
+  "siren": "621880012",
+  "nom": "ETABLISSEMENTS SIMONNEAU",
+  "fiche": {
+   "nom_affiche": "Renault Cosne (groupe Simonneau)",
+   "activite": "Concession Renault et Dacia de Cosne-Cours-sur-Loire (vente et atelier).",
+   "groupe": "Groupe familial Simonneau (Philippe Simonneau Holding, Saint-Doulchard, Cher)",
+   "resume": "Concession Renault et Dacia de l'avenue du 85e de Ligne à Cosne, berceau du groupe familial Simonneau (premier contrat Renault en 1970), avec 20 à 49 salariés et un CA de 18,2 M€ en 2024. Le site est dirigé, selon Renault, par Pierre Simonneau (à confirmer), mais la décision revient à la holding familiale de Saint-Doulchard (Cher), présidée par Philippe Simonneau.",
+   "angle_art": "Une œuvre a sa place dans le showroom de l'avenue du 85e de Ligne, vue chaque jour par les clients venus acheter ou faire entretenir leur véhicule. Pour un groupe familial dont Cosne est le berceau, c'est un signe d'attachement visible à la ville. Jusqu'à 91 000 € déductibles par an, mais la société était en perte en 2024 (167 000 €) : la déduction ne jouera que sur un exercice bénéficiaire ; les comptes 2025 indiquent un bénéfice de 249 000 €, à confirmer.",
+   "qui_appeler": "Appeler la concession au 03 86 26 81 81 (page officielle Renault) et demander Pierre Simonneau, directeur du site, puis le nom du responsable administratif et financier du groupe, sans doute au siège de Saint-Doulchard. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Perte de 167 K€ en 2024 ; la fiche annonce un bénéfice de 249 K€ en 2025, à confirmer avec eux ou leur comptable.",
+    "Décision à la holding familiale de Saint-Doulchard (Cher), présidée par Philippe Simonneau, pas à Cosne.",
+    "Le rôle de Pierre Simonneau, donné comme directeur par la page Renault, n'a pas été recoupé.",
+    "Le groupe a aussi des concessions à Nevers et à Decize : coordonner l'approche avec ses autres sociétés."
+   ],
+   "questions": [
+    "L'exercice 2025 s'est-il bien clos en bénéfice, et qui suit la fiscalité de la société au groupe ?",
+    "Le showroom de Cosne a-t-il un emplacement où une œuvre pourrait rester cinq ans à la vue des clients, et peut-on passer le voir avec vous ?"
+   ],
+   "priorite_conseillee": "Moyenne",
+   "raison": "Concession voisine à Cosne avec un showroom et un bénéfice 2025 annoncé après la perte de 2024 (à confirmer), mais la décision revient à la holding familiale de Saint-Doulchard (Cher), hors de la Nièvre."
+  },
+  "avant": {
+   "plafond": 91008,
+   "resultat": -166623,
+   "benefice": false,
+   "annee": "2024"
+  },
+  "apres": {
+   "plafond": 99000,
+   "resultat": 249000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 495000,
+   "regime": "IS",
+   "espace_txt": "Surface de vente ouverte au public"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 19800000,
+   "resultat": 249000,
+   "citation": "Comptes 2025 : CA 19,8 M€ et résultat net 249 K€, après une perte de 167 K€ en 2024 (CA 18,2 M€).",
+   "remarque": "La fiche rédigée présente ce bénéfice 2025 de 249 K€ comme « à confirmer »."
+  },
+  "priorite_calculee": "Moyenne"
+ },
+ {
+  "rang": 41,
+  "siren": "392607545",
+  "nom": "NOUVELLE IMPRIMERIE LABALLERY",
+  "fiche": {
+   "nom_affiche": "Imprimerie Laballery, Clamecy",
+   "activite": "Imprimerie de livres pour les éditeurs (offset, numérique, impression à la demande).",
+   "groupe": "Indépendante : SCOP détenue par ses salariés",
+   "resume": "Imprimerie de livres fondée en 1925 à Clamecy, en SCOP depuis 1993, avec environ 85 salariés, un CA 2025 de 20 M€ et une seconde imprimerie, Floch, à Mayenne depuis 2016. La décision se prend à Clamecy, par Emilie Sagnelonge, présidente du conseil d'administration et directrice générale, et selon le montant par le conseil d'administration de salariés.",
+   "angle_art": "Une œuvre peut être installée dans le hall d'accueil ou une salle de pause de l'imprimerie de Clamecy, à la vue de tous les salariés, qui sont aussi associés. Pour une maison qui imprime des livres pour les éditeurs depuis 1925, une œuvre originale fait écho à son métier et à son ancrage à Clamecy. La société est bénéficiaire (1,52 M€ en 2024, 1,26 M€ en 2025) : jusqu'à 100 000 € déductibles par an.",
+   "qui_appeler": "Appeler le 03 86 27 55 55 (numéro du CRM, à confirmer) et demander Emilie Sagnelonge, présidente-directrice générale, ou Sarah Petit, administratrice, citée comme contact dans une offre d'emploi. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité.",
+   "vigilance": [
+    "Nouvelle direction : Emilie Sagnelonge depuis 2025-2026 ; David Perrain et Hubert Pédurand, cités dans la presse, ne sont plus dirigeants.",
+    "Le 03 86 27 55 55 et contact@laballery.fr n'ont pas été reconfirmés sur une source officielle.",
+    "En SCOP, un achat de ce montant peut devoir passer par le conseil d'administration.",
+    "Investissement « Laballery 3 » en cours (2,92 M€ HT) et bénéfice 2025 en baisse : le moment budgétaire est à vérifier."
+   ],
+   "questions": [
+    "Un achat de ce type peut-il être décidé par la direction générale, ou doit-il passer en conseil d'administration ?",
+    "La comptabilité est-elle commune avec l'imprimerie Floch, et quel expert-comptable validerait la déduction ?"
+   ],
+   "priorite_conseillee": "Haute",
+   "raison": "SCOP bénéficiaire et indépendante, décidée à Clamecy, avec environ 85 salariés-associés qui verraient l'œuvre."
+  },
+  "avant": {
+   "plafond": 99998,
+   "resultat": 1518919,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 99998,
+   "resultat": 1260000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 499990,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 20000000,
+   "resultat": 1260000,
+   "citation": "CA 2025 de 20 M€ (+17 %) ; bénéficiaire depuis 2024 (1,52 M€ en 2024, 1,26 M€ en 2025) après des pertes en 2022-2023 ; projet d'investissement « Laballery 3 » (2,92 M€ HT, dont 730 K€ de FEDER) ; Emilie Sagnelonge présidente du conseil d'administration depuis l'été 2025 et directrice générale depuis janvier 2026, succédant à David Perrain et Hubert Pédurand.",
+   "remarque": "CA 2025 arrondi (20 M€) quasi égal au CA de référence (19 999 538 €), alors que le résultat de référence (1,52 M€) est daté 2024 et que Xerfi donne 17 M€ de CA en 2024 : année du CA de référence douteuse."
+  },
+  "priorite_calculee": "Haute"
+ }
+]

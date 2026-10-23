@@ -107,7 +107,8 @@ for c in out:
     elif active and c['priorite'] in ('Haute', 'Moyenne') and e >= 10 and c['secteur'] != 'Holdings & finance':
         vague = 1 if d <= 5 else (2 if d <= 30 else 3)
     c['vague'] = vague
-    c['opposition_prospection'] = c['rang'] in OPPOSITION
+    # opposition relevée sur Pappers : True ; None = pas encore vérifiée (la page le signale avant tout mail)
+    c['opposition_prospection'] = True if c['rang'] in OPPOSITION else None
     c['site_cosne'] = (c.get('distance_cosne_km') is not None and c['distance_cosne_km'] <= 5 and c['rang'] != 59) or c['rang'] in LOCAL_COSNE or c['rang'] in (59, 88)
     if c['rang'] in NOMS_COURTS: c['nom_court'] = NOMS_COURTS[c['rang']]
 # formulations non vérifiées sur les établissements (on ne sait pas encore lequel est le bar)
@@ -136,7 +137,7 @@ for r, t in ANGLE_OVERRIDES.items():
 CORRECTIONS_FICHES = {
   35: dict(nom_commercial='LOOK Fixations (fixations de ski, groupe Rossignol)',
            groupe='Groupe Rossignol (fixations de ski LOOK depuis 1994)',
-           telephone=None, site_web='https://look-bindings.com', linkedin=None, actualite=None,
+           telephone=None, site_web='https://look-bindings.com', linkedin=None, actualite=None, sources=['https://look-bindings.com/history'],
            description="Usine des fixations de ski LOOK, 2 rue de la Pique à Nevers depuis 1974, propriété du groupe Rossignol depuis 1994 : "
                        "site de production d'environ 100 salariés, la R&D étant à Saint-Jean-de-Moirans (Isère). "
                        "À ne pas confondre avec LOOK Cycle (vélos et pédales), autre société nivernaise.",

@@ -1,0 +1,202 @@
+[
+ {
+  "rang": 88,
+  "siren": "571880301",
+  "nom": "LE JOURNAL DU CENTRE",
+  "fiche": {
+   "nom_affiche": "Le Journal du Centre (groupe Centre France)",
+   "activite": "Quotidien régional de la Nièvre, édité à Nevers, avec des agences à Cosne-Cours-sur-Loire, Decize et Clamecy.",
+   "groupe": "Groupe Centre France – La Montagne (siège à Clermont-Ferrand)",
+   "resume": "Quotidien régional de la Nièvre, filiale du groupe Centre France, avec 50 à 99 salariés, un siège à Nevers et une agence à Cosne (31 rue Saint-Agnan) ; CA 2025 de 8,19 M€, en baisse depuis 2022, et bénéfice de 46,8 K€. La décision se prend probablement au siège du groupe à Clermont-Ferrand, où sont pilotées les finances ; le PDG au registre, Didier Martinez, n'est cité par aucune source récente.",
+   "angle_art": "Une œuvre pourrait être exposée dans le hall d'accueil du journal à Nevers ou dans une salle de pause commune à tous les salariés. Pour le quotidien du département, c'est un geste cohérent avec sa place dans la vie locale, visible des équipes et des visiteurs. Jusqu'à 43 000 € déductibles par an, mais avec un bénéfice 2025 réduit à 46,8 K€, l'intérêt réel est à vérifier avec le comptable.",
+   "qui_appeler": "Aucun standard trouvé : relever le numéro sur la page contact de lejdc.fr ou, à défaut, passer par la régie du groupe à Nevers, Centre France Publicité (03 86 59 89 70, annuaire Cylex), et demander la direction du Journal du Centre. Demander Didier Martinez, PDG au registre, ou le directeur délégué du journal ; à défaut, le responsable administratif et financier.",
+   "vigilance": [
+    "Décision probablement au siège de Centre France à Clermont-Ferrand ; le DAF du groupe, Philippe de Lambertye (nommé fin 2023), est à reconfirmer.",
+    "Didier Martinez, PDG au registre, n'apparaît dans aucune source de presse : vérifier qu'il est en poste.",
+    "Groupe en restructuration : nouveau DG, Francis Gaunand, depuis décembre 2025 et 152 suppressions de postes annoncées en avril 2026.",
+    "Le plafond de 43 000 € et le bénéfice de 290 K€ de la fiche portent sur un exercice antérieur (CA 8,62 M€) ; en 2025, CA de 8,19 M€ et bénéfice de 46,8 K€, donc plafond un peu plus bas."
+   ],
+   "questions": [
+    "Dans vos locaux de Nevers, dont le nouvel établissement du 72 avenue Colbert, y a-t-il un hall d'accueil ou une salle de pause commune où une œuvre pourrait rester 5 ans ?",
+    "Un achat de ce type peut-il être décidé par la direction du Journal du Centre, ou doit-il être validé par le groupe Centre France à Clermont-Ferrand ?"
+   ],
+   "priorite_conseillee": "Moyenne",
+   "raison": "Bénéficiaire mais en recul, sans standard trouvé, et la décision relève probablement du groupe Centre France à Clermont-Ferrand."
+  },
+  "avant": {
+   "plafond": 43121,
+   "resultat": 290081,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 40950,
+   "resultat": 46800,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 204750,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 8190000,
+   "resultat": 46800,
+   "citation": "CA 2025 : 8,19 M€ (en baisse depuis 2022), résultat net 46,8 K€.",
+   "remarque": ""
+  },
+  "priorite_calculee": "Moyenne"
+ },
+ {
+  "rang": 90,
+  "siren": "338657604",
+  "nom": "STYL'HABITAT",
+  "fiche": {
+   "nom_affiche": "Styl'Habitat (Nevers, agence de Cosne)",
+   "activite": "Construction de maisons individuelles pour particuliers (Nièvre, Cher, Indre, Loiret).",
+   "groupe": "Holding GBS II, vraisemblablement groupe Babeau Seguin (Troyes), à confirmer",
+   "resume": "Constructeur de maisons individuelles de 10 salariés, avec un siège transféré à Nevers en 2026 et des agences dont une à Cosne (29 boulevard de la République) ; le CA 2025 recule à 6,52 M€, contre 8,33 M€, avec une perte de 312 K€. La société est présidée par la holding GBS II, vraisemblablement liée au groupe Babeau Seguin de Troyes, où la décision se prend probablement ; le directeur général, Arnaud Labaune, peut porter le dossier localement.",
+   "angle_art": "Une œuvre pourrait être exposée dans l'espace d'accueil d'une agence ouverte aux clients, par exemple à Cosne ou à Nevers. Pour un constructeur qui reçoit des particuliers, c'est un élément d'image et d'ancrage local. La société est en perte en 2025 (312 000 €) : jusqu'à 42 000 € déductibles par an, calculés sur l'ancien CA de 8,33 M€, mais la déduction ne servira qu'une fois la société redevenue bénéficiaire.",
+   "qui_appeler": "Appeler le 03 86 36 57 55 (standard de l'agence-siège de Varennes-Vauzelles selon le site, à confirmer depuis le transfert à Nevers) ou l'agence de Cosne au 03 58 52 00 00, et demander Arnaud Labaune, directeur général. À défaut, demander le responsable administratif et financier, et si la comptabilité est tenue sur place ou au siège du groupe à Troyes.",
+   "vigilance": [
+    "Perte de 312 K€ en 2025, après un bénéfice de 108 K€ l'exercice précédent (chiffre encore repris dans la fiche de calcul), et CA en net recul : la déduction n'allège l'impôt qu'en année bénéficiaire.",
+    "Décision probablement au groupe Babeau Seguin à Troyes ; le rattachement n'est attesté qu'en 2014 et le DAF du groupe, Vincent Castaing, est à confirmer.",
+    "Siège transféré à Nevers en 2026 : le 03 86 36 57 55 de Varennes-Vauzelles n'est confirmé par aucune autre source.",
+    "Arnaud Labaune, directeur général depuis avril 2025, n'est connu que par le registre."
+   ],
+   "questions": [
+    "L'agence de Cosne ou celle de Nevers a-t-elle un espace d'accueil des clients où une œuvre pourrait rester exposée 5 ans ?",
+    "Un achat de ce type se décide-t-il à Nevers ou au siège du groupe Babeau Seguin à Troyes, et qui tient votre comptabilité ?"
+   ],
+   "priorite_conseillee": "Basse",
+   "raison": "Perte de 312 K€ en 2025 et décision probablement au groupe Babeau Seguin à Troyes, malgré une agence à Cosne."
+  },
+  "avant": {
+   "plafond": 41662,
+   "resultat": 107617,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 32600,
+   "resultat": -312000,
+   "benefice": false,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 163000,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 6520000,
+   "resultat": -312000,
+   "citation": "CA 2025 en net recul (6,52 M€ contre 8,33 M€) avec une perte de 312 K€.",
+   "remarque": "Perte de 312 K€ non qualifiée de nette dans le texte, retenue comme résultat net."
+  },
+  "priorite_calculee": "Basse"
+ },
+ {
+  "rang": 96,
+  "siren": "404816712",
+  "nom": "CIA IMPRIMERIE",
+  "fiche": {
+   "nom_affiche": "CIA Graphic imprimerie, Pougues-les-Eaux",
+   "activite": "Imprimerie de labeur (tous travaux d'impression), titulaire de marchés publics nationaux.",
+   "groupe": "Indépendante, présidée par la holding 2B Finance et Conseils (dirigeant à confirmer)",
+   "resume": "Imprimerie créée en 1996 dans la zone industrielle de Pougues-les-Eaux, avec 30 salariés en 2025 et un CA en recul, de 7,73 M€ en 2023 à 5,74 M€ en 2025. Elle est présidée par la holding 2B Finance et Conseils, dirigée selon le registre par Xavier Boulot, et la décision se prend probablement sur place.",
+   "angle_art": "Une œuvre pourrait être installée dans un espace commun de l'imprimerie accessible aux 30 salariés, comme le hall ou la salle de pause. Pour un métier de l'image et du papier, une œuvre originale est un choix cohérent, visible chaque jour par les équipes. La société reste bénéficiaire (318 000 € de résultat net dans les comptes ayant servi au calcul, 163 000 € en 2025) : jusqu'à 39 000 € déductibles par an sur un CA de 7,73 M€, plafond à recalculer sur le CA 2025.",
+   "qui_appeler": "Aucun numéro trouvé : chercher « CIA Graphic » Pougues-les-Eaux sur PagesJaunes ou dans l'annuaire du réseau Imprifrance, puis demander Xavier Boulot, président de la holding 2B Finance et Conseils (nom à confirmer). Demander aussi qui tient la comptabilité ; à défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Aucun numéro, site ni e-mail trouvé ; le 03 86 90 96 00 vu en ligne est celui de la mairie de Pougues.",
+    "Le nom du dirigeant, Xavier Boulot, ne vient que du registre et n'a aucune trace en ligne : à confirmer à l'appel.",
+    "Résultat d'exploitation négatif depuis 2023 ; le résultat net reste positif, mais la situation est à vérifier pour l'exercice en cours.",
+    "CA 2025 en recul à 5,74 M€ : le plafond indiqué, calculé sur un CA antérieur, sera plus bas."
+   ],
+   "questions": [
+    "L'imprimerie a-t-elle un hall ou une salle de pause commune à tous les salariés où une œuvre pourrait rester 5 ans ?",
+    "Qui décide d'un achat de ce type, le dirigeant de la holding 2B Finance et Conseils ou quelqu'un sur le site, et quel est votre expert-comptable ?"
+   ],
+   "priorite_conseillee": "Moyenne",
+   "raison": "PME indépendante bénéficiaire qui décide probablement sur place, mais sans aucun numéro, avec un dirigeant non confirmé et un résultat d'exploitation négatif depuis 2023."
+  },
+  "avant": {
+   "plafond": 38626,
+   "resultat": 317557,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 28700,
+   "resultat": 163000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 143500,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 5740000,
+   "resultat": 163000,
+   "citation": "CA en recul de 7,73 M€ (2023) à 5,74 M€ (2025), résultat d'exploitation négatif depuis 2023 mais résultat net positif (163 K€ en 2025).",
+   "remarque": ""
+  },
+  "priorite_calculee": "Moyenne"
+ },
+ {
+  "rang": 99,
+  "siren": "887120046",
+  "nom": "MORVAN DISTRIBUTION",
+  "fiche": {
+   "nom_affiche": "Weldom Clamecy (groupe Schiever)",
+   "activite": "Exploitation du magasin de bricolage Weldom de Clamecy et d'un U Express à Lormes.",
+   "groupe": "Groupe familial Schiever (holding Anciens Ets Georges Schiever et Fils, siège à Avallon, Yonne)",
+   "resume": "Filiale du groupe familial de distribution Schiever qui exploite le Weldom de Clamecy et un U Express à Lormes : 20 à 49 salariés, 7,17 M€ de CA et 241 000 € de bénéfice en 2024. Elle est présidée par la holding du groupe et la décision se prend vraisemblablement au siège d'Avallon (Yonne), qui gère une trentaine de magasins Weldom de façon centralisée.",
+   "angle_art": "Une œuvre pourrait être exposée dans la surface de vente du Weldom de Clamecy, à un endroit où passent tous les clients, comme l'entrée ou les caisses. Elle serait vue chaque jour par la clientèle locale et marquerait l'attachement du magasin à Clamecy. La société est bénéficiaire (321 000 € de résultat net dans les comptes ayant servi au calcul, 241 000 € en 2024) : jusqu'à 37 000 € déductibles par an sur un CA de 7,32 M€, plafond à recalculer sur le CA 2024.",
+   "qui_appeler": "Appeler le magasin Weldom de Clamecy au 03 86 27 11 89 et demander le directeur du magasin (nom inconnu ; vérifier s'il s'agit de Dominique De Matteis, mandataire au registre), puis qui décide au groupe Schiever à Avallon et les coordonnées de sa direction administrative et financière. À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Décision vraisemblablement au siège du groupe Schiever à Avallon (Yonne), où la finance est centralisée.",
+    "Le 03 86 27 11 89 est le numéro du magasin (page weldom.fr), non reconfirmé lors de la dernière vérification.",
+    "Vincent Picq n'est cité comme PDG du groupe que par une fiche Indeed et une source de 2006 ; le rôle de Dominique De Matteis, mandataire au registre, est inconnu.",
+    "Le Weldom est au 8 route de Beaugy, pas à l'adresse du siège social (route d'Orléans) ; aucun numéro trouvé pour le U Express de Lormes."
+   ],
+   "questions": [
+    "Un achat de ce type peut-il être décidé par le magasin, ou doit-il passer par le siège du groupe Schiever à Avallon, et par qui ?",
+    "Le magasin de Clamecy a-t-il un emplacement visible de tous les clients où une œuvre pourrait rester exposée 5 ans ?"
+   ],
+   "priorite_conseillee": "Moyenne",
+   "raison": "Magasin bénéficiaire ouvert au public, mais filiale du groupe Schiever dont la décision se prend vraisemblablement au siège d'Avallon (Yonne)."
+  },
+  "avant": {
+   "plafond": 36613,
+   "resultat": 320854,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 35850,
+   "resultat": 241000,
+   "benefice": true,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "prix_max": 179250,
+   "regime": "IS",
+   "espace_txt": "Surface de vente ouverte au public"
+  },
+  "comptes_recherche": {
+   "annee": "2024",
+   "cloture": null,
+   "ca": 7170000,
+   "resultat": 241000,
+   "citation": "CA 2024 de 7,17 M€ (-2 %) et résultat net de 241 K€",
+   "remarque": "Le CA de référence (7,32 M€) est vraisemblablement celui de 2023, la baisse de 2 % y menant."
+  },
+  "priorite_calculee": "Moyenne"
+ }
+]

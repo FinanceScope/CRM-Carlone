@@ -1,0 +1,402 @@
+[
+ {
+  "rang": 42,
+  "siren": "338339146",
+  "nom": "TC 58",
+  "fiche": {
+   "nom_affiche": "TC Transports (TC 58), Cercy-la-Tour",
+   "activite": "Transport routier de marchandises (courte et longue distance, international), entreposage et location de véhicules.",
+   "groupe": "Groupe familial TC Transports (Holding Cassier, Cercy-la-Tour)",
+   "resume": "Transporteur routier de Cercy-la-Tour, avec 95 salariés et un CA 2025 de 19,5 M€, un entrepôt à Sougy-sur-Loire et un site ouvert à Auby (Nord) en 2025. C'est une filiale du groupe familial TC Transports (environ 700 salariés) : la décision se prend probablement à la holding Cassier, qui pilote le groupe depuis Cercy-la-Tour, avec un siège commercial à Digoin (Saône-et-Loire).",
+   "angle_art": "Une œuvre peut être installée dans le hall d'accueil du site de Cercy-la-Tour ou dans une salle de pause accessible à tous les salariés, conducteurs compris. Pour un groupe familial créé en 1981 et piloté depuis la Nièvre, c'est un signe d'ancrage local visible des équipes. La société est bénéficiaire (524 000 € en 2024) : jusqu'à 84 000 € déductibles par an.",
+   "qui_appeler": "Aucun numéro connu : obtenir le standard du groupe TC Transports (siège avenue Louis Coudant à Cercy-la-Tour, ou siège commercial de Digoin), puis demander le représentant de la holding Cassier ou le directeur administratif et financier du groupe. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "TC 58 n'est qu'une filiale : la décision remonte probablement à la holding Cassier, qui pilote tout le groupe ; éviter d'appeler chaque société séparément.",
+    "Pierre Racouchot, directeur général au registre, dirige aussi une société à Montpellier : sans doute un dirigeant de groupe, pas un responsable local.",
+    "Le représentant de la holding (famille Cassier) n'est pas identifié.",
+    "Aucun standard trouvé malgré trois passes de recherche : le numéro est à obtenir avant l'appel."
+   ],
+   "questions": [
+    "Un achat de ce type se décide-t-il chez TC 58 ou à la holding Cassier, et qui représente la holding ?",
+    "Le site de Cercy-la-Tour a-t-il un hall d'accueil ou une salle de pause commune à tous les salariés, conducteurs compris ?"
+   ],
+   "priorite_conseillee": "Haute",
+   "raison": "Filiale bénéficiaire d'un groupe familial piloté depuis Cercy-la-Tour, donc décision dans la Nièvre ; le numéro et le représentant de la holding Cassier restent à trouver avant l'appel."
+  },
+  "avant": {
+   "plafond": 83786,
+   "resultat": 524450,
+   "benefice": true,
+   "annee": "2024"
+  },
+  "apres": {
+   "plafond": 97613,
+   "resultat": 791811,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 488065,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 19500000,
+   "resultat": null,
+   "citation": "CA 2025 de 19,5 M€ (+16,5 %), dont 8,25 M€ à l'export ; ouverture d'un site à Auby (Nord) en janvier 2025.",
+   "remarque": "Résultat net 2025 non écrit ; ce CA 2025 correspond au CA du classement (19 522 587 €, soit +16,5 % sur ca_recent 2024), dont le résultat de 791 811 € serait donc celui de 2025."
+  },
+  "priorite_calculee": "Haute"
+ },
+ {
+  "rang": 44,
+  "siren": "562010454",
+  "nom": "G.C.E. SAS",
+  "fiche": {
+   "nom_affiche": "GCE Gas Control Equipment (La Charité)",
+   "activite": "Filiale française de GCE : vente de détendeurs, vannes et équipements de soudure autogène pour gaz industriels et médicaux (site a priori commercial et logistique).",
+   "groupe": "Groupe GCE (siège à Steinhausen, Suisse), membre du groupe américain ESAB",
+   "resume": "Filiale française du groupe GCE, membre d'ESAB depuis 2018, installée rue du Puits Charles à La Charité-sur-Loire, avec 14 salariés et 17,8 M€ de CA en 2025 ; la production du groupe étant en République tchèque, au Royaume-Uni et en Chine, le site serait surtout commercial et logistique. Trois des quatre mandataires sont des dirigeants du groupe : la décision se prend très probablement en Suisse ou aux États-Unis, le président Mathieu Benier étant le seul relais local.",
+   "angle_art": "Une œuvre pourrait être placée dans le hall ou la salle de pause du site de La Charité, s'ils sont accessibles à tous les salariés. Pour la filiale d'un groupe international, c'est une marque d'ancrage dans la Nièvre, visible chaque jour par l'équipe. Jusqu'à 96 000 € déductibles par an, montant à recalculer avec le comptable sur le CA 2025 (17,8 M€).",
+   "qui_appeler": "Appeler le 03 86 69 46 20 (numéro d'un catalogue GCE de 2019, à confirmer), demander si Mathieu Benier, président, dirige toujours le site, puis qui gère l'administration et la finance en France. À défaut, demander le responsable administratif et financier France.",
+   "vigilance": [
+    "Décision très probablement prise au groupe GCE en Suisse ou chez ESAB aux États-Unis, pas à La Charité.",
+    "Le standard vient d'un catalogue de 2019 et n'a été retrouvé nulle part ailleurs : à vérifier dès l'appel.",
+    "Plafond calculé sur un CA antérieur (19,3 M€) : en 2025, CA de 17,8 M€ et résultat net de 408 K€, donc plafond plus bas, à recalculer.",
+    "Changement de mandataire : Curtis Jewell, dirigeant du groupe, nommé directeur général de la société le 29/06/2026 à la place de Kevin Johnson."
+   ],
+   "questions": [
+    "Le site de La Charité a-t-il un hall ou une salle de pause commune à tous les salariés, où une œuvre pourrait rester cinq ans ?",
+    "Une dépense de ce type peut-elle être décidée en France par M. Benier, ou doit-elle être validée par le groupe GCE ou ESAB ?"
+   ],
+   "priorite_conseillee": "Moyenne",
+   "raison": "Filiale bénéficiaire à 30 km de Cosne, mais la décision remonte très probablement au groupe GCE en Suisse ou à ESAB aux États-Unis."
+  },
+  "avant": {
+   "plafond": 96437,
+   "resultat": 717363,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 89000,
+   "resultat": 408000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 445000,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 17800000,
+   "resultat": 408000,
+   "citation": "CA en baisse à 17,8 M€ en 2025 (résultat net 408 K€).",
+   "remarque": ""
+  },
+  "priorite_calculee": "Moyenne"
+ },
+ {
+  "rang": 46,
+  "siren": "518482013",
+  "nom": "ANVIS DECIZE SAS",
+  "fiche": {
+   "nom_affiche": "Anvis Decize (pièces antivibratoires)",
+   "activite": "Usine de pièces en caoutchouc et caoutchouc-métal (systèmes antivibratoires), surtout pour l'automobile.",
+   "groupe": "Groupe Anvis (Anvis Holding), repris par l'allemand HAHN GmbH (à confirmer)",
+   "resume": "Usine du groupe Anvis à Decize (ex-SumiRiko), 119 salariés en 2025, dont la production a été transférée en 2023 dans une installation plus petite ; l'adresse de l'usine des Caillots est peut-être à mettre à jour. La décision est probablement partagée entre le directeur général du site, Laurent Cobigo, et Anvis Holding ou l'actionnaire HAHN GmbH, qui pilote les budgets des entités françaises.",
+   "angle_art": "Une œuvre pourrait être installée dans le hall d'entrée de l'usine ou dans une cantine ou salle de pause accessible aux 119 salariés. Elle serait vue chaque jour par les équipes et marquerait l'ancrage du site à Decize. Jusqu'à 93 000 € déductibles par an, mais la dernière perte connue est de 1 018 632 € : avec le léger bénéfice annoncé pour 2025 (129 K€), la déduction ne servira que si le retour aux bénéfices se confirme.",
+   "qui_appeler": "Aucun standard trouvé, même dans les annuaires : obtenir le numéro de l'usine de Decize avant l'appel (site anvisgroup.com ou renseignements), puis demander Laurent Cobigo, directeur général du site, ou le responsable Finance du site. À défaut, demander le responsable administratif et financier et le nom du directeur financier d'Anvis Holding.",
+   "vigilance": [
+    "Dernière perte connue de 1,02 M€ ; seul un léger bénéfice de 129 K€ est annoncé pour 2025, après trois années de pertes (2022-2024).",
+    "Budgets pilotés par Anvis Holding et l'actionnaire allemand : la direction du site n'a sans doute pas seule la main.",
+    "Nouvelle direction générale en 2025 et registre en partie périmé (Marc Ritzenthaler est parti) : confirmer que Laurent Cobigo dirige toujours le site.",
+    "Usine déménagée en 2023 dans un site plus petit : vérifier l'adresse actuelle et les espaces communs disponibles."
+   ],
+   "questions": [
+    "Le site actuel de Decize a-t-il un hall ou une cantine ouverte à tous les salariés, et le nouveau site évoqué par le groupe est-il en construction ?",
+    "Selon votre expert-comptable, le bénéfice 2025 laisse-t-il un impôt à payer après les pertes des années précédentes ?"
+   ],
+   "priorite_conseillee": "Basse",
+   "raison": "Pertes de 2022 à 2024 et léger bénéfice en 2025, avec une décision partagée avec l'actionnaire allemand."
+  },
+  "avant": {
+   "plafond": 93188,
+   "resultat": -1018632,
+   "benefice": false,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 86500,
+   "resultat": 129000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 432500,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 17300000,
+   "resultat": 129000,
+   "citation": "Retour à un léger bénéfice en 2025 (129 K€, CA 17,3 M€) après trois années de pertes (2022-2024)",
+   "remarque": ""
+  },
+  "priorite_calculee": "Basse"
+ },
+ {
+  "rang": 48,
+  "siren": "701880486",
+  "nom": "ETOILE 58",
+  "fiche": {
+   "nom_affiche": "Mercedes-Benz Nevers (groupe Chopard)",
+   "activite": "Concession Mercedes-Benz : voitures, utilitaires et camions neufs et d'occasion, atelier toutes marques.",
+   "groupe": "Groupe Chopard (siège à Besançon), holding E.C.L. d'Erik Chopard-Lallier",
+   "resume": "Concession Mercedes-Benz de Nevers, boulevard du Pré Plantin, exploitée par le groupe Chopard depuis 2016, avec 24 salariés et 19,4 M€ de CA en 2025 ; une antenne à Cosne a fermé en 2016. La décision se prend au siège du groupe à Besançon (environ 3 000 salariés, 132 points de vente), dont la finance est centralisée.",
+   "angle_art": "Une œuvre pourrait être exposée dans le showroom de la concession, ouvert au public. Elle serait vue par les clients particuliers et professionnels de la marque. Jusqu'à 88 000 € déductibles par an, mais la société est en perte en 2024 et 2025, avec des capitaux propres négatifs : la déduction ne servira que lorsqu'elle sera de nouveau bénéficiaire.",
+   "qui_appeler": "Appeler le 03 86 68 21 70 (numéro d'annuaire, à confirmer) et demander le directeur de la concession, puis la direction financière du groupe Chopard à Besançon, peut-être Sébastien Pate (directeur financier en 2020, à confirmer). À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Pertes en 2024 et 2025, capitaux propres négatifs et réductions de capital décidées en 2025.",
+    "Décision et finance centralisées au siège du groupe Chopard à Besançon.",
+    "Sébastien Pate n'est cité comme directeur financier que dans une source de 2020 : vérifier qu'il est toujours en poste.",
+    "Le numéro n'est confirmé que par des annuaires, pas par la page officielle du groupe."
+   ],
+   "questions": [
+    "Le showroom de Nevers a-t-il un emplacement où une œuvre pourrait rester visible des clients pendant cinq ans ?",
+    "Ce type d'achat se décide-t-il à la concession ou à la direction financière du groupe à Besançon ?"
+   ],
+   "priorite_conseillee": "Basse",
+   "raison": "Concession en perte avec des capitaux propres négatifs, dont la décision se prend au siège du groupe à Besançon."
+  },
+  "avant": {
+   "plafond": 87957,
+   "resultat": -350833,
+   "benefice": false,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 97000,
+   "resultat": -350833,
+   "benefice": false,
+   "annee": "2025",
+   "annee_resultat": null,
+   "prix_max": 485000,
+   "regime": "IS",
+   "espace_txt": "Surface de vente ouverte au public"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 19400000,
+   "resultat": null,
+   "citation": "CA 2025 de 19,4 M€ (+10 %) mais pertes en 2024 et 2025 et capitaux propres négatifs",
+   "remarque": "Perte 2025 mentionnée sans montant : résultat non relevé."
+  },
+  "priorite_calculee": "Basse"
+ },
+ {
+  "rang": 55,
+  "siren": "330907205",
+  "nom": "DEROMEDI CARRIERES SARL",
+  "fiche": {
+   "nom_affiche": "Deromedi Carrières (Ciez)",
+   "activite": "Extraction et production de matériaux de carrière, avec transport routier",
+   "groupe": "Groupe familial Deromedi, pôle Carrières et Matériaux (siège à Paris 16e)",
+   "resume": "Carrière familiale de Ciez (lieu-dit Jussy) qui extrait, concasse et produit des matériaux pour l'industrie, les travaux publics et l'agriculture, avec 10 à 19 salariés, au sein d'un pôle d'environ 70 collaborateurs sur 6 sites. La décision revient probablement à Gilles Deromedi, gérant de la SARL et président du pôle, depuis le siège du groupe à Paris 16e ; le site de Ciez n'a pas de direction autonome.",
+   "angle_art": "Une œuvre pourrait être installée dans l'espace d'accueil ou la salle de pause du site de Ciez, s'ils sont accessibles à tous les salariés (à vérifier). Pour une entreprise familiale qui revendique 40 ans d'expérience, c'est une façon de marquer son attachement au territoire auprès de ses équipes. La société est bénéficiaire (1 212 304 € sur un exercice antérieur, 1,18 M€ en 2025) : jusqu'à 72 000 € déductibles par an.",
+   "qui_appeler": "Aucun numéro connu : écrire à dsa@deromedi.fr (ou passer par le formulaire de deromedicarrieres.fr) pour obtenir le numéro du siège parisien, puis demander Gilles Deromedi, gérant. À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Décision probablement prise au siège parisien du groupe, où la comptabilité est vraisemblablement centralisée.",
+    "Aucun standard trouvé : le 01 40 71 71 71 (DER.IM, agence immobilière) et le numéro de SOSEMAT ne sont pas ceux de Deromedi Carrières.",
+    "Assujettissement à l'IS seulement probable : à faire confirmer par le comptable.",
+    "Chiffres variables selon les sources (728 k€ de résultat en 2024 selon Xerfi, CA de 13,6 M€ en 2025) : le plafond, calculé sur un CA plus ancien de 14,5 M€, sera un peu plus bas."
+   ],
+   "questions": [
+    "Combien de personnes travaillent sur le site de Ciez, et disposent-elles d'une salle de pause ou d'un local d'accueil commun ?",
+    "La SARL est-elle soumise à l'impôt sur les sociétés, et quel cabinet tient ses comptes ?"
+   ],
+   "priorite_conseillee": "Moyenne",
+   "raison": "Société rentable, mais la décision se prend probablement au siège parisien du groupe, sans numéro de téléphone connu et avec un régime IS à confirmer."
+  },
+  "avant": {
+   "plafond": 72408,
+   "resultat": 1212304,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 68000,
+   "resultat": 1180000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 340000,
+   "regime": "IS probable",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 13600000,
+   "resultat": 1180000,
+   "citation": "Entreprise familiale rentable (CA 13,6 M€ et 1,18 M€ de résultat en 2025).",
+   "remarque": "Résultat 2025 non qualifié de net ; le CA de référence (14,5 M€) est celui de 2023 et Xerfi donne pour 2024 un CA de 13,5 M€ et un résultat net de 728 k€."
+  },
+  "priorite_calculee": "Moyenne"
+ },
+ {
+  "rang": 61,
+  "siren": "409564481",
+  "nom": "DANIELSON ENGINEERING",
+  "fiche": {
+   "nom_affiche": "Danielson Engineering (Magny-Cours)",
+   "activite": "Conception, fabrication et mise au point de moteurs et de pièces mécaniques",
+   "groupe": "Groupe Danielson (holding installée à Magny-Cours)",
+   "resume": "Bureau d'études et atelier mécanique du Technopôle de Magny-Cours (fonderie, usinage, soudure) qui conçoit et fabrique moteurs et pièces pour l'aéronautique, l'automobile et le sport auto, avec 83 salariés en 2024 et environ 130 pour le groupe. La décision revient probablement à la holding Groupe Danielson, présidente de la société et installée elle aussi au Technopôle ; le nom de son président (Bernard Delaporte) reste à confirmer.",
+   "angle_art": "Une œuvre peut être installée dans le hall ou la salle de pause du site, accessibles aux 83 salariés du bureau d'études et de l'atelier. Pour une entreprise d'ingénierie implantée dans la Nièvre, c'est une façon de soigner son image auprès des équipes et des visiteurs. La société est bénéficiaire (728 286 € sur un exercice antérieur, 392 K€ sur l'exercice clos au 30/09/2025) : jusqu'à 62 000 € déductibles par an.",
+   "qui_appeler": "Appeler le 03 86 21 88 10 (relevé sur un agrégateur, à confirmer ; ne pas confondre avec le circuit, 03 86 21 80 00) et demander le président de Groupe Danielson, en vérifiant s'il s'agit de Bernard Delaporte. À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Deux projets de fusion déposés en 2026, de nature non publique : la structure peut changer.",
+    "CA en recul de 13 % (10,7 M€ sur l'exercice clos au 30/09/2025) : le plafond indiqué, calculé sur un CA antérieur, sera plus bas.",
+    "Nom du président de la holding (Bernard Delaporte) non confirmé par le registre ni par une source en ligne.",
+    "Standard tiré d'un seul agrégateur d'avis (gowork.fr) : à vérifier."
+   ],
+   "questions": [
+    "Les projets de fusion déposés en 2026 changent-ils la société qui porterait l'achat ou la personne qui le décide ?",
+    "Le site a-t-il un hall ou une salle de pause commune où une œuvre resterait visible de tous les salariés pendant cinq ans ?"
+   ],
+   "priorite_conseillee": "Haute",
+   "raison": "Société rentable soumise à l'IS, dont la holding décisionnaire est installée à Magny-Cours, avec plus de 80 salariés sur le site."
+  },
+  "avant": {
+   "plafond": 61823,
+   "resultat": 728286,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 53500,
+   "resultat": 392000,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 267500,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": "2025-09-30",
+   "ca": 10700000,
+   "resultat": 392000,
+   "citation": "CA de l'exercice clos au 30/09/2025 en recul de 13 % à 10,7 M€ (résultat net 392 K€).",
+   "remarque": ""
+  },
+  "priorite_calculee": "Haute"
+ },
+ {
+  "rang": 62,
+  "siren": "352563084",
+  "nom": "PHARMA DEVELOPPEMENT",
+  "fiche": {
+   "nom_affiche": "Pharma Développement (Corbigny)",
+   "activite": "Laboratoire pharmaceutique fabriquant des médicaments et des compléments",
+   "groupe": "Indépendante, propriétaire-président Mario Giron (sans groupe identifié)",
+   "resume": "Laboratoire pharmaceutique de Corbigny (ZI, chemin du Moulin de Marcy) qui fabrique des médicaments et compléments, dont Algesal, A 313, Hydrosol polyvitaminé et Alcaphor, avec 50 à 99 salariés et un établissement secondaire à Paris 15e. La décision revient probablement au propriétaire-président Mario Giron, qui a racheté le laboratoire en 2008, mais sa présence à Corbigny n'est pas confirmée.",
+   "angle_art": "Une œuvre peut prendre place dans le hall d'accueil ou la salle de pause du site de Corbigny, hors zones de production, si ces espaces sont accessibles à tous les salariés. Pour un laboratoire indépendant de Corbigny, c'est un élément d'image et de cadre de travail pour ses équipes. La société est bénéficiaire (1 419 420 € de résultat, celui de 2025 n'étant pas connu) : jusqu'à 61 000 € déductibles par an.",
+   "qui_appeler": "Aucun standard connu : relever le numéro sur la fiche Vidal du laboratoire ou dans l'annuaire Usine Nouvelle, puis demander Mario Giron, président, ou à défaut le directeur de site. Sinon, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Aucun numéro, e-mail ni site officiel trouvé : le numéro est à trouver avant l'appel.",
+    "Mario Giron a aussi fondé Global Farma et son lieu de résidence n'est pas connu : vérifier s'il est présent à Corbigny.",
+    "CA 2025 en recul à 11,3 M€ : le plafond indiqué, calculé sur un CA antérieur, sera plus bas.",
+    "Ne pas confondre avec la Pharmacie de l'Anguison ni avec les autres numéros en 03 86 20 de Corbigny."
+   ],
+   "questions": [
+    "Mario Giron est-il présent à Corbigny, et sinon qui prend les décisions d'investissement sur le site ?",
+    "Le site a-t-il, hors zones de production, un hall ou une salle de pause commune où une œuvre resterait visible de tous les salariés ?"
+   ],
+   "priorite_conseillee": "Haute",
+   "raison": "Laboratoire indépendant rentable soumis à l'IS, dont le propriétaire décide, avec 50 à 99 salariés à Corbigny ; le numéro reste à trouver."
+  },
+  "avant": {
+   "plafond": 61214,
+   "resultat": 1419420,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 56500,
+   "resultat": 1419420,
+   "benefice": true,
+   "annee": "2025",
+   "annee_resultat": null,
+   "prix_max": 282500,
+   "regime": "IS",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 11300000,
+   "resultat": null,
+   "citation": "CA 2025 en recul à 11,3 M€.",
+   "remarque": "Résultat net 2025 non indiqué (la fiche le dit inconnu)."
+  },
+  "priorite_calculee": "Haute"
+ },
+ {
+  "rang": 80,
+  "siren": "919448043",
+  "nom": "VALENJE",
+  "fiche": {
+   "nom_affiche": "Carrefour Market Decize",
+   "activite": "Supermarché Carrefour Market en franchise, avec drive et station-service, route de Champvert.",
+   "groupe": "Franchisé Carrefour, via la holding CORVAHIE (dirigeant non identifié)",
+   "resume": "Supermarché Carrefour Market du 18 route de Champvert à Decize, exploité en franchise depuis octobre 2022, avec 20 à 49 salariés et 9,5 M€ de CA en 2025. La décision revient au franchisé, via sa holding CORVAHIE dont le dirigeant et la ville ne sont pas connus, et non au siège de Carrefour.",
+   "angle_art": "Une œuvre pourrait être installée à l'entrée du magasin ou sur la surface de vente, vue chaque jour par la clientèle de Decize. Pour un franchisé installé depuis 2022, c'est une façon de distinguer son magasin et de l'ancrer dans la ville. Jusqu'à 51 000 € déductibles par an, mais l'exercice 2025 s'est soldé par une légère perte de 39 000 € (après un bénéfice de 52 000 € sur un exercice antérieur) : la déduction ne servira qu'une fois le magasin de nouveau bénéficiaire.",
+   "qui_appeler": "Appeler le magasin au 03 86 25 11 77 (numéro d'annuaire, à confirmer) et demander le directeur du magasin, puis le nom du franchisé qui dirige la holding CORVAHIE. À défaut, demander le responsable administratif et financier ou la personne qui suit la comptabilité.",
+   "vigilance": [
+    "Exercice 2025 légèrement déficitaire (perte de 39 000 €) : pas d'économie d'impôt tant que le magasin ne revient pas aux bénéfices.",
+    "Aucun nom connu : ni directeur de magasin, ni dirigeant de la holding CORVAHIE.",
+    "Le 03 86 25 11 77 ne vient que d'annuaires, sans confirmation sur la page officielle Carrefour : le vérifier en début d'appel.",
+    "Ne pas appeler le drive (09 80 98 09 86, service centralisé) ni confondre avec le E.Leclerc voisin."
+   ],
+   "questions": [
+    "Qui est le franchisé qui dirige le magasin via la holding CORVAHIE, et décide-t-il seul de ce type d'achat ?",
+    "L'exercice 2026 devrait-il redevenir bénéficiaire, et qui suit vos comptes : le magasin, la holding ou un cabinet comptable ?"
+   ],
+   "priorite_conseillee": "Basse",
+   "raison": "Dernier exercice publié (2025) légèrement déficitaire et franchisé non identifié, malgré une surface de vente ouverte au public et une décision prise chez le franchisé."
+  },
+  "avant": {
+   "plafond": 50910,
+   "resultat": 51669,
+   "benefice": true,
+   "annee": null
+  },
+  "apres": {
+   "plafond": 47500,
+   "resultat": -39000,
+   "benefice": false,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "prix_max": 237500,
+   "regime": "IS",
+   "espace_txt": "Surface de vente ouverte au public"
+  },
+  "comptes_recherche": {
+   "annee": "2025",
+   "cloture": null,
+   "ca": 9500000,
+   "resultat": -39000,
+   "citation": "Exercice 2025 légèrement déficitaire (-39 K€) pour 9,5 M€ de CA.",
+   "remarque": ""
+  },
+  "priorite_calculee": "Basse"
+ }
+]
