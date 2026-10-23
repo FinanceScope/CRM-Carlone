@@ -1,0 +1,206 @@
+[
+ {
+  "siren": "397727397",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://look-bindings.com",
+  "dirigeant_principal": {
+   "nom": "Damien OLAGNE",
+   "fonction": "Président de SAS (selon registre ; non confirmé par une source web)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/397727397"
+  },
+  "decideur_financier": {
+   "nom": "Damien OLAGNE",
+   "fonction": "Président de SAS (aucun DAF/RAF identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/397727397"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement au siège du groupe Rossignol à Saint-Jean-de-Moirans (Isère) : LOOK Fixations est l'usine de fixations de ski du groupe Rossignol depuis 1994, le site de Nevers étant un site de production (R&D transférée à Saint-Jean-de-Moirans en 2006).",
+  "note": "2e niveau : CORRECTION IMPORTANTE – LOOK FIXATIONS SA (2 rue de la Pique, Nevers) n'est pas LOOK Cycle : c'est l'usine de fixations de ski LOOK, rachetée par Rossignol le 1er août 1994 et installée rue de la Pique depuis 1974 (https://look-bindings.com/history ; https://www.skipass.com/news/175686-look-des-fixations-made-in-france.html). Le champ « groupe » du CRM (LOOK Cycle International / Activa Capital) et le contact F. Musi de la note précédente concernent une autre société. Le 03 86 71 63 00 déjà en base est celui de LOOK Cycle (27 rue du Docteur-Léveillé) : il n'est donc pas retenu comme standard de LOOK Fixations (à n'utiliser qu'en dernier recours pour demander le bon numéro). Aucun numéro pour la rue de la Pique trouvé (6 recherches). Damien Olagne n'apparaît dans aucune source web (registre seul) ; seul nom trouvé côté marque : Sébastien Rideau, chef produit et responsable de la marque Look (skipass, non daté, probablement basé chez Rossignol). Effectif environ 103 CDI + 28 intérimaires vers 2021 (https://www.force-ouvriere.fr/syndicat-et-adherents-fo-salaries-des-tpe-le-secretaire-general-13746). Aucun DAF/RAF/contrôleur de gestion trouvé : la finance est sans doute centralisée chez Rossignol. À l'appel : demander le directeur de l'usine de Nevers et le contrôleur de gestion du site, et vérifier si M. Olagne est bien le président en exercice."
+ },
+ {
+  "siren": "308530690",
+  "standard": {
+   "tel": "03 86 20 04 34",
+   "source": "https://www.bible-marques.fr/magasins/58800-corbigny/atac",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS (selon registre ; non confirmé par une source web)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "decideur_financier": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Catherine DE MATTEIS (née MOUGNEAU)",
+    "fonction": "Directeur général (selon registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/308530690"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement dans l'entreprise elle-même, à Corbigny : SAS indépendante tenue par le couple De Matteis (président et directrice générale), exploitant un supermarché sous enseigne Atac/Auchan Supermarché et un magasin Maxibrico ; aucun groupe ou holding extérieur identifié.",
+  "note": "2e niveau : 6 recherches. Le magasin Atac de Corbigny est désormais référencé sous l'enseigne « Auchan Supermarché CORBIGNY », rue du Champ de Foire (station carburant, https://www.l-itineraire.com/stations_service/corbigny/auchan-supermarche-corbigny) ; aucune fiche officielle Auchan (localisateur de magasins) n'a été trouvée, et le 03 86 20 04 34 n'apparaît que dans l'annuaire Bible-Marques (fiche Atac, 5 place du Champ de Foire) : une recherche du numéro seul n'a rien confirmé, fiabilité annuaire. L'avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/30853069000038) confirme le siège 5 avenue du Champ de Foire, établissement à l'enseigne MAXIBRICO, activité hypermarchés. Aucun numéro trouvé pour Maxibrico Corbigny (au-magasin.fr évoque aussi un Weldom à proximité, lien non établi). Aucune source web ne mentionne les De Matteis : dirigeants issus du registre seul. Pas de site web propre. À l'appel : confirmer que le standard est bien celui du supermarché, demander M. ou Mme De Matteis, et qui tient la comptabilité (en interne ou cabinet)."
+ },
+ {
+  "siren": "392607545",
+  "standard": {
+   "tel": "03 86 27 55 55",
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "contact@laballery.fr",
+   "source": null
+  },
+  "site_web": "https://www.laballery.fr",
+  "dirigeant_principal": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration (BODACC du 12/08/2025) et Directrice générale (BODACC du 27/01/2026)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "decideur_financier": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration et Directrice générale (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Dans l'entreprise elle-même, à Clamecy : SCOP indépendante (capital détenu par les salariés, une voix par associé) dirigée par une PDG élue et un conseil d'administration de salariés ; un achat de ce type passera sans doute par la DG et, selon le montant, par le conseil d'administration.",
+  "note": "2e niveau : 6 recherches. Emilie Sagnelonge n'est citée que dans la liste des dirigeants de Xerfi (https://www.xerfi.com/etudes-par-entreprise/nouvelle-imprimerie-laballery_392607545), sans titre ; ses mandats viennent des BODACC 2025-2026 (registre récent, donc a priori à jour). Aucune presse ni profil public ne la présente. Aucun DAF/RAF/comptable/contrôleur de gestion trouvé (recherches par fonction, LinkedIn, presse). Le standard 03 86 27 55 55, l'e-mail contact@laballery.fr et le site viennent du CRM et n'ont pas pu être reconfirmés sur une page officielle dans les extraits (fiabilité non établie). Contexte : SCOP depuis 1993, environ 84-85 salariés, CA 17 M€ en 2024 (Xerfi) ; a repris l'imprimerie Floch (Mayenne) en 2016 (https://www.livreshebdo.fr/article/laballery-reprend-floch-et-compte-sur-les-editeurs). À l'appel : demander Mme Sagnelonge et le ou la responsable administratif/comptable ; vérifier si la comptabilité est commune avec Floch."
+ },
+ {
+  "siren": "338339146",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": "https://www.tc-transports.fr",
+  "dirigeant_principal": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (président : HOLDING CASSIER, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "decideur_financier": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre-Henri JUHEN",
+    "fonction": "Directeur de l'organisation du groupe TC Transports (interview, date non précisée)",
+    "tel": null,
+    "email": null,
+    "source": "https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement au niveau de la holding familiale HOLDING CASSIER (famille Cassier, présidée par la SARL CASSIER DÉVELOPPEMENT), qui pilote le groupe TC Transports depuis Cercy-la-Tour (siège indiqué avenue Louis Coudant) et son siège commercial de Digoin (Saône-et-Loire) : TC 58 n'est qu'une des filiales d'un groupe d'environ 700 salariés et 80 M€ de CA consolidé.",
+  "note": "2e niveau : 6 recherches, aucun numéro trouvé (ni pour le 45 rue de la Guette, ni pour le groupe ; le site tc-transports.fr n'apparaît pas dans les extraits). L'avis SIRENE confirme l'établissement « TC TRANSPORTS », 45 rue de la Guette, 58340 Cercy-la-Tour (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023). Selon un dossier ICPE de la préfecture (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf), TC ENVIRONNEMENT appartient au groupe HOLDING CASSIER, dont le président est la SARL CASSIER DÉVELOPPEMENT ; le représentant personne physique (membre de la famille Cassier) n'a pas été identifié. Pierre Racouchot (DG au registre) est aussi DG de POLE SUD-EST (Montpellier) depuis le 12/05/2023 selon verif.com (https://www.verif.com/en/leaders/Pierre-RACOUCHOT-J38747119/) : il s'agit vraisemblablement d'un dirigeant de groupe plutôt que d'un responsable local. Le groupe annonce une douzaine de sites, 700 salariés, 500 moteurs et 80 M€ de CA consolidé (interview de P.-H. Juhen, truckonline). Aucun DAF de groupe trouvé. À l'appel : obtenir le standard du groupe (siège Cercy-la-Tour ou Digoin), demander le DAF ou le service comptable du groupe et le nom du représentant de la holding Cassier."
+ },
+ {
+  "siren": "529213050",
+  "standard": {
+   "tel": "03 86 71 01 53",
+   "source": "https://lesvoitures.fr/adresse/audi-nevers-nevers-premium-automobiles/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Richard VIVES",
+   "fonction": "Président (président du groupe SUMA)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.caradisiac.com/ducati-se-rapproche-d-audi-et-ouvre-une-nouvelle-concession-213290.htm"
+  },
+  "decideur_financier": {
+   "nom": "Richard VIVES",
+   "fonction": "Président (aucun DAF/RAF/comptable du groupe SUMA identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/529213050"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué (selon registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/529213050"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement au siège du groupe SUMA (Richard Vivès), hors Nièvre, a priori dans le Rhône (région lyonnaise, ville non confirmée) : la société n'est qu'une des 26 concessions d'un groupe de 370 salariés réparti sur 5 départements (Rhône, Saône-et-Loire, Nièvre, Allier, Ain).",
+  "note": "2e niveau : 6 recherches. La société exploite la concession Audi (et l'espace Ducati ouvert en janvier 2025, premier site mixte Audi-Ducati de France) au rond-point de Monte Cassino, Nevers (https://journalauto.com/distribution/le-groupe-suma-ouvre-la-premiere-concession-mixte-audi-ducati-de-france/). Richard Vivès est confirmé comme président du groupe SUMA par Caradisiac ; Eddy Michel (DG délégué) n'apparaît dans aucune source web. Le 03 86 71 01 53 reste à confirmer : il n'est publié que par lesvoitures.fr pour « Audi Nevers – Nevers Premium Automobiles », à l'adresse du boulevard des Grands Prés des Bordes (probable ancien site) ; une recherche du numéro seul n'a rien donné, et aucune page officielle (site SUMA, localisateur Audi) n'est ressortie. Le groupe compte 26 points de vente, 17 marques et 370 collaborateurs (offre France Travail, https://candidat.francetravail.fr/offres/recherche/detail/2172188). Aucun DAF ni service comptable du groupe trouvé. À l'appel : vérifier le numéro, demander le directeur de la concession Audi Nevers et les coordonnées du service administratif et financier du groupe SUMA."
+ },
+ {
+  "siren": "307049437",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": null,
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement au niveau de la holding FINANCIERE BONGARD (présidente de la SAS), dont la localisation et le dirigeant n'ont pas été identifiés ; l'entreprise a un établissement hors Nièvre (Toulon-sur-Allier, Allier), ce qui suggère un petit groupe régional.",
+  "note": "2e niveau : 6 recherches, aucun numéro, site ou dirigeant personne physique trouvé. Élément nouveau : l'avis SIRENE de l'établissement 307 049 437 00030 (https://api-avis-situation-sirene.insee.fr/identification/pdf/30704943700030) indique un code NAF 45.19Z (commerce d'autres véhicules automobiles, c'est-à-dire en principe poids lourds/véhicules de plus de 3,5 t), une création en 1976 et un établissement dans un parc logistique sur la RN7 à Toulon-sur-Allier (03400). Il s'agirait donc plutôt d'un distributeur de poids lourds ou véhicules industriels (piste Renault Trucks, cohérente avec la mention « Renault Garage Nevers Agent » de l'annuaire 118712, non confirmée) que d'une concession VP. Aucune activité indexée au 183-185 route de Lyon à Challuy (seul un Speedy au 5 route de Lyon) ; aucune trace web de « Financière Bongard » ni de « Garage Nevers Sud » en dehors du SIRENE. Le lien avec Bongard Bazot et Fils reste non vérifié. Aucun DAF ni comptable trouvé, et aucun dirigeant personne physique connu (d'où dirigeant et décideur financier à null). À l'appel (numéro à obtenir via le 118 712 ou sur place) : demander quelle marque est distribuée, le nom du représentant de Financière Bongard et la personne en charge de la comptabilité."
+ }
+]

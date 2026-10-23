@@ -1,0 +1,237 @@
+[
+ {
+  "siren": "523229268",
+  "standard": {
+   "tel": "03 86 93 00 00",
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "contact@groupesimonneau.fr",
+   "source": null
+  },
+  "site_web": "https://www.renault-nevers.fr",
+  "dirigeant_principal": {
+   "nom": "Philippe SIMONNEAU",
+   "fonction": "Dirigeant du groupe Simonneau, président de Philippe Simonneau Holding (présidente de la SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "decideur_financier": {
+   "nom": "Philippe SIMONNEAU",
+   "fonction": "Dirigeant du groupe Simonneau, président de Philippe Simonneau Holding (présidente de la SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement à la holding familiale Philippe Simonneau Holding (Saint-Doulchard, Cher), qui préside la société et pilote les sites Renault/Dacia du groupe dans la Nièvre et le Cher.",
+  "note": "2e niveau : 6 recherches sans résultat nouveau. Ni le standard 03 86 93 00 00 ni l'e-mail contact@groupesimonneau.fr n'apparaissent dans les extraits (ni page renault.fr de la concession de Varennes-Vauzelles, ni site groupesimonneau.fr indexé) : ils restent à confirmer. Philippe Simonneau reste le seul dirigeant nommé (L'argus) ; aucun DAF, RAF, chef comptable ni directeur de concession trouvé. Pappers rattacherait un établissement de la société à Saint-Léger-des-Vignes (Renault Decize, page renault.fr dwsShortName=decize) : vérifier quel site correspond au SIREN. À demander à l'appel : le nom du directeur de la concession de Nevers et du responsable administratif et financier du groupe (probablement au siège de Saint-Doulchard)."
+ },
+ {
+  "siren": "422593491",
+  "standard": {
+   "tel": "03 86 71 69 00",
+   "source": "https://www.toyota.fr/reseau/00CD2-CFF8A-50822-01800-01200-1",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "cpa@groupevincent.fr",
+   "source": "https://www.toyota.fr/reseau/00CD2-CFF8A-50822-01800-01200-1"
+  },
+  "site_web": "https://www.groupevincent.fr",
+  "dirigeant_principal": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS, dirigeant du groupe Vincent",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/422593491"
+  },
+  "decideur_financier": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS, dirigeant du groupe Vincent",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/422593491"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement chez Rodolphe Vincent, à la tête du groupe Vincent (environ 16 concessions Peugeot, Citroën/DS et Toyota dans la Nièvre, le Cher, l'Allier et le Loiret) : groupe familial régional, dont le berceau est Nevers depuis 2011, sans siège extérieur identifié.",
+  "note": "2e niveau : standard 03 86 71 69 00 et e-mail cpa@groupevincent.fr confirmés par la fiche officielle Toyota France de Central Parc Automobile (fax 03 86 71 69 09). Rodolphe Vincent, président selon le registre, est aussi présenté comme le patron du groupe par Journal de l'Automobile (articles 2013-2019 : environ 170 M€ de CA et 367 salariés en 2018). Aucune source plus récente que 2019, et aucun DAF, chef comptable, contrôleur de gestion ni directeur de concession trouvé (recherches presse, LinkedIn et offres d'emploi). À demander au standard : le nom du directeur de la concession Toyota de Nevers et celui du responsable administratif et financier du groupe, ainsi que la ville où il travaille (Nevers ou Bourges/Saint-Doulchard)."
+ },
+ {
+  "siren": "507757672",
+  "standard": {
+   "tel": "03 86 25 50 00",
+   "source": "https://fr.custplace.com/eleclerc-decize-154564",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Jean-François MARTIN",
+   "fonction": "Président de SAS (adhérent E.Leclerc)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/507757672"
+  },
+  "decideur_financier": {
+   "nom": "Jean-François MARTIN",
+   "fonction": "Président de SAS (adhérent E.Leclerc)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/507757672"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Laetitia MARTIN (GAGNE)",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/507757672"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Sur place à Decize : magasin d'un adhérent indépendant E.Leclerc, dirigé par le couple Martin (président et directrice générale), qui décide seul de ses achats hors centrale.",
+  "note": "2e niveau : 6 recherches. Le 03 86 25 50 00 n'apparaît toujours que sur Custplace (annuaire d'avis), la page officielle e.leclerc du magasin n'est pas indexée : à confirmer au premier appel. Aucune source récente (presse locale, LinkedIn) ne confirme ni ne contredit le registre (Jean-François Martin président, Laetitia Martin directrice générale). Aucun responsable comptable nommé ; l'offre Wizbii de secrétaire comptable montre une comptabilité tenue sur place (environ 90 salariés, centre créé en 1988). La station-service porte le nom « Leclerc DECIZE DISTRIBUTION » (l-itineraire.com), ce qui confirme la raison sociale du site. À demander à l'accueil : le nom de la personne chargée de la comptabilité et le créneau pour joindre M. ou Mme Martin."
+ },
+ {
+  "siren": "775732811",
+  "standard": {
+   "tel": "03 86 21 68 00",
+   "source": "https://industrie.usinenouvelle.com/fiche/etablissement/eurosit-85915519",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "http://www.eurosit.fr",
+  "dirigeant_principal": {
+   "nom": "Massimiliano PRESTIFILIPPO",
+   "fonction": "Directeur Général",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/775732811"
+  },
+  "decideur_financier": {
+   "nom": "Massimiliano PRESTIFILIPPO",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/775732811"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Timothée ACHERITOGARAY",
+    "fonction": "Président du conseil d'administration (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/775732811"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement au siège du groupe Sokoa à Hendaye (Pyrénées-Atlantiques), via sa holding Sofikoa, actionnaire d'Eurosit : le directeur général de Nevers peut porter le dossier, mais la validation remonterait au groupe.",
+  "note": "2e niveau : Eurosit appartient au groupe Sokoa (mobilier de bureau, plus de 100 M€ de CA consolidé, siège 26 route de Behobie à Hendaye, avec Genexco et Sellex) selon motherbase.ai et Xerfi ; l'actionnaire SOFIKOA SAS est très probablement la holding de ce groupe. Le standard 03 86 21 68 00 ne vient toujours que de la fiche Usine Nouvelle (annuaire), il n'apparaît sur aucune page eurosit.fr indexée. Aucune source récente ne confirme ni ne contredit le registre (Massimiliano Prestifilippo DG, Timothée Acheritogaray président du conseil). Xerfi cite aussi Sébastien Paulini et Michel Videgain parmi les mandataires, sans fonction claire. Aucun DAF, RAF ni contrôleur de gestion trouvé, ni chez Eurosit ni chez Sokoa. CA 2024 d'environ 32 M€ selon Xerfi (en baisse). À demander au standard : le nom du responsable administratif et financier du site de Nevers, ou à défaut celui du DAF du groupe Sokoa à Hendaye."
+ },
+ {
+  "siren": "530572775",
+  "standard": {
+   "tel": "03 86 60 13 04",
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "contact@nexson-group.com",
+   "source": null
+  },
+  "site_web": "https://www.nexson-group.com",
+  "dirigeant_principal": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025, remplacé par la personne morale Nexson Corporation)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/530572775"
+  },
+  "decideur_financier": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/530572775"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Probablement au niveau de la holding Nexson Corporation (SIREN 891083107), présidente de la société depuis septembre 2025, donc à la direction du groupe à Garchizy, où se trouve le siège industriel.",
+  "note": "2e niveau : 6 recherches. Seuls les éléments d'activité sont confirmés (échangeurs de chaleur et appareils à pression, 685 rue Jules Verne à Garchizy ; rachat de l'allemand Thermowave, filiale d'A-Heat, en mars 2024, qui reste une entité autonome). Aucun extrait ne nomme le dirigeant actuel : le communiqué Thermowave ne cite aucun CEO, et aucune source ne relie Charles Bonnafous à Nexson Corporation. Son rôle actuel reste donc à confirmer, tout comme l'identité de la personne qui préside la holding. Le standard 03 86 60 13 04 et l'e-mail contact@nexson-group.com (données existantes) ne sont confirmés par aucun extrait, faute de page contact indexée. Aucun DAF ni contrôleur de gestion trouvé, alors qu'un groupe de cette taille (environ 31 M€ de CA, filiale allemande) en a très probablement un. À demander au standard : qui dirige aujourd'hui Nexson Group et le nom du directeur administratif et financier."
+ },
+ {
+  "siren": "651880437",
+  "standard": {
+   "tel": "03 86 93 52 58",
+   "source": "https://www.elsan.care/sites/default/files/Livret%20accueil%20VDL.pdf",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "pvl@elsan.care",
+   "source": "https://www.elsan.care/sites/default/files/Livret%20accueil%20VDL.pdf"
+  },
+  "site_web": "https://www.elsan.care/fr/polyclinique-val-de-loire",
+  "dirigeant_principal": {
+   "nom": "Sébastien PROTO",
+   "fonction": "Président exécutif du groupe Elsan (Elsan SAS, présidente de la société)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.elsan.care/fr/presse/elsan-nomme-un-nouveau-directeur-general-delegue-aux-finances-et-renouvelle-son-comite"
+  },
+  "decideur_financier": {
+   "nom": "Olivier REGNARD",
+   "fonction": "Directeur général délégué aux finances, DAF du groupe Elsan (depuis le 16/09/2024)",
+   "type": "autre",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.elsan.care/fr/presse/elsan-nomme-un-nouveau-directeur-general-delegue-aux-finances-et-renouvelle-son-comite"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jean-Claude PENET",
+    "fonction": "Directeur de la polyclinique (donnée CRM existante, non confirmée)",
+    "tel": null,
+    "email": null,
+    "source": null
+   },
+   {
+    "nom": "François AUQUIÈRE",
+    "fonction": "Directeur territorial Bourgogne-Franche-Comté du groupe Elsan (juillet 2024)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.elsan.care/fr/polyclinique-val-de-loire/nos-actualites/de-nouveaux-projets-la-polyclinique-du-val-de-loire"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Au siège du groupe Elsan à Paris (direction financière et direction générale), éventuellement via la direction territoriale Bourgogne-Franche-Comté : la clinique est une filiale à 100 % présidée par Elsan SAS et n'a pas d'autonomie budgétaire pour ce type de dépense.",
+  "note": "2e niveau : standard 03 86 93 52 58 et e-mail pvl@elsan.care repris des pages officielles elsan.care (livret d'accueil). Directeur d'établissement actuel non trouvé : les seuls directeurs nommés datent de 2014 (Michel Lagache) et 2017 (Arnaud Goguillot). En juillet 2024, Elsan fait parler de la clinique François Auquière, directeur territorial Bourgogne-Franche-Comté ; Jean-Claude Penet (donnée CRM) n'apparaît dans aucun extrait. Aucun RAF ni contrôleur de gestion de site trouvé, d'où le DAF du groupe : Olivier Regnard, nommé directeur général délégué aux finances en septembre 2024 en remplacement de Romain Ferrière, rattaché à Sébastien Proto. Un autre communiqué Elsan annonce la nomination de Paolo Silvano comme directeur général délégué (domaine non visible) : vérifier qu'Olivier Regnard est toujours en poste. Le registre indique Elsan SAS comme présidente. À demander au standard : le nom du directeur ou de la directrice de la polyclinique et celui du responsable administratif et financier ou du contrôleur de gestion du site."
+ }
+]

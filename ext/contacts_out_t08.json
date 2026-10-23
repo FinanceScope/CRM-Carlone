@@ -1,0 +1,213 @@
+[
+ {
+  "siren": "921426086",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026, registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "decideur_financier": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026) ; aucun DAF/RAF identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Frédéric LONGO",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/921426086"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise hors de la Nièvre, au niveau de l'ensemble VALEST (UES VALEST : VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), SONIRVAL ENERGIE étant une société dédiée créée pour la DSP de l'UVE de Fourchambault et dont le siège serait à Vaulx-en-Velin (69) d'après un accord d'entreprise ; actionnaire final non confirmé.",
+  "note": "2e niveau : 6 recherches. Un avenant d'accord d'entreprise (https://www.maitredata.com/app/accords-entreprise/sonirval-energie/230270) explique que SONIRVAL ENERGIE a été créée comme société dédiée à l'exploitation de la délégation de service public (DSP) de l'UVE de Fourchambault : le personnel du site a été transféré de SONIRVAL à SONIRVAL ENERGIE au 1er février 2023. La société relève de l'UES VALEST (VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), avec un siège indiqué à Vaulx-en-Velin (69), à vérifier. Le rapport Géorisques confirme l'exploitation de l'UVE (46 000 t/an autorisées, ligne de 6 t/h). Aucun lien avec Veolia ou Dalkia trouvé : l'hypothèse « Veolia / RONAVAL » de l'entrée n'est pas étayée. Aucune trace en ligne d'Anaël Gendre ni de Frédéric Longo (président et DG selon le registre). Aucun standard, email, site ni DAF/RAF trouvé. À l'appel (via l'accueil de l'UVE, route de Vauzelles) : demander le directeur ou responsable d'exploitation de l'UVE, le nom du groupe propriétaire de VALEST/SONIRVAL et le service comptable ou financier du groupe."
+ },
+ {
+  "siren": "404570160",
+  "standard": {
+   "tel": "03 86 21 08 00",
+   "source": "https://118500.fr/telephone-service-client-oreca",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.oreca.fr",
+  "dirigeant_principal": {
+   "nom": "Hugues DE CHAUNAC",
+   "fonction": "Président (fondateur et président du groupe ORECA, siège à Signes, Var)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://en.wikipedia.org/wiki/Oreca"
+  },
+  "decideur_financier": {
+   "nom": "Serge MEYER",
+   "fonction": "Directeur général (registre) ; aucun DAF/RAF nommé trouvé, finance probablement au siège du groupe à Signes",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404570160"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Rémi TAFFIN",
+    "fonction": "Directeur technique du groupe ORECA (nommé en 2021, couvre Signes et le site moteurs de Magny-Cours ; poste actuel non revérifié)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.lejournaldesentreprises.com/breve/remi-taffin-nomme-directeur-technique-doreca-1657534"
+   }
+  ],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise au siège du groupe ORECA à Signes (Var) par Hugues de Chaunac, fondateur et président : le site de Magny-Cours est le département moteurs et faisceaux électriques du groupe et aucune fonction finance locale n'apparaît.",
+  "note": "2e niveau : 6 recherches. Standard 03 86 21 08 00 (fax 03 86 21 08 02) listé comme ligne du département moteurs ORECA par l'annuaire 118500.fr ; il concorde avec le numéro relevé en 2e passe dans un communiqué de presse ORECA (source officielle mais ancienne) : deux sources concordantes, à confirmer à l'appel. Ne pas confondre avec le standard du circuit (03 86 21 80 00). Les offres d'emploi 2025 d'ORECA Motorsport (fluidjobs) décrivent Magny-Cours comme le département moteurs et mentionnent un « Directeur d'Exploitation » et un « Chef d'Atelier Moteur », sans nom. Aucune source publique récente sur Serge Meyer (DG au registre) ni sur un DAF du groupe : registre non contredit. Rémi Taffin, ancien directeur technique moteur de Renault F1, a été nommé directeur technique du groupe en 2021 (rôle technique, pas un acheteur). À l'appel : demander le directeur d'exploitation du site de Magny-Cours, confirmer le rôle de Serge Meyer et obtenir le nom du DAF ou responsable comptable du groupe à Signes."
+ },
+ {
+  "siren": "428862403",
+  "standard": {
+   "tel": "03 86 90 77 55",
+   "source": "https://www.tct.fr",
+   "fiabilite": null
+  },
+  "email_generique": {
+   "email": "sales@tct.fr",
+   "source": "https://www.tct.fr"
+  },
+  "site_web": "https://www.tct.fr",
+  "dirigeant_principal": {
+   "nom": "Julien COULON",
+   "fonction": "Directeur général (registre ; président : SOCOMEC, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428862403"
+  },
+  "decideur_financier": {
+   "nom": "Julien COULON",
+   "fonction": "Directeur général ; aucun RAF/DAF de site ni DAF du groupe Socomec nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/428862403"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement validée au siège du groupe Socomec à Benfeld (Bas-Rhin), présidente de TCT (CA groupe 477 M€ en 2024), le DG Julien Coulon portant la demande localement ; un don ou achat de mécénat passerait sans doute par la direction financière ou communication du groupe.",
+  "note": "2e niveau : 6 recherches, sans élément nouveau sur les personnes. Standard 03 86 90 77 55 et email sales@tct.fr repris du CRM (site tct.fr), non reconfirmés : le moteur de recherche ne remonte ni le numéro ni le site. Aucune trace publique de Julien Coulon comme DG de TCT : le registre reste la seule source ; les mentions légales du site citeraient encore Ludovic De Ternay (ancien DG), à vérifier. Socomec (siège 1 rue de Westhouse, 67230 Benfeld, CA 477 M€ en 2024 selon Xerfi : https://www.xerfi.com/etudes-par-entreprise/socomec_548500149) cite Michel Krumenacker et Ivan Steyert parmi ses dirigeants ; aucun DAF de groupe nommé trouvé. Aucun RAF ou comptable du site de Sauvigny-les-Bois trouvé (69 salariés, poste comptable local probable). À l'appel : demander Julien Coulon, puis le nom du responsable administratif et financier ou du comptable du site, et savoir si les décisions de mécénat se prennent chez Socomec à Benfeld."
+ },
+ {
+  "siren": "388806317",
+  "standard": {
+   "tel": "03 86 77 18 90",
+   "source": "https://www.118000.fr/e_C0100981186",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.intermarche.com/magasin?pdvref=08116",
+  "dirigeant_principal": {
+   "nom": "Anthony PEZANT",
+   "fonction": "Dirigeant présumé de NALOUMY (SIREN 790009658), holding présidente de BONJOUR depuis le 01/07/2022 ; président de BONJOUR en nom propre jusqu'au 27/01/2023 (lien à confirmer)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/388806317"
+  },
+  "decideur_financier": {
+   "nom": "Anthony PEZANT",
+   "fonction": "Dirigeant présumé de la holding NALOUMY ; aucun comptable ou RAF nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/388806317"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision prise localement par l'adhérent Intermarché (chef d'entreprise indépendant, propriétaire du magasin via sa holding NALOUMY), et non par le Groupement Les Mousquetaires : c'est à lui qu'il faut s'adresser au magasin de Decize.",
+  "note": "2e niveau : 6 recherches. Standard 03 86 77 18 90 confirmé par plusieurs annuaires concordants (118000.fr, Bonial, mylpg.eu) pour l'Intermarché Super, 107 route de Moulins, 58300 Decize (lun-sam 8h30-19h30, dim 9h-12h30 selon Bonial) ; la page officielle intermarche.com n'est pas remontée par la recherche, d'où la fiabilité « annuaire ». Aucune source publique (presse, site) ne nomme l'adhérent ou le directeur du magasin : Anthony Pezant et la holding NALOUMY restent introuvables hors registre, le lien vient des « entreprises citées » de Pappers. Pas de comptable identifié : dans le réseau Intermarché, la comptabilité est souvent tenue par le magasin ou un cabinet. À l'appel : demander le chef d'entreprise (adhérent) ou le directeur du magasin, vérifier qu'il s'agit bien d'Anthony Pezant, et demander qui tient la comptabilité."
+ },
+ {
+  "siren": "409564481",
+  "standard": {
+   "tel": "03 86 21 88 10",
+   "source": "https://gowork.fr/danielson-engineering-magny-cours",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://danielson-groupe.fr",
+  "dirigeant_principal": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de GROUPE DANIELSON, holding présidente de DANIELSON ENGINEERING (nom repris du CRM, non revérifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481"
+  },
+  "decideur_financier": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de GROUPE DANIELSON ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise par la holding GROUPE DANIELSON (SIREN 507748283), présidente de la société et implantée comme elle au Technopôle de Magny-Cours, donc dans la Nièvre ; le président de la holding est l'interlocuteur à viser.",
+  "note": "2e niveau : 6 recherches. Numéro 03 86 21 88 10 relevé sur la fiche gowork.fr de Danielson Engineering (agrégateur d'avis, Magny-Cours) : seule piste de standard, non confirmée ailleurs (une recherche du numéro seul n'a rien donné), à vérifier à l'appel. Ne pas confondre avec le circuit (03 86 21 80 00). CB Insights décrit l'entreprise comme une société d'ingénierie fondée en 2000, spécialisée dans la conception, la fabrication et la validation de démonstrateurs technologiques pour la mobilité (https://www.cbinsights.com/company/danielson-engineering). Aucune source en ligne ne relie Bernard Delaporte à Danielson : le nom vient du CRM et reste à confirmer ; le registre ne cite que la personne morale GROUPE DANIELSON. Aucun DAF, RAF, comptable ou contrôleur de gestion trouvé (un poste de contrôleur de gestion relevé à Magny-Cours concerne Ligier Automotive, pas Danielson). Un responsable du département moteurs de Danielson apparaît sur rocketreach, sans source professionnelle exploitable. À l'appel : demander le président du groupe (confirmer le nom), puis le responsable administratif et financier du groupe (environ 130 salariés)."
+ },
+ {
+  "siren": "352563084",
+  "standard": {
+   "tel": null,
+   "source": null,
+   "fiabilite": null
+  },
+  "email_generique": null,
+  "site_web": null,
+  "dirigeant_principal": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS (registre) ; propriétaire-dirigeant depuis le rachat du laboratoire en 2008, également fondateur de la société pharmaceutique Global Farma",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pharmashopi.com/pharma-developpement-m-713.html"
+  },
+  "decideur_financier": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/352563084"
+  },
+  "autres_contacts": [],
+  "adresse": null,
+  "format_email_observe": null,
+  "decision": "Décision probablement prise par le propriétaire-président Mario Giron, qui a racheté le laboratoire en 2008 et le dirige sans groupe identifié ; il est aussi fondateur de Global Farma, son lieu de résidence (France ou étranger) n'est pas connu, donc vérifier s'il est présent à Corbigny.",
+  "note": "2e niveau : 6 recherches. Le registre est confirmé par des pages de revendeurs (Pharmashopi, Soin et Nature : https://www.soin-et-nature.com/fr/528_pharma-developpement) : laboratoire « dirigé par Mario Giron », qui l'a racheté en 2008 et l'a développé à l'export (États-Unis, Afrique francophone, Irak, Algérie, Thaïlande) ; produit phare Ydrovit (soluté de réhydratation, 2013). Date de création divergente selon les sources (1985 ou 1991). Une notice ANSM (https://ansm.sante.fr/actualites/impression/1899) mentionne une injonction contre l'établissement pharmaceutique de Corbigny, prolongée en 2018 puis levée le 13/03/2019. Aucun standard, email, site officiel ni DAF/RAF trouvé : la fiche Usine Nouvelle a des « contacts par direction » réservés aux abonnés (https://industrie.usinenouvelle.com/fiche/etablissement/pharma-developpement-100919204), et la page Vidal du laboratoire peut afficher un téléphone non visible dans les extraits. Les numéros en 03 86 20 vus à Corbigny sont ceux de pharmacies ou d'un cabinet comptable, non retenus. À l'appel : trouver le numéro via la page Vidal ou le fichier Usine Nouvelle, demander le pharmacien responsable ou le directeur de site, le responsable administratif et financier, et si Mario Giron est présent sur place."
+ }
+]

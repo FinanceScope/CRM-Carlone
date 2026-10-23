@@ -721,7 +721,8 @@ for c in base + ext:
 print('vérifications :', len(VERIF), dict(n_vf))
 
 # relecture du 22/10/2026 : coordonnées sans source publiée, profils LinkedIn personnels, libellés
-RETIRER = {'823687033': ('email',)}       # adresse hotmail nominative, introuvable sur une page publique
+RETIRER = {'823687033': ('email',),       # adresse hotmail nominative, introuvable sur une page publique
+           '397727397': ('telephone', 'autres_contacts')}   # LOOK Fixations (Rossignol) : numéro et contact des passes précédentes = LOOK Cycle
 # le mobile d'Aizen (331967943), d'abord retiré faute de source, figure dans la présentation 2024 de l'entreprise (lot h23)
 AUDITEURS = re.compile(r'(KPMG|DELOITTE|MAZARS|ERNST|PRICEWATERHOUSE|GRANT THORNTON|BDO)\b', re.I)
 for c in base + ext:

@@ -132,6 +132,21 @@ ANGLE_OVERRIDES = {
 }
 for r, t in ANGLE_OVERRIDES.items():
     byr[r]['angle_partenariat'] = t
+# corrections relevées par la recherche approfondie du 23/10/2026
+CORRECTIONS_FICHES = {
+  35: dict(nom_commercial='LOOK Fixations (fixations de ski, groupe Rossignol)',
+           groupe='Groupe Rossignol (fixations de ski LOOK depuis 1994)',
+           telephone=None, site_web='https://look-bindings.com', linkedin=None, actualite=None,
+           description="Usine des fixations de ski LOOK, 2 rue de la Pique à Nevers depuis 1974, propriété du groupe Rossignol depuis 1994 : "
+                       "site de production d'environ 100 salariés, la R&D étant à Saint-Jean-de-Moirans (Isère). "
+                       "À ne pas confondre avec LOOK Cycle (vélos et pédales), autre société nivernaise.",
+           angle_partenariat="Site de production d'un groupe dont le siège est en Isère : demander le directeur de l'usine ; décision probablement prise chez Rossignol.",
+           _correction="23/10/2026 : il s'agit de l'usine de fixations de ski LOOK (groupe Rossignol), pas de LOOK Cycle ; nom, groupe, site, description et téléphone corrigés (sources : look-bindings.com/history, skipass.com)."),
+}
+for r, fx in CORRECTIONS_FICHES.items():
+    fx = dict(fx); note = fx.pop('_correction')
+    byr[r].update(fx)
+    byr[r]['corrections'] = list(byr[r].get('corrections') or []) + [note]
 # garde-fou : aucune mention des établissements dans les angles
 INTERDIT = re.compile(r"vieux relais|\ble m\b|\bdu m\b|\bau m\b|nos établissements|\bbar\b|\brestaurants?\b|chambres|bar-restaurant", re.I)
 for c in out:
