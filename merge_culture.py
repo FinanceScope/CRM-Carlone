@@ -93,6 +93,18 @@ if p:
     p['contact']['telephone'] = '06 62 11 51 68 (présidente)'
     p['contact']['adresse'] = None
 
+# notre lieu dans les idées d'événement : Le Vieux Relais (nommable auprès des artistes et associations), jamais « le bar » ni le M ;
+# un « bar-restaurant » suivi d'un nom propre (Le Cerf…) est le lieu de quelqu'un d'autre et reste tel quel
+NOTRE_LIEU = [(re.compile(r"\b(au|du|le|pour le) bar(?:-restaurant)?\b(?!\s+[A-ZÀ-Ý«])"), lambda m: {'au': 'au', 'du': 'du', 'le': 'le', 'pour le': 'pour le'}[m.group(1)] + ' Vieux Relais')]
+for p in prospects:
+    for k in ('idee_evenement',):
+        for rx, rep in NOTRE_LIEU:
+            if p.get(k): p[k] = rx.sub(rep, p[k])
+INTERDIT_CULTURE = re.compile(r"\ble m\b|\bau m\b|\bdu m\b|\bau bar\b(?!-restaurant\s+[A-ZÀ-Ý])|\bdu bar\b(?!-restaurant\s+[A-ZÀ-Ý])", re.I)
+for p in prospects:
+    for k in ('idee_evenement', 'description', 'evenements_existants', 'activite_recente'):
+        assert not INTERDIT_CULTURE.search(p.get(k) or ''), (p['id'], k, p.get(k))
+
 playbook = load('playbook.json')
 out = {'prospects': prospects, 'playbook': playbook}
 json.dump(out, open(ROOT + '/site/culture.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)

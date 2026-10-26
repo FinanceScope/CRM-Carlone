@@ -365,7 +365,7 @@ p.txt{margin:0;max-width:65ch}
 .saved{font-size:12px;color:var(--muted);min-height:1em}
 .hist{display:flex;flex-direction:column;gap:9px;margin:0;padding:0;list-style:none}
 .hist li{border-left:2px solid var(--line);padding:2px 0 2px 11px}
-.hist time{font-size:12px;color:var(--faint);font-variant-numeric:tabular-nums}
+.hist time{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 .hist .by{font-size:12px;color:var(--muted)}
 .addlog{display:flex;gap:8px}
 .addlog input{flex:1;min-width:0;padding:9px 13px;border:1px solid var(--line);border-radius:999px;background:var(--bg)}
@@ -378,7 +378,48 @@ p.txt{margin:0;max-width:65ch}
   .close{display:inline-flex;align-self:flex-start}
 }
 @media (prefers-reduced-motion:no-preference){.row,.wave li button,.stage,.tab{transition:background .12s,border-color .12s}}
-.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(18px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:10px 18px;border-radius:999px;font-size:13.5px;z-index:40;box-shadow:var(--shadow)}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(18px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:10px 18px;border-radius:999px;font-size:13.5px;z-index:40;box-shadow:var(--shadow);display:flex;align-items:center;gap:6px;max-width:calc(100vw - 32px)}
+.tbtn{border:0;background:transparent;color:inherit;font-weight:700;text-decoration:underline;text-underline-offset:2px;cursor:pointer;padding:4px 6px;white-space:nowrap}
+/* Feuille d'appels : ligne détaillée, saisie en ligne */
+.clamp{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.alast{font-size:12.5px;color:var(--muted)}
+.abrief summary{cursor:pointer;color:var(--accent);font-weight:600;font-size:13px;list-style:none}
+.abrief summary::-webkit-details-marker{display:none}
+.abrief summary::before{content:"+ "}
+.abrief[open] summary::before{content:"– "}
+.abrief p{margin:6px 0 0;font-size:13.5px;max-width:70ch}
+.abrief ul{margin:6px 0 0;padding-left:18px;font-size:13.5px;display:flex;flex-direction:column;gap:4px}
+.abrief b{font-size:12.5px;color:var(--accent)}
+.aform{display:flex;flex-wrap:wrap;gap:6px;align-items:center;background:var(--sunk);border-radius:var(--r-sm);padding:8px 10px;font-size:13px}
+.aform input{padding:7px 9px;border:1px solid var(--line);border-radius:var(--r-sm);background:var(--bg);min-width:0}
+.aform input[name=n]{flex:1 1 160px}
+.aform .btn{padding:6px 12px}
+.aform p{margin:0;flex:1 1 100%}
+.callbox{display:flex;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r-sm);padding:10px 12px}
+.callbox .tel{font-size:18px;font-weight:700;color:var(--ink);text-decoration:none}
+.callbox .tel:hover{color:var(--accent)}
+.cb-l{display:block;font-size:12px;color:var(--muted);font-weight:600}
+.cb-who{font-size:13.5px}
+.oppform{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:8px}
+.oppform select{padding:8px 10px;border:1px solid var(--line);border-radius:var(--r-sm);background:var(--bg)}
+.recent .btn{margin-top:8px}
+.mailsubj{display:flex;flex-direction:column;gap:6px;margin-top:8px}
+.mailsubj .mail{max-height:none;margin-top:0}
+.tshort{display:none}
+@media (max-width:640px){
+  .copy{min-height:36px;padding:6px 12px;margin-left:4px}
+  .tlong{display:none}.tshort{display:inline}.tab{padding:8px 13px}
+  .eyebrow{display:none}.brand h1{font-size:26px;margin-top:0}
+  #akpis{display:flex;flex-wrap:wrap;gap:4px 16px}
+  #akpis .kpi{flex-direction:row;align-items:baseline;gap:6px;padding:0;background:none;border:0;box-shadow:none}
+  #akpis .kpi b{font-size:22px}#akpis .kpi small{display:none}#akpis .kpi span{font-size:13px}
+  .top-actions{gap:8px}.sync{font-size:12px}
+  #exportBtn span{display:none}#exportBtn{padding:8px 11px}
+  #viewAppels .sec-title{display:none}
+  .content{padding-block:16px 48px;gap:16px}
+  .toolbar select{flex:1 1 40%;padding:9px 12px}
+  .toolbar .count{flex:1 1 100%;margin-left:0}
+}
 </style>
 
 <header class="band">
@@ -392,16 +433,16 @@ p.txt{margin:0;max-width:65ch}
       <div class="top-actions">
         <div class="scope" id="scope" role="group" aria-label="Périmètre"><button type="button" data-scope="100" aria-pressed="true">100 entreprises</button><button type="button" data-scope="all" aria-pressed="false">Les 500</button></div>
         <span class="sync" id="sync"><i></i><span>Connexion…</span></span>
-        <button class="btn-ghost" id="exportBtn" type="button"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>Exporter CSV</button>
+        <button class="btn-ghost" id="exportBtn" type="button"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg><span>Exporter les entreprises (CSV)</span></button>
       </div>
     </div>
 
     <svg class="loire" viewBox="0 0 1200 24" preserveAspectRatio="none" aria-hidden="true"><path d="M0 14 C 60 4, 120 4, 180 12 S 300 22, 360 14 S 480 2, 560 10 S 700 22, 780 14 S 900 4, 980 10 S 1120 22, 1200 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"/></svg>
     <div class="tabs" role="tablist" aria-label="Vues">
-      <button class="tab" role="tab" id="tab-plan" data-view="plan" aria-selected="true" type="button">Plan d'attaque</button>
+      <button class="tab" role="tab" id="tab-plan" data-view="plan" aria-selected="true" type="button"><span class="tlong">Plan d'attaque</span><span class="tshort">Plan</span></button>
       <button class="tab" role="tab" id="tab-appels" data-view="appels" aria-selected="false" type="button">Appels</button>
-      <button class="tab" role="tab" id="tab-fiches" data-view="fiches" aria-selected="false" type="button">Les 100 entreprises</button>
-      <button class="tab" role="tab" id="tab-culture" data-view="culture" aria-selected="false" type="button">Culture &amp; événements</button>
+      <button class="tab" role="tab" id="tab-fiches" data-view="fiches" aria-selected="false" type="button"><span class="tlong">Les 100 entreprises</span><span class="tshort">Fiches</span></button>
+      <button class="tab" role="tab" id="tab-culture" data-view="culture" aria-selected="false" type="button"><span class="tlong">Culture &amp; événements</span><span class="tshort">Culture</span></button>
     </div>
 
     <div id="heroPlan" class="hero">
@@ -437,7 +478,7 @@ p.txt{margin:0;max-width:65ch}
   <div class="sec-title"><div><span class="kicker">Ordre d'attaque</span><h2>Les vagues de prospection</h2></div><span class="hint">Clique sur une entreprise pour ouvrir sa fiche</span></div>
   <div class="waves" id="waves"></div>
 
-  <div class="sec-title"><div><span class="kicker">Article 238 bis AB du CGI</span><h2>Le dispositif en cinq conditions</h2></div><span class="tag-valid">Achats réalisés avant le 31/12/2028</span></div>
+  <div class="sec-title"><div><span class="kicker">Article 238 bis AB du CGI</span><h2>Le dispositif en cinq conditions</h2></div><span class="tag-valid">Achats réalisés jusqu'au 31/12/2028</span></div>
   <div class="grid5" id="offers"></div>
 
   <div class="sec-title"><div><span class="kicker">Avec le client</span><h2>Le calcul à faire ensemble</h2></div><span class="hint">Chiffres indicatifs, à valider avec son expert-comptable</span></div>
@@ -459,20 +500,20 @@ p.txt{margin:0;max-width:65ch}
   <div class="scripts">
     <article class="script card">
       <div class="step"><span class="n">1</span><h3>Appel au standard</h3><span class="dur">30 secondes</span></div>
-      <p>« Bonjour, je m'appelle <b>[Prénom]</b>. J'appelle au sujet d'un dispositif fiscal pour les entreprises : l'achat d'œuvres d'art déductible du résultat. Qui suit ces questions chez vous : la direction, ou le responsable administratif et financier ? »</p>
-      <p class="next">Objectif : le nom du décideur, sa ligne directe ou son e-mail. Le noter dans la fiche avec la date de relance.</p>
+      <p>« Bonjour, je m'appelle <b>[Prénom]</b>, de <b>[structure qui vend les œuvres]</b>. J'appelle au sujet d'un dispositif fiscal pour les entreprises : l'achat d'œuvres d'art déductible du résultat. Qui suit ces questions chez vous : la direction, ou le responsable administratif et financier ? »</p>
+      <p class="next">Objectif : le nom du décideur, sa ligne directe ou son e-mail. Le noter dans la fiche (Interlocuteur, Tél. / e-mail direct) avec la date de rappel.</p>
     </article>
     <article class="script card">
       <div class="step"><span class="n">2</span><h3>Avec le décideur</h3><span class="dur">3 minutes</span></div>
-      <p>« Une entreprise qui achète une œuvre originale d'un artiste vivant peut en déduire le prix de son résultat, sur cinq ans. Le dispositif vient d'être prolongé jusqu'à fin 2028. Pour vous, la limite est d'environ <b>[plafond de la fiche]</b> par an. »</p>
+      <p>« Une société à l'IS et bénéficiaire qui achète une œuvre originale d'un artiste vivant peut en déduire le prix de son résultat, sur cinq ans, sous réserve de validation par votre expert-comptable. Le dispositif vient d'être prolongé jusqu'à fin 2028. Pour vous, la limite est d'environ <b>[plafond de la fiche]</b> par an. »</p>
       <p>« Exemple : une œuvre de 25 000 € se déduit à raison de 5 000 € par an. Au taux de 25 %, c'est environ 6 250 € d'impôt en moins sur cinq ans, et l'œuvre reste à l'actif. Vous avez un hall, un espace d'accueil ou une salle de pause où une œuvre aurait sa place ? »</p>
       <p>« Le plus simple, c'est qu'on passe vingt minutes vous présenter une sélection adaptée à vos locaux. »</p>
-      <p class="next">Objectif : un rendez-vous. Passer le statut à « RDV fixé ».</p>
+      <p class="next">Objectif : un rendez-vous. Le noter avec « Rendez-vous fixé » : date, heure et lieu.</p>
     </article>
     <article class="script card">
       <div class="step"><span class="n">?</span><h3>Les objections</h3></div>
       <dl class="obj">
-        <dt>« Je dois voir avec mon expert-comptable. »</dt><dd>« Bien sûr. Je vous envoie une page avec les références du dispositif pour lui. Je vous rappelle quel jour ? » Puis noter la relance.</dd>
+        <dt>« Je dois voir avec mon expert-comptable. »</dt><dd>« Bien sûr. Je vous envoie une note avec les références du dispositif pour lui. Je vous rappelle quel jour ? » La note est prête à copier dans la fiche ; noter la date de rappel.</dd>
         <dt>« On n'a pas de place pour exposer. »</dt><dd>« Il faut un lieu accessible au public ou aux salariés : un hall, une salle de pause, un couloir suffisent. Seuls les bureaux ne comptent pas. »</dd>
         <dt>« On a fait une année difficile. »</dt><dd>« Alors ce n'est pas le moment : la déduction n'a d'intérêt que si l'entreprise paie de l'impôt. Je vous rappelle après votre prochaine clôture ? »</dd>
         <dt>« Ça a l'air compliqué. »</dt><dd>« L'œuvre va à l'actif, et chaque année une réserve spéciale du montant déduit au passif. Votre expert-comptable connaît la mécanique. »</dd>
@@ -480,18 +521,20 @@ p.txt{margin:0;max-width:65ch}
       </dl>
     </article>
   </div>
-  <p class="foot-note">Le mail d'approche personnalisé se génère dans chaque fiche entreprise, avec son plafond de déduction et le lieu d'exposition possible. Il ne mentionne jamais nos établissements.</p>
+  <p class="foot-note">Le mail d'approche personnalisé se génère dans chaque fiche entreprise, avec son plafond de déduction et le lieu d'exposition possible. Il ne mentionne jamais nos établissements. Avant tout envoi, y indiquer la structure qui vend les œuvres et vérifier sur Pappers que l'entreprise ne s'est pas opposée à la prospection.</p>
 
   <div class="sec-title"><div><span class="kicker">Avant d'appeler</span><h2>Le cadre légal</h2></div></div>
   <div class="acc card">
     <details><summary>Les textes</summary><div class="accb">
       <div class="rule"><b>Article 238 bis AB du Code général des impôts</b>Déduction du prix d'acquisition des œuvres originales d'artistes vivants inscrites à l'actif immobilisé, par fractions égales sur l'exercice d'acquisition et les quatre suivants. <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046868630" target="_blank" rel="noopener">Légifrance</a></div>
-      <div class="rule"><b>BOFiP BOI-BIC-CHG-70-10 (version du 15/04/2026)</b>Doctrine de l'administration : entreprises concernées, plafond, conditions d'exposition, réserve spéciale. Prorogation aux acquisitions réalisées avant le 31/12/2028 par l'article 89 de la loi de finances pour 2026. <a href="https://bofip.impots.gouv.fr/bofip/1801-PGP.html/identifiant=BOI-BIC-CHG-70-10-20260415" target="_blank" rel="noopener">BOFiP</a></div>
+      <div class="rule"><b>BOFiP BOI-BIC-CHG-70-10 (version du 15/04/2026)</b>Doctrine de l'administration : entreprises concernées, plafond, conditions d'exposition, réserve spéciale. Prorogation aux acquisitions réalisées jusqu'au 31/12/2028 par l'article 89 de la loi de finances pour 2026. Les œuvres originales sont celles définies à l'article 98 A de l'annexe III au CGI. <a href="https://bofip.impots.gouv.fr/bofip/1801-PGP.html/identifiant=BOI-BIC-CHG-70-10-20260415" target="_blank" rel="noopener">BOFiP</a></div>
     </div></details>
     <details><summary>Ce que l'on dit, et ce que l'on ne dit pas</summary><div class="accb">
       <ul>
         <li>Plafond annuel : 20 000 € ou 5 ‰ du chiffre d'affaires HT si ce montant est plus élevé, réduit des dons de mécénat de l'année. La part qui dépasse n'est pas reportable.</li>
-        <li>Les plafonds des fiches sont calculés sur le dernier chiffre d'affaires publié : ce sont des ordres de grandeur.</li>
+        <li>Les plafonds des fiches sont calculés sur le dernier chiffre d'affaires connu (publié, ou relevé par la recherche pour 2025) : ce sont des ordres de grandeur.</li>
+        <li>Œuvre originale au sens fiscal (article 98 A de l'annexe III au CGI) : par exemple une photographie signée et numérotée, à 30 exemplaires au plus, ou une fonte de sculpture à 8 exemplaires au plus. Vérifier chaque œuvre avant de la dire déductible.</li>
+        <li>Si l'œuvre est cédée, change d'affectation ou si la réserve spéciale est prélevée, les sommes déduites sont réintégrées au résultat imposable.</li>
         <li>Toujours renvoyer la validation du montage (régime fiscal, plafond, lieu d'exposition, réserve spéciale) à l'expert-comptable de l'entreprise. Nous ne donnons pas de conseil fiscal.</li>
         <li>Ne jamais parler de nos établissements ni d'un lieu où nous exposerions les œuvres.</li>
         <li>Entreprises opposées à la prospection (drapeau dans la fiche) : pas de mailing, contact direct uniquement.</li>
@@ -502,7 +545,8 @@ p.txt{margin:0;max-width:65ch}
         <li>Téléphone : le consentement préalable obligatoire depuis le 11/08/2026 vise les consommateurs. Nos appels vers des entreprises en sont très probablement exclus, à confirmer par un juriste. Prudence avec les entrepreneurs individuels joints sur une ligne personnelle.</li>
         <li>Bonne pratique reprise des règles pour les consommateurs : appeler en semaine, de 10 h à 13 h et de 14 h à 20 h, et pas plus de 4 fois en 30 jours.</li>
         <li>E-mail : possible sans accord préalable si le message concerne la fonction de la personne (dirigeant, finances). Chaque mail dit qui l'envoie et offre un moyen gratuit de se désinscrire. Un refus se note dans la fiche et se garde au moins 3 ans.</li>
-        <li>Vente : une entreprise de 5 salariés au plus qui achète hors de nos locaux, en dehors de son activité principale, a droit à l'information précontractuelle et à 14 jours de rétractation (article L221-3 du Code de la consommation).</li>
+        <li>Vente : une entreprise de 5 salariés au plus qui achète hors de nos locaux, en dehors de son activité principale, a droit à l'information précontractuelle, à un contrat écrit avec formulaire de rétractation et à 14 jours de rétractation ; aucun paiement ni acompte avant 7 jours après la signature (articles L221-3, L221-9 et L221-10 du Code de la consommation).</li>
+        <li>Conservation : les prospects sans réponse sont supprimés 3 ans après leur dernier contact ; seule la liste des refus est gardée (nom, date, canal).</li>
         <li>Ne pas enregistrer les appels.</li>
       </ul>
       <div class="rule"><b>Étude Hermès (Vocalcom) et alternatives</b>Fonctionnement, connecteur HUCC, import de nos fiches, coût, alternatives et cadre légal en détail, avec les sources. <a href="https://claude.ai/artifact/7CxFvbouc5d9Y4Xcxq4wMk" target="_blank" rel="noopener">Lire la note</a></div>
@@ -518,14 +562,15 @@ p.txt{margin:0;max-width:65ch}
 </section>
 
 <section id="viewAppels" class="gutter content" hidden aria-labelledby="tab-appels">
-  <div class="sec-title"><div><span class="kicker">Feuille d'appels</span><h2>Qui appeler maintenant</h2></div><span class="hint">Note le résultat dans la liste : sans réponse, la relance passe au jour ouvré suivant</span></div>
+  <div class="sec-title"><div><span class="kicker">Feuille d'appels</span><h2>Qui appeler maintenant</h2></div><span class="hint">Note le résultat dans la liste : sans réponse, le rappel passe au jour ouvré suivant</span></div>
   <div class="toolbar">
+    <label class="search"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg><input type="search" id="aq" placeholder="Nom, ville ou numéro qui appelle…" aria-label="Rechercher dans la feuille d'appels"></label>
     <select id="aResp" aria-label="Appelant"><option value="">Tous les appelants</option></select>
     <select id="aVague" aria-label="Vague"><option value="">Toutes les vagues</option><option value="1">Vague 1 · Cosne</option><option value="2">Vague 2 · le bassin</option><option value="3">Vague 3 · grands comptes</option></select>
     <span class="count num" id="acount"></span>
   </div>
   <div id="alist" class="alist"></div>
-  <p class="foot-note">Les entreprises « Pas intéressé », « Partenaire » ou qui ont demandé à ne plus être appelées sortent de la liste. Le refus de prospection est daté dans la fiche et doit être conservé 3 ans.</p>
+  <p class="foot-note">Les entreprises « Pas intéressé », « Œuvre achetée » ou qui ont demandé à ne plus être contactées sortent de la liste. Le refus de prospection est daté dans la fiche et conservé 3 ans. <button class="tbtn" type="button" id="exportOpp" style="color:var(--accent);padding:0">Exporter la liste des refus (CSV)</button></p>
 </section>
 
 <section id="viewFiches" class="gutter content" hidden aria-labelledby="tab-fiches">
@@ -534,7 +579,7 @@ p.txt{margin:0;max-width:65ch}
     <select id="fPrio" aria-label="Priorité"><option value="">Toutes priorités</option><option>Haute</option><option>Moyenne</option><option>Basse</option></select>
     <select id="fSect" aria-label="Secteur"><option value="">Tous secteurs</option></select>
     <select id="fTop" aria-label="Classement"><option value="">Tout le classement</option><option value="top">Top 100</option><option value="ext">Rangs 101 à 500</option></select>
-    <select id="fContact" aria-label="Coordonnées"><option value="">Toutes coordonnées</option><option value="tel">Avec téléphone</option><option value="notel">Sans téléphone</option><option value="fin">Avec décideur financier</option></select>
+    <select id="fContact" aria-label="Coordonnées"><option value="">Toutes coordonnées</option><option value="tel">Avec téléphone</option><option value="notel">Sans téléphone</option><option value="fin">Avec décideur financier</option><option value="opp">Opposées à la prospection</option></select>
     <select id="fArt" aria-label="Profil fiscal"><option value="">Tous profils fiscaux</option><option value="isb">À l'IS et bénéficiaires</option><option value="pub">Lieu ouvert au public</option><option value="big">Plafond au-dessus de 20 000 €</option></select>
     <select id="fSort" aria-label="Trier">
       <option value="rang">Tri : rang (CA)</option>
@@ -542,7 +587,7 @@ p.txt{margin:0;max-width:65ch}
       <option value="plafond">Tri : plafond de déduction</option>
       <option value="dist">Tri : proximité de Cosne</option>
       <option value="eff">Tri : effectif</option>
-      <option value="relance">Tri : prochaine relance</option>
+      <option value="relance">Tri : prochain rappel</option>
     </select>
     <span class="count num" id="count"></span>
   </div>
@@ -551,7 +596,7 @@ p.txt{margin:0;max-width:65ch}
       <div class="list-head"><span>#</span><span>Entreprise</span><span>Chiffre d'affaires</span><span>Priorité</span><span>Statut</span></div>
       <div id="rows"><div class="empty">Chargement des fiches…</div></div>
     </section>
-    <aside class="detail card closed w0" id="detail" aria-live="polite"></aside>
+    <aside class="detail card closed w0" id="detail" aria-label="Fiche entreprise"></aside>
   </div>
   <p class="foot-note" id="methodNote"></p>
 </section>
@@ -578,7 +623,7 @@ p.txt{margin:0;max-width:65ch}
       <div class="list-head chead"><span></span><span>Nom</span><span>Priorité</span><span>Statut</span></div>
       <div id="crows"><div class="empty">Chargement des prospects…</div></div>
     </section>
-    <aside class="detail card closed f2" id="cdetail" aria-live="polite"></aside>
+    <aside class="detail card closed f2" id="cdetail" aria-label="Fiche prospect culture"></aside>
   </div>
 
   <div class="sec-title"><div><span class="kicker">Idées de soirées</span><h2>Formats d'événements</h2></div></div>
@@ -612,28 +657,45 @@ const STATUTS=[
   {k:"contacte",l:"Contacté"},
   {k:"en_discussion",l:"En discussion"},
   {k:"rdv",l:"RDV fixé"},
-  {k:"partenaire",l:"Partenaire"},
+  {k:"partenaire",l:"Œuvre achetée"},
   {k:"refus",l:"Pas intéressé"}
 ];
 const SLABEL=Object.fromEntries(STATUTS.map(s=>[s.k,s.l]));
+const SORD={a_contacter:0,contacte:1,en_discussion:2,rdv:3,partenaire:4};   // un résultat d'appel ne fait jamais reculer le statut (sauf refus)
 const RESULTATS=[
   {k:"pas_reponse",l:"Pas de réponse"},
   {k:"repondeur",l:"Répondeur, message laissé"},
   {k:"barrage",l:"Bloqué au standard"},
-  {k:"rappeler",l:"À rappeler"},
+  {k:"rappeler",l:"À rappeler",m:"À rappeler (date, heure)…"},
   {k:"interesse",l:"Intéressé, infos à envoyer"},
-  {k:"rdv",l:"Rendez-vous fixé"},
-  {k:"pas_interesse",l:"Pas intéressé"},
+  {k:"rdv",l:"Rendez-vous fixé",m:"Rendez-vous fixé (date, lieu)…"},
   {k:"faux_numero",l:"Faux numéro"},
-  {k:"stop",l:"Ne plus appeler (refus de prospection)"}
+  {k:"pas_interesse",l:"Pas intéressé",m:"Pas intéressé…"},
+  {k:"stop",l:"Ne plus contacter (refus de prospection)",m:"Ne plus contacter (refus)…"}
 ];
 const RLABEL=Object.fromEntries(RESULTATS.map(r=>[r.k,r.l]));
 const RSTATUT={interesse:"en_discussion",rdv:"rdv",pas_interesse:"refus",stop:"refus"};
-const RELANCE_AUTO=new Set(["pas_reponse","repondeur","barrage","rappeler"]);   // relance proposée au jour ouvré suivant
+const RELANCE_AUTO=new Set(["pas_reponse","repondeur","barrage","rappeler"]);   // rappel proposé au jour ouvré suivant
+const FORM_RES=new Set(["rappeler","rdv","pas_interesse","stop"]);             // demandent une date ou une confirmation
 const rcls=k=>k==="rdv"||k==="interesse"?"s-rdv":k==="pas_interesse"||k==="stop"||k==="faux_numero"?"s-refus":k==="rappeler"?"s-en_discussion":"s-contacte";
 const isoDay=d=>{const z=new Date(d.getTime()-d.getTimezoneOffset()*60000);return z.toISOString().slice(0,10)};
-function nextWorkday(){const d=new Date();do{d.setDate(d.getDate()+1)}while(d.getDay()===0||d.getDay()===6);return isoDay(d)}
-const e164=t=>{const d=String(t||"").replace(/\D/g,"");return /^0\d{9}$/.test(d)?"+33"+d.slice(1):""};
+/* Jours fériés en France (Pâques par l'algorithme de Meeus) : pas de rappel ces jours-là */
+function feries(y){
+  const a=y%19,b=Math.floor(y/100),c=y%100,d=Math.floor(b/4),e=b%4,f=Math.floor((b+8)/25),g=Math.floor((b-f+1)/3),h=(19*a+b-d-g+15)%30,i=Math.floor(c/4),k=c%4,l=(32+2*e+2*i-h-k)%7,m=Math.floor((a+11*h+22*l)/451);
+  const p=new Date(y,Math.floor((h+l-7*m+114)/31)-1,(h+l-7*m+114)%31+1,12),off=n=>{const x=new Date(p);x.setDate(x.getDate()+n);return isoDay(x)};
+  return [off(1),off(39),off(50),...["01-01","05-01","05-08","07-14","08-15","11-01","11-11","12-25"].map(s=>y+"-"+s)];
+}
+const FERIES=new Set([2026,2027,2028,2029].flatMap(feries));
+const ouvre=d=>d.getDay()!==0&&d.getDay()!==6&&!FERIES.has(isoDay(d));
+function addWorkdays(n){const d=new Date();d.setHours(12,0,0,0);let k=0;while(k<n){d.setDate(d.getDate()+1);if(ouvre(d))k++}return isoDay(d)}
+function nextWorkday(){return addWorkdays(1)}
+function firstWorkdayFrom(iso){const d=new Date(iso+"T12:00");while(!ouvre(d))d.setDate(d.getDate()+1);return isoDay(d)}
+const fmtDay=d=>new Date(d+"T12:00").toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"});
+const fmtShortDay=d=>new Date(d+"T12:00").toLocaleDateString("fr-FR",{weekday:"short",day:"numeric",month:"short"});
+const fmtStamp=t=>new Date(t).toLocaleString("fr-FR",{dateStyle:"short",timeStyle:"short"});
+const e164=t=>{let d=String(t||"").replace(/\D/g,"");if(/^330\d{9}$/.test(d))d=d.slice(2);else if(/^33\d{9}$/.test(d))d="0"+d.slice(2);return /^0\d{9}$/.test(d)?"+33"+d.slice(1):""};
+const telIn=v=>{const m=String(v||"").match(/(?:\+33\s?(?:\(0\)\s?)?|0)[1-9](?:[\s.-]?\d{2}){4}/);return m?m[0]:""};   // premier numéro d'un texte libre
+const norm=s=>String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase().trim();
 const SCOLOR=Object.fromEntries(STATUTS.map((s,i)=>[s.k,`var(--st-${i})`]));
 const SVGA='fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"';
 const ICONS={
@@ -652,10 +714,10 @@ const plafondOf=ca=>Math.max(PLANCHER,Math.round(TAUX_CA*(ca||0)));
 const isOk=c=>c.art&&c.art.regime!=="À vérifier"&&c.art.benefice===true;
 const DISPOSITIF=[
   {t:"Pour qui",i:"building",h:"Les sociétés à l'IS qui font des bénéfices",p:"La déduction réduit le bénéfice imposable : elle n'a d'intérêt que si l'entreprise paie de l'impôt. Sociétés de personnes et entreprises à l'IR : à vérifier avec l'expert-comptable.",q:"Votre exercice en cours sera-t-il bénéficiaire ?",n:c=>isOk(c),cnt:"sociétés à l'IS bénéficiaires"},
-  {t:"Quelles œuvres",i:"palette",h:"Des œuvres originales d'artistes vivants",p:"Peinture, sculpture, photographie, céramique… achetées avant le 31/12/2028 et inscrites à l'actif immobilisé de l'entreprise.",q:"Avez-vous déjà des œuvres dans vos locaux ?"},
+  {t:"Quelles œuvres",i:"palette",h:"Des œuvres originales d'artistes vivants",p:"Peinture, dessin, sculpture, photographie, céramique, au sens fiscal de l'œuvre originale (par exemple photographie signée et numérotée, 30 exemplaires au plus), achetées jusqu'au 31/12/2028 et inscrites à l'actif immobilisé.",q:"Avez-vous déjà des œuvres dans vos locaux ?"},
   {t:"Combien",i:"briefcase",h:"20 000 € par an, ou 5 ‰ du CA si c'est plus",p:"Le prix se déduit par cinquièmes sur cinq ans. La limite annuelle est réduite des dons de mécénat de l'année, et ce qui la dépasse n'est pas reportable.",q:"Faites-vous déjà des dons de mécénat cette année ?",n:c=>c.art&&c.art.plafond>PLANCHER,cnt:"au-dessus de 20 000 € par an"},
   {t:"Où l'exposer",i:"users",h:"Dans un lieu accessible au public ou aux salariés",p:"Gratuitement, pendant les cinq ans. Hall, surface de vente, salle de pause, cantine : oui. Bureaux et pièces réservées à quelques personnes : non. Le public doit savoir où voir l'œuvre.",q:"Où recevez-vous vos clients, où se retrouvent vos équipes ?",n:c=>c.art&&c.art.public,cnt:"avec un lieu ouvert au public"},
-  {t:"Au bilan",i:"calendar",h:"Une réserve spéciale au passif",p:"Chaque année, l'entreprise inscrit au passif, en réserve spéciale, une somme égale au montant déduit. Le traitement d'une revente se voit avec l'expert-comptable.",q:"Qui tient votre comptabilité ?"}
+  {t:"Au bilan",i:"calendar",h:"Une réserve spéciale au passif",p:"Chaque année, l'entreprise inscrit au passif, en réserve spéciale, une somme égale au montant déduit. Si l'œuvre est cédée, change d'affectation ou si la réserve est prélevée, les sommes déduites sont réintégrées au résultat.",q:"Qui tient votre comptabilité ?"}
 ];
 const VAGUES=[
   {k:1,w:"Vague 1 · semaine 1",t:"À Cosne",d:"Les cibles prioritaires qui ont un site à Cosne. On appelle en premier."},
@@ -677,170 +739,293 @@ const farSite=c=>c.site_cosne&&(c.distance_cosne_km==null||c.distance_cosne_km>5
 const kmEff=c=>farSite(c)?2:(c.distance_cosne_km??0);
 const kmL=d=>d===0?"< 1 km":d+" km";
 
-let allCompanies=[],scope="100",companies=[],byId={},suivi={},sel=null,db=null,userNs=null,mode="loading",canWrite=true,routeAnimated=false,view="plan";
+let allCompanies=[],scope="100",companies=[],byId={},suivi={},sel=null,db=null,userNs=null,myId=null,mode="loading",canWrite=true,ready=false,routeAnimated=false,view="plan",retView=null;
 let filt={q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:"rang"};
 let culture={prospects:[],playbook:null},cById={},csel=null,cfilt={q:"",fam:"",prio:"",statut:""};
 
 function key(x){return x.id}
 function S(x){return suivi[key(x)]||{}}
-function statutOf(x){return S(x).statut||"a_contacter"}
+function statutOf(x){const v=S(x).statut;return SLABEL[v]?v:"a_contacter"}
 function nameOf(c){return alias(c)||c.nom}
+const canEdit=()=>canWrite&&ready;
+const roNote=()=>!ready?"Connexion au suivi partagé…":"Tu peux consulter ce suivi, mais pas le modifier.";
 
-/* ---------- Données locales (repli) ---------- */
-function loadLocal(){try{return JSON.parse(localStorage.getItem("crm58-suivi")||"{}")}catch(e){return{}}}
+/* Historique : ancien tableau « historique » et entrées « journal » (une clé par échange : deux associés qui notent
+   en même temps n'écrasent jamais l'échange de l'autre). Appels, dernier résultat : déduits de l'historique. */
+const HC=new WeakMap();
+function histOf(s){
+  if(!s||typeof s!=="object")return [];
+  let h=HC.get(s);if(h)return h;
+  const m=new Map();
+  for(const e of Array.isArray(s.historique)?s.historique:[])if(e&&e.t)m.set(e.t+"|"+(e.by||""),e);
+  for(const [id,e] of Object.entries(s.journal&&typeof s.journal==="object"?s.journal:{}))if(e&&e.t)m.set(e.t+"|"+(e.by||""),Object.assign({id},e));
+  h=[...m.values()].sort((a,b)=>String(a.t).localeCompare(String(b.t)));
+  HC.set(s,h);return h;
+}
+function callsOf(x){const h=histOf(S(x)).filter(e=>e.res);const l=h[h.length-1];return {n:h.length,last:l?l.res:"",lastT:l?l.t:"",h}}
+const newId=t=>String(t).replace(/\D/g,"").slice(0,17)+Math.random().toString(36).slice(2,6);
+async function whoAmI(){if(myId||!userNs)return myId;try{myId=await userNs.id()}catch(e){}return myId}
+
+/* ---------- Données locales (repli hors claude.ai ou sans base) ---------- */
+function loadLocal(){try{const v=JSON.parse(localStorage.getItem("crm58-suivi")||"{}");return v&&typeof v==="object"?v:{}}catch(e){return {}}}
 function saveLocal(){try{localStorage.setItem("crm58-suivi",JSON.stringify(suivi))}catch(e){}}
+function mergeDeep(a,b){const o=a&&typeof a==="object"&&!Array.isArray(a)?{...a}:{};for(const [k,v] of Object.entries(b||{}))o[k]=v&&typeof v==="object"&&!Array.isArray(v)&&o[k]&&typeof o[k]==="object"&&!Array.isArray(o[k])?mergeDeep(o[k],v):v;return o}
 
-/* ---------- Écriture : une à la fois par document ---------- */
-const chains={};
-function persist(k,body){
-  suivi[k]=body;
-  if(mode!=="db"){saveLocal();return Promise.resolve()}
-  const run=()=>db.collection("suivi").doc(k).set(body).catch(e=>{
-    if(e&&e.code==="invalid_argument"){canWrite=false;renderDetail(true);renderCDetail(true);toast("Lecture seule : tu n'as pas les droits d'écriture sur ce CRM.")}
-    else toast("Enregistrement impossible pour le moment, réessaie.");
-  });
-  chains[k]=(chains[k]||Promise.resolve()).then(run);
-  return chains[k];
+/* ---------- Écriture : seuls les champs modifiés partent (update), une écriture à la fois par document.
+   Les écritures en attente restent appliquées par-dessus chaque instantané reçu, jusqu'à confirmation. ---------- */
+let base={},known=new Set();
+const pend={},chains={};
+function recompute(k){let d=base[k];for(const p of pend[k]||[])d=mergeDeep(d,p.ch);if(d)suivi[k]=d;else delete suivi[k]}
+const retry1=async f=>{try{return await f()}catch(e){if(e&&e.code==="unavailable"){await new Promise(r=>setTimeout(r,300+Math.random()*500));return f()}throw e}};
+function persist(k,ch){
+  if(mode!=="db"){const cur=loadLocal();cur[k]=mergeDeep(cur[k],ch);suivi=cur;saveLocal();return Promise.resolve(true)}
+  const entry={ch,done:false};(pend[k]=pend[k]||[]).push(entry);recompute(k);
+  const run=async()=>{
+    const ref=db.collection("suivi").doc(k);
+    try{
+      let ex=known.has(k);
+      if(!ex)ex=(await retry1(()=>ref.get())).exists;
+      try{await retry1(()=>ex?ref.update(ch):ref.set(ch))}
+      catch(e){if(!(ex&&e&&e.code==="invalid_argument")||(await retry1(()=>ref.get())).exists)throw e;await retry1(()=>ref.set(ch))}   // document supprimé entre-temps : le recréer
+      known.add(k);entry.done=true;return true;
+    }catch(e){
+      pend[k]=(pend[k]||[]).filter(p=>p!==entry);recompute(k);
+      if(e&&e.code==="invalid_argument"){canWrite=false;setSync("on","Suivi partagé (lecture seule)");toast("Lecture seule : tu n'as pas les droits d'écriture sur ce CRM. Rien n'a été enregistré.")}
+      else toast(e&&e.code==="quota_exceeded"?"Base partagée pleine : rien n'a été enregistré.":"Enregistrement impossible pour le moment : rien n'a été enregistré, réessaie.");
+      renderAll(true);return false;
+    }
+  };
+  const p=(chains[k]||Promise.resolve(true)).then(run,run);chains[k]=p;return p;
 }
-function patch(x,changes){
-  const body=JSON.parse(JSON.stringify(S(x)));
-  Object.assign(body,changes,{maj:new Date().toISOString()});
-  return persist(key(x),body);
-}
+function patch(x,changes){return persist(key(x),Object.assign({},changes,{maj:new Date().toISOString()}))}
 
 /* ---------- Suivi partagé (commun entreprises / culture) ---------- */
 function suiviHTML(x,p,ro){
-  const s=S(x),st=statutOf(x),dis=ro?"disabled":"";
+  const s=S(x),st=statutOf(x),dis=ro?"disabled":"",cl=callsOf(x),op=s.opposition;
+  const f=(id,label,v,ph,type)=>`<div class="field"><label for="${p}${id}">${label}</label><input id="${p}${id}"${type?` type="${type}"`:""} value="${esc(v||"")}"${ph?` placeholder="${esc(ph)}"`:""} ${dis}></div>`;
   return `<div class="d-sec">
     <h3>Suivi de prospection</h3>
-    ${ro?`<div class="ro-note">Tu peux consulter ce suivi, mais pas le modifier.</div>`:""}
+    ${ro?`<div class="ro-note">${roNote()}</div>`:""}
     <div class="form">
       <div class="field"><label for="${p}statut">Statut</label><select id="${p}statut" ${dis}>${STATUTS.map(o=>`<option value="${o.k}" ${o.k===st?"selected":""}>${o.l}</option>`).join("")}</select></div>
-      <div class="field"><label for="${p}resp">Qui s'en occupe</label><input id="${p}resp" value="${esc(s.responsable||"")}" placeholder="Mathys, associé…" ${dis}></div>
-      <div class="field"><label for="${p}cnom">Interlocuteur</label><input id="${p}cnom" value="${esc(s.contact_nom||"")}" placeholder="Nom, fonction" ${dis}></div>
-      <div class="field"><label for="${p}ctel">Tél. / e-mail direct</label><input id="${p}ctel" value="${esc(s.contact_coord||"")}" placeholder="06…, prenom@…" ${dis}></div>
-      <div class="field"><label for="${p}next">Prochaine action</label><input id="${p}next" value="${esc(s.prochaine_action||"")}" placeholder="Appeler, envoyer le message…" ${dis}></div>
-      <div class="field"><label for="${p}date">Date de relance</label><input id="${p}date" type="date" value="${esc(s.date_relance||"")}" ${dis}></div>
-      <div class="field"><label for="${p}heure">Heure de rappel</label><input id="${p}heure" type="time" value="${esc(s.rappel_heure||"")}" ${dis}></div>
-      <div class="field"><span class="flabel">Appels passés</span><span class="fval num">${s.appels||0}${s.dernier_resultat?` · <span class="pill ${rcls(s.dernier_resultat)}">${esc(RLABEL[s.dernier_resultat]||s.dernier_resultat)}</span>`:""}</span></div>
-      <div class="field full"><label for="${p}notes">Notes</label><textarea id="${p}notes" placeholder="Ce qu'ils ont répondu, leurs idées, leurs besoins…" ${dis}>${esc(s.notes||"")}</textarea></div>
+      ${f("resp","Qui s'en occupe",s.responsable,"Mathys, associé…")}
+      ${f("cnom","Interlocuteur",s.contact_nom,"Nom, fonction")}
+      ${f("ctel","Tél. / e-mail direct",s.contact_coord,"06…, prenom@…")}
+      ${f("next","Prochaine action",s.prochaine_action,"Appeler, envoyer la note…")}
+      ${f("date","Date de rappel",s.date_relance,"","date")}
+      ${f("heure","Heure de rappel",s.rappel_heure,"","time")}
+      <div class="field"><span class="flabel">Appels passés</span><span class="fval num">${cl.n}${cl.last?` · <span class="pill ${rcls(cl.last)}">${esc(RLABEL[cl.last]||"")}</span>`:""}</span></div>
+      ${f("rdvd","Rendez-vous le",s.rdv_date,"","date")}
+      ${f("rdvh","Rendez-vous à",s.rdv_heure,"","time")}
+      <div class="field full"><label for="${p}rdvn">Rendez-vous : où, avec qui</label><input id="${p}rdvn" value="${esc(s.rdv_note||"")}" placeholder="Dans leurs locaux, avec…" ${dis}></div>
+      <div class="field full"><label for="${p}notes">Notes</label><textarea id="${p}notes" placeholder="Ce qu'ils ont répondu, leurs locaux, leur expert-comptable…" ${dis}>${esc(s.notes||"")}</textarea></div>
     </div>
-    ${s.opposition?`<div class="recent"><b>Refus de prospection</b><span>Noté le ${esc(new Date(s.opposition.date).toLocaleDateString("fr-FR"))} (${esc(s.opposition.canal||"téléphone")}). Ne plus appeler ni écrire ; garder cette trace 3 ans.</span></div>`:""}
-    <div class="saved" id="${p}saved">${s.maj?"Mis à jour le "+new Date(s.maj).toLocaleString("fr-FR",{dateStyle:"short",timeStyle:"short"}):""}</div>
+    ${op?`<div class="recent"><b>Refus de prospection</b><span>Noté le ${esc(new Date(op.date).toLocaleDateString("fr-FR"))} (${esc(op.canal||"téléphone")}). Ne plus appeler ni écrire ; garder cette trace 3 ans.</span>${ro?"":`<button class="btn" type="button" id="${p}unopp">Retirer ce refus (erreur de saisie)</button>`}</div>`
+      :ro?"":`<details class="mailer"><summary>Enregistrer un refus de prospection</summary><div class="oppform"><label for="${p}oppc" class="flabel">Reçu par</label><select id="${p}oppc"><option value="téléphone">téléphone</option><option value="e-mail">e-mail (réponse STOP…)</option><option value="courrier">courrier</option><option value="en personne">en personne</option></select><button class="btn" type="button" id="${p}opp">Enregistrer le refus</button></div><span class="muted small">Sans compter d'appel : la date et le canal sont gardés 3 ans, et la fiche sort de la feuille d'appels.</span></details>`}
+    <div class="saved" id="${p}saved">${s.maj?"Mis à jour le "+fmtStamp(s.maj):""}</div>
     <h3>Historique des échanges</h3>
-    ${ro?"":`<form class="addlog" id="${p}logForm"><select id="${p}res" aria-label="Résultat de l'appel"><option value="">Échange (sans appel)</option>${RESULTATS.map(r=>`<option value="${r.k}">${r.l}</option>`).join("")}</select><input id="${p}log" placeholder="Ce qui s'est dit" aria-label="Nouvel échange"><button class="btn primary" type="submit">Ajouter</button></form>`}
+    ${ro?"":`<form class="addlog" id="${p}logForm"><select id="${p}res" aria-label="Résultat de l'appel"><option value="">Résultat de l'appel…</option><option value="note">Note sans appel</option>${RESULTATS.map(r=>`<option value="${r.k}">${r.l}</option>`).join("")}</select><input id="${p}log" placeholder="Ce qui s'est dit" aria-label="Nouvel échange"><button class="btn primary" type="submit">Ajouter</button></form>`}
     <ul class="hist" id="${p}hist"></ul>
   </div>`;
 }
 async function renderHist(x,p){
   const ul=document.getElementById(p+"hist");if(!ul)return;
-  const h=(S(x).historique||[]).slice().reverse();
+  const h=histOf(S(x)).slice().reverse();
   if(!h.length){ul.innerHTML=`<li class="muted">Aucun échange noté pour l'instant.</li>`;return}
-  const ids=[...new Set(h.map(e=>e.by).filter(Boolean))];
+  const ids=[...new Set(h.map(e=>e.by).filter(v=>typeof v==="string"))];
   let ps={};
   if(userNs&&ids.length){try{ps=await userNs.profiles(ids)}catch(e){}}
-  ul.innerHTML=h.map(e=>`<li><time>${new Date(e.t).toLocaleString("fr-FR",{dateStyle:"short",timeStyle:"short"})}</time>${e.by&&ps[e.by]&&ps[e.by].name?` <span class="by">· ${esc(ps[e.by].name)}</span>`:""}${e.res?` <span class="pill ${rcls(e.res)}">${esc(RLABEL[e.res]||e.res)}</span>`:""}<div>${esc(e.txt)}</div></li>`).join("");
+  if(!ul.isConnected)return;
+  ul.innerHTML=h.map(e=>`<li><time>${esc(fmtStamp(e.t))}</time>${e.by&&ps[e.by]&&ps[e.by].name?` <span class="by">· ${esc(ps[e.by].name)}</span>`:""}${e.res&&RLABEL[e.res]?` <span class="pill ${rcls(e.res)}">${esc(RLABEL[e.res])}</span>`:""}<div>${esc(e.txt)}</div></li>`).join("");
 }
 const deb={};
 function bindForm(x,p,refresh,redetail){
-  const map={statut:"statut",resp:"responsable",cnom:"contact_nom",ctel:"contact_coord",next:"prochaine_action",date:"date_relance",heure:"rappel_heure",notes:"notes"};
+  const map={statut:"statut",resp:"responsable",cnom:"contact_nom",ctel:"contact_coord",next:"prochaine_action",date:"date_relance",heure:"rappel_heure",rdvd:"rdv_date",rdvh:"rdv_heure",rdvn:"rdv_note",notes:"notes"};
   for(const [suffix,field] of Object.entries(map)){
     const id=p+suffix;const el=document.getElementById(id);if(!el)continue;
-    const commit=()=>{if((S(x)[field]||"")===el.value)return;
-      patch(x,{[field]:el.value}).then(()=>{const sv=document.getElementById(p+"saved");if(sv)sv.textContent="Enregistré"});
+    const commit=()=>{const v=el.tagName==="TEXTAREA"?el.value.replace(/\s+$/,""):el.value.trim();if((S(x)[field]||"")===v)return;
+      patch(x,{[field]:v}).then(ok=>{const sv=document.getElementById(p+"saved");if(ok&&sv)sv.textContent="Enregistré"});
       refresh();};
     if(el.tagName==="SELECT"||el.type==="date"||el.type==="time")el.addEventListener("change",()=>{commit();if(field==="statut")redetail()});
     else{el.addEventListener("input",()=>{clearTimeout(deb[id]);deb[id]=setTimeout(commit,900)});el.addEventListener("blur",()=>{clearTimeout(deb[id]);commit()})}
   }
-  const f=document.getElementById(p+"logForm");
-  if(f)f.addEventListener("submit",async e=>{e.preventDefault();const inp=document.getElementById(p+"log"),rs=document.getElementById(p+"res");
-    const res=rs?rs.value:"";const txt=inp.value.trim()||(res?RLABEL[res]:"");if(!txt)return;
+  const ob=document.getElementById(p+"opp");
+  if(ob)ob.addEventListener("click",async()=>{const canal=document.getElementById(p+"oppc").value,t=new Date().toISOString(),by=await whoAmI();
+    const ent={t,txt:"Refus de prospection reçu par "+canal};if(by)ent.by=by;
+    if(await patch(x,{opposition:{date:t,canal},statut:"refus",date_relance:"",rappel_heure:"",journal:{[newId(t)]:ent}}))toast("Refus enregistré : plus d'appel ni de mail");
+    refresh();redetail()});
+  const ub=document.getElementById(p+"unopp");
+  if(ub)ub.addEventListener("click",async()=>{const t=new Date().toISOString(),by=await whoAmI();
+    const ent={t,txt:"Refus de prospection retiré (erreur de saisie)"};if(by)ent.by=by;
+    if(await patch(x,{opposition:null,journal:{[newId(t)]:ent}}))toast("Refus retiré : remets le statut si besoin");
+    refresh();redetail()});
+  const fm=document.getElementById(p+"logForm");
+  if(fm)fm.addEventListener("submit",async e=>{e.preventDefault();const inp=document.getElementById(p+"log"),rs=document.getElementById(p+"res");
+    let res=rs?rs.value:"";const txt=inp.value.trim()||(RLABEL[res]||"");if(!txt)return;
+    if(res==="note")res="";
     inp.value="";if(rs)rs.value="";
-    await logResult(x,res,txt);refresh();redetail()});
+    const r=await logResult(x,res,txt);
+    if(r.ok&&res)toast("Noté : "+RLABEL[res]+r.info,{label:"Annuler",run:async()=>{if(await r.undo()){toast("Annulé");refresh();redetail()}}});
+    refresh();redetail();
+    if(res==="rdv"){const d=document.getElementById(p+"rdvd");if(d)d.focus()}});
 }
 
-/* Enregistre un échange ; avec un résultat d'appel : compteur, statut, relance et refus de prospection */
-async function logResult(x,res,txt){
-  let by=null;if(userNs){try{by=await userNs.id()}catch(err){}}
-  const s=S(x),t=new Date().toISOString();
-  const ent={t,txt,by};if(res)ent.res=res;
-  const ch={historique:(s.historique||[]).concat([ent]).slice(-200)};
+/* Enregistre un échange ; avec un résultat d'appel : statut, rappel, refus de prospection. Renvoie de quoi l'annuler. */
+async function logResult(x,res,txt,extra){
+  const by=await whoAmI();
+  const s=S(x),t=new Date().toISOString(),id=newId(t),today=isoDay(new Date()),st=statutOf(x);
+  const ent={t,txt};if(by)ent.by=by;if(res)ent.res=res;
+  const ch={journal:{[id]:ent}};let lim4=false;
   if(res){
-    ch.appels=(s.appels||0)+1;ch.dernier_resultat=res;ch.dernier_appel=t;
-    if(RSTATUT[res])ch.statut=RSTATUT[res];
-    else if(statutOf(x)==="a_contacter")ch.statut="contacte";
+    const n=RSTATUT[res],futur=s.date_relance&&s.date_relance>today;
+    if(n==="refus"||(n&&SORD[n]>(SORD[st]??0)))ch.statut=n;
+    else if(st==="a_contacter")ch.statut="contacte";
     if(res==="stop")ch.opposition={date:t,canal:"téléphone"};
-    if(RELANCE_AUTO.has(res)&&!(s.date_relance&&s.date_relance>isoDay(new Date())))ch.date_relance=nextWorkday();
-    if(RSTATUT[res]==="refus")ch.date_relance="";
-  }else if(statutOf(x)==="a_contacter")ch.statut="contacte";
-  return patch(x,ch);
+    if(RELANCE_AUTO.has(res)&&!futur){
+      // bonne pratique : pas plus de 4 appels en 30 jours
+      const recents=callsOf(x).h.map(e=>e.t).filter(v=>Date.parse(v)>Date.now()-30*864e5).concat([t]);
+      if(recents.length>=4){ch.date_relance=firstWorkdayFrom(isoDay(new Date(Date.parse(recents[recents.length-4])+30*864e5)));lim4=true}
+      else ch.date_relance=nextWorkday();
+      ch.rappel_heure="";
+    }else if(!RELANCE_AUTO.has(res)&&s.date_relance&&s.date_relance<=today){ch.date_relance="";ch.rappel_heure=""}   // le rappel du jour est fait
+    if(res==="interesse"&&!futur){ch.date_relance=addWorkdays(3);ch.rappel_heure=""}
+    if(res==="faux_numero"&&!s.prochaine_action)ch.prochaine_action="Trouver le bon numéro";
+    if(n==="refus"){ch.date_relance="";ch.rappel_heure=""}
+    if(by&&!s.responsable_id)ch.responsable_id=by;
+  }else if(st==="a_contacter")ch.statut="contacte";
+  Object.assign(ch,extra||{});
+  const prev={journal:{[id]:null}};
+  for(const k of Object.keys(ch))if(k!=="journal")prev[k]=s[k]===undefined?(k==="opposition"?null:""):s[k];
+  const ok=await patch(x,ch);
+  const info=ch.date_relance?(lim4?" · 4 appels en 30 jours : prochain essai ":" · rappel ")+fmtDay(ch.date_relance)+(ch.rappel_heure?" à "+ch.rappel_heure:""):ch.rdv_date?" · "+fmtDay(ch.rdv_date):"";
+  return {ok,info,undo:()=>patch(x,prev)};
 }
 
 /* ---------- Feuille d'appels ---------- */
 const STOP_ST=new Set(["refus","partenaire"]);
+const PM=/\b(SAS|SARL|SA|SCI|SNC|EURL|HOLDING|FINANCI[EÈ]RE|GROUPE|SOCI[EÉ]T[EÉ])\b/;
+const isPerson=p=>!!(p&&p.nom&&!/personne morale/i.test((p.nom||"")+" "+(p.fonction||""))&&!(PM.test(p.nom)&&p.nom===p.nom.toUpperCase()));
+const shortFn=f=>{f=String(f||"").split(/[(;]/)[0].trim();return f.length>60?f.slice(0,58).trim()+"…":f};
 function personToAsk(c){
-  const cf=c.contact_finance,cd=c.contact_dirigeant&&c.contact_dirigeant.nom?c.contact_dirigeant:null,d0=(c.dirigeants||[])[0];
-  const cfin=cf&&cf.nom&&!(cd&&cf.type==="dirigeant")?cf:null;
-  const p=cfin&&(cfin.type==="DAF/RAF"||cfin.type==="comptable")?cfin:(cd||cfin);
-  if(p)return {nom:p.nom,fonction:p.fonction};
-  if(d0)return {nom:d0.nom,fonction:d0.fonction};
-  return null;
+  const cd=isPerson(c.contact_dirigeant)?c.contact_dirigeant:null,cf=c.contact_finance;
+  const cfin=isPerson(cf)&&!(cd&&cf.type==="dirigeant")?cf:null;
+  const p=(cfin&&(cfin.type==="DAF/RAF"||cfin.type==="comptable")?cfin:(cd||cfin))||(c.dirigeants||[]).find(isPerson);
+  return p?{nom:p.nom,fonction:shortFn(p.fonction)}:null;
+}
+const hasTel=c=>!!(c.telephone||telIn(S(c).contact_coord));
+function matchQ(c,q){
+  const s=S(c);
+  if(norm([c.nom,c.nom_commercial,c.nom_court,c.ville,c.activite,c.groupe,(c.dirigeants||[]).map(d=>d.nom).join(" "),(c.contact_dirigeant||{}).nom,(c.contact_finance||{}).nom,s.contact_nom,s.notes,c.siren].join(" ")).includes(q))return true;
+  let dq=q.replace(/\D/g,"");if(dq.length<4)return false;
+  if(dq.startsWith("33"))dq="0"+dq.slice(2).replace(/^0/,"");
+  const dg=[c.telephone,s.contact_coord,c.siren,(c.contact_dirigeant||{}).tel_direct,(c.contact_finance||{}).tel_direct].map(v=>String(v||"").replace(/\D/g,"")).join(" ");
+  return dg.includes(dq)||dg.includes(dq.replace(/^0/,""));
 }
 function callGroups(){
-  const today=isoDay(new Date()),resp=$("#aResp").value,vg=$("#aVague").value;
-  const list=companies.filter(c=>{const s=S(c);
-    if(STOP_ST.has(statutOf(c))||s.opposition||c.exclue)return false;
-    if(resp&&(s.responsable||"")!==resp)return false;
+  const today=isoDay(new Date()),resp=$("#aResp").value,vg=$("#aVague").value,q=norm($("#aq").value);
+  const inScope=new Set(companies);
+  const list=allCompanies.filter(c=>{const s=S(c),cl=callsOf(c),st=statutOf(c);
+    if(!inScope.has(c)&&!s.date_relance&&!cl.n&&st==="a_contacter")return false;   // hors périmètre affiché : seulement si un suivi est en cours
+    if(STOP_ST.has(st)||s.opposition||c.exclue)return false;
+    if(resp==="__me"){if(!(myId&&(s.responsable_id===myId||cl.h.some(e=>e.by===myId))))return false}
+    else if(resp&&norm(s.responsable)!==resp)return false;
     if(vg&&String(c.vague)!==vg)return false;
-    return c.vague||s.appels||s.date_relance||statutOf(c)!=="a_contacter"});
-  const due=[],todo=[],retry=[],later=[];
-  for(const c of list){const s=S(c);
-    if(s.date_relance&&s.date_relance<=today)due.push(c);
+    if(q&&!matchQ(c,q))return false;
+    return c.vague||cl.n||s.date_relance||st!=="a_contacter"});
+  const rdv=[],due=[],todo=[],retry=[],later=[],nonum=[];
+  for(const c of list){const s=S(c),st=statutOf(c);
+    if(st==="rdv")rdv.push(c);
+    else if(s.date_relance&&s.date_relance<=today)due.push(c);
     else if(s.date_relance)later.push(c);
-    else if(!s.appels&&statutOf(c)==="a_contacter")todo.push(c);
+    else if(!hasTel(c))nonum.push(c);
+    else if(!callsOf(c).n&&st==="a_contacter")todo.push(c);
     else retry.push(c)}
   const when=c=>(S(c).date_relance||"")+" "+(S(c).rappel_heure||"99:99");
   const ord=(a,b)=>(a.vague||9)-(b.vague||9)||(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||a.rang-b.rang;
-  due.sort((a,b)=>when(a)<when(b)?-1:when(a)>when(b)?1:ord(a,b));
-  later.sort((a,b)=>when(a)<when(b)?-1:when(a)>when(b)?1:ord(a,b));
-  todo.sort(ord);
-  retry.sort((a,b)=>(S(a).appels||0)-(S(b).appels||0)||String(S(a).dernier_appel||"").localeCompare(String(S(b).dernier_appel||""))||ord(a,b));
-  return [["due","À rappeler aujourd'hui",due,"Rappels prévus aujourd'hui ou en retard"],["todo","Pas encore appelées",todo,"Cibles des vagues, dans l'ordre d'attaque"],["retry","À relancer",retry,"Déjà appelées, sans conclusion ni date de relance"],["later","Prochains rappels",later,"Relances prévues plus tard"]];
+  const byWhen=(a,b)=>when(a)<when(b)?-1:when(a)>when(b)?1:ord(a,b);
+  const rw=c=>(S(c).rdv_date||"9999")+" "+(S(c).rdv_heure||"99:99");
+  rdv.sort((a,b)=>rw(a)<rw(b)?-1:rw(a)>rw(b)?1:ord(a,b));
+  due.sort(byWhen);later.sort(byWhen);todo.sort(ord);nonum.sort(ord);
+  retry.sort((a,b)=>callsOf(a).n-callsOf(b).n||String(callsOf(a).lastT).localeCompare(String(callsOf(b).lastT))||ord(a,b));
+  return [["rdv","Rendez-vous à venir",rdv,"Statut « RDV fixé », par date"],["due","À rappeler aujourd'hui",due,"Rappels prévus aujourd'hui ou en retard"],["todo","Pas encore appelées",todo,"Cibles des vagues, dans l'ordre d'attaque"],["retry","Sans date de rappel",retry,"Déjà appelées, sans conclusion ni date de rappel"],["later","Prochains rappels",later,"Rappels prévus plus tard"],["nonum","Numéro à trouver",nonum,"Pas de numéro connu : trouver le standard, puis le noter dans la fiche (Tél. / e-mail direct)"]];
+}
+const telLink=t=>{const u=e164(t);return u?`<a class="mono tel" href="tel:${u}">${esc(t)}</a>`:`<span class="mono">${esc(t)}</span>`};
+const copyBtn=(v,what)=>`<button class="copy" type="button" data-copy="${esc(v)}" aria-label="Copier ${esc(what||v)}">copier</button>`;
+const pjLink=c=>`<a class="small" href="https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=${encodeURIComponent(nameOf(c).replace(/\s*\([^)]*\)/g,""))}&ou=${encodeURIComponent(c.ville||"Nièvre")}" target="_blank" rel="noopener">Chercher sur PagesJaunes</a>`;
+function askLine(c){
+  const s=S(c),fi=c.fiche||{};
+  if(s.contact_nom)return `Rappeler <b>${esc(s.contact_nom)}</b>`;
+  if(fi.qui_appeler)return `<span class="clamp">${esc(fi.qui_appeler)}</span>`;
+  const p=personToAsk(c);
+  return p?`Demander <b>${esc(p.nom)}</b>${p.fonction?` <span class="muted">— ${esc(p.fonction)}</span>`:""}`:`<span class="muted">Demander la direction, ou le responsable administratif et financier</span>`;
+}
+function briefHTML(c){
+  const fi=c.fiche,a=c.art||{};
+  if(fi)return `${fi.angle_art?`<p>${esc(fi.angle_art)}</p>`:""}${(fi.questions||[]).length?`<b>Questions à poser</b><ul>${fi.questions.map(q=>`<li>${esc(q)}</li>`).join("")}</ul>`:""}${(fi.vigilance||[]).length?`<b>À savoir</b><ul>${fi.vigilance.map(v=>`<li>${esc(v)}</li>`).join("")}</ul>`:""}`;
+  return `<p>Jusqu'à ${a.ca?esc(fmtE(a.plafond)):"20 000 €"} déductibles par an. Où exposer : ${esc(a.espace_txt||"un lieu ouvert au public ou aux salariés")}.</p><b>Questions à poser</b><ul>${DISPOSITIF.filter(d=>d.q).slice(0,4).map(d=>`<li>${esc(d.q)}</li>`).join("")}</ul>`;
 }
 function callRow(c){
-  const s=S(c),who=personToAsk(c),st=statutOf(c),today=isoDay(new Date());
-  const tel=c.telephone,late=s.date_relance&&s.date_relance<today;
+  const s=S(c),cl=callsOf(c),st=statutOf(c),today=isoDay(new Date());
+  const tel=c.telephone,direct=telIn(s.contact_coord),late=s.date_relance&&s.date_relance<today;
+  const h=histOf(s),le=h[h.length-1];
+  const last=le&&le.txt&&le.txt!==RLABEL[le.res]?`<div class="alast">${esc(fmtStamp(le.t))} : ${esc(le.txt.length>140?le.txt.slice(0,138)+"…":le.txt)}</div>`:"";
+  const opp=c.opposition_prospection?` <span class="pill warn">Pas de mailing</span>`:"";
+  const rdvTxt=st==="rdv"?`<span class="small ${s.rdv_date&&s.rdv_date<today?"late":""}">${s.rdv_date?"RDV "+esc(fmtShortDay(s.rdv_date))+(s.rdv_heure?" à "+esc(s.rdv_heure):"")+(s.rdv_date<today?" (passé : noter la suite)":""):"RDV : date à noter dans la fiche"}${s.rdv_note?" · "+esc(s.rdv_note):""}</span>`:"";
   return `<div class="arow ${wcls(c)}" data-r="${c.rang}">
     <span class="rk num">${c.vague?"V"+c.vague:c.rang}</span>
     <div class="acol" style="min-width:0">
       <button type="button" class="aname" data-open="${c.rang}">${esc(nameOf(c))}</button>
       <div class="sub">${esc([c.ville,c.priorite?"priorité "+c.priorite.toLowerCase():null,c.art&&c.art.ca?"jusqu'à "+eur(c.art.plafond)+"/an":null].filter(Boolean).join(" · "))}</div>
-      <div class="ask-who">${who?`Demander <b>${esc(who.nom)}</b>${who.fonction?` <span class="muted">— ${esc(who.fonction)}</span>`:""}`:`<span class="muted">Demander la direction</span>`}${c.opposition_prospection?` <span class="pill warn">Pas de mailing</span>`:""}</div>
+      <div class="ask-who">${askLine(c)}${opp}</div>
+      ${last}
+      <details class="abrief"><summary>Discours et questions</summary>${briefHTML(c)}</details>
     </div>
-    <div class="acol atel">${tel?`<span class="contact"><a class="mono tel" href="tel:${esc(e164(tel)||tel)}">${esc(tel)}</a><button class="copy" type="button" data-copy="${esc(tel)}">copier</button></span>${c.telephone_a_confirmer?`<span class="muted small">à confirmer</span>`:c.telephone_groupe?`<span class="muted small">standard du groupe</span>`:""}`:`<span class="muted small">Pas de numéro : voir la fiche</span>`}</div>
+    <div class="acol atel">
+      ${direct?`<span class="contact">${telLink(direct)}${copyBtn(direct,"la ligne directe")}</span><span class="muted small">ligne directe notée</span>`:""}
+      ${tel?`<span class="contact">${telLink(tel)}${copyBtn(tel,"le numéro")}</span>${c.telephone_a_confirmer?`<span class="muted small">à confirmer</span>`:c.telephone_groupe?`<span class="muted small">standard du groupe : demander le site de la Nièvre</span>`:direct?`<span class="muted small">standard</span>`:""}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
+    </div>
     <div class="acol astate">
-      <span>${s.dernier_resultat?`<span class="pill ${rcls(s.dernier_resultat)}">${esc(RLABEL[s.dernier_resultat]||"")}</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
-      <span class="muted small num">${s.appels?s.appels+" appel"+(s.appels>1?"s":""):"Jamais appelée"}${s.date_relance?` · ${late?"<b class=\"late\">en retard</b> ":""}rappel ${new Date(s.date_relance+"T12:00").toLocaleDateString("fr-FR",{weekday:"short",day:"numeric",month:"short"})}${s.rappel_heure?" "+esc(s.rappel_heure):""}`:""}</span>
-      ${canWrite?`<select class="ares" data-res="${c.rang}" aria-label="Résultat de l'appel à ${esc(nameOf(c))}"><option value="">Noter un appel…</option>${RESULTATS.map(r=>`<option value="${r.k}">${r.l}</option>`).join("")}</select>`:""}
+      <span>${cl.last?`<span class="pill ${rcls(cl.last)}">${esc(RLABEL[cl.last]||"")}</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
+      ${rdvTxt}
+      <span class="muted small num">${cl.n?cl.n+" appel"+(cl.n>1?"s":""):"Jamais appelée"}${s.date_relance?` · ${late?"<b class=\"late\">en retard</b> ":""}rappel ${esc(fmtShortDay(s.date_relance))}${s.rappel_heure?" "+esc(s.rappel_heure):""}`:""}</span>
+      ${canEdit()?`<select class="ares" data-res="${c.rang}" aria-label="Résultat de l'appel à ${esc(nameOf(c))}"><option value="">Noter un appel…</option>${RESULTATS.map(r=>`<option value="${r.k}">${esc(r.m||r.l)}</option>`).join("")}</select>`:""}
+      <div class="aform" id="af-${c.rang}" hidden></div>
     </div>
   </div>`;
 }
-function renderAppels(){
-  const box=$("#alist");if(!box||!companies.length)return;
-  const resps=[...new Set(companies.map(c=>S(c).responsable).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"fr"));
+function openAform(c,res){
+  const box=document.getElementById("af-"+c.rang);if(!box)return;
+  const ok=(l,cls)=>`<button class="btn ${cls||"primary"}" type="button" data-afok="${c.rang}">${l}</button><button class="btn" type="button" data-afno="1">Annuler</button>`;
+  const F={
+    rappeler:`<input type="date" name="d" value="${nextWorkday()}" aria-label="Date du rappel"><input type="time" name="h" aria-label="Heure du rappel"><input name="n" placeholder="Qui rappeler, pourquoi" aria-label="Note">${ok("Programmer le rappel")}`,
+    rdv:`<input type="date" name="d" aria-label="Date du rendez-vous"><input type="time" name="h" aria-label="Heure du rendez-vous"><input name="n" placeholder="Où, avec qui" aria-label="Lieu et interlocuteur">${ok("Enregistrer le rendez-vous")}`,
+    pas_interesse:`<p>Pas intéressé : l'entreprise sort de la feuille d'appels.</p><input name="n" placeholder="Raison (facultatif)" aria-label="Raison">${ok("Confirmer")}`,
+    stop:`<p>Refus de prospection : plus aucun appel ni mail, la date est gardée 3 ans.</p><input name="n" placeholder="Ce qui a été dit (facultatif)" aria-label="Note">${ok("Confirmer le refus")}`
+  };
+  box.dataset.res=res;box.innerHTML=F[res];box.hidden=false;
+  const first=box.querySelector("input");if(first)first.focus();
+}
+let appelsDirty=false;
+const appelsBusy=()=>{const b=$("#alist");return !!(b&&(b.querySelector(".aform:not([hidden])")||(b.contains(document.activeElement)&&document.activeElement.matches("select,input"))))};
+function renderAppels(force){
+  const box=$("#alist");if(!box||!allCompanies.length)return;
+  if(!force&&appelsBusy()){appelsDirty=true;return}
+  appelsDirty=false;
+  const names=new Map();for(const c of allCompanies){const r=(S(c).responsable||"").trim();if(r&&!names.has(norm(r)))names.set(norm(r),r)}
   const cur=$("#aResp").value;
-  $("#aResp").innerHTML=`<option value="">Tous les appelants</option>`+resps.map(r=>`<option ${r===cur?"selected":""}>${esc(r)}</option>`).join("");
+  $("#aResp").innerHTML=`<option value="">Tous les appelants</option>${myId?`<option value="__me" ${cur==="__me"?"selected":""}>Mes entreprises</option>`:""}`+[...names].sort((a,b)=>a[1].localeCompare(b[1],"fr")).map(([k,r])=>`<option value="${esc(k)}" ${k===cur?"selected":""}>${esc(r)}</option>`).join("");
   const groups=callGroups();
   const all=groups.reduce((n,g)=>n+g[2].length,0);
   $("#acount").textContent=`${all} entreprise${all>1?"s":""} à suivre`;
-  const calls=companies.reduce((n,c)=>n+(S(c).appels||0),0),rdv=companies.filter(c=>statutOf(c)==="rdv").length;
+  const calls=allCompanies.reduce((n,c)=>n+callsOf(c).n,0),rdv=allCompanies.filter(c=>statutOf(c)==="rdv").length;
+  const g=k=>groups.find(x=>x[0]===k)[2].length;
   $("#akpis").innerHTML=[
-    ["k1",groups[0][2].length,"à rappeler aujourd'hui","Rappels du jour et en retard"],
-    ["",groups[1][2].length,"pas encore appelées","Cibles des vagues 1 à 3"],
+    ["k1",g("due"),"à rappeler aujourd'hui","Rappels du jour et en retard"],
+    ["",g("todo"),"pas encore appelées","Cibles des vagues 1 à 3"],
     ["k3",calls,"appels notés","Tous appelants confondus"],
     ["k2",rdv,"rendez-vous fixés","Statut « RDV fixé »"]
   ].map(([cl,n,l,sm])=>`<div class="kpi ${cl}"><b class="num">${n}</b><span>${l}</span><small>${sm}</small></div>`).join("");
-  box.innerHTML=groups.filter(g=>g[2].length).map(([k,t,l,sub])=>`<section class="agroup card" aria-label="${esc(t)}"><header><h3>${esc(t)} <span class="num muted">${l.length}</span></h3><span class="hint">${esc(sub)}</span></header>${l.map(callRow).join("")}</section>`).join("")||`<div class="empty card">Rien à appeler avec ces filtres.</div>`;
+  box.innerHTML=groups.filter(x=>x[2].length).map(([k,t,l,sub])=>`<section class="agroup card" aria-label="${esc(t)}"><header><h3>${esc(t)} <span class="num muted">${l.length}</span></h3><span class="hint">${esc(sub)}</span></header>${l.map(callRow).join("")}</section>`).join("")||`<div class="empty card">Rien à appeler avec ces filtres.</div>`;
 }
 function renderPlan(){
   const inW=companies.filter(c=>c.vague===1||c.vague===2||c.vague===3);
@@ -850,14 +1035,14 @@ function renderPlan(){
     ["",companies.length,"entreprises analysées",scope==="100"?"Les 100 plus grosses de la Nièvre, classement Pappers du 02/09/2026":"Les plus grosses de la Nièvre, d'après Pappers et le registre national"],
     ["",inW.length,"cibles prioritaires",scope==="100"?"Revues fiche par fiche : bénéficiaires, décideur joignable, lieu d'exposition":"Société à l'IS, bénéfice d'au moins 50 k€, lieu d'exposition tout trouvé"],
     ["k1",count(1),"à appeler cette semaine","Avec un site à Cosne même"],
-    ["k2",tel,"fiches avec un téléphone","Recherche des coordonnées en cours"]
+    ["k2",tel,"fiches avec un téléphone",(n=>n?`${n} cible${n>1?"s":""} des vagues sans numéro, à relever à la main`:"Toutes les cibles des vagues ont un numéro")(inW.filter(c=>!c.telephone).length)]
   ].map(([cl,n,l,s])=>`<div class="kpi ${cl}"><b class="num">${n}</b><span>${l}</span><small>${s}</small></div>`).join("");
   $("#legend").innerHTML=VAGUES.map(v=>`<span><i style="background:var(--v${v.k})"></i>Vague ${v.k} · ${count(v.k)}</span>`).join("");
   const ord=(a,b)=>(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||effMin(b.effectif)-effMin(a.effectif)||a.rang-b.rang;
   $("#waves").innerHTML=VAGUES.map(v=>{
     const list=companies.filter(c=>c.vague===v.k).sort(ord);
     return `<section class="wave card w${v.k}"><header><span class="wk">${v.w}</span><h3>${v.t}</h3><span class="big num">${list.length}</span><p>${v.d}</p></header>
-    <ol>${list.map(c=>{const st=statutOf(c);const meta=farSite(c)?"Siège : "+esc(c.ville||"")+" · site à Cosne":esc(c.ville||"");
+    <ol>${list.map(c=>{const st=statutOf(c);const meta=(farSite(c)?"Siège : "+esc(c.ville||"")+" · site à Cosne":esc(c.ville||""))+(c.opposition_prospection||S(c).opposition?" · <b class=\"late\">pas de mailing</b>":"");
       return `<li><button type="button" data-open="${c.rang}"><span style="min-width:0"><span class="wn">${esc(nameOf(c))}</span><span class="wm">${meta} · ${esc(effShort(c.effectif))} sal.</span></span><span class="km">${farSite(c)?"Cosne":(c.distance_cosne_km!=null?kmL(c.distance_cosne_km):"")}<span class="dot" title="${SLABEL[st]}" style="background:${SCOLOR[st]}"></span></span></button></li>`}).join("")}</ol></section>`}).join("");
   $("#offers").innerHTML=DISPOSITIF.map(o=>{const n=o.n?companies.filter(o.n).length:null;
     return `<article class="offer card"><span class="ico">${icon(o.i)}</span><span class="who">${o.t}</span><h3>${o.h}</h3><p>${o.p}</p>
@@ -878,13 +1063,13 @@ function renderSim(){
   ].map(([b,s])=>`<div class="fig"><b class="num">${b}</b><span>${s}</span></div>`).join("");
   $("#simTxt").textContent=(ca*TAUX_CA>PLANCHER?`5 ‰ du chiffre d'affaires, soit ${fmtE(plafondOf(ca))}, dépasse le plancher de 20 000 €. `:`Avec ce chiffre d'affaires, c'est le plancher de 20 000 € qui s'applique. `)
     +(perdu>0?`Le cinquième du prix (${fmtE(part)}) dépasse la limite : ${fmtE(perdu)} par an ne seront pas déduits, et ne se reportent pas. Une œuvre jusqu'à ${fmtE(lim*5)} se déduit en entier. `:`Le prix se déduit en entier sur cinq ans. `)
-    +`Coût net pour l'entreprise : environ ${fmtE(prix-eco)}, et l'œuvre reste à son actif.`;
+    +`Coût net pour l'entreprise : environ ${fmtE(prix-eco)}, et l'œuvre reste à son actif. Suppose une société à l'IS bénéficiaire ; si l'œuvre est cédée ou change d'affectation, les sommes déduites sont réintégrées au résultat. À valider avec son expert-comptable.`;
 }
 function simFrom(c){
   $("#simCa").value=c.art&&c.art.ca?c.art.ca:0;
   $("#simPrix").value=c.art?Math.round(c.art.plafond/1000)*1000:25000;
   $("#simDons").value=0;
-  $("#simFrom").textContent=`Calcul pour ${nameOf(c)}${c.art&&c.art.ca?`, chiffre d'affaires ${eur(c.art.ca)}${c.art.annee?" ("+c.art.annee+")":""}`:", comptes non publiés : saisir le CA s'il est connu"}.`;
+  $("#simFrom").textContent=`Calcul pour ${nameOf(c)}${c.art&&c.art.ca?`, chiffre d'affaires ${eur(c.art.ca)}${c.art.annee?" (exercice "+c.art.annee+(c.art.source==="recherche"?", relevé par la recherche":"")+")":""}`:", comptes non publiés : saisir le CA s'il est connu"}.`;
   renderSim();setView("plan");
   $("#calc").scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"});
 }
@@ -942,7 +1127,7 @@ function renderPipeline(){
     <span class="bar"><b style="width:${counts[s.k]/total*100}%;background:${SCOLOR[s.k]}"></b></span></button>`).join("");
 }
 function filtered(){
-  const q=filt.q.trim().toLowerCase();
+  const q=norm(filt.q);
   const list=companies.filter(c=>{
     if(filt.prio&&c.priorite!==filt.prio)return false;
     if(filt.sect&&c.secteur!==filt.sect)return false;
@@ -950,12 +1135,13 @@ function filtered(){
     if(filt.top==="ext"&&c.rang<=100)return false;
     if(filt.contact==="tel"&&!(c.telephone||(c.contact_finance||{}).tel_direct))return false;
     if(filt.contact==="fin"&&!(c.contact_finance&&c.contact_finance.nom))return false;
-    if(filt.contact==="notel"&&(c.telephone||(c.contact_finance||{}).tel_direct))return false;
+    if(filt.contact==="notel"&&(c.telephone||(c.contact_finance||{}).tel_direct||telIn(S(c).contact_coord)))return false;
+    if(filt.contact==="opp"&&!(c.opposition_prospection||S(c).opposition))return false;
     if(filt.art==="isb"&&!isOk(c))return false;
     if(filt.art==="pub"&&!(c.art&&c.art.public))return false;
     if(filt.art==="big"&&!(c.art&&c.art.plafond>PLANCHER))return false;
     if(filt.statut&&statutOf(c)!==filt.statut)return false;
-    if(q){const s=S(c);const hay=[c.nom,c.nom_commercial,c.nom_court,c.ville,c.activite,c.groupe,(c.dirigeants||[]).map(d=>d.nom).join(" "),(c.contact_dirigeant||{}).nom,(c.contact_finance||{}).nom,s.contact_nom,s.notes].join(" ").toLowerCase();if(!hay.includes(q))return false}
+    if(q&&!matchQ(c,q))return false;
     return true});
   const rel=c=>S(c).date_relance||"9999";
   const by={
@@ -976,11 +1162,12 @@ function renderList(){
     const st=statutOf(c);const s=S(c);
     const where=farSite(c)?"site à Cosne":(c.distance_cosne_km!=null?kmL(c.distance_cosne_km)+" de Cosne":null);
     const sub=[alias(c)?c.nom:null,c.ville,where,c.secteur].filter(Boolean).join(" · ");
-    const proc=(c.statut&&!/^active$/i.test(c.statut)?` <span class="pill warn" title="${esc(c.statut)}">Procédure</span>`:"")+(c.exclue?` <span class="pill warn">Hors campagne</span>`:"");
+    const proc=(c.statut&&!/^active$/i.test(c.statut)?` <span class="pill warn" title="${esc(c.statut)}">Procédure</span>`:"")+(c.exclue?` <span class="pill warn">Hors campagne</span>`:"")
+      +(s.opposition?` <span class="pill warn">Refus de prospection</span>`:c.opposition_prospection?` <span class="pill warn">Pas de mailing</span>`:"");
     return `<div class="row ${wcls(c)}${sel===c.rang?" sel":""}" role="button" tabindex="0" data-r="${c.rang}">
       <span class="rk num">${c.rang}</span>
       <div style="min-width:0"><div class="nm">${esc(nameOf(c))}${proc}</div>
-        <div class="sub">${esc(sub)}${s.date_relance?" · relance "+new Date(s.date_relance).toLocaleDateString("fr-FR"):""}</div></div>
+        <div class="sub">${esc(sub)}${s.date_relance?" · rappel "+esc(fmtShortDay(s.date_relance)):""}</div></div>
       <span class="ca num">${c.ca_non_publie?`<em class="nc">CA non publié</em>`:eur(c.ca)}<small>${esc(effShort(c.effectif))} sal.</small></span>
       <span class="pr">${c.priorite?`<span class="pill p-${c.priorite}">${c.priorite}</span>`:""}</span>
       <span><span class="pill s-${st}">${SLABEL[st]}</span></span>
@@ -995,7 +1182,7 @@ function personKV(p){return `<dl class="kv">
   ${line("LinkedIn",p.linkedin?linkOut(p.linkedin,"Profil public"):"")}
   ${line("Source",p.source?linkOut(p.source):"")}
 </dl>`}
-function copyable(v){if(!v)return"";return `<span class="contact"><span class="mono">${esc(v)}</span><button class="copy" type="button" data-copy="${esc(v)}">copier</button></span>`}
+function copyable(v){if(!v)return"";return `<span class="contact"><span class="mono">${esc(v)}</span>${copyBtn(v)}</span>`}
 function linkOut(url,label){if(!url)return"";const u=/^https?:/i.test(url)?url:"https://"+url;return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(label||url.replace(/^https?:\/\/(www\.)?/,"").replace(/\/$/,""))}</a>`}
 const PLACEHOLDER=t=>`<div class="placeholder"><span class="ico">${icon("building")}</span>${t}</div>`;
 
@@ -1005,23 +1192,32 @@ function renderDetail(force){
   box.classList.remove("w0","w1","w2","w3");
   if(!c){box.classList.add("closed","w0");box.innerHTML=PLACEHOLDER("Sélectionne une entreprise pour voir sa fiche et suivre la prospection.");delete box.dataset.r;return}
   box.classList.remove("closed");box.classList.add(wcls(c));
+  const sig=[c.rang,suivi[key(c)],canEdit(),retView];
+  if(!force&&box._sig&&sig.every((v,i)=>v===box._sig[i]))return;   // rien n'a changé pour cette fiche : ne pas la redessiner
   if(!force&&box.dataset.r==String(c.rang)&&box.contains(document.activeElement)&&document.activeElement.matches("input,textarea,select")){renderHist(c,"f_");return}
-  box.dataset.r=c.rang;
-  const st=statutOf(c);
-  const ro=!canWrite;
+  box.dataset.r=c.rang;box._sig=sig;
+  const st=statutOf(c),s=S(c),op=s.opposition;
+  const ro=!canEdit();
   const proc=c.statut&&!/^active$/i.test(c.statut);
   const vg=VAGUES.find(v=>v.k===c.vague);
   const dir=(c.dirigeants||[]).length?`<ul class="dir">${c.dirigeants.map(d=>`<li>${esc(d.nom)} <span>— ${esc(d.fonction||"")}</span></li>`).join("")}</ul>`:`<span class="muted">${c.ext?"Pas encore recherchés : voir la fiche Pappers.":"Non trouvés"}</span>`;
   const addr=c.adresse&&c.code_postal&&String(c.adresse).includes(c.code_postal)?c.adresse:[c.adresse,[c.code_postal,c.ville].filter(Boolean).join(" ")].filter(Boolean).join(", ");
   const fi=c.fiche||null;
-  const a=c.art||{notes:[]},cf=c.contact_finance,d0=(c.dirigeants||[])[0],ic=c.interlocuteur_cible;
-  const cd=c.contact_dirigeant&&c.contact_dirigeant.nom?c.contact_dirigeant:null;
-  const cfin=cf&&cf.nom&&!(cd&&cf.type==="dirigeant")?cf:null;   // un dirigeant récent remplace le « décideur = dirigeant » d'une recherche plus ancienne
+  const a=c.art||{notes:[]},cf=c.contact_finance,d0=(c.dirigeants||[]).find(isPerson);
+  const cd=isPerson(c.contact_dirigeant)?c.contact_dirigeant:null;
+  const cfin=isPerson(cf)&&!(cd&&cf.type==="dirigeant")?cf:null;   // un dirigeant récent remplace le « décideur = dirigeant » d'une recherche plus ancienne
   const pick=cfin&&(cfin.type==="DAF/RAF"||cfin.type==="comptable")?cfin:(cd||cfin);   // un DAF de groupe passe après le dirigeant local
   const who=pick?esc(pick.nom)+(pick.fonction?` <span class="muted">— ${esc(pick.fonction)}</span>`:""):d0?esc(d0.nom)+` <span class="muted">— ${esc(d0.fonction||"dirigeant")}, d'après le registre</span>`:`<span class="muted">Demander la direction au standard</span>`;
+  const direct=telIn(s.contact_coord);
+  const callbox=`<div class="callbox">
+      ${direct?`<div><span class="cb-l">Ligne directe notée</span><span class="contact">${telLink(direct)}${copyBtn(direct,"la ligne directe")}</span></div>`:""}
+      ${c.telephone?`<div><span class="cb-l">${c.telephone_groupe?"Standard du groupe : demander le site de la Nièvre":"Standard"}${c.telephone_a_confirmer?" · numéro à confirmer à l'appel":""}</span><span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span></div>`
+        :direct?"":`<div><span class="cb-l">Pas de numéro connu</span>${pjLink(c)}</div>`}
+      <div class="cb-who">${askLine(c)}</div>
+    </div>`;
   box.innerHTML=`
   <div class="d-head">
-    <button class="btn close" type="button" data-close="1">← Retour à la liste</button>
+    ${retView==="appels"?`<button class="btn" type="button" data-back="1">← Retour à la feuille d'appels</button>`:`<button class="btn close" type="button" data-close="1">← Retour à la liste</button>`}
     <span class="wchip">${vg?`Vague ${vg.k} · ${vg.t}`:"Hors vagues"}</span>
     <h2>${esc(c.nom)}</h2>
     ${alias(c)?`<div class="alias">${esc(alias(c))}</div>`:""}
@@ -1033,11 +1229,14 @@ function renderDetail(force){
       ${c.verifie?`<span class="pill s-partenaire">Fiche contre-vérifiée</span>`:""}
       ${c.ext&&!c.enrichie?`<span class="pill p-Basse">Fiche de base</span>`:""}
       ${c.opposition_prospection?`<span class="pill warn">Opposée à la prospection</span>`:""}
+      ${op?`<span class="pill warn">Refus de prospection</span>`:""}
       ${c.exclue?`<span class="pill warn">Hors campagne</span>`:""}
     </div>
     ${c.priorite_raison?`<span class="eyebrow2">${esc(c.priorite_raison)}</span>`:""}
+    ${op?"":callbox}
   </div>
-  ${c.opposition_prospection?`<div class="d-sec"><div class="recent"><b>Attention</b>Selon Pappers, l'entreprise s'est opposée à l'utilisation de ses données pour de la prospection commerciale. Pas de mailing : privilégier une prise de contact directe et personnelle.</div></div>`:""}
+  ${op?`<div class="d-sec"><div class="recent"><b>Refus de prospection</b><span>Noté le ${esc(new Date(op.date).toLocaleDateString("fr-FR"))} (${esc(op.canal||"téléphone")}) : ne plus appeler ni écrire. Trace à garder 3 ans.</span></div></div>`
+    :c.opposition_prospection?`<div class="d-sec"><div class="recent"><b>Attention</b><span>Selon Pappers, l'entreprise s'est opposée à l'utilisation de ses données pour de la prospection commerciale. Pas de mailing : privilégier une prise de contact directe et personnelle.</span></div></div>`:""}
   ${fi?`<div class="d-sec">
     <h3>Pour l'appel</h3>
     ${fi.angle_art?`<div class="angle">${esc(fi.angle_art)}</div>`:""}
@@ -1056,17 +1255,24 @@ function renderDetail(force){
     </div>
     <dl class="kv">
       ${line("Régime fiscal",esc(a.regime)+(c.forme_juridique?` <span class="muted">— ${esc(c.forme_juridique)}</span>`:""))}
-      ${line("Dernier résultat",a.resultat!=null?`<span class="num">${eur(a.resultat)}</span>${(a.annee_resultat||a.annee)?` <span class="muted">(exercice ${esc(a.annee_resultat||a.annee)}${a.source==="recherche"&&a.annee_resultat===a.annee?", relevé par la recherche, à confirmer":""})</span>`:""}`:`<span class="muted">Non publié</span>`)}
+      ${line("Résultat net",a.resultat!=null?`<span class="num">${eur(a.resultat)}</span>${(a.annee_resultat||a.annee)?` <span class="muted">(exercice ${esc(a.annee_resultat||a.annee)}${a.source==="recherche"&&a.annee_resultat===a.annee?", relevé par la recherche, à confirmer":""})</span>`:""}`:`<span class="muted">Non publié</span>`)}
       ${line("Où exposer",esc(a.espace_txt))}
       ${line("À qui parler",who)}
       ${line("Où se décide l'achat",c.decision?esc(c.decision):"")}
     </dl>
     ${!fi&&(a.notes||[]).length?`<ul class="checks">${a.notes.map(n=>`<li>${esc(n)}</li>`).join("")}</ul>`:""}
     <div class="acts"><button class="btn" type="button" data-sim="1">Simuler avec ce chiffre d'affaires</button></div>
-    ${c.opposition_prospection?`<p class="muted" style="font-size:13px;margin:0">Pas de mail d'approche : l'entreprise s'est opposée à la prospection, contact direct uniquement.</p>`:`<details class="mailer"><summary>Préparer le mail d'approche</summary>
-      <div class="mail" data-mail="1">${esc(mailFor(c))}</div>
-      <button class="btn" type="button" data-copymail="1" style="margin-top:8px">Copier le mail</button>
-    </details>`}
+    <details class="mailer"><summary>Note pour l'expert-comptable</summary>
+      <div class="mail" data-note="1">${esc(noteEC(c))}</div>
+      <button class="btn" type="button" data-copynote="1" style="margin-top:8px">Copier la note</button>
+    </details>
+    ${op||c.opposition_prospection?`<p class="muted" style="font-size:13px;margin:0">Pas de mail d'approche : ${op?`refus de prospection noté le ${esc(new Date(op.date).toLocaleDateString("fr-FR"))}`:"l'entreprise s'est opposée à la prospection sur Pappers, contact direct uniquement"}.</p>`:(m=>`<details class="mailer"><summary>Préparer le mail d'approche</summary>
+      ${c.opposition_prospection==null?`<div class="recent" style="margin-top:8px"><b>Opposition non vérifiée</b><span>Avant d'écrire, vérifier sur la fiche Pappers que l'entreprise ne s'est pas opposée à la prospection. ${c.siren?linkOut("https://www.pappers.fr/entreprise/"+String(c.siren).replace(/\s/g,""),"Ouvrir Pappers"):""}</span></div>`:""}
+      <div class="recent" style="margin-top:8px"><b>À compléter avant envoi</b><span>Vos prénom, nom et téléphone, la structure qui vend les œuvres (raison sociale, adresse : jamais nos établissements) et la source des coordonnées.</span></div>
+      <div class="mailsubj"><span class="cb-l">Objet</span><div class="mail" data-subj="1">${esc(m.objet)}</div><button class="btn" type="button" data-copysubj="1">Copier l'objet</button></div>
+      <div class="mail" data-mail="1">${esc(m.corps)}</div>
+      <button class="btn" type="button" data-copymail="1" style="margin-top:8px">Copier le texte</button>
+    </details>`)(mailFor(c))}
   </div>
   ${suiviHTML(c,"f_",ro)}
   <div class="d-sec">
@@ -1088,7 +1294,7 @@ function renderDetail(force){
       ${line("Adresse",addr?copyable(addr):"")}
       ${line("Distance",c.distance_cosne_km!=null?`<span class="num">${c.distance_cosne_km===0?"À Cosne même":"≈ "+c.distance_cosne_km+" km de Cosne"}</span>`:"")}
       ${line("Site près de Cosne",c.site_local?esc(c.site_local):"")}
-      ${line("Téléphone",c.telephone?copyable(c.telephone)+(c.telephone_groupe?`<span class="muted" style="display:block;font-size:12.5px">Standard du groupe : demander le site de la Nièvre</span>`:"")+(c.telephone_a_confirmer?ACONF:""):"")}
+      ${line("Téléphone",c.telephone?`<span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>`+(c.telephone_groupe?`<span class="muted" style="display:block;font-size:12.5px">Standard du groupe : demander le site de la Nièvre</span>`:"")+(c.telephone_a_confirmer?ACONF:""):"")}
       ${line("E-mail",c.email?copyable(c.email)+(c.email_a_confirmer?ACONF:""):"")}
       ${line("Site web",linkOut(c.site_web))}
       ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise"):"")}
@@ -1113,7 +1319,6 @@ function renderDetail(force){
     <h3>Activité</h3>
     <p class="txt">${esc(fi&&fi.resume||c.description||c.activite)}</p>
     ${c.actualite?`<p class="txt"><b>Actualité :</b> ${esc(c.actualite)}</p>`:""}
-    ${c.angle_partenariat||(ic&&ic.nom)?`<details class="mailer"><summary>Notes de la première étude (partenariats)</summary><div style="display:flex;flex-direction:column;gap:6px;margin-top:8px">${c.angle_partenariat?`<p class="txt">${esc(c.angle_partenariat)}</p>`:""}${ic&&ic.nom?`<p class="txt muted">Interlocuteur repéré : ${esc(ic.nom)}${ic.fonction?" — "+esc(ic.fonction):""}</p>`:""}</div></details>`:""}
     <dl class="kv">
       ${line("Secteur",esc(c.activite))}
       ${line("Ce qu'elle fait",fi&&fi.activite?esc(fi.activite):"")}
@@ -1132,30 +1337,49 @@ function renderDetail(force){
   if(!ro)bindForm(c,"f_",()=>{renderPipeline();renderList();renderPlan()},()=>renderDetail(true));
 }
 function mailFor(c){
-  const s=S(c),a=c.art||{};
+  const s=S(c),a=c.art||{},grp=a.espace==="groupe";
   const who=s.contact_nom?`Bonjour ${s.contact_nom.split(",")[0].trim()},`:"Madame, Monsieur,";
-  const big=a.ca&&a.plafond>PLANCHER;
-  const lim=big?`d'environ ${fmtE(a.plafond)} par an (5 ‰ de votre chiffre d'affaires)`:"de 20 000 € par an";
-  const lieu=a.public?"accessible au public":"accessible au public ou à vos salariés";
-  return `Objet : Œuvres d'artistes vivants – jusqu'à ${big?eur(a.plafond):"20 000 €"} déductibles par an pour ${nameOf(c)}
-
-${who}
+  const big=!grp&&a.ca&&a.plafond>PLANCHER;
+  const k=fmtE(Math.round((a.plafond||0)/1000)*1000);
+  const lim=big?`d'environ ${k} par an (5 ‰ de votre chiffre d'affaires)`:"de 20 000 € par an, ou de 5 ‰ du chiffre d'affaires si ce montant est plus élevé";
+  const lieu=grp?"un lieu de vos locaux accessible au public ou à vos salariés (hall, espace d'accueil, salle de pause)"
+    :`un lieu ${a.public?"accessible au public":"accessible au public ou à vos salariés"}, par exemple ${ESPACE_MAIL[a.espace]||"un hall ou un espace d'accueil"}`;
+  const objet=grp?"Œuvres d'artistes vivants déductibles du résultat de l'entreprise, sous conditions"
+    :`Œuvres d'artistes vivants : jusqu'à ${big?k:"20 000 €"} déductibles par an, sous conditions`;
+  const corps=`${who}
 
 Je me permets de vous écrire au sujet d'un dispositif fiscal encore peu utilisé par les entreprises de la Nièvre : l'article 238 bis AB du Code général des impôts, prolongé pour les achats réalisés jusqu'au 31 décembre 2028.
 
-Une entreprise qui achète une œuvre originale d'un artiste vivant peut en déduire le prix de son résultat imposable, par cinquièmes sur cinq ans, dans la limite ${lim}. L'œuvre reste inscrite à l'actif de l'entreprise.
+Une société soumise à l'impôt sur les sociétés qui achète une œuvre originale d'un artiste vivant peut en déduire le prix de son résultat imposable, par cinquièmes sur cinq ans, dans la limite ${lim}. L'œuvre reste inscrite à l'actif de l'entreprise.
 
-La condition principale : exposer l'œuvre pendant ces cinq ans dans un lieu ${lieu}, par exemple ${ESPACE_MAIL[a.espace]||"un hall ou un espace d'accueil"}.
+La condition principale : exposer l'œuvre pendant ces cinq ans dans ${lieu}.
 
-Nous travaillons avec des artistes de la région (peinture, sculpture, photographie, céramique) et pouvons vous présenter une sélection adaptée à vos locaux et à votre budget. Le montage se valide avec votre expert-comptable.
+Nous travaillons avec des artistes de la région (peintures, dessins, photographies signées et numérotées, sculptures, céramiques) et pouvons vous présenter une sélection adaptée à vos locaux et à votre budget. Le montage se valide avec votre expert-comptable.
 
 Seriez-vous disponible pour un échange de 15 minutes dans les prochains jours ?
 
 Bien cordialement,
 [Prénom Nom]
-[Téléphone]`;
-}
+[Structure qui vend les œuvres : raison sociale, adresse]
+[Téléphone]
 
+Vos coordonnées professionnelles proviennent de [source publique : site de l'entreprise, annuaire, registre]. Si vous ne souhaitez plus recevoir de message de notre part, répondez simplement STOP.`;
+  return {objet,corps};
+}
+function noteEC(c){
+  const a=c.art||{};
+  return `Note pour l'expert-comptable de ${c.nom}
+Objet : acquisition d'œuvres originales d'artistes vivants (article 238 bis AB du CGI)
+
+- Textes : article 238 bis AB du Code général des impôts ; doctrine BOI-BIC-CHG-70-10 (version du 15/04/2026). Dispositif prorogé pour les acquisitions réalisées jusqu'au 31/12/2028 (article 89 de la loi de finances pour 2026).
+- Œuvres : œuvres originales d'artistes vivants au sens de l'article 98 A de l'annexe III au CGI, inscrites à un compte d'actif immobilisé.
+- Déduction : prix d'acquisition déduit du résultat imposable par fractions égales sur l'exercice d'acquisition et les quatre suivants, dans la limite annuelle de 20 000 € ou de 5 ‰ du chiffre d'affaires HT si ce montant est plus élevé, minorée des versements de mécénat de l'article 238 bis.
+- Exposition : dans un lieu accessible gratuitement au public ou aux salariés, à l'exception de leurs bureaux, pendant la période de déduction.
+- Réserve spéciale : somme égale au montant déduit inscrite à un compte de réserve spéciale au passif ; réintégration au résultat en cas de cession, de changement d'affectation ou de prélèvement sur cette réserve.
+- Ordre de grandeur : ${a.ca?`limite annuelle d'environ ${fmtE(a.plafond)} (chiffre d'affaires de référence ${eur(a.ca)}${a.annee?", exercice "+a.annee:""})`:"limite annuelle de 20 000 €, chiffre d'affaires à préciser"}.
+
+Éléments donnés à titre d'information, à valider par vos soins.`;
+}
 /* ---------- Culture & événements ---------- */
 const cPros=()=>culture.prospects||[];
 function renderCHero(){
@@ -1168,12 +1392,12 @@ function renderCHero(){
   ].map(([cl,v,l,s])=>`<div class="kpi ${cl}"><b class="num">${v}</b><span>${l}</span><small>${s}</small></div>`).join("");
 }
 function cFiltered(){
-  const q=cfilt.q.trim().toLowerCase();
+  const q=norm(cfilt.q);
   return cPros().filter(x=>{
     if(cfilt.fam&&x.famille!==cfilt.fam)return false;
     if(cfilt.prio&&x.priorite!==cfilt.prio)return false;
     if(cfilt.statut&&statutOf(x)!==cfilt.statut)return false;
-    if(q){const s=S(x);const hay=[x.nom,x.type,x.discipline,x.ville,x.description,(x.responsable||{}).nom,s.contact_nom,s.notes].join(" ").toLowerCase();if(!hay.includes(q))return false}
+    if(q){const s=S(x);const hay=norm([x.nom,x.type,x.discipline,x.ville,x.description,(x.responsable||{}).nom,s.contact_nom,s.notes,(x.contact||{}).telephone].join(" "));if(!hay.includes(q))return false}
     return true}).sort((a,b)=>(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||(a.distance_cosne_km??999)-(b.distance_cosne_km??999)||a.nom.localeCompare(b.nom,"fr"));
 }
 const kmTxt=x=>x.distance_cosne_km==null?null:(x.distance_cosne_km<=3?"à Cosne":x.distance_cosne_km+" km");
@@ -1186,7 +1410,7 @@ function renderCList(){
     const sub=[x.type,x.discipline,x.ville,kmTxt(x)].filter(Boolean).join(" · ");
     return `<div class="row crow ${f.cls}${csel===x.id?" sel":""}" role="button" tabindex="0" data-c="${esc(x.id)}">
       <span class="rk">${icon(f.ic,18)}</span>
-      <div style="min-width:0"><div class="nm">${esc(x.nom)}</div><div class="sub">${esc(sub)}</div></div>
+      <div style="min-width:0"><div class="nm">${esc(x.nom)}${S(x).opposition?` <span class="pill warn">Refus de contact</span>`:""}</div><div class="sub">${esc(sub)}</div></div>
       <span class="pr">${x.priorite?`<span class="pill p-${x.priorite}">${x.priorite}</span>`:""}</span>
       <span><span class="pill s-${st}">${SLABEL[st]}</span></span>
     </div>`}).join("");
@@ -1200,7 +1424,9 @@ function cMailFor(x){
   const disc=x.discipline?` (${x.discipline})`:"";
   const sign=`Bien cordialement,
 [Prénom Nom]
-[Téléphone]`;
+[Téléphone]
+
+Si vous préférez ne pas être recontacté, répondez simplement STOP : nous ne vous écrirons plus.`;
   if(x.famille==="Artistes")return `Objet : Exposer au Vieux Relais, à Cosne-Cours-sur-Loire
 
 ${hello}
@@ -1240,9 +1466,11 @@ function renderCDetail(force){
   if(!x){box.classList.add("closed","f2");box.innerHTML=PLACEHOLDER("Sélectionne une association, un artiste ou un lieu pour voir sa fiche et son message d'approche.");delete box.dataset.r;return}
   const f=famOf(x);
   box.classList.remove("closed");box.classList.add(f.cls);
+  const sig=[x.id,suivi[key(x)],canEdit()];
+  if(!force&&box._sig&&sig.every((v,i)=>v===box._sig[i]))return;
   if(!force&&box.dataset.r===x.id&&box.contains(document.activeElement)&&document.activeElement.matches("input,textarea,select")){renderHist(x,"g_");return}
-  box.dataset.r=x.id;
-  const st=statutOf(x),ro=!canWrite,ct=x.contact||{},rp=x.responsable;
+  box.dataset.r=x.id;box._sig=sig;
+  const st=statutOf(x),ro=!canEdit(),ct=x.contact||{},rp=x.responsable,op=S(x).opposition;
   const where=[x.discipline,x.ville,x.distance_cosne_km!=null?(x.distance_cosne_km<=3?"à Cosne":"≈ "+x.distance_cosne_km+" km de Cosne"):null].filter(Boolean).join(" · ");
   const hasContact=ct.telephone||ct.email||ct.site||ct.facebook||ct.instagram;
   box.innerHTML=`
@@ -1256,10 +1484,10 @@ function renderCDetail(force){
   <div class="d-sec">
     <h3>Idée d'événement</h3>
     <div class="angle">${esc(x.idee_evenement||"À imaginer ensemble")}</div>
-    <details class="mailer"><summary>Préparer le message d'approche</summary>
+    ${op?`<p class="muted small" style="margin:0">Pas de message : refus de contact noté le ${esc(new Date(op.date).toLocaleDateString("fr-FR"))} (${esc(op.canal||"")}).</p>`:`<details class="mailer"><summary>Préparer le message d'approche</summary>
       <div class="mail" data-mail="1">${esc(cMailFor(x))}</div>
       <button class="btn" type="button" data-copymail="1" style="margin-top:8px">Copier le message</button>
-    </details>
+    </details>`}
   </div>
   ${suiviHTML(x,"g_",ro)}
   <div class="d-sec">
@@ -1267,7 +1495,7 @@ function renderCDetail(force){
     <dl class="kv">
       ${rp&&rp.nom?line("Responsable",esc(rp.nom)+(rp.fonction?` <span class="muted">— ${esc(rp.fonction)}</span>`:"")):""}
       ${line("Adresse",copyable(ct.adresse))}
-      ${line("Téléphone",copyable(ct.telephone))}
+      ${line("Téléphone",ct.telephone?`<span class="contact">${telLink(telIn(ct.telephone)||ct.telephone)}${copyBtn(telIn(ct.telephone)||ct.telephone,"le numéro")}</span>${telIn(ct.telephone)&&ct.telephone.trim()!==telIn(ct.telephone)?`<span class="muted small" style="display:block">${esc(ct.telephone)}</span>`:""}`:"")}
       ${line("E-mail",copyable(ct.email))}
       ${line("Site web",linkOut(ct.site))}
       ${line("Facebook",fbLink(ct.facebook))}
@@ -1303,19 +1531,29 @@ function renderCStatic(){
 }
 
 /* ---------- Rendu global ---------- */
-function renderAll(){renderPipeline();renderList();renderPlan();renderAppels();renderDetail();renderCHero();renderCList();renderCDetail()}
-let tt;function toast(m){let t=$(".toast");if(!t){t=document.createElement("div");t.className="toast";t.setAttribute("role","status");document.body.appendChild(t)}t.textContent=m;t.hidden=false;clearTimeout(tt);tt=setTimeout(()=>t.hidden=true,2600)}
+function renderAll(force){renderPipeline();renderList();renderPlan();renderAppels(force);renderDetail(force);renderCHero();renderCList();renderCDetail(force)}
+let tt;
+function toast(m,act){
+  let t=$(".toast");if(!t){t=document.createElement("div");t.className="toast";t.setAttribute("role","status");document.body.appendChild(t)}
+  t.textContent="";const sp=document.createElement("span");sp.textContent=m;t.appendChild(sp);
+  if(act){const b=document.createElement("button");b.type="button";b.className="tbtn";b.textContent=act.label;b.addEventListener("click",()=>{t.hidden=true;act.run()});t.appendChild(b)}
+  t.hidden=false;clearTimeout(tt);tt=setTimeout(()=>t.hidden=true,act?10000:2600);
+}
 function setSync(cls,txt){const s=$("#sync");s.className="sync "+cls;s.querySelector("span").textContent=txt}
 
 /* ---------- Navigation ---------- */
 const VIEWS={plan:["#viewPlan","#heroPlan","#tab-plan"],appels:["#viewAppels","#heroAppels","#tab-appels"],fiches:["#viewFiches","#heroFiches","#tab-fiches"],culture:["#viewCulture","#heroCulture","#tab-culture"]};
+const EXPORT_L={appels:"Exporter la feuille d'appels (CSV)",culture:"Exporter les prospects culture (CSV)"};
 function setView(v){
   if(!VIEWS[v])v="plan";view=v;
   for(const [k,[sec,hero,tab]] of Object.entries(VIEWS)){const on=k===v;$(sec).hidden=!on;$(hero).hidden=!on;$(tab).setAttribute("aria-selected",on)}
+  const xl=EXPORT_L[v]||"Exporter les entreprises (CSV)";$("#exportBtn span").textContent=xl;$("#exportBtn").setAttribute("aria-label",xl);
   try{localStorage.setItem("crm58-view",v)}catch(e){}
   if(v==="plan")renderRoute();
+  if(v==="appels"&&appelsDirty)renderAppels(true);
 }
-function openFiche(r){
+function openFiche(r,from){
+  retView=from||null;
   if(byId[r]&&!companies.includes(byId[r]))setScope("all");
   sel=r;setView("fiches");
   filt={q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:filt.sort};$("#q").value="";$("#fPrio").value="";$("#fSect").value="";$("#fTop").value="";$("#fContact").value="";$("#fArt").value="";
@@ -1324,19 +1562,26 @@ function openFiche(r){
   if(row&&!matchMedia("(max-width:980px)").matches)row.scrollIntoView({block:"center"});
   $("#detail").scrollTop=0;
 }
+function backToAppels(){
+  const r=sel;retView=null;setView("appels");renderAppels(true);renderDetail(true);
+  const row=document.querySelector(`.arow[data-r="${r}"]`);if(row)row.scrollIntoView({block:"center"});
+}
 async function copyFrom(el,label){try{await navigator.clipboard.writeText(el.textContent);toast(label)}catch(err){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);toast("Texte sélectionné, fais Ctrl+C")}}
+async function copyBtnClick(b){try{await navigator.clipboard.writeText(b.dataset.copy);toast("Copié")}catch(err){const t=b.previousElementSibling;if(t){const r=document.createRange();r.selectNodeContents(t);const s=getSelection();s.removeAllRanges();s.addRange(r)}toast("Sélectionné, fais Ctrl+C")}}
 function detailClicks(box,onClose){
   box.addEventListener("click",async e=>{
     if(e.target.closest("[data-close]")){onClose();return}
-    if(e.target.closest("[data-copymail]")){const m=box.querySelector("[data-mail]");if(m)copyFrom(m,"Message copié");return}
-    const b=e.target.closest(".copy");if(b){try{await navigator.clipboard.writeText(b.dataset.copy);toast("Copié")}catch(err){const r=document.createRange();r.selectNodeContents(b.previousElementSibling);const s=getSelection();s.removeAllRanges();s.addRange(r);toast("Sélectionné, fais Ctrl+C")}}
+    if(e.target.closest("[data-back]")){backToAppels();return}
+    for(const [btn,sel2,lab] of [["[data-copymail]","[data-mail]","Texte copié"],["[data-copysubj]","[data-subj]","Objet copié"],["[data-copynote]","[data-note]","Note copiée"]])
+      if(e.target.closest(btn)){const m=box.querySelector(sel2);if(m)copyFrom(m,lab);return}
+    const b=e.target.closest(".copy");if(b)copyBtnClick(b);
   });
 }
-document.querySelector(".tabs").addEventListener("click",e=>{const t=e.target.closest(".tab");if(t)setView(t.dataset.view)});
+document.querySelector(".tabs").addEventListener("click",e=>{const t=e.target.closest(".tab");if(t){retView=null;setView(t.dataset.view);renderDetail()}});
 $("#waves").addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openFiche(+b.dataset.open)});
 $("#route").addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openFiche(+b.dataset.open)});
 $("#route").addEventListener("keydown",e=>{const b=e.target.closest("[data-open]");if(b&&(e.key==="Enter"||e.key===" ")){e.preventDefault();openFiche(+b.dataset.open)}});
-$("#rows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)return;sel=+r.dataset.r;renderList();renderDetail(true);$("#detail").scrollTop=0});
+$("#rows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)return;sel=+r.dataset.r;retView=null;renderList();renderDetail(true);$("#detail").scrollTop=0});
 $("#crows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)return;csel=r.dataset.c;renderCList();renderCDetail(true);$("#cdetail").scrollTop=0});
 for(const id of ["#rows","#crows"])$(id).addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("row")){e.preventDefault();e.target.click()}});
 detailClicks($("#detail"),()=>{sel=null;renderList();renderDetail(true)});
@@ -1348,16 +1593,34 @@ $("#fSect").addEventListener("change",e=>{filt.sect=e.target.value;renderList()}
 $("#fTop").addEventListener("change",e=>{filt.top=e.target.value;renderList()});
 $("#fContact").addEventListener("change",e=>{filt.contact=e.target.value;renderList()});
 $("#fArt").addEventListener("change",e=>{filt.art=e.target.value;renderList()});
-$("#aResp").addEventListener("change",renderAppels);
-$("#aVague").addEventListener("change",renderAppels);
+$("#aResp").addEventListener("change",()=>renderAppels(true));
+$("#aVague").addEventListener("change",()=>renderAppels(true));
+$("#aq").addEventListener("input",()=>renderAppels(true));
+function afterLog(c,res,r){
+  if(r.ok)toast("Noté : "+RLABEL[res]+r.info,{label:"Annuler",run:async()=>{if(await r.undo()){toast("Annulé");renderAll()}}});
+  renderPipeline();renderList();renderPlan();renderAppels(true);if(sel===c.rang)renderDetail(true);
+}
 $("#alist").addEventListener("click",async e=>{
-  const o=e.target.closest("[data-open]");if(o){openFiche(+o.dataset.open);return}
-  const b=e.target.closest(".copy");if(b){try{await navigator.clipboard.writeText(b.dataset.copy);toast("Copié")}catch(err){toast("Sélectionne le numéro pour le copier")}}
+  const o=e.target.closest("[data-open]");if(o){openFiche(+o.dataset.open,"appels");return}
+  const b=e.target.closest(".copy");if(b){copyBtnClick(b);return}
+  if(e.target.closest("[data-afno]")){renderAppels(true);return}
+  const ok=e.target.closest("[data-afok]");if(!ok)return;
+  const c=byId[+ok.dataset.afok],box=document.getElementById("af-"+ok.dataset.afok);if(!c||!box)return;
+  const res=box.dataset.res,v=n=>{const el=box.querySelector(`[name="${n}"]`);return el?el.value.trim():""};
+  let extra={},txt=RLABEL[res];
+  if(res==="rappeler"){if(!v("d")){toast("Choisis la date du rappel");return}extra={date_relance:v("d"),rappel_heure:v("h")};txt="À rappeler le "+fmtDay(v("d"))+(v("h")?" à "+v("h"):"")}
+  if(res==="rdv"){if(!v("d")){toast("Choisis la date du rendez-vous");return}extra={rdv_date:v("d"),rdv_heure:v("h"),rdv_note:v("n"),date_relance:"",rappel_heure:""};txt="Rendez-vous le "+fmtDay(v("d"))+(v("h")?" à "+v("h"):"")}
+  if(v("n"))txt+=" : "+v("n");
+  ok.disabled=true;
+  afterLog(c,res,await logResult(c,res,txt,extra));
 });
 $("#alist").addEventListener("change",async e=>{const sl=e.target.closest(".ares");if(!sl||!sl.value)return;
-  const c=byId[+sl.dataset.res];const res=sl.value;if(!c)return;
-  await logResult(c,res,RLABEL[res]);toast("Noté : "+RLABEL[res]+(RELANCE_AUTO.has(res)?" · relance "+new Date((S(c).date_relance||nextWorkday())+"T12:00").toLocaleDateString("fr-FR",{weekday:"long"}):""));
-  renderPipeline();renderList();renderPlan();renderAppels();if(sel===c.rang)renderDetail(true)});
+  const c=byId[+sl.dataset.res],res=sl.value;if(!c)return;
+  if(FORM_RES.has(res)){openAform(c,res);return}
+  sl.disabled=true;
+  afterLog(c,res,await logResult(c,res,RLABEL[res]));
+});
+$("#alist").addEventListener("focusout",()=>setTimeout(()=>{if(appelsDirty&&!appelsBusy())renderAppels(true)},0));
 $("#detail").addEventListener("click",e=>{if(e.target.closest("[data-sim]")&&byId[sel])simFrom(byId[sel])});
 $("#calcForm").addEventListener("input",renderSim);
 $("#calcForm").addEventListener("submit",e=>e.preventDefault());
@@ -1368,25 +1631,39 @@ $("#cprio").addEventListener("change",e=>{cfilt.prio=e.target.value;renderCList(
 $("#cstatut").addEventListener("change",e=>{cfilt.statut=e.target.value;renderCList()});
 let rz;window.addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(renderRoute,150)});
 
-const csvq=v=>{v=v==null?"":String(v);return /[";\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v};
-$("#exportBtn").addEventListener("click",async()=>{
-  let filename,csv;
-  if(view==="appels"){
-    const cols=["entreprise","telephone","telephone_e164","a_demander","fonction","vague","priorite","plafond_annuel","ville","siren","statut","dernier_resultat","appels","date_relance","heure_relance","pas_de_mailing","argument","notes"];
-    const rows=callGroups().flatMap(g=>g[2]).map(c=>{const s=S(c),w=personToAsk(c)||{};return [nameOf(c),c.telephone,e164(c.telephone),w.nom,w.fonction,c.vague,c.priorite,(c.art||{}).plafond,c.ville,c.siren,SLABEL[statutOf(c)],RLABEL[s.dernier_resultat]||"",s.appels||0,s.date_relance,s.rappel_heure,c.opposition_prospection?"oui":"",(c.fiche||{}).angle_art,s.notes].map(csvq).join(";")});
-    filename="feuille-appels-nievre.csv";csv="\ufeff"+cols.join(";")+"\n"+rows.join("\n");
-  }else if(view==="culture"){
-    const cols=["nom","famille","type","discipline","ville","distance_cosne_km","priorite","responsable","telephone","email","site","facebook","instagram","idee_evenement","statut_prospection","qui_s_en_occupe","interlocuteur","coordonnees_directes","prochaine_action","date_relance","notes"];
-    const rows=cPros().map(x=>{const s=S(x);const ct=x.contact||{};const rp=x.responsable||{};return [x.nom,x.famille,x.type,x.discipline,x.ville,x.distance_cosne_km,x.priorite,rp.nom?rp.nom+(rp.fonction?" ("+rp.fonction+")":""):"",ct.telephone,ct.email,ct.site,ct.facebook,ct.instagram,x.idee_evenement,SLABEL[statutOf(x)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.notes].map(csvq).join(";")});
-    filename="prospects-culture-cosne.csv";csv="﻿"+cols.join(";")+"\n"+rows.join("\n");
-  }else{
-    const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","email","site_web","dirigeants","interlocuteur_cible","notes_premiere_etude","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_relance","notes","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","lieu_decision","argument_appel","comment_appeler","vigilance","raison_priorite","a_confirmer","opposition_prospection","adresse","code_postal"];
-    const rows=companies.map(c=>{const s=S(c);const ic=c.interlocuteur_cible||{};const cf=c.contact_finance||{};const a=c.art||{};return [c.rang,c.nom,nameOf(c),c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+" ("+d.fonction+")").join(" / "),ic.nom?ic.nom+(ic.fonction?" ("+ic.fonction+")":""):"",c.angle_partenariat,SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.notes,(c.contact_dirigeant||{}).nom,(c.contact_dirigeant||{}).fonction,(c.contact_dirigeant||{}).tel_direct,(c.contact_dirigeant||{}).email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,(c.fiche||{}).angle_art,(c.fiche||{}).qui_appeler,((c.fiche||{}).vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":"",c.adresse,c.code_postal].map(csvq).join(";")});
-    filename="crm-entreprises-nievre.csv";csv="﻿"+cols.join(";")+"\n"+rows.join("\n");
-  }
+/* ---------- Exports CSV (séparateur « ; », BOM pour Excel ; une cellule qui commence par = + - @ est neutralisée) ---------- */
+const RAW=v=>({raw:v});   // valeur exportée telle quelle (numéro +33…)
+const csvq=v=>{if(v==null)return "";let t;if(typeof v==="number")t=String(v);else if(typeof v==="object"&&"raw" in v)t=String(v.raw??"");else{t=String(v);if(/^[=+\-@\t\r]/.test(t))t="'"+t}return /[";\n\r]/.test(t)?'"'+t.replace(/"/g,'""')+'"':t};
+const csvOf=(cols,rows)=>"﻿"+cols.join(";")+"\n"+rows.map(r=>r.map(csvq).join(";")).join("\n");
+const histTxt=x=>histOf(S(x)).map(e=>`${fmtStamp(e.t)} · ${e.res&&RLABEL[e.res]?RLABEL[e.res]+" · ":""}${e.txt||""}`).join(" | ");
+const oppD=x=>{const o=S(x).opposition;return o?[isoDay(new Date(o.date)),o.canal||""]:["",""]};
+async function saveFile(filename,data){
   const dl=window.claude&&window.claude.use?await window.claude.use("downloads").catch(()=>null):null;
-  if(!dl){toast("Export indisponible dans cette vue");return}
-  try{await dl.save({filename,data:csv})}catch(e){if(e&&e.code!=="declined")toast("Export impossible pour le moment")}
+  if(dl){try{await dl.save({filename,data})}catch(e){if(e&&e.code!=="declined")toast("Export impossible pour le moment")}return}
+  try{const u=URL.createObjectURL(new Blob([data],{type:"text/csv;charset=utf-8"}));const a=document.createElement("a");a.href=u;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),3000)}
+  catch(e){toast("Export indisponible dans cette vue")}
+}
+$("#exportBtn").addEventListener("click",()=>{
+  if(view==="appels"){
+    const cols=["entreprise","telephone","telephone_e164","ligne_directe","interlocuteur","a_demander","fonction","vague","priorite","plafond_annuel","ville","siren","statut","dernier_resultat","appels","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appelant","pas_de_mailing","argument","notes"];
+    const rows=callGroups().flatMap(g=>g[2]).map(c=>{const s=S(c),w=personToAsk(c)||{},cl=callsOf(c),dt=telIn(s.contact_coord);
+      return [nameOf(c),c.telephone,RAW(e164(c.telephone)),dt,s.contact_nom,w.nom,w.fonction,c.vague,c.priorite,(c.art||{}).plafond,c.ville,c.siren,SLABEL[statutOf(c)],RLABEL[cl.last]||"",cl.n,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,s.responsable,c.opposition_prospection?"oui":"",(c.fiche||{}).angle_art,s.notes]});
+    return saveFile("feuille-appels-nievre.csv",csvOf(cols,rows));
+  }
+  if(view==="culture"){
+    const cols=["nom","famille","type","discipline","ville","distance_cosne_km","priorite","responsable","telephone","email","site","facebook","instagram","idee_evenement","statut_prospection","qui_s_en_occupe","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","notes","refus_contact_date","refus_canal","historique"];
+    const rows=cPros().map(x=>{const s=S(x),ct=x.contact||{},rp=x.responsable||{};return [x.nom,x.famille,x.type,x.discipline,x.ville,x.distance_cosne_km,x.priorite,rp.nom?rp.nom+(rp.fonction?" ("+rp.fonction+")":""):"",ct.telephone,ct.email,ct.site,ct.facebook,ct.instagram,x.idee_evenement,SLABEL[statutOf(x)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.notes,...oppD(x),histTxt(x)]});
+    return saveFile("prospects-culture-cosne.csv",csvOf(cols,rows));
+  }
+  const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","telephone_e164","email","site_web","dirigeants","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appels","dernier_resultat","dernier_appel","notes","refus_prospection_date","refus_canal","historique","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","lieu_decision","argument_appel","comment_appeler","vigilance","raison_priorite","a_confirmer","opposition_pappers","adresse","code_postal"];
+  const rows=allCompanies.map(c=>{const s=S(c),cf=c.contact_finance||{},cd=c.contact_dirigeant||{},a=c.art||{},fi=c.fiche||{},cl=callsOf(c);return [c.rang,c.nom,c.nom_commercial||"",c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,RAW(e164(c.telephone)),c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+(d.fonction?" ("+d.fonction+")":"")).join(" / "),SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,cl.n,RLABEL[cl.last]||"",cl.lastT?fmtStamp(cl.lastT):"",s.notes,...oppD(c),histTxt(c),cd.nom,cd.fonction,cd.tel_direct,cd.email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,fi.angle_art,fi.qui_appeler,(fi.vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":c.opposition_prospection===false?"non":"non vérifiée",c.adresse,c.code_postal]});
+  saveFile("crm-entreprises-nievre.csv",csvOf(cols,rows));
+});
+$("#exportOpp").addEventListener("click",()=>{   // liste d'exclusion : refus notés dans le CRM et oppositions relevées sur Pappers
+  const rows=[];
+  for(const c of allCompanies){const o=S(c).opposition;if(o||c.opposition_prospection)rows.push(["entreprise",c.nom,c.siren,o?isoDay(new Date(o.date)):"",o?o.canal||"":"",o?"noté dans le CRM":"opposition Pappers"])}
+  for(const x of cPros()){const o=S(x).opposition;if(o)rows.push(["culture",x.nom,"",isoDay(new Date(o.date)),o.canal||"","noté dans le CRM"])}
+  saveFile("refus-prospection-nievre.csv",csvOf(["type","nom","siren","date","canal","origine"],rows));
 });
 
 /* ---------- Périmètre : les 100 entreprises du classement initial, ou les 500 ---------- */
@@ -1394,18 +1671,18 @@ function renderMethod(){
   {const xa=companies.filter(c=>c.ext&&!c.ca_non_publie),xn=companies.filter(c=>c.ca_non_publie),n0=companies.length-xa.length-xn.length;
    const minCA=xa.length?Math.min(...xa.map(c=>c.ca||0)):0;
    $("#methodNote").textContent=`Rangs 1 à ${n0} : classement Pappers du 02/09/2026. `+(xa.length?`Rangs ${n0+1} à ${n0+xa.length} : entreprises classées par le chiffre d'affaires de leur dernier exercice publié (2023 ou plus récent), d'après le registre national ou, à défaut, leur fiche Pappers ; seuil d'entrée ${eur(minCA)}. `:"")+(xn.length?`Rangs ${n0+xa.length+1} à ${n0+xa.length+xn.length} : entreprises qui ne publient pas leurs comptes et emploient au moins 10 salariés, classées par effectif. `:"")+(xa.length||xn.length?`Candidates repérées le 22/10/2026 sur les classements Pappers par commune et au registre national. `:"")
-   +`Priorités pour la vente d'œuvres : haute = société à l'IS, bénéfice d'au moins 50 k€ au dernier exercice publié, lieu ouvert au public ou au moins 10 salariés, et au-delà de 30 km de Cosne plus de 4 M€ de CA ; moyenne = autres entreprises bénéficiaires ; basse = pertes, procédure en cours ou régime fiscal à vérifier. Plafond de déduction calculé sur le dernier CA publié. Pour les 100 premières, priorité revue fiche par fiche (rentabilité, lieu de décision, autonomie du site).`}
+   +`Priorités pour la vente d'œuvres : haute = société à l'IS, bénéfice d'au moins 50 k€ au dernier exercice connu, lieu ouvert au public ou au moins 10 salariés, et au-delà de 30 km de Cosne plus de 4 M€ de CA ; moyenne = autres entreprises bénéficiaires ; basse = pertes, procédure en cours ou régime fiscal à vérifier. Plafond de déduction calculé sur le dernier CA connu (comptes 2025 relevés par la recherche quand ils existent). Pour les 100 premières, priorité revue fiche par fiche (rentabilité, lieu de décision, autonomie du site).`}
 }
 function applyScope(first){
   companies=scope==="all"?allCompanies:allCompanies.filter(c=>c.rang<=100);
   document.querySelectorAll("#scope button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.scope===scope));
-  $("#tab-fiches").textContent=scope==="all"?"Les 500 entreprises":"Les 100 entreprises";
+  $("#tab-fiches .tlong").textContent=scope==="all"?"Les 500 entreprises":"Les 100 entreprises";
   $("#fTop").hidden=scope!=="all";
   if(scope!=="all"){filt.top="";$("#fTop").value=""}
   if(sel!=null&&!companies.includes(byId[sel]))sel=null;
   const box=$("#route");if(box)delete box.dataset.w;
   renderMethod();
-  if(!first)renderAll();
+  if(!first)renderAll(true);
 }
 function setScope(v){
   scope=v==="all"?"all":"100";
@@ -1413,6 +1690,24 @@ function setScope(v){
   applyScope();
 }
 $("#scope").addEventListener("click",e=>{const b=e.target.closest("[data-scope]");if(b&&b.dataset.scope!==scope)setScope(b.dataset.scope)});
+
+/* Suivi noté sur cet appareil hors connexion : proposé à l'envoi dans le suivi partagé (historiques réunis, refus conservés) */
+function offerLocal(){
+  const loc=loadLocal(),ks=Object.keys(loc).filter(k=>loc[k]&&typeof loc[k]==="object");
+  if(!ks.length||!canEdit()||$("#pushLocal"))return;
+  const b=document.createElement("button");b.className="btn-ghost";b.type="button";b.id="pushLocal";
+  b.textContent=`Envoyer le suivi de cet appareil (${ks.length})`;b.title="Des fiches ont été suivies sur cet appareil hors connexion : les ajouter au suivi partagé";
+  b.addEventListener("click",async()=>{b.disabled=true;let n=0;
+    for(const k of ks){const L=loc[k],R=suivi[k]||{},ch={},newer=!R.maj||(L.maj&&L.maj>R.maj);
+      if(newer)for(const [f,v] of Object.entries(L))if(!["historique","journal","maj","appels","dernier_resultat","dernier_appel","opposition"].includes(f)&&v!=null&&v!==R[f])ch[f]=v;
+      const have=new Set(histOf(R).map(e=>e.t+"|"+(e.by||"")));
+      for(const e of histOf(L))if(!have.has(e.t+"|"+(e.by||""))){const {id,...rest}=e;(ch.journal=ch.journal||{})[newId(e.t)]=rest}
+      if(L.opposition&&!R.opposition)ch.opposition=L.opposition;
+      if(Object.keys(ch).length){ch.maj=L.maj||new Date().toISOString();if(await persist(k,ch))n++}}
+    try{localStorage.removeItem("crm58-suivi")}catch(e){}
+    b.remove();toast(`${n} fiche${n>1?"s":""} ajoutée${n>1?"s":""} au suivi partagé`);renderAll(true)});
+  $(".top-actions").prepend(b);
+}
 
 /* ---------- Démarrage ---------- */
 (async function start(){
@@ -1422,6 +1717,10 @@ $("#scope").addEventListener("click",e=>{const b=e.target.closest("[data-scope]"
   if(!cj){$("#rows").innerHTML=`<div class="empty">Les fiches n'ont pas pu être chargées. Recharge la page.</div>`;return}
   allCompanies=cj;allCompanies.forEach(c=>{c.id=c.ext&&c.siren?"s"+c.siren:"r"+c.rang;byId[c.rang]=c});
   try{if(localStorage.getItem("crm58-scope")==="all")scope="all"}catch(e){}
+  let startView="plan";
+  try{const v=localStorage.getItem("crm58-view");if(VIEWS[v])startView=v}catch(e){}
+  if(/^#e\d+$/.test(location.hash)){const r=+location.hash.slice(2);if(byId[r]){if(r>100)scope="all";sel=r;startView="fiches"}}
+  else if(location.hash==="#culture")startView="culture";
   applyScope(true);
   renderSim();
   if(uj){culture=uj;(culture.prospects||[]).forEach(x=>cById[x.id]=x)}
@@ -1430,24 +1729,29 @@ $("#scope").addEventListener("click",e=>{const b=e.target.closest("[data-scope]"
   $("#fSect").insertAdjacentHTML("beforeend",sects.map(s=>`<option>${esc(s)}</option>`).join(""));
   const fams=Object.keys(FAMS).filter(f=>cPros().some(x=>x.famille===f));
   $("#cfam").insertAdjacentHTML("beforeend",fams.map(f=>`<option>${esc(f)}</option>`).join(""));
-  let startView="plan";
-  try{const v=localStorage.getItem("crm58-view");if(VIEWS[v])startView=v}catch(e){}
-  if(/^#e\d+$/.test(location.hash)){const r=+location.hash.slice(2);if(byId[r]){sel=r;startView="fiches"}}
-  else if(location.hash==="#culture")startView="culture";
-  suivi=loadLocal();mode="local";
+  const rt=!!(window.claude&&window.claude.use);
+  const goLocal=msg=>{suivi=loadLocal();mode="local";ready=true;setSync("local",msg);
+    window.addEventListener("storage",e=>{if(e.key==="crm58-suivi"){suivi=loadLocal();renderAll()}})};
+  if(rt){suivi={};mode="loading";ready=false;setSync("","Chargement du suivi…")}else goLocal("Suivi enregistré sur cet appareil");
   renderCStatic();
   setView(startView);
-  renderAll();
-  if(!window.claude||!window.claude.use){setSync("local","Suivi enregistré sur cet appareil");return}
+  renderAll(true);
+  if(!rt)return;
   const [d,u]=await Promise.all([window.claude.use("db").catch(()=>null),window.claude.use("user").catch(()=>null)]);
   userNs=u;
-  if(!d){setSync("local","Suivi enregistré sur cet appareil uniquement");return}
-  db=d;mode="db";suivi={};
+  if(u){try{myId=await u.id()}catch(e){}}
+  if(!d){goLocal("Suivi enregistré sur cet appareil uniquement");renderAll(true);return}
+  db=d;mode="db";
   if(u){try{const w=await u.can("data.write");if(w===false)canWrite=false}catch(e){}}
   db.collection("suivi").onSnapshot(snap=>{
-    const next={};snap.docs.forEach(doc=>{if(doc.exists)next[doc.id]=doc.data()});
-    suivi=next;setSync("on",canWrite?"Suivi partagé, synchronisé":"Suivi partagé (lecture seule)");
-    renderAll();
-  },()=>{setSync("local","Synchronisation interrompue, recharge la page")});
+    base={};snap.docs.forEach(doc=>{if(doc.exists)base[doc.id]=doc.data()});
+    const first=!ready&&!snap.metadata.fromCache;
+    if(!snap.metadata.fromCache){known=new Set(Object.keys(base));ready=true}
+    for(const k of Object.keys(pend)){pend[k]=pend[k].filter(p=>!p.done);if(!pend[k].length)delete pend[k]}
+    suivi={};for(const k of new Set([...Object.keys(base),...Object.keys(pend)]))recompute(k);
+    setSync(ready?"on":"",ready?(canWrite?"Suivi partagé, synchronisé":"Suivi partagé (lecture seule)"):"Chargement du suivi…");
+    renderAll(first);
+    if(first)offerLocal();
+  },()=>{canWrite=false;setSync("local","Synchronisation interrompue : recharge la page");renderAll(true)});
 })();
 </script>

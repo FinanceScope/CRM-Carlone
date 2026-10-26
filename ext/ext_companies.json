@@ -63,7 +63,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/saldia-950499673"
-}
+},
+"email": null
 },
 {
 "rang": 102,
@@ -151,7 +152,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/soliloire-834179566"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 103,
@@ -194,7 +197,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun téléphone ni dirigeant personne physique trouvé (4 requêtes). Présidente : personne morale HOLDING CASSIER, dont le représentant n'a pas été identifié. Au même 45 rue de la Guette (Cercy-la-Tour), la fiche SIRENE d'une autre société, TC 58 (SIRET 338 339 146 00023), porte aussi l'enseigne TC TRANSPORTS (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023) : TC VRAC semble faire partie d'un petit groupe familial Cassier (une société Cassier Combustible est aussi citée à Cercy-la-Tour dans le recueil des actes de la préfecture de janvier 2024). À compléter par PagesJaunes / appel."
+"note_contacts": "Aucun téléphone ni dirigeant personne physique trouvé (4 requêtes). Présidente : personne morale HOLDING CASSIER, dont le représentant n'a pas été identifié. Au même 45 rue de la Guette (Cercy-la-Tour), la fiche SIRENE d'une autre société, TC 58 (SIRET 338 339 146 00023), porte aussi l'enseigne TC TRANSPORTS (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023) : TC VRAC semble faire partie d'un petit groupe familial Cassier (une société Cassier Combustible est aussi citée à Cercy-la-Tour dans le recueil des actes de la préfecture de janvier 2024). À compléter par PagesJaunes / appel.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 104,
@@ -265,7 +270,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ravine-412880445"
 },
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 105,
@@ -331,7 +337,8 @@
 "email": null,
 "source": "https://www.planetegrandesecoles.com/?p=100692"
 }
-]
+],
+"email": null
 },
 {
 "rang": 106,
@@ -408,7 +415,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/apocf-909990079"
-}
+},
+"email": null
 },
 {
 "rang": 107,
@@ -481,7 +489,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/acordia-530610187"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 108,
@@ -550,7 +560,9 @@
 "email": null,
 "source": "https://www.sudradio.fr/emission/la-france-qui-se-leve-tot-1020"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 109,
@@ -630,7 +642,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/egtn-entreprise-generale-de-travaux-et-de-nettoyage-345375661"
-}
+},
+"email": null
 },
 {
 "rang": 110,
@@ -694,7 +707,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 111,
@@ -775,7 +790,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/foucher-lebrun-val-de-loire-400672762"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 112,
@@ -833,7 +850,8 @@
 "enrichie": true,
 "contacts_ok": true,
 "note_contacts": "OPPOSITION À LA PROSPECTION : seules les coordonnées société sont collectées ; pas de site web propre, donc aucun décideur relevé (le gérant figure déjà au registre dans deja.dirigeants). Numéro déjà connu, non reconfirmé (fiche Cylex https://www.cylex-locale.fr/entreprises/beauvois-fr%c3%a8res-sarl-13046603.html sans numéro dans l'extrait). Activité : abattage, débardage, négoce de bois, sciage. Vérification : Opposition à la prospection : seuls les éléments société vérifiés. Le 03 86 39 24 70 n'apparaît dans aucun résultat (Cylex et copeps.fr sans numéro dans les extraits).",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 113,
@@ -897,7 +915,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 114,
@@ -958,7 +978,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"
-}
+},
+"email": null
 },
 {
 "rang": 115,
@@ -1046,7 +1067,9 @@
 "email": null,
 "source": "https://www.lesepl.fr/epl-en-action/la-cinquantieme-semop-a-ete-creee-a-nevers/?pdf=117963"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 116,
@@ -1106,7 +1129,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 117,
@@ -1169,7 +1194,9 @@
 "opposition_prospection": true,
 "enrichie": true,
 "contacts_ok": true,
-"note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de niveau société sont recherchées ; aucun site web de l'entreprise trouvé, donc aucun décideur nommé ici (le registre liste deux co-gérants, déjà dans « deja »). Aucun téléphone, e-mail ni site trouvé dans les extraits (3 requêtes, les résultats renvoient vers des homonymes marocains ou des pages sans rapport). Une offre France Travail de chauffeur poids lourd à Cosne-Cours-sur-Loire (https://candidat.francetravail.fr/offres/recherche/detail/191CNNW) ne nomme pas l'employeur. Vérifier l'opposition avant tout appel."
+"note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de niveau société sont recherchées ; aucun site web de l'entreprise trouvé, donc aucun décideur nommé ici (le registre liste deux co-gérants, déjà dans « deja »). Aucun téléphone, e-mail ni site trouvé dans les extraits (3 requêtes, les résultats renvoient vers des homonymes marocains ou des pages sans rapport). Une offre France Travail de chauffeur poids lourd à Cosne-Cours-sur-Loire (https://candidat.francetravail.fr/offres/recherche/detail/191CNNW) ne nomme pas l'employeur. Vérifier l'opposition avant tout appel.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 118,
@@ -1231,7 +1258,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/davemaris-535209654"
-}
+},
+"email": null
 },
 {
 "rang": 119,
@@ -1291,7 +1319,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/nivertel-493716625"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 120,
@@ -1351,7 +1381,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 121,
@@ -1439,7 +1471,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 122,
@@ -1527,7 +1561,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 123,
@@ -1589,7 +1625,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/jorest-430086165"
-}
+},
+"email": null
 },
 {
 "rang": 124,
@@ -1651,7 +1688,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/germains-development-888572831"
-}
+},
+"email": null
 },
 {
 "rang": 125,
@@ -1773,7 +1811,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 127,
@@ -1844,7 +1884,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843"
-}
+},
+"email": null
 },
 {
 "rang": 128,
@@ -1957,7 +1998,9 @@
 "statut": "Plan de redressement adopté le 24/06/2026",
 "eff_annee": "2024",
 "annee_ca": "2025",
-"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"telephone": null,
+"email": null
 },
 {
 "rang": 130,
@@ -2019,7 +2062,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/corimar-792570335"
-}
+},
+"email": null
 },
 {
 "rang": 131,
@@ -2080,7 +2124,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 132,
@@ -2143,7 +2189,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/320130735"
-}
+},
+"email": null
 },
 {
 "rang": 133,
@@ -2206,7 +2253,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.capretraite.fr/choisir-une-maison-de-retraite/types-de-maison/domidep/"
-}
+},
+"email": null
 },
 {
 "rang": 134,
@@ -2297,7 +2345,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sarl-roches-518047618"
 }
-]
+],
+"email": null
 },
 {
 "rang": 135,
@@ -2351,7 +2400,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/the-deal-444611933"
-}
+},
+"email": null
 },
 {
 "rang": 136,
@@ -2397,7 +2447,8 @@
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
 "note_contacts": "EHPAD Résidence Marion de Givry (FINESS 580972123), 7 rue des Francs Bourgeois, Nevers, géré par SEDNA Nevers (filiale de S.E.D.N.A France, présidente personne morale). Standard issu de l'annuaire officiel pour-les-personnes-agees.gouv.fr. etablissementsdesante.fr signale un email sur le domaine SEDNA pour l'établissement, non visible dans l'extrait, donc non relevé. Aucune personne physique trouvée à la tête de SEDNA France ni de directeur d'établissement / DAF : décideur à identifier via le standard. Une recherche sur le nom de la résidence est refusée par l'outil (confondu avec une personne) : préciser « EHPAD ».",
-"telephone": "03 86 59 88 00"
+"telephone": "03 86 59 88 00",
+"email": null
 },
 {
 "rang": 137,
@@ -2459,7 +2510,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ets-marchand-849265954"
-}
+},
+"email": null
 },
 {
 "rang": 138,
@@ -2519,7 +2571,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/rch-region-centre-habitat-441254968"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 139,
@@ -2579,7 +2633,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 140,
@@ -2660,7 +2716,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sica-medicavet-950003723"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 141,
@@ -2722,7 +2780,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/everest-507604106"
-}
+},
+"email": null
 },
 {
 "rang": 142,
@@ -2784,7 +2843,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sosemat-325414019"
-}
+},
+"email": null
 },
 {
 "rang": 143,
@@ -2859,7 +2919,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/vertine-409109360"
 }
-]
+],
+"email": null
 },
 {
 "rang": 144,
@@ -2921,7 +2982,8 @@
 "email": null,
 "source": "https://www.toute-la-franchise.com/news-monceau-fleurs-nevers"
 }
-]
+],
+"email": null
 },
 {
 "rang": 145,
@@ -3074,7 +3136,8 @@
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
 "note_contacts": "Exploite la boulangerie Feuillette (réseau en franchise) au 2 rue des Docks à Nevers. Numéro issu d'un annuaire (eat-list.fr), source faible. Présidente : la holding L3AP ; la personne physique derrière n'a pas été identifiée (rien dans les résultats de recherche).",
-"telephone": "03 71 42 02 19"
+"telephone": "03 71 42 02 19",
+"email": null
 },
 {
 "rang": 148,
@@ -3160,7 +3223,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/amis-batisseurs-492601133"
 }
-]
+],
+"email": null
 },
 {
 "rang": 149,
@@ -3220,7 +3284,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/qualijuris-58-381215102"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 150,
@@ -3294,7 +3360,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/les-forges-du-morvan-412264111"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 151,
@@ -3401,7 +3469,9 @@
 "email": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/detergence-industrielle-francaise_302555222"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 152,
@@ -3463,7 +3533,9 @@
 "opposition_prospection": true,
 "enrichie": true,
 "contacts_ok": true,
-"note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : contacts société uniquement ; aucun nom de décideur publié sur un site propre de l'entreprise, donc décideur non renseigné (l'interlocuteur déjà connu dans « deja » reste la seule référence). Adresse route N7, lieu-dit Le Grand Champ, Cosne-Cours-sur-Loire = même emplacement que le magasin BUT Cosne-sur-Loire listé par justacote.com (page magasin https://www.but.fr/magasins/389/But-Cosne-Sur-Loire.html citée par avis-verifies.com) : il s'agit probablement du franchisé BUT, mais le lien n'est pas confirmé (un Conforama est aussi sur la N7) et aucun numéro n'a été trouvé. 3 recherches."
+"note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : contacts société uniquement ; aucun nom de décideur publié sur un site propre de l'entreprise, donc décideur non renseigné (l'interlocuteur déjà connu dans « deja » reste la seule référence). Adresse route N7, lieu-dit Le Grand Champ, Cosne-Cours-sur-Loire = même emplacement que le magasin BUT Cosne-sur-Loire listé par justacote.com (page magasin https://www.but.fr/magasins/389/But-Cosne-Sur-Loire.html citée par avis-verifies.com) : il s'agit probablement du franchisé BUT, mais le lien n'est pas confirmé (un Conforama est aussi sur la N7) et aucun numéro n'a été trouvé. 3 recherches.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 153,
@@ -3548,7 +3620,9 @@
 "email": null,
 "source": "https://cheramy-nevers.notaires.fr/en/about-us--Marie-CHERAMY.html"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 154,
@@ -3674,7 +3748,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/borflex-rhone-alpes_428210488"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 156,
@@ -3758,7 +3834,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 157,
@@ -3831,7 +3909,9 @@
 "email": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/ambulances-tissier_498917202"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 158,
@@ -3906,7 +3986,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/clemenciel-442496816"
-}
+},
+"email": null
 },
 {
 "rang": 159,
@@ -3968,7 +4049,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/pharmacie-colbert-321816571"
-}
+},
+"email": null
 },
 {
 "rang": 160,
@@ -4041,7 +4123,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/anssems-remorques-479140758"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 161,
@@ -4101,7 +4185,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/v-2-restauration-528031750"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 162,
@@ -4161,7 +4247,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/la-bussiere-393762919"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 163,
@@ -4234,7 +4322,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/etablissements-franco-et-fils-691880454"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 164,
@@ -4309,7 +4399,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/distri-bio-444489033"
 }
-]
+],
+"email": null
 },
 {
 "rang": 165,
@@ -4390,7 +4481,8 @@
 "linkedin": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/ets-gaubier_305065658"
 },
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 166,
@@ -4527,7 +4619,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/rpm-property-390681260"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 168,
@@ -4570,7 +4664,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Présidente : la société GAIA TR (holding) ; la personne physique qui la dirige n'a pas été trouvée en 3 recherches (à lire sur la fiche Pappers de GAIA TR). Société immatriculée au RCS de Nevers en 2010, capital 10 000 €, maçonnerie générale et gros œuvre (https://www.pappers.fr/entreprise/519373401). Les annuaires Obat (https://travaux.obat.fr/travaux-gros-oeuvre/nievre) la listent à Fourchambault (58600) comme maçon / couvreur / carreleur, sans coordonnées — adresse différente du siège de Varennes-Vauzelles (ancienne adresse ou établissement). Aucun numéro ni site trouvé."
+"note_contacts": "Présidente : la société GAIA TR (holding) ; la personne physique qui la dirige n'a pas été trouvée en 3 recherches (à lire sur la fiche Pappers de GAIA TR). Société immatriculée au RCS de Nevers en 2010, capital 10 000 €, maçonnerie générale et gros œuvre (https://www.pappers.fr/entreprise/519373401). Les annuaires Obat (https://travaux.obat.fr/travaux-gros-oeuvre/nievre) la listent à Fourchambault (58600) comme maçon / couvreur / carreleur, sans coordonnées — adresse différente du siège de Varennes-Vauzelles (ancienne adresse ou établissement). Aucun numéro ni site trouvé.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 169,
@@ -4643,7 +4739,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 170,
@@ -4703,7 +4801,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/salerno-construction-512311390"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 171,
@@ -4844,7 +4944,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/484649561"
-}
+},
+"email": null
 },
 {
 "rang": 173,
@@ -4889,7 +4990,8 @@
 "contacts_ok": true,
 "note_contacts": "Enseigne : McDonald's Decize, 83 avenue du 14 Juillet (même adresse que le siège ; restaurant franchisé). Numéro et horaires vus sur l'annuaire Bible-Marques ; adresse confirmée par Cybo (https://www.cybo.com/FR/decize/pizza). Présidente : la société STAG (holding du franchisé) ; la personne physique qui la dirige n'a été trouvée dans aucun résultat (à lire sur la fiche Pappers de STAG). La décision financière se prend probablement au niveau de la holding, qui peut exploiter d'autres McDonald's de la Nièvre.",
 "telephone": "03 86 30 55 03",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 174,
@@ -4949,7 +5051,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/franco-et-fils-distribution-309916021"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 175,
@@ -5084,7 +5188,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/rhevea-504703588"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 177,
@@ -5230,7 +5336,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/varv-414871772"
-}
+},
+"email": null
 },
 {
 "rang": 179,
@@ -5292,7 +5399,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/pharmacie-des-recollets-494516925"
-}
+},
+"email": null
 },
 {
 "rang": 180,
@@ -5368,7 +5476,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/pharmacie-des-vignes-883750721"
 }
-]
+],
+"email": null
 },
 {
 "rang": 181,
@@ -5431,7 +5540,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/bkcsl-952050292"
-}
+},
+"email": null
 },
 {
 "rang": 182,
@@ -5502,7 +5612,8 @@
 "email": null,
 "source": "https://www.usinenouvelle.com/publi-redactionnel/publiscopie/publiscopie-fogale-texys-et-thermo-est-la-dream-team-francaise-de-la-mesure-de-precision.YZRIUD2K7ZERHIWN6ZMPWJD6VY"
 }
-]
+],
+"email": null
 },
 {
 "rang": 183,
@@ -5565,7 +5676,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/abchotels-317750313"
-}
+},
+"email": null
 },
 {
 "rang": 184,
@@ -5628,7 +5740,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/mlkmc-792018814"
-}
+},
+"email": null
 },
 {
 "rang": 185,
@@ -5688,7 +5801,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 186,
@@ -5748,7 +5863,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sport-comm-422413567"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 187,
@@ -5808,7 +5925,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/tc-services-790066799"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 188,
@@ -5884,7 +6003,8 @@
 "email": null,
 "source": "https://candidat.francetravail.fr/offres/recherche/detail/188ZJWD"
 }
-]
+],
+"email": null
 },
 {
 "rang": 189,
@@ -5955,7 +6075,8 @@
 "email": null,
 "source": "https://www.staffingindustry.com/lists/staffing-100-europe/2026-staffing-100-europe/entrants/arnaud-brun"
 }
-]
+],
+"email": null
 },
 {
 "rang": 190,
@@ -6030,7 +6151,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
 }
-]
+],
+"email": null
 },
 {
 "rang": 191,
@@ -6091,7 +6213,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/assistance-demenagement-491904207"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 192,
@@ -6151,7 +6275,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.cosmebio.org/en/professional-information/cosmebio-members-directory/sas-elisee-2284/"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 193,
@@ -6214,7 +6340,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/evrard-fils-538548199"
-}
+},
+"email": null
 },
 {
 "rang": 194,
@@ -6274,7 +6401,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/hnj-418515938"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 195,
@@ -6336,7 +6465,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://pappers.fr/entreprise/344037098"
-}
+},
+"email": null
 },
 {
 "rang": 196,
@@ -6396,7 +6526,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/denis-et-fils-379781610"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 197,
@@ -6458,7 +6590,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/terrines-du-morvan-538153586"
-}
+},
+"email": null
 },
 {
 "rang": 198,
@@ -6521,7 +6654,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/dls-distribution-979433992"
-}
+},
+"email": null
 },
 {
 "rang": 199,
@@ -6594,7 +6728,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/mangeon-soc-541880043"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 200,
@@ -6656,7 +6792,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/garage-du-bazois-481303451"
-}
+},
+"email": null
 },
 {
 "rang": 201,
@@ -6716,7 +6853,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/440852895"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 202,
@@ -6776,7 +6915,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/tc-environnement-752881839"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 203,
@@ -6840,7 +6981,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/lpc-810992081"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 204,
@@ -6883,7 +7026,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Boulangerie-pâtisserie 'Bourguignon' au 74 avenue du 8 Mai 1945, Coulanges-lès-Nevers (fiches https://www.myboulange.fr/58/coulanges-les-nevers/f-m-bourguignon-29602 et https://www.myboulange.fr/58/coulanges-les-nevers/boulangerie-patisserie-bourguignon-29599), ouverte 7j/7 ; aucun numéro visible dans les extraits. Président = personne morale SARL DES CHAMPS, dont le gérant (personne physique) n'a pas été trouvé : dirigeant_principal laissé à null."
+"note_contacts": "Boulangerie-pâtisserie 'Bourguignon' au 74 avenue du 8 Mai 1945, Coulanges-lès-Nevers (fiches https://www.myboulange.fr/58/coulanges-les-nevers/f-m-bourguignon-29602 et https://www.myboulange.fr/58/coulanges-les-nevers/boulangerie-patisserie-bourguignon-29599), ouverte 7j/7 ; aucun numéro visible dans les extraits. Président = personne morale SARL DES CHAMPS, dont le gérant (personne physique) n'a pas été trouvé : dirigeant_principal laissé à null.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 205,
@@ -6943,7 +7088,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/dacom-477827778"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 206,
@@ -7003,7 +7150,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/saint-saulge-distribution-348537135"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 207,
@@ -7046,7 +7195,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Holding du groupe Pobi (La Charité-sur-Loire) : POBI INDUSTRIE est mandataire social de POBI STRUCTURES (SIREN 450625082, fabrication de charpentes/ossatures bois, 50-99 salariés, CA ~17 M€ en 2024, perte en 2024 ; commissaire aux comptes Deloitte) selon https://www.xerfi.com/etudes-par-entreprise/pobi-structures_450625082. Président = personne morale MUREBOIS 29, représentant non trouvé. Ni téléphone, ni site, ni DAF/RAF identifiés en 3 recherches. Le décideur financier du groupe est probablement chez POBI STRUCTURES : à rechercher."
+"note_contacts": "Holding du groupe Pobi (La Charité-sur-Loire) : POBI INDUSTRIE est mandataire social de POBI STRUCTURES (SIREN 450625082, fabrication de charpentes/ossatures bois, 50-99 salariés, CA ~17 M€ en 2024, perte en 2024 ; commissaire aux comptes Deloitte) selon https://www.xerfi.com/etudes-par-entreprise/pobi-structures_450625082. Président = personne morale MUREBOIS 29, représentant non trouvé. Ni téléphone, ni site, ni DAF/RAF identifiés en 3 recherches. Le décideur financier du groupe est probablement chez POBI STRUCTURES : à rechercher.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 208,
@@ -7110,7 +7261,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/cosne-801649526"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 209,
@@ -7251,7 +7404,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/financiere-bongard-450023338"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 211,
@@ -7311,7 +7466,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/parc-844706655"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 212,
@@ -7383,7 +7540,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sicafome-ste-cooperative-dinteret-collectif-agricole-anonyme-de-la-foire-organisee-des-marches-de-moulins-engilbert-321675712"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 213,
@@ -7451,7 +7610,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/333749216"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 214,
@@ -7532,7 +7693,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/julien-catel-438536393"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 215,
@@ -7578,7 +7741,8 @@
 "note_contacts": "Hôtel Mercure Nevers Pont de Loire (59 chambres, quai de Médine). Numéro de l'accueil concordant sur plusieurs annuaires hôteliers (successfulmeetings, Kayak) mais non vu sur la page Accor elle-même. Président = personne morale HPVA PARTICIPATIONS (groupe HPVA, investissement et gestion hôtelière, ~20 hôtels, créé en 2013 selon https://hospitality-on.com/fr/ouverture/hpva-et-ihg-sassocient-pour-un-nouveau-projet) : représentant légal et directeur de l'hôtel non trouvés. Les décisions financières relèvent probablement du siège HPVA, pas de l'hôtel.",
 "telephone": "03 86 93 93 86",
 "telephone_a_confirmer": true,
-"site_web": "https://all.accor.com/hotel/3480/index.en.shtml"
+"site_web": "https://all.accor.com/hotel/3480/index.en.shtml",
+"email": null
 },
 {
 "rang": 216,
@@ -7638,7 +7802,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/799194881"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 217,
@@ -7698,7 +7864,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/garage-saint-louis-309516318"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 218,
@@ -7741,7 +7909,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat en 3 recherches (ni pour ANDIMAN & CO, ni pour la présidente personne morale MANTHEMARD HOLDING) : activité exacte, téléphone et représentant légal de la holding inconnus. Structure très petite (1-2 salariés) malgré 1,8 M€ de CA."
+"note_contacts": "Aucun résultat en 3 recherches (ni pour ANDIMAN & CO, ni pour la présidente personne morale MANTHEMARD HOLDING) : activité exacte, téléphone et représentant légal de la holding inconnus. Structure très petite (1-2 salariés) malgré 1,8 M€ de CA.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 219,
@@ -7801,7 +7971,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-larteau-950379529"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 220,
@@ -7868,7 +8040,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/societe-dexploitation-des-ambulances-charitoises-384831046"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 221,
@@ -7928,7 +8102,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/cpl-charlois-premium-logistique-437845100"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 222,
@@ -7990,7 +8166,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/cine-mazarin_305690950"
-}
+},
+"email": null
 },
 {
 "rang": 223,
@@ -8050,7 +8227,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/gp-auto-58-499431286"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 224,
@@ -8110,7 +8289,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ciloc-495025884"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 225,
@@ -8151,7 +8332,9 @@
 "statut": "Plan de redressement adopté le 13/07/2023",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"telephone": null,
+"email": null
 },
 {
 "rang": 226,
@@ -8211,7 +8394,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://agriculture.gouv.fr/region-bourgogne-franche-comte?pg=3"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 227,
@@ -8271,7 +8456,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/484652227"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 228,
@@ -8344,7 +8531,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sarl-du-haut-morvan-433728326"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 229,
@@ -8425,7 +8614,9 @@
 "email": null,
 "source": "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 230,
@@ -8489,7 +8680,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/taxi-carola-803113612"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 231,
@@ -8562,7 +8755,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/edard-tp-transport-434618773"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 232,
@@ -8627,7 +8822,8 @@
 "a_confirmer": true
 }
 ],
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 233,
@@ -8676,7 +8872,8 @@
 "email": null,
 "source": "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/"
 }
-]
+],
+"email": null
 },
 {
 "rang": 234,
@@ -8813,7 +9010,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/prinet-753197946"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 236,
@@ -8879,7 +9078,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/db-informatique-841401722"
-}
+},
+"email": null
 },
 {
 "rang": 237,
@@ -8957,7 +9157,8 @@
 "note_classement": "Activité suspendue en décembre 2025, l'abattoir a rouvert depuis : sujet à aborder avec tact.",
 "contacts_ok": true,
 "note_contacts": "OPPOSITION PROSPECTION (Pappers) : contacts société uniquement. Standard repris des données existantes (deja), non confirmé par une recherche (aucun résultat pour ce numéro). Site web et email générique non trouvés. ATTENTION : activité de l'abattoir suspendue temporairement par arrêté préfectoral le 10/12/2025 après une plainte de L214 (https://www.macommune.info/nievre-un-abattoir-suspendu-apres-des-accusations-de-l214/ ; https://nievre.fr/wp-content/uploads/2025/12/CP-Abattoir-de-Cosne.pdf) ; aucune information de réouverture trouvée pour 2026. Dirigeant non renseigné (opposition + absence de site officiel).",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 238,
@@ -9041,7 +9242,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/palexpress-828037218"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 239,
@@ -9084,7 +9287,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Magasin Intersport (15 rue du Champ des Noyers, Varennes-Vauzelles). Aucun numéro trouvé pour ce magasin (3 recherches). Les annuaires citent un « Intersport Nevers » au 81 rue de Nièvre, Nevers (https://www.au-magasin.fr/58000-nevers/intersport-108441.html ; fiche accessibilité https://acceslibre.beta.gouv.fr/app/58-nevers/a/vente-location-darticles-de-sport/erp/intersport-nevers/rpa_pdf) sans numéro visible et sans lien établi avec NEVERSPORTS. Président : R.G.HOLDING (personne morale) ; personne physique qui la dirige non identifiée — à demander au magasin."
+"note_contacts": "Magasin Intersport (15 rue du Champ des Noyers, Varennes-Vauzelles). Aucun numéro trouvé pour ce magasin (3 recherches). Les annuaires citent un « Intersport Nevers » au 81 rue de Nièvre, Nevers (https://www.au-magasin.fr/58000-nevers/intersport-108441.html ; fiche accessibilité https://acceslibre.beta.gouv.fr/app/58-nevers/a/vente-location-darticles-de-sport/erp/intersport-nevers/rpa_pdf) sans numéro visible et sans lien établi avec NEVERSPORTS. Président : R.G.HOLDING (personne morale) ; personne physique qui la dirige non identifiée — à demander au magasin.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 240,
@@ -9144,7 +9349,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/444863005"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 241,
@@ -9219,7 +9426,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sas-anquetil-508119542"
 }
-]
+],
+"email": null
 },
 {
 "rang": 242,
@@ -9292,7 +9500,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/eleas-assurances-420533093"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 243,
@@ -9361,7 +9571,9 @@
 "email": null,
 "source": "https://www.burgundy-tourism.com/regional-products/les-ruchers-du-morvan"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 244,
@@ -9421,7 +9633,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/guyot-olivier-751340811"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 245,
@@ -9485,7 +9699,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/mercure-finances-448447771"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 246,
@@ -9545,7 +9761,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/entreprise-viode-339913428"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 247,
@@ -9605,7 +9823,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/entreprise-mario-longo-701880023"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 248,
@@ -9665,7 +9885,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/rf-elec-842208597"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 249,
@@ -9738,7 +9960,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sas-vannier-392638243"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 250,
@@ -9798,7 +10022,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/avipur-505017194"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 251,
@@ -9858,7 +10084,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/societe-clamecycoise-dameublement-323448175"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 252,
@@ -9920,7 +10148,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/418762761"
-}
+},
+"email": null
 },
 {
 "rang": 253,
@@ -9980,7 +10209,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/le-cypres-gens-de-la-lune-402891774"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 254,
@@ -10018,7 +10249,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Filiale (SAS) de l'association ADAPEI de la Nièvre, dont le siège est à la même adresse (120 route de Beauregard, 58130 Urzy : IME, ESAT, foyer de vie, MAS, FAM) selon https://www.pour-les-personnes-agees.gouv.fr/annuaire-association-parents-usagers-familles-soutien/nievre-58. Cet annuaire n'affiche qu'un numéro de portable pour l'association, non retenu (pas un standard, peut être personnel). Aucun dirigeant au registre (deja vide) et aucun DAF / directeur général de l'ADAPEI de la Nièvre trouvé en 3 recherches. Site officiel non confirmé dans les résultats."
+"note_contacts": "Filiale (SAS) de l'association ADAPEI de la Nièvre, dont le siège est à la même adresse (120 route de Beauregard, 58130 Urzy : IME, ESAT, foyer de vie, MAS, FAM) selon https://www.pour-les-personnes-agees.gouv.fr/annuaire-association-parents-usagers-familles-soutien/nievre-58. Cet annuaire n'affiche qu'un numéro de portable pour l'association, non retenu (pas un standard, peut être personnel). Aucun dirigeant au registre (deja vide) et aucun DAF / directeur général de l'ADAPEI de la Nièvre trouvé en 3 recherches. Site officiel non confirmé dans les résultats.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 255,
@@ -10102,7 +10335,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 256,
@@ -10169,7 +10404,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/pompes-funebres-bulot-753956606"
-}
+},
+"email": null
 },
 {
 "rang": 257,
@@ -10242,7 +10478,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/essian-889322970"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 258,
@@ -10289,7 +10527,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace web trouvée pour « Le Fromager de Nevers » (rue Henry Bouquillard, Nevers) en 3 recherches. Société en nom collectif gérée par la personne morale CREMERIE EXPLOITATION, avec PROPART comme associé : ce montage ressemble à celui des rayons crèmerie des magasins Grand Frais, mais ce n'est PAS confirmé (recherche « Grand Frais Nevers Bouquillard » sans résultat). Personne physique dirigeante non identifiée ; standard, email et site non trouvés."
+"note_contacts": "Aucune trace web trouvée pour « Le Fromager de Nevers » (rue Henry Bouquillard, Nevers) en 3 recherches. Société en nom collectif gérée par la personne morale CREMERIE EXPLOITATION, avec PROPART comme associé : ce montage ressemble à celui des rayons crèmerie des magasins Grand Frais, mais ce n'est PAS confirmé (recherche « Grand Frais Nevers Bouquillard » sans résultat). Personne physique dirigeante non identifiée ; standard, email et site non trouvés.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 259,
@@ -10405,7 +10645,9 @@
 "statut": "Plan de redressement adopté le 15/12/2025",
 "eff_annee": "2024",
 "annee_ca": "2023",
-"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"telephone": null,
+"email": null
 },
 {
 "rang": 261,
@@ -10468,7 +10710,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/a2g-isolation-404191702"
-}
+},
+"email": null
 },
 {
 "rang": 262,
@@ -10530,7 +10773,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ssn-distrib-883417917"
-}
+},
+"email": null
 },
 {
 "rang": 263,
@@ -10602,7 +10846,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 264,
@@ -10662,7 +10908,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/menuiserie-pino-495186884"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 265,
@@ -10707,7 +10955,8 @@
 "contacts_ok": true,
 "note_contacts": "Au 116 route de Nevers à Marzy (adresse du siège) l'annuaire Cylex liste un paysagiste sous l'enseigne Daniel Moquet (réseau franchisé d'aménagement d'allées, cours et terrasses) avec le numéro retenu : rattachement à ENT. BAZOT déduit de l'adresse identique, non confirmé par une source nommant Bazot. Président au registre : la société HOLDING BAZOT ; personne physique qui la dirige non trouvée en 3 recherches, donc dirigeant et décideur financier laissés à null.",
 "telephone": "03 86 68 63 08",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 266,
@@ -10767,7 +11016,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ssp-service-sport-promotion-920839941"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 267,
@@ -10827,7 +11078,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.cher.gouv.fr/contenu/telechargement/29897/200160/file/recueil-18-2021-07-006-recueil-des-actes-administratifs-special.pdf"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 268,
@@ -10881,7 +11134,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/cars-and-co-522099209"
 },
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 269,
@@ -10941,7 +11195,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/jaba-production-412611550"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 270,
@@ -10993,7 +11249,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/emh-840688428"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 271,
@@ -11065,7 +11323,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sas-mecaprecis-448766857"
-}
+},
+"email": null
 },
 {
 "rang": 272,
@@ -11127,7 +11386,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.societe.com/societe/dr-khaldi-lakhdar-513172320.html"
-}
+},
+"email": null
 },
 {
 "rang": 273,
@@ -11200,7 +11460,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/lispaul-878108075"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 274,
@@ -11326,7 +11588,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/le-lord-881900690"
-}
+},
+"email": null
 },
 {
 "rang": 276,
@@ -11386,7 +11649,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.verif.com/dirigeants/Pierre-BAUX-1845906/"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 277,
@@ -11461,7 +11726,8 @@
 "email": null,
 "source": "https://www.societe.com/societe/optique-pianet-sa-328559125.html"
 }
-]
+],
+"email": null
 },
 {
 "rang": 278,
@@ -11524,7 +11790,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.societe.com/societe/dgv-mecanique-de-precision-389583568.html"
-}
+},
+"email": null
 },
 {
 "rang": 279,
@@ -11578,7 +11845,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/mima-752896159"
 },
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 280,
@@ -11638,7 +11906,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://origami-entreprises.fr/entreprise/503336471.txt"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 281,
@@ -11763,7 +12033,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/paradis-ecole-de-conduite-nivernaise-405146051"
-}
+},
+"email": null
 },
 {
 "rang": 283,
@@ -11825,7 +12096,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/grand-cerf-821299328"
-}
+},
+"email": null
 },
 {
 "rang": 284,
@@ -11895,7 +12167,9 @@
 "email": null,
 "source": "https://en.wikipedia.org/wiki/Exagon_Engineering"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 285,
@@ -11955,7 +12229,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ma-boutique-velo-909830408"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 286,
@@ -12017,7 +12293,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.societe.com/societe/garage-des-courlis-453034787.html"
-}
+},
+"email": null
 },
 {
 "rang": 287,
@@ -12142,7 +12419,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/demoltech-908944739"
-}
+},
+"email": null
 },
 {
 "rang": 289,
@@ -12213,7 +12491,8 @@
 "email": null,
 "source": "https://www.linkedin.com/in/emmanuel-tissier-2082708b/"
 }
-]
+],
+"telephone": null
 },
 {
 "rang": 290,
@@ -12275,7 +12554,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/favrac_329950604"
-}
+},
+"email": null
 },
 {
 "rang": 291,
@@ -12335,7 +12615,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.societe.com/societe/la-licorne-450493994.html"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 292,
@@ -12397,7 +12679,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://annuaire-entreprises.data.gouv.fr/entreprise/maval-824070981"
-}
+},
+"email": null
 },
 {
 "rang": 293,
@@ -12457,7 +12740,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/supembouts-478129612"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 294,
@@ -12518,7 +12803,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/ste-michot_378124291"
-}
+},
+"email": null
 },
 {
 "rang": 295,
@@ -12586,7 +12872,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/centre-du-gue-de-frise-448807214"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 296,
@@ -12655,7 +12943,9 @@
 "email": null,
 "source": "https://www.livreshebdo.fr/article/laballery-reprend-floch-et-compte-sur-les-editeurs"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 297,
@@ -12716,7 +13006,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/libault-711880229"
-}
+},
+"email": null
 },
 {
 "rang": 298,
@@ -12776,7 +13067,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-garage-perreau-400110318"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 299,
@@ -12836,7 +13129,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/328899141"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 300,
@@ -12900,7 +13195,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/certus-beton-898704309"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 301,
@@ -12960,7 +13257,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/de-souza-fils-348765199"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 302,
@@ -13021,7 +13320,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/geoffroy-408337434"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 303,
@@ -13081,7 +13382,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/jardifleurs-441827458"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 304,
@@ -13141,7 +13444,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/lucas-nevers-carnot-900082157"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 305,
@@ -13201,7 +13506,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/pierre-naturelle-de-bourgogne-445089469"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 306,
@@ -13263,7 +13570,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/cave-et-services-798554978"
-}
+},
+"email": null
 },
 {
 "rang": 307,
@@ -13334,7 +13642,8 @@
 "email": "pmeunier@citya.com",
 "source": "https://www.citya.com/agences-immobilieres/nevers-58000/525"
 }
-]
+],
+"email": null
 },
 {
 "rang": 308,
@@ -13394,7 +13703,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/societe-maillot-distribution-950499582"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 309,
@@ -13454,7 +13765,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/tnp-316742527"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 310,
@@ -13514,7 +13827,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/cabinet-veterinaire-du-docteur-aurelia-pradeau-848323390"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 311,
@@ -13578,7 +13893,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/531707545"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 312,
@@ -13642,7 +13959,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/clair-pere-et-fils-902897073"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 313,
@@ -13702,7 +14021,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/et-527639934"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 314,
@@ -13766,7 +14087,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/eurl-lbs-849789680"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 315,
@@ -13826,7 +14149,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/hc-froid-810592634"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 316,
@@ -13886,7 +14211,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ims-consulting-europe-851715821"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 317,
@@ -13960,7 +14287,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/entreprise-houssin-et-fils-400163820"
 }
-]
+],
+"email": null
 },
 {
 "rang": 318,
@@ -14034,7 +14362,9 @@
 "email": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/meca-soud-58_400874798"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 319,
@@ -14113,7 +14443,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/deciz58-792448409"
 }
-]
+],
+"email": null
 },
 {
 "rang": 320,
@@ -14186,7 +14517,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sarl-lamoureux-et-maizieres-835401936"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 321,
@@ -14246,7 +14579,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.verif.com/en/leaders/Olivier-ROUSSAT-4586276/"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 322,
@@ -14386,7 +14721,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://candidat.francetravail.fr/offres/recherche/detail/191GFLH"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 324,
@@ -14446,7 +14783,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ercaee-etude-et-realisation-de-cablage-dautomatismes-electriques-et-electroniques-379453640"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 325,
@@ -14507,7 +14846,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/courlis-market-841590581"
-}
+},
+"email": null
 },
 {
 "rang": 326,
@@ -14567,7 +14907,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-mari-400725560"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 327,
@@ -14640,7 +14982,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/ef-transports-491387023"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 328,
@@ -14694,7 +15038,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/racines-hotels-ii-834294126"
-}
+},
+"email": null
 },
 {
 "rang": 329,
@@ -14826,7 +15171,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/casino-de-st-honore-671880235"
-}
+},
+"email": null
 },
 {
 "rang": 331,
@@ -14894,7 +15240,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/etablissements-bourgeois-sa-651880031"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 332,
@@ -14966,7 +15314,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/societe-patrimoniale-de-la-nievre-502997745"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 333,
@@ -15026,7 +15376,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-eurovins-dlf-415166008"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 334,
@@ -15086,7 +15438,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/spfpl-e-paille-882956204"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 335,
@@ -15146,7 +15500,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/au-bon-marche-830768529"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 336,
@@ -15203,7 +15559,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/344407903"
-}
+},
+"email": null
 },
 {
 "rang": 337,
@@ -15342,7 +15699,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/gomes-383622479"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 339,
@@ -15402,7 +15761,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/french-book-distribution-511672032"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 340,
@@ -15477,7 +15838,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/shpe-societe-hoteliere-de-pougues-les-eaux-802626952"
 }
-]
+],
+"email": null
 },
 {
 "rang": 341,
@@ -15539,7 +15901,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/cgr-384042107"
-}
+},
+"email": null
 },
 {
 "rang": 342,
@@ -15601,7 +15964,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sasu-levannier-794416198"
-}
+},
+"email": null
 },
 {
 "rang": 343,
@@ -15728,7 +16092,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/edelweiss-station-service-345230783"
-}
+},
+"email": null
 },
 {
 "rang": 345,
@@ -15792,7 +16157,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/etablissements-billebault-320926249"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 346,
@@ -15852,7 +16219,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/opade-802750471"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 347,
@@ -15901,7 +16270,9 @@
 "statut": "Plan de redressement adopté le 02/12/2024",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"telephone": null,
+"email": null
 },
 {
 "rang": 348,
@@ -15973,7 +16344,8 @@
 "email": null,
 "source": "https://www.generali.fr/agence/dracaut-nevers/bourgogne/assurance/"
 }
-]
+],
+"email": null
 },
 {
 "rang": 349,
@@ -16033,7 +16405,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/952338515"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 350,
@@ -16093,7 +16467,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-cp-419212816"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 351,
@@ -16168,7 +16544,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sas-miroiterie-du-centre-319559829"
 }
-]
+],
+"email": null
 },
 {
 "rang": 352,
@@ -16234,7 +16611,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/marchand-pere-et-fils-501300214"
-}
+},
+"email": null
 },
 {
 "rang": 353,
@@ -16297,7 +16675,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/pomaria-hotel-497960583"
-}
+},
+"email": null
 },
 {
 "rang": 354,
@@ -16359,7 +16738,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/guillet-piron-831037817"
-}
+},
+"email": null
 },
 {
 "rang": 355,
@@ -16419,7 +16799,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sotec-societe-tardivat-et-chardonneret-491233797"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 356,
@@ -16487,7 +16869,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/europub-mpe-922477708"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 357,
@@ -16549,7 +16933,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-domaine-michel-dutarte-388705444"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 358,
@@ -16617,7 +17003,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/menuiserie-brade-879790616"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 359,
@@ -16677,7 +17065,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.justacote.com/magny-cours-58470/assurance/"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 360,
@@ -16737,7 +17127,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/afic-438561789"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 361,
@@ -16801,7 +17193,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-boulangerie-patisserie-raveau-884511155"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 362,
@@ -16874,7 +17268,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/holding-vegeo-groupe-901643510"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 363,
@@ -16936,7 +17332,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sasu-la-vallee-channy-812180347"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 364,
@@ -16996,7 +17394,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/851257634"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 365,
@@ -17058,7 +17458,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sevdan-527955991"
-}
+},
+"email": null
 },
 {
 "rang": 366,
@@ -17114,7 +17515,9 @@
 "opposition_prospection": true,
 "enrichie": true,
 "contacts_ok": true,
-"note_contacts": "Opposition à la prospection : seules des coordonnées de l'entreprise ont été recherchées ; aucun téléphone, e-mail ni site trouvé. Aucun site propre n'a été trouvé : le gérant (Rudy Ruelle, voir registre) n'est donc pas repris. Un arrêté de la préfecture du Cher de 2021 (https://www.cher.gouv.fr/contenu/telechargement/29685/198884/file/recueil-18-2021-06-006-recueil-des-actes-administratifs-special.pdf) confirme le siège au 5 route des Bertranges à Raveau et l'agrément CNAPS. Il existe une société liée à la même adresse, TÝR Sécurité Renforcée (SIREN 953122363, créée en 2023). 2e passe : 3 recherches sans numéro ; l'annuaire 118712.fr liste « Týr sécurité » (surveillance, gardiennage, protection, rue des Bertranges, 58400, ouvert 24h/24) mais le numéro n'apparaît pas dans l'extrait (https://www.118712.fr/annuaire/departement/cher/entreprise-de-securite) ; un arrêté de la préfecture du Cher de 2022 (gardiennage d'un festival aux Aix-d'Angillon) confirme le siège à Raveau. Vérification : Opposition à la prospection : seuls les éléments d'entreprise étaient à vérifier, et aucun n'est enregistré (ni téléphone, ni e-mail). Aucune recherche faite, rien à vérifier."
+"note_contacts": "Opposition à la prospection : seules des coordonnées de l'entreprise ont été recherchées ; aucun téléphone, e-mail ni site trouvé. Aucun site propre n'a été trouvé : le gérant (Rudy Ruelle, voir registre) n'est donc pas repris. Un arrêté de la préfecture du Cher de 2021 (https://www.cher.gouv.fr/contenu/telechargement/29685/198884/file/recueil-18-2021-06-006-recueil-des-actes-administratifs-special.pdf) confirme le siège au 5 route des Bertranges à Raveau et l'agrément CNAPS. Il existe une société liée à la même adresse, TÝR Sécurité Renforcée (SIREN 953122363, créée en 2023). 2e passe : 3 recherches sans numéro ; l'annuaire 118712.fr liste « Týr sécurité » (surveillance, gardiennage, protection, rue des Bertranges, 58400, ouvert 24h/24) mais le numéro n'apparaît pas dans l'extrait (https://www.118712.fr/annuaire/departement/cher/entreprise-de-securite) ; un arrêté de la préfecture du Cher de 2022 (gardiennage d'un festival aux Aix-d'Angillon) confirme le siège à Raveau. Vérification : Opposition à la prospection : seuls les éléments d'entreprise étaient à vérifier, et aucun n'est enregistré (ni téléphone, ni e-mail). Aucune recherche faite, rien à vérifier.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 367,
@@ -17169,7 +17572,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "SEM (SA à conseil d'administration) créée en 2012 par des élus de la CC des Vaux d'Yonne avec le SIEEEN pour porter 35 % d'un parc éolien de 6 éoliennes inauguré en 2014 ; capital public 82,5 % / privé 17,5 % (https://www.banquedesterritoires.fr/parc-eolien-une-sem-ouvre-son-capital-aux-habitants-58). Sans salarié : gérée vraisemblablement par le SIEEEN (syndicat d'énergies de la Nièvre). Aucun numéro, site ni président/directeur général nommé trouvé en 3 recherches ; le registre ne liste que des administrateurs : René Philippe BONNEAU, Sylvie CANTREL, Bertrand COUTURIER, Jean-Michel FORGET. Piste : passer par le SIEEEN (un résultat cite Guy Hourcabie comme président du SIEEEN, non vérifié)."
+"note_contacts": "SEM (SA à conseil d'administration) créée en 2012 par des élus de la CC des Vaux d'Yonne avec le SIEEEN pour porter 35 % d'un parc éolien de 6 éoliennes inauguré en 2014 ; capital public 82,5 % / privé 17,5 % (https://www.banquedesterritoires.fr/parc-eolien-une-sem-ouvre-son-capital-aux-habitants-58). Sans salarié : gérée vraisemblablement par le SIEEEN (syndicat d'énergies de la Nièvre). Aucun numéro, site ni président/directeur général nommé trouvé en 3 recherches ; le registre ne liste que des administrateurs : René Philippe BONNEAU, Sylvie CANTREL, Bertrand COUTURIER, Jean-Michel FORGET. Piste : passer par le SIEEEN (un résultat cite Guy Hourcabie comme président du SIEEEN, non vérifié).",
+"telephone": null,
+"email": null
 },
 {
 "rang": 368,
@@ -17231,7 +17636,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-voillot-451144380"
-}
+},
+"email": null
 },
 {
 "rang": 369,
@@ -17272,7 +17678,9 @@
 "statut": "Plan de redressement adopté le 13/07/2023",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"telephone": null,
+"email": null
 },
 {
 "rang": 370,
@@ -17345,7 +17753,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/mathusalem-949641534"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 371,
@@ -17408,7 +17818,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/cphn-centre-de-protection-de-lhabitat-nivernais-et-par-abreviation-cphn-383808250"
-}
+},
+"email": null
 },
 {
 "rang": 372,
@@ -17468,7 +17879,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://origami-entreprises.fr/entreprise/503336471.txt"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 373,
@@ -17541,7 +17954,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/elina-324950039"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 374,
@@ -17601,7 +18016,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/daroto-840106405"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 375,
@@ -17661,7 +18078,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sasu-erka-construction-878196088"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 376,
@@ -17721,7 +18140,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/domaine-de-bacchus-812962827"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 377,
@@ -17781,7 +18202,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/eurl-cedric-durand-821770286"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 378,
@@ -17856,7 +18279,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/agence-berry-nivernais-501266480"
 }
-]
+],
+"email": null
 },
 {
 "rang": 379,
@@ -17916,7 +18340,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/rignault-julie-884510207"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 380,
@@ -17976,7 +18402,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/mille-et-1-services-480634682"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 381,
@@ -18014,7 +18442,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Société holding (SARL créée le 17/06/2010) sans site ni téléphone trouvés. L'annuaire des entreprises (État) donne un siège 'Rue de l'École, 58150 Saint-Andelain' alors que l'entrée indique Pouilly-sur-Loire (même code postal) : transfert de siège possible, à vérifier. Gérant non trouvé dans les résultats (registre Pappers à consulter)."
+"note_contacts": "Société holding (SARL créée le 17/06/2010) sans site ni téléphone trouvés. L'annuaire des entreprises (État) donne un siège 'Rue de l'École, 58150 Saint-Andelain' alors que l'entrée indique Pouilly-sur-Loire (même code postal) : transfert de siège possible, à vérifier. Gérant non trouvé dans les résultats (registre Pappers à consulter).",
+"telephone": null,
+"email": null
 },
 {
 "rang": 382,
@@ -18069,7 +18499,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.societe.com/manager/Philippe.TOURNAND.tFEOwn18AMX.html"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 383,
@@ -18129,7 +18561,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/814733986"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 384,
@@ -18198,7 +18632,9 @@
 "email": null,
 "source": "https://origami-entreprises.fr/entreprise/442010948.txt"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 385,
@@ -18236,7 +18672,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun dirigeant dans le registre fourni et aucun trouvé en ligne (3 recherches). NEXSON CORPORATION apparaît (Xerfi) comme dirigeant personne morale de NEXSON GROUP / NEXSON INDUSTRY (SIREN 530572775, 685 rue Jules Verne, 58600 Garchizy, échangeurs thermiques) : c'est vraisemblablement la holding de tête de ce groupe (https://www.xerfi.com/etudes-par-entreprise/NEXSON-INDUSTRY_530572775). Le standard de Nexson Group à Garchizy serait la meilleure porte d'entrée, mais il n'a pas été vérifié ici. Adresse de rue à Fourchambault non trouvée."
+"note_contacts": "Aucun dirigeant dans le registre fourni et aucun trouvé en ligne (3 recherches). NEXSON CORPORATION apparaît (Xerfi) comme dirigeant personne morale de NEXSON GROUP / NEXSON INDUSTRY (SIREN 530572775, 685 rue Jules Verne, 58600 Garchizy, échangeurs thermiques) : c'est vraisemblablement la holding de tête de ce groupe (https://www.xerfi.com/etudes-par-entreprise/NEXSON-INDUSTRY_530572775). Le standard de Nexson Group à Garchizy serait la meilleure porte d'entrée, mais il n'a pas été vérifié ici. Adresse de rue à Fourchambault non trouvée.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 386,
@@ -18298,7 +18736,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/888401601"
-}
+},
+"email": null
 },
 {
 "rang": 387,
@@ -18336,7 +18775,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches) ; aucun dirigeant dans le registre fourni ni trouvé. Adresse de rue à Chaumot (58800) non trouvée."
+"note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches) ; aucun dirigeant dans le registre fourni ni trouvé. Adresse de rue à Chaumot (58800) non trouvée.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 388,
@@ -18400,7 +18841,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/menauto-58-922366125"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 389,
@@ -18460,7 +18903,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/vsc-vins-stephane-charlot-827816042"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 390,
@@ -18498,7 +18943,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches : nom + Bulcy, SIREN, gérant) ; aucun dirigeant dans le registre fourni ni trouvé. Activité d'intermédiaire financier/assurance : vérifier au registre ORIAS. Adresse de rue à Bulcy non trouvée."
+"note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches : nom + Bulcy, SIREN, gérant) ; aucun dirigeant dans le registre fourni ni trouvé. Activité d'intermédiaire financier/assurance : vérifier au registre ORIAS. Adresse de rue à Bulcy non trouvée.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 391,
@@ -18558,7 +19005,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/918444506"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 392,
@@ -18627,7 +19076,9 @@
 "email": null,
 "source": "https://www.rideapart.com/news/543748/h2-motronics-hydrogen-race-bike/"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 393,
@@ -18687,7 +19138,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/804505493"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 394,
@@ -18747,7 +19200,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/xent-531191898"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 395,
@@ -18807,7 +19262,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/803677749"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 396,
@@ -18882,7 +19339,8 @@
 "email": null,
 "source": "https://www.pagesjaunes.fr/pros/54003942"
 }
-]
+],
+"email": null
 },
 {
 "rang": 397,
@@ -18925,7 +19383,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Probablement le 'Bar Le Saint Louis', listé au 4 place Mossé, Nevers par koifaire.com (https://www.koifaire.com/bourgogne/bar,le,colbert-6825.html) — le registre indique le 2 place Mossé. Aucun téléphone trouvé. Président = société SAINTE ANNE (personne morale, registre) ; personne physique non identifiée."
+"note_contacts": "Probablement le 'Bar Le Saint Louis', listé au 4 place Mossé, Nevers par koifaire.com (https://www.koifaire.com/bourgogne/bar,le,colbert-6825.html) — le registre indique le 2 place Mossé. Aucun téléphone trouvé. Président = société SAINTE ANNE (personne morale, registre) ; personne physique non identifiée.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 398,
@@ -18963,7 +19423,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune source trouvée pour cette SAS (SIREN 980519524, siège à Fléty) ni pour son dirigeant. Piste non confirmée : un annuaire liste une menuiserie « LEMAITRE FRANCOIS » (autre SIRET : 430 020 255 00021), rue Ledru-Rollin à Luzy (commune voisine), tél. 03 86 30 04 67 (https://les-energies-renouvelables.eu/annuaire_search_result/17968-lemaitre-francois/, annuaire non contrôlé). C'est peut-être l'entreprise individuelle qui a précédé la SAS, mais aucun lien n'est établi. Numéro donc non repris en standard."
+"note_contacts": "Aucune source trouvée pour cette SAS (SIREN 980519524, siège à Fléty) ni pour son dirigeant. Piste non confirmée : un annuaire liste une menuiserie « LEMAITRE FRANCOIS » (autre SIRET : 430 020 255 00021), rue Ledru-Rollin à Luzy (commune voisine), tél. 03 86 30 04 67 (https://les-energies-renouvelables.eu/annuaire_search_result/17968-lemaitre-francois/, annuaire non contrôlé). C'est peut-être l'entreprise individuelle qui a précédé la SAS, mais aucun lien n'est établi. Numéro donc non repris en standard.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 399,
@@ -19023,7 +19485,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/517424685"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 400,
@@ -19083,7 +19547,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/477803357"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 401,
@@ -19121,7 +19587,9 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace de « Montespan Events » (Entrains-sur-Nohain) dans les résultats de recherche (3 recherches) : ni téléphone, ni site, ni dirigeant, ni adresse de rue. Registre sans dirigeant renseigné ; à vérifier sur la fiche Pappers."
+"note_contacts": "Aucune trace de « Montespan Events » (Entrains-sur-Nohain) dans les résultats de recherche (3 recherches) : ni téléphone, ni site, ni dirigeant, ni adresse de rue. Registre sans dirigeant renseigné ; à vérifier sur la fiche Pappers.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 402,
@@ -19159,7 +19627,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace de MAALONE (Bulcy, services financiers) dans les résultats de recherche (3 recherches) : probablement une société holding sans présence publique. Ni téléphone, ni dirigeant, ni adresse de rue trouvés."
+"note_contacts": "Aucune trace de MAALONE (Bulcy, services financiers) dans les résultats de recherche (3 recherches) : probablement une société holding sans présence publique. Ni téléphone, ni dirigeant, ni adresse de rue trouvés.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 403,
@@ -19229,7 +19699,9 @@
 "email": null,
 "source": "https://www.118712.fr/professionnels/WUJUWlZXFAI"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 404,
@@ -19274,7 +19746,8 @@
 "contacts_ok": true,
 "note_contacts": "Société immobilière non employeuse ; son siège (RN7, 3 rue du Plateau de la Bonne Dame, Nevers) est l'adresse de l'hôtel ibis Nevers (56 chambres, Accor). Le numéro est celui de l'hôtel ibis (vu sur Momondo et Kayak, non confirmé sur la page Accor https://all.accor.com/hotel/0882/index.fr.shtml) — la société elle-même n'a pas de ligne propre. Président = société ABCHOTELS (personne morale, registre) ; personne physique non identifiée. Malgré le nom 'Moulins', le siège est à Nevers.",
 "telephone": "03 86 37 56 00",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 405,
@@ -19312,7 +19785,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat pour cette société (restauration à Saint-Père 58200) : ni enseigne, ni téléphone, ni dirigeant, ni adresse trouvés en 3 recherches. Attention : homonymie avec Saint-Père (89, près de Vézelay)."
+"note_contacts": "Aucun résultat pour cette société (restauration à Saint-Père 58200) : ni enseigne, ni téléphone, ni dirigeant, ni adresse trouvés en 3 recherches. Attention : homonymie avec Saint-Père (89, près de Vézelay).",
+"telephone": null,
+"email": null
 },
 {
 "rang": 406,
@@ -19350,7 +19825,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat pour A2-Strat (holding / conseil de gestion, 0 salarié, Pougues-les-Eaux) en 3 recherches : ni téléphone, ni dirigeant, ni adresse. Consulter la fiche Pappers https://www.pappers.fr/entreprise/a2-strat-884611252."
+"note_contacts": "Aucun résultat pour A2-Strat (holding / conseil de gestion, 0 salarié, Pougues-les-Eaux) en 3 recherches : ni téléphone, ni dirigeant, ni adresse. Consulter la fiche Pappers https://www.pappers.fr/entreprise/a2-strat-884611252.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 407,
@@ -19388,7 +19865,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat pour cette société immobilière (0 salarié, Montenoison) en 3 recherches : ni téléphone, ni dirigeant, ni adresse. Nom très homonyme (association Le Refuge, gîtes, autres SCI). Consulter https://www.pappers.fr/entreprise/le-refuge-922287669."
+"note_contacts": "Aucun résultat pour cette société immobilière (0 salarié, Montenoison) en 3 recherches : ni téléphone, ni dirigeant, ni adresse. Nom très homonyme (association Le Refuge, gîtes, autres SCI). Consulter https://www.pappers.fr/entreprise/le-refuge-922287669.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 408,
@@ -19424,7 +19903,9 @@
 "statut": "Plan de redressement adopté le 08/09/2023",
 "eff_annee": "2024",
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"telephone": null,
+"email": null
 },
 {
 "rang": 409,
@@ -19460,7 +19941,9 @@
 "statut": "Redressement judiciaire en cours (depuis le 03/11/2025)",
 "eff_annee": null,
 "annee_ca": "2024",
-"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)"
+"fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"telephone": null,
+"email": null
 },
 {
 "rang": 410,
@@ -19498,7 +19981,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace de GAIA TR (Marzy) dans les résultats de recherche (2 recherches, sans résultat pertinent) : ni téléphone, ni site, ni dirigeant, ni adresse de rue."
+"note_contacts": "Aucune trace de GAIA TR (Marzy) dans les résultats de recherche (2 recherches, sans résultat pertinent) : ni téléphone, ni site, ni dirigeant, ni adresse de rue.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 411,
@@ -19558,7 +20043,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/515033405"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 412,
@@ -19596,7 +20083,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace de « Délivrer des mots » (Champvert, commerce de détail) dans les résultats de recherche (2 recherches) : ni téléphone, ni site, ni dirigeant, ni adresse de rue."
+"note_contacts": "Aucune trace de « Délivrer des mots » (Champvert, commerce de détail) dans les résultats de recherche (2 recherches) : ni téléphone, ni site, ni dirigeant, ni adresse de rue.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 413,
@@ -19656,7 +20145,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/927460154"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 414,
@@ -19716,7 +20207,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/922199443"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 415,
@@ -19754,7 +20247,9 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "La boutique 'Pâtisserie Poullin' (pâtissier-chocolatier, spécialités corbons et croquets corbigeois) est au 32 Grande Rue à Corbigny (aussi sur 118000.fr : https://www.118000.fr/v_corbigny_58/c_chocolaterie-et-confiserie-detail) ; le siège déclaré est à Chaumot, commune voisine. Horaires myBoulange : lun-sam 8h-19h15 sauf mercredi, dim 8h-13h. Aucun numéro visible dans les extraits ; dirigeant non trouvé (registre sans dirigeant dans l'entrée)."
+"note_contacts": "La boutique 'Pâtisserie Poullin' (pâtissier-chocolatier, spécialités corbons et croquets corbigeois) est au 32 Grande Rue à Corbigny (aussi sur 118000.fr : https://www.118000.fr/v_corbigny_58/c_chocolaterie-et-confiserie-detail) ; le siège déclaré est à Chaumot, commune voisine. Horaires myBoulange : lun-sam 8h-19h15 sauf mercredi, dim 8h-13h. Aucun numéro visible dans les extraits ; dirigeant non trouvé (registre sans dirigeant dans l'entrée).",
+"telephone": null,
+"email": null
 },
 {
 "rang": 416,
@@ -19827,7 +20322,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/912983871"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 417,
@@ -19865,7 +20362,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace de « Bourgogne Automeca » (Armes, près de Clamecy) dans les résultats de recherche (3 recherches, dont annuaires de garages) : ni téléphone, ni dirigeant, ni adresse de rue."
+"note_contacts": "Aucune trace de « Bourgogne Automeca » (Armes, près de Clamecy) dans les résultats de recherche (3 recherches, dont annuaires de garages) : ni téléphone, ni dirigeant, ni adresse de rue.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 418,
@@ -19925,7 +20424,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/392439741"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 419,
@@ -19980,7 +20481,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://ch.kompass.com/fr/c/devcsi/fr6170992/"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 420,
@@ -20018,7 +20521,9 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace de BATI HOMME 58 (Varennes-Vauzelles) dans les résultats de recherche (2 recherches) : ni téléphone, ni dirigeant, ni adresse de rue."
+"note_contacts": "Aucune trace de BATI HOMME 58 (Varennes-Vauzelles) dans les résultats de recherche (2 recherches) : ni téléphone, ni dirigeant, ni adresse de rue.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 421,
@@ -20056,7 +20561,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat pour SARL C J A (commerce de détail, Bussy-la-Pesle) en 3 recherches : ni enseigne, ni téléphone, ni dirigeant, ni adresse. societe.com signale des commerces de détail sur éventaires et marchés à Bussy-la-Pesle (https://www.societe.com/entreprises/58420.html) — possiblement un commerçant non sédentaire, non confirmé."
+"note_contacts": "Aucun résultat pour SARL C J A (commerce de détail, Bussy-la-Pesle) en 3 recherches : ni enseigne, ni téléphone, ni dirigeant, ni adresse. societe.com signale des commerces de détail sur éventaires et marchés à Bussy-la-Pesle (https://www.societe.com/entreprises/58420.html) — possiblement un commerçant non sédentaire, non confirmé.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 422,
@@ -20094,7 +20601,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Parfumerie avec institut de beauté à l'étage, dans une rue piétonne de Clamecy, installée depuis plus de 30 ans (page de réservation Planity : https://www.planity.com/manucure-et-pedicure/beaute-des-pieds/58500-clamecy). Adresse du magasin d'après Xerfi (agrégateur), alors que le registre donne Armes comme commune du siège. Aucun numéro dans les extraits : une fiche 118712 (https://www.118712.fr/professionnels/X0JUXF5QHwQ) le masque derrière « Afficher le n° », mais rien ne confirme qu'elle concerne ce commerce. Dirigeant non trouvé (registre vide dans l'entrée)."
+"note_contacts": "Parfumerie avec institut de beauté à l'étage, dans une rue piétonne de Clamecy, installée depuis plus de 30 ans (page de réservation Planity : https://www.planity.com/manucure-et-pedicure/beaute-des-pieds/58500-clamecy). Adresse du magasin d'après Xerfi (agrégateur), alors que le registre donne Armes comme commune du siège. Aucun numéro dans les extraits : une fiche 118712 (https://www.118712.fr/professionnels/X0JUXF5QHwQ) le masque derrière « Afficher le n° », mais rien ne confirme qu'elle concerne ce commerce. Dirigeant non trouvé (registre vide dans l'entrée).",
+"telephone": null,
+"email": null
 },
 {
 "rang": 423,
@@ -20154,7 +20663,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/980267769"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 424,
@@ -20192,7 +20703,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun établissement 'Domaine des Grands Lacs' trouvé à Dun-les-Places. Homonyme : résidence de tourisme Vacancéole 'Le Domaine des Grands Lacs', 380 route Théophile Gautier, 40160 Parentis-en-Born (+33 4 79 75 75 20 selon https://fr.custplace.com/le-domaine-des-grands-lacs-vacanceole-124391 ; ancien exploitant cité par PagesJaunes : GESTION RESIDENCE AOUCHET POUSSET, RCS 828 323 071). Aucun lien avec ce SIREN n'est établi — numéro non retenu. Dirigeant non trouvé."
+"note_contacts": "Aucun établissement 'Domaine des Grands Lacs' trouvé à Dun-les-Places. Homonyme : résidence de tourisme Vacancéole 'Le Domaine des Grands Lacs', 380 route Théophile Gautier, 40160 Parentis-en-Born (+33 4 79 75 75 20 selon https://fr.custplace.com/le-domaine-des-grands-lacs-vacanceole-124391 ; ancien exploitant cité par PagesJaunes : GESTION RESIDENCE AOUCHET POUSSET, RCS 828 323 071). Aucun lien avec ce SIREN n'est établi — numéro non retenu. Dirigeant non trouvé.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 425,
@@ -20232,7 +20745,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Boulangerie 'Le fournil adrien' ; adresse vue uniquement sur un annuaire (MyBoulange), qui indique une création en 2023 et une reprise récente. Aucun téléphone publié trouvé (3 recherches) ; dirigeant non trouvé et absent du registre fourni."
+"note_contacts": "Boulangerie 'Le fournil adrien' ; adresse vue uniquement sur un annuaire (MyBoulange), qui indique une création en 2023 et une reprise récente. Aucun téléphone publié trouvé (3 recherches) ; dirigeant non trouvé et absent du registre fourni.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 426,
@@ -20270,7 +20785,9 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace en ligne de CALISTE à Montenoison (58700) dans les résultats de recherche (3 recherches) : ni téléphone, ni dirigeant, ni adresse de rue. À vérifier sur le registre (Pappers)."
+"note_contacts": "Aucune trace en ligne de CALISTE à Montenoison (58700) dans les résultats de recherche (3 recherches) : ni téléphone, ni dirigeant, ni adresse de rue. À vérifier sur le registre (Pappers).",
+"telephone": null,
+"email": null
 },
 {
 "rang": 427,
@@ -20308,7 +20825,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Rien trouvé au nom de LRV LE RELAIS VAUBAN à Saint-Didier (3 recherches). Piste non confirmée : un établissement 'Le Relais Vauban' (hébergement/restauration) existe à Bazoches (58190, même code postal que Saint-Didier) selon https://www.burgundy-tourism.com/sit/le-relais-vauban-9 — aucun numéro trouvé ; le 03 86 22 10 22 vu dans les résultats est celui du Château de Bazoches, pas du relais."
+"note_contacts": "Rien trouvé au nom de LRV LE RELAIS VAUBAN à Saint-Didier (3 recherches). Piste non confirmée : un établissement 'Le Relais Vauban' (hébergement/restauration) existe à Bazoches (58190, même code postal que Saint-Didier) selon https://www.burgundy-tourism.com/sit/le-relais-vauban-9 — aucun numéro trouvé ; le 03 86 22 10 22 vu dans les résultats est celui du Château de Bazoches, pas du relais.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 428,
@@ -20346,7 +20865,9 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat pour Emmanuel Styl'Cheminées (commerce de détail, 0 salarié, Chaumot) en 3 recherches : ni téléphone, ni site, ni dirigeant, ni adresse. Ne pas confondre avec CHEMINEES STYLES ET CREATIONS (Saint-Memmie, 51)."
+"note_contacts": "Aucun résultat pour Emmanuel Styl'Cheminées (commerce de détail, 0 salarié, Chaumot) en 3 recherches : ni téléphone, ni site, ni dirigeant, ni adresse. Ne pas confondre avec CHEMINEES STYLES ET CREATIONS (Saint-Memmie, 51).",
+"telephone": null,
+"email": null
 },
 {
 "rang": 429,
@@ -20406,7 +20927,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/921816757"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 430,
@@ -20444,7 +20967,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Rien trouvé en 3 recherches (ni téléphone, ni site, ni dirigeant ; aucun dirigeant dans le registre fourni). Adresse d'entrée sans rue (Arbourse, 58350) : rue non trouvée. Une société homonyme 'Mannevy' à Pau, sans lien établi, est radiée."
+"note_contacts": "Rien trouvé en 3 recherches (ni téléphone, ni site, ni dirigeant ; aucun dirigeant dans le registre fourni). Adresse d'entrée sans rue (Arbourse, 58350) : rue non trouvée. Une société homonyme 'Mannevy' à Pau, sans lien établi, est radiée.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 431,
@@ -20482,7 +21007,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun hébergement 'Les Mésanges' trouvé à Dun-les-Places (3 recherches) ; les homonymes trouvés sont dans d'autres départements (ou à Ménessaire, 21). Ni téléphone, ni dirigeant, ni adresse de rue."
+"note_contacts": "Aucun hébergement 'Les Mésanges' trouvé à Dun-les-Places (3 recherches) ; les homonymes trouvés sont dans d'autres départements (ou à Ménessaire, 21). Ni téléphone, ni dirigeant, ni adresse de rue.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 432,
@@ -20522,7 +21049,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace en ligne de MAISON ROLLON à Saint-Père (58200) dans les résultats (3 recherches) : ni téléphone, ni dirigeant, ni adresse de rue."
+"note_contacts": "Aucune trace en ligne de MAISON ROLLON à Saint-Père (58200) dans les résultats (3 recherches) : ni téléphone, ni dirigeant, ni adresse de rue.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 433,
@@ -20663,7 +21192,8 @@
 "enrichie": true,
 "contacts_ok": true,
 "note_contacts": "Opposition à la prospection : contacts société uniquement. Le 03 86 71 68 68 (deja) n'a été confirmé par aucun résultat ; seul le numéro national Intermarché 0800 008 180 apparaît sur un annuaire (https://www.au-magasin.fr/58640-varennes-vauzelles/), sans intérêt pour joindre le magasin. Magasin situé boulevard Camille Dagonneau / RN 7 (Que Choisir, Zagaz). Aucun responsable financier nommé sur le site de l'enseigne ; dirigeants non repris (opposition).",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 435,
@@ -20707,7 +21237,9 @@
 "eff_annee": "2024",
 "fig_src": "Comptes non publiés",
 "contacts_ok": true,
-"note_contacts": "Aucun téléphone ni site trouvé (3 recherches) ; seule la fiche SIRENE confirme SAS active, transport routier de fret de proximité, \"La Vigne Dorée\" Moulot 58500 Clamecy. Présidence assurée par la holding KERAL INVESTISSEMENTS : personne physique qui la dirige non trouvée. Aucun responsable financier identifié malgré 50-99 salariés."
+"note_contacts": "Aucun téléphone ni site trouvé (3 recherches) ; seule la fiche SIRENE confirme SAS active, transport routier de fret de proximité, \"La Vigne Dorée\" Moulot 58500 Clamecy. Présidence assurée par la holding KERAL INVESTISSEMENTS : personne physique qui la dirige non trouvée. Aucun responsable financier identifié malgré 50-99 salariés.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 436,
@@ -20768,7 +21300,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-chronotrans-58-879402949"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 437,
@@ -20833,7 +21367,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/transports-ressat-482066487"
-}
+},
+"email": null
 },
 {
 "rang": 438,
@@ -20892,7 +21427,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 439,
@@ -20934,7 +21471,9 @@
 "eff_annee": "2024",
 "fig_src": "Comptes non publiés",
 "contacts_ok": true,
-"note_contacts": "Enseigne David Lange (marque historique de mobilier en plexiglas/PMMA fondée vers 1969). Aucun résultat ne relie la marque à Varzy ni ne donne de coordonnées (3 recherches). Présidence assurée par la holding JAMES EBENISTES : personne physique qui la dirige non trouvée."
+"note_contacts": "Enseigne David Lange (marque historique de mobilier en plexiglas/PMMA fondée vers 1969). Aucun résultat ne relie la marque à Varzy ni ne donne de coordonnées (3 recherches). Présidence assurée par la holding JAMES EBENISTES : personne physique qui la dirige non trouvée.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 440,
@@ -20993,7 +21532,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 441,
@@ -21039,7 +21580,9 @@
 "eff_annee": "2024",
 "fig_src": "Comptes non publiés",
 "contacts_ok": true,
-"note_contacts": "Enseigne non identifiée (3 recherches). Piste non confirmée : rue Henri Bouquillard accueille un Buffalo Grill (03 86 61 01 69 selon un annuaire, mais adressé RD 40) et un 'Grillardin Steak House' ; rien ne relie BGN à l'un d'eux, numéro non retenu. Président SMART FOOD et DG FOOD & SEE sont des sociétés : personnes physiques non trouvées."
+"note_contacts": "Enseigne non identifiée (3 recherches). Piste non confirmée : rue Henri Bouquillard accueille un Buffalo Grill (03 86 61 01 69 selon un annuaire, mais adressé RD 40) et un 'Grillardin Steak House' ; rien ne relie BGN à l'un d'eux, numéro non retenu. Président SMART FOOD et DG FOOD & SEE sont des sociétés : personnes physiques non trouvées.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 442,
@@ -21098,7 +21641,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 443,
@@ -21161,7 +21706,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 444,
@@ -21220,7 +21767,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/inore-groupe-impression-323326512"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 445,
@@ -21279,7 +21828,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/samicolor-452446586"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 446,
@@ -21338,7 +21889,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sertip-ste-detudes-et-de-realisations-techniques-industrielles-et-publicitaires-306809716"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 447,
@@ -21397,7 +21950,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/societe-louis-charpenet-429628324"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 448,
@@ -21473,7 +22028,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/stdc-dumas-et-colinot-soc-581880382"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 449,
@@ -21532,7 +22089,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/t3c-442587440"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 450,
@@ -21595,7 +22154,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/bkn-817976657"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 451,
@@ -21664,7 +22225,9 @@
 "email": null,
 "source": "https://fusacq.com/buzz/triple-c-rachete-cegeplast-et-elargit-son-positionnement-dans-la-plasturgie-a259067"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 452,
@@ -21786,7 +22349,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sndft-societe-nivernaise-de-debardage-forestier-de-transports-691880389"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 454,
@@ -21845,7 +22410,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/decize-carrelages-493995484"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 455,
@@ -21904,7 +22471,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sas-ambulances-picaut-perrot-805308004"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 456,
@@ -21970,7 +22539,8 @@
 "enrichie": true,
 "contacts_ok": true,
 "note_contacts": "Opposition à la prospection : coordonnées société uniquement. Numéro du magasin Biocoop Cosne (108 avenue du 85e de Ligne) confirmé par l'annuaire Bible des Marques, identique à 'deja'. Aucun e-mail générique trouvé. Présidente selon le registre : Maya BERGERON (depuis le 16/09/2025), non reprise car non vue sur le site de la société.",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 457,
@@ -22054,7 +22624,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
-}
+},
+"email": null
 },
 {
 "rang": 458,
@@ -22228,7 +22799,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 460,
@@ -22270,7 +22843,9 @@
 "eff_annee": "2024",
 "fig_src": "Comptes non publiés",
 "contacts_ok": true,
-"note_contacts": "Fabricant de l'andouillette de Clamecy (fiche Bourgogne Tourisme : https://www.burgundy-tourism.com/regional-products/morvan-charcuteries-salaisons-landouillette-de-clamecy). Président = la société GUSTEO (holding) ; personne physique qui la dirige non trouvée en 3 recherches. Ni téléphone ni site trouvés dans les extraits."
+"note_contacts": "Fabricant de l'andouillette de Clamecy (fiche Bourgogne Tourisme : https://www.burgundy-tourism.com/regional-products/morvan-charcuteries-salaisons-landouillette-de-clamecy). Président = la société GUSTEO (holding) ; personne physique qui la dirige non trouvée en 3 recherches. Ni téléphone ni site trouvés dans les extraits.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 461,
@@ -22329,7 +22904,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 462,
@@ -22400,7 +22977,8 @@
 "email": null,
 "source": "https://fr.gaultmillau.com/en/restaurant/hostellerie-de-la-poste"
 }
-]
+],
+"email": null
 },
 {
 "rang": 463,
@@ -22459,7 +23037,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 464,
@@ -22501,7 +23081,9 @@
 "eff_annee": "2024",
 "fig_src": "Comptes non publiés",
 "contacts_ok": true,
-"note_contacts": "Société d'exploitation du 'Laboratoire UNAE' (compléments alimentaires / parapharmacie : multivitamines, magnésium, probiotiques…), fiche fabricant Vidal : https://www.vidal.fr/parapharmacie/societes/laboratoire-unae-5427.html — adresse indiquée : Les Pattes Douces, 19 rue du Commandant Victor Guerreau, 58420 Brinon-sur-Beuvron (le registre donne 2 rue de Veaupoule). Téléphone et e-mail non visibles dans les extraits ; site probable unae.fr non vérifié. Président = HOLDING VEGEO GROUPE ; personne physique qui la dirige non trouvée en 3 recherches."
+"note_contacts": "Société d'exploitation du 'Laboratoire UNAE' (compléments alimentaires / parapharmacie : multivitamines, magnésium, probiotiques…), fiche fabricant Vidal : https://www.vidal.fr/parapharmacie/societes/laboratoire-unae-5427.html — adresse indiquée : Les Pattes Douces, 19 rue du Commandant Victor Guerreau, 58420 Brinon-sur-Beuvron (le registre donne 2 rue de Veaupoule). Téléphone et e-mail non visibles dans les extraits ; site probable unae.fr non vérifié. Président = HOLDING VEGEO GROUPE ; personne physique qui la dirige non trouvée en 3 recherches.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 465,
@@ -22546,7 +23128,8 @@
 "contacts_ok": true,
 "note_contacts": "Plâtrerie-peinture / isolation (RGE). Numéro concordant sur deux annuaires (les-energies-renouvelables.eu et Cylex : https://www.cylex-locale.fr/varennes-vauzelles/peintre+en+b%C3%A2timent.html), adresse postale Champ Mâle, BP 60037, Varennes-Vauzelles ; fiches non vérifiées par leurs éditeurs. Président = la société CAREMA INVESTISSEMENTS (holding) ; personne physique non trouvée en 3 recherches.",
 "telephone": "03 86 38 25 18",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email": null
 },
 {
 "rang": 466,
@@ -22618,7 +23201,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 467,
@@ -22690,7 +23275,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/385244009"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 468,
@@ -22749,7 +23336,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 469,
@@ -22810,7 +23399,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/343056628"
-}
+},
+"email": null
 },
 {
 "rang": 470,
@@ -22873,7 +23463,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/j-c-shunxin-813205473"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 471,
@@ -22948,7 +23540,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/le-bengy-914586185"
 }
-]
+],
+"email": null
 },
 {
 "rang": 472,
@@ -23007,7 +23600,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/le-siecle-d-or-525407011"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 473,
@@ -23079,7 +23674,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/ludovic-thause-tourisme-530024611"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 474,
@@ -23155,7 +23752,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/multivulca-500144969"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 475,
@@ -23227,7 +23826,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/orchid-534299797"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 476,
@@ -23331,7 +23932,9 @@
 "statut": "Plan de redressement adopté le 01/12/2025",
 "eff_annee": "2024",
 "fig_src": "Comptes non publiés",
-"note_comptes": "Derniers chiffres publiés : exercice 2022 (CA 716 k€), rien depuis."
+"note_comptes": "Derniers chiffres publiés : exercice 2022 (CA 716 k€), rien depuis.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 478,
@@ -23393,7 +23996,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/lpn-503647489"
-}
+},
+"email": null
 },
 {
 "rang": 479,
@@ -23456,7 +24060,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/393036199"
-}
+},
+"email": null
 },
 {
 "rang": 480,
@@ -23529,7 +24134,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sarl-leymonie-447839440"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 481,
@@ -23580,7 +24187,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/404816456"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 482,
@@ -23652,7 +24261,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/chez-petre-902859438"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 483,
@@ -23689,7 +24300,9 @@
 "eff_annee": "2024",
 "fig_src": "Comptes non publiés",
 "contacts_ok": true,
-"note_contacts": "Aucun dirigeant au registre et aucune présence web trouvée en 3 recherches. Un cabinet vétérinaire individuel (autre SIREN) au 2 rue des Essais, Corbigny, est fermé depuis le 31/12/2016 selon SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/31483850900029) : vérifier que cette structure est toujours active avant appel."
+"note_contacts": "Aucun dirigeant au registre et aucune présence web trouvée en 3 recherches. Un cabinet vétérinaire individuel (autre SIREN) au 2 rue des Essais, Corbigny, est fermé depuis le 31/12/2016 selon SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/31483850900029) : vérifier que cette structure est toujours active avant appel.",
+"telephone": null,
+"email": null
 },
 {
 "rang": 484,
@@ -23773,7 +24386,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/samsoud-applications-437613482"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 485,
@@ -23836,7 +24451,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/aval-agence-du-val-dallier-329903520"
-}
+},
+"email": null
 },
 {
 "rang": 486,
@@ -23910,7 +24526,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/garage-du-panama-528450539"
 }
-]
+],
+"email": null
 },
 {
 "rang": 487,
@@ -23982,7 +24599,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/carrosserie-musard-842872889"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 488,
@@ -24054,7 +24673,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/s-p-c-i-sablage-peinture-carrosserie-industrielle-413849019"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 489,
@@ -24113,7 +24734,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/air-controle-817382187"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 490,
@@ -24172,7 +24795,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/champvert-atomisation-494004625"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 491,
@@ -24231,7 +24856,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/decize-voyages-347508384"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 492,
@@ -24292,7 +24919,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/pharmacie-maillot-debrousse-888980596"
-}
+},
+"email": null
 },
 {
 "rang": 493,
@@ -24351,7 +24979,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-tourlier-533017679"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 494,
@@ -24423,7 +25053,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sas-jlb-532374279"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 495,
@@ -24482,7 +25114,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sas-taxi-cercycois-805334141"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 496,
@@ -24554,7 +25188,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/signanet-453672891"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 497,
@@ -24626,7 +25262,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sas-toulouse-391204351"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 498,
@@ -24685,7 +25323,9 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/carrosserie-delaporte-834449225"
-}
+},
+"telephone": null,
+"email": null
 },
 {
 "rang": 499,
@@ -24757,7 +25397,9 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/cars-taboureau-343908042"
 }
-]
+],
+"telephone": null,
+"email": null
 },
 {
 "rang": 500,
@@ -24829,6 +25471,8 @@
 "email": null,
 "source": "https://www.pappers.fr/entreprise/sarl-maingaud-freres-447698069"
 }
-]
+],
+"telephone": null,
+"email": null
 }
 ]

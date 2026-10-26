@@ -10,6 +10,7 @@ Contexte, consignes et liste des tâches : [`PASSATION.md`](PASSATION.md).
 - `ext_merge.py` : rangs 101–500, comptes, enrichissements et contacts (`ext/contacts_out_*.json`) ; à relancer après `merge.py`.
 - `art_merge.py` : profil pour la vente d'œuvres d'art (article 238 bis AB du CGI) : régime fiscal, plafond de déduction, lieu d'exposition, priorités et vagues ; à relancer après `ext_merge.py`.
 - `merge_culture.py` : artistes, associations, lieux → `site/culture.json`.
+- Préparation des recherches sur le top 100 (lots lus par les agents, consignes dans `scratch/`) : `top100_lots.py` (coordonnées), `top100_synthese.py` (fiches d'appel consolidées), `comptes_lots.py` (comptes 2025 cités dans les fiches, contrôle `scratch/check_comptes.py`), `fiches_maj_lots.py` (fiches à réécrire quand les chiffres changent). `art_merge.py` applique `ext/top100_synth_out_*`, `ext/comptes_out_*` et `ext/fiches_maj_out_*`.
 - `ext/`, `culture/`, `research/`, `base.tsv` : données brutes.
 - `scratch/` : consignes des recherches (briefs) réutilisables.
 
