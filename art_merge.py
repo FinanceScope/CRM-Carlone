@@ -59,7 +59,7 @@ companies = json.load(open(SITE + '/companies.json', encoding='utf-8'))
 # fiches consolidées des 100 entreprises du classement initial (top100_synthese.py, relues une par une)
 SYN = {}
 # puis fiches réécrites après la mise à jour des comptes (fiches_maj_lots.py), qui remplacent les premières
-for f in sorted(glob.glob(ROOT + '/ext/top100_synth_out_*.json')) + sorted(glob.glob(ROOT + '/ext/fiches_maj_out_*.json')):
+for f in sorted(glob.glob(ROOT + '/ext/top100_synth_out_*.json')) + sorted(glob.glob(ROOT + '/ext/cibles_synth_out_*.json')) + sorted(glob.glob(ROOT + '/ext/fiches_maj_out_*.json')):
     for x in json.load(open(f, encoding='utf-8')):
         SYN[re.sub(r'\D', '', str(x.get('siren')))[-9:]] = x
 # comptes plus récents cités dans les fiches du top 100 (comptes_lots.py, chaque relevé contre-vérifié) ;
