@@ -1,0 +1,15 @@
+Context. A CRM lists companies of the Nièvre (France) that business partners will phone. For each company in the input file, the switchboard number ("telephone") comes only from directories (Pages Jaunes, annuaires…), so the CRM marks it "à confirmer". Your job: find whether an OFFICIAL page shows the switchboard of this site — the company's own website (contact, mentions légales, magasin page), or the official store page of its network (E.Leclerc, Intermarché / Les Mousquetaires, Auchan, U, Fendt dealer page…), or the official page of its group for this site.
+
+Input: <racine du dépôt>/ext/confirm_in_f01.json — an array of records (name, town, address, current "telephone", website, research notes in "note_contacts": read them first, do not repeat what failed).
+
+Search with WebSearch (load it with ToolSearch; WebFetch and curl are blocked). At most 2 searches per company, at most 26 in total. Good queries: "<brand> <town> magasin téléphone" (network store locator pages), "<company website domain> contact", "<company> mentions légales téléphone".
+
+Rules: the official page must name this company or store AND this town. Never take a number of another store of the same brand, of a namesake, or of the group's head office unless the record says the group decides (then fiabilite "groupe").
+
+Output: write valid JSON (UTF-8, indent 1) to <racine du dépôt>/ext/contacts_out_y01.json, one object per input record, in input order:
+{"siren": "...",
+ "standard": {"tel": "0X XX XX XX XX", "source": "official page url", "fiabilite": "officielle"} when an official page shows a number for this site (same as the current one, or a different one: then say so in the note), else null,
+ "note": one French sentence starting with "Confirmation du standard (27/10/2026) : " — what the official page shows, or what was searched without finding an official page,
+ "recherches": number of searches used}
+No other keys. Then check: python3 -I -c "import json,re,sys; d=json.load(open(sys.argv[1])); i=json.load(open(sys.argv[2])); assert [x['siren'] for x in d]==[x['siren'] for x in i]; [print(x['siren'],'format') for x in d if x.get('standard') and not re.fullmatch(r'0\d( \d\d){4}', x['standard']['tel'])]; print(len(d),'fiches,', sum(1 for x in d if x.get('standard')),'confirmés ou corrigés,', sum(x.get('recherches',0) for x in d),'recherches')" <output path> <input path>
+and fix every line it prints. Do not modify any other file.
