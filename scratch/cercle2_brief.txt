@@ -1,0 +1,21 @@
+Context. Two to four business partners based in Cosne-Cours-sur-Loire (Nièvre, France) phone the 100 largest companies of the Nièvre to sell them original artworks (tax deduction of article 238 bis AB of the CGI). The companies in this file are "second circle" targets: profitable, but the purchase is probably decided at a group head office, or the data was too uncertain. Earlier research (three passes) found NO phone number for them. Your job: find the number to call — the switchboard of the Nièvre site, or, when the decision is taken at a group head office, the switchboard of that head office — and say where the decision is taken.
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of company records (address, group, registry managers, research notes in "note_contacts", the call card in "fiche").
+
+Search with WebSearch (load it with ToolSearch; WebFetch and curl are blocked). Use mode "extended" for these hard cases. Budget: at most 3 searches per company and at most {BUDGET} for the whole file. Good queries: "<name> <town> téléphone", "<brand or trading name> <town>", "<group> siège téléphone", the company's or group's own website contact / implantations page, Pages Jaunes, the industry federation or franchise network page (U, Intermarché, Weldom…). Read the notes first: do not repeat what was already tried, and never return a number the notes say belongs to another company.
+
+Rules:
+- Only numbers published with this company's name AND town (or the group's own site for a head-office switchboard). Never guess, never take a number from a namesake company (same surname, other town), never a private mobile of an individual unless the company publishes it as its contact.
+- Reliability ("fiabilite"): "officielle" = on the company's own website or its group's official page for this site; "annuaire" = only directories (Pages Jaunes, Waze, Infobel…), at least one; "groupe" = switchboard of the group head office, not of the Nièvre site; "ancienne" = source older than 2022.
+- If "opposition_prospection" is true: company-level contacts only (switchboard, generic e-mail, website), no person.
+
+Output: write valid JSON (UTF-8, indent 1) to <racine du dépôt>/ext/{OUTFILE}: an array, one object per input record, in input order:
+{"siren": "...",
+ "standard": {"tel": "0X XX XX XX XX", "source": "url", "fiabilite": "officielle" | "annuaire" | "groupe" | "ancienne"} or null,
+ "email_generique": {"email": "...", "source": "url"} or null (only a generic company address published by the company, never a guessed one),
+ "site_web": "url" or null,
+ "note": one or two French sentences starting with "Deuxième cercle (27/10/2026) : " — the number found and its source, what it is (site or group head office, and where), or what was searched without result,
+ "recherches": number of searches used}
+Do not add other keys. Then check the file with:
+python3 -I -c "import json,re,sys; d=json.load(open(sys.argv[1])); i=json.load(open(sys.argv[2])); assert [x['siren'] for x in d]==[x['siren'] for x in i]; [print(x['siren'],'format') for x in d if x.get('standard') and not re.fullmatch(r'0\d( \d\d){4}', x['standard'].get('tel') or '')]; [print(x['siren'],'note') for x in d if not str(x.get('note','')).startswith('Deuxième cercle')]; print(len(d),'fiches,', sum(1 for x in d if x.get('standard')),'numéros,', sum(x.get('recherches',0) for x in d),'recherches')" <output path> <input path>
+and fix every line it prints. Do not modify any other file.

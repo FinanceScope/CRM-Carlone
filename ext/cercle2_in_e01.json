@@ -1,0 +1,390 @@
+[
+ {
+  "rang": 5,
+  "siren": "978029817",
+  "nom": "DUMANGE FAMILY",
+  "nom_court": "Dumange Family (holding de Textilot)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "5 rue Denis Papin, 58640 Varennes-Vauzelles",
+  "code_postal": "58640",
+  "effectif": "3-5 (holding)",
+  "groupe": "Holding familiale Dumange (Textilot, Catering USON Plus)",
+  "decision": "Décision prise dans la Nièvre, à Varennes-Vauzelles (5 rue Denis Papin), par la famille Dumange : DUMANGE FAMILY est la holding familiale de Textilot (prêt-à-porter vendu en GMS et magasins « Plus », l'un des plus gros employeurs privés de la Nièvre) ; la famille est aussi très engagée dans le mécénat sportif (USON Nevers), argument utile pour un achat d'œuvres en 238 bis AB.",
+  "dirigeants": [
+   {
+    "nom": "Sébastien DUMANGE",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Delphine DUMANGE",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sébastien DUMANGE",
+   "fonction": "Président de SAS (holding DUMANGE FAMILY) ; également président-directeur général de TEXTILOT (SIREN 301 420 626, même adresse) selon Kompass",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://fr.kompass.com/c/textilot/fr1911157/"
+  },
+  "note_contacts": "Holding (3-5 salariés) au CA consolidé déclaré de 173 M€ : aucun résultat en 3 recherches (raison sociale + adresse 5 rue Denis Papin, président, nom de famille dans la Nièvre) ; les filiales opérationnelles ne sont pas identifiées. Dirigeants issus du registre uniquement. 2e niveau : 6 recherches. Filiale opérationnelle identifiée : TEXTILOT SAS (SIREN 301 420 626, créée en 1974, capital 50 M€, siège 5 rue Denis Papin à Varennes-Vauzelles comme la holding, établissements « TEXTILOT 58 » et magasins sous enseigne PLUS à Nevers, Garchizy, Moulins, Montluçon, Saint-Germain-du-Puy… ; création et distribution de prêt-à-porter fabriqué en Asie du Sud-Est et vendu en GMS) – sources Kompass (https://fr.kompass.com/c/textilot/fr1911157/), Pappers (https://pappers.fr/entreprise/301420626) et EverybodyWiki (https://everybodywiki.com/Textilot, moins fiable). Sébastien Dumange y apparaît comme PDG (Kompass), cohérent avec le registre de la holding ; Régis Dumange, fondateur et président historique, président de l'USON Nevers rugby depuis 2009 : le « Catering USON Plus » du groupe va dans ce sens. Aucun numéro de standard ni site officiel trouvé (Kompass sans téléphone ni site dans les extraits) ; aucun DAF/RAF/contrôleur de gestion publié (offres Indeed Textilot limitées à la logistique). À faire : obtenir le standard de Textilot (siège/entrepôt de Varennes-Vauzelles) via PagesJaunes ; à l'appel, demander le directeur administratif et financier de Textilot / de la holding et la secrétaire de direction de Sébastien Dumange. Vérification : Aucun résultat web sur Sébastien Dumange : président confirmé par le registre seulement. Un Régis Dumange était président de l'USON Nevers rugby en 2017-2018 (https://franco.wiki/fr/Saison_2017-2018_de_l'USON_Nevers_rugby.html), lien familial ou capitalistique non établi. Recherche « Delphine Dumange » : aucun résultat pertinent (homonymes approchants seulement). Registre seul. Article de 2026 (info.fr) et presse locale : Régis Dumange est toujours président de l'USON Nevers et a créé la SASP. Le lien avec la holding DUMANGE FAMILY elle-même n'est pas établi par une source indépendante (seulement le nom), et le passé chez Textilot n'a pas été revérifié.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Holding familiale présidente de Textilot (prêt-à-porter) et de Catering USON Plus.",
+   "groupe": "Indépendante, famille Dumange",
+   "qui_appeler": "Pas de numéro propre à la holding : passer par le standard de Textilot (03 86 71 62 08, même adresse) et demander Sébastien Dumange, président, ou Delphine Dumange, directrice générale. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Mêmes décideurs que Textilot : un seul appel pour les deux, en précisant quelle société achèterait.",
+    "Plafond calculé sur le CA consolidé (173 M€) : celui de la holding seule dépend de son propre CA et est à vérifier avec le comptable.",
+    "Aucun DAF identifié ; les dirigeants ne sont connus que par le registre.",
+    "Le lien entre la holding et Régis Dumange, président de l'USON Nevers, n'est pas établi : ne pas l'affirmer."
+   ]
+  }
+ },
+ {
+  "rang": 6,
+  "siren": "334934304",
+  "nom": "BOIS ET SCIAGES DE SOUGY",
+  "nom_commercial": "MS Bois (Monnet-Sève Sougy)",
+  "nom_court": "Scierie Monnet-Sève (Sougy-sur-Loire)",
+  "ville": "Sougy-sur-Loire",
+  "adresse": "ZI de Teinte, 58300 Sougy-sur-Loire",
+  "code_postal": "58300",
+  "effectif": "100-249",
+  "groupe": "Groupe Monnet-Sève (scieries familiales, fondé en 1929)",
+  "site_web": "http://monnet-seve.com",
+  "decision": "Au siège du groupe familial Monnet-Sève à Outriaz (Ain) : la scierie de Sougy appartient au groupe, dont un dirigeant (David Morel, DG délégué de Monnet-Sève SA) siège au conseil d'administration ; un achat de ce type serait sans doute validé au niveau du groupe.",
+  "dirigeants": [
+   {
+    "nom": "Stéphane VIVES",
+    "fonction": "Président du conseil d'administration et directeur général"
+   },
+   {
+    "nom": "Guillaume CRUZILLE",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Stéphane VIVES",
+   "fonction": "Président du conseil d'administration et directeur général (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/334934304"
+  },
+  "note_contacts": "Scierie du groupe Monnet-Sève (environ 800 salariés, siège à Outriaz, 01). Aucun numéro propre au site de Sougy trouvé. Standard du siège du groupe : 04 74 76 32 58 (source faible : fiche vendeur Monnet Sève SA sur natureetdecouvertes.com, https://www.natureetdecouvertes.com/produit/ShopProducts/2651?Agec=1). Aucun DAF du groupe identifié ; la fonction finance est probablement centralisée à Outriaz. David Morel est directeur général délégué de Monnet-Sève SA depuis 2024 (societe.com). 2e passe : 3 recherches (scierie Monnet-Sève Sougy, « Bois et Sciages de Sougy » + « 03 86 », annuaires ZI de Teinte) sans numéro propre au site : les fiches Usine Nouvelle et 118712 trouvées n'en affichent pas ; les numéros 03 86 60 7x xx de l'arrêté préfectoral de 2022 sur le site sont ceux de la préfecture, non retenus. 2e niveau : 6 recherches. Toujours aucun numéro propre au site de Sougy-sur-Loire (les fiches 118712 trouvées masquent le numéro) ; standard du siège du groupe à défaut : 04 74 76 32 58 (source faible, 1re passe), non retenu comme standard du site. Gouvernance remaniée en 2024 : passage d'un directoire à un conseil d'administration, où siègent David Morel (DG délégué de Monnet-Sève SA, ancien DG de Bois Génération Avenir) et la société CEBFC LT. Le groupe exploite cinq scieries (Maîche, Outriaz, Saint-Vulbas, Sougy-sur-Loire et un site pyrénéen repris en 2021) et se présente comme le premier scieur de Douglas en Europe ; Verif cite Thomas Sève comme président du conseil de Monnet-Sève SA. Aucune source récente ne cite Stéphane Vives (PDG au registre) ni Guillaume Cruzille : registre non contredit mais non confirmé. Aucun DAF, RAF, chef comptable ni contrôleur de gestion trouvé pour le site ou le groupe ; la finance est probablement centralisée à Outriaz. Au téléphone (via le siège) : demander le directeur du site de Sougy et le directeur financier du groupe. 2e niveau : 6 recherches. Toujours aucun numéro propre au site de Sougy-sur-Loire (les fiches 118712 trouvées masquent le numéro) ; standard du siège du groupe à défaut : 04 74 76 32 58 (source faible, 1re passe), non retenu comme standard du site. Gouvernance remaniée en 2024 : passage d'un directoire à un conseil d'administration, où siègent David Morel (DG délégué de Monnet-Sève SA, ancien DG de Bois Génération Avenir) et la société CEBFC LT. Le groupe exploite cinq scieries (Maîche, Outriaz, Saint-Vulbas, Sougy-sur-Loire et un site pyrénéen repris en 2021) et se présente comme le premier scieur de Douglas en Europe ; Verif cite Thomas Sève comme président du conseil de Monnet-Sève SA. Aucune source récente ne cite Stéphane Vives (PDG au registre) ni Guillaume Cruzille : registre non contredit mais non confirmé. Aucun DAF, RAF, chef comptable ni contrôleur de gestion trouvé pour le site ou le groupe ; la finance est probablement centralisée à Outriaz. Au téléphone (via le siège) : demander le directeur du site de Sougy et le directeur financier du groupe. 3e passe : 5 recherches (ZI de Teinte + téléphone, « Bois et Sciages de Sougy » + téléphone, offres d'emploi Monnet-Sève Sougy, standard du siège à Outriaz, vérification du 04 74 76 32 58) sans numéro pour le site de Sougy (fiches 118712 au numéro masqué ; l'arrêté préfectoral sur BSS ne donne que le numéro de la préfecture). Côté groupe, aucun numéro trouvé sur le site officiel monnet-seve.com : le 04 74 76 32 58 apparaît seulement sur la fiche vendeur de MONNET SEVE SA chez Nature & Découvertes (https://www.natureetdecouvertes.com/produit/ShopProducts/2651?Agec=1), et la fiche vendeur Truffaut donne un autre numéro, le 04 74 76 33 99 (https://www.truffaut.com/vendeurs-marketplace/mon-petit-potager.html?p=2). Ces deux pistes ne viennent pas d'une source officielle et ne sont donc pas retenues comme standard ; la mairie d'Outriaz est au 04 74 76 32 08, à ne pas confondre. Vérification : « Stéphane Vives » + Monnet-Sève/Sougy : aucun résultat ne le cite. societe.com (https://www.societe.com/manager/David.MOREL.7OB2vDbsj_l.html) rattache David Morel à Monnet-Sève SA et à Bois et Sciages de Sougy (mandat depuis le 13/01/2016), ce qui ne contredit pas Stéphane Vives au registre. Seule la fiche societe.com déjà citée (DG délégué Monnet-Sève SA depuis 04/2024) ; homonymes nombreux, pas de source indépendante. Recherche « Guillaume Cruzille » + Monnet-Sève : seule trace, la fiche societe.com de David Morel (liée à Monnet-Sève SA et à Bois et Sciages de Sougy, la société de ce SIREN) affiche un mandat de Guillaume Cruzille du 04/08/2022 au 19/04/2024, donc TERMINÉ ; extrait illisible sur la société concernée. David Morel est devenu DG délégué de Monnet-Sève SA en avril 2024, ce qui laisse penser qu'il a remplacé Cruzille. Départ probable mais non établi pour Sougy : ne pas appeler sans vérifier.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Scierie de résineux : sciage, rabotage, bois lamellé-collé et CLT.",
+   "groupe": "Groupe familial Monnet-Sève (siège à Outriaz, Ain)",
+   "qui_appeler": "Aucun numéro pour le site de Sougy : passer par le siège du groupe à Outriaz (04 74 76 32 58, source faible à vérifier) et demander le directeur du site de Sougy ou le directeur financier du groupe ; Stéphane Vives, PDG au registre, n'est cité par aucune source récente. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Bénéfice 2024 de 0,83 M€ seulement, contre 14,5 M€ sur un exercice antérieur, avec un CA en baisse (94 M€ contre 133 M€).",
+    "Décision probablement prise au siège du groupe Monnet-Sève à Outriaz (Ain).",
+    "Guillaume Cruzille, directeur général délégué au registre, a probablement quitté ses fonctions en avril 2024 : ne pas le demander sans vérifier.",
+    "Aucun numéro propre au site ; celui du siège vient d'une fiche vendeur, pas d'une source officielle."
+   ]
+  }
+ },
+ {
+  "rang": 9,
+  "siren": "510317191",
+  "nom": "GROUPE ROUSSEAU",
+  "nom_court": "Groupe Rousseau (transports, Clamecy)",
+  "ville": "Clamecy",
+  "adresse": "Allée Clément Ader, 58500 Clamecy",
+  "code_postal": "58500",
+  "effectif": "20-49 (registre) ; 10-19 selon le classement",
+  "groupe": "Holding de Transports Rousseau Eric",
+  "decision": "Décision prise à Clamecy par la famille Rousseau (Éric Rousseau, président, et Jade Rousseau, DG) : GROUPE ROUSSEAU est la holding familiale nivernaise d'un groupe de transport routier indépendant (~740 salariés, 10 sites) qui a gardé son siège dans la Nièvre.",
+  "dirigeants": [
+   {
+    "nom": "Eric ROUSSEAU",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Jade ROUSSEAU",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de SAS (fondateur du groupe de transport routier Rousseau, né des Transports Éric Rousseau créés en 1994)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://auris-finance.fr/en/?p=9631"
+  },
+  "note_contacts": "Aucun résultat pertinent en 3 recherches : les résultats « Groupe Rousseau » concernent un homonyme (groupe normand de construction métallique / mobilier urbain, Turenne et Bpifrance au capital), sans lien établi avec Clamecy. Activité opérationnelle du groupe de Clamecy (91 M€ de CA) non identifiée. Dirigeants issus du registre uniquement. 2e niveau : 6 recherches. Activité identifiée (la 1re passe avait confondu avec un homonyme normand) : holding du groupe de transport routier Rousseau, issu des Transports Éric Rousseau (1994, RCS Nevers), qui a repris Transports Malleret (1999), Transports Charrier (Decize) et Boudet (Saint-Florent-sur-Cher), EF Bennes (avril 2023) et Van de Walle (septembre 2024, 210 salariés, 30 M€) ; ~740 salariés, 1 200 véhicules, 10 sites (Nièvre, Pas-de-Calais, Gironde, Yonne, Cher, Puy-de-Dôme) ; transport sous température dirigée, matières dangereuses, vrac et bennes – source conseil M&A Auris Finance (https://auris-finance.fr/en/?p=9631 et https://auris-finance.fr/en/?p=8298). Attention aux homonymes : Groupe Rousseau (construction métallique, Normandie, Turenne/Bpifrance), Rousseau Automobile (Île-de-France), Transports Rousseau SAS (Cognac), Transports Cyril Rousseau (Marseille) – sans lien. Aucun site officiel, standard ni email trouvé ; aucun DAF/RAF publié. À faire : trouver le numéro des Transports Éric Rousseau à Clamecy (allée Clément Ader) via PagesJaunes ; à l'appel, demander le responsable administratif et financier du groupe et confirmer le rôle de Jade Rousseau (DG). Vérification : Aucun résultat reliant Eric Rousseau à Clamecy : président confirmé par le registre seulement. Piste non vérifiée : une société « Transports Rousseau Eric » (transport routier, greffe de Nevers) existe (https://copeps.fr/actualites/sarl-rousseau-eric/), peut-être la filiale opérationnelle. Aucun résultat pour Jade Rousseau + Groupe Rousseau + Clamecy. Le seul rôle trouvé (DG depuis le 06/02/2025, siège à Corvol-l'Orgueilleux) vient d'un agrégateur (copeps.fr) déjà cité ailleurs, pas d'une source indépendante.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Holding d'un groupe familial de transport routier (température dirigée, matières dangereuses, vrac, bennes).",
+   "groupe": "Indépendant, famille Rousseau",
+   "qui_appeler": "Aucun numéro trouvé : chercher avant l'appel celui des Transports Éric Rousseau à Clamecy (allée Clément Ader), puis demander Éric Rousseau, président, ou Jade Rousseau, directeur général. À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Aucun numéro ni site officiel trouvé, et nombreux homonymes (Groupe Rousseau normand, Transports Rousseau de Cognac) : vérifier que le numéro trouvé est bien celui du groupe de Clamecy.",
+    "Même décideur que Transports Rousseau Eric (transport routier), présidée par la holding : un seul appel pour les deux, en précisant quelle société achèterait.",
+    "Plafond calculé sur le CA consolidé : celui de la holding seule dépend de son propre CA et est à vérifier avec le comptable.",
+    "Le rôle de Jade Rousseau (directeur général depuis février 2025 selon un agrégateur) est à confirmer."
+   ]
+  }
+ },
+ {
+  "rang": 12,
+  "siren": "399502897",
+  "nom": "HOLDING CASSIER",
+  "nom_court": "Groupe Cassier (TC-Transports) Cercy-la-Tour",
+  "ville": "Cercy-la-Tour",
+  "adresse": "33 avenue Louis Coudant, 58340 Cercy-la-Tour",
+  "code_postal": "58340",
+  "effectif": "10-19",
+  "groupe": "Groupe familial Cassier (filiales dont TC Environnement / TC Manutention)",
+  "decision": "Décision prise à Cercy-la-Tour par la famille Cassier : HOLDING CASSIER est la tête du groupe familial de transport et logistique TC-Transports (créé en 1981, 11 sites, plus de 700 salariés) et de TC Environnement, sans actionnaire extérieur identifié.",
+  "dirigeants": [
+   {
+    "nom": "Jean-François CASSIER",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Alain CASSIER",
+    "fonction": "Président du conseil de surveillance"
+   },
+   {
+    "nom": "Luc CASSIER",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Jean-Luc FUMOUX",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Membre du directoire"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-François CASSIER",
+   "fonction": "Président de SAS (registre ; holding du groupe familial TC-Transports)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/399502897"
+  },
+  "note_contacts": "Aucun résultat en 3 recherches (raison sociale + adresse, nom dans la commune, noms des dirigeants) ; activité opérationnelle du groupe (71,5 M€) non identifiée. Le registre mélange président de SAS et organes de SA à directoire (Alain CASSIER président du conseil de surveillance, Luc CASSIER, J.-L. FUMOUX et P. RACOUCHOT membres du directoire) : liste probablement en partie ancienne. Les membres du directoire hors famille pourraient porter la fonction financière, non vérifié. 2e niveau : 6 recherches. Activité identifiée : HOLDING CASSIER est la holding du groupe familial TC-Transports (transport routier, logistique, stockage, manutention, transport de verre ; « groupe familial français de transports et logistique créé en 1981 », 11 sites en France, plus de 700 salariés) et de TC ENVIRONNEMENT (SAS créée en 2012, présidée par la SARL CASSIER DEVELOPPEMENT, projet de plateforme de broyage de pneus usagés au lieu-dit Les Fourneaux) — source : dossier ICPE PJ11 capacités techniques et financières, préfecture de la Nièvre (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Siège TC-Transports avenue Louis Coudant à Cercy-la-Tour (ContactOut, https://contactout.com/company/TC-TRANSPORTS-6049) ; Railmarket mentionne un bureau commercial à Digoin (71). Aucun numéro ni site officiel trouvé dans les extraits (le numéro PagesJaunes vu concernait une autre société, non retenu) : chercher « TC Transports Cercy-la-Tour » sur PagesJaunes / Google Maps, puis demander le service comptabilité / direction administrative et financière du groupe (avec 700 salariés, un DAF ou RAF groupe existe très probablement ; les membres du directoire Jean-Luc FUMOUX ou Pierre RACOUCHOT pourraient porter la finance — non vérifié). Registre mêlant président de SAS et organes de SA à directoire : à faire préciser. « Ets Cassier Combustibles » et « Cassier Vrac » (rue de la Guette) à Cercy portent le même nom, lien non confirmé. Vérification : Aucun résultat web sur la famille Cassier à Cercy-la-Tour : président confirmé par le registre seulement ; activité opérationnelle toujours non identifiée. Aucun résultat reliant Pierre Racouchot à Holding Cassier. Aucune occurrence de Fumoux associée à Cassier ou à Cercy-la-Tour. Membre du directoire selon le seul registre.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Holding familiale du groupe de transport et logistique TC-Transports",
+   "groupe": "Indépendante, famille Cassier (Cercy-la-Tour)",
+   "qui_appeler": "Aucun numéro vérifié : chercher le standard de TC-Transports au siège de Cercy-la-Tour (33 avenue Louis Coudant) et demander Jean-François Cassier, président de la holding. À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Holding de 10 à 19 salariés : l'œuvre doit être exposée dans un site du groupe ouvert au public ou à tous les salariés, à valider.",
+    "Le CA de 71,5 M€ est présenté comme consolidé : le plafond réel dépend du CA de la société qui achète, à voir avec l'expert-comptable.",
+    "Activité du groupe connue par un seul dossier préfectoral et liste des dirigeants du registre en partie ancienne : faire confirmer qui décide.",
+    "Aucun numéro fiable : le numéro PagesJaunes trouvé concerne une autre société."
+   ]
+  }
+ },
+ {
+  "rang": 14,
+  "siren": "393635230",
+  "nom": "TRANSPORTS ROUSSEAU ERIC",
+  "nom_commercial": "Transports Rousseau",
+  "nom_court": "Transports Rousseau, Corvol-l'Orgueilleux",
+  "ville": "Corvol-l'Orgueilleux",
+  "adresse": "Quartier de la Gare, 58460 Corvol-l'Orgueilleux",
+  "code_postal": "58460",
+  "effectif": "250-499 (≈360 salariés selon une offre France Travail d'avril 2025 ; groupe de plus de 700)",
+  "groupe": "Groupe Rousseau",
+  "decision": "Dans la Nièvre, au niveau de la holding familiale Groupe Rousseau, présidée par Eric Rousseau, dont le siège a été transféré à Clamecy en 2021 : entreprise familiale sans groupe extérieur.",
+  "dirigeants": [
+   {
+    "nom": "GROUPE ROUSSEAU (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eric Ernest ROUSSEAU",
+    "fonction": "Autre (dirigeant)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Dirigeant (registre : « Autre ») ; président de la holding Groupe Rousseau, présidente de la SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/393635230"
+  },
+  "note_contacts": "Aucun téléphone ni site officiel trouvé via WebSearch. Le numéro PagesJaunes 05 45 82 15 10 correspond à une autre société, Transports Rousseau SAS à Cognac : à ne pas confondre. Établissement secondaire à Clamecy. Environ 360 salariés, plus de 700 pour le groupe : un DAF ou RAF existe probablement mais n'a pas été identifié publiquement. Le rôle de Jade Rousseau vient d'un site tiers (copeps.fr) : source faible, à vérifier. 2e passe : 3 recherches (Corvol + « 03 86 », Groupe Rousseau Corvol / Clamecy, « Transports Rousseau Eric » téléphone) sans numéro ni site ; seuls réapparaissent l'offre France Travail 191MYKZ et le numéro de Transports Rousseau SAS (Cognac), à ne pas utiliser. 2e niveau : 6 recherches, toujours aucun numéro ni site officiel. Le 05 45 82 15 10 (PagesJaunes) est celui de Transports Rousseau SAS à Cognac, une autre société : ne pas l'utiliser ; le 03 86 29 13 77 est celui de la mairie de Corvol et le 03 86 27 02 51 celui de l'office de tourisme de Clamecy. Selon un annuaire d'entreprises, le siège du groupe a été transféré à Clamecy en 2021 ; établissement secondaire rue Clément Ader à Clamecy (selon copeps.fr). Activités du groupe (offre France Travail 191MYKZ) : distribution de palettes, température dirigée, lots, vrac, matières dangereuses, transport de fûts, location de véhicules ; présent dans la Nièvre depuis 1994, 360 salariés, plus de 700 pour le groupe. Copeps.fr cite Eric Rousseau comme président du groupe et Jade Rousseau comme directrice générale (source faible). Aucun DAF, RAF ni comptable nommé, bien que la taille du groupe en suppose un. Prochaine étape : appeler les renseignements ou passer par l'offre France Travail pour obtenir le standard, puis demander le service comptable ou administratif du groupe. 2e niveau : 6 recherches, toujours aucun numéro ni site officiel. Le 05 45 82 15 10 (PagesJaunes) est celui de Transports Rousseau SAS à Cognac, une autre société : ne pas l'utiliser ; le 03 86 29 13 77 est celui de la mairie de Corvol et le 03 86 27 02 51 celui de l'office de tourisme de Clamecy. Selon un annuaire d'entreprises, le siège du groupe a été transféré à Clamecy en 2021 ; établissement secondaire rue Clément Ader à Clamecy (selon copeps.fr). Activités du groupe (offre France Travail 191MYKZ) : distribution de palettes, température dirigée, lots, vrac, matières dangereuses, transport de fûts, location de véhicules ; présent dans la Nièvre depuis 1994, 360 salariés, plus de 700 pour le groupe. Copeps.fr cite Eric Rousseau comme président du groupe et Jade Rousseau comme directrice générale (source faible). Aucun DAF, RAF ni comptable nommé, bien que la taille du groupe en suppose un. Prochaine étape : appeler les renseignements ou passer par l'offre France Travail pour obtenir le standard, puis demander le service comptable ou administratif du groupe. 3e passe : 5 recherches (site de Clamecy rue Clément Ader, « Groupe Rousseau » transports Clamecy, offres d'emploi Corvol, Rousseau + 58460 + 03 86, « Transports Rousseau Eric » + standard) sans aucun numéro ni site officiel. L'offre France Travail 191MYKZ nomme Mme Colette Cendre comme contact de recrutement, sans téléphone. Le seul numéro rencontré, le 05 45 82 15 10, est celui de Transports Rousseau SAS à Cognac, une autre société. Standard toujours manquant. Vérification : « Eric Rousseau » + Transports Rousseau Corvol : les résultats (offre France Travail, travail-industrie.com, copeps.fr) ne nomment aucun dirigeant. La fiche Pappers d'un Eric Rousseau né en 1960 concerne une société forestière de la Creuse : homonyme probable, sans lien établi. Son titre de président de la holding Groupe Rousseau n'est pas confirmé. Recherche « Jade Rousseau » + Transports Rousseau + Corvol : aucun résultat. Seul ressort un homonyme d'entreprise (Transports Rousseau SAS à Cognac, sans rapport). Source tierce faible non recoupée.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Transport routier de marchandises (palettes, température dirigée, vrac, matières dangereuses)",
+   "groupe": "Indépendante, famille Rousseau (holding Groupe Rousseau, Clamecy)",
+   "qui_appeler": "Aucun standard trouvé : obtenir le numéro du siège de Corvol-l'Orgueilleux par les renseignements ou via l'offre France Travail 191MYKZ, puis demander Eric Rousseau, dirigeant. À défaut, demander le responsable administratif et financier ou le service comptable du groupe.",
+   "vigilance": [
+    "Bénéfice tombé à 57 000 € en 2025 (860 000 € en 2022) : l'économie d'impôt sera limitée par le bénéfice.",
+    "Ne pas utiliser le 05 45 82 15 10 (Transports Rousseau SAS à Cognac, autre société) ; le 03 86 29 13 77 est la mairie de Corvol et le 03 86 27 02 51 l'office de tourisme de Clamecy.",
+    "Titre d'Eric Rousseau et rôle de Jade Rousseau (directrice générale selon une source faible) à confirmer.",
+    "L'ancien site de La Charité-sur-Loire est fermé depuis 2008 : ne pas l'évoquer."
+   ]
+  }
+ },
+ {
+  "rang": 24,
+  "siren": "488376278",
+  "nom": "A.B.S AVENIR BENNES ET SERVICES",
+  "nom_commercial": "A.B.S",
+  "nom_court": "A.B.S Avenir Bennes et Services (Clamecy)",
+  "ville": "Clamecy",
+  "adresse": "ZI Bagatelle, avenue Saint-Exupéry, 58500 Clamecy",
+  "code_postal": "58500",
+  "effectif": "10-19",
+  "decision": "Décision probablement prise à Clamecy par les deux cogérants (G. Bethery, R. Sagne) : aucune trace de groupe ou de holding extérieure ; la société pilote un réseau de transporteurs adhérents depuis son siège de Clamecy.",
+  "dirigeants": [
+   {
+    "nom": "Gilles BETHERY",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Romain SAGNE",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Gilles BETHERY",
+   "fonction": "Gérant (cogérant avec Romain SAGNE, selon le registre ; aucune source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/488376278"
+  },
+  "note_contacts": "Aucune trace en ligne de la société (téléphone, site, annuaire) dans les résultats WebSearch, ni par nom ni par SIREN. Le profil surprend : environ 28,8 M€ de CA pour 10 à 19 salariés en entreposage et services auxiliaires des transports. Il peut s'agir d'une structure de négoce ou d'une société liée à un groupe local ; à vérifier sur le registre. 2e passe : 3 recherches (nom exact + Clamecy, transport vrac avenue Saint-Exupéry, nom + téléphone/contact). Seule trace : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) listant « A.B.S. Avenir Bennes et Services », avenue St Exupéry, 58500 Clamecy, transport de vrac sec en France et pays limitrophes (170 véhicules, réseau de 20 transporteurs adhérents, ce qui explique le CA), sans numéro visible dans l'extrait. Aucun standard trouvé. 2e niveau : 6 recherches (nom exact + Clamecy, noms des gérants + transport, sigle A.B.S + vrac, adresse + téléphone, site officiel) sans standard, site ni e-mail. Seule source : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) qui reprend l'auto-présentation de la société : « spécialiste du transport en vrac solide en France et dans les pays limitrophes, flotte de 170 véhicules récents, réseau de 20 transporteurs adhérents », avenue St Exupéry, 58500 Clamecy, numéro non visible dans l'extrait (fonction « afficher le n° » de l'annuaire). Une fiche 118712.fr de transport vrac/céréales (https://www.118712.fr/professionnels/X0dXWl5THwk) pourrait correspondre, non confirmé. Le CA (28,8 M€ pour 10-19 salariés) s'explique par la sous-traitance aux transporteurs adhérents. Dirigeants : registre non contredit, aucune source récente. À faire avant l'appel : relever le numéro sur la fiche 118000.fr ou Pages Jaunes ; à l'appel, demander qui gère la comptabilité (probablement un cabinet externe) et lequel des deux gérants décide. 2e niveau : 6 recherches (nom exact + Clamecy, noms des gérants + transport, sigle A.B.S + vrac, adresse + téléphone, site officiel) sans standard, site ni e-mail. Seule source : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) qui reprend l'auto-présentation de la société : « spécialiste du transport en vrac solide en France et dans les pays limitrophes, flotte de 170 véhicules récents, réseau de 20 transporteurs adhérents », avenue St Exupéry, 58500 Clamecy, numéro non visible dans l'extrait (fonction « afficher le n° » de l'annuaire). Une fiche 118712.fr de transport vrac/céréales (https://www.118712.fr/professionnels/X0dXWl5THwk) pourrait correspondre, non confirmé. Le CA (28,8 M€ pour 10-19 salariés) s'explique par la sous-traitance aux transporteurs adhérents. Dirigeants : registre non contredit, aucune source récente. À faire avant l'appel : relever le numéro sur la fiche 118000.fr ou Pages Jaunes ; à l'appel, demander qui gère la comptabilité (probablement un cabinet externe) et lequel des deux gérants décide. 3e passe : 5 recherches (nom exact + Clamecy, phrase d'auto-présentation « spécialiste du transport en vrac solide », ABS + bennes céréalières + avenue Saint-Exupéry / Bagatelle, recrutement et site web « avenir-bennes », PagesJaunes / 118712 / societe.com) sans numéro, site ni e-mail : seule la fiche 118000.fr déjà connue ressort, au numéro masqué. BENNES SERVICES (SIREN 353054471, Quincy-Voisins) est une autre société. Standard toujours manquant. Vérification : Aucun résultat ne nomme Gilles Bethery. Contrairement à la note du chercheur (« aucune trace en ligne »), une liste du 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) cite Avenir Bennes et Services, avenue St Exupéry à Clamecy : transport de vrac sec, flotte de 170 véhicules, réseau de 20 transporteurs partenaires. Cela explique le chiffre d'affaires. Aucun numéro trouvé dans les extraits. Recherche « Romain Sagne » + Clamecy : aucun résultat (seulement Romain Rolland et la ville). Registre seul.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Transport de vrac solide en France et pays limitrophes, avec un réseau de transporteurs adhérents (selon un annuaire).",
+   "groupe": "Indépendante a priori, cogérée par G. Bethery et R. Sagne (à confirmer)",
+   "qui_appeler": "Aucun numéro trouvé : relever avant l'appel celui de la fiche 118000.fr ou de PagesJaunes (avenue Saint-Exupéry, Clamecy), puis demander Gilles Bethery ou Romain Sagne, cogérants. À défaut, demander la personne qui gère la comptabilité ou le responsable administratif et financier.",
+   "vigilance": [
+    "Aucun standard, site ni e-mail trouvé : la société est très peu présente en ligne.",
+    "Régime fiscal à confirmer (IS probable) et bénéfice modeste d'environ 80 K€.",
+    "Les deux cogérants ne sont connus que par le registre, sans aucune source récente.",
+    "Ne pas confondre avec BENNES SERVICES (Quincy-Voisins), autre société."
+   ]
+  }
+ },
+ {
+  "rang": 33,
+  "siren": "322804931",
+  "nom": "SUMIRIKO RUBBER COMPOUNDING FRANCE SAS",
+  "nom_commercial": "SumiRiko",
+  "nom_court": "SumiRiko, usine des Caillots (Decize)",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, Les Caillots, 58300 Decize",
+  "code_postal": "58300",
+  "effectif": "50-99",
+  "groupe": "Sumitomo Riko (Japon)",
+  "decision": "Filiale du groupe japonais Sumitomo Riko : un achat de ce type serait au mieux proposé par la direction de Decize (DG Stéphane Birebent) mais validé par le président Carlos Jimenez, dirigeant de niveau groupe qui préside aussi la société sœur SumiRiko SD France ; lieu de décision réel non identifié (probablement hors Nièvre, direction européenne du groupe).",
+  "dirigeants": [
+   {
+    "nom": "Carlos JIMENEZ",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Stéphane BIREBENT",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Carlos JIMENEZ",
+   "fonction": "Président de SAS (également président de SUMIRIKO SD FRANCE SAS, société sœur du même site ; dirigeant de niveau groupe)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.verif.com/en/leaders/Axel-BENZ-3623766/"
+  },
+  "note_contacts": "Filiale du groupe japonais Sumitomo Riko ; aucun standard publié trouvé dans les extraits (adresse postale : Usine des Caillots, BP 101, 58302 Decize). Une offre France Travail de contrôleur de gestion industriel à Decize (https://candidat.francetravail.fr/offres/recherche/detail/189HYHP) mentionne un rattachement au responsable financier, mais l'employeur n'est pas nommé : finance non identifiée. Le président est probablement un dirigeant du groupe ; le DG (S. Birebent) est sans doute l'interlocuteur local, non confirmé. 2e passe : 3 recherches (usine des Caillots + téléphone, ancien nom Anvis + 03 86, Sumiriko SD France). Aucun numéro dans les extraits. Le site des Caillots est partagé avec SUMIRIKO SD FRANCE SAS (SIREN 450817200, ex-Kléber/Anvis, environ 300 salariés sur la zone selon le Département, https://nievre.fr/wp-content/uploads/2021/06/EP1-GEN-NTE-0122-A_Analyse_socio-ecoAnnexes.pdf) : un standard commun est probable mais n'a pas été trouvé. 2e niveau : 6 recherches (nom + Decize, finance, nom du DG, téléphone 03 86, réseau mondial Sumitomo Riko, profils finance LinkedIn) sans standard ni responsable financier nommé. Confirmé : siège à l'usine des Caillots à Decize, établissement secondaire à Strasbourg (entreposage), CA 24,8 M€ (exercice clos en mars 2025), 50-99 salariés ; centre de compétence pour les mélanges élastomères du groupe, la formulation étant développée par la société sœur SumiRiko SD France (SIREN 450817200, même site, DG Axel Benz depuis 2014, président Carlos Jimenez selon Verif). Dirigeants du registre non contredits ; aucune source sur S. Birebent. Une offre France Travail d'avril 2025 de contrôleur de gestion industriel confirmé à Decize (https://candidat.francetravail.fr/offres/recherche/detail/189HYHP), rattaché au responsable financier, correspond très probablement au site SumiRiko (employeur non nommé). À l'appel : obtenir le numéro de l'usine des Caillots (standard commun probable avec SumiRiko SD France), demander le nom du responsable financier du site et si les dépenses de mécénat relèvent de Decize ou du siège européen. 2e niveau : 6 recherches (nom + Decize, finance, nom du DG, téléphone 03 86, réseau mondial Sumitomo Riko, profils finance LinkedIn) sans standard ni responsable financier nommé. Confirmé : siège à l'usine des Caillots à Decize, établissement secondaire à Strasbourg (entreposage), CA 24,8 M€ (exercice clos en mars 2025), 50-99 salariés ; centre de compétence pour les mélanges élastomères du groupe, la formulation étant développée par la société sœur SumiRiko SD France (SIREN 450817200, même site, DG Axel Benz depuis 2014, président Carlos Jimenez selon Verif). Dirigeants du registre non contredits ; aucune source sur S. Birebent. Une offre France Travail d'avril 2025 de contrôleur de gestion industriel confirmé à Decize (https://candidat.francetravail.fr/offres/recherche/detail/189HYHP), rattaché au responsable financier, correspond très probablement au site SumiRiko (employeur non nommé). À l'appel : obtenir le numéro de l'usine des Caillots (standard commun probable avec SumiRiko SD France), demander le nom du responsable financier du site et si les dépenses de mécénat relèvent de Decize ou du siège européen. 3e passe : 5 recherches (usine des Caillots + téléphone, piste Anvis Decize, SumiRiko SD / Rubber Compounding + +33 / 03 86, réseau européen Sumitomo Riko, offres d'emploi) sans numéro pour l'usine ni pour le groupe. Anvis Decize (SIREN 518482013) est une société distincte. Des offres d'emploi de la société à Decize (acheteur CDI, technicien qualité CDI, offre France Travail 191PPHY) ne montrent pas de téléphone. Le +33 3 86 25 27 23 vu dans les résultats appartient au domaine decize-confluence.fr, pas à SumiRiko : non retenu. Standard toujours manquant. Vérification : Aucun résultat reliant Carlos Jimenez à SumiRiko ; rien n'indique un départ (registre seul). Recherche « Stéphane Birebent » + Sumiriko : aucun résultat ne le cite. Le seul dirigeant trouvé, Axel Edwin Benz (DG depuis 2014), l'est de SUMIRIKO SD FRANCE, une autre société de Decize : ce n'est pas une contradiction pour ce SIREN. Registre seul. Aucun résultat reliant Axel Benz à SumiRiko ou à Decize (seulement des homonymes sans rapport). DG de SumiRiko SD France depuis 2014 selon le seul agrégateur verif.com.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Production de mélanges de caoutchouc (élastomères) pour le groupe Sumitomo Riko.",
+   "groupe": "Groupe Sumitomo Riko (Japon)",
+   "qui_appeler": "Aucun standard connu : obtenir le numéro de l'usine des Caillots à Decize (probablement commun avec SumiRiko SD France), puis demander Stéphane Birebent, directeur général, et le nom du responsable financier du site. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Résultat d'exploitation négatif (-1,4 M€) malgré un résultat net de 6,6 M€ : l'impôt réellement payé est à vérifier.",
+    "La validation revient probablement au président Carlos Jimenez, dirigeant de niveau groupe, ou à la direction européenne de Sumitomo Riko.",
+    "Le rôle local de Stéphane Birebent ne repose que sur le registre : le confirmer au standard.",
+    "Le 03 86 25 27 23 vu en ligne est celui de Decize Confluence, et Anvis Decize est une autre société : ne pas s'en servir."
+   ]
+  }
+ },
+ {
+  "rang": 35,
+  "siren": "397727397",
+  "nom": "LOOK FIXATIONS SA",
+  "nom_commercial": "LOOK Fixations (fixations de ski, groupe Rossignol)",
+  "nom_court": "LOOK Fixations Nevers (groupe Rossignol)",
+  "ville": "Nevers",
+  "adresse": "2 rue de la Pique, 58000 Nevers",
+  "code_postal": "58000",
+  "effectif": "50-99",
+  "groupe": "Groupe Rossignol (fixations de ski LOOK depuis 1994)",
+  "site_web": "https://look-bindings.com",
+  "decision": "Probablement au siège du groupe Rossignol à Saint-Jean-de-Moirans (Isère) : LOOK Fixations est l'usine de fixations de ski du groupe Rossignol depuis 1994, le site de Nevers étant un site de production (R&D transférée à Saint-Jean-de-Moirans en 2006).",
+  "dirigeants": [
+   {
+    "nom": "Damien Luc Marie OLAGNE",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Damien OLAGNE",
+   "fonction": "Président de SAS (selon registre ; non confirmé par une source web)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/397727397"
+  },
+  "note_contacts": "Attention : les recherches de coordonnées ont d'abord confondu cette usine avec LOOK Cycle ; les numéros et contacts de LOOK Cycle cités ci-dessous ne sont pas ceux de l'usine de fixations. Aucun DAF trouvé dans les extraits. Le président D. Olagne vient du registre seul (aucune source web ne le confirme). F. Musi est CEO du groupe depuis 2016 (rachat par Activa Capital) ; il est cité comme CEO dans un article récent sur le rachat de Pembree (https://cyclingindustry.news/look-cycle-acquires-uk-brand-pembree/), mais le poste est peut-être à revérifier. Le 118500 (https://118500.fr/telephone-service-client-look-cycle) donne le siège groupe au 27 rue du Docteur Léveillé, Nevers, sans afficher le numéro. 2e passe : le 03 86 71 63 00 est donné pour « Look Cycle », 27 rue du Docteur-Léveillé, 58028 Nevers Cedex, dans l'annuaire cycling du Club des villes et territoires cyclables (PDF de date inconnue, qui associe par ailleurs un site web d'une autre marque) ; c'est le siège du groupe LOOK Cycle, pas l'adresse de LOOK Fixations (2 rue de la Pique). Une recherche du numéro seul n'a rien confirmé : à vérifier à l'appel. 2e niveau : CORRECTION IMPORTANTE – LOOK FIXATIONS SA (2 rue de la Pique, Nevers) n'est pas LOOK Cycle : c'est l'usine de fixations de ski LOOK, rachetée par Rossignol le 1er août 1994 et installée rue de la Pique depuis 1974 (https://look-bindings.com/history ; https://www.skipass.com/news/175686-look-des-fixations-made-in-france.html). Le champ « groupe » du CRM (LOOK Cycle International / Activa Capital) et le contact F. Musi de la note précédente concernent une autre société. Le 03 86 71 63 00 déjà en base est celui de LOOK Cycle (27 rue du Docteur-Léveillé) : il n'est donc pas retenu comme standard de LOOK Fixations (à n'utiliser qu'en dernier recours pour demander le bon numéro). Aucun numéro pour la rue de la Pique trouvé (6 recherches). Damien Olagne n'apparaît dans aucune source web (registre seul) ; seul nom trouvé côté marque : Sébastien Rideau, chef produit et responsable de la marque Look (skipass, non daté, probablement basé chez Rossignol). Effectif environ 103 CDI + 28 intérimaires vers 2021 (https://www.force-ouvriere.fr/syndicat-et-adherents-fo-salaries-des-tpe-le-secretaire-general-13746). Aucun DAF/RAF/contrôleur de gestion trouvé : la finance est sans doute centralisée chez Rossignol. À l'appel : demander le directeur de l'usine de Nevers et le contrôleur de gestion du site, et vérifier si M. Olagne est bien le président en exercice. 2e niveau : CORRECTION IMPORTANTE – LOOK FIXATIONS SA (2 rue de la Pique, Nevers) n'est pas LOOK Cycle : c'est l'usine de fixations de ski LOOK, rachetée par Rossignol le 1er août 1994 et installée rue de la Pique depuis 1974 (https://look-bindings.com/history ; https://www.skipass.com/news/175686-look-des-fixations-made-in-france.html). Le champ « groupe » du CRM (LOOK Cycle International / Activa Capital) et le contact F. Musi de la note précédente concernent une autre société. Le 03 86 71 63 00 déjà en base est celui de LOOK Cycle (27 rue du Docteur-Léveillé) : il n'est donc pas retenu comme standard de LOOK Fixations (à n'utiliser qu'en dernier recours pour demander le bon numéro). Aucun numéro pour la rue de la Pique trouvé (6 recherches). Damien Olagne n'apparaît dans aucune source web (registre seul) ; seul nom trouvé côté marque : Sébastien Rideau, chef produit et responsable de la marque Look (skipass, non daté, probablement basé chez Rossignol). Effectif environ 103 CDI + 28 intérimaires vers 2021 (https://www.force-ouvriere.fr/syndicat-et-adherents-fo-salaries-des-tpe-le-secretaire-general-13746). Aucun DAF/RAF/contrôleur de gestion trouvé : la finance est sans doute centralisée chez Rossignol. À l'appel : demander le directeur de l'usine de Nevers et le contrôleur de gestion du site, et vérifier si M. Olagne est bien le président en exercice. 3e passe : 5 recherches (adresse 2 rue de la Pique + téléphone, offres d'emploi / recrutement de l'usine, « Look Fixations » + 03 86 / Kompass, standard du siège Rossignol au 98 rue Louis Barran à Saint-Jean-de-Moirans, page contact rossignol.com + 04 76) sans numéro pour l'usine de Nevers ni standard officiel du groupe Rossignol (seuls customer.care@rossignol.com, e-mail du service client, et un numéro américain sur un annuaire tiers). Le 03 86 71 63 00 en base reste celui de LOOK Cycle (voir 2e niveau) : à n'utiliser que pour demander le bon numéro. Vérification : Deux recherches (« Damien Olagne » Look ; « Olagne » « LOOK Cycle » Nevers) sans aucune mention de D. Olagne : président issu du registre seul, non contredit.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Usine de fixations de ski LOOK (production à Nevers, recherche et développement en Isère).",
+   "groupe": "Groupe Rossignol depuis 1994 (siège à Saint-Jean-de-Moirans, Isère)",
+   "qui_appeler": "Aucun numéro connu pour l'usine : le chercher dans un annuaire (en dernier recours seulement, appeler LOOK Cycle, autre société, au 03 86 71 63 00 pour demander le bon numéro), puis demander le directeur de l'usine de Nevers ou le contrôleur de gestion du site. À défaut, demander le responsable administratif et financier, sur place ou chez Rossignol.",
+   "vigilance": [
+    "Ne pas confondre avec LOOK Cycle (vélos et pédales, rue du Docteur-Léveillé) : autre société, autre groupe, et le 03 86 71 63 00 est le sien.",
+    "Décision probable au siège de Rossignol à Saint-Jean-de-Moirans (Isère), pas à Nevers.",
+    "Damien Olagne, président au registre, n'apparaît dans aucune autre source : vérifier qu'il est en poste."
+   ]
+  }
+ },
+ {
+  "rang": 51,
+  "siren": "307049437",
+  "nom": "GARAGE NEVERS SUD",
+  "nom_court": "Garage Nevers Sud (poids lourds, Challuy)",
+  "ville": "Challuy",
+  "adresse": "183-185 route de Lyon",
+  "code_postal": "58000",
+  "effectif": "20-49 (24 salariés en 2023)",
+  "groupe": "Financière Bongard",
+  "decision": "Probablement au niveau de la holding FINANCIERE BONGARD (présidente de la SAS), dont la localisation et le dirigeant n'ont pas été identifiés ; l'entreprise a un établissement hors Nièvre (Toulon-sur-Allier, Allier), ce qui suggère un petit groupe régional.",
+  "dirigeants": [
+   {
+    "nom": "FINANCIERE BONGARD",
+    "fonction": "Président (personne morale)"
+   }
+  ],
+  "note_contacts": "Le président est la personne morale FINANCIERE BONGARD. Son représentant n'a pas été identifié, et aucun dirigeant personne physique n'est connu. L'annuaire 118712 (https://www.118712.fr/professionnels/X0JRVl9UFQk, numéro masqué) lie FINANCIERE BONGARD aux noms 'Renault Garage Nevers Agent', 'Garage Nevers' et 'Financière Nevers' : il s'agit probablement d'une concession Renault/Dacia, à confirmer. Un lien familial avec Bongard Bazot et Fils (Jean-Luc et Eric Bongard, DG) est possible mais non vérifié. Aucun numéro trouvé dans les extraits pour le 183-185 route de Lyon à Challuy. 2e passe : 3 recherches (adresse 183 route de Lyon Challuy, agent Renault Challuy, garage route de Lyon) sans résultat : aucun garage ni numéro trouvé à cette adresse dans les extraits (seul un Speedy au 5 route de Lyon, sans lien). 2e niveau : 6 recherches, aucun numéro, site ou dirigeant personne physique trouvé. Élément nouveau : l'avis SIRENE de l'établissement 307 049 437 00030 (https://api-avis-situation-sirene.insee.fr/identification/pdf/30704943700030) indique un code NAF 45.19Z (commerce d'autres véhicules automobiles, c'est-à-dire en principe poids lourds/véhicules de plus de 3,5 t), une création en 1976 et un établissement dans un parc logistique sur la RN7 à Toulon-sur-Allier (03400). Il s'agirait donc plutôt d'un distributeur de poids lourds ou véhicules industriels (piste Renault Trucks, cohérente avec la mention « Renault Garage Nevers Agent » de l'annuaire 118712, non confirmée) que d'une concession VP. Aucune activité indexée au 183-185 route de Lyon à Challuy (seul un Speedy au 5 route de Lyon) ; aucune trace web de « Financière Bongard » ni de « Garage Nevers Sud » en dehors du SIRENE. Le lien avec Bongard Bazot et Fils reste non vérifié. Aucun DAF ni comptable trouvé, et aucun dirigeant personne physique connu (d'où dirigeant et décideur financier à null). À l'appel (numéro à obtenir via le 118 712 ou sur place) : demander quelle marque est distribuée, le nom du représentant de Financière Bongard et la personne en charge de la comptabilité. 2e niveau : 6 recherches, aucun numéro, site ou dirigeant personne physique trouvé. Élément nouveau : l'avis SIRENE de l'établissement 307 049 437 00030 (https://api-avis-situation-sirene.insee.fr/identification/pdf/30704943700030) indique un code NAF 45.19Z (commerce d'autres véhicules automobiles, c'est-à-dire en principe poids lourds/véhicules de plus de 3,5 t), une création en 1976 et un établissement dans un parc logistique sur la RN7 à Toulon-sur-Allier (03400). Il s'agirait donc plutôt d'un distributeur de poids lourds ou véhicules industriels (piste Renault Trucks, cohérente avec la mention « Renault Garage Nevers Agent » de l'annuaire 118712, non confirmée) que d'une concession VP. Aucune activité indexée au 183-185 route de Lyon à Challuy (seul un Speedy au 5 route de Lyon) ; aucune trace web de « Financière Bongard » ni de « Garage Nevers Sud » en dehors du SIRENE. Le lien avec Bongard Bazot et Fils reste non vérifié. Aucun DAF ni comptable trouvé, et aucun dirigeant personne physique connu (d'où dirigeant et décideur financier à null). À l'appel (numéro à obtenir via le 118 712 ou sur place) : demander quelle marque est distribuée, le nom du représentant de Financière Bongard et la personne en charge de la comptabilité. 3e passe : 5 recherches (route de Lyon à Challuy + poids lourds, Renault Trucks Nevers/Challuy, « Garage Nevers Sud » + Toulon-sur-Allier, Bongard + Toulon-sur-Allier RN7, « 183 route de Lyon » Challuy) : aucun numéro ni marque identifiée. Le seul concessionnaire Renault Trucks trouvé près de Nevers est Faurie Trucks (Varennes-Vauzelles) et le site Volvo de la zone est à Moulins (Relais Poids Lourds Auvergne, groupe Brochard) : aucun lien établi avec Garage Nevers Sud. L'adresse du 183-185 route de Lyon n'est indexée nulle part. Vérification : Aucun élément renseigné dans la fiche (standard, e-mail, dirigeant, adresse tous null) : rien à vérifier, aucune recherche faite.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Vente, pièces et réparation de poids lourds, véhicules agricoles et de travaux publics, et location sans chauffeur.",
+   "groupe": "Holding Financière Bongard (représentant et siège non identifiés)",
+   "qui_appeler": "Aucun numéro connu : l'obtenir par le 118 712 ou sur place, puis demander le nom du représentant de Financière Bongard et la personne qui tient la comptabilité. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Aucun numéro, site web ni dirigeant personne physique identifié.",
+    "Marque distribuée inconnue (piste Renault Trucks non confirmée) : la demander en début d'appel.",
+    "Décision probablement chez la holding Financière Bongard, dont la localisation est inconnue.",
+    "Lien avec la famille Bongard de Bongard Bazot et Fils non vérifié : ne pas l'évoquer."
+   ]
+  }
+ }
+]
