@@ -27,27 +27,24 @@
   "siren": "541880043",
   "standard": {
    "tel": "03 86 61 03 57",
-   "source": "https://les-energies-renouvelables.eu/annuaire_search_result/3169-mangeon-sa/",
+   "source": "https://www.pagesjaunes.fr/pros/00654004",
    "fiabilite": "annuaire"
   },
   "email_generique": null,
-  "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : 03 86 61 03 57 = numéro publié pour « Mangeon SA / SAS Mangeon » (couverture, plomberie, chauffage, RGE QualiPAC), mais à l'adresse 32 rue des Récollets à Nevers, et non au 24 bd Camille Dagonneau de Varennes-Vauzelles. Même activité et même agglomération (ancienne adresse probable), mais le lien n'est pas formellement confirmé : à vérifier au premier appel.",
+  "site_web": "http://www.entreprise-mangeon.fr/",
+  "note": "Deuxième passe (27/10/2026) : 03 86 61 03 57 = numéro de l'Entreprise Mangeon (couverture, plomberie, chauffage, RGE QualiPAC), publié par PagesJaunes et d'autres annuaires au 24 bd Camille Dagonneau à Varennes-Vauzelles (adresse du registre) ; une fiche plus ancienne (les-energies-renouvelables.eu) le donnait au 32 rue des Récollets à Nevers. Vérification : la fiche PagesJaunes « Entreprise Mangeon à Varennes Vauzelles » et plusieurs annuaires associent bien ce numéro à l'adresse du registre, ce qui lève le doute sur la ville ; le site entreprise-mangeon.fr afficherait le même numéro selon l'extrait de recherche (non vu directement), fiabilité laissée à « annuaire ».",
   "recherches": 2
  },
  {
   "siren": "440852895",
   "standard": {
    "tel": "06 07 18 67 67",
-   "source": "https://www.achetezaluzy.fr/1468-zinguerie-chorobate.html",
-   "fiabilite": "annuaire"
+   "source": "http://chorobate.com/infos_contacts/",
+   "fiabilite": "officielle"
   },
-  "email_generique": {
-   "email": "sarlchorobate@gmail.com",
-   "source": "https://www.achetezaluzy.fr/1468-zinguerie-chorobate.html"
-  },
-  "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : 06 07 18 67 67 = portable publié comme contact de l'entreprise sur sa fiche « CHOROBATE : Éco-artisan à Luzy » (plateforme des commerçants achetezaluzy.fr, adresse indiquée 1 rue de Pont, Luzy), avec l'adresse sarlchorobate@gmail.com. Aucun site propre trouvé.",
+  "email_generique": null,
+  "site_web": "https://chorobate.com/",
+  "note": "Deuxième passe (27/10/2026) : 06 07 18 67 67 = portable publié comme numéro de contact de l'entreprise sur sa fiche « CHOROBATE : Éco-artisan à Luzy » (plateforme des commerçants achetezaluzy.fr, adresse indiquée 1 rue de Pont, Luzy). Vérification : l'entreprise a son propre site (chorobate.com : « SARL Chorobate », créée en 2002 à Luzy, Mathieu Milleret), dont la page Infos & contacts donne ce même numéro et l'adresse du registre (51 route de Toulon, Luzy) : fiabilité relevée à « officielle » ; l'adresse gmail de la fiche achetezaluzy.fr est retirée de email_generique car elle n'a pas été vue sur le site de l'entreprise.",
   "recherches": 2
  },
  {
@@ -67,7 +64,7 @@
   },
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : 03 86 57 86 09 = boulangerie-pâtisserie Bourguignon (74 avenue du 8 Mai 1945, Coulanges-lès-Nevers) sur PagesJaunes ; une offre d'emploi (gowork.fr) donne aussi le portable 06 77 84 39 76 pour F M Bourguignon. La société a deux autres établissements, dont un à Varennes-Vauzelles.",
+  "note": "Deuxième passe (27/10/2026) : 03 86 57 86 09 = boulangerie-pâtisserie Bourguignon (74 avenue du 8 Mai 1945, Coulanges-lès-Nevers) sur PagesJaunes ; une offre d'emploi (gowork.fr) donne aussi un portable, non retenu. La société a deux autres établissements, dont un à Varennes-Vauzelles. Vérification : relecture sans recherche ; le portable issu de l'offre d'emploi est retiré de la note (numéro probablement personnel, non publié comme standard de l'entreprise).",
   "recherches": 2
  },
  {
@@ -79,19 +76,19 @@
   },
   "email_generique": null,
   "site_web": "https://www.pobi.fr/",
-  "note": "Deuxième passe (27/10/2026) : 03 86 70 94 94 = standard du groupe Pobi (290 rue de la Vallée Piquet, La Charité-sur-Loire) publié sur le site pobi.fr, dont l'éditeur est POBI Industrie ; c'est aussi le site de POBI Structures (charpentes et ossatures bois, usine sur place).",
+  "note": "Deuxième passe (27/10/2026) : 03 86 70 94 94 = standard du groupe Pobi (290 rue de la Vallée Piquet, La Charité-sur-Loire) publié sur le site pobi.fr, dont l'éditeur est POBI Industrie ; c'est aussi le site de POBI Structures (charpentes et ossatures bois, usine sur place). Vérification : confirmé, les mentions légales de pobi.fr (mises à jour en décembre 2025) indiquent « site édité par POBI, 290 rue de la Vallée Piquet, La Charité-sur-Loire, tél. 03 86 70 94 94 » avec le RCS 414 839 274 (même numéro sur la page contacts et sur PagesJaunes) : fiabilité « officielle » maintenue.",
   "recherches": 2
  },
  {
   "siren": "801649526",
   "standard": {
    "tel": "03 86 24 48 69",
-   "source": "https://trouver-ouvert.fr/cosne-cours-sur-loire/noz-859589",
+   "source": "https://www.pagesjaunes.fr/pros/56196999",
    "fiabilite": "annuaire"
   },
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : 03 86 24 48 69 = magasin Noz de Cosne-Cours-sur-Loire selon les annuaires (Trouver Ouvert, Cylex), mais à l'adresse 78 avenue du 85e de Ligne (zone Champ de la Dispute) alors que le registre et ac-franchise placent le magasin rue Henri Dunant (ouverture en mai 2024) : numéro peut-être antérieur à un déménagement, et fiches annuaires parfois anciennes. La société elle-même est une structure immobilière sans salarié : les décisions se prennent au siège du groupe Noz (Laval).",
+  "note": "Deuxième passe (27/10/2026) : 03 86 24 48 69 = magasin Noz de Cosne-Cours-sur-Loire selon les annuaires (Trouver Ouvert, Cylex), mais à l'adresse 78 avenue du 85e de Ligne (zone Champ de la Dispute) alors que le registre et ac-franchise placent le magasin rue Henri Dunant (ouverture en mai 2024) : numéro peut-être antérieur à un déménagement, et fiches annuaires parfois anciennes. La société elle-même est une structure immobilière sans salarié : les décisions se prennent au siège du groupe Noz (Laval). Vérification : le 03 86 24 48 69 figure sur la fiche PagesJaunes « Noz Cosne » (78 av. du 85e de Ligne), seul magasin Noz de la ville, enseigne de cette société ; il n'apparaît pas sur un site officiel Noz et l'écart avec la rue Henri Dunant n'est pas levé : fiabilité « annuaire » maintenue.",
   "recherches": 2
  },
  {
