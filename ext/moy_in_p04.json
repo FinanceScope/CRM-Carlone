@@ -1,0 +1,259 @@
+[
+ {
+  "rang": 192,
+  "siren": "799045968",
+  "nom": "SOCIETE ELISEE",
+  "ville": "Nevers",
+  "adresse": "33 RUE DES GRANDS PRES",
+  "code_postal": "58000",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.91B",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "L OLIVERAIE",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Caroline TERRIER",
+   "fonction": "Direction de SAS Elisée selon l'annuaire Cosmebio (présidente en titre au registre : la société L OLIVERAIE ; son lien avec cette holding n'est pas confirmé)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.cosmebio.org/en/professional-information/cosmebio-members-directory/sas-elisee-2284/"
+  },
+  "note_contacts": "SAS Elisée (33 rue des Grands Prés, Nevers) est membre de Cosmebio : cosmétiques bio vendus sous marque propre (nom de la marque non trouvé). La holding L OLIVERAIE préside aussi FRENCH BOOK DISTRIBUTION (Nevers) depuis 2021 (origami-entreprises.fr). Aucun numéro ni site trouvé dans les extraits ; la fiche Cosmebio contient peut-être des coordonnées."
+ },
+ {
+  "rang": 196,
+  "siren": "379781610",
+  "nom": "DENIS ET FILS",
+  "ville": "Guérigny",
+  "adresse": "ZI DE VILLEMENANT",
+  "code_postal": "58130",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.32A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "ROSAWOOD",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "ROSAWOOD (personne morale)",
+   "fonction": "Présidente (holding ; personne physique qui la représente non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/denis-et-fils-379781610"
+  },
+  "note_contacts": "Menuiserie / charpente (annuaires Obat : travaux.obat.fr/menuisier/nievre, et Villepratique : « Denis et Fils (sarl) - menuisier », zone industrielle de Villemenant). Aucun numéro trouvé (attention : le 03 86 90 90 13 vu dans la même zone est celui d'une autre entreprise, LAGOUTTE & FILS). L'adresse d'entrée (ZI de Villemenant) n'a pas de rue et aucune adresse plus précise n'a été trouvée. Personne physique derrière ROSAWOOD non identifiée."
+ },
+ {
+  "rang": 199,
+  "siren": "541880043",
+  "nom": "MANGEON SOC",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "24 BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.22A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Isabel AMESTONN (AMARO)",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Roland AMESTONN",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Roland AMESTONN",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/mangeon-soc-541880043"
+  },
+  "note_contacts": "3 recherches sans numéro : seule une fiche annuaire Justacoté 'Entreprise Mangeon, 24 bd Camille Dagonneau, Varennes-Vauzelles' apparaît, sans téléphone visible. Aucun site web trouvé. Dirigeants issus du registre (Pappers) uniquement."
+ },
+ {
+  "rang": 201,
+  "siren": "440852895",
+  "nom": "SARL CHOROBATE",
+  "ville": "Luzy",
+  "adresse": "51 ROUTE DE TOULON-SUR-ARROUX",
+  "code_postal": "58170",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.99C",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "Mathieu MILLERET",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mathieu MILLERET",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/440852895"
+  },
+  "note_contacts": "Maçonnerie générale (NAF 43.99C). Aucun numéro visible dans les extraits ; une fiche 118000 (https://www.118000.fr/v_luzy_58/c_entreprise-de-maconnerie) liste la société avec une autre adresse (impasse privée du Mattrait, Luzy) : numéro à vérifier sur cette fiche. Pas de site web trouvé."
+ },
+ {
+  "rang": 203,
+  "siren": "810992081",
+  "nom": "L.P.C.",
+  "ville": "Champvert",
+  "adresse": "LE PRE CHARPIN",
+  "code_postal": "58300",
+  "activite": "Fabrication d'autres produits minéraux non métalliques",
+  "code_naf": "23.64Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Valerie Michelle VINCENT (CLERET)",
+    "fonction": "Président"
+   },
+   {
+    "nom": "SOCIETE FOREZIENNE DE CONSEIL ET D'INVESTISSEMENT",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Valérie VINCENT (CLERET)",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/lpc-810992081"
+  },
+  "note_contacts": "3 recherches sans résultat (ni téléphone, ni site, ni activité identifiable). Directeur général = personne morale SOCIETE FOREZIENNE DE CONSEIL ET D'INVESTISSEMENT (holding, Forez), dont le représentant n'a pas été trouvé. Dirigeante issue du registre uniquement."
+ },
+ {
+  "rang": 204,
+  "siren": "753212240",
+  "nom": "F.M BOURGUIGNON",
+  "ville": "Coulanges-lès-Nevers",
+  "adresse": "74 AVENUE DU 8 MAI 1945",
+  "code_postal": "58660",
+  "activite": "Industries alimentaires",
+  "code_naf": "10.71C",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "SARL DES CHAMPS",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Boulangerie-pâtisserie 'Bourguignon' au 74 avenue du 8 Mai 1945, Coulanges-lès-Nevers (fiches https://www.myboulange.fr/58/coulanges-les-nevers/f-m-bourguignon-29602 et https://www.myboulange.fr/58/coulanges-les-nevers/boulangerie-patisserie-bourguignon-29599), ouverte 7j/7 ; aucun numéro visible dans les extraits. Président = personne morale SARL DES CHAMPS, dont le gérant (personne physique) n'a pas été trouvé : dirigeant_principal laissé à null."
+ },
+ {
+  "rang": 207,
+  "siren": "414839274",
+  "nom": "POBI INDUSTRIE",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "LA VALLEE PIQUET",
+  "code_postal": "58400",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "code_naf": "70.10Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "MUREBOIS 29",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Holding du groupe Pobi (La Charité-sur-Loire) : POBI INDUSTRIE est mandataire social de POBI STRUCTURES (SIREN 450625082, fabrication de charpentes/ossatures bois, 50-99 salariés, CA ~17 M€ en 2024, perte en 2024 ; commissaire aux comptes Deloitte) selon https://www.xerfi.com/etudes-par-entreprise/pobi-structures_450625082. Président = personne morale MUREBOIS 29, représentant non trouvé. Ni téléphone, ni site, ni DAF/RAF identifiés en 3 recherches. Le décideur financier du groupe est probablement chez POBI STRUCTURES : à rechercher."
+ },
+ {
+  "rang": 208,
+  "siren": "801649526",
+  "nom": "COSNE",
+  "nom_commercial": "Noz",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE HENRI DUNANT",
+  "code_postal": "58200",
+  "activite": "Activités immobilières",
+  "code_naf": "68.20B",
+  "effectif": "0 salarié",
+  "dirigeants": [
+   {
+    "nom": "Rozenn GAUTRAIS",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "LERYA S.A.",
+    "fonction": null
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Rozenn GAUTRAIS",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/cosne-801649526"
+  },
+  "note_contacts": "Société immobilière sans salarié du groupe Noz (associé/mandataire LERYA S.A., holding Noz basée à Laval) : les décisions financières se prennent au siège du groupe, pas sur place. Le magasin Noz de Cosne (rue Henri Dunant, ouvert en mai 2024 selon https://ac-franchise.com/store/noz-118/) n'a pas de numéro visible dans les extraits. Gérante issue du registre uniquement (aucune source web la reliant à Noz)."
+ },
+ {
+  "rang": 210,
+  "siren": "450023338",
+  "nom": "FINANCIERE BONGARD",
+  "ville": "Challuy",
+  "adresse": "183 ROUTE DE LYON",
+  "code_postal": "58000",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "code_naf": "64.20Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Gilles BONGARD",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Gilles BONGARD",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/financiere-bongard-450023338"
+  },
+  "note_contacts": "Holding (services financiers) : 3 recherches sans aucun résultat pertinent (ni téléphone, ni site, ni filiales identifiées). Sans lien apparent avec le fabricant de fours Bongard (Bas-Rhin). Gérant issu du registre uniquement."
+ },
+ {
+  "rang": 211,
+  "siren": "844706655",
+  "nom": "PARC +",
+  "ville": "Clamecy",
+  "adresse": "ALL CLEMENT ADER",
+  "code_postal": "58500",
+  "activite": "Activités de location et location-bail",
+  "code_naf": "77.12Z",
+  "effectif": "0 salarié",
+  "dirigeants": [
+   {
+    "nom": "Eric ROUSSEAU",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/parc-844706655"
+  },
+  "note_contacts": "Société de location sans salarié (probable structure patrimoniale/flotte). Lien possible, non confirmé, avec l'entreprise de transport routier TRANSPORTS ROUSSEAU ERIC (RCS Nevers 393635230, https://copeps.fr/actualites/sarl-rousseau-eric/). Ni téléphone ni site trouvés en 3 recherches ; président issu du registre uniquement."
+ }
+]

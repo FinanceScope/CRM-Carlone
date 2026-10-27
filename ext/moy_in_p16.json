@@ -1,0 +1,132 @@
+[
+ {
+  "rang": 419,
+  "siren": "510376668",
+  "nom": "DevCSI (Développement et Conception de Systèmes d'Information)",
+  "ville": "Saint-Père",
+  "adresse": "45 rue du Général Binot, 58200 Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "activite": "Programmation, conseil et autres activités informatiques",
+  "effectif": "6-9 salariés",
+  "contact_dirigeant": {
+   "nom": "Abdelilah Sanif",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ch.kompass.com/fr/c/devcsi/fr6170992/"
+  },
+  "note_contacts": "SARL de conseil et programmation informatique créée en 2009. Kompass (annuaire) donne le gérant et une adresse à Cosne-Cours-sur-Loire, alors que le registre situe le siège à Saint-Père (commune voisine) : l'adresse de Cosne peut être ancienne ou un autre site, à vérifier. Le gérant n'est pas confirmé par le registre (dirigeants absents de l'entrée). Ni téléphone ni site trouvés dans les extraits."
+ },
+ {
+  "rang": 420,
+  "siren": "889275467",
+  "nom": "BATI HOMME 58",
+  "ville": "Varennes-Vauzelles",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Aucune trace de BATI HOMME 58 (Varennes-Vauzelles) dans les résultats de recherche (2 recherches) : ni téléphone, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "rang": 422,
+  "siren": "341389096",
+  "nom": "PARFUMERIE L'ECHOPPE",
+  "ville": "Armes",
+  "adresse": "13 rue de la Monnaie, 58500 Clamecy",
+  "code_postal": "58500",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "note_contacts": "Parfumerie avec institut de beauté à l'étage, dans une rue piétonne de Clamecy, installée depuis plus de 30 ans (page de réservation Planity : https://www.planity.com/manucure-et-pedicure/beaute-des-pieds/58500-clamecy). Adresse du magasin d'après Xerfi (agrégateur), alors que le registre donne Armes comme commune du siège. Aucun numéro dans les extraits : une fiche 118712 (https://www.118712.fr/professionnels/X0JUXF5QHwQ) le masque derrière « Afficher le n° », mais rien ne confirme qu'elle concerne ce commerce. Dirigeant non trouvé (registre vide dans l'entrée)."
+ },
+ {
+  "rang": 423,
+  "siren": "980267769",
+  "nom": "KONUS",
+  "ville": "Nevers",
+  "adresse": "19 RUE LOUIS PERGAUD",
+  "code_postal": "58000",
+  "activite": "Sylviculture et exploitation forestière",
+  "code_naf": "02.10Z",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "MEHMET KONUS",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mehmet Konus",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/980267769"
+  },
+  "note_contacts": "SAS d'exploitation forestière créée en 2023, sans présence en ligne trouvée (2 recherches) : ni site, ni téléphone. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 425,
+  "siren": "951603471",
+  "nom": "LE FOURNIL ADRIEN",
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "9 place des Frères Mollet, 58150 Pouilly-sur-Loire",
+  "code_postal": "58150",
+  "activite": "Industries alimentaires",
+  "effectif": "3-5 salariés",
+  "note_contacts": "Boulangerie 'Le fournil adrien' ; adresse vue uniquement sur un annuaire (MyBoulange), qui indique une création en 2023 et une reprise récente. Aucun téléphone publié trouvé (3 recherches) ; dirigeant non trouvé et absent du registre fourni."
+ },
+ {
+  "rang": 426,
+  "siren": "388006702",
+  "nom": "CALISTE",
+  "ville": "Montenoison",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Aucune trace en ligne de CALISTE à Montenoison (58700) dans les résultats de recherche (3 recherches) : ni téléphone, ni dirigeant, ni adresse de rue. À vérifier sur le registre (Pappers)."
+ },
+ {
+  "rang": 427,
+  "siren": "887715563",
+  "nom": "LRV LE RELAIS VAUBAN",
+  "ville": "Saint-Didier",
+  "activite": "Restauration",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Rien trouvé au nom de LRV LE RELAIS VAUBAN à Saint-Didier (3 recherches). Piste non confirmée : un établissement 'Le Relais Vauban' (hébergement/restauration) existe à Bazoches (58190, même code postal que Saint-Didier) selon https://www.burgundy-tourism.com/sit/le-relais-vauban-9 — aucun numéro trouvé ; le 03 86 22 10 22 vu dans les résultats est celui du Château de Bazoches, pas du relais."
+ },
+ {
+  "rang": 431,
+  "siren": "834691594",
+  "nom": "LES MESANGES",
+  "ville": "Dun-les-Places",
+  "activite": "Hébergement",
+  "effectif": "0 salarié",
+  "note_contacts": "Aucun hébergement 'Les Mésanges' trouvé à Dun-les-Places (3 recherches) ; les homonymes trouvés sont dans d'autres départements (ou à Ménessaire, 21). Ni téléphone, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "rang": 432,
+  "siren": "901616516",
+  "nom": "MAISON ROLLON",
+  "ville": "Saint-Père",
+  "activite": "Industries alimentaires",
+  "effectif": "3-5 salariés",
+  "note_contacts": "Aucune trace en ligne de MAISON ROLLON à Saint-Père (58200) dans les résultats (3 recherches) : ni téléphone, ni dirigeant, ni adresse de rue."
+ },
+ {
+  "rang": 435,
+  "siren": "408194686",
+  "nom": "J.L. TRANSPORTS",
+  "ville": "Clamecy",
+  "adresse": "LA VIGNE DOREE MOULOT",
+  "code_postal": "58500",
+  "activite": "Transports terrestres et transport par conduites",
+  "code_naf": "49.41B",
+  "effectif": "50-99 salariés",
+  "dirigeants": [
+   {
+    "nom": "KERAL INVESTISSEMENTS",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Aucun téléphone ni site trouvé (3 recherches) ; seule la fiche SIRENE confirme SAS active, transport routier de fret de proximité, \"La Vigne Dorée\" Moulot 58500 Clamecy. Présidence assurée par la holding KERAL INVESTISSEMENTS : personne physique qui la dirige non trouvée. Aucun responsable financier identifié malgré 50-99 salariés."
+ }
+]

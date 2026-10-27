@@ -1,0 +1,256 @@
+[
+ {
+  "rang": 247,
+  "siren": "701880023",
+  "nom": "ENTREPRISE MARIO & LONGO",
+  "ville": "Prémery",
+  "adresse": "LES BATTANTS ROUTE DE POURCELANGES",
+  "code_postal": "58700",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.99C",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Nicolas BARATHON",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Nicolas BARATHON",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-mario-longo-701880023"
+  },
+  "note_contacts": "3 recherches sans résultat (le nom est noyé par des résultats « Super Mario »). Aucun numéro ni site trouvé. Dirigeant repris du registre (deja), non confirmé par une source récente."
+ },
+ {
+  "rang": 248,
+  "siren": "842208597",
+  "nom": "RF ELEC",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "7 RUE JACQUES MONOD",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.21A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Redouane FRIFRA",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Redouane FRIFRA",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rf-elec-842208597"
+  },
+  "note_contacts": "Aucun numéro trouvé en 3 recherches. Mappy cite « SAS RF Elec, 47 bis rue Henri Bouquillard, 58000 Nevers » (simple suggestion de proximité sur https://fr.mappy.com/poi/60b8d1a4f83b3f0ba2f38e57), adresse différente du siège au registre (7 rue Jacques Monod, Varennes-Vauzelles) : probablement ancienne adresse ou autre local, à vérifier. Dirigeant repris du registre (deja)."
+ },
+ {
+  "rang": 249,
+  "siren": "392638243",
+  "nom": "SAS VANNIER",
+  "ville": "Saint-Martin-d'Heuille",
+  "adresse": "2 ROUTE DE NEVERS",
+  "code_postal": "58130",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "code_naf": "25.11Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Chryss VANNIER",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Yoann VANNIER",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Chryss VANNIER",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-vannier-392638243"
+  },
+  "note_contacts": "3 recherches sans résultat sur l'entreprise (seul le numéro de la mairie de Saint-Martin-d'Heuille ressort, non retenu). Dirigeants repris du registre (deja), non confirmés par une source récente."
+ },
+ {
+  "rang": 250,
+  "siren": "505017194",
+  "nom": "AVIPUR",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "24 RUE DU BENGY",
+  "code_postal": "58640",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "code_naf": "81.29A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Alexandre LEFEVRE",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alexandre LEFEVRE",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/avipur-505017194"
+  },
+  "note_contacts": "Avipur est un réseau national de sociétés de dératisation / désinsectisation / dépigeonnisation / hygiène du bâtiment (une trentaine de filiales régionales selon https://www.lejournaldesentreprises.com/article/nord-pas-de-calais-avipur-publie-ses-resultats-105879, article de 2014-2015). Aucune fiche ni numéro trouvés pour l'entité de Varennes-Vauzelles en 3 recherches. Dirigeant repris du registre (deja)."
+ },
+ {
+  "rang": 251,
+  "siren": "323448175",
+  "nom": "SOCIETE CLAMECYCOISE D'AMEUBLEMENT",
+  "ville": "Clamecy",
+  "adresse": "LA GALETTE",
+  "code_postal": "58500",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.59A",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Philippe Adolphe Armand ROH",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Philippe Adolphe Armand ROH",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/societe-clamecycoise-dameublement-323448175"
+  },
+  "note_contacts": "Le magasin exploité semble être « Les Experts Meubles Lecreux Clamecy » (enseigne Les Experts Meubles, réseau de magasins franchisés), au lieu-dit La Galette, route de Pressures (fiche 118000 : https://www.118000.fr/e_C0072544906). Rattachement à la société déduit de l'adresse identique (La Galette, Clamecy), non confirmé. Aucun numéro visible dans les extraits (118000, Tiendeo). Tiendeo indique une autre adresse, 8 route d'Orléans à Clamecy (https://www.tiendeo.fr/Magasins/clamecy/les-experts-meubles-route-d-orleans/145942), probablement ancienne. Dirigeant repris du registre (deja)."
+ },
+ {
+  "rang": 254,
+  "siren": "820232791",
+  "nom": "ADAPEI 58 SAS",
+  "ville": "Urzy",
+  "adresse": "120 ROUTE DE BEAUREGARD",
+  "code_postal": "58130",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "code_naf": "82.99Z",
+  "effectif": "20-49 salariés",
+  "note_contacts": "Filiale (SAS) de l'association ADAPEI de la Nièvre, dont le siège est à la même adresse (120 route de Beauregard, 58130 Urzy : IME, ESAT, foyer de vie, MAS, FAM) selon https://www.pour-les-personnes-agees.gouv.fr/annuaire-association-parents-usagers-familles-soutien/nievre-58. Cet annuaire n'affiche qu'un numéro de portable pour l'association, non retenu (pas un standard, peut être personnel). Aucun dirigeant au registre (deja vide) et aucun DAF / directeur général de l'ADAPEI de la Nièvre trouvé en 3 recherches. Site officiel non confirmé dans les résultats."
+ },
+ {
+  "rang": 257,
+  "siren": "889322970",
+  "nom": "ESSIAN",
+  "ville": "Nevers",
+  "adresse": "8 RUE ANDRE LHOTE",
+  "code_postal": "58000",
+  "activite": "Activités pour la santé humaine",
+  "code_naf": "86.23Z",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "Sophie COLLOMB",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Laurent PELEYRAS",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent PELEYRAS",
+   "fonction": "Gérant (cogérant avec Sophie COLLOMB)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/essian-889322970"
+  },
+  "note_contacts": "Les deux cogérants apparaissent comme chirurgiens-dentistes à Nevers dans l'annuaire keskeces (https://www.keskeces.com/dentiste/58000-marzy.html) : ESSIAN est probablement leur structure d'exercice dentaire. Aucun numéro trouvé en 3 recherches (un « cabinet dentaire » est référencé au 10 rue André Lhote sur acceslibre, sans nom de praticien, rattachement non confirmé). Ordre des cogérants arbitraire ; dirigeants repris du registre (deja)."
+ },
+ {
+  "rang": 264,
+  "siren": "495186884",
+  "nom": "MENUISERIE PINO",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "62 RUE DE GERIGNY",
+  "code_postal": "58400",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.32A",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Olivier PINO MARTINEZ",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Olivier PINO MARTINEZ",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/menuiserie-pino-495186884"
+  },
+  "note_contacts": "Entreprise listée sur Obat (https://travaux.obat.fr/menuiserie/nievre : MENUISERIE PINO, La Charité-sur-Loire, menuisier / charpentier / ébéniste) mais sans coordonnées. Aucun numéro trouvé en 3 recherches. Dirigeant repris du registre (deja)."
+ },
+ {
+  "rang": 266,
+  "siren": "920839941",
+  "nom": "S.S.P. SERVICE SPORT PROMOTION",
+  "ville": "Decize",
+  "adresse": "113 AVENUE DE VERDUN",
+  "code_postal": "58300",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "code_naf": "45.20A",
+  "effectif": "0 salarié",
+  "dirigeants": [
+   {
+    "nom": "Julien Frederic SAUMET",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Julien Frederic SAUMET",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ssp-service-sport-promotion-920839941"
+  },
+  "note_contacts": "3 recherches sans résultat (ni le nom, ni le gérant, ni le 113 avenue de Verdun à Decize n'apparaissent). Société récente sans salarié. Dirigeant repris du registre (deja)."
+ },
+ {
+  "rang": 267,
+  "siren": "403937048",
+  "nom": "ETS MARTIN SAS",
+  "ville": "Fourchambault",
+  "adresse": "25 RUE GAMBETTA",
+  "code_postal": "58600",
+  "activite": "Autres services personnels",
+  "code_naf": "96.03Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "POMPES FUNEBRES CATON",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Pascal CATON",
+   "fonction": "Président de la société Pompes Funèbres Caton (présidente d'ETS MARTIN SAS) - rattachement probable, à confirmer",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.cher.gouv.fr/contenu/telechargement/29897/200160/file/recueil-18-2021-07-006-recueil-des-actes-administratifs-special.pdf"
+  },
+  "note_contacts": "Exploite l'agence « Pompes Funèbres Martin », 25 rue Gambetta, Fourchambault (fiche 118000 : https://www.118000.fr/v_fourchambault_58/c_pompes-funebres-inhumation-et-cremation, numéro non visible dans l'extrait ; permanence 24h/24 annoncée). Président au registre : la société POMPES FUNEBRES CATON (agences à Prémery, Donzy, La Charité-sur-Loire, Cosne). M. Pascal Caton est cité comme président de Pompes Funèbres Caton dans un arrêté de la préfecture du Cher (2021, établissement d'Argent-sur-Sauldre) et comme responsable dans le Loiret : identité de la société non vérifiée par SIREN."
+ }
+]

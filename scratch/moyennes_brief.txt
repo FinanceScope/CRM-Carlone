@@ -1,0 +1,21 @@
+Context. Business partners based in Cosne-Cours-sur-Loire (Nièvre, France) will phone companies of the Nièvre to sell them original artworks (tax deduction of article 238 bis AB of the CGI). The companies in this file are small and medium firms of the Nièvre (ranks 101 to 500 of the CRM: shops, dealerships, craftsmen, transport, building, services, SMEs). One shallow research pass found NO phone number for them. Your job: find the number to call, plus the website and a generic e-mail when published.
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of company records (name, town, address, activity, registry managers, earlier research notes in "note_contacts": read them first, do not repeat what failed, and never return a number the notes say belongs to another company).
+
+Search with WebSearch (load it with ToolSearch; WebFetch and curl are blocked). At most 2 searches per company and at most {BUDGET} for the whole file; use mode "extended" for the second search of a company when the first returns nothing useful. Good queries: "<name> <town> téléphone", "<trading name or brand> <town>", the company's own site (contact, mentions légales), the network's store locator (franchise, cooperative, brand dealer), Pages Jaunes. A company often trades under another name than its legal name: the registry name, the manager's name and the town together help.
+
+Rules:
+- Only a number published with this company's name (legal or trading name) AND its town. Never a namesake (same surname, other town), never another shop of the same brand, never a private mobile of an individual unless the company publishes it as its contact number.
+- Reliability ("fiabilite"): "officielle" = on the company's own website or its network's official page for this shop; "annuaire" = directories only (Pages Jaunes, Waze, Infobel…); "ancienne" = source older than 2022.
+- If "opposition_prospection" is true: company-level contacts only.
+
+Output: write valid JSON (UTF-8, indent 1) to <racine du dépôt>/ext/{OUTFILE}: an array, one object per input record, in input order:
+{"siren": "...",
+ "standard": {"tel": "0X XX XX XX XX", "source": "url", "fiabilite": "officielle" | "annuaire" | "ancienne"} or null,
+ "email_generique": {"email": "...", "source": "url"} or null (only a generic address published by the company; never guess one),
+ "site_web": "url" or null,
+ "note": one or two French sentences starting with "Deuxième passe (27/10/2026) : " — the number found and what it is (shop, office, workshop, trading name), or what was searched without result,
+ "recherches": number of searches used}
+No other keys. Then check the file with:
+python3 -I -c "import json,re,sys; d=json.load(open(sys.argv[1])); i=json.load(open(sys.argv[2])); assert [x['siren'] for x in d]==[x['siren'] for x in i]; [print(x['siren'],'format') for x in d if x.get('standard') and not re.fullmatch(r'0\d( \d\d){4}', x['standard'].get('tel') or '')]; [print(x['siren'],'note') for x in d if not str(x.get('note','')).startswith('Deuxième passe')]; print(len(d),'fiches,', sum(1 for x in d if x.get('standard')),'numéros,', sum(x.get('recherches',0) for x in d),'recherches')" <output path> <input path>
+and fix every line it prints. Do not modify any other file.

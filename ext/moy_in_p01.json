@@ -1,0 +1,310 @@
+[
+ {
+  "rang": 102,
+  "siren": "834179566",
+  "nom": "SOLILOIRE",
+  "ville": "Nevers",
+  "adresse": "44 T BOULEVARD MARECHAL JUIN",
+  "code_postal": "58000",
+  "activite": "Activités pour la santé humaine",
+  "code_naf": "86.22A",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "Laurent BAIL",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Nicolas CHAILLET",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Mehdi CHERFAOUI",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Marc FOINANT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Marc FOINANT",
+   "fonction": "Co-gérant (un des 4 co-gérants inscrits au registre) — médecin radiologue",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://lemedecin.fr/nevers/selarl-soliloire/radiologue/docteur-foinant-marc/813ee9edb2e37f952349df1c38242cb9-2/pro/"
+  },
+  "note_contacts": "SELARL de médecins radiologues (imagerie médicale) exerçant sur plusieurs sites à Nevers : 44 ter bd Maréchal Juin, 49 bd Jérôme Trésaguet (centre d'imagerie de la Polyclinique du Val de Loire) et IRM du Centre hospitalier, 1 av. Patrick Guillot (sources lemedecin.fr, ex. https://lemedecin.fr/nevers/selarl-soliloire/radiologue/docteur-rouquette-christophe/4cacee3439484ed59822e90c312bdfc1-2/pro/). 4 co-gérants au registre (Laurent BAIL, Nicolas CHAILLET, Mehdi CHERFAOUI, Marc FOINANT), pas de hiérarchie connue. Un résumé de recherche cite un site radiologie-nevers.com, non vérifié (non retenu). Aucun téléphone de secrétariat trouvé dans les extraits."
+ },
+ {
+  "rang": 103,
+  "siren": "493717102",
+  "nom": "TC VRAC",
+  "nom_commercial": "TC Transports",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 RUE DE LA GUETTE",
+  "code_postal": "58340",
+  "activite": "Transports terrestres et transport par conduites",
+  "code_naf": "49.41A",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "HOLDING CASSIER",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Aucun téléphone ni dirigeant personne physique trouvé (4 requêtes). Présidente : personne morale HOLDING CASSIER, dont le représentant n'a pas été identifié. Au même 45 rue de la Guette (Cercy-la-Tour), la fiche SIRENE d'une autre société, TC 58 (SIRET 338 339 146 00023), porte aussi l'enseigne TC TRANSPORTS (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023) : TC VRAC semble faire partie d'un petit groupe familial Cassier (une société Cassier Combustible est aussi citée à Cercy-la-Tour dans le recueil des actes de la préfecture de janvier 2024). À compléter par PagesJaunes / appel."
+ },
+ {
+  "rang": 110,
+  "siren": "500113691",
+  "nom": "LE PRIMEUR DE NEVERS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "LES COMMAILLES",
+  "code_postal": "58640",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.21Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "SARL PROPART",
+    "fonction": "Associé indéfiniment et solidairement responsable"
+   },
+   {
+    "nom": "PROSOL EXPLOITATION",
+    "fonction": "Gérant et associé indéfiniment responsable"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Paul Mochet",
+   "fonction": "Président-directeur général du groupe Prosol (maison mère de PROSOL EXPLOITATION, gérante et associée indéfiniment responsable de la société) — date de nomination non précisée dans l'extrait",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+  },
+  "note_contacts": "Société d'exploitation (rayon fruits et légumes) du magasin Grand Frais de Varennes-Vauzelles (adresse vue sur un annuaire participatif au-magasin.fr, rapprochement avec la société déduit de l'adresse « Les Commailles » et de la gérance PROSOL EXPLOITATION). Gérance : PROSOL EXPLOITATION (SIREN 484912928, Chaponnay), présidée par ZF INVEST (personne morale) ; décisions financières centralisées au siège du groupe Prosol à Chaponnay (Rhône). Ardian a annoncé en décembre 2025 la cession de sa participation majoritaire dans Prosol à Apollo (finalisation attendue au 2e trimestre 2026, https://www.boursorama.com/bourse/actualites/apollo-acquisition-d-une-participation-majoritaire-dans-prosol-b858d6405ea08e4b5aaf09533e696ce1). Aucun téléphone du magasin trouvé dans les extraits (3 requêtes). Prospect peu pertinent (filiale de grand groupe)."
+ },
+ {
+  "rang": 111,
+  "siren": "400672762",
+  "nom": "FOUCHER-LEBRUN VAL DE LOIRE",
+  "ville": "Alligny-Cosne",
+  "adresse": "29 ROUTE DE BOUHY",
+  "code_postal": "58200",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.34Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Gabriel PICARD",
+    "fonction": "Président du conseil d’administration"
+   },
+   {
+    "nom": "Marc VAPPEREAU",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Francine PICARD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Liliane PICARD (REBOURS)",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Marc VAPPEREAU",
+   "fonction": "Directeur général (registre) — successeur de Jean Mounard à la tête opérationnelle de la maison selon un importateur",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://opimian.ca/maison-foucher-lebrun/"
+  },
+  "note_contacts": "Maison Foucher-Lebrun : petit négociant en vins de Loire (Sancerre, Pouilly-Fumé, Touraine…) fondé en 1921, situé à Alligny-Cosne ; Jean Mounard (négociant parisien) entré fin 2009, Marc Vappereau lui a succédé selon l'importateur Opimian (https://opimian.ca/maison-foucher-lebrun/ ; historique aussi sur https://creamwine.com/brand.php?id=294). Aucun téléphone, e-mail ni site officiel trouvé dans les extraits (3 requêtes, dont une interprétée comme une recherche de personne). SA à conseil d'administration : président du CA Gabriel PICARD (registre), sans source publique récente sur son rôle."
+ },
+ {
+  "rang": 113,
+  "siren": "449840974",
+  "nom": "LES JARDINS DE NEVERS",
+  "ville": "Nevers",
+  "adresse": "RUE HENRY BOUQUILLARD",
+  "code_postal": "58000",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.21Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "PROSOL EXPLOITATION",
+    "fonction": "Gérant et associé indéfiniment et solidairement responsable"
+   },
+   {
+    "nom": "PROPART",
+    "fonction": "Associé indéfiniment et solidairement responsable"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Paul Mochet",
+   "fonction": "Président-directeur général du groupe Prosol (maison mère de PROSOL EXPLOITATION, gérante et associée indéfiniment responsable de la société) — date de nomination non précisée dans l'extrait",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.lejournaldesentreprises.com/breve/un-nouveau-president-pour-prosol-2097136"
+  },
+  "note_contacts": "Société d'exploitation du magasin Grand Frais de Nevers, rue Henri Bouquillard (magasin référencé à cette adresse sur https://www.au-magasin.fr/58640-varennes-vauzelles/grand-frais-93988.html ; rapprochement déduit de l'adresse et de la gérance PROSOL EXPLOITATION). Gérance : PROSOL EXPLOITATION (SIREN 484912928, Chaponnay), présidée par ZF INVEST (personne morale, https://www.lejournaldesentreprises.com/entreprise/prosol-exploitation) ; finance centralisée au siège Prosol. Aucun téléphone du magasin trouvé (2 requêtes, la 2e mutualisée avec LE PRIMEUR DE NEVERS). Prospect peu pertinent (filiale de grand groupe)."
+ },
+ {
+  "rang": 115,
+  "siren": "929918241",
+  "nom": "AQUACLAIRE",
+  "ville": "Nevers",
+  "adresse": "ZI SAINT 24 RUE GEORGES DUFAUD",
+  "code_postal": "58000",
+  "activite": "Collecte et traitement des eaux usées",
+  "code_naf": "37.00Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Jérôme Robert MALUS",
+    "fonction": "Président du conseil d’administration"
+   },
+   {
+    "nom": "David VERHILLE",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Sandrine AZEMARD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Bénédicte AMELAINE (BASTIEN)",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "David VERHILLE",
+   "fonction": "Directeur général (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+  },
+  "note_contacts": "Aquaclaire est la SemOp (société d'économie mixte à opération unique, capital 500 000 €) créée le 12 juin 2024 entre Nevers Agglomération et Veolia Eau – Compagnie Générale des Eaux pour exploiter le service public d'assainissement (eaux usées et pluviales) de l'agglomération (avis d'attribution BOAMP https://www.boamp.fr/telechargements/FILES/PDF/2024/07/24-83827.pdf). Finance probablement pilotée côté Veolia (actionnaire opérateur). Aucun standard ni e-mail propre trouvé dans les extraits (3 requêtes) ; le numéro 03 86 61 81 60 vu sur selectra est celui de La Neversoise (régie eau potable), autre entité, non retenu. Prospect peu pertinent (société à capitaux publics/Veolia)."
+ },
+ {
+  "rang": 117,
+  "siren": "811119403",
+  "nom": "EL FAYZI",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE DES FONDEURS",
+  "code_postal": "58200",
+  "activite": "Transports terrestres et transport par conduites",
+  "code_naf": "49.41B",
+  "effectif": "20-49 salariés",
+  "groupe": "EF Transports (holding de la famille El Fayzi, Cosne)",
+  "dirigeants": [
+   {
+    "nom": "Ibrahim EL FAYZI",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Mustapha EL FAYZI",
+    "fonction": "Gérant"
+   }
+  ],
+  "note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de niveau société sont recherchées ; aucun site web de l'entreprise trouvé, donc aucun décideur nommé ici (le registre liste deux co-gérants, déjà dans « deja »). Aucun téléphone, e-mail ni site trouvé dans les extraits (3 requêtes, les résultats renvoient vers des homonymes marocains ou des pages sans rapport). Une offre France Travail de chauffeur poids lourd à Cosne-Cours-sur-Loire (https://candidat.francetravail.fr/offres/recherche/detail/191CNNW) ne nomme pas l'employeur. Vérifier l'opposition avant tout appel.",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 122,
+  "siren": "749981304",
+  "nom": "MALVICHE DISTRIBUTION",
+  "ville": "Saint-Martin-du-Puy",
+  "adresse": "1/3 ROUTE DE CHALAUX",
+  "code_postal": "58140",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.73A",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Michel MALVICHE",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Jocelyne BARGEOT-MALVICHE (BARGEOT)",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Karine MALVICHE",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Sophie RADEL (MALVICHE)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Michel MALVICHE",
+   "fonction": "Président (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/malviche-distribution-749981304"
+  },
+  "note_contacts": "SAS créée le 1er février 2012, commerce de gros de bois et de matériaux de construction, 2 établissements (annuaire des entreprises : https://production-gra-01.annuaire-entreprises.infra.api.gouv.fr/documents/749981304). Un résumé de recherche mentionnait un établissement à Dijon, non confirmé par la recherche suivante. Aucun téléphone, e-mail ni site trouvé dans les extraits (3 requêtes). Société familiale : 1 président et 3 directrices générales au registre (dont Sophie RADEL)."
+ },
+ {
+  "rang": 138,
+  "siren": "441254968",
+  "nom": "R.C.H. (REGION CENTRE HABITAT)",
+  "nom_commercial": "Groupe Le Carré",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "LES CHAMONDS",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.29A",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "Fabrice NINOT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Fabrice NINOT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/rch-region-centre-habitat-441254968"
+  },
+  "note_contacts": "Aucun résultat pour « Groupe Le Carré », « Région Centre Habitat » ou le gérant à Varennes-Vauzelles (3 recherches) : ni standard, ni site, ni email trouvés. Dirigeant d'après le registre uniquement. Adresse d'entrée = lieu-dit Les Chamonds (pas de numéro de rue)."
+ },
+ {
+  "rang": 139,
+  "siren": "326891702",
+  "nom": "ETABLISSEMENTS GUILBAULT",
+  "ville": "Saint-Pierre-le-Moûtier",
+  "adresse": "10 AVENUE RAYMOND COUTIN",
+  "code_postal": "58240",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.61Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Frederic GUILBAULT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Frederic GUILBAULT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/etablissements-guilbault-326891702"
+  },
+  "note_contacts": "Aucun résultat indexé pour Ets Guilbault à Saint-Pierre-le-Moûtier (nom, adresse avenue Raymond Coutin, grossiste 58240 : 3 recherches) : ni standard, ni site, ni email. Dirigeant d'après le registre uniquement."
+ }
+]

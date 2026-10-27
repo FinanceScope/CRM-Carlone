@@ -1,0 +1,216 @@
+[
+ {
+  "rang": 387,
+  "siren": "819284621",
+  "nom": "AUX DEUX COQS",
+  "ville": "Chaumot",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches) ; aucun dirigeant dans le registre fourni ni trouvé. Adresse de rue à Chaumot (58800) non trouvée."
+ },
+ {
+  "rang": 388,
+  "siren": "922366125",
+  "nom": "MenAuto 58",
+  "ville": "Corbigny",
+  "adresse": "38 AVENUE SAINT-JEAN",
+  "code_postal": "58800",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "code_naf": "45.20A",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "MENSOUR MAKAREVIC",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "MENSUR MAKAREVIC",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mensur Makarevic",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/menauto-58-922366125"
+  },
+  "note_contacts": "Aucune trace en ligne du garage (3 recherches, y compris par l'adresse 38 avenue Saint-Jean). Le registre cite deux gérants « Mensour » et « Mensur » Makarevic, probablement la même personne sous deux orthographes."
+ },
+ {
+  "rang": 389,
+  "siren": "827816042",
+  "nom": "VSC VINS STEPHANE CHARLOT",
+  "ville": "Corvol-l'Orgueilleux",
+  "adresse": "53 GRANDE RUE",
+  "code_postal": "58460",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.34Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "STEPHANE CHARLOT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Stéphane Charlot",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/vsc-vins-stephane-charlot-827816042"
+  },
+  "note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches). Dirigeant repris du registre seulement."
+ },
+ {
+  "rang": 390,
+  "siren": "441775632",
+  "nom": "ACD",
+  "ville": "Bulcy",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "effectif": "6-9 salariés",
+  "note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches : nom + Bulcy, SIREN, gérant) ; aucun dirigeant dans le registre fourni ni trouvé. Activité d'intermédiaire financier/assurance : vérifier au registre ORIAS. Adresse de rue à Bulcy non trouvée."
+ },
+ {
+  "rang": 391,
+  "siren": "918444506",
+  "nom": "L'ALISHA",
+  "nom_commercial": "LE KASHMIR",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "74 BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "activite": "Restauration",
+  "code_naf": "56.10A",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "GHAFOOR ALAM",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Ghafoor Alam",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/918444506"
+  },
+  "note_contacts": "Restaurant (enseigne Le Kashmir). Un annuaire (https://www.justacote.com/varennes-vauzelles-58640/restaurant/) liste « L'alisha » au 74 boulevard Camille Dagonneau, mais sans numéro dans l'extrait. Aucun téléphone trouvé (3 recherches)."
+ },
+ {
+  "rang": 392,
+  "siren": "853573731",
+  "nom": "H2MOTRONICS (H2MOTRONICS ADVANCED RESEARCH)",
+  "ville": "Nevers",
+  "adresse": "BATIMENT L'INKUB 7 RUE DU 13E DE LIGNE",
+  "code_postal": "58000",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "code_naf": "71.12B",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "TEXYS HD",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Philippe Leuwers",
+   "fonction": "Président de Texys Group ; la présidente de H2Motronics est la holding TEXYS HD (représentant légal de la holding non confirmé)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.hydrogenfuelnews.com/insights/org/texys-group/"
+  },
+  "note_contacts": "Bureau d'études filiale de Texys Group (capteurs embarqués, ~45 salariés, Nevers/Varennes-Vauzelles), créé en 2019 à l'incubateur L'Inkub de Nevers ; projet de moto de course à hydrogène H2K (https://www.lerepairedesmotards.com/actualites/2022/moto-sportive-hydrogene-h2-motronics-h2k.php). Orthographe « Leuweres » aussi rencontrée. Sources de direction datées 2021-2022, à confirmer. Pas de DAF/RAF trouvé côté Texys ; aucun téléphone ni site propre trouvés (passer par le standard de Texys Group)."
+ },
+ {
+  "rang": 393,
+  "siren": "804505493",
+  "nom": "QUALIJURIS",
+  "ville": "Nevers",
+  "adresse": "2 AVENUE SAINT JUST",
+  "code_postal": "58000",
+  "activite": "Activités juridiques et comptables",
+  "code_naf": "69.10Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "ALEXANDRE JOËL SERGE LOVATO",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alexandre Lovato",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/804505493"
+  },
+  "note_contacts": "Aucune trace en ligne de l'entreprise ni du dirigeant (3 recherches). Dirigeant repris du registre seulement (nom complet : Alexandre Joël Serge Lovato)."
+ },
+ {
+  "rang": 394,
+  "siren": "531191898",
+  "nom": "XENT",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "PARC DU VAL DE LOIRE RUE DES FONDEURS",
+  "code_postal": "58200",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "code_naf": "64.20Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "THIERRY DARRIGADE",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Thierry Darrigade",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/xent-531191898"
+  },
+  "note_contacts": "Aucune trace en ligne de l'entreprise ni du dirigeant (3 recherches). Probable holding (services financiers) domiciliée Parc du Val de Loire, rue des Fondeurs. Dirigeant repris du registre seulement."
+ },
+ {
+  "rang": 395,
+  "siren": "803677749",
+  "nom": "CAMORELLO (CAVIAR ET COQUILLETTES)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "14 RUE DENIS PAPIN",
+  "code_postal": "58640",
+  "activite": "Restauration",
+  "code_naf": "56.10C",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "AURELIEN RAIMOND",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Aurélien Raimond",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/803677749"
+  },
+  "note_contacts": "Restaurant rapide « Caviar et Coquillettes » confirmé au 14 rue Denis Papin par acceslibre (https://acceslibre.beta.gouv.fr/app/58-varennes-vauzelles/a/restauration-rapide/erp/caviar-et-coquillettes/) et Truckfly, mais aucun téléphone dans les extraits (3 recherches)."
+ },
+ {
+  "rang": 398,
+  "siren": "980519524",
+  "nom": "SAS MENUISERIE LEMAITRE",
+  "ville": "Fléty",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "3-5 salariés",
+  "note_contacts": "Aucune source trouvée pour cette SAS (SIREN 980519524, siège à Fléty) ni pour son dirigeant. Piste non confirmée : un annuaire liste une menuiserie « LEMAITRE FRANCOIS » (autre SIRET : 430 020 255 00021), rue Ledru-Rollin à Luzy (commune voisine), tél. 03 86 30 04 67 (https://les-energies-renouvelables.eu/annuaire_search_result/17968-lemaitre-francois/, annuaire non contrôlé). C'est peut-être l'entreprise individuelle qui a précédé la SAS, mais aucun lien n'est établi. Numéro donc non repris en standard."
+ }
+]
