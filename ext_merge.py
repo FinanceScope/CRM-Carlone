@@ -757,6 +757,8 @@ for f in sorted(glob.glob(EXT + '/contacts_out_*.json')):
         if isinstance(eg, dict) and eg.get('email') and eg.get('source'):
             EMAIL_SOURCE.setdefault(sid(e.get('siren')), set()).add(eg['email'].strip().lower())
 EMAIL_ECARTE = {'contact@groupesimonneau.fr'}   # introuvable, domaine du groupe différent (vérification du rang 15)
+# source fragile (étape 2 des rangs 101 à 500) : document hébergé par un tiers, page de session ancienne, page LinkedIn sous l'ancien nom
+EMAIL_A_CONFIRMER = {'borflex-corvol@borflex.fr', 'bourgogneformationincendie@wanadoo.fr', 'contact@sarl-charpenet.fr'}
 TEL_RE = re.compile(r'(?:\+33\s?(?:\(0\)\s?)?|0)[1-9](?:[\s.-]?\d{2}){4}')
 EMAIL_RE = re.compile(r'[\w.+-]+@[\w-]+(?:\.[\w-]+)+')
 def sans_annotation(v, rx, propre, quoi, c):
@@ -773,6 +775,7 @@ for c in base + ext:
     c['email'] = sans_annotation(c.get('email'), EMAIL_RE, str, 'E-mail', c)
     if c.get('email') and c['email'].strip().lower() in EMAIL_ECARTE: c['email'] = None; c.pop('email_a_confirmer', None)
     if c.get('email') and c['email'].strip().lower() not in EMAIL_SOURCE.get(sid(c.get('siren')), set()): c['email_a_confirmer'] = True
+    if c.get('email') and c['email'].strip().lower() in EMAIL_A_CONFIRMER: c['email_a_confirmer'] = True
     for pp in [c.get('contact_dirigeant'), c.get('contact_finance')] + list(c.get('autres_contacts') or []):
         if not isinstance(pp, dict): continue
         for kk, rx, pr in (('tel_direct', TEL_RE, clean_tel), ('tel', TEL_RE, clean_tel), ('email', EMAIL_RE, str)):

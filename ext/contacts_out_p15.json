@@ -1,0 +1,97 @@
+[
+ {
+  "siren": "517424685",
+  "standard": {
+   "tel": "03 86 37 94 34",
+   "source": "https://www.pagesjaunes.fr/pros/56549312",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : 03 86 37 94 34 = ligne du bureau de tabac « La Tabatière », 88 Grande Rue à Prémery (fiche Pages Jaunes, repris par Bottin) ; pas de site propre.",
+  "recherches": 2
+ },
+ {
+  "siren": "477803357",
+  "standard": {
+   "tel": "03 86 21 47 74",
+   "source": "https://www.bourgogne-formation-incendie.fr/nouveau-locaux-bourgogne-formation-incendie/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": {
+   "email": "bourgogneformationincendie@wanadoo.fr",
+   "source": "https://www.bourgogne-formation-incendie.fr/evenement/s-s-i-a-p-1-initial-10-jours-2/"
+  },
+  "site_web": "https://www.bourgogne-formation-incendie.fr/",
+  "note": "Deuxième passe (27/10/2026) : 03 86 21 47 74 = centre de formation BFI, 19 rue Edmé Laborde à Nevers, donné sur le site officiel bourgogne-formation-incendie.fr ; l'adresse wanadoo figure sur une fiche de session ancienne du site, à confirmer. Vérification : numéro non confirmé (2 recherches, dont une sur le numéro exact : aucune page du site ni annuaire ne le reprend, seul le registre confirme l'adresse 19 rue Edmée Laborde), fiabilité ramenée de « officielle » à « annuaire » ; l'e-mail wanadoo, non revu dans les résultats, reste à confirmer.",
+  "recherches": 2
+ },
+ {
+  "siren": "884750811",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé ; Kompass situe la SARL au Domaine du Réveillon à Entrains-sur-Nohain (lieu de réception et de séminaires), piste à suivre via le domaine.",
+  "recherches": 2
+ },
+ {
+  "siren": "922361506",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé ; holding (SAS) dont le siège est en fait 10 chemin des Saules à La Marche (58400) et non à Bulcy, présidée par Emmanuel Esnault (registre).",
+  "recherches": 2
+ },
+ {
+  "siren": "399006063",
+  "standard": {
+   "tel": "03 86 68 50 69",
+   "source": "https://www.de-oliveira-couverture.fr/mentions-legales.html",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.de-oliveira-couverture.fr/",
+  "note": "Deuxième passe (27/10/2026) : 03 86 68 50 69 = ligne de l'entreprise Amandio de Oliveira Couverture (gérant Vincent Deplanque), donnée sur son site et sur Pages Jaunes. Ne pas confondre avec l'homonyme « De Oliveira Antonio et Fils » à Chaulgnes, qui a d'autres numéros. Vérification : numéro confirmé (3 recherches) sur les mentions légales du site (18 rue du Lavoir, Saint-Firmin, Vincent Deplanque), sur Pages Jaunes (fiche « Amandio De Oliveira », Saint-Firmin) et sur Bottin ; « officielle » maintenue.",
+  "recherches": 2
+ },
+ {
+  "siren": "952823607",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé ; Kompass donne l'adresse 25 route de Corcelles à Marzy et un annuaire cite Antonin Millot comme dirigeant (non vérifié au registre).",
+  "recherches": 2
+ },
+ {
+  "siren": "931083836",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé ; « Délivrer des mots » semble être une librairie de Decize (citée par un éditeur et le festival Festi rue), sans téléphone publié à son nom dans les résultats.",
+  "recherches": 2
+ },
+ {
+  "siren": "927460154",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé : les recherches sur le nom, l'adresse rue des Sablons et le gérant ne renvoient qu'à la devise latine.",
+  "recherches": 2
+ },
+ {
+  "siren": "922199443",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : l'entreprise a une fiche Pages Jaunes (https://www.pagesjaunes.fr/pros/62495284) et une fiche RGE avec téléphone et adresse Gmail, mais le numéro n'apparaît pas dans les extraits : à relever sur ces fiches.",
+  "recherches": 2
+ },
+ {
+  "siren": "404439200",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro à Armes ; le seul « Automéca » trouvé est un garage au 3 bis rue Émile Rebouleau à Clamecy (03 86 24 48 44, annuaires), non retenu faute de lien établi avec Bourgogne Automeca.",
+  "recherches": 2
+ }
+]

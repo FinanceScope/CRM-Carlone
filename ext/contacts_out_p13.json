@@ -4,7 +4,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : aucun numéro publié pour ELINA (holding créée en 1982, 11 Grande Rue) ; seules des fiches registre/annuaire (societe.com, northdata, petitesaffiches/Hoodspot) sans téléphone visible. Certaines fiches rattachent la holding à l'enseigne Intermarché (magasin exploité non identifié, lien non confirmé).",
+  "note": "Deuxième passe (27/10/2026) : aucun numéro publié pour ELINA (holding créée en 1982, 11 Grande Rue) ; seules des fiches registre/annuaire (societe.com, northdata, petitesaffiches/Hoodspot) sans téléphone visible. Certaines fiches rattachent la holding à l'enseigne Intermarché (magasin exploité non identifié, lien non confirmé). Vérification : relecture sans recherche ; aucun numéro retenu, lien Intermarché laissé comme simple piste non confirmée.",
   "recherches": 2
  },
  {
@@ -14,12 +14,9 @@
    "source": "https://www.allogarage.fr/garages/details-garage-Garage-Daroto-16871.html",
    "fiabilite": "annuaire"
   },
-  "email_generique": {
-   "email": "garagedaroto@gmail.com",
-   "source": "https://www.allogarage.fr/garages/details-garage-Garage-Daroto-16871.html"
-  },
+  "email_generique": null,
   "site_web": "https://garage-fours.proximeca.fr/",
-  "note": "Deuxième passe (27/10/2026) : 03 86 30 08 06 = ligne fixe du Garage Daroto (réseau Proximeca), 15 place Pouyat à Fours, concordante sur plusieurs annuaires (Allogarage, Pages Jaunes, info-garage). Un mobile 06 63 89 14 10 figure sur le site vente VN/VO du garage (https://garage-fours.occasions-proximeca.fr/).",
+  "note": "Deuxième passe (27/10/2026) : 03 86 30 08 06 = ligne fixe du Garage Daroto (réseau Proximeca), 15 place Pouyat à Fours, concordante sur plusieurs annuaires (Allogarage, Pages Jaunes, 118712, Ciaovie). Un mobile 06 63 89 14 10 figure sur le site vente VN/VO du garage (https://garage-fours.occasions-proximeca.fr/). Vérification (3 recherches) : numéro et adresse confirmés pour ce garage à Fours, fiabilité « annuaire » maintenue faute de lecture directe sur le site officiel ; adresse garagedaroto@gmail.com retirée car relevée seulement sur l'annuaire Allogarage, publication par le garage lui-même non trouvée.",
   "recherches": 2
  },
  {
@@ -27,7 +24,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : aucun numéro publié au nom d'ERKA CONSTRUCTION (fiches societe.com, manageo, Pappers sans téléphone). Piste non retenue : une fiche Pages Jaunes « Enduit Grain Blanc » à la même adresse (1 rue de la Plage, Imphy), présidée par Ertugrul Karadas, donne le 06 69 94 26 16 (https://www.pagesjaunes.fr/pros/63228015) ; lien avec ERKA non confirmé.",
+  "note": "Deuxième passe (27/10/2026) : aucun numéro publié au nom d'ERKA CONSTRUCTION (fiches societe.com, manageo, Pappers sans téléphone). Piste non retenue : la SAS « Enduit Grain Blanc » (enduits, isolation extérieure, créée en mars 2024, SIRET 92800332600016) est domiciliée à la même adresse (1 rue de la Plage, Imphy ; https://www.pagesjaunes.fr/pros/63228015). Vérification (2 recherches) : Enduit Grain Blanc est une autre société et son lien avec ERKA ou Ertugrul Karadas n'a pas pu être confirmé ; le mobile relevé sur sa fiche (non recoupé) est retiré de la note, standard maintenu à null.",
   "recherches": 2
  },
  {
@@ -35,7 +32,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : aucun numéro ni site pour DOMAINE DE BACCHUS à Pouilly-sur-Loire ; seules les fiches registre (Pappers, societe.com : AOC NONET HOLDING nommée dirigeante le 14/04/2025) ressortent, aucune marque « Nonet » de vin identifiée.",
+  "note": "Deuxième passe (27/10/2026) : aucun numéro ni site pour DOMAINE DE BACCHUS à Pouilly-sur-Loire ; seules les fiches registre (Pappers, societe.com : AOC NONET HOLDING nommée dirigeante le 14/04/2025) ressortent, aucune marque « Nonet » de vin identifiée. Vérification : relecture de cohérence sans recherche, rien à corriger.",
   "recherches": 2
  },
  {
@@ -43,7 +40,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : aucune coordonnée publiée : seules les fiches registre (annuaire-entreprises, societe.com, Kompass) au 7 impasse du Guerluret. Une entreprise individuelle DURAND CEDRIC (SIREN 530338342, Cosne) semble liée, sans numéro non plus.",
+  "note": "Deuxième passe (27/10/2026) : aucune coordonnée publiée : seules les fiches registre (annuaire-entreprises, societe.com, Kompass) au 7 impasse du Guerluret. Une entreprise individuelle DURAND CEDRIC (SIREN 530338342, Cosne) semble liée, sans numéro non plus. Vérification : relecture de cohérence sans recherche, rien à corriger.",
   "recherches": 2
  },
  {
@@ -51,7 +48,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : fiche Pages Jaunes « TAXI JULIE RIGNAULT » à Rouy (2 route de Montapas, Grandchamp ; https://www.pagesjaunes.fr/pros/57468333) et fiche Mappy trouvées, mais le numéro n'apparaît pas dans les extraits ; à relever directement sur la fiche Pages Jaunes.",
+  "note": "Deuxième passe (27/10/2026) : fiche Pages Jaunes « TAXI JULIE RIGNAULT » à Rouy (2 route de Montapas, Grandchamp ; https://www.pagesjaunes.fr/pros/57468333) et fiche Mappy trouvées, mais le numéro n'apparaît pas dans les extraits ; à relever directement sur la fiche Pages Jaunes. Vérification : relecture sans recherche ; aucun numéro à contrôler, fiche Pages Jaunes à Rouy cohérente avec le registre.",
   "recherches": 2
  },
  {
@@ -59,7 +56,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : aucune trace de MILLE ET 1 SERVICES ni de Fabrice Dubois (plomberie-chauffage) à Corvol-d'Embernard ; seuls des homonymes hors Nièvre (Marne, Loire-Atlantique) ressortent.",
+  "note": "Deuxième passe (27/10/2026) : aucune trace de MILLE ET 1 SERVICES ni de Fabrice Dubois (plomberie-chauffage) à Corvol-d'Embernard ; seuls des homonymes hors Nièvre (Marne, Loire-Atlantique) ressortent. Vérification : relecture de cohérence sans recherche, rien à corriger.",
   "recherches": 2
  },
  {
@@ -67,7 +64,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : aucun numéro au nom de HPT & COMPAGNIE (holding de Philippe Tournand). Son président a repris en 2019 la SAS Riffault (bâches, Varennes-Vauzelles, établissement à Champvert, https://www.sas-riffault.fr/), piste pour le joindre, mais le numéro de Riffault n'a pas été relevé.",
+  "note": "Deuxième passe (27/10/2026) : aucun numéro au nom de HPT & COMPAGNIE (holding de Philippe Tournand). Son président a repris en 2019 la SAS Riffault (bâches, Varennes-Vauzelles, établissement à Champvert, https://www.sas-riffault.fr/), piste pour le joindre, mais le numéro de Riffault n'a pas été relevé. Vérification : relecture sans recherche ; aucun numéro retenu, la piste Riffault (autre société) reste une simple indication.",
   "recherches": 2
  },
  {
@@ -75,7 +72,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : aucun numéro propre : Kompass affiche le 01 43 34 34 34, qui est la ligne de Kompass et non de l'entreprise ; societe.com masque le numéro. Siège transféré de Bouc-Bel-Air à Nevers en 2024.",
+  "note": "Deuxième passe (27/10/2026) : aucun numéro propre : Kompass affiche le 01 43 34 34 34, qui est la ligne de Kompass et non de l'entreprise ; societe.com masque le numéro. Siège transféré de Bouc-Bel-Air à Nevers en 2024. Vérification : relecture sans recherche ; rejet du 01 43 34 34 34 (ligne de Kompass) confirmé, standard null correct.",
   "recherches": 2
  },
  {
@@ -83,7 +80,7 @@
   "standard": null,
   "email_generique": null,
   "site_web": null,
-  "note": "Deuxième passe (27/10/2026) : aucun numéro au nom de NEXSON CORPORATION à Fourchambault. Le standard du groupe qu'elle dirige, Nexson Group à Garchizy (685 rue Jules Verne), est le 03 86 60 13 04 (contact@nexson-group.com, https://www.nexson-group.com/fr/contact/) : non retenu car autre société et autre commune.",
+  "note": "Deuxième passe (27/10/2026) : aucun numéro au nom de NEXSON CORPORATION à Fourchambault. Le standard du groupe qu'elle dirige, Nexson Group à Garchizy (685 rue Jules Verne), est le 03 86 60 13 04 (contact@nexson-group.com, https://www.nexson-group.com/fr/contact/) : non retenu car autre société et autre commune. Vérification : relecture sans recherche ; rejet conforme à la règle (autre société, autre commune), le numéro de Nexson Group n'a pas été recoupé ici.",
   "recherches": 2
  }
 ]

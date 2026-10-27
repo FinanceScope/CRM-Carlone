@@ -1,0 +1,50 @@
+[
+ {
+  "siren": "503336471",
+  "standard": {
+   "tel": "03 86 50 81 64",
+   "source": "http://www.mecamachine.fr/contact/index.html",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "http://www.mecamachine.fr/",
+  "note": "Arbitrage (27/10/2026) : le 03 86 50 81 64 est le standard publié par Mecamachine sur la page contact de son site (rue des Zagots, La Machine ; fax 03 86 50 95 50), repris par la commune et les annuaires ; trouvé lors de la recherche sur sa holding (Mecamachine Holding) et reconfirmé par une recherche de contrôle. Le 03 86 50 49 13 (Pages Jaunes) et un portable Cylex ne sont pas retenus.",
+  "recherches": 1
+ },
+ {
+  "siren": "691880173",
+  "standard": {
+   "tel": "03 86 50 81 64",
+   "source": "http://www.mecamachine.fr/contact/index.html",
+   "fiabilite": "groupe"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Arbitrage (27/10/2026) : la holding n'a pas de ligne propre ; on la joint par le standard de sa filiale Mecamachine (même site de La Machine, même président), qui figure aussi dans le CRM : traiter les deux sociétés dans le même appel.",
+  "recherches": 0
+ },
+ {
+  "siren": "378800726",
+  "standard": {
+   "tel": "03 86 27 55 55",
+   "source": "https://www.laballery.fr/",
+   "fiabilite": "groupe"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Arbitrage (27/10/2026) : SOCOFIG n'a pas de ligne propre ; sa présidente, la Nouvelle Imprimerie Laballery (même adresse à Clamecy, rang 41 du CRM), a pour standard le 03 86 27 55 55 : traiter les deux sociétés dans le même appel.",
+  "recherches": 0
+ },
+ {
+  "siren": "891083107",
+  "standard": {
+   "tel": "03 86 60 13 04",
+   "source": "https://www.nexson-group.com/fr/contact/",
+   "fiabilite": "groupe"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Arbitrage (27/10/2026) : Nexson Corporation n'a pas de ligne propre ; elle dirige Nexson Group (Garchizy, rang 21 du CRM), dont le standard est le 03 86 60 13 04 : traiter les deux sociétés dans le même appel.",
+  "recherches": 0
+ }
+]

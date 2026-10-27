@@ -1,0 +1,109 @@
+[
+ {
+  "siren": "510376668",
+  "standard": {
+   "tel": "03 73 58 00 24",
+   "source": "https://devcsi.fr/contact/",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "info@devcsi.fr",
+   "source": "https://devcsi.fr/contact/"
+  },
+  "site_web": "https://devcsi.fr/",
+  "note": "Deuxième passe (27/10/2026) : standard du bureau publié sur le site de la société (45 rue du Général Binot, Cosne-Cours-sur-Loire, du lundi au vendredi 8h30-17h), avec info@devcsi.fr. Des annuaires donnent un ancien numéro (03 86 22 73 90, 30 rue Eugène Perreau) et une adresse à Saint-Père (9 rue de l'Abreuvoir), non retenus. Vérification : numéro confirmé sur la page Contact de devcsi.fr (+33 (0)3 73 58 00 24, 45 rue du Général Binot, page de 2023 environ) et adresse du siège identique au registre, donc « officielle » maintenu ; l'adresse info@devcsi.fr n'apparaît pas dans les extraits mais provient de la même page, conservée.",
+  "recherches": 2
+ },
+ {
+  "siren": "889275467",
+  "standard": {
+   "tel": "06 62 08 80 33",
+   "source": "https://www.bottin.fr/annuaire/entreprise-de-construction-a-varennes-vauzelles-58303.htm",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : portable publié comme numéro de l'entreprise par l'annuaire Bottin (Bati Homme 58, 5 place de l'Homme et du Citoyen, Varennes-Vauzelles, maçonnerie), seule source, qui l'affichait « fermé ». À confirmer à l'appel ; ne pas confondre avec Bati Pro 58 (autre société de la commune). Vérification : non recherché (budget épuisé) ; portable publié par un seul annuaire au nom et à la commune de l'entreprise, conservé en « annuaire » avec la réserve de la fiche « fermé ».",
+  "recherches": 2
+ },
+ {
+  "siren": "341389096",
+  "standard": {
+   "tel": "03 86 27 19 39",
+   "source": "https://www.institut-parfumerie-clamecy.fr/nos-tarifs.html",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.institut-parfumerie-clamecy.fr/",
+  "note": "Deuxième passe (27/10/2026) : numéro de la boutique-institut (13 rue de la Monnaie, Clamecy, du mardi au samedi) publié sur le site de la parfumerie et repris par les annuaires (Pages Jaunes, Planity). Aucune adresse e-mail générique trouvée. Vérification : ni le site ni le numéro ne sont ressortis (1 recherche), sans élément contraire ; l'adresse (13 rue de la Monnaie) est rattachée au SIREN par Xerfi et l'indicatif 03 86 27 correspond à Clamecy, « officielle » maintenu sous réserve.",
+  "recherches": 2
+ },
+ {
+  "siren": "980267769",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé (recherches nom + Nevers + exploitation forestière, puis nom + dirigeant) : seuls le registre, Kompass et un annuaire listent KONUS au 19 rue Louis Pergaud, sans téléphone. Une ancienne société à la même adresse (Le Soleil Levant, gérée par Ozgul Konus) est sans lien établi.",
+  "recherches": 2
+ },
+ {
+  "siren": "951603471",
+  "standard": {
+   "tel": "03 86 39 18 43",
+   "source": "https://www.pagesjaunes.fr/pros/62611083",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : numéro de la boulangerie (9 place des Frères Mollet) donné par Pages Jaunes, Bottin et Restaurant Guru au nom du Fournil Adrien ; c'est la ligne reprise de l'ancien exploitant (Au Fournil de Pouilly, fonds cédé en 2023). Une fiche annuaire signale un possible arrêt : à confirmer à l'appel. Vérification : non recherché ; numéro publié au nom de l'entreprise et à sa commune, cohérent (indicatif 03 86 39 de Pouilly-sur-Loire), maintenu en « annuaire » avec la réserve d'arrêt.",
+  "recherches": 2
+ },
+ {
+  "siren": "388006702",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé ; le registre (SIRENE) donne l'enseigne « Automobiles Caliste » (entretien et réparation automobile) avec un établissement route de Varzy à Prémery, mais la recherche sur cette enseigne n'a rien donné.",
+  "recherches": 2
+ },
+ {
+  "siren": "887715563",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro publié au nom de la société à Saint-Didier ; un restaurant-chambres d'hôtes Le Relais Vauban existe à Bazoches (3 route de Corbigny, même code postal 58190), fixe publié par l'office de tourisme du Parc du Morvan (https://tourisme.parcdumorvan.org/sit/le-relais-vauban-3), mais le lien avec la société ne repose que sur l'enseigne et l'activité. Vérification : la recherche situe Le Relais Vauban à Bazoches et aucune source ne rattache le SIREN de LRV à cet établissement ni à un numéro publié à Saint-Didier ; standard et site retirés (non publiés pour cette société à cette commune), piste à confirmer : 03 45 50 32 51 et lerelaisvauban.fr.",
+  "recherches": 2
+ },
+ {
+  "siren": "834691594",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun hébergement « Les Mésanges » trouvé à Dun-les-Places (recherches gîte/chambre d'hôtes Morvan et locations 58230) ; seuls des homonymes ailleurs (camping des Settons, Saône-et-Loire, Alsace, Savoie).",
+  "recherches": 2
+ },
+ {
+  "siren": "901616516",
+  "standard": {
+   "tel": "03 86 28 19 15",
+   "source": "https://boulangeries.nosavis.com/boulangerie/nievre-58/cosne+cours+sur+loire-58200/maison+rollon+sarl-13484/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : numéro de la boulangerie-pâtisserie-traiteur Maison Rollon (7 rue Anatole France, Cosne-Cours-sur-Loire, gérant Thomas Rollon d'après le registre), donné par les annuaires (Pages Jaunes, nosavis). Le registre (Societe.com, même SIREN) situe la société à Cosne et non à Saint-Père. Vérification : non recherché ; écart de commune couvert par le registre au même SIREN (siège à Cosne), indicatif 03 86 28 de Cosne cohérent, maintenu en « annuaire ».",
+  "recherches": 2
+ },
+ {
+  "siren": "408194686",
+  "standard": {
+   "tel": "03 86 27 90 00",
+   "source": "https://www.annuaire-inverse-france.com/annuaire-entreprises/bourgogne/nievre/clamecy/transports-routiers-lots-complets-marchandises-diverses/jl-transports/0386279000",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : standard du siège (La Vigne Dorée, Moulot, Clamecy) donné par les annuaires (Pages Jaunes, Cylex, annuaire inversé) au nom de JL Transports ; pas de site trouvé. Manageo et Kompass (données anciennes) citent Thierry Jeannin et Pierre-Jean Lenoir comme dirigeants.",
+  "recherches": 2
+ }
+]

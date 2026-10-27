@@ -995,6 +995,7 @@ function callGroups(){
 const telLink=t=>{const u=e164(t);return u?`<a class="mono tel" href="tel:${u}">${esc(t)}</a>`:`<span class="mono">${esc(t)}</span>`};
 let TELIX={};   // standard → entreprises qui le partagent (sociétés d'un même groupe, holding et exploitant)
 const peersOf=c=>{const k=e164(c.telephone);return k?(TELIX[k]||[]).filter(o=>o!==c):[]};
+const grpTxt=c=>peersOf(c).some(o=>!o.telephone_groupe)?"Standard d'une société du même groupe":"Standard du groupe : demander le site de la Nièvre";   // numéro d'une société sœur déjà dans le CRM, ou siège du groupe hors Nièvre
 function peersHTML(c){
   const p=peersOf(c);if(!p.length)return "";
   return `<span class="peers">Même standard que ${p.map(o=>{const n=callsOf(o).n;return `<button type="button" class="plink" data-open="${o.rang}">${esc(nameOf(o))}</button>${n?` (${n} appel${n>1?"s":""})`:""}`}).join(", ")} : traiter ${p.length>1?"toutes ces sociétés":"les deux sociétés"} dans le même appel.</span>`;
@@ -1031,7 +1032,7 @@ function callRow(c){
     </div>
     <div class="acol atel">
       ${direct?`<span class="contact">${telLink(direct)}${copyBtn(direct,"la ligne directe")}</span><span class="muted small">ligne directe notée</span>`:""}
-      ${tel?`<span class="contact">${telLink(tel)}${copyBtn(tel,"le numéro")}</span>${c.telephone_a_confirmer?`<span class="muted small">à confirmer</span>`:c.telephone_groupe?`<span class="muted small">standard du groupe : demander le site de la Nièvre</span>`:direct?`<span class="muted small">standard</span>`:""}${peersHTML(c)}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
+      ${tel?`<span class="contact">${telLink(tel)}${copyBtn(tel,"le numéro")}</span>${c.telephone_a_confirmer?`<span class="muted small">à confirmer</span>`:c.telephone_groupe?`<span class="muted small">${esc(grpTxt(c).replace(/^S/,"s"))}</span>`:direct?`<span class="muted small">standard</span>`:""}${peersHTML(c)}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
     </div>
     <div class="acol astate">
       <span>${cl.last?`<span class="pill ${rcls(cl.last)}">${esc(RLABEL[cl.last]||"")}</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
@@ -1322,7 +1323,7 @@ function renderDetail(force){
   const direct=telIn(s.contact_coord);
   const callbox=`<div class="callbox">
       ${direct?`<div><span class="cb-l">Ligne directe notée</span><span class="contact">${telLink(direct)}${copyBtn(direct,"la ligne directe")}</span></div>`:""}
-      ${c.telephone?`<div><span class="cb-l">${c.telephone_groupe?"Standard du groupe : demander le site de la Nièvre":"Standard"}${c.telephone_a_confirmer?" · numéro à confirmer à l'appel":""}</span><span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>${peersHTML(c)}</div>`
+      ${c.telephone?`<div><span class="cb-l">${c.telephone_groupe?esc(grpTxt(c)):"Standard"}${c.telephone_a_confirmer?" · numéro à confirmer à l'appel":""}</span><span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>${peersHTML(c)}</div>`
         :direct?"":`<div><span class="cb-l">Pas de numéro connu</span>${pjLink(c)}</div>`}
       <div class="cb-who">${askLine(c)}</div>
     </div>`;
@@ -1407,7 +1408,7 @@ function renderDetail(force){
       ${line("Adresse",addr?copyable(addr):"")}
       ${line("Distance",c.distance_cosne_km!=null?`<span class="num">${c.distance_cosne_km===0?"À Cosne même":"≈ "+c.distance_cosne_km+" km de Cosne"}</span>`:"")}
       ${line("Site près de Cosne",c.site_local?esc(c.site_local):"")}
-      ${line("Téléphone",c.telephone?`<span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>`+(c.telephone_groupe?`<span class="muted" style="display:block;font-size:12.5px">Standard du groupe : demander le site de la Nièvre</span>`:"")+(c.telephone_a_confirmer?ACONF:""):"")}
+      ${line("Téléphone",c.telephone?`<span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>`+(c.telephone_groupe?`<span class="muted" style="display:block;font-size:12.5px">${esc(grpTxt(c))}</span>`:"")+(c.telephone_a_confirmer?ACONF:""):"")}
       ${line("E-mail",c.email?copyable(c.email)+(c.email_a_confirmer?ACONF:""):"")}
       ${line("Site web",linkOut(c.site_web))}
       ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise"):"")}
