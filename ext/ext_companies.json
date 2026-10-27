@@ -4559,7 +4559,8 @@
 "enrichie": true,
 "contacts_ok": true,
 "note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de l'entreprise sont retenues. Standard 03 86 28 16 52, e-mail contact@lacdirect.com et site lacdirect.com repris des données déjà connues ; 3 recherches n'ont fait remonter aucune page (ni le site, ni un annuaire) les confirmant, d'où email_generique laissé à null faute de source vérifiée. Aucun nom de dirigeant ou de responsable financier vu sur le site de l'entreprise dans les résultats : non repris (cf. interlocuteur déjà connu).",
-"telephone_a_confirmer": true
+"telephone_a_confirmer": true,
+"email_a_confirmer": true
 },
 {
 "rang": 167,
@@ -21129,7 +21130,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/alliance-proprete-services-403027485"
-}
+},
+"email_a_confirmer": true
 },
 {
 "rang": 434,

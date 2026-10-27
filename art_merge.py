@@ -128,6 +128,7 @@ for c in companies:
         'regime': reg, 'benefice': benef, 'resultat': res, 'ca': ca, 'annee': annee, 'annee_resultat': annee_res, 'source': source,
         'plafond': plafond, 'prix_max': 5 * plafond, 'economie_max': round(5 * plafond * TAUX_IS),
         'espace': esp, 'espace_txt': ESPACES[esp], 'public': esp in PUBLIC, 'notes': notes,
+        'plafond_a_recalculer': esp == 'groupe',   # holding : CA souvent consolidé, la limite dépend de la société qui achète
     }
     c['priorite'], c['vague'] = prio, vague
     c['exclue'] = exclue
@@ -145,6 +146,10 @@ for c in companies:
     for t in textes:
         assert not INTERDIT.search(t), (c['rang'], t)
 
+# contrôle : une fiche qui parle d'opposition à la prospection doit porter le drapeau (sinon la page proposerait le mail)
+for c in companies:
+    if c.get('fiche') and not c.get('opposition_prospection') and re.search(r'oppos[ée]+ (au marketing|à la prospection)', json.dumps(c['fiche'], ensure_ascii=False), re.I):
+        print('ATTENTION opposition citée dans la fiche sans drapeau :', c['rang'], c['nom'])
 json.dump(companies, open(SITE + '/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
 
 print('régime', Counter(c['art']['regime'] for c in companies))

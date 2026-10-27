@@ -749,6 +749,14 @@ RETIRER = {'823687033': ('email',),       # adresse hotmail nominative, introuva
 RETIRER_NUMERO = {'397727397': '03 86 71 63 00'}   # numéro de LOOK Cycle, attribué à tort à LOOK Fixations par les premières passes
 # le mobile d'Aizen (331967943), d'abord retiré faute de source, figure dans la présentation 2024 de l'entreprise (lot h23)
 AUDITEURS = re.compile(r'(KPMG|DELOITTE|MAZARS|ERNST|PRICEWATERHOUSE|GRANT THORNTON|BDO)\b', re.I)
+# e-mails génériques : une adresse sans page source publiée est signalée « à confirmer » (ne jamais deviner une adresse)
+EMAIL_SOURCE = {}
+for f in sorted(glob.glob(EXT + '/contacts_out_*.json')):
+    for e in json.load(open(f, encoding='utf-8')):
+        eg = e.get('email_generique') or {}
+        if isinstance(eg, dict) and eg.get('email') and eg.get('source'):
+            EMAIL_SOURCE.setdefault(sid(e.get('siren')), set()).add(eg['email'].strip().lower())
+EMAIL_ECARTE = {'contact@groupesimonneau.fr'}   # introuvable, domaine du groupe différent (vérification du rang 15)
 TEL_RE = re.compile(r'(?:\+33\s?(?:\(0\)\s?)?|0)[1-9](?:[\s.-]?\d{2}){4}')
 EMAIL_RE = re.compile(r'[\w.+-]+@[\w-]+(?:\.[\w-]+)+')
 def sans_annotation(v, rx, propre, quoi, c):
@@ -763,6 +771,8 @@ for c in base + ext:
     if c.get('telephone') and c['telephone'] == RETIRER_NUMERO.get(sid(c.get('siren'))): c['telephone'] = None
     c['telephone'] = sans_annotation(c.get('telephone'), TEL_RE, clean_tel, 'Téléphone', c)
     c['email'] = sans_annotation(c.get('email'), EMAIL_RE, str, 'E-mail', c)
+    if c.get('email') and c['email'].strip().lower() in EMAIL_ECARTE: c['email'] = None; c.pop('email_a_confirmer', None)
+    if c.get('email') and c['email'].strip().lower() not in EMAIL_SOURCE.get(sid(c.get('siren')), set()): c['email_a_confirmer'] = True
     for pp in [c.get('contact_dirigeant'), c.get('contact_finance')] + list(c.get('autres_contacts') or []):
         if not isinstance(pp, dict): continue
         for kk, rx, pr in (('tel_direct', TEL_RE, clean_tel), ('tel', TEL_RE, clean_tel), ('email', EMAIL_RE, str)):

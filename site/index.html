@@ -233,6 +233,7 @@ a{color:var(--accent);text-underline-offset:2px}
 .script .n{width:32px;height:32px;border-radius:50%;background:var(--accent);color:var(--accent-ink);display:grid;place-items:center;font-family:var(--font-display);font-weight:800;font-size:15px;flex:none}
 .script h3{margin:0;font-size:16px;font-family:var(--font-display);font-weight:700;letter-spacing:-.01em}
 .script .dur{margin-left:auto;font-size:12.5px;color:var(--faint);white-space:nowrap}
+.script .step{flex-wrap:wrap}
 .script p{margin:0;font-size:14px;max-width:65ch}
 .script .next{font-size:13px;color:var(--v2);font-weight:600}
 .obj{margin:0;display:flex;flex-direction:column;gap:2px;font-size:13.5px}
@@ -423,6 +424,7 @@ p.txt{margin:0;max-width:65ch}
 .bars .bar{grid-column:1/-1;height:6px;border-radius:3px;background:var(--sunk);overflow:hidden}
 .bars .bar b{display:block;height:100%;background:var(--accent);border-radius:3px}
 .foot-acts{display:flex;flex-wrap:wrap;gap:4px 18px}
+.foot-acts .tbtn{white-space:normal;text-align:left;max-width:100%}
 @media (max-width:640px){
   .copy{min-height:36px;padding:6px 12px;margin-left:4px}
   .tlong{display:none}.tshort{display:inline}.tab{padding:8px 13px}
@@ -758,7 +760,7 @@ const farSite=c=>c.site_cosne&&(c.distance_cosne_km==null||c.distance_cosne_km>5
 const kmEff=c=>farSite(c)?2:(c.distance_cosne_km??0);
 const kmL=d=>d===0?"< 1 km":d+" km";
 
-let allCompanies=[],scope="100",companies=[],byId={},suivi={},sel=null,db=null,userNs=null,myId=null,mode="loading",canWrite=true,ready=false,routeAnimated=false,view="plan",retView=null;
+let allCompanies=[],scope="100",companies=[],byId={},suivi={},sel=null,db=null,userNs=null,myId=null,mode="loading",canWrite=true,ready=false,myName="",routeAnimated=false,view="plan",retView=null;
 let filt={q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:"rang"};
 let culture={prospects:[],playbook:null},cById={},csel=null,cfilt={q:"",fam:"",prio:"",statut:""};
 
@@ -786,8 +788,8 @@ const newId=t=>String(t).replace(/\D/g,"").slice(0,17)+Math.random().toString(36
 async function whoAmI(){if(myId||!userNs)return myId;try{myId=await userNs.id()}catch(e){}return myId}
 
 /* ---------- Données locales (repli hors claude.ai ou sans base) ---------- */
-function loadLocal(){try{const v=JSON.parse(localStorage.getItem("crm58-suivi")||"{}");return v&&typeof v==="object"?v:{}}catch(e){return {}}}
-function saveLocal(){try{localStorage.setItem("crm58-suivi",JSON.stringify(suivi))}catch(e){}}
+function loadLocal(){try{const v=JSON.parse(localStorage.getItem("crm58-suivi")||"{}");return v&&typeof v==="object"?v:{}}catch(e){return null}}   // null : stockage indisponible
+function saveLocal(){try{localStorage.setItem("crm58-suivi",JSON.stringify(suivi));return true}catch(e){return false}}
 function mergeDeep(a,b){const o=a&&typeof a==="object"&&!Array.isArray(a)?{...a}:{};for(const [k,v] of Object.entries(b||{}))o[k]=v&&typeof v==="object"&&!Array.isArray(v)&&o[k]&&typeof o[k]==="object"&&!Array.isArray(o[k])?mergeDeep(o[k],v):v;return o}
 
 /* ---------- Écriture : seuls les champs modifiés partent (update), une écriture à la fois par document.
@@ -797,7 +799,11 @@ const pend={},chains={};
 function recompute(k){let d=base[k];for(const p of pend[k]||[])d=mergeDeep(d,p.ch);if(d)suivi[k]=d;else delete suivi[k]}
 const retry1=async f=>{try{return await f()}catch(e){if(e&&e.code==="unavailable"){await new Promise(r=>setTimeout(r,300+Math.random()*500));return f()}throw e}};
 function persist(k,ch){
-  if(mode!=="db"){const cur=loadLocal();cur[k]=mergeDeep(cur[k],ch);suivi=cur;saveLocal();return Promise.resolve(true)}
+  if(mode!=="db"){const cur=loadLocal()||suivi;cur[k]=mergeDeep(cur[k],ch);suivi=cur;
+    if(saveLocal())return Promise.resolve(true);
+    setSync("local","Suivi non enregistré : stockage du navigateur indisponible");
+    toast("Gardé seulement tant que la page est ouverte : le stockage du navigateur est indisponible (navigation privée ?). Exporte le CSV avant de fermer.");
+    return Promise.resolve(false)}
   const entry={ch,done:false};(pend[k]=pend[k]||[]).push(entry);recompute(k);
   const run=async()=>{
     const ref=db.collection("suivi").doc(k);
@@ -809,9 +815,10 @@ function persist(k,ch){
       known.add(k);entry.done=true;return true;
     }catch(e){
       pend[k]=(pend[k]||[]).filter(p=>p!==entry);recompute(k);
-      if(e&&e.code==="invalid_argument"){canWrite=false;setSync("on","Suivi partagé (lecture seule)");toast("Lecture seule : tu n'as pas les droits d'écriture sur ce CRM. Rien n'a été enregistré.")}
-      else toast(e&&e.code==="quota_exceeded"?"Base partagée pleine : rien n'a été enregistré.":"Enregistrement impossible pour le moment : rien n'a été enregistré, réessaie.");
-      renderAll(true);return false;
+      if(e&&e.code==="invalid_argument"){canWrite=false;setSync("on","Suivi partagé (lecture seule)");toast("Lecture seule : tu n'as pas les droits d'écriture sur ce CRM. Rien n'a été enregistré.");renderAll(true)}
+      else if(e&&e.code==="quota_exceeded"){toast("Base partagée pleine : rien n'a été enregistré.");renderAll()}
+      else{toast("Enregistrement impossible pour le moment : rien n'a été enregistré.",{label:"Réessayer",run:()=>persist(k,ch).then(ok=>{if(ok){toast("Enregistré");renderAll()}})});renderAll()}   // la saisie en cours n'est pas effacée
+      return false;
     }
   };
   const p=(chains[k]||Promise.resolve(true)).then(run,run);chains[k]=p;return p;
@@ -862,11 +869,15 @@ function bindForm(x,p,refresh,redetail){
   const map={statut:"statut",resp:"responsable",cnom:"contact_nom",ctel:"contact_coord",next:"prochaine_action",date:"date_relance",heure:"rappel_heure",rdvd:"rdv_date",rdvh:"rdv_heure",rdvn:"rdv_note",notes:"notes"};
   for(const [suffix,field] of Object.entries(map)){
     const id=p+suffix;const el=document.getElementById(id);if(!el)continue;
-    const commit=()=>{const v=el.tagName==="TEXTAREA"?el.value.replace(/\s+$/,""):el.value.trim();if((S(x)[field]||"")===v)return;
-      patch(x,{[field]:v}).then(ok=>{const sv=document.getElementById(p+"saved");if(ok&&sv)sv.textContent="Enregistré"});
+    const choix=el.tagName==="SELECT"||el.type==="date"||el.type==="time";
+    const commit=()=>{if(!choix&&!el.dataset.dirty)return;delete el.dataset.dirty;   // un champ non modifié n'écrase jamais la saisie d'un associé
+      const v=el.tagName==="TEXTAREA"?el.value.replace(/\s+$/,""):el.value.trim();if((S(x)[field]||"")===v)return;
+      const ch={[field]:v};if(field==="statut"&&v==="refus"&&!S(x).refus)ch.refus={date:new Date().toISOString(),origine:"statut « Pas intéressé » choisi dans la fiche"};
+      patch(x,ch).then(ok=>{const sv=document.getElementById(p+"saved");if(ok&&sv)sv.textContent="Enregistré"});
       refresh();};
-    if(el.tagName==="SELECT"||el.type==="date"||el.type==="time")el.addEventListener("change",()=>{commit();if(field==="statut")redetail()});
-    else{el.addEventListener("input",()=>{clearTimeout(deb[id]);deb[id]=setTimeout(commit,900)});el.addEventListener("blur",()=>{clearTimeout(deb[id]);commit()})}
+    el._commit=commit;
+    if(choix)el.addEventListener("change",()=>{commit();if(field==="statut")redetail()});
+    else{el.addEventListener("input",()=>{el.dataset.dirty="1";clearTimeout(deb[id]);deb[id]=setTimeout(commit,900)});el.addEventListener("blur",()=>{clearTimeout(deb[id]);commit()})}
   }
   const ob=document.getElementById(p+"opp");
   if(ob)ob.addEventListener("click",async()=>{const canal=document.getElementById(p+"oppc").value,t=new Date().toISOString(),by=await whoAmI();
@@ -894,6 +905,10 @@ async function logResult(x,res,txt,extra){
   const by=await whoAmI();
   const s=S(x),t=new Date().toISOString(),id=newId(t),today=isoDay(new Date()),st=statutOf(x);
   const ent={t,txt};if(by)ent.by=by;if(res)ent.res=res;
+  if(s.opposition&&res){   // refus de prospection noté : l'échange est gardé, statut et rappel ne bougent pas
+    const ok=await patch(x,{journal:{[id]:ent}});
+    return {ok,info:" · refus de prospection noté le "+new Date(s.opposition.date).toLocaleDateString("fr-FR")+" : ni statut ni rappel modifiés",undo:()=>patch(x,{journal:{[id]:null}})};
+  }
   const ch={journal:{[id]:ent}};let lim4=false;
   if(res){
     const n=RSTATUT[res],futur=s.date_relance&&s.date_relance>today;
@@ -903,18 +918,19 @@ async function logResult(x,res,txt,extra){
     if(RELANCE_AUTO.has(res)&&!futur){
       // bonne pratique : pas plus de 4 appels en 30 jours
       const recents=callsOf(x).h.map(e=>e.t).filter(v=>Date.parse(v)>Date.now()-30*864e5).concat([t]);
-      if(recents.length>=4){ch.date_relance=firstWorkdayFrom(isoDay(new Date(Date.parse(recents[recents.length-4])+30*864e5)));lim4=true}
+      if(recents.length>=4){const lim=firstWorkdayFrom(isoDay(new Date(Date.parse(recents[recents.length-4])+30*864e5))),nw=nextWorkday();ch.date_relance=lim>nw?lim:nw;lim4=lim>nw}
       else ch.date_relance=nextWorkday();
       ch.rappel_heure="";
     }else if(!RELANCE_AUTO.has(res)&&s.date_relance&&s.date_relance<=today){ch.date_relance="";ch.rappel_heure=""}   // le rappel du jour est fait
     if(res==="interesse"&&!futur){ch.date_relance=addWorkdays(3);ch.rappel_heure=""}
     if(res==="faux_numero"&&!s.prochaine_action)ch.prochaine_action="Trouver le bon numéro";
-    if(n==="refus"){ch.date_relance="";ch.rappel_heure=""}
+    if(n==="refus"){ch.date_relance="";ch.rappel_heure="";if(!s.refus)ch.refus={date:t,origine:RLABEL[res]}}
     if(by&&!s.responsable_id)ch.responsable_id=by;
   }else if(st==="a_contacter")ch.statut="contacte";
   Object.assign(ch,extra||{});
+  if(extra&&extra.date_relance)lim4=false;   // date choisie à la main
   const prev={journal:{[id]:null}};
-  for(const k of Object.keys(ch))if(k!=="journal")prev[k]=s[k]===undefined?(k==="opposition"?null:""):s[k];
+  for(const k of Object.keys(ch))if(k!=="journal")prev[k]=s[k]===undefined?(k==="opposition"||k==="refus"?null:""):s[k];
   const ok=await patch(x,ch);
   const info=ch.date_relance?(lim4?" · 4 appels en 30 jours : prochain essai ":" · rappel ")+fmtDay(ch.date_relance)+(ch.rappel_heure?" à "+ch.rappel_heure:""):ch.rdv_date?" · "+fmtDay(ch.rdv_date):"";
   return {ok,info,undo:()=>patch(x,prev)};
@@ -942,12 +958,16 @@ function matchQ(c,q){
 }
 function callGroups(){
   const today=isoDay(new Date()),resp=$("#aResp").value,vg=$("#aVague").value,q=norm($("#aq").value);
+  const VIDE=k=>[k,"",[],""];
+  if(q.replace(/\D/g,"").length>=6)   // numéro qui appelle : toutes les entreprises, quel que soit leur statut
+    return [["num","Numéro reconnu",allCompanies.filter(c=>matchQ(c,q)),"Entreprises dont un numéro correspond, quel que soit leur statut"],VIDE("rdv"),VIDE("due"),VIDE("todo"),VIDE("retry"),VIDE("later"),VIDE("nonum")];
+  const tok=v=>norm(v).split(/[\s,]+/)[0]||"";
   const inScope=new Set(companies);
   const list=allCompanies.filter(c=>{const s=S(c),cl=callsOf(c),st=statutOf(c);
     if(!inScope.has(c)&&!s.date_relance&&!cl.n&&st==="a_contacter")return false;   // hors périmètre affiché : seulement si un suivi est en cours
     const c2=c.rang<=100&&c.priorite==="Moyenne"&&!c.vague&&!c.exclue&&!/procédure|liquidation|redressement/i.test(c.statut||"");   // deuxième cercle
     if(STOP_ST.has(st)||s.opposition||c.exclue)return false;
-    if(resp==="__me"){if(!(myId&&(s.responsable_id===myId||cl.h.some(e=>e.by===myId))))return false}
+    if(resp==="__me"){if(!(s.responsable?!!myName&&tok(s.responsable)===tok(myName):myId&&(s.responsable_id===myId||cl.h.some(e=>e.by===myId))))return false}
     else if(resp&&norm(s.responsable)!==resp)return false;
     if(vg==="m"){if(!c2)return false}
     else if(vg&&String(c.vague)!==vg)return false;
@@ -990,13 +1010,13 @@ function callRow(c){
   const tel=c.telephone,direct=telIn(s.contact_coord),late=s.date_relance&&s.date_relance<today;
   const h=histOf(s),le=h[h.length-1];
   const last=le&&le.txt&&le.txt!==RLABEL[le.res]?`<div class="alast">${esc(fmtStamp(le.t))} : ${esc(le.txt.length>140?le.txt.slice(0,138)+"…":le.txt)}</div>`:"";
-  const opp=c.opposition_prospection?` <span class="pill warn">Pas de mailing</span>`:"";
+  const opp=(s.opposition?` <span class="pill warn">Refus de prospection : ne pas rappeler</span>`:st==="refus"?` <span class="pill warn">Pas intéressé</span>`:"")+(c.opposition_prospection?` <span class="pill warn">Pas de mailing</span>`:"");
   const rdvTxt=st==="rdv"?`<span class="small ${s.rdv_date&&s.rdv_date<today?"late":""}">${s.rdv_date?"RDV "+esc(fmtShortDay(s.rdv_date))+(s.rdv_heure?" à "+esc(s.rdv_heure):"")+(s.rdv_date<today?" (passé : noter la suite)":""):"RDV : date à noter dans la fiche"}${s.rdv_note?" · "+esc(s.rdv_note):""}</span>`:"";
   return `<div class="arow ${wcls(c)}" data-r="${c.rang}">
     <span class="rk num">${c.vague?"V"+c.vague:c.rang}</span>
     <div class="acol" style="min-width:0">
       <button type="button" class="aname" data-open="${c.rang}">${esc(nameOf(c))}</button>
-      <div class="sub">${esc([c.ville,c.priorite?"priorité "+c.priorite.toLowerCase():null,c.art&&c.art.ca?"jusqu'à "+eur(c.art.plafond)+"/an":null].filter(Boolean).join(" · "))}</div>
+      <div class="sub">${esc([c.ville,c.priorite?"priorité "+c.priorite.toLowerCase():null,c.art&&c.art.ca?(c.art.plafond_a_recalculer?"plafond à recalculer (holding)":"jusqu'à "+eur(c.art.plafond)+"/an"):null].filter(Boolean).join(" · "))}</div>
       <div class="ask-who">${askLine(c)}${opp}</div>
       ${last}
       <details class="abrief"><summary>Discours et questions</summary>${briefHTML(c)}</details>
@@ -1009,22 +1029,24 @@ function callRow(c){
       <span>${cl.last?`<span class="pill ${rcls(cl.last)}">${esc(RLABEL[cl.last]||"")}</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
       ${rdvTxt}
       <span class="muted small num">${cl.n?cl.n+" appel"+(cl.n>1?"s":""):"Jamais appelée"}${s.date_relance?` · ${late?"<b class=\"late\">en retard</b> ":""}rappel ${esc(fmtShortDay(s.date_relance))}${s.rappel_heure?" "+esc(s.rappel_heure):""}`:""}</span>
-      ${canEdit()?`<select class="ares" data-res="${c.rang}" aria-label="Résultat de l'appel à ${esc(nameOf(c))}"><option value="">Noter un appel…</option>${RESULTATS.map(r=>`<option value="${r.k}">${esc(r.m||r.l)}</option>`).join("")}</select>`:""}
+      ${canEdit()&&!s.opposition?`<select class="ares" data-res="${c.rang}" aria-label="Résultat de l'appel à ${esc(nameOf(c))}"><option value="">Noter un appel…</option>${RESULTATS.map(r=>`<option value="${r.k}">${esc(r.m||r.l)}</option>`).join("")}</select>`:""}
       <div class="aform" id="af-${c.rang}" hidden></div>
     </div>
   </div>`;
 }
-function openAform(c,res){
+function openAform(c,res,noFocus){
   const box=document.getElementById("af-"+c.rang);if(!box)return;
+  const s=S(c),rec=callsOf(c).h.map(e=>e.t).filter(v=>Date.parse(v)>Date.now()-30*864e5);
+  const lim=rec.length>=3?firstWorkdayFrom(isoDay(new Date(Date.parse(rec[rec.length-3])+30*864e5))):"",nw=nextWorkday();
   const ok=(l,cls)=>`<button class="btn ${cls||"primary"}" type="button" data-afok="${c.rang}">${l}</button><button class="btn" type="button" data-afno="1">Annuler</button>`;
   const F={
-    rappeler:`<input type="date" name="d" value="${nextWorkday()}" aria-label="Date du rappel"><input type="time" name="h" aria-label="Heure du rappel"><input name="n" placeholder="Qui rappeler, pourquoi" aria-label="Note">${ok("Programmer le rappel")}`,
-    rdv:`<input type="date" name="d" aria-label="Date du rendez-vous"><input type="time" name="h" aria-label="Heure du rendez-vous"><input name="n" placeholder="Où, avec qui" aria-label="Lieu et interlocuteur">${ok("Enregistrer le rendez-vous")}`,
+    rappeler:`${lim>nw?`<p>Déjà 3 appels en 30 jours : sauf rappel demandé par l'entreprise, pas de nouvel essai avant le ${esc(fmtDay(lim))}.</p>`:""}<input type="date" name="d" value="${lim>nw?lim:nw}" aria-label="Date du rappel"><input type="time" name="h" aria-label="Heure du rappel"><input name="n" placeholder="Qui rappeler, pourquoi" aria-label="Note">${ok("Programmer le rappel")}`,
+    rdv:`<input type="date" name="d" value="${esc(s.rdv_date||"")}" aria-label="Date du rendez-vous"><input type="time" name="h" value="${esc(s.rdv_heure||"")}" aria-label="Heure du rendez-vous"><input name="n" value="${esc(s.rdv_note||"")}" placeholder="Où, avec qui" aria-label="Lieu et interlocuteur">${ok("Enregistrer le rendez-vous")}`,
     pas_interesse:`<p>Pas intéressé : l'entreprise sort de la feuille d'appels.</p><input name="n" placeholder="Raison (facultatif)" aria-label="Raison">${ok("Confirmer")}`,
     stop:`<p>Refus de prospection : plus aucun appel ni mail, la date est gardée 3 ans.</p><input name="n" placeholder="Ce qui a été dit (facultatif)" aria-label="Note">${ok("Confirmer le refus")}`
   };
   box.dataset.res=res;box.innerHTML=F[res];box.hidden=false;
-  const first=box.querySelector("input");if(first)first.focus();
+  const first=box.querySelector("input");if(first&&!noFocus)first.focus();
 }
 /* Bilan de la campagne : appels notés, résultats, appelants, 7 derniers jours */
 const JOINT=new Set(["rappeler","interesse","rdv","pas_interesse","stop"]);
@@ -1048,10 +1070,11 @@ async function renderBilan(){
 /* Agenda : rappels et rendez-vous à venir, au format iCalendar (téléphone, Google Agenda, Outlook) */
 function icsFor(){
   const today=isoDay(new Date()),stamp=new Date().toISOString().replace(/[-:]/g,"").replace(/\.\d+/,"");
-  const tx=v=>String(v||"").replace(/\\/g,"\\\\").replace(/;/g,"\;").replace(/,/g,"\\,").replace(/\r?\n/g,"\\n");
+  const tx=v=>String(v||"").replace(/\\/g,"\\\\").replace(/;/g,"\\;").replace(/,/g,"\\,").replace(/\r?\n/g,"\\n");
   const enc=new TextEncoder(),fold=l=>{const o=[];let cur="",n=0;for(const ch of l){const b=enc.encode(ch).length;if(n+b>74){o.push(cur);cur=" ";n=1}cur+=ch;n+=b}o.push(cur);return o.join("\r\n")};   // lignes de 75 octets au plus
   const when=(d,h,min)=>{if(!h)return [`DTSTART;VALUE=DATE:${d.replace(/-/g,"")}`,`DTEND;VALUE=DATE:${(x=>{x.setDate(x.getDate()+1);return isoDay(x)})(new Date(d+"T12:00")).replace(/-/g,"")}`];
-    const t0=new Date(d+"T"+h),z=x=>x.toISOString().replace(/[-:]/g,"").replace(/\.\d+/,"");return [`DTSTART:${z(t0)}`,`DTEND:${z(new Date(t0.getTime()+min*60000))}`]};
+    const loc=t=>t.toISOString().slice(0,16).replace(/[-:]/g,"")+"00",t0=new Date(Date.UTC(+d.slice(0,4),+d.slice(5,7)-1,+d.slice(8,10),+h.slice(0,2),+h.slice(3,5)));   // heure murale, sans conversion
+    return [`DTSTART;TZID=Europe/Paris:${loc(t0)}`,`DTEND;TZID=Europe/Paris:${loc(new Date(t0.getTime()+min*60000))}`]};
   const ev=[];
   for(const x of allCompanies.concat(cPros())){const s=S(x);if(s.opposition)continue;
     const nm=x.rang?nameOf(x):x.nom,tel=x.rang?(telIn(s.contact_coord)||x.telephone||""):((x.contact||{}).telephone||"");
@@ -1059,14 +1082,16 @@ function icsFor(){
     if(s.date_relance&&s.date_relance>=today&&!STOP_ST.has(statutOf(x)))
       ev.push(["rappel",x,when(s.date_relance,s.rappel_heure,15),`Rappeler ${nm}`,[tel&&"Tél. "+tel,who&&"Demander "+who,s.prochaine_action,s.notes].filter(Boolean).join(" · "),""]);
     if(s.rdv_date&&s.rdv_date>=today&&statutOf(x)==="rdv")
-      ev.push(["rdv",x,when(s.rdv_date,s.rdv_heure,60),`Rendez-vous ${nm}`,[who&&"Avec "+who,tel&&"Tél. "+tel,x.art&&x.art.ca?"Jusqu'à "+fmtE(x.art.plafond)+" déductibles par an":"",s.notes].filter(Boolean).join(" · "),s.rdv_note||""])}
+      ev.push(["rdv",x,when(s.rdv_date,s.rdv_heure,60),`Rendez-vous ${nm}`,[who&&"Avec "+who,tel&&"Tél. "+tel,x.art&&x.art.ca&&!x.art.plafond_a_recalculer?"Jusqu'à "+fmtE(x.art.plafond)+" déductibles par an":"",s.notes].filter(Boolean).join(" · "),s.rdv_note||""])}
   const lines=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//CRM Entreprises Nievre//FR","CALSCALE:GREGORIAN","METHOD:PUBLISH",
+    "BEGIN:VTIMEZONE","TZID:Europe/Paris","BEGIN:DAYLIGHT","TZOFFSETFROM:+0100","TZOFFSETTO:+0200","TZNAME:CEST","DTSTART:19700329T020000","RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU","END:DAYLIGHT",
+    "BEGIN:STANDARD","TZOFFSETFROM:+0200","TZOFFSETTO:+0100","TZNAME:CET","DTSTART:19701025T030000","RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU","END:STANDARD","END:VTIMEZONE",
     ...ev.flatMap(([k,x,w,sum,desc,loc])=>["BEGIN:VEVENT",`UID:${k}-${key(x)}-${(S(x)[k==="rdv"?"rdv_date":"date_relance"]||"").replace(/-/g,"")}@crm-nievre`,`DTSTAMP:${stamp}`,...w,`SUMMARY:${tx(sum)}`,desc?`DESCRIPTION:${tx(desc)}`:null,loc?`LOCATION:${tx(loc)}`:null,"END:VEVENT"].filter(Boolean)),
     "END:VCALENDAR"];
   return {n:ev.length,data:lines.map(fold).join("\r\n")+"\r\n"};
 }
 let appelsDirty=false;
-const appelsBusy=()=>{const b=$("#alist");return !!(b&&(b.querySelector(".aform:not([hidden])")||(b.contains(document.activeElement)&&document.activeElement.matches("select,input"))))};
+const appelsBusy=()=>{const b=$("#alist");return !!(b&&b.contains(document.activeElement)&&document.activeElement.matches("select,input"))};
 function renderAppels(force){
   const box=$("#alist");if(!box||!allCompanies.length)return;
   if(!force&&appelsBusy()){appelsDirty=true;return}
@@ -1086,7 +1111,11 @@ function renderAppels(force){
     ["k2",rdv,"rendez-vous fixés","Statut « RDV fixé »"]
   ].map(([cl,n,l,sm])=>`<div class="kpi ${cl}"><b class="num">${n}</b><span>${l}</span><small>${sm}</small></div>`).join("");
   renderBilan();
+  const garde=[...box.querySelectorAll(".aform:not([hidden])")].map(f=>({r:+f.id.slice(3),res:f.dataset.res,v:[...f.querySelectorAll("input")].map(i=>[i.name,i.value])}));
+  const ouverts=new Set([...box.querySelectorAll(".abrief[open]")].map(d=>d.closest(".arow").dataset.r));
   box.innerHTML=groups.filter(x=>x[2].length).map(([k,t,l,sub])=>`<section class="agroup card" aria-label="${esc(t)}"><header><h3>${esc(t)} <span class="num muted">${l.length}</span></h3><span class="hint">${esc(sub)}</span></header>${l.map(callRow).join("")}</section>`).join("")||`<div class="empty card">Rien à appeler avec ces filtres.</div>`;
+  for(const g0 of garde){const c=byId[g0.r];if(!c||!document.getElementById("af-"+g0.r)||!$(`.arow[data-r="${g0.r}"] .ares`))continue;openAform(c,g0.res,true);const f=document.getElementById("af-"+g0.r);for(const [n,v] of g0.v){const i=f.querySelector(`[name="${n}"]`);if(i)i.value=v}}
+  for(const r of ouverts){const d=box.querySelector(`.arow[data-r="${r}"] .abrief`);if(d)d.open=true}
 }
 function renderPlan(){
   const inW=companies.filter(c=>c.vague===1||c.vague===2||c.vague===3);
@@ -1247,6 +1276,17 @@ function copyable(v){if(!v)return"";return `<span class="contact"><span class="m
 function linkOut(url,label){if(!url)return"";const u=/^https?:/i.test(url)?url:"https://"+url;return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(label||url.replace(/^https?:\/\/(www\.)?/,"").replace(/\/$/,""))}</a>`}
 const PLACEHOLDER=t=>`<div class="placeholder"><span class="ico">${icon("building")}</span>${t}</div>`;
 
+/* Rendu d'une fiche pendant une saisie : on attend la fin de la saisie, sauf si un refus vient d'être noté */
+const fieldFocus=box=>box.contains(document.activeElement)&&document.activeElement.matches("input,textarea,select");
+function flushField(box){const a=document.activeElement;if(a&&box.contains(a)&&a._commit&&a.dataset.dirty)a._commit()}
+function refusInfo(x){
+  const s=S(x);
+  if(s.opposition)return {d:s.opposition.date,canal:s.opposition.canal||"téléphone",l:"refus de prospection"};
+  if(statutOf(x)!=="refus")return null;
+  const e=histOf(s).filter(e=>e.res==="pas_interesse").pop();
+  return {d:(s.refus&&s.refus.date)||(e&&e.t)||s.maj||"",canal:(s.refus&&s.refus.origine)||"",l:"« Pas intéressé »"};
+}
+const dateFr=d=>d?new Date(d).toLocaleDateString("fr-FR"):"date inconnue";
 function renderDetail(force){
   const box=$("#detail");
   const c=byId[sel];
@@ -1255,8 +1295,10 @@ function renderDetail(force){
   box.classList.remove("closed");box.classList.add(wcls(c));
   const sig=[c.rang,suivi[key(c)],canEdit(),retView];
   if(!force&&box._sig&&sig.every((v,i)=>v===box._sig[i]))return;   // rien n'a changé pour cette fiche : ne pas la redessiner
-  if(!force&&box.dataset.r==String(c.rang)&&box.contains(document.activeElement)&&document.activeElement.matches("input,textarea,select")){renderHist(c,"f_");return}
-  box.dataset.r=c.rang;box._sig=sig;
+  const crit=!!refusInfo(c);
+  if(!force&&crit===box._crit&&box.dataset.r==String(c.rang)&&fieldFocus(box)){renderHist(c,"f_");box.dataset.stale="1";return}
+  flushField(box);
+  delete box.dataset.stale;box.dataset.r=c.rang;box._sig=sig;box._crit=crit;
   const st=statutOf(c),s=S(c),op=s.opposition;
   const ro=!canEdit();
   const proc=c.statut&&!/^active$/i.test(c.statut);
@@ -1314,6 +1356,7 @@ function renderDetail(force){
       <div class="fig"><b class="num">${a.ca?eur(a.prix_max):"100 k€ et +"}</b><span>Œuvres déduites en 5 ans</span></div>
       <div class="fig"><b class="num">${a.ca?eur(a.economie_max):"25 k€ et +"}</b><span>Impôt en moins, au plus</span></div>
     </div>
+    ${a.plafond_a_recalculer?`<p class="muted small" style="margin:0"><b class="late">Holding :</b> chiffres calculés sur son chiffre d'affaires, souvent consolidé. La limite se calcule sur le chiffre d'affaires de la société du groupe qui achèterait l'œuvre (20 000 € au minimum).</p>`:""}
     <dl class="kv">
       ${line("Régime fiscal",esc(a.regime)+(c.forme_juridique?` <span class="muted">— ${esc(c.forme_juridique)}</span>`:""))}
       ${line("Résultat net",a.resultat!=null?`<span class="num">${eur(a.resultat)}</span>${(a.annee_resultat||a.annee)?` <span class="muted">(exercice ${esc(a.annee_resultat||a.annee)}${a.source==="recherche"&&a.annee_resultat===a.annee?", relevé par la recherche, à confirmer":""})</span>`:""}`:`<span class="muted">Non publié</span>`)}
@@ -1328,7 +1371,7 @@ function renderDetail(force){
       <div class="mail" data-note="1">${esc(noteEC(c))}</div>
       <button class="btn" type="button" data-copynote="1" style="margin-top:8px">Copier la note</button>
     </details>
-    ${op||c.opposition_prospection?`<p class="muted" style="font-size:13px;margin:0">Pas de mail d'approche : ${op?`refus de prospection noté le ${esc(new Date(op.date).toLocaleDateString("fr-FR"))}`:"l'entreprise s'est opposée à la prospection sur Pappers, contact direct uniquement"}.</p>`:(m=>`<details class="mailer"><summary>Préparer le mail d'approche</summary>
+    ${refusInfo(c)||c.opposition_prospection?`<p class="muted" style="font-size:13px;margin:0">Pas de mail d'approche : ${(ri=>ri?`${ri.l} noté le ${esc(dateFr(ri.d))}`:"l'entreprise s'est opposée à la prospection sur Pappers, contact direct uniquement")(refusInfo(c))}.</p>`:(m=>`<details class="mailer"><summary>Préparer le mail d'approche</summary>
       ${c.opposition_prospection==null?`<div class="recent" style="margin-top:8px"><b>Opposition non vérifiée</b><span>Avant d'écrire, vérifier sur la fiche Pappers que l'entreprise ne s'est pas opposée à la prospection. ${c.siren?linkOut("https://www.pappers.fr/entreprise/"+String(c.siren).replace(/\s/g,""),"Ouvrir Pappers"):""}</span></div>`:""}
       <div class="recent" style="margin-top:8px"><b>À compléter avant envoi</b><span>Vos prénom, nom et téléphone, la structure qui vend les œuvres (raison sociale, adresse : jamais nos établissements) et la source des coordonnées.</span></div>
       <div class="mailsubj"><span class="cb-l">Objet</span><div class="mail" data-subj="1">${esc(m.objet)}</div><button class="btn" type="button" data-copysubj="1">Copier l'objet</button></div>
@@ -1400,7 +1443,7 @@ function renderDetail(force){
 }
 /* Trois prix d'œuvre types pour le rendez-vous : déduction par an, impôt en moins sur 5 ans (taux normal de 25 %), coût net */
 function simTable(c){
-  const a=c.art||{},lim=a.ca?a.plafond:PLANCHER;
+  const a=c.art||{},lim=a.ca&&!a.plafond_a_recalculer?a.plafond:PLANCHER;
   const prix=[10000,25000,Math.round(lim*5/1000)*1000].filter((v,i,t)=>v>0&&t.indexOf(v)===i).sort((x,y)=>x-y);
   const rows=prix.map(p=>{const ded=Math.min(p/5,lim),eco=ded*5*.25;return `<tr><td>${fmtE(p)}</td><td>${fmtE(ded)}</td><td>${fmtE(eco)}</td><td>${fmtE(p-eco)}</td></tr>`}).join("");
   return `<details class="mailer"><summary>Simulation à présenter</summary>
@@ -1448,7 +1491,7 @@ Objet : acquisition d'œuvres originales d'artistes vivants (article 238 bis AB 
 - Déduction : prix d'acquisition déduit du résultat imposable par fractions égales sur l'exercice d'acquisition et les quatre suivants, dans la limite annuelle de 20 000 € ou de 5 ‰ du chiffre d'affaires HT si ce montant est plus élevé, minorée des versements de mécénat de l'article 238 bis.
 - Exposition : dans un lieu accessible gratuitement au public ou aux salariés, à l'exception de leurs bureaux, pendant la période de déduction.
 - Réserve spéciale : somme égale au montant déduit inscrite à un compte de réserve spéciale au passif ; réintégration au résultat en cas de cession, de changement d'affectation ou de prélèvement sur cette réserve.
-- Ordre de grandeur : ${a.ca?`limite annuelle d'environ ${fmtE(a.plafond)} (chiffre d'affaires de référence ${eur(a.ca)}${a.annee?", exercice "+a.annee:""})`:"limite annuelle de 20 000 €, chiffre d'affaires à préciser"}.
+- Ordre de grandeur : ${a.plafond_a_recalculer?"limite annuelle à calculer sur le chiffre d'affaires propre de la société du groupe qui achète l'œuvre (20 000 € au minimum)":a.ca?`limite annuelle d'environ ${fmtE(a.plafond)} (chiffre d'affaires de référence ${eur(a.ca)}${a.annee?", exercice "+a.annee:""})`:"limite annuelle de 20 000 €, chiffre d'affaires à préciser"}.
 
 Éléments donnés à titre d'information, à valider par vos soins.`;
 }
@@ -1540,8 +1583,10 @@ function renderCDetail(force){
   box.classList.remove("closed");box.classList.add(f.cls);
   const sig=[x.id,suivi[key(x)],canEdit()];
   if(!force&&box._sig&&sig.every((v,i)=>v===box._sig[i]))return;
-  if(!force&&box.dataset.r===x.id&&box.contains(document.activeElement)&&document.activeElement.matches("input,textarea,select")){renderHist(x,"g_");return}
-  box.dataset.r=x.id;box._sig=sig;
+  const crit=!!refusInfo(x);
+  if(!force&&crit===box._crit&&box.dataset.r===x.id&&fieldFocus(box)){renderHist(x,"g_");box.dataset.stale="1";return}
+  flushField(box);
+  delete box.dataset.stale;box.dataset.r=x.id;box._sig=sig;box._crit=crit;
   const st=statutOf(x),ro=!canEdit(),ct=x.contact||{},rp=x.responsable,op=S(x).opposition;
   const where=[x.discipline,x.ville,x.distance_cosne_km!=null?(x.distance_cosne_km<=3?"à Cosne":"≈ "+x.distance_cosne_km+" km de Cosne"):null].filter(Boolean).join(" · ");
   const hasContact=ct.telephone||ct.email||ct.site||ct.facebook||ct.instagram;
@@ -1556,7 +1601,7 @@ function renderCDetail(force){
   <div class="d-sec">
     <h3>Idée d'événement</h3>
     <div class="angle">${esc(x.idee_evenement||"À imaginer ensemble")}</div>
-    ${op?`<p class="muted small" style="margin:0">Pas de message : refus de contact noté le ${esc(new Date(op.date).toLocaleDateString("fr-FR"))} (${esc(op.canal||"")}).</p>`:`<details class="mailer"><summary>Préparer le message d'approche</summary>
+    ${refusInfo(x)?`<p class="muted small" style="margin:0">Pas de message : ${(ri=>`${ri.l} noté le ${esc(dateFr(ri.d))}${ri.canal?" ("+esc(ri.canal)+")":""}`)(refusInfo(x))}.</p>`:`<details class="mailer"><summary>Préparer le message d'approche</summary>
       <div class="mail" data-mail="1">${esc(cMailFor(x))}</div>
       <button class="btn" type="button" data-copymail="1" style="margin-top:8px">Copier le message</button>
     </details>`}
@@ -1657,6 +1702,8 @@ $("#rows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)r
 $("#crows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)return;csel=r.dataset.c;renderCList();renderCDetail(true);$("#cdetail").scrollTop=0});
 for(const id of ["#rows","#crows"])$(id).addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("row")){e.preventDefault();e.target.click()}});
 detailClicks($("#detail"),()=>{sel=null;renderList();renderDetail(true)});
+for(const [id,fn] of [["#detail",()=>renderDetail()],["#cdetail",()=>renderCDetail()]])
+  $(id).addEventListener("focusout",()=>setTimeout(()=>{const b=$(id);if(b.dataset.stale&&!fieldFocus(b))fn()},0));
 detailClicks($("#cdetail"),()=>{csel=null;renderCList();renderCDetail(true)});
 $("#pipeline").addEventListener("click",e=>{const b=e.target.closest(".stage");if(!b)return;filt.statut=filt.statut===b.dataset.st?"":b.dataset.st;renderPipeline();renderList()});
 $("#q").addEventListener("input",e=>{filt.q=e.target.value;renderList()});
@@ -1683,7 +1730,7 @@ $("#alist").addEventListener("click",async e=>{
   if(res==="rappeler"){if(!v("d")){toast("Choisis la date du rappel");return}extra={date_relance:v("d"),rappel_heure:v("h")};txt="À rappeler le "+fmtDay(v("d"))+(v("h")?" à "+v("h"):"")}
   if(res==="rdv"){if(!v("d")){toast("Choisis la date du rendez-vous");return}extra={rdv_date:v("d"),rdv_heure:v("h"),rdv_note:v("n"),date_relance:"",rappel_heure:""};txt="Rendez-vous le "+fmtDay(v("d"))+(v("h")?" à "+v("h"):"")}
   if(v("n"))txt+=" : "+v("n");
-  ok.disabled=true;
+  ok.disabled=true;box.hidden=true;
   afterLog(c,res,await logResult(c,res,txt,extra));
 });
 $("#alist").addEventListener("change",async e=>{const sl=e.target.closest(".ares");if(!sl||!sl.value)return;
@@ -1739,8 +1786,9 @@ $("#exportIcs").addEventListener("click",()=>{
 $("#bilan").addEventListener("toggle",()=>{if($("#bilan").open)renderBilan()});
 $("#exportOpp").addEventListener("click",()=>{   // liste d'exclusion : refus notés dans le CRM et oppositions relevées sur Pappers
   const rows=[];
-  for(const c of allCompanies){const o=S(c).opposition;if(o||c.opposition_prospection)rows.push(["entreprise",c.nom,c.siren,o?isoDay(new Date(o.date)):"",o?o.canal||"":"",o?"noté dans le CRM":"opposition Pappers"])}
-  for(const x of cPros()){const o=S(x).opposition;if(o)rows.push(["culture",x.nom,"",isoDay(new Date(o.date)),o.canal||"","noté dans le CRM"])}
+  const jour=d=>{const t=new Date(d);return isNaN(t)?"":isoDay(t)};
+  for(const c of allCompanies){const ri=refusInfo(c);if(ri||c.opposition_prospection)rows.push(["entreprise",c.nom,c.siren,ri?jour(ri.d):"",ri?ri.canal:"",ri?(S(c).opposition?"refus de prospection noté dans le CRM":"pas intéressé, noté dans le CRM"):"opposition relevée sur Pappers ou un annuaire"])}
+  for(const x of cPros()){const ri=refusInfo(x);if(ri)rows.push(["culture",x.nom,"",jour(ri.d),ri.canal,S(x).opposition?"refus de contact noté dans le CRM":"pas intéressé, noté dans le CRM"])}
   saveFile("refus-prospection-nievre.csv",csvOf(["type","nom","siren","date","canal","origine"],rows));
 });
 
@@ -1771,19 +1819,30 @@ $("#scope").addEventListener("click",e=>{const b=e.target.closest("[data-scope]"
 
 /* Suivi noté sur cet appareil hors connexion : proposé à l'envoi dans le suivi partagé (historiques réunis, refus conservés) */
 function offerLocal(){
-  const loc=loadLocal(),ks=Object.keys(loc).filter(k=>loc[k]&&typeof loc[k]==="object");
+  const loc=loadLocal()||{},ks=Object.keys(loc).filter(k=>loc[k]&&typeof loc[k]==="object");
   if(!ks.length||!canEdit()||$("#pushLocal"))return;
   const b=document.createElement("button");b.className="btn-ghost";b.type="button";b.id="pushLocal";
   b.textContent=`Envoyer le suivi de cet appareil (${ks.length})`;b.title="Des fiches ont été suivies sur cet appareil hors connexion : les ajouter au suivi partagé";
-  b.addEventListener("click",async()=>{b.disabled=true;let n=0;
-    for(const k of ks){const L=loc[k],R=suivi[k]||{},ch={},newer=!R.maj||(L.maj&&L.maj>R.maj);
-      if(newer)for(const [f,v] of Object.entries(L))if(!["historique","journal","maj","appels","dernier_resultat","dernier_appel","opposition"].includes(f)&&v!=null&&v!==R[f])ch[f]=v;
+  b.addEventListener("click",async()=>{if(!canEdit())return;b.disabled=true;let n=0,conf=0;const reste={};
+    for(const k of ks){const L=loc[k],R=suivi[k]||{},ch={},bloque=!!(R.opposition||R.statut==="refus");
+      for(const [f,v] of Object.entries(L)){
+        if(["historique","journal","maj","appels","dernier_resultat","dernier_appel","opposition","refus","responsable_id"].includes(f)||v==null||v==="")continue;
+        if(bloque&&["statut","date_relance","rappel_heure"].includes(f))continue;
+        if(R[f]===undefined||R[f]===null||R[f]==="")ch[f]=v;else if(R[f]!==v)conf++;   // un champ déjà rempli dans le suivi partagé n'est pas remplacé
+      }
       const have=new Set(histOf(R).map(e=>e.t+"|"+(e.by||"")));
       for(const e of histOf(L))if(!have.has(e.t+"|"+(e.by||""))){const {id,...rest}=e;(ch.journal=ch.journal||{})[newId(e.t)]=rest}
       if(L.opposition&&!R.opposition)ch.opposition=L.opposition;
-      if(Object.keys(ch).length){ch.maj=L.maj||new Date().toISOString();if(await persist(k,ch))n++}}
-    try{localStorage.removeItem("crm58-suivi")}catch(e){}
-    b.remove();toast(`${n} fiche${n>1?"s":""} ajoutée${n>1?"s":""} au suivi partagé`);renderAll(true)});
+      if(L.refus&&!R.refus)ch.refus=L.refus;
+      if(!Object.keys(ch).length)continue;
+      ch.maj=new Date().toISOString();
+      if(await persist(k,ch))n++;else reste[k]=L;
+    }
+    const m=Object.keys(reste).length;
+    try{if(m)localStorage.setItem("crm58-suivi",JSON.stringify(reste));else localStorage.removeItem("crm58-suivi")}catch(e){}
+    toast(`${n} fiche${n>1?"s":""} ajoutée${n>1?"s":""} au suivi partagé`+(m?` · ${m} non envoyée${m>1?"s":""}, gardée${m>1?"s":""} sur cet appareil`:"")+(conf?` · ${conf} champ${conf>1?"s":""} déjà rempli${conf>1?"s":""} autrement, non remplacé${conf>1?"s":""}`:""));
+    if(m){b.disabled=false;b.textContent=`Envoyer le suivi de cet appareil (${m})`}else b.remove();
+    renderAll()});
   $(".top-actions").prepend(b);
 }
 
@@ -1808,8 +1867,8 @@ function offerLocal(){
   const fams=Object.keys(FAMS).filter(f=>cPros().some(x=>x.famille===f));
   $("#cfam").insertAdjacentHTML("beforeend",fams.map(f=>`<option>${esc(f)}</option>`).join(""));
   const rt=!!(window.claude&&window.claude.use);
-  const goLocal=msg=>{suivi=loadLocal();mode="local";ready=true;setSync("local",msg);
-    window.addEventListener("storage",e=>{if(e.key==="crm58-suivi"){suivi=loadLocal();renderAll()}})};
+  const goLocal=msg=>{const l=loadLocal();suivi=l||{};mode="local";ready=true;setSync("local",l?msg:"Stockage du navigateur indisponible : suivi non enregistré");
+    window.addEventListener("storage",e=>{if(e.key==="crm58-suivi"){suivi=loadLocal()||suivi;renderAll()}})};
   if(rt){suivi={};mode="loading";ready=false;setSync("","Chargement du suivi…")}else goLocal("Suivi enregistré sur cet appareil");
   renderCStatic();
   setView(startView);
@@ -1817,7 +1876,8 @@ function offerLocal(){
   if(!rt)return;
   const [d,u]=await Promise.all([window.claude.use("db").catch(()=>null),window.claude.use("user").catch(()=>null)]);
   userNs=u;
-  if(u){try{myId=await u.id()}catch(e){}}
+  if(u){try{myId=await u.id()}catch(e){}
+    if(myId){try{const ps=await u.profiles([myId]);myName=(ps&&ps[myId]&&ps[myId].name)||""}catch(e){}}}
   if(!d){goLocal("Suivi enregistré sur cet appareil uniquement");renderAll(true);return}
   db=d;mode="db";
   if(u){try{const w=await u.can("data.write");if(w===false)canWrite=false}catch(e){}}

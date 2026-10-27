@@ -85,7 +85,7 @@ FOURNISSEURS = {59, 39}
 VISIBILITE = {88, 64, 84}
 LOCAL_COSNE = {90, 19, 66, 94, 59, 88}  # site à Cosne vérifié : Styl'Habitat, SUMA VW Cosne, labo Evorial, agence Distance
 MEDIAS = {88}
-OPPOSITION = {100, 66}
+OPPOSITION = {100, 66, 97}   # 97 (ASM) : « opposé au marketing direct » sur sa fiche 118000
 NOMS_COURTS = {19: "SUMA Volkswagen (Nevers et Cosne)", 60: "GEFICCA", 49: "Pasori (centre de rééducation)", 10: "E.Leclerc Nevers",
   39: "Saget La Perrière", 59: "CHR Boissons / Cave du Val d'Or", 75: "Garage GRV (Citroën et Peugeot Cosne)", 3: "Groupe Vincent (holding)",
   38: "Renault Cosne (groupe Simonneau)", 15: "Renault Nevers (groupe Simonneau)", 88: "Le Journal du Centre", 94: "Distance location auto (groupe Vincent)"}
