@@ -1,0 +1,284 @@
+[
+ {
+  "rang": 327,
+  "siren": "491387023",
+  "nom": "EF TRANSPORTS",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE DES FONDEURS",
+  "code_postal": "58200",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "code_naf": "64.20Z",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "Ibrahim EL FAYZI",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Mustapha EL FAYZI",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mustapha EL FAYZI",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ef-transports-491387023"
+  },
+  "note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (3 requêtes). Activité déclarée « services financiers » malgré le nom : probablement une holding. Deuxième passe (27/10/2026) : aucun numéro trouvé (recherches nom + ville + dirigeants, puis nom + rue des Fondeurs) : uniquement des fiches registre confirmant une holding (NAF 64.20Z) ; un annuaire transport cite une adresse EF TRANSPORTS à Saint-Martin-sur-Nohain, sans téléphone. Vérification : relecture sans recherche, cohérent."
+ },
+ {
+  "rang": 332,
+  "siren": "502997745",
+  "nom": "SOCIETE PATRIMONIALE DE LA NIEVRE",
+  "ville": "Nevers",
+  "adresse": "HOTEL DU DEPARTEMENT 30 RUE DE LA PREFECTURE",
+  "code_postal": "58000",
+  "activite": "Construction de bâtiments",
+  "code_naf": "41.10C",
+  "effectif": "0 salarié",
+  "dirigeants": [
+   {
+    "nom": "Jocelyne Marie GUERIN (RAMEAU)",
+    "fonction": "Président du conseil d’administration et directeur général"
+   },
+   {
+    "nom": "CAISSE DES DEPOTS ET CONSIGNATIONS",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "CONSEIL DEPARTEMENTAL DE LA NIEVRE",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "BATIFRANC",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jocelyne Guérin",
+   "fonction": "Présidente du conseil d'administration et directrice générale",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/societe-patrimoniale-de-la-nievre-502997745"
+  },
+  "note_contacts": "Structure para-publique sans salarié (siège à l'Hôtel du Département ; administrateurs Caisse des dépôts, Conseil départemental de la Nièvre, Batifranc). Aucune page web propre trouvée. Jocelyne Guérin (conseillère départementale) préside aussi Nièvre Aménagement (SA d'économie mixte, DG Cédric Duhem en mars 2022, source https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/mars_2022_rna_nievre_amgt.pdf) : gestion probablement assurée par Nièvre Aménagement, lien non confirmé. Interlocuteur peu pertinent pour une prospection commerciale classique. Deuxième passe (27/10/2026) : société très probablement identique à la « SEM Patrimoniale de la Nièvre » (annuaire des EPL, https://www.lesepl.fr/annuaire-entreprises-publiques-locales/sem-patrimoniale-de-la-nievre/), hébergée avec Nièvre Aménagement au 11 rue Bovet à Nevers et partageant son standard selon https://www.lafabriquemploi.fr/nievre-amenagement-investit-de-nouveaux-locaux/ ; le numéro lui-même n'apparaît pas dans les extraits. Passer par le standard de Nièvre Aménagement reste la piste."
+ },
+ {
+  "rang": 334,
+  "siren": "882956204",
+  "nom": "SPFPL E. PAILLE",
+  "ville": "Nevers",
+  "adresse": "19 RUE SAINT MARTIN",
+  "code_postal": "58000",
+  "activite": "Activités juridiques",
+  "code_naf": "69.10Z",
+  "effectif": "0 salarié",
+  "dirigeants": [
+   {
+    "nom": "Emmanuelle PAILLÉ",
+    "fonction": "Gérant et associé indéfiniment responsable"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Emmanuelle Paillé",
+   "fonction": "Gérante et associée indéfiniment responsable",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/spfpl-e-paille-882956204"
+  },
+  "note_contacts": "SPFPL (holding de profession libérale, 0 salarié). Profession exercée non identifiée : aucune notaire/avocate/commissaire de justice à ce nom trouvée dans les annuaires indexés (3 recherches). Aucun numéro trouvé. Deuxième passe (27/10/2026) : aucun numéro pour la holding ; piste non confirmée : Emmanuelle Paillé (née en 1984) aurait exercé comme greffière de tribunal de commerce (SELARL Emmanuelle Paillé radiée en 2021, article https://forumeco.fr/apres-40-ans-le-greffe-du-tribunal-de-commerce-change-de-main/). Le numéro d'un greffe appartiendrait à une autre entité, donc non retenu."
+ },
+ {
+  "rang": 338,
+  "siren": "383622479",
+  "nom": "GOMES",
+  "ville": "Nevers",
+  "adresse": "PARC D'ACTIVITES DE NEVERS SAINT ELOI 12 RUE DES GRANDS PRES",
+  "code_postal": "58000",
+  "activite": "Réparation et installation de machines et d'équipements",
+  "code_naf": "33.20A",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "Jean-Claude GOMES",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Claude Gomes",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/gomes-383622479"
+  },
+  "note_contacts": "Aucune présence web trouvée (3 recherches : nom + adresse, activité, SIREN) ; aucun numéro. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : la société figure dans les annuaires sous « Gomès SA » (métallurgie, chaudronnerie, maintenance), notamment sur PagesJaunes (https://www.pagesjaunes.fr/pros/00931978, au 13 rue des Grands Prés), mais le numéro n'apparaît pas dans les extraits. Pas de site propre trouvé."
+ },
+ {
+  "rang": 349,
+  "siren": "952338515",
+  "nom": "NIVERNAIS BATIMENT CONSTRUCTION",
+  "ville": "Nevers",
+  "adresse": "11 RUE DES CHAILLOUX",
+  "code_postal": "58000",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.99C",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "SAVAS KESKIN",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Savas Keskin",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/952338515"
+  },
+  "note_contacts": "Société récente (SIREN 952…, créée vers 2023), aucune présence web trouvée (3 recherches : nom, nom + adresse, dirigeant). Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : la fiche PagesJaunes « Nivernais Bâtiment Construction » (maçonnerie, 11 rue des Chailloux, https://www.pagesjaunes.fr/pros/63452925) affiche un numéro de portable, non visible dans les extraits. Aucun site trouvé ; une autre société Keskin (commerce automobile) est domiciliée à la même adresse."
+ },
+ {
+  "rang": 355,
+  "siren": "491233797",
+  "nom": "SOTEC SOCIETE TARDIVAT ET CHARDONNERET",
+  "ville": "Saint-Benin-d'Azy",
+  "adresse": "29 RUE DE LA BADELLE",
+  "code_postal": "58270",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.22B",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "Jerome TARDIVAT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jérôme Tardivat",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sotec-societe-tardivat-et-chardonneret-491233797"
+  },
+  "note_contacts": "3 recherches sans résultat : aucune fiche annuaire, site ni numéro trouvé pour cette SOTEC (homonymes dans le Jura et en Haute-Garonne, sans rapport). Dirigeant issu du registre uniquement. Deuxième passe (27/10/2026) : SOTEC est aussi cuisiniste et salles de bains (site sotec-salledebain-cuisine.fr, page contact https://www.sotec-salledebain-cuisine.fr/contact, présentée à Nevers), mais le numéro n'apparaît pas dans les extraits. Ne pas confondre avec Christophe Tardivat, particulier au 13 rue Badelle. Vérification : site retiré de site_web car présenté à Nevers et non à Saint-Benin-d'Azy, sans élément le rattachant à Jérôme Tardivat ; piste https://www.sotec-salledebain-cuisine.fr/ à confirmer."
+ },
+ {
+  "rang": 358,
+  "siren": "879790616",
+  "nom": "MENUISERIE BRADE",
+  "nom_commercial": "MENUISERIE ARTISANALE BRADE",
+  "ville": "Guipy",
+  "adresse": "24 RUE SAINT JACQUES DE COMPOSTELLE",
+  "code_postal": "58420",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.32A",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "Gregory BRADE",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Jerome Ludovic Rene BRADE",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Laetitia Stephanie BRADE",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Grégory Brade",
+   "fonction": "Cogérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/menuiserie-brade-879790616"
+  },
+  "note_contacts": "Trois cogérants au registre (Grégory Brade, Jérôme Brade, Laetitia Brade) ; aucun élément public ne permet de désigner le principal. SARL créée le 11/12/2019 (menuiserie bois et PVC), reprenant l'enseigne « Menuiserie Artisanale Brade » de l'ancienne entreprise individuelle de René Brade (fermée fin 2019). Deux établissements : siège à Guipy et un site rue des Forges à Corbigny (58800) selon https://annuaire-entreprises.data.gouv.fr/entreprise/879790616. Aucun numéro trouvé en 3 recherches. Deuxième passe (27/10/2026) : aucun numéro fiable trouvé en 2 recherches (enseigne « Menuiserie Artisanale Brade », siège à Guipy, établissement au 16 rue des Forges à Corbigny) ; les numéros d'annuaires remontés ont été écartés (Kompass : 01 43 34 34 34, numéro parisien générique ; Hoodspot : 0000000000). La fiche Annuaire de La Poste remontée porte le SIRET de l'ancienne entreprise individuelle de René Brade, sans numéro visible. Vérification : relecture seule, absence de numéro cohérente avec les numéros écartés."
+ },
+ {
+  "rang": 360,
+  "siren": "438561789",
+  "nom": "AFIC",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "2 RUE THOMAS EDISON",
+  "code_postal": "58640",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "code_naf": "82.11Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "Marie-Helene BERNARD (JOUOT)",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Marie-Hélène Bernard",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/afic-438561789"
+  },
+  "note_contacts": "SAS holding créée en 2001 (objet : prises de participation et services administratifs aux filiales, NAF 82.11Z), capital 14 500 € (https://origami-entreprises.fr/entreprise/afic-438561789/, agrégateur). Filiales non identifiées. Aucun numéro, site ni e-mail trouvé en 3 recherches. Nom de naissance au registre : Jouot. Deuxième passe (27/10/2026) : aucun numéro publié au nom d'AFIC ; au 2 rue Thomas Edison, AFIC apparaît comme centre de domiciliation (19 sociétés, annuairedomiciliation.fr), tête de groupe de CMG Centre de Matériel Général (SIREN 778 492 009) et présidente de TPI Travaux Publics et Industriels (SIREN 350 408 183), toutes deux rue Thomas Edison à Varennes-Vauzelles. Le standard de ces filiales, non recherché faute de budget, est la piste pour joindre la présidente. Vérification : relecture seule, absence de numéro cohérente (numéros de filiales non retenus pour la holding)."
+ },
+ {
+  "rang": 362,
+  "siren": "901643510",
+  "nom": "HOLDING VEGEO GROUPE",
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "2 RUE DE VEAUPOULE",
+  "code_postal": "58420",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "code_naf": "82.11Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "Emilie VENESSON (GALO)",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Julien VENESSON",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Julien Venesson",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/holding-vegeo-groupe-901643510"
+  },
+  "note_contacts": "SAS holding créée le 29/06/2021, sans salarié en 2022 (https://annuaire-entreprises.data.gouv.fr/entreprise/901643510). Une version de l'annuaire des entreprises indique le siège au 15 rue Commandant Victor Guerreau à Brinon-sur-Beuvron, différent de l'adresse fournie (2 rue de Veaupoule) : transfert probable, à vérifier. Filiales non identifiées. Aucun numéro, site ni e-mail trouvé en 3 recherches. Deuxième passe (27/10/2026) : aucun numéro, site ni e-mail trouvé en 2 recherches ; d'après Pappers et societe.com, la holding préside la SAS Les Pattes Douces (SIREN 840 504 427, Brinon-sur-Beuvron) et Julien Venesson dirige aussi Venesson Medias et plusieurs SCI à Brinon (Labo Beuvron, Garage Beuvron, Nièvre Beuvron). Ces sociétés liées sont la piste pour un numéro. Vérification : relecture seule, absence de numéro cohérente."
+ },
+ {
+  "rang": 366,
+  "siren": "892315128",
+  "nom": "TÝR Sécurité",
+  "ville": "Raveau",
+  "adresse": "5 ROUTE DES BERTRANGES",
+  "code_postal": "58400",
+  "activite": "Enquêtes et sécurité",
+  "code_naf": "80.10Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Rudy RUELLE",
+    "fonction": "Gérant"
+   }
+  ],
+  "note_contacts": "Opposition à la prospection : seules des coordonnées de l'entreprise ont été recherchées ; aucun téléphone, e-mail ni site trouvé. Aucun site propre n'a été trouvé : le gérant (Rudy Ruelle, voir registre) n'est donc pas repris. Un arrêté de la préfecture du Cher de 2021 (https://www.cher.gouv.fr/contenu/telechargement/29685/198884/file/recueil-18-2021-06-006-recueil-des-actes-administratifs-special.pdf) confirme le siège au 5 route des Bertranges à Raveau et l'agrément CNAPS. Il existe une société liée à la même adresse, TÝR Sécurité Renforcée (SIREN 953122363, créée en 2023). Profil : entreprise de sécurité privée (gardiennage de sites, rondes, interventions sur alarme, sécurité événementielle, sécurité incendie) basée 5 route des Bertranges à Raveau, près de La Charité-sur-Loire ; peu de locaux recevant du public (bureau de siège, agents sur sites clients), service 24h/24. Société sœur créée en 2023 à la même adresse, TÝR Sécurité Renforcée (SIREN 953122363, surveillance armée), qui intervient partout en France. Cibles 101-500 (27/10/2026) : opposition à la prospection, aucun nom retenu (aucun dirigeant nommé sur un site propre de l'entreprise vu dans les résultats). 4 recherches. À l'appel : respecter l'opposition (pas de démarchage insistant), demander simplement à parler au responsable de l'entreprise. Vérification : aucune recherche (opposition à la prospection) : toutes les coordonnées ont été retirées de la fiche et de la note (standard vu seulement sur PagesJaunes, e-mail vu seulement dans un extrait LinkedIn, site non vérifié, numéros de la société sœur et mobile d'annuaire). Aucun nom n'était retenu. Opposition à la prospection : seules des coordonnées de l'entreprise ont été recherchées ; aucun téléphone, e-mail ni site trouvé. Aucun site propre n'a été trouvé : le gérant (Rudy Ruelle, voir registre) n'est donc pas repris. Un arrêté de la préfecture du Cher de 2021 (https://www.cher.gouv.fr/contenu/telechargement/29685/198884/file/recueil-18-2021-06-006-recueil-des-actes-administratifs-special.pdf) confirme le siège au 5 route des Bertranges à Raveau et l'agrément CNAPS. Il existe une société liée à la même adresse, TÝR Sécurité Renforcée (SIREN 953122363, créée en 2023). 2e passe : 3 recherches sans numéro ; l'annuaire 118712.fr liste « Týr sécurité » (surveillance, gardiennage, protection, rue des Bertranges, 58400, ouvert 24h/24) mais le numéro n'apparaît pas dans l'extrait (https://www.118712.fr/annuaire/departement/cher/entreprise-de-securite) ; un arrêté de la préfecture du Cher de 2022 (gardiennage d'un festival aux Aix-d'Angillon) confirme le siège à Raveau. Vérification : Opposition à la prospection : seuls les éléments d'entreprise étaient à vérifier, et aucun n'est enregistré (ni téléphone, ni e-mail). Aucune recherche faite, rien à vérifier.",
+  "opposition_prospection": true
+ }
+]

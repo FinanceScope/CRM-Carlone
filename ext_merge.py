@@ -634,6 +634,7 @@ for c in base + ext:
     c['contacts_ok'] = True
     if e.get('note'): c['note_contacts'] = str(e['note']).strip()
     if e.get('decision'): c['decision'] = str(e['decision']).strip()      # où se prend la décision d'achat (recherche approfondie du top 100)
+    if isinstance(e.get('cessation'), dict) and e['cessation'].get('source'): c['cessation'] = e['cessation']   # passe approfondie : activité probablement cessée (source à l'appui)
     std = e.get('standard') or {}
     if std.get('tel') and not c.get('telephone'): c['telephone'] = clean_tel(std['tel']); n_ct['tel ajouté'] += 1
     elif std.get('tel') and std.get('fiabilite') == 'officielle' and c.get('telephone') != clean_tel(std['tel']):

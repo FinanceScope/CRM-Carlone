@@ -1,0 +1,180 @@
+[
+ {
+  "rang": 389,
+  "siren": "827816042",
+  "nom": "VSC VINS STEPHANE CHARLOT",
+  "ville": "Corvol-l'Orgueilleux",
+  "adresse": "53 GRANDE RUE",
+  "code_postal": "58460",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.34Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "STEPHANE CHARLOT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Stéphane Charlot",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/vsc-vins-stephane-charlot-827816042"
+  },
+  "note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches). Dirigeant repris du registre seulement. Deuxième passe (27/10/2026) : le sigle VSC est confirmé (53 Grande Rue, Corvol-l'Orgueilleux) ; Pages Jaunes liste « Vins Stéphane Charlot » comme caviste à Perrigny (autre commune, https://www.pagesjaunes.fr/pros/59037019) et « Charlot Stéphane » à Corvol en poissonnerie, sans numéro dans les extraits. Aucun numéro retenu."
+ },
+ {
+  "rang": 390,
+  "siren": "441775632",
+  "nom": "ACD",
+  "ville": "Bulcy",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "effectif": "6-9 salariés",
+  "note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches : nom + Bulcy, SIREN, gérant) ; aucun dirigeant dans le registre fourni ni trouvé. Activité d'intermédiaire financier/assurance : vérifier au registre ORIAS. Adresse de rue à Bulcy non trouvée. Deuxième passe (27/10/2026) : le siège d'ACD (SAS de courtage en assurance, ex-Evassurances, président Yves Armspach, DG Thomas Armspach) est au 31 rue des Hôtelleries à La Charité-sur-Loire et non à Bulcy (annuaire-entreprises.data.gouv.fr) ; aucun numéro trouvé (2 recherches)."
+ },
+ {
+  "rang": 392,
+  "siren": "853573731",
+  "nom": "H2MOTRONICS (H2MOTRONICS ADVANCED RESEARCH)",
+  "ville": "Nevers",
+  "adresse": "BATIMENT L'INKUB 7 RUE DU 13E DE LIGNE",
+  "code_postal": "58000",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "code_naf": "71.12B",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.h2motronics.com/fr/",
+  "email": "contact@h2motronics.com",
+  "dirigeants": [
+   {
+    "nom": "TEXYS HD",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Philippe Leuwers",
+   "fonction": "Président de Texys Group ; la présidente de H2Motronics est la holding TEXYS HD (représentant légal de la holding non confirmé)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.hydrogenfuelnews.com/insights/org/texys-group/"
+  },
+  "note_contacts": "Bureau d'études filiale de Texys Group (capteurs embarqués, ~45 salariés, Nevers/Varennes-Vauzelles), créé en 2019 à l'incubateur L'Inkub de Nevers ; projet de moto de course à hydrogène H2K (https://www.lerepairedesmotards.com/actualites/2022/moto-sportive-hydrogene-h2-motronics-h2k.php). Orthographe « Leuweres » aussi rencontrée. Sources de direction datées 2021-2022, à confirmer. Pas de DAF/RAF trouvé côté Texys ; aucun téléphone ni site propre trouvés (passer par le standard de Texys Group). Deuxième passe (27/10/2026) : site propre trouvé (h2motronics.com) avec l'adresse L'Inkub, 7 bis rue du 13e de Ligne à Nevers, et l'adresse contact@h2motronics.com, mais aucun numéro de téléphone publié."
+ },
+ {
+  "rang": 393,
+  "siren": "804505493",
+  "nom": "QUALIJURIS",
+  "ville": "Nevers",
+  "adresse": "2 AVENUE SAINT JUST",
+  "code_postal": "58000",
+  "activite": "Activités juridiques et comptables",
+  "code_naf": "69.10Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "ALEXANDRE JOËL SERGE LOVATO",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alexandre Lovato",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/804505493"
+  },
+  "note_contacts": "Aucune trace en ligne de l'entreprise ni du dirigeant (3 recherches). Dirigeant repris du registre seulement (nom complet : Alexandre Joël Serge Lovato). Deuxième passe (27/10/2026) : Qualijuris (« Qualijuris 58 ») est l'office de commissaires de justice LGW (Lovato, Gys, Wagner), 2 avenue Saint-Just à Nevers, selon demarchesadministratives.fr (https://demarchesadministratives.fr/notaire/jailly-58330) ; le numéro est tronqué dans l'extrait, donc aucun numéro retenu."
+ },
+ {
+  "rang": 394,
+  "siren": "531191898",
+  "nom": "XENT",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "PARC DU VAL DE LOIRE RUE DES FONDEURS",
+  "code_postal": "58200",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "code_naf": "64.20Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "THIERRY DARRIGADE",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Thierry Darrigade",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/xent-531191898"
+  },
+  "note_contacts": "Aucune trace en ligne de l'entreprise ni du dirigeant (3 recherches). Probable holding (services financiers) domiciliée Parc du Val de Loire, rue des Fondeurs. Dirigeant repris du registre seulement. Deuxième passe (27/10/2026) : XENT est confirmée comme holding (SARL, gérant Thierry Darrigade, Parc du Val de Loire, rue des Fondeurs à Cosne-Cours-sur-Loire) par les registres (Pappers, Kompass), sans aucun numéro publié."
+ },
+ {
+  "rang": 395,
+  "siren": "803677749",
+  "nom": "CAMORELLO (CAVIAR ET COQUILLETTES)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "14 RUE DENIS PAPIN",
+  "code_postal": "58640",
+  "activite": "Restauration",
+  "code_naf": "56.10C",
+  "effectif": "3-5 salariés",
+  "site_web": "https://caviaretcoquillettes.fr",
+  "dirigeants": [
+   {
+    "nom": "AURELIEN RAIMOND",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Aurélien Raimond",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/803677749"
+  },
+  "note_contacts": "Restaurant rapide « Caviar et Coquillettes » confirmé au 14 rue Denis Papin par acceslibre (https://acceslibre.beta.gouv.fr/app/58-varennes-vauzelles/a/restauration-rapide/erp/caviar-et-coquillettes/) et Truckfly, mais aucun téléphone dans les extraits (3 recherches). Deuxième passe (27/10/2026) : le restaurant « Caviar et Coquillettes » a une fiche Pages Jaunes (https://www.pagesjaunes.fr/pros/59214077, au 16 rue Denis Papin) et une page Facebook, et les annuaires citent le site caviaretcoquillettes.fr (non ouvert), mais aucun numéro n'apparaît dans les extraits."
+ },
+ {
+  "rang": 401,
+  "siren": "884750811",
+  "nom": "MONTESPAN EVENTS",
+  "ville": "Entrains-sur-Nohain",
+  "activite": "Activités sportives, récréatives et de loisirs",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Aucune trace de « Montespan Events » (Entrains-sur-Nohain) dans les résultats de recherche (3 recherches) : ni téléphone, ni site, ni dirigeant, ni adresse de rue. Registre sans dirigeant renseigné ; à vérifier sur la fiche Pappers. Deuxième passe (27/10/2026) : aucun numéro trouvé ; Kompass situe la SARL au Domaine du Réveillon à Entrains-sur-Nohain (lieu de réception et de séminaires), piste à suivre via le domaine."
+ },
+ {
+  "rang": 402,
+  "siren": "922361506",
+  "nom": "MAALONE",
+  "ville": "Bulcy",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Aucune trace de MAALONE (Bulcy, services financiers) dans les résultats de recherche (3 recherches) : probablement une société holding sans présence publique. Ni téléphone, ni dirigeant, ni adresse de rue trouvés. Deuxième passe (27/10/2026) : aucun numéro trouvé ; holding (SAS) dont le siège est en fait 10 chemin des Saules à La Marche (58400) et non à Bulcy, présidée par Emmanuel Esnault (registre)."
+ },
+ {
+  "rang": 410,
+  "siren": "952823607",
+  "nom": "GAIA TR",
+  "ville": "Marzy",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Aucune trace de GAIA TR (Marzy) dans les résultats de recherche (2 recherches, sans résultat pertinent) : ni téléphone, ni site, ni dirigeant, ni adresse de rue. Deuxième passe (27/10/2026) : aucun numéro trouvé ; Kompass donne l'adresse 25 route de Corcelles à Marzy et un annuaire cite Antonin Millot comme dirigeant (non vérifié au registre)."
+ },
+ {
+  "rang": 412,
+  "siren": "931083836",
+  "nom": "DELIVRER DES MOTS",
+  "ville": "Champvert",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Aucune trace de « Délivrer des mots » (Champvert, commerce de détail) dans les résultats de recherche (2 recherches) : ni téléphone, ni site, ni dirigeant, ni adresse de rue. Deuxième passe (27/10/2026) : aucun numéro trouvé ; « Délivrer des mots » semble être une librairie de Decize (citée par un éditeur et le festival Festi rue), sans téléphone publié à son nom dans les résultats."
+ }
+]

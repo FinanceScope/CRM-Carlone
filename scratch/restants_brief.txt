@@ -1,0 +1,31 @@
+Context. Business partners based in Cosne-Cours-sur-Loire (Nièvre, France) phone companies of the Nièvre to offer them original artworks (tax deduction of article 238 bis AB of the CGI). The companies in this file are the last ones without any phone number: two or three earlier research passes, with the usual queries (name + town + "téléphone", Pages Jaunes, website), found nothing. Your job: find a number to reach each of them by trying DIFFERENT angles, or establish that the business has ceased.
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of company records (legal name, trading name, town, registry address, activity code, workforce, registry managers "dirigeants", group, website, earlier research notes "note_contacts"). Read the notes first: do not repeat a query that already failed, and never return a number the notes say belongs to another company.
+
+Angles to try (pick the 2 or 3 most promising for each company):
+1. The registry address itself: "<street address> <town>" (with and without "téléphone"): the business at that address often trades under another name (shop sign, brand, franchise).
+2. The manager: "<manager first name and surname> <town>" plus the activity: many small firms are listed under the manager's name (craftsman, wine grower, doctor, shopkeeper).
+3. Trading name, brand or franchise network: the network's store locator page for this town.
+4. A holding or a company without staff: find the operating company it presides or that presides it (same manager, often the same address; registry pages of Pappers, societe.com, annuaire-entreprises list "mandats" / "dirigeants"). Its switchboard is the way in: return it with fiabilite "groupe" and name that company in the note.
+5. The business's own Facebook or Instagram page, or a local tourism, town hall or trade association page that lists it.
+6. Signs that the business has ceased: dissolution or "radiée" on a registry page, "fermé définitivement" on several listings, a takeover under another company. Report them.
+
+Search with WebSearch (load it with ToolSearch; WebFetch and curl are blocked). At most 3 searches per company and at most {BUDGET} for the whole file; use mode "extended" when a standard search returns nothing useful.
+
+Rules:
+- A number must be published with this company's name, its trading name or its manager's business listing AND its town or registry address; or, with fiabilite "groupe", the switchboard of a company of the same group (same manager or parent/subsidiary link shown by a source). Never a namesake (same surname, other town), never a private mobile of an individual unless it is published as the business's contact number.
+- Reliability ("fiabilite"): "officielle" = the company's (or its network's) own page for this business; "annuaire" = directories, town hall or tourism pages, social pages; "groupe" = a related company's switchboard; "ancienne" = source older than 2022.
+- Never guess an e-mail; keep a generic e-mail only if the business itself publishes it.
+- If "opposition_prospection" is true: company-level contacts only.
+
+Output: write valid JSON (UTF-8, indent 1) to <racine du dépôt>/ext/{OUTFILE}: an array, one object per input record, in input order:
+{"siren": "...",
+ "standard": {"tel": "0X XX XX XX XX", "source": "url", "fiabilite": "officielle" | "annuaire" | "groupe" | "ancienne"} or null,
+ "email_generique": {"email": "...", "source": "url"} or null,
+ "site_web": "url" or null,
+ "cessation": {"detail": "what the source says, in French", "source": "url"} or null (only on a concrete source: dissolution, radiation, closure confirmed by several listings),
+ "note": one or two French sentences starting with "Troisième passe (27/10/2026) : " — the angle that worked and what the number is, or the angles tried without result,
+ "recherches": number of searches used}
+No other keys. Then check the file with:
+python3 -I -c "import json,re,sys; d=json.load(open(sys.argv[1])); i=json.load(open(sys.argv[2])); assert [x['siren'] for x in d]==[x['siren'] for x in i]; [print(x['siren'],'clés') for x in d if set(x)!={'siren','standard','email_generique','site_web','cessation','note','recherches'}]; [print(x['siren'],'format') for x in d if x.get('standard') and not re.fullmatch(r'0\d( \d\d){4}', x['standard'].get('tel') or '')]; [print(x['siren'],'fiabilite') for x in d if x.get('standard') and x['standard'].get('fiabilite') not in ('officielle','annuaire','groupe','ancienne')]; [print(x['siren'],'note') for x in d if not str(x.get('note','')).startswith('Troisième passe')]; print(len(d),'fiches,', sum(1 for x in d if x.get('standard')),'numéros,', sum(1 for x in d if x.get('cessation')),'cessations,', sum(x.get('recherches',0) for x in d),'recherches')" <output path> <input path>
+and fix every line it prints. Do not modify any other file.

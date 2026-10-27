@@ -1,0 +1,291 @@
+[
+ {
+  "rang": 451,
+  "siren": "351142807",
+  "nom": "CEGEPLAST",
+  "ville": "Nevers",
+  "adresse": "130 RUE FRANCIS GARNIER",
+  "code_postal": "58000",
+  "activite": "Industrie automobile",
+  "code_naf": "29.32Z",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "DRAGONFLY ENGINEERING",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Gilles CHARPIN",
+   "fonction": "Dirigeant de Cegeplast depuis 2010 (présidence statutaire : DRAGONFLY ENGINEERING, personne morale) — à confirmer après le rachat par Triple C (mai 2026)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://fusacq.com/buzz/triple-c-rachete-cegeplast-et-elargit-son-positionnement-dans-la-plasturgie-a259067"
+  },
+  "note_contacts": "Changement récent : rachat de Cegeplast (plasturgie, fondée en 1989 par Guy Charpin, 25 salariés) par le groupe Triple C annoncé le 11/05/2026 (Fusacq) ; le registre (deja) indique encore DRAGONFLY ENGINEERING comme président — la direction et le circuit de décision financière ont pu passer au groupe Triple C. Fiche Sirene (https://api-avis-situation-sirene.insee.fr/identification/pdf/35114280700012) : établissement de production au 35 rue des Grands Prés, 58000 Nevers (pièces techniques plastiques). Aucun numéro trouvé en 3 recherches. Deuxième passe (27/10/2026) : aucun numéro trouvé en 2 recherches ; une fiche Pages Jaunes « Cégéplast Nevers » existe (https://www.pagesjaunes.fr/pros/01594957) mais le numéro n'apparaît pas dans les extraits, et Cegeplast n'a pas de site propre (page d'annonce du groupe Triple C : https://triplecgroupe.fr/cegeplast-groupe-triple-c-plasturgie-francaise). Siège au 130 rue Francis Garnier, atelier d'injection au 35 rue des Grands Prés, Nevers."
+ },
+ {
+  "rang": 453,
+  "siren": "691880389",
+  "nom": "SNDFT SOCIETE NIVERNAISE DE DEBARDAGE FORESTIER & DE TRANSPORTS",
+  "ville": "Saint-Benin-d'Azy",
+  "adresse": "LES VARENNES",
+  "code_postal": "58270",
+  "activite": "Transports terrestres et transport par conduites",
+  "code_naf": "49.41A",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.sndt-transport-bois.fr/",
+  "dirigeants": [
+   {
+    "nom": "Pierre MICHEL",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Pierre MICHEL",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sndft-societe-nivernaise-de-debardage-forestier-de-transports-691880389"
+  },
+  "note_contacts": "3 recherches sans aucune mention de la société en ligne (ni numéro, ni site). Adresse d'entrée = lieu-dit « Les Varennes », 58270 Saint-Benin-d'Azy (pas de numéro de rue, mais lieu-dit présent : non complétée). Dirigeant uniquement d'après le registre (deja). Deuxième passe (27/10/2026) : la société exerce sous le nom « SNDT » (Société Nivernaise de Débardage et Transport, transport de bois, fondée en 1969 par Maurice Michel, reprise par Pierre Michel en 1990) et a un site propre, mais aucun numéro n'est apparu dans les extraits des 2 recherches ; à relever sur la page contact du site."
+ },
+ {
+  "rang": 105,
+  "siren": "501271068",
+  "nom": "ARMATIS BOURGOGNE",
+  "nom_commercial": "Armatis",
+  "ville": "Nevers",
+  "adresse": "ZI DE NEVERS SAINT ELOI RUE DE LA BARBOUILLERE",
+  "code_postal": "58000",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "code_naf": "82.20Z",
+  "effectif": "200-249 salariés",
+  "groupe": "Groupe Armatis (Armatis France)",
+  "site_web": "https://www.armatis.com",
+  "dirigeants": [
+   {
+    "nom": "ARMATIS FRANCE",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Centre de contacts du groupe Armatis à Nevers (ZI Saint-Éloi, La Barbouillère) ; Xerfi indique environ 258 salariés (https://www.xerfi.com/etudes-par-entreprise/ARMATIS-BOURGOGNE_501271068). Aucun numéro du site ni email trouvé, aucun directeur de site ni DAF du groupe nommé dans les extraits. Présidente = ARMATIS FRANCE (personne morale) ; dirigeant personne physique du groupe non confirmé par une source récente (le groupe a fait l'objet d'un nouveau LBO avec fusion, https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Armatis-se-rapproche-d-un-autre-centre-d-appel-et-repart-en-LBO-138782). Franck Berthier est cité comme directeur général délégué du groupe dans un article non daté sur la nomination d'une DRH. Finance vraisemblablement centralisée au siège parisien du groupe. Deuxième passe (27/10/2026) : aucun numéro du site de Nevers trouvé en 2 recherches (« Armatis Nevers Saint-Éloi téléphone », « Armatis site de Nevers rue de la Barbouillère ») ; les annuaires (Verif, Hoodspot) n'affichent que des numéros factices (123456000, 0000000000). Passer par le contact du groupe sur armatis.com.",
+  "opposition_prospection": false
+ },
+ {
+  "rang": 121,
+  "siren": "780060190",
+  "nom": "SOC SCIERIE PETITRENAUD",
+  "ville": "Dirol",
+  "adresse": "4 RTE DE LA GARE",
+  "code_postal": "58190",
+  "activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+  "code_naf": "16.10A",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "TONNELLERIE FRANCOIS FRERES",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Didier PETITRENAUD",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Remi PETITRENAUD",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Xavier PETITRENAUD",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Didier PETITRENAUD",
+   "fonction": "Directeur Général (la présidence est assurée par la personne morale TONNELLERIE FRANCOIS FRERES)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/soc-scierie-petitrenaud-780060190"
+  },
+  "note_contacts": "Président : TONNELLERIE FRANCOIS FRERES (TFF Group, Saint-Romain, Côte-d'Or) ; représentant personne physique non identifié dans les recherches. Le contrôle financier relève probablement de TFF Group. Didier René Emile Petitrenaud apparaît aussi comme gérant de groupements fonciers ruraux à Dirol (https://www.verif.com/en/leaders/Dider-PETITRENAUD-J37037997/). Aucun téléphone trouvé (les résultats ne donnaient que la mairie de Dirol). Recherche interrompue : quota de recherches web de la session épuisé. Deuxième passe (27/10/2026) : aucun numéro lisible dans les extraits : une fiche Pages Jaunes « Scierie Petitrenaud SA à Dirol » existe (https://www.pagesjaunes.fr/pros/05692742) mais son numéro n'apparaissait pas, et seule la mairie de Dirol est ressortie. PitchBook indique un rachat du « Petitrenaud Group » par TFF Group le 31/05/2024."
+ },
+ {
+  "rang": 140,
+  "siren": "950003723",
+  "nom": "S.I.C.A. MEDICAVET",
+  "ville": "Sermoise-sur-Loire",
+  "adresse": "ZA LE CLOS RY 1 RUE LOUIS PASTEUR",
+  "code_postal": "58000",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.46Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Alexandre ANIER",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Francoise SAULGEOT (LESENFANT)",
+    "fonction": "Président du conseil d’administration"
+   },
+   {
+    "nom": "Andre CHATRE",
+    "fonction": "Vice-Président"
+   },
+   {
+    "nom": "Eric Jean Joseph BARASSIN",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alexandre ANIER",
+   "fonction": "Directeur Général",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sica-medicavet-950003723"
+  },
+  "note_contacts": "SICA (coopérative, commerce de gros, 6-9 salariés) : aucune trace en ligne dans 3 recherches (ni téléphone, ni site, ni presse) ; les résultats renvoyaient à des homonymes (Medivet, Centravet). Dirigeants issus du registre uniquement, non revérifiés par une source récente. Structure trop petite pour un DAF : le DG est l'interlocuteur financier probable. Deuxième passe (27/10/2026) : aucun numéro, site ni email trouvé en 2 recherches : seules les fiches registre (Pappers, Societe.com, Xerfi, Kompass au 3 rue Louis Pasteur) et une offre d'emploi TEMAvet (vétérinaire responsable pharmaceutique à Nevers) citent la SICA ; medicavet.com est un homonyme turc."
+ },
+ {
+  "rang": 194,
+  "siren": "418515938",
+  "nom": "H.N.J.",
+  "nom_commercial": "Sopadec",
+  "ville": "Nevers",
+  "adresse": "7 RUE DES DOCKS",
+  "code_postal": "58000",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.76Z",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.sopadec.com",
+  "dirigeants": [
+   {
+    "nom": "Nicolas Jean-Claude Daniel NOGIER",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Nicolas NOGIER",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/hnj-418515938"
+  },
+  "note_contacts": "Enseigne « Sopadec » (commerce de gros, 10-19 salariés) introuvable en ligne en 3 recherches (ni téléphone, ni site, ni presse) ; une fiche PagesJaunes non identifiée est apparue sur la recherche « Sopadec rue des Docks » sans permettre de la rattacher. Président issu du registre uniquement (nom complet Nicolas Jean-Claude Daniel Nogier), non revérifié par une source récente. Deuxième passe (27/10/2026) : site officiel trouvé (sopadec.com, mentions légales de Sopadec, boutique emballages, fête et décoration à Nevers) mais aucun numéro dans les extraits, ni sur les fiches Cylex et Hoodspot. Relever le numéro sur la page contact du site."
+ },
+ {
+  "rang": 202,
+  "siren": "752881839",
+  "nom": "TC ENVIRONNEMENT",
+  "ville": "Cercy-la-Tour",
+  "adresse": "ZAE LES FOURNEAUX",
+  "code_postal": "58340",
+  "activite": "Collecte, traitement et élimination des déchets ; récupération",
+  "code_naf": "38.32Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "HOLDING CASSIER",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "HOLDING CASSIER (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tc-environnement-752881839"
+  },
+  "note_contacts": "SAS créée en 2012, filiale du groupe Holding Cassier : tri, transit et préparation de déchets non dangereux et projet de plateforme de broyage de pneumatiques usagés à Cercy-la-Tour (dossier ICPE 2023 de la préfecture : https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Ce dossier de 2023 indique comme président la SARL CASSIER DÉVELOPPEMENT, alors que le registre (deja) donne HOLDING CASSIER : à vérifier. Les pièces préfectorales mentionnent un siège au 45 rue de la Guette, 58340 Cercy-la-Tour. Aucun téléphone propre trouvé (seul celui de la mairie est ressorti). Le groupe compte aussi la société Cassier Combustible à Cercy-la-Tour. Personne physique dirigeante non identifiée en 3 recherches. Deuxième passe (27/10/2026) : aucun numéro propre trouvé en 2 recherches (dossiers ICPE de la préfecture, Kompass, Pappers, Societe.com sans téléphone ; seule la mairie de Cercy-la-Tour ressort). Le registre indique un nouvel établissement ZAE Les Fourneaux depuis le 01/08/2024, celui du 45 rue de la Guette étant fermé."
+ },
+ {
+  "rang": 206,
+  "siren": "348537135",
+  "nom": "SAINT SAULGE DISTRIBUTION",
+  "nom_commercial": "Utile",
+  "ville": "Saint-Saulge",
+  "adresse": "ROUTE DE PREMERY",
+  "code_postal": "58330",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.11C",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Vincent PICQ",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Vincent PICQ",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/saint-saulge-distribution-348537135"
+  },
+  "note_contacts": "Supérette de la route de Prémery à Saint-Saulge : les annuaires la référencent encore sous l'enseigne Maximarché (https://www.au-magasin.fr/58330-saint-saulge/maximarche-198925.html, numéro masqué), alors que l'enseigne actuelle indiquée est Utile (Système U) ; aucune fiche magasin Utile trouvée. Aucun numéro visible dans les résultats après 3 recherches. Gérant issu du registre uniquement. Deuxième passe (27/10/2026) : aucun numéro trouvé : la recherche sur l'annuaire des magasins Utile (magasins-u.com) n'a pas fait ressortir Saint-Saulge, et les annuaires ne listent qu'un Maxi Marché faubourg de Prémery dont le numéro passe par un service surtaxé. L'enseigne Utile n'est pas confirmée en ligne."
+ },
+ {
+  "rang": 255,
+  "siren": "533513594",
+  "nom": "TECHNO PIEUX SURY",
+  "ville": "Saint-Jean-aux-Amognes",
+  "adresse": "SURY",
+  "code_postal": "58270",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.12A",
+  "effectif": "1-2 salariés",
+  "site_web": "https://www.technopieux.com/fr-FR/concessionnaire/techno-pieux-nievre/",
+  "dirigeants": [
+   {
+    "nom": "Cyril MILLIET DE FAVERGES ET DE CHALLES",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Ludovic MILLIET DE FAVERGES ET DE CHALLES",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Olivier MILLIET DE FAVERGES ET DE CHALLES",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Cyril Milliet de Faverges et de Challes",
+   "fonction": "Cogérant (avec Ludovic et Olivier Milliet de Faverges et de Challes)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+  },
+  "note_contacts": "Concession locale probable du réseau Techno Pieux (pieux vissés, groupe québécois, ~30 concessions en France). Aucun numéro ni page de concession pour la Nièvre trouvés (3 recherches) ; contact national de la marque vu dans une brochure : info.france@technopieux.fr (https://www.solscope.fr/medias/Technopieux.pdf) — adresse de la marque, pas de cette société. Trois cogérants d'après le registre, ordre arbitraire ; aucun ne ressort comme dirigeant principal. Deuxième passe (27/10/2026) : La société est la concession « Techno Pieux Nièvre » (hameau de Sury, Saint-Jean-aux-Amognes), qui a une page officielle sur technopieux.com, mais aucun numéro n'apparaît dans les extraits de recherche (page à consulter directement). Aucun autre numéro publié sous ce nom trouvé. Vérification : relecture seule (pas de recherche), aucun numéro retenu ; cohérent."
+ },
+ {
+  "rang": 258,
+  "siren": "804178879",
+  "nom": "LE FROMAGER DE NEVERS",
+  "ville": "Nevers",
+  "adresse": "RUE HENRY BOUQUILLARD",
+  "code_postal": "58000",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.29Z",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "CREMERIE EXPLOITATION",
+    "fonction": "Gérant et associé indéfiniment et solidairement responsable"
+   },
+   {
+    "nom": "PROPART",
+    "fonction": "Associé indéfiniment et solidairement responsable"
+   }
+  ],
+  "note_contacts": "Aucune trace web trouvée pour « Le Fromager de Nevers » (rue Henry Bouquillard, Nevers) en 3 recherches. Société en nom collectif gérée par la personne morale CREMERIE EXPLOITATION, avec PROPART comme associé : ce montage ressemble à celui des rayons crèmerie des magasins Grand Frais, mais ce n'est PAS confirmé (recherche « Grand Frais Nevers Bouquillard » sans résultat). Personne physique dirigeante non identifiée ; standard, email et site non trouvés. Deuxième passe (27/10/2026) : Aucun commerce publié sous le nom « Le Fromager de Nevers » trouvé, seulement des fiches registre (societe.com) ; une société sœur « Le Fromager de Varennes Vauzelles » (SIREN 804160448) a le même gérant CREMERIE EXPLOITATION, ce qui va dans le sens d'un rayon crèmerie de grande surface, toujours non confirmé. Vérification : relecture seule (pas de recherche), aucune coordonnée retenue ; cohérent. Une autre fiche du CRM situe le magasin Grand Frais de Nevers rue Henri Bouquillard, ce qui renforce l'hypothèse d'un rayon crèmerie Grand Frais sans la confirmer."
+ }
+]
