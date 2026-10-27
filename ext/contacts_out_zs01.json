@@ -1,0 +1,118 @@
+[
+ {
+  "siren": "811119403",
+  "standard": {
+   "tel": "06 08 04 96 04",
+   "source": "https://candidat.francetravail.fr/offres/recherche/detail/197NJNK",
+   "fiabilite": "groupe"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle offre d'emploi : l'offre France Travail 197NJNK (conducteur PL de malaxeur à béton à Cosne et La Charité) nomme comme employeur EF TRANSPORTS (holding présidée par Mustapha El Fayzi, cogérant d'EL FAYZI) et donne le 06 08 04 96 04 comme numéro de contact de l'employeur (contact affiché : M. Mustapha El Fayzi), retenu comme numéro du groupe faute de standard propre à EL FAYZI (annuaires PagesJaunes, recherche par dirigeant sans numéro). Opposition à la prospection : à n'utiliser que comme contact société, numéro portable à vérifier avant tout appel. Vérification : 2 recherches (offre 197NJNK + EF TRANSPORTS, puis le numéro seul) sans retrouver l'offre ni le 06 08 04 96 04 ; aucune preuve contraire, numéro conservé en « groupe » (numéro donné par l'offre comme contact de l'employeur EF TRANSPORTS, holding des mêmes gérants à la même adresse), mais non revérifié : la troisième passe jugeait l'employeur de cette offre non confirmé ; opposition à la prospection : n'appeler qu'en demandant la société.",
+  "recherches": 3
+ },
+ {
+  "siren": "899839492",
+  "standard": {
+   "tel": "03 86 27 59 62",
+   "source": "https://www.but.fr/magasins/389/But-Cosne-Sur-Loire.html",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.but.fr/magasins/389/But-Cosne-Sur-Loire.html",
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle réseau (recherche limitée à but.fr) : la page magasin BUT Cosne-sur-Loire (route N7, lieu-dit Le Grand Champ) publie le 03 86 27 59 62, standard du magasin exploité par TSF GERIN EXPLOITATION selon la fiche ADEME citée en troisième passe. Opposition à la prospection : numéro de niveau société uniquement (le 03 86 28 55 76 qui ressort aussi est celui d'Auchan, écarté). Vérification : 1 recherche (« 03 86 27 59 62 » BUT Cosne) sans retrouver le numéro sur la page but.fr ni ailleurs (seules les pages avis-verifies du magasin, route N7 lieu-dit Le Grand Champ, ressortent) ; numéro conservé car aucune preuve contraire et déjà relevé en deuxième passe, mais fiabilité ramenée de « officielle » à « annuaire » ; URL de la page magasin alignée sur la forme citée (But-Cosne-Sur-Loire.html).",
+  "recherches": 2
+ },
+ {
+  "siren": "422413567",
+  "standard": {
+   "tel": "03 86 61 23 46",
+   "source": "https://sportcomm.fr/mentions-legales/",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "communication@sportcomm.fr",
+   "source": "https://sportcomm.fr/mentions-legales/"
+  },
+  "site_web": "https://sportcomm.fr/",
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle site propre (recherche limitée à sportcomm.fr) : les mentions légales (SARL SPORT COMM, 41 bd du Pré Plantin, Nevers) et la page contact (agence SPORT COMM NEVERS, même adresse, lun-ven 9h-12h/14h-18h, http://sportcomm.fr/contact/) publient le 03 86 61 23 46 ; l'adresse du siège est donc bien l'agence et non une simple domiciliation. Les 03 85 52 66 95 et 03 85 51 02 28 du site concernent l'agence d'Autun et les boutiques club, non retenus. Vérification : relecture sans recherche (site propre, pas un angle indirect) : cohérent, numéro et e-mail publiés par la société elle-même dans ses mentions légales, à la même adresse que le siège.",
+  "recherches": 2
+ },
+ {
+  "siren": "920006046",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles dirigeant (« Stéphane Zbinden » immobilier : seule une inscription au registre suisse à Lancy/Genève, sans lien établi) et adresse avec nom (Zbinden, chemin de la Garde à Saint-Aubin-des-Chaumes) essayés sans résultat. Aucun numéro, site ni e-mail. Vérification : relecture sans recherche : cohérent (aucun numéro, aucune cessation ; l'homonyme suisse n'est pas exploité).",
+  "recherches": 2
+ },
+ {
+  "siren": "898704309",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles « Certus » + La Machine (seules des fiches registre : Verif, Pappers, constructeur.pro, comptes 2025 déposés, société active) et maison mère CERTUS STRUCTURES, LDA (Mangualde, Viseu, NIF 509780598, fiche iberinform sans téléphone ni site) essayés sans résultat. Aucun numéro français ni site. Vérification : relecture sans recherche : cohérent (aucun numéro, société active, aucune cessation).",
+  "recherches": 2
+ },
+ {
+  "siren": "527639934",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles carreleur Bozkurt à Nevers et environs, annuaires (PagesJaunes, Kompass, 118712) sur l'adresse 1 rue André Desvignes et SIREN essayés sans résultat : seule la fiche Kompass ancienne (sans téléphone) ressort ; les numéros de Maçonnerie Akbayin (Marzy) et d'un carreleur Dogan (Nevers) appartiennent à d'autres entreprises, écartés. Aucune trace de cessation. Vérification : relecture sans recherche : cohérent (aucun numéro ; numéros d'autres entreprises bien écartés, aucune cessation).",
+  "recherches": 3
+ },
+ {
+  "siren": "851715821",
+  "standard": {
+   "tel": "06 14 34 27 12",
+   "source": "https://www.imsplc.com/our-people/",
+   "fiabilite": "groupe"
+  },
+  "email_generique": {
+   "email": "info@imsplc.com",
+   "source": "https://www.imsplc.com/our-people/"
+  },
+  "site_web": "https://ims-carbon.com/",
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle site du groupe (recherche limitée à imsplc.com et ims-carbon.com) : le site d'IMS Consulting (groupe fondé par Graham Sprigg, « offices in UK and France ») donne le +33 (0)6 14 34 27 12 comme numéro France avec info@imsplc.com, retenu comme contact du groupe, mais aucune page ne le rattache à l'adresse de Tamnay-en-Bazois (une recherche sur le numéro seul n'a rien donné). L'ancien numéro parisien +33 1 53 32 17 44 (57 rue d'Amsterdam) d'une page ancienne n'est pas retenu. Vérification : 1 recherche sur imsplc.com et ims-carbon.com refusée par l'outil, numéro non retrouvé ; conservé en « groupe » faute de preuve contraire (donné comme numéro France du groupe IMS sur son site, avec info@imsplc.com publiée par le groupe), mais c'est un portable non rattaché à Tamnay-en-Bazois : à confirmer à l'appel.",
+  "recherches": 3
+ },
+ {
+  "siren": "491387023",
+  "standard": {
+   "tel": "06 08 04 96 04",
+   "source": "https://candidat.francetravail.fr/offres/recherche/detail/197NJNK",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles mandats des dirigeants (Mustapha El Fayzi : EL FAYZI, EF TRANSPORTS, SCI M.A.K.I., MAHONIE, ZAHRA, EF BENNES cessée) et offre d'emploi : l'offre France Travail 197NJNK (conducteur de malaxeur à béton, Cosne) nomme EF TRANSPORTS comme employeur et publie le 06 08 04 96 04 (contact M. Mustapha El Fayzi) et l'e-mail ef.t.compta@hotmail.fr. Numéro portable à confirmer à l'appel ; societe.com signale aussi un apport d'EF TRANSPORTS à EL FAYZI, sans cessation de la société. Vérification : 2 recherches (offre 197NJNK + EF TRANSPORTS, puis le numéro seul) sans retrouver l'offre, le numéro ni l'e-mail ; conservés faute de preuve contraire (coordonnées données par l'employeur dans sa propre offre), fiabilité « annuaire » maintenue, à confirmer ; aucune cessation de la société. Arbitrage (27/10/2026) : l'e-mail de l'offre d'emploi (messagerie personnelle, adresse de recrutement non retrouvée en vérification) n'est pas repris ; le portable reste à confirmer au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "882956204",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle mandats de la dirigeante : Emmanuelle Paillé est présidente de GTC DIJON depuis le 04/07/2020 (https://dirigeant.societe.com/dirigeant/Emmanuelle.PAILLE.86210204.html), société qui exploite le greffe du tribunal de commerce de Dijon (13 bd Georges Clemenceau), dont l'accueil est le 09 70 72 30 50 selon l'annuaire de la cour d'appel de Dijon ; numéro du groupe retenu, demander Mme Paillé. Homonyme écarté (Emmanuelle Paillé née en 1988, Bourgoin-Jallieu) ; le 01 84 80 33 48 est la ligne commerciale de Doctrine, écarté. Vérification : 1 recherche : la page de la cour d'appel de Dijon confirme le 09 70 72 30 50 comme ligne du greffe du tribunal de commerce de Dijon (13 bd Georges Clemenceau) ; la présidence de GTC DIJON par Emmanuelle Paillé n'a pas été retrouvée dans les extraits mais n'est pas contredite (cohérente avec son passage au greffe de Nevers en 2019-2020), numéro conservé en « groupe ». Arbitrage (27/10/2026) : numéro écarté, c'est l'accueil d'un greffe de tribunal de commerce (service public), sans lien d'exploitation avec la SPFPL ; pas de prospection par ce canal.",
+  "recherches": 3
+ },
+ {
+  "siren": "324950039",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles piste HOYATOS (société civile de location de terrains à Paris 11e, gérée par Fabienne Frère, pas une société d'exploitation) et adresse 11 Grande Rue à Châteauneuf-Val-de-Bargis essayés sans résultat. Aucun numéro, site ni e-mail. Vérification : relecture sans recherche : cohérent (aucun numéro, HOYATOS écartée comme société d'exploitation, aucune cessation).",
+  "recherches": 3
+ }
+]

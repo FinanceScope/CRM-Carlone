@@ -1,0 +1,116 @@
+[
+ {
+  "siren": "322804931",
+  "contacts": [
+   {
+    "nom": "Aline PAUTRAT",
+    "fonction": "Human Resources Manager - SumiRiko RCF et SumiRiko SD (RH commune aux deux sociétés de l'usine des Caillots, Decize ; en poste depuis juillet 2021 selon son profil)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/aline-pautrat-7257a285/",
+    "linkedin": "https://www.linkedin.com/in/aline-pautrat-7257a285/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Aline Pautrat, responsable RH commune à SumiRiko RCF et SumiRiko SD à Decize, trouvée sur LinkedIn (profil non daté, donc probable) ; aucun responsable financier, chef comptable ni directeur de site nommé malgré deux autres recherches (LinkedIn et offres). Attention : l'offre France Travail 189HYHP de contrôleur de gestion à Decize est attribuée à ANVIS DECIZE S.A.S., société distincte, et non à SumiRiko comme le supposaient les notes ; la décision reste probablement chez SumiRiko AVS en Allemagne. Vérification : une recherche LinkedIn retrouve le profil d'Aline Pautrat (Human Resources Manager - SumiRiko RCF et SumiRiko SD, Decize, depuis juillet 2021 ; instantané non daté, vers 2024), sans signe de départ : maintenue en probable, faute de source de l'entreprise ou datée de 2024 ou après.",
+  "recherches": 3
+ },
+ {
+  "siren": "397727397",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : Aucun responsable financier, RH, administratif ni directeur d'usine nommé pour LOOK Fixations à Nevers après trois recherches (LinkedIn standard et étendue, web) : LinkedIn ne montre que du personnel technique (maintenance, qualité fournisseurs). La finance et les RH sont sans doute gérées au siège de Rossignol à Saint-Jean-de-Moirans (Isère) : demander au standard le directeur de l'usine. Vérification : relecture sans recherche, note cohérente avec l'absence de contact.",
+  "recherches": 3
+ },
+ {
+  "siren": "404570160",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : Aucun nom finance, RH ou direction de site pour Magny-Cours (la page LinkedIn ORECA Magny-Cours ne compte qu'environ 9 salariés) ; les postes de comptable et de contrôleur de gestion du groupe sont publiés à Signes (Var), où se trouve donc la finance, mais aucun DAF du groupe n'est nommé (2 recherches). Décision probable au siège de Signes. Vérification : relecture sans recherche, note cohérente avec l'absence de contact.",
+  "recherches": 2
+ },
+ {
+  "siren": "428862403",
+  "contacts": [
+   {
+    "nom": "Melaine SAVRE",
+    "fonction": "Gestionnaire Ressources Humaines (TCT Magnetic cores and components)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://fr.linkedin.com/company/tores-composants-technologies-tct",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Melaine Savre, gestionnaire RH, est nommée sur la page LinkedIn de TCT et dans une publication de l'entreprise (interview « notre gestionnaire RH », non datée) ; aucun RAF, comptable ni contrôleur de gestion du site trouvé (3 recherches). La finance relève probablement du groupe Socomec à Benfeld (Bas-Rhin). Vérification : une recherche nominative ne retrouve pas Melaine Savre (aucun résultat, ni sur TCT ni ailleurs) : maintenue en probable sur la seule foi de la page LinkedIn et de la publication de l'entreprise, non datées ; nom et poste à confirmer au standard.",
+  "recherches": 3
+ },
+ {
+  "siren": "385044599",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : Aucun responsable administratif, comptable ou RH nommé pour le casino de Pougues (2 recherches LinkedIn) ; en revanche le profil LinkedIn de Béatrice Loret (https://www.linkedin.com/in/beatrice-loret-26b49290/) la rattache au « Casino Pougues les eaux Groupe Tranchant », ce qui confirme le lien de la DG du registre avec le casino. Une offre du casino de Pau (même groupe) montre que chaque casino a un secrétariat comptable rattaché à un directeur administratif et financier : demander ce DAF au standard. Vérification : relecture sans recherche ; Béatrice Loret, citée dans la note, est la DG du registre et reste donc hors des contacts, ce qui est cohérent.",
+  "recherches": 2
+ },
+ {
+  "siren": "701880155",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : Aucun responsable administratif, financier ou RH nommé, ni chez Transports Charrier à Decize (LinkedIn ne montre qu'un exploitant transport) ni au Groupe Rousseau (2 recherches) ; la page LinkedIn du groupe (201-500 salariés) affiche une offre de responsable RH sans nom et situe le siège à Corvol-l'Orgueilleux, alors qu'une publication du groupe le place à Clamecy. Décision au siège du Groupe Rousseau. Vérification : relecture sans recherche, note cohérente avec l'absence de contact.",
+  "recherches": 2
+ },
+ {
+  "siren": "631880192",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : Aucun directeur d'établissement, responsable administratif, comptable ou RH nommé en ligne pour la clinique (2 recherches, LinkedIn et presse) : les profils rattachés à la clinique n'affichent pas de fonction et le seul directeur nommé reste Augustin Roiret (2017), parti depuis. Décision probable au siège de Ramsay Santé ou à sa direction des exploitations. Vérification : relecture sans recherche, note cohérente avec l'absence de contact (Augustin Roiret, parti, n'est pas repris).",
+  "recherches": 2
+ },
+ {
+  "siren": "571880301",
+  "contacts": [
+   {
+    "nom": "Philippe de LAMBERTYE",
+    "fonction": "Directeur général adjoint Opérations, Finance et Support du groupe Centre France La Montagne (siège à Clermont-Ferrand, qui décide pour le journal ; nommé pour janvier 2024)",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.cbnews.fr/node/81152",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Aucun responsable administratif, financier ou RH propre au Journal du Centre trouvé (3 recherches : LinkedIn, presse, groupe) ; seul le DGA Finance du groupe, Philippe de Lambertye, déjà connu par CB News fin 2023, est repris en probable, sans confirmation récente. Les sources divergent sur la direction : Alliance Presse donne Francis Gaunand directeur de la publication et Jean-Philippe Bertin directeur de la rédaction, Wikipédia et le registre Didier Martinez. Vérification : une recherche nominative ne retrouve aucune trace de Philippe de Lambertye en 2026 : maintenu en probable, sur la seule source CB News de fin 2023, alors que le groupe a changé de DG en décembre 2025 et qu'une offre de 2025 évoque une directrice administrative et financière non nommée ; demander au standard qui tient la finance du groupe.",
+  "recherches": 3
+ },
+ {
+  "siren": "844428623",
+  "contacts": [
+   {
+    "nom": "Laurène MUNIER",
+    "fonction": "RRH (Keolis Nevers, réseau Taneo ; profil rattaché à Keolis Bourgogne)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/laur%C3%A8ne-munier-11b8a845/",
+    "linkedin": "https://www.linkedin.com/in/laur%C3%A8ne-munier-11b8a845/",
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Tristan LACOMBE",
+    "fonction": "Directeur Taneo (Keolis Nevers)",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/tristan-lacombe-132110164/",
+    "linkedin": "https://www.linkedin.com/in/tristan-lacombe-132110164/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Une publication LinkedIn de l'équipe de Nevers nomme Tristan Lacombe (directeur Taneo, Keolis Nevers) et Laurène Munier (RRH), non datée et non recoupée par une 2e recherche, donc probables ; aucun RAF ni comptable local trouvé (2 recherches). Fait nouveau : Keolis a remporté le renouvellement de la DSP de Nevers Agglomération (contrat conclu le 22/12/2025, 2026-2031), et Adrien Sense est arrivé en 2026 comme responsable exploitation du réseau. Vérification : une recherche LinkedIn retrouve le profil de Laurène Munier (Groupe Keolis, localisée à Dijon) et la publication d'un collègue de Keolis citant « Tristan Lacombe (Directeur) et Laurène Munier (RRH) » pour l'équipe de Nevers, dans le contexte du programme IMPLIKE lancé en avril 2025 ; une recherche presse sur T. Lacombe ne donne rien. Aucun signe de départ, mais ni l'entreprise ni la presse ne les nomment : tous deux maintenus en probable ; Laurène Munier couvre sans doute plusieurs filiales de Keolis depuis Dijon.",
+  "recherches": 2
+ },
+ {
+  "siren": "925318248",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : Aucun directeur, assistante de direction ni responsable administratif nommé pour l'EHPAD (2 recherches : annuaires officiels et LinkedIn ; les fiches et une offre de psychologue ne citent personne). Opposition à la prospection : la décision et la finance relèvent du siège DOMIDEP à L'Isle-d'Abeau (Isère). Vérification : relecture sans recherche ; opposition à la prospection respectée (aucun contact, donc ni téléphone ni e-mail).",
+  "recherches": 2
+ }
+]

@@ -1,0 +1,126 @@
+[
+ {
+  "siren": "350693586",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun DAF, contrôleur de gestion, RH ni directeur de site actuel trouvé pour Garchizy (3 recherches LinkedIn et presse) : seuls apparaissent un ancien contrôleur de gestion d'usine (2016-2020, parti chez Essity) et une assistante RH à Garchizy de 2020 à 2022 (Dorine Serment, poste actuel non établi), non retenus. La décision se prend chez Iveco Group / FPT Industrial (Turin) : au standard, demander le responsable administratif et financier ou le RH du site de Garchizy. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée).",
+  "recherches": 3
+ },
+ {
+  "siren": "440326692",
+  "contacts": [
+   {
+    "nom": "Karine LENOIR",
+    "fonction": "DRH Aperam Alloys Imphy",
+    "role": "rh",
+    "fiabilite": "confirme",
+    "source": "https://www.linkedin.com/in/karine-lenoir-296baa22/",
+    "linkedin": "https://www.linkedin.com/in/karine-lenoir-296baa22/",
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Eric BARDET",
+    "fonction": "Directeur de site, Aperam Alloys Imphy",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://lu.linkedin.com/in/th%C3%A9o-lecuelle",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Eric Bardet est présenté par des publications LinkedIn de salariés comme directeur de l'usine d'Imphy depuis le 02/06/2025 (il a reçu le ministre de l'Industrie le 12/06/2026), et Karine Lenoir comme DRH du site ; l'outil n'a pas isolé l'URL exacte de la publication sur M. Bardet, d'où « probable » pour lui. Aucun nom au service financier du site (Adecco y cherche un contrôleur de gestion intérimaire pour fin octobre 2026) ; décision probable au niveau de la division Alloys & Specialties ou du groupe Aperam (Luxembourg). Vérification : le profil LinkedIn de Karine Lenoir (titre « DRH Aperam Alloys Imphy », publications de juin 2026 sur la visite du ministre au site) est retrouvé : il remplace l'ancienne source, qui n'était qu'une page de recherche LinkedIn, et la fiabilité passe à « confirme ». Une publication sur la cérémonie des médailles cite aussi Eric Bardet comme directeur de site aux côtés de la DRH, mais sa date de prise de poste (02/06/2025) et la succession de J.-C. Trontin n'ont pas été retrouvées : fonction ramenée au titre publié, fiabilité « probable » maintenue ; le résumé de recherche signale une annonce Adecco d'intérim RH à Imphy pour fin octobre 2026, à clarifier au standard.",
+  "recherches": 3
+ },
+ {
+  "siren": "393635230",
+  "contacts": [
+   {
+    "nom": "Colette CENDRE",
+    "fonction": "Contact recrutement de l'offre France Travail 191MYKZ (titre non publié)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://candidat.francetravail.fr/offres/recherche/detail/191MYKZ",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : seule Colette Cendre, contact recrutement de l'offre France Travail 191MYKZ (avril 2025), est nommée côté RH ; aucun comptable, RAF ni DRH trouvé sur LinkedIn ni sur rousseau-groupe.com, la page LinkedIn du groupe affichant seulement une offre de « Responsable des ressources humaines » sans nom. La décision se prend à la holding Groupe Rousseau (Clamecy), où Jade Rousseau est directrice générale depuis le 06/02/2025 selon le registre. Vérification : aucune trace de Colette Cendre hors de l'offre France Travail 191MYKZ (recherche nom + Transports Rousseau + RH sans résultat) ; rien n'indique un départ, elle reste « probable », titre et présence actuelle à confirmer au standard ; le mandat de Jade Rousseau n'a pas été revérifié.",
+  "recherches": 3
+ },
+ {
+  "siren": "345375661",
+  "contacts": [
+   {
+    "nom": "Gisel KEROUANTON",
+    "fonction": "Responsable Développement RH et RSE Groupe DeCA Propreté (siège du groupe)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/gisel-kerouanton/",
+    "linkedin": "https://www.linkedin.com/in/gisel-kerouanton/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : aucun directeur d'agence, assistant ni comptable nommé pour l'agence de Nevers (l'offre Hellowork d'assistant d'agence cite un « directeur d'agence » sans nom ; Paul Stephan, chargé d'affaires à Nevers, est commercial), ni de DAF du groupe ; seule la responsable développement RH et RSE du groupe DeCA (siège) est identifiée par son profil LinkedIn. La décision et la finance sont probablement au siège du groupe DeCA Propreté. Vérification : profil de Gisel Kerouanton non retrouvé par une recherche LinkedIn (nom + DeCA Propreté) ; rien n'indique un départ, elle reste « probable » ; poste au siège du groupe, pas à l'agence de Nevers.",
+  "recherches": 3
+ },
+ {
+  "siren": "334934304",
+  "contacts": [
+   {
+    "nom": "Ilona DEVILLE",
+    "fonction": "Assistante RH chez Monnet-Sève Sougy",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://fr.linkedin.com/in/ilona-deville-7851691a0",
+    "linkedin": "https://fr.linkedin.com/in/ilona-deville-7851691a0",
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Jonathan PERNOT",
+    "fonction": "Directeur de la scierie Monnet-Sève Sougy",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://cndb.org/site/wp-content/uploads/2023/07/VISITE-FSC-programme-CNDB-NEVERS-.pdf",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Ilona Deville se présente sur LinkedIn comme assistante / chargée RH chez « Monnet-Sève Sougy », et un programme de visite CNDB de 2023 nomme Jonathan Pernot directeur de la scierie (et Guillaume Cruzille, DG délégué au registre, responsable du site). Aucun comptable ni RAF du site trouvé ; un contrôleur de gestion recruté par MS Bois (Matteo Bertogli, site non précisé) n'est pas retenu, la finance étant probablement au siège d'Outriaz. Vérification : le profil d'Ilona Deville est retrouvé (« Assistante RH chez Monnet-Sève Sougy », « Chargée des Ressources Humaines chez Monnet Sève »), mais « Monnet-Sève Sougy » est le nom de la page LinkedIn de tout le groupe (800 salariés, six sites) et le profil la situe en région lyonnaise, étudiante à MBway : son rattachement au site de Sougy n'est pas établi, elle reste « probable ». Jonathan Pernot n'est cité par aucune source plus récente que le programme CNDB de 2023 (recherche sans résultat) : il reste « probable », à faire confirmer au standard ; le mandat de Guillaume Cruzille a pris fin en avril 2024 selon societe.com (notes antérieures).",
+  "recherches": 2
+ },
+ {
+  "siren": "775732811",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun RAF, comptable, RH ni assistante de direction identifié : les profils LinkedIn rattachés à Eurosit (Delphine Leclerc, Nathalie Gorge…) n'affichent pas de titre et ne sont pas retenus. La décision remonte probablement au groupe Sokoa (Hendaye) via Sofikoa : demander au standard le responsable administratif et financier du site de Nevers. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée).",
+  "recherches": 2
+ },
+ {
+  "siren": "651880437",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun directeur, RAF ni RH actuel nommé (deux recherches LinkedIn et presse) : les seuls noms trouvés sont anciens (directeurs en 2014 et 2017, une assistante RH, Carole Garandel, dans un article de 2019), non retenus. La décision se prend au siège d'Elsan (direction financière) ou à la direction territoriale Bourgogne-Franche-Comté. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée).",
+  "recherches": 2
+ },
+ {
+  "siren": "403027485",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun comptable, RH ni assistant de direction identifié : le seul profil rattaché à l'entreprise (Sabrina Merlin, Varennes-Vauzelles, parcours en facturation) n'indique ni titre ni dates et se dit ouvert à un nouveau poste, donc non retenu. Le gérant Bruno Zamora reste l'interlocuteur finances. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée).",
+  "recherches": 2
+ },
+ {
+  "siren": "412077745",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun directeur de magasin, chef comptable ni RH nommé pour l'Intermarché Hyper de Varennes-Vauzelles (LinkedIn et presse : seuls des salariés Intermarché d'autres magasins ressortent) ; Kompass ne cite que la DG au registre. Décision chez l'adhérent (holding Almathoria, famille Baillou) ; opposition à la prospection : pas de ligne directe ni d'e-mail. Vérification : relecture sans recherche, fiche cohérente ; opposition à la prospection respectée (aucun contact, aucune ligne directe ni e-mail).",
+  "recherches": 2
+ },
+ {
+  "siren": "349431254",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun directeur de concession, secrétaire comptable ni RAF nommé pour SUMA Nevers (GCA Nevers) : seules ressortent des offres d'emploi sans nom et une offre de RAF au siège de SUMA à Limonest. La finance et la décision sont au groupe SUMA (SUMA Invest, Limonest) ; au standard, demander le directeur de la concession. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée).",
+  "recherches": 2
+ }
+]

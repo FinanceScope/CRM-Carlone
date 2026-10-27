@@ -1,0 +1,108 @@
+[
+ {
+  "siren": "812962827",
+  "standard": {
+   "tel": "06 08 26 41 31",
+   "source": "https://www.pagesjaunes.fr/pros/55181132",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle piste des notes (recherche ciblée dans Pages Jaunes) : l'extrait de la fiche « Domaine de Bacchus », producteur de vin, 3 place des Frères-Mollet à Pouilly-sur-Loire, donne le portable 06 08 26 41 31 comme contact du domaine. Une recherche de contrôle sur ce numéro n'a rien renvoyé, à confirmer au premier appel (la chambre d'hôtes Le P'tit Pouilly, au n° 5, ne publie aucun numéro). Vérification : relecture sans recherche (budget de contrôle réservé aux numéros obtenus par un angle indirect) ; numéro tiré de la fiche Pages Jaunes au même nom et à la même adresse que le siège, portable publié comme contact du domaine, non revu en ligne : maintenu en « annuaire », cohérent.",
+  "recherches": 3
+ },
+ {
+  "siren": "821770286",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle pages sociales et LinkedIn (« Cédric Durand » + Cosne-Cours-sur-Loire sur Facebook, Instagram, LinkedIn, Pages Jaunes) sans résultat : seuls des homonymes sans lien avec Cosne (Occitanie, Clermont-Ferrand, Chesneau) ; aucun numéro. Vérification : relecture sans recherche ; ni numéro ni cessation, homonymes écartés, cohérent.",
+  "recherches": 1
+ },
+ {
+  "siren": "814733986",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles ancien siège (Forêt Environnement + Bouc-Bel-Air + dirigeant) et annuaires (Pages Jaunes, Kompass, 118712, Cylex) sans numéro : la fiche Kompass de Nevers (https://fr.kompass.com/c/foret-environnement/fra05a0pb/) indique seulement que la société n'y est plus référencée, ce qui ne suffit pas à établir une cessation. Vérification : relecture sans recherche ; le déréférencement Kompass ne vaut pas cessation, cessation à null et standard null corrects.",
+  "recherches": 2
+ },
+ {
+  "siren": "922361506",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles dirigeant (« Emmanuel Esnault » + La Marche) et adresse du siège (10 chemin des Saules, La Marche) sans résultat : aucune page ne cite ni le dirigeant ni l'adresse, holding sans présence publique ; aucun numéro. Vérification : relecture sans recherche ; ni numéro ni cessation, cohérent avec le registre (siège à La Marche).",
+  "recherches": 2
+ },
+ {
+  "siren": "952823607",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle holding : Antonin Millot, président de GAIA TR, dirige aussi CDA (SAS de dépollution créée en mars 2026 à Varennes-Vauzelles, SIREN 102 155 074, https://dirigeant.societe.com/dirigeant/Antonin.MILLOT.44639820.html), et une annonce légale de 2023 nomme GAIA TR dirigeante de CURT BATIMENT (519 373 401, Varennes-Vauzelles/Fourchambault, maçonnerie, https://www.societe.com/societe/curt-batiment-519373401.html), dont il est présenté comme directeur. Le standard de Curt Bâtiment, meilleure piste « groupe », n'a pas pu être cherché (3 recherches atteintes) : aucun numéro retenu. Vérification : relecture sans recherche ; CDA et Curt Bâtiment cités comme pistes « groupe » sans numéro retenu, standard null cohérent.",
+  "recherches": 3
+ },
+ {
+  "siren": "980267769",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles activité locale (Konus + bûcheronnage, élagage, bois de chauffage à Nevers, recherche étendue) et annuaires (recherche commune avec Forêt Environnement) : seule une liste Kompass des prestataires forestiers de Nevers cite KONUS, sans adresse ni téléphone ; aucun numéro. Vérification : relecture sans recherche ; ni numéro ni cessation, cohérent.",
+  "recherches": 1
+ },
+ {
+  "siren": "887715563",
+  "standard": {
+   "tel": "03 45 50 32 51",
+   "source": "https://tourisme.parcdumorvan.org/sit/le-relais-vauban-3",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle registre : societe.com, Verif et Pappers placent le siège de LE RELAIS VAUBAN (SIREN 887715563, restauration traditionnelle, gérant François Pouzache) au 3 route de Corbigny à Bazoches et non à Saint-Didier, ce qui rattache la société au restaurant Le Relais Vauban de Bazoches. Son fixe 03 45 50 32 51, publié par l'office de tourisme du Parc du Morvan et relevé en deuxième passe, est donc retenu (non revu dans les extraits de cette passe, à confirmer au premier appel). Vérification : societe.com, Pappers, Verif et annuaire-entreprises confirment que le SIREN 887 715 563 (LE RELAIS VAUBAN, sigle LRV, gérant François Pouzache, restauration, chambres d'hôtes, gîte) a son siège au 3 route de Corbigny à Bazoches, adresse du restaurant : rattachement établi, numéro non revu dans les extraits de contrôle et maintenu en « annuaire ».",
+  "recherches": 3
+ },
+ {
+  "siren": "834691594",
+  "standard": {
+   "tel": "06 59 09 27 78",
+   "source": "https://geotrek.parcdumorvan.org/api/fr/touristiccontents/94/camping-les-mesanges.pdf",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.campinglesmesanges.fr/",
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle registre : Pappers et societe.com montrent que LES MESANGES (SARL à capital variable, gérante Jessica Raciti) exploite le camping Les Mésanges au lac des Settons à Montsauche-les-Settons (siège L'Huis-Gaumont), et non un hébergement à Dun-les-Places. La fiche du Parc du Morvan (mise à jour 2025) et Camping France publient le 06 59 09 27 78 ; un fixe plus ancien, 03 86 84 55 77, figure chez Alan Rogers. Vérification : societe.com et Pappers confirment que le SIREN 834 691 594 est la société du camping Les Mésanges à Montsauche-les-Settons (NAF 55.30Z, passée en SCOP SARL en 2025, cogérants Jessica Raciti et Léo Revil-Baudard) ; numéro non revu dans les extraits de contrôle, maintenu en « annuaire ».",
+  "recherches": 3
+ },
+ {
+  "siren": "909830408",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angles registre (SIREN et établissements), réseau Culture Vélo (lien avec le Pascal Douet de Culture Vélo Mâcon) et enseigne locale (recherche étendue Nevers, Sauvigny-les-Bois) sans résultat : aucun magasin « Ma Boutique Vélo » ni lien avec Culture Vélo Mâcon établi ; aucun numéro. Vérification : relecture sans recherche ; le fixe de Culture Vélo Mâcon reste écarté faute de lien établi, standard null cohérent.",
+  "recherches": 3
+ },
+ {
+  "siren": "849789680",
+  "standard": {
+   "tel": "03 86 84 05 04",
+   "source": "https://www.ville-chatillon-en-bazois.fr/vie-locale/nos-commerces/",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Quatrième passe (27/10/2026) : angle page de la mairie : l'annuaire « Artisans et commerçants » de Châtillon-en-Bazois liste EURL LBS, 5 rue Champ Lauron, avec le fixe 03 86 84 05 04. La mairie la classe en « gestionnaire de fonds », catégorie curieuse pour ce négoce de matériel agricole : à confirmer au premier appel. Vérification : une recherche sur le 03 86 84 05 04 ne l'a pas retrouvé ; les numéros voisins 03 86 84 05 00 et 03 86 84 05 44 sont ceux du cabinet comptable AGC Alliance Centre de Châtillon-en-Bazois, ce qui, avec la catégorie « gestionnaire de fonds », laisse craindre une ligne de cabinet ou de domiciliation sans le prouver : numéro maintenu en « annuaire », à confirmer au premier appel.",
+  "recherches": 3
+ }
+]
