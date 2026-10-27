@@ -964,7 +964,7 @@ function callGroups(){
   const tok=v=>norm(v).split(/[\s,]+/)[0]||"";
   const inScope=new Set(companies);
   const list=allCompanies.filter(c=>{const s=S(c),cl=callsOf(c),st=statutOf(c);
-    if(!inScope.has(c)&&!s.date_relance&&!cl.n&&st==="a_contacter")return false;   // hors périmètre affiché : seulement si un suivi est en cours
+    if(!inScope.has(c)&&!c.vague&&!s.date_relance&&!cl.n&&st==="a_contacter")return false;   // hors périmètre affiché : les cibles des vagues, ou un suivi en cours
     const c2=c.rang<=100&&c.priorite==="Moyenne"&&!c.vague&&!c.exclue&&!/procédure|liquidation|redressement/i.test(c.statut||"");   // deuxième cercle
     if(STOP_ST.has(st)||s.opposition||c.exclue)return false;
     if(resp==="__me"){if(!(s.responsable?!!myName&&tok(s.responsable)===tok(myName):myId&&(s.responsable_id===myId||cl.h.some(e=>e.by===myId))))return false}
@@ -1106,7 +1106,7 @@ function renderAppels(force){
   const g=k=>groups.find(x=>x[0]===k)[2].length;
   $("#akpis").innerHTML=[
     ["k1",g("due"),"à rappeler aujourd'hui","Rappels du jour et en retard"],
-    ["",g("todo"),"pas encore appelées",$("#aVague").value==="m"?"Deuxième cercle":"Cibles des vagues 1 à 3"],
+    ["",g("todo"),"pas encore appelées",$("#aVague").value==="m"?"Deuxième cercle":"Cibles des vagues 1 à 3, top 100 et rangs suivants"],
     ["k3",calls,"appels notés","Tous appelants confondus"],
     ["k2",rdv,"rendez-vous fixés","Statut « RDV fixé »"]
   ].map(([cl,n,l,sm])=>`<div class="kpi ${cl}"><b class="num">${n}</b><span>${l}</span><small>${sm}</small></div>`).join("");
