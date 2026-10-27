@@ -1,0 +1,493 @@
+[
+ {
+  "rang": 123,
+  "siren": "430086165",
+  "nom": "JOREST",
+  "activite": "Restauration",
+  "secteur": "Hôtellerie & restauration",
+  "ca": 4465397,
+  "resultat": 327511,
+  "effectif": "50-99 salariés",
+  "forme_juridique": "SARL",
+  "ville": "Nevers",
+  "adresse": "RUE DU RAVELIN",
+  "code_postal": "58000",
+  "distance_cosne_km": 56,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS probable",
+   "benefice": true,
+   "resultat": 327511,
+   "ca": 4465397,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "source": null,
+   "plafond": 22327,
+   "prix_max": 111635,
+   "economie_max": 27909,
+   "espace": "clientele",
+   "espace_txt": "Espaces ouverts à la clientèle (accueil, salles)",
+   "public": true,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "56.10C",
+  "telephone": "03 86 59 58 87",
+  "telephone_a_confirmer": true,
+  "site_web": "https://www.mcdonalds.fr/restaurants/mcdonalds-nevers-centre/822",
+  "dirigeants": [
+   {
+    "nom": "Yannick ANDRIEUX",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Yannick ANDRIEUX",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/jorest-430086165"
+  },
+  "contact_finance": {
+   "nom": "Yannick ANDRIEUX",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/jorest-430086165"
+  },
+  "decision": "Décision probablement prise à Nevers par le franchisé Yannick Andrieux (gérant de JOREST, qui exploite aussi McDonald's Nevers Marzy), et non au siège de McDonald's France : chaque restaurant franchisé est une société indépendante.",
+  "note_contacts": "Aucun résultat en 3 recherches (nom de la société, du gérant et adresse rue du Ravelin) : l'enseigne exploitée n'est pas identifiée (50-99 salariés, probablement une enseigne de restauration rapide ou collective sous un autre nom). Dirigeant issu du registre uniquement. Profil : JOREST exploite très probablement le restaurant McDonald's Nevers Centre, à l'angle de la rue du Ravelin et de la rue du Champ de Foire (salle de restauration, comptoir, bornes, cuisine ; 50-99 salariés, ouvert jusqu'à 2 h selon la fiche officielle) ; le même franchisé tient aussi le McDonald's Nevers Marzy (centre commercial Carrefour, 03 86 36 01 10), rénové il y a environ deux ans avec le premier décor « ATOA » sur bâtiment 3 m en France. Cibles 101-500 (27/10/2026) : le numéro du CRM 03 86 59 58 87 est confirmé sur la page officielle du restaurant Nevers Centre sur mcdonalds.fr (fiabilité relevée de « à confirmer » à « officielle »). Lien JOREST / Andrieux / McDonald's : un post LinkedIn d'un agenceur (vu dans les résultats de recherche, profil https://www.linkedin.com/in/christophe-vergne-6a641571/) remercie Yannick Andrieux comme franchisé pour la rénovation du McDonald's Nevers Marzy ; un autre résultat le montre lié aux restaurants de Bourges, Vierzon et Nevers (non confirmé). Le rattachement exact de la société JOREST au restaurant de la rue du Ravelin reste déduit de l'adresse : à confirmer au premier appel (« c'est bien la société de M. Andrieux ? »). Le McDonald's de Magny-Cours est indiqué fermé définitivement. Aucun responsable financier trouvé : demander au standard si la comptabilité et les achats sont gérés par un bureau commun aux restaurants du franchisé (souvent une holding ou un siège administratif). Vérification : 1 recherche : le 03 86 59 58 87 n'apparaît que dans les extraits Bible-Marques du McDonald's de Nevers (angle rue du Ravelin), pas sur la page mcdonalds.fr citée ; Custplace donne pour ce restaurant le 01 30 48 60 00 (siège McDonald's France, non retenu). Standard rétrogradé de « officielle » à « annuaire » ; le rattachement de ce restaurant à JOREST reste déduit de l'adresse, à confirmer au premier appel. Aucun résultat en 3 recherches (nom de la société, du gérant et adresse rue du Ravelin) : l'enseigne exploitée n'est pas identifiée (50-99 salariés, probablement une enseigne de restauration rapide ou collective sous un autre nom). Dirigeant issu du registre uniquement. 2e passe : le seul restaurant trouvé rue du Ravelin à Nevers est le McDonald's Nevers (angle rue du Ravelin et rue du Champ de Foire, https://www.au-magasin.fr/58000-nevers/mcdonalds-64156.html), cohérent avec une société de restauration de 50-99 salariés : standard = numéro de ce restaurant, 03 86 59 58 87, vu dans les extraits des fiches Bible-Marques des McDonald's de la Nièvre (annuaire). Lien JOREST / McDonald's déduit de l'adresse et non confirmé par une source (aucun résultat pour JOREST ni pour Andrieux + McDonald's) : à vérifier au premier appel. Le 01 30 48 60 00 affiché par Custplace est le siège de McDonald's France, non retenu. Vérification : Aucun résultat web sur Yannick Andrieux à Nevers : gérant confirmé par le registre seulement ; activité réelle de JOREST toujours non identifiée.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/430086165",
+   "https://www.pappers.fr/entreprise/jorest-430086165"
+  ]
+ },
+ {
+  "rang": 124,
+  "siren": "888572831",
+  "nom": "GERMAIN'S DEVELOPMENT",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "secteur": "Commerce & distribution",
+  "ca": 4410000,
+  "resultat": 141000,
+  "effectif": "0 salarié (donnée 2023)",
+  "forme_juridique": "SAS",
+  "ville": "Tannay",
+  "adresse": "AVENUE DE LA FRINGALE",
+  "code_postal": "58190",
+  "distance_cosne_km": 56,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 141000,
+   "ca": 4410000,
+   "annee": "2023",
+   "annee_resultat": "2023",
+   "source": null,
+   "plafond": 22050,
+   "prix_max": 110250,
+   "economie_max": 27562,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "47.11D",
+  "telephone": "03 86 29 30 65",
+  "site_web": "https://www.magasins-u.com/magasin/uexpress-tannay",
+  "dirigeants": [
+   {
+    "nom": "Julien Claude Henri GERMAIN",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Julien Claude Henri GERMAIN",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/germains-development-888572831"
+  },
+  "contact_finance": {
+   "nom": "Julien Claude Henri GERMAIN",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/germains-development-888572831"
+  },
+  "decision": "Décision prise à Tannay par Julien Germain, commerçant indépendant associé de la Coopérative U qui détient son magasin via GERMAIN'S DEVELOPMENT ; pas de siège de groupe décisionnaire pour ce type d'achat.",
+  "note_contacts": "Aucun résultat en 3 recherches (raison sociale, adresse avenue de la Fringale, dirigeant). Le magasin exploité n'est pas identifié : 4,4 M€ de CA en commerce de détail avec 0 salarié déclaré (2023) ; un Super U / U Express existe à Tannay (https://www.promocatalogues.fr/villes/tannay-nievre) mais aucun lien avec cette société n'a été vérifié. Dirigeant issu du registre uniquement. Profil : supermarché de proximité U Express, avenue de la Fringale à Tannay (surface de vente, accueil, station-service, location de véhicules Ulocation dont un camion 11 m³), magasin indépendant de la coopérative Système U ; un seul magasin connu pour cette société. Cibles 101-500 (27/10/2026) : lien société / magasin désormais étayé : un post LinkedIn récent (environ 4 mois, vu dans les résultats de recherche) remercie Julien Germain comme responsable du U Express de Tannay, et son profil indique la Coopérative U comme employeur ; il est aussi président de GERMAIN'S DEVELOPMENT au registre. Profil LinkedIn retenu = premier résultat « Julien Germain - Greater Reims Area » : la localisation Reims laisse un doute, à vérifier. Standard 03 86 29 30 65 confirmé sur la page officielle magasins-u.com du magasin (fiabilité « officielle »). Aucun email générique publié, aucun responsable financier ni comptable trouvé (4 recherches dont 2 sans résultat utile sur la raison sociale et la presse locale). Effectif « 0 salarié » de 2023 incohérent avec un supermarché : le personnel est peut-être porté par une autre société ; demander au standard M. Germain directement et qui tient la comptabilité (cabinet externe ?). Vérification : 1 recherche (U Express Tannay + magasins-u.com + avenue de la Fringale) : aucune page magasins-u.com ni aucun extrait avec le 03 86 29 30 65 ; seules des pages catalogue (Tiendeo, Bonial) confirment l'existence d'un U Express à Tannay, sans numéro. Standard rétrogradé de « officielle » à « annuaire » ; profil LinkedIn « Julien Germain - Greater Reims Area » non revérifié (possible homonyme). Aucun résultat en 3 recherches (raison sociale, adresse avenue de la Fringale, dirigeant). Le magasin exploité n'est pas identifié : 4,4 M€ de CA en commerce de détail avec 0 salarié déclaré (2023) ; un Super U / U Express existe à Tannay (https://www.promocatalogues.fr/villes/tannay-nievre) mais aucun lien avec cette société n'a été vérifié. Dirigeant issu du registre uniquement. 2e passe : le seul commerce trouvé avenue de la Fringale à Tannay est le magasin U Express Tannay (ex-Super U, station-service D119, https://www.zagaz.com/carte.php?id_s=16310) : standard = numéro du magasin sur sa page officielle magasins-u.com, 03 86 29 30 65. Lien GERMAIN'S DEVELOPMENT / U Express déduit de l'adresse et de l'activité (commerce de détail, 4,4 M€ de CA), non confirmé par une source : à vérifier au premier appel. Le numéro surtaxé affiché par auto-selection.com n'est pas retenu. Vérification : Aucun résultat web sur Julien Germain à Tannay : président confirmé par le registre seulement ; magasin exploité toujours non identifié.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/888572831",
+   "https://www.pappers.fr/entreprise/germains-development-888572831"
+  ]
+ },
+ {
+  "rang": 125,
+  "siren": "925318248",
+  "nom": "LE NOUVEAU CHAMP DE LA DAME",
+  "nom_commercial": "EHPAD Le Champ de la Dame",
+  "activite": "Hébergement médico-social et social",
+  "secteur": "Santé",
+  "description": "EHPAD privé de 84 lits (dont 14 en unité protégée Alzheimer et 4 en hébergement temporaire) situé 2 rue des Écoles à Varennes-lès-Narcy, accueillant des personnes âgées dépendantes de 60 ans et plus ; exploité depuis 2024 par le groupe DOMIDEP.",
+  "actualite": "Avril 2024 : l'EHPAD, auparavant exploité par une société du groupe Médicharme (placé en liquidation judiciaire), passe au groupe DOMIDEP via la nouvelle société exploitante créée le 04/04/2024 (mise en activité publiée au BODACC le 12/06/2024).",
+  "groupe": "DOMIDEP",
+  "ca": 4326268,
+  "resultat": 407444,
+  "effectif": "50-99 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Varennes-lès-Narcy",
+  "adresse": "2 RUE DES ECOLES",
+  "code_postal": "58400",
+  "distance_cosne_km": 27,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 407444,
+   "ca": 4326268,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "source": null,
+   "plafond": 21631,
+   "prix_max": 108155,
+   "economie_max": 27039,
+   "espace": "sante",
+   "espace_txt": "Hall et salles d'attente ouverts au public",
+   "public": true,
+   "notes": [
+    "Opposée à la prospection : pas de mailing, contact direct uniquement."
+   ],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "87.10A",
+  "telephone": "03 86 69 14 15",
+  "email": "contact@champdeladame.fr",
+  "dirigeants": [
+   {
+    "nom": "DOMIDEP",
+    "fonction": "Président"
+   }
+  ],
+  "decision": "Décision très probablement prise au siège du groupe DOMIDEP à L'Isle-d'Abeau (Isère), président de la société : le groupe (plus de 150 établissements) assure les fonctions support, dont la finance, l'EHPAD n'ayant qu'une direction d'établissement sur place.",
+  "note_contacts": "OPPOSITION À LA PROSPECTION : coordonnées société uniquement. EHPAD de 84 lits (FINESS 580004919) détenu par le groupe DOMIDEP (président) : la finance est gérée au niveau du groupe. Standard = secrétariat (sante.fr et annuaire officiel pour-les-personnes-agees.gouv.fr) ; fax 03 86 69 17 25. E-mail générique issu d'un agrégateur seulement (etablissementsdesante.fr), site champdeladame.fr non trouvé : à vérifier. Aucun nom de direction trouvé sur un site propre. Profil : EHPAD privé commercial de 84 lits (dont unité protégée Alzheimer de 14 places et 4 places d'hébergement temporaire), 2 rue des Écoles à Varennes-lès-Narcy, en bordure de village face aux écoles, près de La Charité-sur-Loire ; bâtiment avec accueil/secrétariat, salons et salle à manger vus par familles et visiteurs. Site unique, exploité depuis la reprise (nouvelle société créée en 2023) par le groupe DOMIDEP, qui revend aussi des chambres en LMNP à des investisseurs. Cibles 101-500 (27/10/2026) : OPPOSITION À LA PROSPECTION, coordonnées société uniquement. Standard 03 86 69 14 15 (secrétariat) confirmé par l'annuaire officiel pour-les-personnes-agees.gouv.fr et sante.fr ; fax 03 86 69 17 25. L'annuaire officiel indique « site internet non renseigné » ; aucune page dédiée trouvée sur domidep.fr, donc aucun nom relevé sur un site propre. E-mail contact@champdeladame.fr seulement sur un agrégateur (etablissementsdesante.fr), domaine non confirmé : à vérifier. Siège DOMIDEP (site officiel domidep.fr) : 18 rue du Creuzat, 38080 L'Isle-d'Abeau, 04 74 43 81 99, info@domidep.fr. Au téléphone : demander le directeur ou la directrice de l'établissement et qui valide les achats (siège ou direction locale). 4 recherches. Vérification : 03 86 69 14 15 (secrétariat) confirmé sur l'annuaire officiel pour-les-personnes-agees.gouv.fr, qui indique bien le gestionnaire « Le Nouveau Champ de la Dame » (privé commercial), et sur sante.fr et Cap Retraite ; fax 03 86 69 17 25 retrouvé ; fiabilité « officielle » maintenue. contact@champdeladame.fr toujours vu seulement sur des agrégateurs (santeenfrance.fr). Opposition respectée : aucun nom ni coordonnée personnelle. Vérification : Opposition à la prospection : seuls les éléments société vérifiés. Numéro confirmé par Cap Retraite, Santé en France et l'annuaire officiel. E-mail contact@champdeladame.fr : uniquement etablissementsdesante.fr / santeenfrance.fr (même base, fiche 48029), domaine champdeladame.fr introuvable ; adresse possiblement antérieure à la reprise par DOMIDEP (nouvelle société créée en 2023).",
+  "opposition_prospection": true,
+  "angle_partenariat": "EHPAD de 84 lits à Varennes-lès-Narcy (27 km de Cosne, 50-99 salariés en horaires décalés) : repas d'équipe et pots, repas de fin d'année du personnel, avantages salariés via le CSE ; contact à passer par la direction de l'EHPAD, le groupe DOMIDEP étant national.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/925318248",
+   "https://www.pappers.fr/entreprise/le-nouveau-champ-de-la-dame-925318248",
+   "https://recherche-entreprises.api.gouv.fr/search?q=champ%20de%20la%20dame&departement=58",
+   "https://www.sante.fr/etablissement-dhebergement-pour-personnes-agees-dependantes/varennes-les-narcy/ehpad-le-nouveau-champ-de-la-dame",
+   "https://www.sante.fr/node/7691649",
+   "https://www.conseildependance.fr/maison-retraite/ehpad/varennes-les-narcy/nievre-58/residence-le-champ-de-la-dame"
+  ]
+ },
+ {
+  "rang": 126,
+  "siren": "393717863",
+  "nom": "LES ETABLISSEMENTS HUGUET",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "secteur": "Services aux entreprises",
+  "ca": 4318861,
+  "resultat": 111436,
+  "effectif": "20-49 salariés",
+  "forme_juridique": "SARL",
+  "ville": "Saint-Honoré-les-Bains",
+  "adresse": "24 RUE DU CHEMIN FERRE",
+  "code_postal": "58360",
+  "distance_cosne_km": 101,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS probable",
+   "benefice": true,
+   "resultat": 111436,
+   "ca": 4318861,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "source": null,
+   "plafond": 21594,
+   "prix_max": 107970,
+   "economie_max": 26992,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "81.30Z",
+  "telephone": "03 86 30 75 89",
+  "telephone_a_confirmer": true,
+  "email": "etablissement.huguet@gmail.com",
+  "site_web": "http://www.paysagiste-huguet.com",
+  "dirigeants": [
+   {
+    "nom": "Fabien HUGUET",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Fabien HUGUET",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+  },
+  "contact_finance": {
+   "nom": "Fabien HUGUET",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+  },
+  "decision": "Décision prise à Saint-Honoré-les-Bains par le gérant Fabien Huguet : entreprise familiale indépendante (depuis 1975), sans groupe connu.",
+  "note_contacts": "Aucun numéro ni site trouvé en 3 recherches (les résultats « Huguet » concernent d'autres sociétés : groupe Huguet de Luçon en Vendée, notaire à Houilles). Dirigeant issu du registre uniquement. Profil : « Paysagiste Huguet » (Ets Huguet), paysagiste, pisciniste (piscines enterrées, maçonnées et hors-sol depuis 2005, spas), horticulteur et pépiniériste : création et entretien de parcs, jardins et espaces verts (tonte, élagage sur corde), production de plantes et vente au détail et en gros, rayon d'intervention d'environ 90 km. Deux sites : siège, pépinière et jardinerie au 24 rue du Chemin Ferré à Saint-Honoré-les-Bains (depuis 1975, équipe de production de 8 à 10 personnes) et jardinerie de Bourbon-Lancy (71, lieu-dit Les Alouettes, ouverte en 2017 ; 03 85 85 62 70, huguet.bourbonlancy@gmail.com) ; un ancien site à Fours (58) est fermé. Clients reçus en jardinerie et pépinière. Cibles 101-500 (27/10/2026) : la passe précédente n'avait rien trouvé ; site officiel paysagiste-huguet.com identifié, standard 03 86 30 75 89 et email générique etablissement.huguet@gmail.com publiés sur sa page contact (même numéro sur Petit Futé, PagesJaunes https://www.pagesjaunes.fr/pros/00382405 et 118712). Gérant Fabien Huguet confirmé par Pappers et societe.com, mais son nom n'apparaît pas sur le site ni dans la presse. Aucun responsable administratif ou comptable trouvé (4 recherches) : demander au standard M. Huguet et qui gère la comptabilité ou l'administratif (souvent un membre de la famille dans ce type d'entreprise). Vérification : 2 recherches (paysagiste Huguet + Saint-Honoré-les-Bains + pépinière ; domaine paysagiste-huguet.com ou numéro exact) : ni le site paysagiste-huguet.com ni le 03 86 30 75 89 n'apparaissent ; seule une fiche « Ets Huguet » (produits régionaux, plantes) sur burgundy-tourism.com (https://www.burgundy-tourism.com/regional-products/ets-huguet) confirme l'activité horticole en Bourgogne, sans numéro. Standard rétrogradé de « officielle » à « annuaire » ; site et email générique gmail également non confirmés : à faire confirmer au premier appel. Aucun numéro ni site trouvé en 3 recherches (les résultats « Huguet » concernent d'autres sociétés : groupe Huguet de Luçon en Vendée, notaire à Houilles). Dirigeant issu du registre uniquement. 2e passe : 3 recherches (Huguet + Saint-Honoré-les-Bains + paysagiste/nettoyage, adresse rue du Chemin Ferré, Ets/Etablissements Huguet + 58360) sans numéro ; seul résultat local : un Garage Huguet au 48 avenue du Général d'Espeuilles, Saint-Honoré-les-Bains (https://www.michelin.fr/auto/dealer-locator/saint-honore-les-bains/ydeddbr-garage-huguet), autre adresse et autre activité, lien non établi, non retenu. Vérification : Aucun résultat web sur Fabien Huguet à Saint-Honoré-les-Bains (seuls des homonymes psychologues ailleurs) ni sur un numéro rue du Chemin Ferré : gérant confirmé par le registre seulement.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/393717863",
+   "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+  ]
+ },
+ {
+  "rang": 127,
+  "siren": "353323843",
+  "nom": "DOMAINE DIDIER DAGUENEAU",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "secteur": "Agriculture",
+  "description": "Domaine viticole de Saint-Andelain (Pouilly-Fumé, environ 11 ha) fondé en 1982 par Didier Dagueneau et repris après son décès en 2008 par son fils Louis-Benjamin : sauvignons blancs réputés (Silex, Pur Sang, Buisson Renard), vendus en Vin de France depuis le millésime 2017. L'objet social comprend aussi la gestion d'une écurie de propriétaires.",
+  "actualite": "17/09/2026 : publication des comptes 2025 au BODACC, avec un chiffre d'affaires de 5,3 millions d'euros contre 4,32 millions en 2024.",
+  "ca": 4316513,
+  "resultat": 598512,
+  "effectif": "10-19 salariés",
+  "forme_juridique": "SARL",
+  "ville": "Saint-Andelain",
+  "adresse": "RUE DE L'ECOLE",
+  "code_postal": "58150",
+  "distance_cosne_km": 12,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS probable",
+   "benefice": true,
+   "resultat": 598512,
+   "ca": 4316513,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "source": null,
+   "plafond": 21583,
+   "prix_max": 107915,
+   "economie_max": 26979,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "01.21Z",
+  "telephone": "03 86 39 15 62",
+  "telephone_a_confirmer": true,
+  "dirigeants": [
+   {
+    "nom": "Louis DAGUENEAU",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Louis-Benjamin Dagueneau",
+   "fonction": "Gérant (vigneron, dirige le domaine depuis 2008)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.falstaff.com/en/wineries/domaine-didier-dagueneau"
+  },
+  "contact_finance": {
+   "nom": "Louis Dagueneau (Louis-Benjamin Dagueneau)",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843"
+  },
+  "decision": "Décision prise dans la famille, au domaine à Saint-Andelain : Louis-Benjamin Dagueneau (gérant) et sa sœur Charlotte (administratif et commercial) ; la famille détient aussi des sociétés patrimoniales liées (GFA du Silex, L.B Finances, SCI) qui peuvent porter un achat.",
+  "note_contacts": "Domaine viticole très réputé (Pouilly-Fumé, 'Le Bourg', Saint-Andelain), dirigé depuis 2008 par Louis-Benjamin Dagueneau avec sa sœur Charlotte (https://mwwines.com.au/museum-wine-shop/about-us/news-offers/news-item/2026/06/04/dagueneau-one-of-france's-most-uncompromising-estates) ; vins sortis de l'AOC (Vin de France). Pas de site web, et aucun numéro de téléphone ni e-mail publié trouvé (3 recherches) : domaine notoirement discret. Profil : domaine viticole de Pouilly-Fumé (environ 11 ha) au bourg de Saint-Andelain, dans un ensemble de bâtiments en bordure du village (chai, cave, bureau), vins très recherchés (Silex, Pur Sang, Buisson Renard, Astéroïde) vendus en Vin de France ; pas de site internet. Site unique. Cibles 101-500 (27/10/2026) : standard 03 86 39 15 62 confirmé par Falstaff (fiche du domaine, contact Louis-Benjamin Dagueneau) et par une invitation de 2018 de l'Union des Gens de Métier (http://www.kreydenweiss.com/upload/files/ACTU%20ALSACE/Invitation%202018%20UGM.pdf), en plus du forum de 2002 : numéro plus fiable qu'avant, mais pas de page officielle (le domaine n'a pas de site). Adresse vue sur un blog de visite (2010) : 1-7 rue Ernesto Che Guevara, 58150 Saint-Andelain. Registre (Louis Dagueneau, gérant) cohérent avec les sources récentes. Charlotte Dagueneau : rôle administratif et commercial selon winewithseth (2017), confirmé par plusieurs sites de vin qui citent les deux enfants à la tête du domaine ; elle est liée au domaine et aux sociétés GFA du Silex, L.B Finances et SCI Le Chatelet Dagueneau (Pappers https://www.pappers.fr/dirigeant/charlotte_dagueneau_1986-01). Aucun e-mail publié trouvé. Au téléphone : demander Charlotte Dagueneau pour l'administratif, sinon Louis-Benjamin ; domaine discret et très sollicité, prévoir un message court. 4 recherches (une sans résultat utile). Domaine viticole très réputé (Pouilly-Fumé, 'Le Bourg', Saint-Andelain), dirigé depuis 2008 par Louis-Benjamin Dagueneau avec sa sœur Charlotte (https://mwwines.com.au/museum-wine-shop/about-us/news-offers/news-item/2026/06/04/dagueneau-one-of-france's-most-uncompromising-estates) ; vins sortis de l'AOC (Vin de France). Pas de site web, et aucun numéro de téléphone ni e-mail publié trouvé (3 recherches) : domaine notoirement discret. 2e passe : téléphone 03 86 39 15 62 (fax 03 86 39 07 61) cité, avec l'adresse Le Bourg, 58150 Saint-Andelain, sur un fil du forum La Passion du Vin dont les messages datent de 2002 ; non confirmé par une source récente (recherche du numéro exact sans résultat) : à vérifier. Une adresse e-mail wanadoo y figure mais tronquée dans l'extrait, non reprise. Vérification : Louis-Benjamin Dagueneau dirige le domaine depuis 2008 avec sa sœur Charlotte ; une source indique que Charlotte s'occupe de la partie commerciale et Louis-Benjamin de la viticulture.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Domaine de prestige à 12 km de Cosne (10-19 salariés) : partenariat local autour des vins du territoire (mise en avant de ses cuvées, soirées dégustation co-organisées) et déjeuners d'affaires avec les visiteurs professionnels reçus sur rendez-vous.",
+  "interlocuteur_cible": {
+   "nom": "Louis DAGUENEAU",
+   "fonction": "Gérant",
+   "source": "Registre"
+  },
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/353323843",
+   "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843",
+   "https://www.idealwine.info/?p=21355",
+   "https://www.idealwine.net/louis-benjamin-dagueneau-sort-de-laoc-pouilly-fume/",
+   "https://glossary.wein.plus/didier-dagueneau",
+   "https://joinpearl.co/wineries/saint-andelain/didier-dagueneau"
+  ]
+ },
+ {
+  "rang": 128,
+  "siren": "311665913",
+  "nom": "ENTREPRISE BERNARD POTIER ANCIENNE ENTREPRISE RENE PERROT",
+  "activite": "Travaux de construction spécialisés",
+  "secteur": "BTP & matériaux",
+  "ca": 4220000,
+  "resultat": 78100,
+  "effectif": "20-49 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Nevers",
+  "adresse": "101 FAUBOURG DE LA BARATTE",
+  "code_postal": "58000",
+  "distance_cosne_km": 57,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 78100,
+   "ca": 4220000,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "source": null,
+   "plafond": 21100,
+   "prix_max": 105500,
+   "economie_max": 26375,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "43.22B",
+  "telephone": "03 86 61 02 25",
+  "telephone_a_confirmer": true,
+  "email": "sarl.bernard.potier@wanadoo.fr",
+  "dirigeants": [
+   {
+    "nom": "Alexis Florent DE WITTE",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alexis Florent DE WITTE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/societe/ent-bernard-potier-ancien-ent-r-perrot-311665913.html"
+  },
+  "contact_finance": {
+   "nom": "Alexis Florent DE WITTE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/societe/ent-bernard-potier-ancien-ent-r-perrot-311665913.html"
+  },
+  "decision": "Décision probablement prise à Nevers par le président Alexis De Witte (repreneur ou dirigeant récent d'une PME artisanale indépendante) ; aucune holding ni groupe identifié.",
+  "note_contacts": "Société connue sous le nom « Potier Bernard (SARL) », couverture-plomberie-chauffage, RGE QualiBat, 101 faubourg de la Baratte, Nevers. Téléphone identique sur deux annuaires RGE (les-energies-renouvelables.eu et https://www.hellowatt.fr/artisans/potier-bernard-sarl/). Email générique (adresse wanadoo au nom de la société) vu sur ces annuaires, non confirmé sur un site officiel. Les deux annuaires donnent des SIRET différents (…00019 / …00035), possible transfert d'établissement. Aucun résultat sur Alexis De Witte en ligne ; président issu du registre uniquement. Profil : entreprise artisanale du bâtiment fondée en 1977, 101 faubourg de la Baratte à Nevers : couverture-zinguerie (tuile, ardoise, gouttières), plomberie-sanitaire, chauffage (chaudières, bois, pompes à chaleur) et isolation, certifiée RGE / QualiBAT et labellisée Qualitoit (https://qualitoit.fr/artisan-couvreur/bourgogne-franche-comte/58-nievre/nevers/58000-nevers/entreprise-couverture-entreprise-bernard-potier) ; dépôt-atelier et bureaux au faubourg de la Baratte, 20-49 salariés, CA 4,2 M€ en 2024 ; passage de SARL à SAS en 2025. Cibles 101-500 (27/10/2026) : 4 recherches. Standard 03 86 61 02 25 toujours vu uniquement sur des annuaires (PagesJaunes https://www.pagesjaunes.fr/pros/00768826, Hellowatt, Travaux-RGE, 118000) ; aucun site officiel trouvé et la recherche du numéro exact ne renvoie aucune page : fiabilité « annuaire ». Email wanadoo également issu d'annuaires seulement. Président Alexis De Witte confirmé par verif.com et societe.com ; societe.com garde trace d'un ancien gérant René Brissard (période SARL) ; un résultat LinkedIn associe un Alexis De Witte à cette société à Nevers, URL non affichée. Aucun responsable administratif, financier ou comptable trouvé : demander au standard M. De Witte et qui gère la comptabilité (secrétaire-comptable interne ?). Vérification : Le numéro exact 03 86 61 02 25 ne ressort dans aucune recherche indépendante : seulement sur les deux annuaires RGE déjà cités (les-energies-renouvelables.eu, hellowatt.fr) ; les fiches PagesJaunes (https://www.pagesjaunes.fr/pros/00768826) et 118712 existent mais leur numéro n'apparaît pas dans les extraits. L'adresse wanadoo n'apparaît que sur ces mêmes annuaires. Alexis De Witte indiqué comme dirigeant par societe.com ; annonces légales de juillet 2025 sur un changement de forme juridique (SARL → SAS), cohérent avec un président récent.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/311665913",
+   "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
+  ]
+ },
+ {
+  "rang": 130,
+  "siren": "792570335",
+  "nom": "CORIMAR",
+  "nom_commercial": "Intermarché",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "secteur": "Commerce & distribution",
+  "ca": 4094565,
+  "resultat": 177215,
+  "effectif": "10-19 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Magny-Cours",
+  "adresse": "LD DU PRE AUX SAINTS RUE DE PARIS",
+  "code_postal": "58470",
+  "distance_cosne_km": 69,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 177215,
+   "ca": 4094565,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "source": null,
+   "plafond": 20473,
+   "prix_max": 102365,
+   "economie_max": 25591,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "47.29Z",
+  "telephone": "03 86 58 12 95",
+  "site_web": "https://www.intermarche.com/magasins/07038/magny-cours-58470/infos-pratiques",
+  "dirigeants": [
+   {
+    "nom": "REGULAR",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "REGULAR (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale) de CORIMAR",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/corimar-792570335"
+  },
+  "contact_finance": {
+   "nom": "REGULAR (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/corimar-792570335"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Carole GRILLET",
+    "fonction": "Ancienne directrice générale de CORIMAR (juin 2021 - février 2024), épouse et associée de l'adhérent selon la presse franchise",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/societe/corimar-792570335.html"
+   }
+  ],
+  "decision": "Décision prise localement par l'adhérent Intermarché propriétaire du magasin via sa holding REGULAR (SIREN 833 840 895), probablement dans la Nièvre ; le Groupement des Mousquetaires ne décide pas de ce type d'achat pour un point de vente indépendant.",
+  "note_contacts": "Magasin Intermarché Contact, rue de Paris (lieu-dit Le Pré aux Saints), 58470 Magny-Cours (https://www.118000.fr/e_C0102020066) : aucun numéro affiché dans les extraits (118000.fr, Que Choisir, zagaz) ; à vérifier sur la page magasin intermarche.com. Surprise : zagaz indique la station-service Intermarché Contact de Magny-Cours exploitée par « Mousin SA » (https://www.zagaz.com/station.php?id_s=18379), donnée possiblement ancienne (ancien exploitant ?). Personne physique derrière la holding REGULAR non identifiée. Profil : supermarché de proximité Intermarché Contact, rue de Paris (lieu-dit Le Pré aux Saints) à Magny-Cours : surface de vente, drive, station-service et vente de gaz (revendeur Antargaz), 10-19 salariés, CA 4,1 M€ ; SAS créée en 2013. Cibles 101-500 (27/10/2026) : standard 03 86 58 12 95 de la page officielle intermarche.com conservé. Chronologie du registre (Pappers, societe.com) : Omar Boumaza président jusqu'en 2021 ; Carole Grillet directrice générale de juin 2021 au 27/02/2024 ; REGULAR (SIREN 833 840 895) présidente depuis le 01/01/2024 (BODACC du 27/02/2024). la page Pappers de CORIMAR cite Diego Fernandez et Carole Grillet parmi les personnes liées (actes publiés) ; un article ac-franchise (https://ac-franchise.com/article/le-groupement-les-mousquetaires-annonce-des-reprises-et-des-transformations, non daté) indique que Diego Fernandez et son épouse Carole, installés dans la Nièvre depuis 2018, ont repris l'Intermarché de La Machine. Hypothèse : REGULAR est la holding du couple Fernandez, qui tiendrait Magny-Cours et La Machine ; non confirmé, et le couple a pu céder Magny-Cours en 2024 : demander au standard le nom de l'adhérent ou du directeur du magasin avant de citer un nom. Aucun email ni responsable financier trouvé. Magasin Intermarché Contact, rue de Paris (lieu-dit Le Pré aux Saints), 58470 Magny-Cours (https://www.118000.fr/e_C0102020066) : aucun numéro affiché dans les extraits (118000.fr, Que Choisir, zagaz) ; à vérifier sur la page magasin intermarche.com. Surprise : zagaz indique la station-service Intermarché Contact de Magny-Cours exploitée par « Mousin SA » (https://www.zagaz.com/station.php?id_s=18379), donnée possiblement ancienne (ancien exploitant ?). Personne physique derrière la holding REGULAR non identifiée. 2e passe : numéro du magasin Intermarché Contact Magny-Cours (rue de Paris) trouvé sur sa page officielle intermarche.com (infos pratiques), 03 86 58 12 95 (fiche PagesJaunes https://www.pagesjaunes.fr/pros/59678487) ; site_web = page magasin de l'enseigne. Vérification : Le chercheur n'avait trouvé aucun numéro : la page officielle du magasin Intermarché Contact Magny-Cours (rue de Paris, 58470) donne 03 86 58 12 95, également sur PagesJaunes (https://www.pagesjaunes.fr/pros/59678487) et 118712 (station-service). Président REGULAR non revérifié (pas de recherche dédiée).",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/792570335",
+   "https://www.pappers.fr/entreprise/corimar-792570335"
+  ]
+ }
+]

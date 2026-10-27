@@ -1,0 +1,521 @@
+[
+ {
+  "rang": 101,
+  "siren": "950499673",
+  "nom": "SALDIA",
+  "nom_commercial": "Intermarché",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "secteur": "Commerce & distribution",
+  "ca": 16600000,
+  "resultat": 118000,
+  "effectif": "20-49 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Guérigny",
+  "adresse": "RUE DE LANESSAN",
+  "code_postal": "58130",
+  "distance_cosne_km": 46,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 118000,
+   "ca": 16600000,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "source": null,
+   "plafond": 83000,
+   "prix_max": 415000,
+   "economie_max": 103750,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "47.11D",
+  "telephone": "03 86 90 09 34",
+  "dirigeants": [
+   {
+    "nom": "FANALONA",
+    "fonction": "Président"
+   },
+   {
+    "nom": "SA SALVAN ET ASSOCIES",
+    "fonction": null
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Nathalie Dufour",
+   "fonction": "Adhérente Intermarché (exploitante du magasin) ; présidente de la holding FANALONA, elle-même présidente de SALDIA (à confirmer)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://labellenievre.fr/adherent/intermarche-3/"
+  },
+  "contact_finance": {
+   "nom": "Nathalie Dufour",
+   "fonction": "Présidente de FANALONA (présidente de SALDIA) (à confirmer)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/fanalona-501897763"
+  },
+  "decision": "Décision locale, à Guérigny : Nathalie Dufour, adhérente indépendante du Groupement des Mousquetaires, détient le magasin via sa holding FANALONA domiciliée rue de Lanessan ; un achat de ce type relève a priori de l'adhérente, pas de la centrale.",
+  "note_contacts": "Exploitant de l'Intermarché Super de Guérigny, 5 rue de Lanessan (lien SALDIA / magasin vu sur zagaz.com). Numéro du magasin vu uniquement sur un annuaire tiers (coparking.ch), à vérifier sur la page magasin intermarche.com. Personne physique derrière la holding FANALONA non trouvée en 3 recherches. Commissaire aux comptes : SA SALVAN ET ASSOCIES. Profil : supermarché Intermarché Super de Guérigny (5 rue de Lanessan) avec station-service et drive, ouvert du lundi au samedi et le dimanche matin ; surface de vente, accueil et bureaux sur place, un seul site connu. SALDIA (SIREN de 2023) semble être une société d'exploitation récente portée par la holding FANALONA (créée en 2008, Nathalie Dufour présidente depuis 2013) : montage ou restructuration récente, à confirmer. Cibles 101-500 (27/10/2026) : 4 recherches. Personne physique derrière FANALONA identifiée : Nathalie Dufour, présidente au registre (Pappers) et nommée adhérente du magasin sur le site de l'association La Belle Nièvre (page non datée). Le 03 86 90 09 34, déjà confirmé sur la page officielle du magasin Intermarché lors de la vérification, est conservé (source PagesJaunes ici). Pas de DAF : dans un magasin indépendant de cette taille, la comptabilité est souvent suivie par l'adhérente avec un cabinet ; demander à l'appel Mme Dufour ou la personne qui gère l'administratif. Aucun e-mail public trouvé. Vérification : 1 recherche : le 03 86 90 09 34 est confirmé pour l'Intermarché Super de Guérigny, 5 rue de Lanessan, mais seulement par des annuaires (coparking.ch, au-magasin.fr ; source retenue PagesJaunes) ; aucune page officielle Intermarché dans les résultats : fiabilité ramenée de « officielle » à « annuaire ». Nathalie Dufour : aucun résultat ne la relie au magasin, marquée « à confirmer » (le registre de SALDIA ne donne que la holding FANALONA). Vérification : Numéro 03 86 90 09 34 retrouvé sur la page officielle du magasin Intermarché Super Guérigny (5 rue Lanessan) et sur PagesJaunes (https://www.pagesjaunes.fr/pros/00738659). FANALONA (président personne morale) : aucun résultat web, confirmé par le registre seulement ; personne physique toujours non identifiée.",
+  "note_classement": "Absente du classement Pappers du 02/09/2026 : avec ce chiffre d'affaires, elle se placerait aujourd'hui dans le top 100.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/950499673",
+   "https://www.pappers.fr/entreprise/saldia-950499673"
+  ]
+ },
+ {
+  "rang": 104,
+  "siren": "412880445",
+  "nom": "RAVINE",
+  "nom_commercial": "Bricomarché Cosne",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "secteur": "Commerce & distribution",
+  "description": "Magasin de bricolage, jardin et aménagement de la maison sous enseigne Bricomarché, au Parc du Val de Loire (rue des Fondeurs) à Cosne-Cours-sur-Loire, pour particuliers et artisans : location de matériel et d'utilitaires, découpe bois et verre, Bâti Drive, livraison et pose.",
+  "groupe": "Groupement Les Mousquetaires (enseigne Bricomarché) ; présidée par la holding XENT (Thierry Darrigade), qui a aussi présidé le Bricomarché de La Charité-sur-Loire (Clemenciel) jusqu'en septembre 2026",
+  "ca": 6630196,
+  "resultat": 57620,
+  "effectif": "20-49 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "PARC DU VAL DE LOIRE RUE DES FONDEURS",
+  "code_postal": "58200",
+  "distance_cosne_km": 4,
+  "site_cosne": true,
+  "site_local": "Parc du Val de Loire, rue des Fondeurs, 58200 Cosne-Cours-sur-Loire",
+  "priorite": "Haute",
+  "vague": 1,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 57620,
+   "ca": 6630196,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "source": null,
+   "plafond": 33151,
+   "prix_max": 165755,
+   "economie_max": 41439,
+   "espace": "magasin",
+   "espace_txt": "Surface de vente ouverte au public",
+   "public": true,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "47.52B",
+  "telephone": "03 86 28 80 40",
+  "telephone_a_confirmer": true,
+  "site_web": "https://www.bricomarche.com/magasin/cosne-cours-sur-loire/02241",
+  "dirigeants": [
+   {
+    "nom": "XENT",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "XENT (SARL, SIREN 531191898, Cosne-Cours-sur-Loire)",
+   "fonction": "Président (personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/societe/ravine-412880445.html"
+  },
+  "contact_finance": {
+   "nom": "Thierry DARRIGADE",
+   "fonction": "Gérant de la holding XENT, présidente de RAVINE (Bricomarché Cosne)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ravine-412880445"
+  },
+  "decision": "Décision prise localement par l'adhérent Mousquetaires via sa holding XENT, domiciliée à Cosne-Cours-sur-Loire : le magasin est indépendant (franchise du Groupement), pas de siège de groupe décisionnaire.",
+  "note_contacts": "Magasin Bricomarché franchisé (adhérent Mousquetaires), rue des Fondeurs, Parc du Val de Loire. Standard 03 86 28 80 40 déjà connu (deja) : non retrouvé dans les extraits de résultats (la page magasin bricomarche.com n'affiche pas le numéro dans l'extrait), donc non revérifié. Le lien Thierry Darrigade / XENT provient de deja ; aucune source web trouvée le citant (le registre de RAVINE ne mentionne que XENT comme présidente). Profil : Magasin de bricolage-jardin franchisé Bricomarché (adhérent Groupement Les Mousquetaires), rue des Fondeurs, Parc du Val de Loire à Cosne : surface de vente, cour matériaux/jardinerie, location de matériel et d'utilitaires, découpe bois/verre, Bâti Drive ; un seul site connu pour RAVINE. Inspection DREAL (reprise des déchets) le 15/10/2025, rien d'autre de récent trouvé. Cibles 101-500 (27/10/2026) : standard 03 86 28 80 40 désormais retrouvé sur plusieurs annuaires concordants (m-habitat, Cylex, 118000, Tripadvisor ; fax 03 86 28 80 45) et la page Facebook du magasin apparaît sur la même recherche, mais pas lu sur la page officielle bricomarche.com : fiabilité « annuaire ». Présidente : XENT (SARL, SIREN 531191898, siège à Cosne) ; societe.com donne XENT présidente depuis le 20/04/2024, Pappers depuis le 01/10/2014 (dates divergentes). Le gérant de XENT n'a pas été confirmé par une source web : le nom Thierry DARRIGADE (deja) reste non sourcé (un agrégateur cite un « Thierry Darri... » parmi les anciens dirigeants, déformé). Aucun DAF/comptable trouvé (structure 20-49 salariés : la gestion est vraisemblablement chez le dirigeant-adhérent et le cabinet comptable). Le résultat Verif citant un « Florent Rameau » à plusieurs fonctions semble une erreur de donnée, non retenu. À l'appel : demander le gérant de XENT / directeur du magasin (confirmer M. Darrigade) et qui tient la gestion administrative ; aucun email publié trouvé. Vérification : La recherche du numéro entre guillemets n'a rien donné ; la recherche par nom de magasin n'a pas pu être lancée (budget de recherches web épuisé avant revérification). T. Darrigade vient de deja et non du registre, qui ne cite que XENT : non vérifié.",
+  "opposition_prospection": false,
+  "angle_partenariat": "Employeur du commerce cosnois (20-49 salariés, Parc du Val de Loire, à 4 km) : afterworks et repas d'équipe, repas de fin d'année, avantages pour les salariés, et visibilité croisée auprès des artisans et particuliers qui fréquentent le magasin.",
+  "interlocuteur_cible": {
+   "nom": "Thierry DARRIGADE",
+   "fonction": "Gérant de la holding XENT, présidente de RAVINE (Bricomarché Cosne)",
+   "source": "Registre"
+  },
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/412880445",
+   "https://www.pappers.fr/entreprise/ravine-412880445",
+   "https://www.bricomarche.com/magasin/cosne-cours-sur-loire/02241",
+   "https://recherche-entreprises.api.gouv.fr/search?q=531191898"
+  ]
+ },
+ {
+  "rang": 107,
+  "siren": "530610187",
+  "nom": "CF2C (ex-ACORDIA)",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "secteur": "Holdings & finance",
+  "ca": 5968256,
+  "resultat": 1474252,
+  "effectif": "20-49 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Nevers",
+  "adresse": "30 AVENUE PIERRE BEREGOVOY",
+  "code_postal": "58000",
+  "distance_cosne_km": 56,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 1474252,
+   "ca": 5968256,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "source": null,
+   "plafond": 29841,
+   "prix_max": 149205,
+   "economie_max": 37301,
+   "espace": "agence",
+   "espace_txt": "Espace d'accueil de la clientèle",
+   "public": true,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "66.22Z",
+  "telephone": "01 62 01 00 95",
+  "site_web": "https://www.cf-2c.fr/",
+  "dirigeants": [
+   {
+    "nom": "Louis BAUVILLARD",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Constance Martine Marie DENJEAN (GAUME)",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Constance DENJEAN (GAUME)",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+  },
+  "contact_finance": {
+   "nom": "Constance DENJEAN (GAUME)",
+   "fonction": "Présidente",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Louis BAUVILLARD",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+   }
+  ],
+  "decision": "Décision prise par la direction de CF2C (présidente Constance Denjean, DG Louis Bauvillard) : siège juridique à Nevers, mais le site présente un bureau à Paris (17e) et des agences dans les DOM, d'où une direction peut-être parisienne, à confirmer.",
+  "note_contacts": "Aucun numéro ni site trouvé en 3 recherches. Selon verif.com, CF2C relève des activités des agences de recouvrement / sociétés d'information financière, avec un établissement à Baie-Mahault (Guadeloupe) et le siège à Nevers (https://www.verif.com/en/company/CF2C-68d9c19012992303383daf43/). Dirigeants issus du registre uniquement. Profil : cabinet de recouvrement de créances amiable et judiciaire (B2B et pour assureurs ou néobanques, partenaire recouvrement de Qonto), siège social à Nevers, 30 avenue Pierre Bérégovoy, avec un second établissement au n° 34 ouvert en 2022 (plateau de gestion probable : bureaux, pas d'accueil public) ; bureau à Paris (3 rue Alfred Roll, 75017, selon le site) et agences outre-mer (Baie-Mahault en Guadeloupe, Martinique, Guyane, Réunion). Récent : la page LinkedIn annonce le rachat de 60 % de Mercure Finances (recouvrement) ; le site cf-2c.fr cite aussi le « Cabinet Cofag & Associés » (lien à éclaircir). Cibles 101-500 (27/10/2026) : 4 recherches. Site officiel trouvé (cf-2c.fr) ; le seul numéro publié est le 01 62 01 00 95 (ligne parisienne / nationale), aucun numéro propre au site de Nevers trouvé : à l'appel, demander le standard ou le responsable du site de Nevers. Dirigeants : présidente au registre ; Louis Bauvillard, DG au registre, est aussi cité comme directeur général sur la page LinkedIn de CF2C (extrait de résultat), retenu comme interlocuteur pour la décision financière faute de DAF identifié. Résultat élevé (1,5 M€ pour 6 M€ de CA). Adresses parisiennes variables selon les pages du site (rue Alfred Roll, rue Cambacérès, rue Joubert) : pages anciennes. Avis clients négatifs en ligne (relances jugées agressives) : sans incidence pour l'appel. Vérification : 2 recherches (la première, non limitée, sans résultat ; la seconde limitée à cf-2c.fr) : le 01 62 01 00 95 figure sur plusieurs pages du site officiel comme numéro général, sans ligne propre à Nevers : « officielle » confirmé. Le site cite des implantations à Paris, Solaize et Nevers ; une présentation de 2023 donne le 161 rue de Courcelles (Paris 17e) ; un ancien numéro de Cofag & Associés, sans doute obsolète, n'est pas retenu ; un article du blog annonce une deuxième acquisition en France. Dirigeants identiques au registre, non revérifiés. Aucun numéro ni site trouvé en 3 recherches. Selon verif.com, CF2C relève des activités des agences de recouvrement / sociétés d'information financière, avec un établissement à Baie-Mahault (Guadeloupe) et le siège à Nevers (https://www.verif.com/en/company/CF2C-68d9c19012992303383daf43/). Dirigeants issus du registre uniquement. 2e passe : 3 recherches (CF2C + recouvrement + avenue Pierre Bérégovoy, adresse 30 avenue Pierre Bérégovoy Nevers, ancien nom Acordia) sans numéro ni site : l'occupant du 30 avenue Pierre Bérégovoy n'apparaît dans aucun annuaire. Vérification : Aucun résultat web pour CF2C, Constance Denjean ni Louis Bauvillard (DG au registre) : dirigeante confirmée par le registre seulement, aucun départ signalé. Aucun numéro trouvé non plus.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/530610187",
+   "https://www.pappers.fr/entreprise/acordia-530610187"
+  ]
+ },
+ {
+  "rang": 108,
+  "siren": "431863752",
+  "nom": "NAUDET SAPINS DE NOEL",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "secteur": "Agriculture",
+  "ca": 5872892,
+  "resultat": 433871,
+  "effectif": "10-19 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Planchez",
+  "adresse": "LA GUTTELEAU PLANCHEZ EN MORVAN",
+  "code_postal": "58230",
+  "distance_cosne_km": 100,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 433871,
+   "ca": 5872892,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "source": null,
+   "plafond": 29364,
+   "prix_max": 146820,
+   "economie_max": 36705,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "01.29Z",
+  "telephone": "03 86 43 89 37",
+  "telephone_a_confirmer": true,
+  "email": "contact@pepinieres-naudet.com",
+  "site_web": "https://www.pepinieres-naudet.com/",
+  "dirigeants": [
+   {
+    "nom": "Martin Jean-Raymond NAUDET",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Martin Jean-Raymond NAUDET",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+  },
+  "contact_finance": {
+   "nom": "Martin Jean-Raymond NAUDET",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Frédéric NAUDET",
+    "fonction": "Dirigeant de « Naudet Sapins de Noël » (présenté ainsi par Sud Radio, exploite avec son fils ; président de l'association française du sapin de Noël naturel)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.sudradio.fr/emission/la-france-qui-se-leve-tot-1020"
+   }
+  ],
+  "decision": "Décision familiale au sein du groupe Pépinières Naudet, dont la société de tête est à Leuglay (Côte-d'Or) : Martin Naudet (président de la filiale et DG délégué du groupe), avec Frédéric Naudet (probablement son père) sans doute associé à la décision pour le domaine du Morvan.",
+  "note_contacts": "Aucun numéro trouvé (seul numéro vu : celui du groupement Excellence Végétale, non retenu). Adresse postale La Gutteleau, 58230 Planchez confirmée sur une fiche produit Bricomarché. Le registre donne Martin Naudet président ; la presse présente Frédéric Naudet (probablement son père) comme dirigeant : à clarifier à l'appel. Entreprise liée au groupe familial Pépinières Naudet (Leuglay, 21). Profil : exploitation de sapins de Noël du groupe familial Pépinières Naudet (fondé en 1876, premier producteur français de sapins, 4 sites) : environ 450 à 500 hectares de plantations à Planchez-en-Morvan, à 600 m d'altitude ; site agricole sans accueil public connu (récolte à partir de septembre, vente en jardineries et GMS : Truffaut, Bricomarché). Sapins produits depuis 1956. Cibles 101-500 (27/10/2026) : 4 recherches. Le numéro 03 86 43 89 37 et l'e-mail contact@pepinieres-naudet.com sont ceux que Pépinières Naudet publie comme vendeur sur la place de marché Truffaut (page tierce, donc « annuaire ») : ligne du groupe, l'indicatif 03 86 (Nièvre / Yonne) alors que le siège est en Côte-d'Or laisse penser qu'il pourrait desservir le site du Morvan, à confirmer. Registre : Martin Naudet président, confirmé ; il est aussi DG délégué de Pépinières Naudet (PDG : Pierre Naudet ; administrateurs : Frédéric, Isabelle et Vincent Naudet) et pilote le reboisement et la sylviculture du groupe. Manageo cite encore Frédéric Naudet comme président (donnée ancienne probable). Aucun DAF, RAF ou contrôleur de gestion trouvé pour le groupe : le président est repris. À l'appel : demander qui gère l'administratif et la comptabilité du domaine de Planchez (sur place ou à Leuglay), et si la décision revient à Martin ou à Frédéric Naudet. Appel en pleine saison de récolte et d'expédition (jusqu'à mi-décembre) : interlocuteurs peu disponibles, proposer un rappel. Vérification : 1 recherche : le 03 86 43 89 37 est confirmé sur la fiche vendeur Truffaut de Pépinières Naudet, avec l'adresse du siège du groupe (4 rue de Lugny, 21290 Leuglay) : c'est la ligne du groupe, pas une ligne propre au domaine de Planchez ; « annuaire » maintenu. Une fiche de salon (IPM Essen) donne un numéro voisin pour un contact du groupe, non retenu. Président identique au registre. Aucun numéro trouvé (seul numéro vu : celui du groupement Excellence Végétale, non retenu). Adresse postale La Gutteleau, 58230 Planchez confirmée sur une fiche produit Bricomarché. Le registre donne Martin Naudet président ; la presse présente Frédéric Naudet (probablement son père) comme dirigeant : à clarifier à l'appel. Entreprise liée au groupe familial Pépinières Naudet (Leuglay, 21). 2e passe : 3 recherches (Naudet sapins Planchez téléphone, Naudet + Planchez + 03 86, site Planchez des Pépinières Naudet) sans numéro propre au site de Planchez ; le groupe familial Pépinières Naudet (premier producteur français de sapins de Noël, ~200 personnes, 4 pépinières) ne publie pas de numéro dans les extraits vus. Vérification : Martin Naudet président au registre, aucun départ trouvé. Sud Radio présente Frédéric Naudet comme « dirigeant de Naudet Sapins de Noël dans le Morvan avec son fils » (https://www.sudradio.fr/emission/la-france-qui-se-leve-tot-1020) : Martin est probablement ce fils ; demander à l'appel qui décide (père ou fils). Aucun numéro trouvé.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/431863752",
+   "https://www.pappers.fr/entreprise/naudet-sapins-de-noel-431863752"
+  ]
+ },
+ {
+  "rang": 112,
+  "siren": "334925070",
+  "nom": "SARL BEAUVOIS FRERES",
+  "activite": "Sylviculture et exploitation forestière",
+  "secteur": "Bois & forêt",
+  "description": "Entreprise d'exploitation forestière (abattage, bûcheronnage et sortie des bois, achat, vente et sciage de bois) basée à La Fontaine Pitard, 1350 route de la Villeneuve à Neuvy-sur-Loire (18 km de Cosne). PME de 20 à 49 salariés dirigée par Michel Beauvois.",
+  "ca": 5471036,
+  "resultat": 400686,
+  "effectif": "20-49 salariés",
+  "forme_juridique": "SARL",
+  "ville": "Neuvy-sur-Loire",
+  "adresse": "LA FONTAINE PITARD 1350 ROUTE DE LA VILLENEUVE",
+  "code_postal": "58450",
+  "distance_cosne_km": 18,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 2,
+  "art": {
+   "regime": "IS probable",
+   "benefice": true,
+   "resultat": 400686,
+   "ca": 5471036,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "source": null,
+   "plafond": 27355,
+   "prix_max": 136775,
+   "economie_max": 34194,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [
+    "Opposée à la prospection : pas de mailing, contact direct uniquement."
+   ],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "02.20Z",
+  "telephone": "03 86 39 24 70",
+  "telephone_a_confirmer": true,
+  "email": "beauvois-freres@orange.fr",
+  "dirigeants": [
+   {
+    "nom": "Michel BEAUVOIS",
+    "fonction": "Gérant"
+   }
+  ],
+  "decision": "Décision prise dans l'entreprise même : SARL familiale indépendante (pas de groupe), gérée par la famille Beauvois à Neuvy-sur-Loire.",
+  "note_contacts": "OPPOSITION À LA PROSPECTION : seules les coordonnées société sont collectées ; pas de site web propre, donc aucun décideur relevé (le gérant figure déjà au registre dans deja.dirigeants). Numéro déjà connu, non reconfirmé (fiche Cylex https://www.cylex-locale.fr/entreprises/beauvois-fr%c3%a8res-sarl-13046603.html sans numéro dans l'extrait). Activité : abattage, débardage, négoce de bois, sciage. Profil : scierie familiale et entreprise d'exploitation forestière (abattage, débardage, achat-vente et sciage de bois, première transformation du chêne selon sa page Facebook) au lieu-dit La Fontaine Pitard, route de la Villeneuve à Neuvy-sur-Loire ; site unique avec scierie, parc à grumes et bureau, ouvert en semaine 8h-12h / 13h30-17h30 selon les annuaires. Cibles 101-500 (27/10/2026) : OPPOSITION À LA PROSPECTION, coordonnées société uniquement (pas de site web propre, donc aucun nom relevé). Le 03 86 39 24 70 est désormais retrouvé dans les annuaires (PagesJaunes, 118712), sans page officielle ; fax 03 86 39 21 67 (Cylex). E-mail générique beauvois-freres@orange.fr publié dans l'annuaire Bois de France (label officiel de la filière) ; une adresse contact@beauvois-freres.fr apparaît aussi dans un annuaire professionnel (Fédération nationale du bois ou guide-forestier, attribution incertaine) mais aucun site beauvois-freres.fr n'a été trouvé : à vérifier. Présence Facebook : https://www.facebook.com/p/SARL-Beauvois-Fr%C3%A8res-100066495084359/. Pappers indique 10-19 salariés (CRM : 20-49). Au téléphone : demander le gérant (registre) ou la personne qui tient la comptabilité. 4 recherches. Vérification : opposition à la prospection respectée (aucun nom ni coordonnée personnelle, seulement standard et e-mail générique de la société) ; numéro non recherché à nouveau dans cette contre-vérification. Vérification : Opposition à la prospection : seuls les éléments société vérifiés. Le 03 86 39 24 70 n'apparaît dans aucun résultat (Cylex et copeps.fr sans numéro dans les extraits).",
+  "opposition_prospection": true,
+  "angle_partenariat": "Entreprise forestière de Neuvy-sur-Loire (18 km, 20-49 salariés) : repas d'équipe et de fin d'année pour les équipes de chantier, déjeuners d'affaires avec propriétaires forestiers et acheteurs de bois ; partenariat local autour du bois du territoire (visibilité croisée).",
+  "interlocuteur_cible": {
+   "nom": "Michel Beauvois",
+   "fonction": "Gérant",
+   "source": "Registre"
+  },
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/334925070",
+   "https://www.pappers.fr/entreprise/sarl-beauvois-freres-334925070",
+   "https://www.cylex-locale.fr/entreprises/beauvois-fr%c3%a8res-sarl-13046603.html"
+  ]
+ },
+ {
+  "rang": 116,
+  "siren": "350408183",
+  "nom": "TPI TRAVAUX PUBLICS ET INDUSTRIELS",
+  "activite": "Activités de location et location-bail",
+  "secteur": "Transport & logistique",
+  "ca": 5096936,
+  "resultat": 113136,
+  "effectif": "20-49 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZI DES CHAMONDS RUE THOMAS EDISON",
+  "code_postal": "58640",
+  "distance_cosne_km": 48,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 113136,
+   "ca": 5096936,
+   "annee": "2025",
+   "annee_resultat": "2025",
+   "source": null,
+   "plafond": 25485,
+   "prix_max": 127425,
+   "economie_max": 31856,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "77.32Z",
+  "telephone": "03 86 59 81 82",
+  "email": "contact@tpilocation.fr",
+  "site_web": "https://tpilocation.fr/",
+  "dirigeants": [
+   {
+    "nom": "AFIC",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "AFIC (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale) de TPI",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+  },
+  "contact_finance": {
+   "nom": "AFIC (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Rémy (nom non publié)",
+    "fonction": "Responsable de l'agence de Nevers",
+    "tel": null,
+    "email": null,
+    "source": "https://tpilocation.fr/"
+   }
+  ],
+  "decision": "Décision locale au siège de Varennes-Vauzelles : entreprise indépendante fondée en 1989 par Marie-Hélène Bernard, détenue par la holding AFIC (personne physique et localisation de la holding non vérifiées).",
+  "note_contacts": "Aucun numéro, site ni contact trouvé en 3 recherches. SIRENE : SAS TRAVAUX PUBLICS ET INDUSTRIELS (TPI), active depuis 1990, APE 77.32Z (location de machines et équipements pour la construction) ; l'ancien établissement ZA Champ Mâle, rue Jacques Duclos est fermé depuis 2009 (https://api-avis-situation-sirene.insee.fr/identification/pdf/35040818300019). Personne physique derrière AFIC non identifiée. Profil : loueur de matériel de BTP et d'industrie sous l'enseigne TPI Location (pelles, mini-pelles, compacteurs, chariots télescopiques, nacelles, camions-bennes, compresseurs, groupes électrogènes ; location aux professionnels et aux particuliers), siège et agence de Nevers au 2 rue Thomas Edison, ZI des Chamonds à Varennes-Vauzelles (comptoir d'accueil et parc de matériel), ouvert en semaine de 7h30 à 12h et de 13h30 à 18h ; autres agences à Cosne-sur-Loire (03 86 28 84 84, route de Nevers), Moulins (03) et Auxerre (89), 5 agences selon LinkedIn, 11 à 50 salariés. Cibles 101-500 (27/10/2026) : 4 recherches ; l'entreprise, introuvable aux passes précédentes sous sa raison sociale, est identifiée par son enseigne TPI Location : site officiel tpilocation.fr avec standard 03 86 59 81 82 et contact@tpilocation.fr (adresse d'agence nevers@tpilocation.fr vue sur le compte X de l'entreprise). Dirigeant : le registre donne la holding AFIC comme présidente ; le catalogue de l'entreprise présente la fondatrice Marie-Hélène Bernard comme présidente (document non daté, peut-être ancien) : à confirmer à l'appel, ainsi que l'éventuelle succession. Aucun responsable financier trouvé. Le site nomme seulement « Rémy », responsable de l'agence de Nevers : bon point d'entrée au standard. À l'appel : demander Mme Bernard ou le dirigeant actuel de la holding AFIC, et qui suit la comptabilité. Vérification : 2 recherches (la première, non limitée, sans résultat ; la seconde limitée à tpilocation.fr) : le 03 86 59 81 82 (agence de Nevers et siège, ZI des Chamonds) et contact@tpilocation.fr figurent sur le site officiel : confirmés ; agence de Cosne au 03 86 28 84 84 également confirmée. Marie-Hélène Bernard n'apparaît dans aucun extrait vu (catalogue non daté) : marquée « à confirmer » ; le registre ne donne que la holding AFIC. Aucun numéro, site ni contact trouvé en 3 recherches. SIRENE : SAS TRAVAUX PUBLICS ET INDUSTRIELS (TPI), active depuis 1990, APE 77.32Z (location de machines et équipements pour la construction) ; l'ancien établissement ZA Champ Mâle, rue Jacques Duclos est fermé depuis 2009 (https://api-avis-situation-sirene.insee.fr/identification/pdf/35040818300019). Personne physique derrière AFIC non identifiée. 2e passe : 3 recherches (TPI + rue Thomas Edison, raison sociale complète, loueurs de matériel BTP de la ZA des Chamonds) sans numéro ni enseigne identifiée ; aucun annuaire ne montre TPI à la ZI des Chamonds (loueurs voisins vus : Loxam Le Bengy, Kiloutou, non liés). Vérification : Aucun résultat web sur TPI à Varennes-Vauzelles (homonyme TPI à Hasparren, 64, sans lien) : président AFIC confirmé par le registre seulement.",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/350408183",
+   "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+  ]
+ },
+ {
+  "rang": 120,
+  "siren": "354045205",
+  "nom": "A.E. PRODUCTION ALAIN ELINAS PRODUCTION",
+  "activite": "Fabrication de meubles",
+  "secteur": "Bois & forêt",
+  "ca": 4732145,
+  "resultat": 301193,
+  "effectif": "20-49 salariés",
+  "forme_juridique": "SAS",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "1298 AVENUE DE PARIS",
+  "code_postal": "58320",
+  "distance_cosne_km": 43,
+  "site_cosne": false,
+  "priorite": "Haute",
+  "vague": 3,
+  "art": {
+   "regime": "IS",
+   "benefice": true,
+   "resultat": 301193,
+   "ca": 4732145,
+   "annee": "2024",
+   "annee_resultat": "2024",
+   "source": null,
+   "plafond": 23661,
+   "prix_max": 118305,
+   "economie_max": 29576,
+   "espace": "salaries",
+   "espace_txt": "Hall, salle de pause ou cantine, accessibles à tous les salariés",
+   "public": false,
+   "notes": [],
+   "plafond_a_recalculer": false
+  },
+  "code_naf": "31.01Z",
+  "telephone": "03 86 90 99 80",
+  "telephone_a_confirmer": true,
+  "email": "contact@aelinasprod.fr",
+  "site_web": "https://aelinasprod.fr",
+  "dirigeants": [
+   {
+    "nom": "Alain MANNS",
+    "fonction": null
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alain MANNS",
+   "fonction": "Dirigeant (titre exact non précisé dans le registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+  },
+  "contact_finance": {
+   "nom": "Alain MANNS",
+   "fonction": "Dirigeant (titre exact non précisé dans le registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+  },
+  "decision": "Décision prise sur place à Pougues-les-Eaux par le président Alain Manns : SAS indépendante sans groupe ni établissement secondaire connus.",
+  "note_contacts": "Aucun numéro ni site trouvé en 3 recherches. Xerfi : fabrication de meubles de bureau et de magasin (31.01Z), CA 4 732 k€ en 2024, 36 personnes, siège avenue de Paris à Pougues-les-Eaux sans établissement secondaire (https://www.xerfi.com/etudes-par-entreprise/alain-elinas-production_354045205). Profil : AE Production (marque commerciale d'Alain Elinas Production) conçoit, fabrique et pose du mobilier commercial et de la PLV (mélaminé, stratifié, combiné métal, plastique, verre) pour l'agencement d'espaces de vente ; usine-atelier unique au 1298 avenue de Paris à Pougues-les-Eaux (menuiserie, usinage, tôlerie, impression, tabletterie, installation-maintenance), environ 36 à 45 salariés, référencée La French Fab (https://www.lafrenchfab.fr/entreprise/ae-production/). Cibles 101-500 (27/10/2026) : site officiel identifié (aelinasprod.fr, absent du CRM) ; standard 03 86 90 99 80 donné par les mentions légales et la page contact du site (https://aelinasprod.fr/contact/), aussi sur 118000.fr. Email générique contact@aelinasprod.fr dans les mentions légales ; la même page affiche aussi contact@aeproduction.fr dans son bloc contact : deux variantes publiées, demander laquelle utiliser. Président Alain Manns confirmé par verif.com, Kompass et manageo (président depuis 2012 selon un annuaire) ; Pappers affiche aussi une ligne « ancien président » 2021-2022 au même nom, sans autre dirigeant visible : à faire confirmer au standard. Aucun DAF, RAF ni comptable trouvé (4 recherches) : demander au standard qui suit la comptabilité et les achats (assistante de direction ou comptable interne ?). Vérification : 2 recherches (numéro exact avec « AE Production » Pougues-les-Eaux ; aelinasprod.fr + agencement + Pougues) : ni le site aelinasprod.fr, ni ses mentions légales, ni le 03 86 90 99 80 ne ressortent ; seule la fiche Xerfi (siège 1298 avenue de Paris, sans établissement secondaire) apparaît. Standard rétrogradé de « officielle » à « annuaire » (source déclarée non revue) ; site et emails contact@aelinasprod.fr / contact@aeproduction.fr également non confirmés : faire confirmer le numéro et l'adresse email au premier appel. Aucun numéro ni site trouvé en 3 recherches. Xerfi : fabrication de meubles de bureau et de magasin (31.01Z), CA 4 732 k€ en 2024, 36 personnes, siège avenue de Paris à Pougues-les-Eaux sans établissement secondaire (https://www.xerfi.com/etudes-par-entreprise/alain-elinas-production_354045205). 2e passe : 3 recherches (Elinas + Pougues, adresse 1298 avenue de Paris, A.E. Production + agencement) sans numéro, site ni enseigne commerciale identifiée. Vérification : Aucun résultat web sur Alain Manns ni sur « Alain Elinas » à Pougues-les-Eaux : dirigeant confirmé par le registre seulement (titre exact absent du registre).",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/354045205",
+   "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+  ]
+ }
+]
