@@ -1,0 +1,67 @@
+[
+ {
+  "siren": "611880204",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : trois recherches (DAF ou directeur financier de CIPELIA / IGOL, comptable, responsable administratif ou contrôleur de gestion d'IGOL Centre à Nevers, offres d'emploi et profils LinkedIn) ne font ressortir aucun nom de finance : seules des offres comptables d'autres employeurs de Nevers apparaissent. Sans DAF identifié, Isabelle Billoue Meunier (habilitée à engager la société) ou la présidente CIPELIA décide ; demander au standard si la comptabilité est tenue à Nevers ou chez CIPELIA.",
+  "recherches": 3
+ },
+ {
+  "siren": "885820217",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : une recherche (U Express Tannay, SO.DI.TAN, Germain's Development avec comptable ou directeur) ne renvoie que des homonymes sans rapport ; aucun responsable financier ou comptable publié pour ce magasin d'environ 27 salariés. Comme souvent chez les associés U, l'exploitant (holding Germain's Development, présidente depuis août 2026) décide et la comptabilité est vraisemblablement tenue par un cabinet externe : demander au magasin qui la suit.",
+  "recherches": 1
+ },
+ {
+  "siren": "428223531",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : une recherche (Intermarché Sauvigny-les-Bois / ALBEN / Pommier avec comptable ou responsable administratif) ne nomme aucun comptable ni RAF : les offres « Intermarché - comptable » trouvées concernent d'autres magasins, et Zagaz confirme seulement qu'Alben exploite la station. Adhérent indépendant sans DAF, Laurent Pommier décide ; demander qui tient la comptabilité (interne ou cabinet).",
+  "recherches": 1
+ },
+ {
+  "siren": "398711283",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : une recherche (Technic'Elec 58 Nevers avec comptable, assistante de direction ou responsable administratif) ne renvoie que des offres d'autres employeurs de Nevers ; aucun responsable financier ou comptable publié pour cette PME de 20-49 salariés sans site web. Les dirigeants Thierry Bourbon (président) et Romain Blond (DG) décident ; demander si la comptabilité est tenue en interne ou par un cabinet.",
+  "recherches": 1
+ },
+ {
+  "siren": "420237398",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : une recherche (Intermarché Contact Saint-Benin-d'Azy / DAJAZY / Mordzialek avec comptable ou administratif) ne fait apparaître que des fiches du magasin (Que Choisir, Tiendeo, stations-service), sans aucun nom de comptable ou de responsable administratif. Petit point de vente (10-19 salariés) sans DAF : la présidente adhérente Myriam Mordzialek décide, la comptabilité étant probablement tenue par un cabinet ou les services du groupement.",
+  "recherches": 1
+ },
+ {
+  "siren": "323685453",
+  "statut_daf": "groupe",
+  "decideur_financier": {
+   "nom": "Thierry Simonel",
+   "fonction": "DAF (directeur administratif et financier) de TFF Group (Tonnellerie François Frères), groupe coté dont le siège est à Saint-Romain (Côte-d'Or), actionnaire à 51 % depuis mai 2024 et présidente de Parqueterie Beau Soleil ; c'est le DAF du groupe, pas de la parqueterie, cité comme contact financier dans les communiqués AMF du groupe (déjà en 2022, encore en janvier et mars 2026) ; son rôle dans un achat de la parqueterie reste à vérifier",
+   "type": "autre",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/03/FCECO081406_20260331.pdf",
+   "a_confirmer": false
+  },
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : aucun comptable ni responsable financier propre à la parqueterie (environ 32 salariés) ou à la Scierie Petitrenaud n'est publié (une recherche dédiée sans résultat) ; le seul décideur financier identifié est Thierry Simonel, DAF de TFF Group, actionnaire majoritaire, nommé dans les communiqués AMF du groupe (2022 : https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2022/01/FCECO061734_20220120.pdf, mars 2026) et sur le profil abcbourse de TFF Group. Sur place, la famille Petitrenaud (Xavier, DG) gère l'activité : lui demander qui tient la comptabilité et si TFF doit valider la dépense.",
+  "recherches": 3
+ },
+ {
+  "siren": "950376566",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : deux recherches (comptable, chef comptable ou RAF du groupe Vincent à Varennes-Vauzelles / Nevers, et directeur financier aux côtés de Rodolphe Vincent), après les trois déjà faites pour une autre société du groupe, ne nomment aucun responsable financier : seuls des offres d'autres employeurs (Renault, cabinets comptables) et l'article du Journal de l'Automobile de 2018 citant Rodolphe Vincent ressortent. Sans DAF identifié, Rodolphe Vincent, président de Distance et du groupe, décide ; demander au standard du groupe qui tient la comptabilité (probablement la holding VINCENT SAS).",
+  "recherches": 2
+ }
+]

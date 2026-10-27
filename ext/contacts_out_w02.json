@@ -1,0 +1,91 @@
+[
+ {
+  "siren": "300822335",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 3 recherches (« Ets Maréchal » Donzy + comptable/administratif, concession et sites Corbigny/Sermoise, site officiel etsmarechal-agri.com et page Facebook du concessionnaire Case IH) : aucun DAF, RAF, comptable ni contrôleur de gestion nommé, le site ne présente pas d'équipe. SAS familiale d'environ 48 salariés : la famille Maréchal (Claude, président, et Christophe, DG) décide des questions financières ; au standard, demander qui tient la comptabilité (interne ou cabinet).",
+  "recherches": 3
+ },
+ {
+  "siren": "825065279",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 1 recherche (« NEVINO » Nevers Intermarché + comptable / responsable administratif) : aucune trace en ligne de NEVINO ni d'un responsable financier ou comptable du magasin. Magasin Intermarché indépendant : l'adhérent Laurent Pommier (président) décide des finances, la comptabilité étant en général tenue par un cabinet ou les services du groupement.",
+  "recherches": 1
+ },
+ {
+  "siren": "631880408",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 3 recherches (« Bongard Bazot » + comptable/administratif, offres d'emploi et équipe de la scierie, annuaires de la filière bois et site bongard-bazot.fr) : aucun DAF, RAF ni comptable nommé ; les annuaires (guide-forestier, e-pro) ne citent qu'un responsable du site de La Machine (Xavier de Bontin) et un responsable commercial (Jean-Baptiste Bazot), sans fonction financière. Entreprise familiale : les finances relèvent des dirigeants Bazot/Bongard (une fiche récente donnerait Jean-Luc Bongard président-DG, à vérifier au registre) ; au standard, demander la personne chargée de la comptabilité.",
+  "recherches": 3
+ },
+ {
+  "siren": "379437387",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 1 recherche (« Buchez » Corbigny Fendt + comptable / responsable administratif / secrétaire comptable) : aucun responsable financier ou comptable nommé (seule une offre de collaborateur comptable à Corbigny, d'un cabinet sans lien établi). PME de 20-49 salariés : le DG Olivier Dubreuilh, avec la holding Procurium Investissement, décide des finances ; demander à l'appel si la comptabilité est interne ou confiée à un cabinet.",
+  "recherches": 1
+ },
+ {
+  "siren": "308530690",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 1 recherche (raison sociale + Corbigny + comptable) : aucun responsable financier ni comptable de la société, seulement l'avis SIRENE et des cabinets comptables de Corbigny sans lien établi. Supermarché indépendant (Auchan Supermarché / Maxibrico) : le couple De Matteis (président et DG) décide des finances, la comptabilité étant vraisemblablement externe.",
+  "recherches": 1
+ },
+ {
+  "siren": "304890817",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 3 recherches (« Saget La Perrière » + responsable administratif et financier, + comptable / contrôleur de gestion / directeur financier, offres d'emploi à La Castille) : aucune personne chargée des finances ou de la comptabilité n'est nommée par une source publiée. Maison familiale : les dirigeants Laurent Saget (PDG) et Arnaud Saget (DG délégué) décident des finances ; au standard (03 86 39 57 75), demander le service administratif et comptable.",
+  "recherches": 3
+ },
+ {
+  "siren": "392607545",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 3 recherches (« Laballery » Clamecy + responsable administratif et financier, + comptable / contrôleur de gestion, et une requête visant les profils LinkedIn, refusée par l'outil) : aucun DAF, RAF ni comptable nommé, seulement les fiches Xerfi et Livres Hebdo déjà connues. SCOP : la PDG Emilie Sagnelonge décide, avec le conseil d'administration selon le montant ; à l'appel, demander le ou la responsable administratif(ve) et comptable.",
+  "recherches": 3
+ },
+ {
+  "siren": "338339146",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 3 recherches (« TC Transports » Digoin + directeur administratif et financier, Cercy-la-Tour + directeur financier / DAF / responsable comptable, profils publics DAF/RAF/contrôleur de gestion) : aucun directeur financier du groupe ni comptable nommé, seulement le dossier préfectoral et les fiches registre déjà connus. Les finances sont pilotées au niveau du groupe familial (holding Cassier, siège ZI Les Mûriers à Digoin) ; à l'appel, demander le service comptable ou le DAF du groupe.",
+  "recherches": 3
+ },
+ {
+  "siren": "350293221",
+  "statut_daf": "trouve",
+  "decideur_financier": {
+   "nom": "Pascale Bordet",
+   "fonction": "DAF (« Me Pascale Bordet DAF » sur la page Contact du site officiel du centre, page non datée ; une page plus ancienne du même site la présentait déjà comme directrice financière) ; aussi directrice générale de PASORI au registre",
+   "type": "DAF/RAF",
+   "tel_direct": null,
+   "email": "p.bordet@pasori.fr",
+   "linkedin": null,
+   "source": "https://www.pasori.fr/contact/",
+   "a_confirmer": false
+  },
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : la page Contact du site officiel pasori.fr nomme Pascale Bordet DAF (adresse nominative p.bordet@pasori.fr publiée), à côté de la directrice Frédérique Bordet ; elle est aussi DG au registre. Manageo cite une Evelyne Vilnat comme directeur financier, donnée non datée et contredite par le site, à vérifier (3 recherches). Vérification : Pascale Bordet confirmée comme DAF par la page Contact officielle pasori.fr (adresse p.bordet@pasori.fr publiée sur cette page), cohérente avec son mandat de DG au registre, aucune source plus récente ne la montrant partie. Vérification : Evelyne Vilnat retirée, car seule une fiche Manageo non datée la donne directeur financier, qu'aucune recherche ne relie à Pasori et que le site officiel attribue ce rôle à Pascale Bordet.",
+  "recherches": 3
+ },
+ {
+  "siren": "401453188",
+  "statut_daf": "aucun",
+  "decideur_financier": null,
+  "autres_contacts": [],
+  "note": "Recherche du décideur financier (27/10/2026) : 1 recherche (« Popiane » Intermarché Donzy + comptable / responsable administratif / directeur) : aucun responsable financier ou comptable, seulement les fiches PagesJaunes et Zagaz du magasin. Intermarché indépendant de 20-49 salariés : les adhérents Thierry Thomas (président) et Corinne Thomas (DG) décident des finances, la comptabilité étant vraisemblablement tenue par un cabinet.",
+  "recherches": 1
+ }
+]
