@@ -1,0 +1,150 @@
+[
+ {
+  "rang": 405,
+  "siren": "898585948",
+  "nom": "WILSON",
+  "ville": "Saint-Père",
+  "activite": "Restauration",
+  "effectif": "3-5 salariés",
+  "note_contacts": "Aucun résultat pour cette société (restauration à Saint-Père 58200) : ni enseigne, ni téléphone, ni dirigeant, ni adresse trouvés en 3 recherches. Attention : homonymie avec Saint-Père (89, près de Vézelay)."
+ },
+ {
+  "rang": 406,
+  "siren": "884611252",
+  "nom": "A2-Strat",
+  "ville": "Pougues-les-Eaux",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "effectif": "0 salarié",
+  "note_contacts": "Aucun résultat pour A2-Strat (holding / conseil de gestion, 0 salarié, Pougues-les-Eaux) en 3 recherches : ni téléphone, ni dirigeant, ni adresse. Consulter la fiche Pappers https://www.pappers.fr/entreprise/a2-strat-884611252."
+ },
+ {
+  "rang": 407,
+  "siren": "922287669",
+  "nom": "LE REFUGE",
+  "ville": "Montenoison",
+  "activite": "Activités immobilières",
+  "effectif": "0 salarié",
+  "note_contacts": "Aucun résultat pour cette société immobilière (0 salarié, Montenoison) en 3 recherches : ni téléphone, ni dirigeant, ni adresse. Nom très homonyme (association Le Refuge, gîtes, autres SCI). Consulter https://www.pappers.fr/entreprise/le-refuge-922287669."
+ },
+ {
+  "rang": 411,
+  "siren": "515033405",
+  "nom": "CRIST - A (SARL CRIST-A)",
+  "nom_commercial": "LE PRIVILEGE",
+  "ville": "Nevers",
+  "adresse": "16 RUE DE CHARLEVILLE-MEZIERES",
+  "code_postal": "58000",
+  "activite": "Restauration",
+  "code_naf": "56.30Z",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "CEDRIC LHUILLIER",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Cédric Lhuillier",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/515033405"
+  },
+  "note_contacts": "Enseigne 'Le Privilège' (16 rue de Charleville-Mézières, Nevers) introuvable dans les annuaires en 3 recherches : aucun téléphone. Gérant issu du registre uniquement."
+ },
+ {
+  "rang": 415,
+  "siren": "833491996",
+  "nom": "PATISSERIE POULLIN",
+  "ville": "Chaumot",
+  "adresse": "32 Grande Rue, 58800 Corbigny",
+  "code_postal": "58800",
+  "activite": "Industries alimentaires",
+  "effectif": "6-9 salariés",
+  "note_contacts": "La boutique 'Pâtisserie Poullin' (pâtissier-chocolatier, spécialités corbons et croquets corbigeois) est au 32 Grande Rue à Corbigny (aussi sur 118000.fr : https://www.118000.fr/v_corbigny_58/c_chocolaterie-et-confiserie-detail) ; le siège déclaré est à Chaumot, commune voisine. Horaires myBoulange : lun-sam 8h-19h15 sauf mercredi, dim 8h-13h. Aucun numéro visible dans les extraits ; dirigeant non trouvé (registre sans dirigeant dans l'entrée)."
+ },
+ {
+  "rang": 416,
+  "siren": "912983871",
+  "nom": "GROUP MG CORPORATION",
+  "ville": "Nevers",
+  "adresse": "109 FAUBOURG DU GRAND MOUESSE",
+  "code_postal": "58000",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "code_naf": "70.10Z",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "GEOFFREY JOLLET",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "MALIK KHELOUFI",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Geoffrey Jollet",
+   "fonction": "Gérant (cogérant avec Malik Kheloufi)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/912983871"
+  },
+  "note_contacts": "Holding (sièges sociaux / conseil de gestion) sans présence web trouvée en 3 recherches. L'adresse du siège (109 faubourg du Grand Mouësse, Nevers) apparaît comme adresse d'un appartement de location saisonnière (https://www.cartesfrance.fr/hotel/nevers-58000-appartement.html) — activité réelle non confirmée. Aucun téléphone. Gérants issus du registre uniquement ; ordre de priorité entre les deux cogérants arbitraire."
+ },
+ {
+  "rang": 418,
+  "siren": "392439741",
+  "nom": "GRECO",
+  "ville": "Nevers",
+  "adresse": "12 RUE DU 14 JUILLET",
+  "code_postal": "58000",
+  "activite": "Restauration",
+  "code_naf": "56.10A",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "ANTONIO GRECO",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Antonio Greco",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392439741"
+  },
+  "note_contacts": "Aucun restaurant trouvé au 12 rue du 14 Juillet à Nevers en 3 recherches (enseigne inconnue) ; le restaurant 'Le 29' (29 rue du 14 Juillet, 03 86 36 16 02, https://www.sluurpy.fr/nevers/restaurant/2042379/le-29) est un autre établissement, non retenu. Président issu du registre uniquement."
+ },
+ {
+  "rang": 421,
+  "siren": "449105816",
+  "nom": "SARL C J A",
+  "ville": "Bussy-la-Pesle",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "note_contacts": "Aucun résultat pour SARL C J A (commerce de détail, Bussy-la-Pesle) en 3 recherches : ni enseigne, ni téléphone, ni dirigeant, ni adresse. societe.com signale des commerces de détail sur éventaires et marchés à Bussy-la-Pesle (https://www.societe.com/entreprises/58420.html) — possiblement un commerçant non sédentaire, non confirmé."
+ },
+ {
+  "rang": 424,
+  "siren": "832612121",
+  "nom": "DOMAINE DES GRANDS LACS",
+  "ville": "Dun-les-Places",
+  "activite": "Hébergement",
+  "effectif": "1-2 salariés",
+  "note_contacts": "Aucun établissement 'Domaine des Grands Lacs' trouvé à Dun-les-Places. Homonyme : résidence de tourisme Vacancéole 'Le Domaine des Grands Lacs', 380 route Théophile Gautier, 40160 Parentis-en-Born (+33 4 79 75 75 20 selon https://fr.custplace.com/le-domaine-des-grands-lacs-vacanceole-124391 ; ancien exploitant cité par PagesJaunes : GESTION RESIDENCE AOUCHET POUSSET, RCS 828 323 071). Aucun lien avec ce SIREN n'est établi — numéro non retenu. Dirigeant non trouvé."
+ },
+ {
+  "rang": 428,
+  "siren": "792714222",
+  "nom": "EMMANUEL STYL'CHEMINEES",
+  "ville": "Chaumot",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "0 salarié",
+  "note_contacts": "Aucun résultat pour Emmanuel Styl'Cheminées (commerce de détail, 0 salarié, Chaumot) en 3 recherches : ni téléphone, ni site, ni dirigeant, ni adresse. Ne pas confondre avec CHEMINEES STYLES ET CREATIONS (Saint-Memmie, 51)."
+ }
+]

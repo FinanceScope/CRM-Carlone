@@ -1,0 +1,284 @@
+[
+ {
+  "rang": 487,
+  "siren": "842872889",
+  "nom": "CARROSSERIE MUSARD",
+  "ville": "Saint-Léger-des-Vignes",
+  "adresse": "175 ROUTE NATIONALE",
+  "code_postal": "58300",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "code_naf": "45.20A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Elodie MUSARD (BABUT)",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Quentin MUSARD",
+    "fonction": "Autre"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Elodie MUSARD (née BABUT)",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/carrosserie-musard-842872889"
+  },
+  "note_contacts": "Aucun numéro trouvé en 3 recherches. La fiche acceslibre (https://acceslibre.beta.gouv.fr/app/58-saint-leger-des-vignes/a/carrosserie/erp/carrosserie-musard/, confirmée le 09/07/2024) confirme l'établissement au 175 route Nationale, sans téléphone. idGarages liste « Eurorepar Carrosserie Mécanique JLB » à la même adresse (https://www.idgarages.com/fr-fr/garage/saint-leger-des-vignes/GB21606_eurorepar-carrosserie-mecanique-jlb) : enseigne Eurorepar possible ou ancien occupant, lien non confirmé. Pas de DAF (10-19 salariés) : la présidente décide ; dirigeants d'après le registre uniquement."
+ },
+ {
+  "rang": 488,
+  "siren": "413849019",
+  "nom": "S P C I SABLAGE PEINTURE CARROSSERIE INDUSTRIELLE",
+  "ville": "Champvert",
+  "adresse": "ZI DU PRE CHARPIN",
+  "code_postal": "58300",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.34Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Sébastien BARDIN",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Julien BARDIN",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sébastien BARDIN",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/s-p-c-i-sablage-peinture-carrosserie-industrielle-413849019"
+  },
+  "note_contacts": "Aucune présence web trouvée pour SPCI (ZI du Pré Charpin, Champvert) en 3 recherches : ni téléphone, ni site, ni e-mail. Pas de DAF (10-19 salariés) : le président décide ; dirigeants d'après le registre uniquement."
+ },
+ {
+  "rang": 489,
+  "siren": "817382187",
+  "nom": "Air controle",
+  "ville": "Decize",
+  "adresse": "119 AVENUE DE VERDUN",
+  "code_postal": "58300",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "code_naf": "71.20B",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Maxime Rosario Ousmane SORBELLO",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Maxime SORBELLO",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/air-controle-817382187"
+  },
+  "note_contacts": "Aucune trace de la société « Air controle » (119 avenue de Verdun, Decize) dans les résultats de recherche (3 recherches) : ni téléphone, ni site. Pas de DAF (10-19 salariés) : le président décide ; dirigeant d'après le registre uniquement (prénoms complets : Maxime Rosario Ousmane)."
+ },
+ {
+  "rang": 490,
+  "siren": "494004625",
+  "nom": "CHAMPVERT ATOMISATION",
+  "ville": "Decize",
+  "adresse": "176 AVENUE DE VERDUN",
+  "code_postal": "58300",
+  "activite": "Fabrication d'autres produits minéraux non métalliques",
+  "code_naf": "23.99Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "SOCIETE D'INVESTISSEMENT J.W",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "SOCIETE D'INVESTISSEMENT J.W (personne morale)",
+   "fonction": "Président (holding ; personne physique la représentant non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/champvert-atomisation-494004625"
+  },
+  "note_contacts": "Aucune trace de Champvert Atomisation (176 avenue de Verdun, Decize) en 3 recherches : ni téléphone, ni site, ni dirigeant personne physique. La holding présidente, SOCIETE D'INVESTISSEMENT J.W, serait une SAS domiciliée avenue de Dunkerque à Lille d'après une fiche LEI (rattachement probable, non vérifié) (https://lei.bloomberg.com/leis/view/969500Y5CW69VS0M5357), sans nom de représentant."
+ },
+ {
+  "rang": 491,
+  "siren": "347508384",
+  "nom": "DECIZE VOYAGES",
+  "nom_commercial": "Viabela Voyages",
+  "ville": "Decize",
+  "adresse": "69 RUE DE LA REPUBLIQUE",
+  "code_postal": "58300",
+  "activite": "Activités des agences de voyage, voyagistes, services de réservation et activités connexes",
+  "code_naf": "79.11Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Olivier Michel Nicolas ROUSSAT",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Olivier ROUSSAT",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/decize-voyages-347508384"
+  },
+  "note_contacts": "Agence Viabela Voyages (réseau Selectour), 69 rue de la République, Decize, confirmée par l'avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/34750838400018 ; enseigne « VIABELA ET VIABELA VOYAGES ») et l'annuaire Selectour de villepratique.fr ; aucun numéro de téléphone ni site Viabela trouvé en 3 recherches. Selon un annuaire, c'est à Decize que l'histoire Viabela a commencé (siège d'un petit réseau d'agences). Pas de DAF identifié : le président décide ; dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 493,
+  "siren": "533017679",
+  "nom": "SARL TOURLIER",
+  "ville": "Decize",
+  "adresse": "26 ROUTE DE CHAMPVERT",
+  "code_postal": "58300",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.12A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Mickael TOURLIER",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mickael TOURLIER",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-tourlier-533017679"
+  },
+  "note_contacts": "Aucune présence web trouvée pour la SARL Tourlier (26 route de Champvert, Decize) en 3 recherches : ni téléphone, ni site, ni corps de métier précis. Pas de DAF (10-19 salariés) : le gérant décide ; gérant d'après le registre uniquement."
+ },
+ {
+  "rang": 494,
+  "siren": "532374279",
+  "nom": "SAS JLB",
+  "nom_commercial": "Optic 2000",
+  "ville": "Decize",
+  "adresse": "31 B RUE DE LA REPUBLIQUE",
+  "code_postal": "58300",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.78A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Jean-Laurent Auguste Raymond Marie BARILLOT",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Jean-Louis Jacques Marie BARILLOT",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Louis BARILLOT",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-jlb-532374279"
+  },
+  "note_contacts": "Magasin Optic 2000 « JLB - OPTIC 2000 », 31 bis rue de la République, Decize, confirmé par l'annuaire 118000 (https://www.118000.fr/v_decize_58/c_opticien) et au-magasin.fr (https://www.au-magasin.fr/58300-decize/optic-2000-54388.html), mais le numéro n'apparaît dans aucun extrait (3 recherches ; page magasin optic2000.com non trouvée). Pas de DAF (10-19 salariés) : le président décide ; dirigeants d'après le registre uniquement."
+ },
+ {
+  "rang": 495,
+  "siren": "805334141",
+  "nom": "SAS TAXI CERCYCOIS",
+  "ville": "Decize",
+  "adresse": "9 RUE DES 4 VENTS",
+  "code_postal": "58300",
+  "activite": "Transports terrestres et transport par conduites",
+  "code_naf": "49.32Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Thomas DAMIEN",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Thomas DAMIEN",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-taxi-cercycois-805334141"
+  },
+  "note_contacts": "Aucune fiche « Taxi Cercycois » trouvée en 3 recherches : les résultats ne renvoient qu'à des plateformes de réservation (montransport.com, numéro de la plateforme, non retenu). Pas de DAF (10-19 salariés) : le président décide ; dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 496,
+  "siren": "453672891",
+  "nom": "SIGNANET",
+  "ville": "Decize",
+  "adresse": "ZAC DU FOUR A CHAUX 10 RUE HENRI DARCY",
+  "code_postal": "58300",
+  "activite": "Génie civil",
+  "code_naf": "42.11Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Maxime BUCHEZ",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Christian SAGET",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Maxime BUCHEZ",
+   "fonction": "Cogérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/signanet-453672891"
+  },
+  "note_contacts": "Aucune présence web trouvée pour SIGNANET (ZAC du Four à Chaux, 10 rue Henri Darcy, Decize) en 3 recherches : ni téléphone, ni site, ni activité précise. Deux cogérants au registre (M. Buchez cité en premier, sans hiérarchie établie). Pas de DAF (10-19 salariés) : les gérants décident ; dirigeants d'après le registre uniquement."
+ },
+ {
+  "rang": 497,
+  "siren": "391204351",
+  "nom": "SAS TOULOUSE",
+  "ville": "Verneuil",
+  "adresse": "8 RUE DE LA CHAUME DES BARBIERS",
+  "code_postal": "58300",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.21A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Romain TOULOUSE",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Nadine TOULOUSE (GERMAIN)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Romain TOULOUSE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-toulouse-391204351"
+  },
+  "note_contacts": "Aucune présence web trouvée pour la SAS Toulouse (8 rue de la Chaume des Barbiers, Verneuil) en 3 recherches ; le nom est noyé dans les résultats sur la ville de Toulouse. Pas de DAF (10-19 salariés) : le président décide ; dirigeants d'après le registre uniquement."
+ }
+]

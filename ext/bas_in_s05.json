@@ -1,0 +1,242 @@
+[
+ {
+  "rang": 429,
+  "siren": "921816757",
+  "nom": "DELAFI",
+  "ville": "Nevers",
+  "adresse": "24 BOULEVARD DU GRAND PRE DES BORDES",
+  "code_postal": "58000",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "code_naf": "82.11Z",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "FRANCIS DELALANDE",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Francis DELALANDE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921816757"
+  },
+  "note_contacts": "Aucune présence web trouvée (3 recherches) ; probablement une holding/société de services de 1-2 salariés. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 430,
+  "siren": "852583665",
+  "nom": "ENTREPRISE MANNEVY - LOC'58",
+  "ville": "Arbourse",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "3-5 salariés",
+  "note_contacts": "Rien trouvé en 3 recherches (ni téléphone, ni site, ni dirigeant ; aucun dirigeant dans le registre fourni). Adresse d'entrée sans rue (Arbourse, 58350) : rue non trouvée. Une société homonyme 'Mannevy' à Pau, sans lien établi, est radiée."
+ },
+ {
+  "rang": 459,
+  "siren": "394326854",
+  "nom": "SARL DELIN J.",
+  "ville": "Guérigny",
+  "adresse": "57 GRANDE RUE",
+  "code_postal": "58130",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.91B",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "FRANCK DELIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "SEVERINE DELIN",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Franck DELIN",
+   "fonction": "Gérant (co-gérant avec Séverine DELIN)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+  },
+  "note_contacts": "Aucune présence web trouvée en 3 recherches (ni téléphone, ni site, ni annuaire visible dans les extraits). Dirigeants d'après le registre uniquement ; la co-gérante Séverine Delin peut aussi suivre la gestion."
+ },
+ {
+  "rang": 460,
+  "siren": "351271127",
+  "nom": "MORVAN CHARCUTERIES SALAISONS",
+  "ville": "Clamecy",
+  "adresse": "ZI DE SURGY RUE HELENE BOUCHER",
+  "code_postal": "58500",
+  "activite": "Industries alimentaires",
+  "code_naf": "10.13A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "GUSTEO",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Fabricant de l'andouillette de Clamecy (fiche Bourgogne Tourisme : https://www.burgundy-tourism.com/regional-products/morvan-charcuteries-salaisons-landouillette-de-clamecy). Président = la société GUSTEO (holding) ; personne physique qui la dirige non trouvée en 3 recherches. Ni téléphone ni site trouvés dans les extraits."
+ },
+ {
+  "rang": 461,
+  "siren": "405156274",
+  "nom": "SARL AMBULANCES MARTIN",
+  "ville": "Clamecy",
+  "adresse": "PRESSURES 16 RUE DES HIRONDELLES",
+  "code_postal": "58500",
+  "activite": "Activités pour la santé humaine",
+  "code_naf": "86.90A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Kelly MARTIN",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Kelly MARTIN",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+  },
+  "note_contacts": "Aucun numéro trouvé en 3 recherches. Un annuaire (trouver-ouvert.fr) liste 'Ambulances Martin SARL' au 16 route de Pressures / Hirondelles, Clamecy, et un établissement 'Ambulances Martin' au 12 rue du Faubourg de Marcy, 58210 Varzy, ouverts 24h/24 (https://trouver-ouvert.fr/varzy/ambulances-martin-2655846), sans téléphone visible dans l'extrait. Gérante d'après le registre uniquement."
+ },
+ {
+  "rang": 463,
+  "siren": "315548925",
+  "nom": "SAS AMBULANCE JACSON",
+  "ville": "Clamecy",
+  "adresse": "ZONE ARTISANALE RUE HELENE BOUCHER",
+  "code_postal": "58500",
+  "activite": "Activités pour la santé humaine",
+  "code_naf": "86.90A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Christopher SANCHEZ",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Christopher SANCHEZ",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+  },
+  "note_contacts": "Aucun numéro trouvé en 3 recherches. Changements récents : arrêté ARS de sept. 2025 (transformation SARL -> SAS et changement de gérant) et arrêté ARS BFC-2026-03-12-00009 de mars 2026 (rachat de parts et changement de dirigeant) — https://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/irecontenu/telechargement/136450/997663/file/recueil-bfc-2026-049-recueil-des-actes-administratifs-nominatifs.pdf ; vérifier que C. Sanchez est bien le dirigeant actuel. SIRENE indique aussi un établissement au 28 chemin de la Côte d'Or, Clamecy, et un autre à LD Cervenon, 58210 Saint-Germain-des-Bois ; implantation Clamecy / Tannay."
+ },
+ {
+  "rang": 464,
+  "siren": "840504427",
+  "nom": "LES PATTES DOUCES",
+  "nom_commercial": "Unae",
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "2 RUE DE VEAUPOULE",
+  "code_postal": "58420",
+  "activite": "Industries alimentaires",
+  "code_naf": "10.86Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "HOLDING VEGEO GROUPE",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Société d'exploitation du 'Laboratoire UNAE' (compléments alimentaires / parapharmacie : multivitamines, magnésium, probiotiques…), fiche fabricant Vidal : https://www.vidal.fr/parapharmacie/societes/laboratoire-unae-5427.html — adresse indiquée : Les Pattes Douces, 19 rue du Commandant Victor Guerreau, 58420 Brinon-sur-Beuvron (le registre donne 2 rue de Veaupoule). Téléphone et e-mail non visibles dans les extraits ; site probable unae.fr non vérifié. Président = HOLDING VEGEO GROUPE ; personne physique qui la dirige non trouvée en 3 recherches."
+ },
+ {
+  "rang": 466,
+  "siren": "489272518",
+  "nom": "ALFONSO BUJAN ASSOCIES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZONE INDUSTRIELLE",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.34Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Franck MYSKOWIAK",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Karin MYSKOWIAK (DRU)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Franck MYSKOWIAK",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+  },
+  "note_contacts": "Aucune présence web trouvée en 3 recherches. Adresse d'entrée sans rue (Zone industrielle, Varennes-Vauzelles) : rue non trouvée. Dirigeants d'après le registre uniquement ; la DG Karin Myskowiak peut aussi suivre la gestion."
+ },
+ {
+  "rang": 467,
+  "siren": "385244009",
+  "nom": "COPIEFAX",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "52 B BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.66Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "JEAN-PIERRE BOURDILLAT",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "THIBAUT BOURDILLAT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Thibaut BOURDILLAT",
+   "fonction": "Gérant (co-gérant avec Jean-Pierre BOURDILLAT)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/385244009"
+  },
+  "note_contacts": "Vente, location et maintenance de photocopieurs (aussi 'Canon Copiéfax'), SARL créée en 1992 ; établissement secondaire au 15 rue Michaël Faraday, 18000 Bourges (https://fr.mappy.com/poi/50ae642a84aeaa2bc3e369bf). Aucun numéro trouvé en 3 recherches. Deux co-gérants (père/fils probable) : le choix de Thibaut comme contact principal est arbitraire."
+ },
+ {
+  "rang": 468,
+  "siren": "434598173",
+  "nom": "GALLOIS ROBERT ET ASSOCIES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "50 RUE MARCEL ROBIN",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.22A",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "LAURENT GALLOIS",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent GALLOIS",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+  },
+  "note_contacts": "Aucune présence web trouvée en 3 recherches (ni téléphone, ni site, ni annuaire). Gérant d'après le registre uniquement."
+ }
+]

@@ -1,0 +1,292 @@
+[
+ {
+  "rang": 226,
+  "siren": "479602021",
+  "nom": "FERNAND DUSSERT",
+  "ville": "Arleuf",
+  "adresse": "6 ALLEE DE SOMBREFFE",
+  "code_postal": "58430",
+  "activite": "Industries alimentaires",
+  "code_naf": "10.13A",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Arnaud SABATIER",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Arnaud SABATIER",
+   "fonction": "Gérant (repreneur de la maison en 2004)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://agriculture.gouv.fr/region-bourgogne-franche-comte?pg=3"
+  },
+  "note_contacts": "Maison de salaisons fondée par Joseph Dussert au début du XXe siècle (1903 ou 1906 selon les sources), spécialiste du jambon sec du Morvan affiné 9 à 24 mois ; reprise en 2004 par Arnaud Sabatier (famille de charcutiers dijonnais), qui a relancé une filière de porcs du Morvan élevés en plein air (ministère de l'Agriculture). Fiche producteur sur Bourgogne Tourisme (https://www.burgundy-tourism.com/regional-products/fernand-dussert) avec horaires de retrait des commandes, mais aucun numéro visible dans les extraits. Xerfi : SARL, CA 2024 d'environ 1,5 M€, 6-9 salariés."
+ },
+ {
+  "rang": 229,
+  "siren": "507748283",
+  "nom": "GROUPE DANIELSON",
+  "ville": "Magny-Cours",
+  "adresse": "TECHNOPOLE",
+  "code_postal": "58470",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "code_naf": "64.20Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Bernard DELAPORTE",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Guy PAUL",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "William DONCHESS",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Franco ORSI",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Bernard Delaporte",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/groupe-danielson-507748283"
+  },
+  "note_contacts": "Aucun standard propre trouvé pour la holding (3 recherches). La filiale Danielson Aircraft Systems, même adresse (Technopole Magny-Cours), affiche le 03 86 21 88 10 sur gowork.fr (annuaire) — à utiliser comme point d'entrée du groupe. Site officiel non trouvé dans les résultats. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 235,
+  "siren": "753197946",
+  "nom": "PRINET",
+  "nom_commercial": "Les Boucheries du Bœuf Tricolore",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "CENTRE COMMERCIAL DU PONT MIDOU AVENUE DU MARECHAL LECLERC",
+  "code_postal": "58200",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.22Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "Tom Yannick PARRAIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Olivier Jean Marc PRINET",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Olivier Prinet",
+   "fonction": "Gérant (cogérant avec Tom Parrain)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/prinet-753197946"
+  },
+  "note_contacts": "Franchise Les Boucheries du Bœuf Tricolore (galerie du Pont Midou, Cosne). Aucun numéro du magasin trouvé dans les résultats (3 recherches) ; les pages de l'enseigne trouvées ne listent pas ce point de vente. Dirigeants d'après le registre uniquement."
+ },
+ {
+  "rang": 239,
+  "siren": "450605357",
+  "nom": "NEVERSPORTS",
+  "nom_commercial": "Intersport",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "15 RUE DU CHAMP DES NOYERS",
+  "code_postal": "58640",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.64Z",
+  "effectif": "6-9 salariés",
+  "dirigeants": [
+   {
+    "nom": "R.G.HOLDING",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Magasin Intersport (15 rue du Champ des Noyers, Varennes-Vauzelles). Aucun numéro trouvé pour ce magasin (3 recherches). Les annuaires citent un « Intersport Nevers » au 81 rue de Nièvre, Nevers (https://www.au-magasin.fr/58000-nevers/intersport-108441.html ; fiche accessibilité https://acceslibre.beta.gouv.fr/app/58-nevers/a/vente-location-darticles-de-sport/erp/intersport-nevers/rpa_pdf) sans numéro visible et sans lien établi avec NEVERSPORTS. Président : R.G.HOLDING (personne morale) ; personne physique qui la dirige non identifiée — à demander au magasin."
+ },
+ {
+  "rang": 246,
+  "siren": "339913428",
+  "nom": "ENTREPRISE VIODE",
+  "ville": "Corbigny",
+  "adresse": "ROUTE DE CLAMECY",
+  "code_postal": "58800",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.99C",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Jean-Luc BOUVART",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Luc Bouvart",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-viode-339913428"
+  },
+  "note_contacts": "Entreprise de plomberie-chauffage, couverture, maçonnerie, rénovation énergétique (QualiBAT), Route de Clamecy à Corbigny. Fiches annuaires : https://www.118000.fr/e_C0003575341 (« Viodé Entreprise SA », sans numéro visible) et https://www.hellowatt.fr/artisans/viode-sarl/ (un numéro y est affiché mais n'apparaît pas dans les extraits de recherche) — standard non relevé faute de pouvoir lire la page. Site web non trouvé. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 253,
+  "siren": "402891774",
+  "nom": "LE CYPRES - GENS DE LA LUNE",
+  "ville": "Nevers",
+  "adresse": "17 RUE DU PONT CIZEAU",
+  "code_postal": "58000",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.61Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Wilfried SEJEAU",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Wilfried Sejeau",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-cypres-gens-de-la-lune-402891774"
+  },
+  "note_contacts": "Aucune trace web trouvée pour « Le Cyprès » / « Gens de la Lune » ni pour son gérant (3 recherches) ; activité exacte et enseigne commerciale inconnues (commerce de détail, 17 rue du Pont Cizeau, Nevers). Pas de standard, d'email ni de site trouvés. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 255,
+  "siren": "533513594",
+  "nom": "TECHNO PIEUX SURY",
+  "ville": "Saint-Jean-aux-Amognes",
+  "adresse": "SURY",
+  "code_postal": "58270",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.12A",
+  "effectif": "1-2 salariés",
+  "dirigeants": [
+   {
+    "nom": "Cyril MILLIET DE FAVERGES ET DE CHALLES",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Ludovic MILLIET DE FAVERGES ET DE CHALLES",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Olivier MILLIET DE FAVERGES ET DE CHALLES",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Cyril Milliet de Faverges et de Challes",
+   "fonction": "Cogérant (avec Ludovic et Olivier Milliet de Faverges et de Challes)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/techno-pieux-sury-533513594"
+  },
+  "note_contacts": "Concession locale probable du réseau Techno Pieux (pieux vissés, groupe québécois, ~30 concessions en France). Aucun numéro ni page de concession pour la Nièvre trouvés (3 recherches) ; contact national de la marque vu dans une brochure : info.france@technopieux.fr (https://www.solscope.fr/medias/Technopieux.pdf) — adresse de la marque, pas de cette société. Trois cogérants d'après le registre, ordre arbitraire ; aucun ne ressort comme dirigeant principal."
+ },
+ {
+  "rang": 258,
+  "siren": "804178879",
+  "nom": "LE FROMAGER DE NEVERS",
+  "ville": "Nevers",
+  "adresse": "RUE HENRY BOUQUILLARD",
+  "code_postal": "58000",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.29Z",
+  "effectif": "3-5 salariés",
+  "dirigeants": [
+   {
+    "nom": "CREMERIE EXPLOITATION",
+    "fonction": "Gérant et associé indéfiniment et solidairement responsable"
+   },
+   {
+    "nom": "PROPART",
+    "fonction": "Associé indéfiniment et solidairement responsable"
+   }
+  ],
+  "note_contacts": "Aucune trace web trouvée pour « Le Fromager de Nevers » (rue Henry Bouquillard, Nevers) en 3 recherches. Société en nom collectif gérée par la personne morale CREMERIE EXPLOITATION, avec PROPART comme associé : ce montage ressemble à celui des rayons crèmerie des magasins Grand Frais, mais ce n'est PAS confirmé (recherche « Grand Frais Nevers Bouquillard » sans résultat). Personne physique dirigeante non identifiée ; standard, email et site non trouvés."
+ },
+ {
+  "rang": 263,
+  "siren": "750984064",
+  "nom": "SPL CONFLUENCE",
+  "ville": "Decize",
+  "adresse": "LA JONCTION",
+  "code_postal": "58300",
+  "activite": "Hébergement",
+  "code_naf": "55.10Z",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Alain Dominique MOREAU",
+    "fonction": "Président du conseil d’administration et directeur général"
+   },
+   {
+    "nom": "Daniel CAILLOT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "David COLAS",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Jean-Yves FOREST",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alain Moreau",
+   "fonction": "Président du conseil d'administration et directeur général (PDG)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
+  },
+  "note_contacts": "Société publique locale créée en mai 2012 par la Communauté de communes Sud Nivernais et ses communes (actionnaires uniquement publics) : gère le port de Decize (La Jonction), le Stade nautique, l'Office de tourisme Confluence (place du Champ de Foire, Decize) et le salon SINUO (https://nievre.fr/wp-content/uploads/2021/06/EP1-GEN-NTE-0122-A_Analyse_socio-ecoAnnexes.pdf ; https://www.lesepl.fr/epl-en-action/decize-nievre-un-village-portuaire-pour-un-carrefour-fluvial/?pdf=77867). Le PDG est un élu (registre) ; en 2014 c'était Jean-Noël Le Bras. Une fiche Pappers citant une « direction commune » depuis le 28/06/2024 apparaît dans les résultats sans nom confirmé : un directeur salarié existe peut-être — à demander. Standard et email non trouvés ; domaine decize-confluence.fr vu (builtwith) mais non confirmé comme site de la SPL. Cible atypique (structure publique)."
+ },
+ {
+  "rang": 273,
+  "siren": "878108075",
+  "nom": "LISPAUL",
+  "ville": "Tracy-sur-Loire",
+  "adresse": "FONTENILLE",
+  "code_postal": "58150",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "code_naf": "46.34Z",
+  "effectif": "0 salarié (donnée 2026)",
+  "dirigeants": [
+   {
+    "nom": "Shirley GAUCHER",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "David Frederic MAUDRY",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "David Maudry",
+   "fonction": "Cogérant (avec Shirley Gaucher)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/lispaul-878108075"
+  },
+  "note_contacts": "Aucune trace web de « Lispaul » (3 recherches). Même lieu-dit (Fontenille, Tracy-sur-Loire) que le Domaine de Fontenille – Maudry Père & Fils (Pouilly-Fumé, fondé par Patrick Maudry ; David Maudry, fils, y travaille depuis 2009) : https://www.vinoscout.de/en/collections/domaine-de-fontenille ; fiche IGP 2018 citant le site domfontenillemaudry.com : https://interigp.alwaysdata.net/media/2019/fiche_technique/fiche_technique_2018_VAL_LOIRE.pdf (numéro et email présents dans la fiche mais non visibles dans l'extrait). Lien LISPAUL ↔ domaine probable mais non confirmé. 0 salarié déclaré. Ne pas confondre avec le Domaine de Maltaverne (Gilles Maudry) ni avec le Domaine de Fontenille à Lauris (84)."
+ }
+]
