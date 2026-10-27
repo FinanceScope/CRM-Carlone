@@ -1,0 +1,32 @@
+Context. Two to four business partners based in Cosne-Cours-sur-Loire (Nièvre, France) phone companies of the Nièvre to offer them original artworks, with the tax deduction of article 238 bis AB of the CGI as the argument. The purchase is decided by management, but it is prepared, paid and booked by the people who run administration, finance and human resources. For each company in the input file, find WHO those people are, so the callers can ask for them by name at the switchboard.
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of company records: name, trading name, town, address, workforce, group, website, registry managers ("dirigeants"), contacts already known ("contact_dirigeant", "contact_finance", "autres_contacts"), earlier research notes ("note_contacts") and, for some, the call card ("qui_appeler"). Read them first: do not look again for what is already known, never return a person the notes say belongs to another company.
+
+Roles wanted, in this order of usefulness:
+1. finance: directeur administratif et financier (DAF), responsable administratif et financier (RAF), directeur financier, secrétaire général, contrôleur de gestion, chef comptable, comptable (in-house).
+2. rh: DRH, responsable RH / ressources humaines, chargé(e) RH, responsable du personnel, gestionnaire de paie.
+3. administratif: responsable administratif(ve), assistant(e) de direction, office manager, secrétaire de direction, responsable des services généraux.
+4. direction_site: for a site that belongs to a group whose head office is elsewhere: the director / manager of the Nièvre site (directeur de site, directeur d'usine, directeur de magasin, directeur d'agence), when he or she is not already in the registry managers.
+For a small company (under 20 employees) the answer is often a co-manager or an administrative assistant; record it when a source names that person and role.
+
+Search with WebSearch (load it with ToolSearch; WebFetch and curl are blocked). At most 3 searches per company and at most {BUDGET} for the whole file; spend more on the largest workforces. Useful queries:
+- LinkedIn, with allowed_domains ["linkedin.com"]: "<company or trading name> <town> financier", "... comptable", "... ressources humaines", "... assistante de direction", "... directeur de site". LinkedIn titles show "Name – Role – Company"; keep only people whose CURRENT position is at this company (not "ex-", not a past experience) and, for a group, at the Nièvre site.
+- The company's own website (équipe, qui sommes-nous, organigramme, contact, mentions légales).
+- Press (Le Journal du Centre, Kopines, local news), job offers naming the manager ("rattaché(e) à Mme X, DAF"), group annual reports, public procurement or association pages naming the person with her role.
+Use mode "extended" when a standard search returns nothing useful.
+
+Rules:
+- Only professional information published by the company, the person's own professional profile, or the press. Never a private address, a private phone, a family member.
+- Never guess or build an e-mail address (no "prenom.nom@..." patterns). Keep an e-mail only if it is published as is, for that person, by the company. Keep a direct phone only if the company publishes it as that person's professional line. Otherwise null.
+- If "opposition_prospection" is true: names and roles are allowed (direct contact is allowed), but tel_direct and email must be null.
+- Each person must be tied to THIS company (legal or trading name) and, for groups, to the Nièvre site or to the head office that decides for it (say which).
+- "fiabilite": "confirme" = the company's own site, or a professional profile/press article dated 2024 or later that names the person with this company and role; "probable" = a single older or indirect source, or a role inferred from a title that is not explicit.
+
+Output: write valid JSON (UTF-8, indent 1) to <racine du dépôt>/ext/{OUTFILE}: an array, one object per input record, in input order:
+{"siren": "...",
+ "contacts": [ {"nom": "Prénom NOM", "fonction": "exact title as published", "role": "finance" | "rh" | "administratif" | "direction_site", "fiabilite": "confirme" | "probable", "source": "url", "linkedin": "url or null", "tel_direct": "0X XX XX XX XX or null", "email": "... or null"} ] (0 to 4 people, most useful first),
+ "note": one or two French sentences starting with "Décideurs (27/10/2026) : " — who was found and from where, or what was searched without result (and, for a group, where the decision is probably taken),
+ "recherches": number of searches used}
+No other keys. Then check the file with:
+python3 -I -c "import json,re,sys; d=json.load(open(sys.argv[1])); i=json.load(open(sys.argv[2])); assert [x['siren'] for x in d]==[x['siren'] for x in i]; R={'finance','rh','administratif','direction_site'}; F={'confirme','probable'}; [print(x['siren'],'clés') for x in d if set(x)!={'siren','contacts','note','recherches'}]; [print(x['siren'],'contact',p.get('nom')) for x in d for p in x['contacts'] if set(p)!={'nom','fonction','role','fiabilite','source','linkedin','tel_direct','email'} or p['role'] not in R or p['fiabilite'] not in F or not p.get('source')]; [print(x['siren'],'tel') for x in d for p in x['contacts'] if p.get('tel_direct') and not re.fullmatch(r'0\d( \d\d){4}', p['tel_direct'])]; [print(x['siren'],'opposition') for x,y in zip(d,i) for p in x['contacts'] if y.get('opposition_prospection') and (p.get('tel_direct') or p.get('email'))]; [print(x['siren'],'note') for x in d if not str(x.get('note','')).startswith('Décideurs')]; print(len(d),'fiches,', sum(len(x['contacts']) for x in d),'personnes,', sum(1 for x in d if x['contacts']),'entreprises avec au moins une personne,', sum(x.get('recherches',0) for x in d),'recherches')" <output path> <input path>
+and fix every line it prints. Do not modify any other file.

@@ -796,6 +796,42 @@ for c in base + ext:
             c[k] = re.sub(r" ; des profils LinkedIn de salariés[^.]*", '', c[k])
             c[k] = c[k].replace("travaux d'aménagement des établissements", "travaux d'aménagement")
 
+# ---- responsables finance, RH et administration (admin_out_*.json : recherche puis contre-vérification, consigne scratch/admin_brief.txt) ----
+ROLES_ADMIN = ('finance', 'rh', 'administratif', 'direction_site')
+ADMIN = {}
+for f in sorted(glob.glob(EXT + '/admin_out_*.json')):
+    try: data = json.load(open(f, encoding='utf-8'))
+    except Exception as err: sys.exit(f'Fichier illisible : {f} ({err}). Attendre la fin du lot ou le corriger, puis relancer.')
+    for e in data:
+        k = sid(e.get('siren'))
+        if not k: continue
+        a = ADMIN.setdefault(k, {'contacts': {}, 'notes': []})
+        for p in e.get('contacts') or []:   # une passe plus récente remplace la fiche de la même personne
+            if isinstance(p, dict) and p.get('nom') and p.get('role') in ROLES_ADMIN and p.get('source'): a['contacts'][norm(p['nom'])] = p
+        if e.get('note') and e['note'] not in a['notes']: a['notes'].append(str(e['note']).strip())
+n_adm = Counter()
+for c in base + ext:
+    a = ADMIN.get(sid(c.get('siren')))
+    c.pop('contacts_admin', None); c.pop('note_admin', None)
+    if not a: continue
+    n_adm['entreprises recherchées'] += 1
+    connus = {norm(x.get('nom')) for x in [c.get('contact_dirigeant') or {}] + list(c.get('dirigeants') or []) if x.get('nom')}
+    lst = []
+    for p in a['contacts'].values():
+        if norm(p['nom']) in connus and p['role'] == 'direction_site': continue   # déjà affiché comme dirigeant
+        q = {kk: p.get(kk) for kk in ('nom', 'fonction', 'role', 'fiabilite', 'source', 'linkedin')}
+        q['tel_direct'] = clean_tel(p.get('tel_direct')) if p.get('tel_direct') else None
+        q['email'] = (p.get('email') or '').strip() or None
+        if c.get('opposition_prospection'): q['tel_direct'] = q['email'] = None   # contact direct par le standard, pas de mailing
+        lst.append(q)
+    lst.sort(key=lambda q: (ROLES_ADMIN.index(q['role']), q.get('fiabilite') != 'confirme'))
+    if lst:
+        c['contacts_admin'] = lst[:5]
+        n_adm['avec au moins une personne'] += 1
+        for q in lst[:5]: n_adm[q['role']] += 1
+    c['note_admin'] = ' '.join(a['notes'])
+if ADMIN: print('décideurs finance / RH / administration :', dict(n_adm))
+
 json.dump(ext, open(EXT + '/ext_companies.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 json.dump(base + ext, open(SITE + '/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
 
