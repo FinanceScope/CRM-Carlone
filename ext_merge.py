@@ -758,7 +758,8 @@ for f in sorted(glob.glob(EXT + '/contacts_out_*.json')):
             EMAIL_SOURCE.setdefault(sid(e.get('siren')), set()).add(eg['email'].strip().lower())
 EMAIL_ECARTE = {'contact@groupesimonneau.fr'}   # introuvable, domaine du groupe différent (vérification du rang 15)
 # source fragile (étape 2 des rangs 101 à 500) : document hébergé par un tiers, page de session ancienne, page LinkedIn sous l'ancien nom
-EMAIL_A_CONFIRMER = {'borflex-corvol@borflex.fr', 'bourgogneformationincendie@wanadoo.fr', 'contact@sarl-charpenet.fr'}
+EMAIL_A_CONFIRMER = {'borflex-corvol@borflex.fr', 'bourgogneformationincendie@wanadoo.fr', 'contact@sarl-charpenet.fr',
+                     'contact@dif-chimie.fr', 'contact@lrs-formula.com'}   # étape 3 : page source non revue par la vérification
 TEL_RE = re.compile(r'(?:\+33\s?(?:\(0\)\s?)?|0)[1-9](?:[\s.-]?\d{2}){4}')
 EMAIL_RE = re.compile(r'[\w.+-]+@[\w-]+(?:\.[\w-]+)+')
 def sans_annotation(v, rx, propre, quoi, c):

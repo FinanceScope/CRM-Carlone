@@ -1,0 +1,94 @@
+[
+ {
+  "siren": "898585948",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé en 2 recherches (« restaurant Saint-Père 58200 Cosne-Cours-sur-Loire WILSON », puis par nom + SIREN) ; seuls des homonymes sortent (restaurants « Le Wilson » à Paris, Arles, Levallois ; « Le Saint-Père » à Tonnerre, 89), non retenus. Enseigne et adresse toujours inconnues. Vérification : relecture de cohérence sans recherche, rien à corriger.",
+  "recherches": 2
+ },
+ {
+  "siren": "884611252",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé en 2 recherches (nom + ville, puis nom + SIREN). Le registre (Pappers, societe.com) donne le siège au 3 rue du Mont Givre à Pougues-les-Eaux et Philippe Leuwers comme président (SASU de conseil créée en 2020, 0 salarié). Vérification : relecture de cohérence sans recherche, rien à corriger.",
+  "recherches": 2
+ },
+ {
+  "siren": "922287669",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé en 2 recherches (nom + Montenoison, puis nom + SIREN). Selon le registre (societe.com, Pages Jaunes SIRET), le siège est au 3 rue des Chevrottes à Sichamps (58700) et non à Montenoison : marchand de biens, président Laurent Martin, 0 salarié. Vérification : relecture de cohérence sans recherche, rien à corriger.",
+  "recherches": 2
+ },
+ {
+  "siren": "515033405",
+  "standard": null,
+  "email_generique": null,
+  "site_web": "https://privilegeclub.fr/",
+  "note": "Deuxième passe (27/10/2026) : l'enseigne Le Privilège est une discothèque-bar au 16 rue de Charleville à Nevers (site privilegeclub.fr, Instagram @leprivilegeclub, ouverte le samedi de 0 h à 5 h 30), mais aucun numéro n'apparaît dans les extraits en 2 recherches. Essayer le formulaire de contact du site ou Instagram. Vérification : relecture de cohérence sans recherche (site non revérifié), rien à corriger.",
+  "recherches": 2
+ },
+ {
+  "siren": "833491996",
+  "standard": {
+   "tel": "03 86 20 15 87",
+   "source": "https://www.pagesjaunes.fr/pros/03744595",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : 03 86 20 15 87 est le numéro de la boutique Pâtisserie Poullin, 32 Grande Rue à Corbigny (Pages Jaunes, repris par Yelp). Le registre donne le siège à la même adresse et Jérémy Poullin comme gérant. Vérification : numéro non retrouvé en une recherche (numéro seul + Poullin + Corbigny), mais aucun indice qu'il appartienne à un autre ; conservé en « annuaire ». La fiche d'entrée situe la boutique à Corbigny et la ville du registre à Chaumot : à confirmer au premier appel.",
+  "recherches": 2
+ },
+ {
+  "siren": "912983871",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro au nom de la holding en 2 recherches ; d'après Pappers, elle préside MEH Energies (SIREN 900452152, même adresse 109 faubourg du Grand Mouësse à Nevers, une vingtaine de salariés, site monexperthabitat.com, fiche https://www.pagesjaunes.fr/pros/60990815) et MG Confort Habitat. Joindre les gérants Geoffrey Jollet et Malik Kheloufi via MEH Energies (numéro d'une autre société, non retenu ici). Vérification : relecture de cohérence sans recherche, rien à corriger.",
+  "recherches": 2
+ },
+ {
+  "siren": "392439741",
+  "standard": {
+   "tel": "03 86 36 74 55",
+   "source": "https://www.pagesjaunes.fr/pros/03753941",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : 03 86 36 74 55 est le numéro du restaurant-pizzeria Greco, 12 rue du 14 Juillet à Nevers (Pages Jaunes, fiche « Greco »). L'office de tourisme le présente sous l'enseigne Le San Remo, à la même adresse et avec le même numéro (https://www.nevers-tourisme.com/sit/le-san-remo). Vérification : numéro confirmé par Sluurpy pour la Pizzeria San Remo, 12 rue du 14 Juillet à Nevers (https://www.sluurpy.fr/nevers/restaurant/2044985/pizzeria-san-remo), même adresse que le registre ; conservé en « annuaire » (2 recherches).",
+  "recherches": 2
+ },
+ {
+  "siren": "449105816",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé en 2 recherches (« SARL C J A » + Bussy-la-Pesle, puis nom + SIREN). Seules des entreprises de l'homonyme Bussy-la-Pesle (21, Côte-d'Or) sortent ; enseigne, adresse et dirigeant restent inconnus. Vérification : relecture de cohérence sans recherche, rien à corriger.",
+  "recherches": 2
+ },
+ {
+  "siren": "832612121",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro trouvé en 2 recherches ; le registre (Pappers, annuaire-entreprises, Verif) place le siège au Bourg de Gouloux (58230), et non à Dun-les-Places : hôtellerie (NAF 55.10Z), gérant Alain (Pierre-Alain) Marchand, 293 k€ de chiffre d'affaires en 2025 selon Pappers. Enseigne inconnue ; la résidence Vacancéole homonyme de Parentis-en-Born est toujours exclue. Vérification : relecture de cohérence sans recherche, rien à corriger.",
+  "recherches": 2
+ },
+ {
+  "siren": "792714222",
+  "standard": {
+   "tel": "03 86 20 29 89",
+   "source": "https://www.pagesjaunes.fr/pros/56331640",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : 03 86 20 29 89 est le numéro Pages Jaunes d'Emmanuel Styl'Cheminées à Cervon (siège du registre au hameau de Cuzy, commune voisine de Chaumot), gérant Emmanuel Girard. Attention : selon societe.com, l'EURL a été dissoute au 31/12/2024 et mise en liquidation amiable, le numéro peut ne plus répondre. Vérification : numéro non retrouvé en 2 recherches (numéro seul, puis nom + Cervon + gérant), mais aucun indice qu'il appartienne à un autre ; conservé en « annuaire », avec la réserve de la dissolution.",
+  "recherches": 2
+ }
+]
