@@ -1,0 +1,242 @@
+[
+ {
+  "rang": 112,
+  "siren": "334925070",
+  "nom": "SARL BEAUVOIS FRERES",
+  "enseigne": null,
+  "ville": "Neuvy-sur-Loire",
+  "adresse": "LA FONTAINE PITARD 1350 ROUTE DE LA VILLENEUVE",
+  "activite": "Sylviculture et exploitation forestière",
+  "code_naf": "02.20Z",
+  "effectif": "20-49 salariés",
+  "ca": 5471036,
+  "resultat": 400686,
+  "groupe": null,
+  "description": "Entreprise d'exploitation forestière (abattage, bûcheronnage et sortie des bois, achat, vente et sciage de bois) basée à La Fontaine Pitard, 1350 route de la Villeneuve à Neuvy-sur-Loire (18 km de Cosne). PME de 20 à 49 salariés dirigée par Michel Beauvois.",
+  "dirigeants_registre": [
+   "Michel BEAUVOIS (Gérant)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 24 70",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": null,
+   "note": "OPPOSITION À LA PROSPECTION : seules les coordonnées société sont collectées ; pas de site web propre, donc aucun décideur relevé (le gérant figure déjà au registre dans deja.dirigeants). Numéro déjà connu, non reconfirmé (fiche Cylex https://www.cylex-locale.fr/entreprises/beauvois-fr%c3%a8res-sarl-13046603.html sans numéro dans l'extrait). Activité : abattage, débardage, négoce de bois, sciage. Vérification : Opposition à la prospection : seuls les éléments société vérifiés. Le 03 86 39 24 70 n'apparaît dans aucun résultat (Cylex et copeps.fr sans numéro dans les extraits)."
+  },
+  "opposition_prospection": true
+ },
+ {
+  "rang": 125,
+  "siren": "925318248",
+  "nom": "LE NOUVEAU CHAMP DE LA DAME",
+  "enseigne": "EHPAD Le Champ de la Dame",
+  "ville": "Varennes-lès-Narcy",
+  "adresse": "2 RUE DES ECOLES",
+  "activite": "Hébergement médico-social et social",
+  "code_naf": "87.10A",
+  "effectif": "50-99 salariés",
+  "ca": 4326268,
+  "resultat": 407444,
+  "groupe": "DOMIDEP",
+  "description": "EHPAD privé de 84 lits (dont 14 en unité protégée Alzheimer et 4 en hébergement temporaire) situé 2 rue des Écoles à Varennes-lès-Narcy, accueillant des personnes âgées dépendantes de 60 ans et plus ; exploité depuis 2024 par le groupe DOMIDEP.",
+  "dirigeants_registre": [
+   "DOMIDEP (Président)"
+  ],
+  "deja": {
+   "telephone": "03 86 69 14 15",
+   "telephone_fiabilite": null,
+   "email": "contact@champdeladame.fr",
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": null,
+   "note": "OPPOSITION À LA PROSPECTION : coordonnées société uniquement. EHPAD de 84 lits (FINESS 580004919) détenu par le groupe DOMIDEP (président) : la finance est gérée au niveau du groupe. Standard = secrétariat (sante.fr et annuaire officiel pour-les-personnes-agees.gouv.fr) ; fax 03 86 69 17 25. E-mail générique issu d'un agrégateur seulement (etablissementsdesante.fr), site champdeladame.fr non trouvé : à vérifier. Aucun nom de direction trouvé sur un site propre. Vérification : Opposition à la prospection : seuls les éléments société vérifiés. Numéro confirmé par Cap Retraite, Santé en France et l'annuaire officiel. E-mail contact@champdeladame.fr : uniquement etablissementsdesante.fr / santeenfrance.fr (même base, fiche 48029), domaine champdeladame.fr introuvable ; adresse possiblement antérieure à la reprise par DOMIDEP (nouvelle société créée en 2023)."
+  },
+  "opposition_prospection": true
+ },
+ {
+  "rang": 127,
+  "siren": "353323843",
+  "nom": "DOMAINE DIDIER DAGUENEAU",
+  "enseigne": null,
+  "ville": "Saint-Andelain",
+  "adresse": "RUE DE L'ECOLE",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "code_naf": "01.21Z",
+  "effectif": "10-19 salariés",
+  "ca": 4316513,
+  "resultat": 598512,
+  "groupe": null,
+  "description": "Domaine viticole de Saint-Andelain (Pouilly-Fumé, environ 11 ha) fondé en 1982 par Didier Dagueneau et repris après son décès en 2008 par son fils Louis-Benjamin : sauvignons blancs réputés (Silex, Pur Sang, Buisson Renard), vendus en Vin de France depuis le millésime 2017. L'objet social comprend aussi la gestion d'une écurie de propriétaires.",
+  "dirigeants_registre": [
+   "Louis DAGUENEAU (Gérant)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 15 62",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Louis Dagueneau (Louis-Benjamin Dagueneau)",
+    "fonction": "Gérant",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/domaine-didier-dagueneau-353323843"
+   },
+   "note": "Domaine viticole très réputé (Pouilly-Fumé, 'Le Bourg', Saint-Andelain), dirigé depuis 2008 par Louis-Benjamin Dagueneau avec sa sœur Charlotte (https://mwwines.com.au/museum-wine-shop/about-us/news-offers/news-item/2026/06/04/dagueneau-one-of-france's-most-uncompromising-estates) ; vins sortis de l'AOC (Vin de France). Pas de site web, et aucun numéro de téléphone ni e-mail publié trouvé (3 recherches) : domaine notoirement discret. 2e passe : téléphone 03 86 39 15 62 (fax 03 86 39 07 61) cité, avec l'adresse Le Bourg, 58150 Saint-Andelain, sur un fil du forum La Passion du Vin dont les messages datent de 2002 ; non confirmé par une source récente (recherche du numéro exact sans résultat) : à vérifier. Une adresse e-mail wanadoo y figure mais tronquée dans l'extrait, non reprise. Vérification : Louis-Benjamin Dagueneau dirige le domaine depuis 2008 avec sa sœur Charlotte ; une source indique que Charlotte s'occupe de la partie commerciale et Louis-Benjamin de la viticulture."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 171,
+  "siren": "329779284",
+  "nom": "MICHEL REDDE ET FILS",
+  "enseigne": null,
+  "ville": "Saint-Andelain",
+  "adresse": "LA MOYNERIE, LD LES BERTHIERS",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "code_naf": "01.21Z",
+  "effectif": "10-19 salariés",
+  "ca": 2585496,
+  "resultat": 155681,
+  "groupe": null,
+  "description": "Domaine viticole familial de 40 ha (Pouilly-Fumé, Pouilly-sur-Loire, Sancerre), converti en bio en 2023, dirigé par Thierry Redde (président) et ses fils Sébastien et Romain ; caveau de dégustation La Moynerie au bord de la RN7, aux Berthiers (Saint-Andelain), à 16 km de Cosne.",
+  "dirigeants_registre": [
+   "Romain REDDE (Directeur Général)",
+   "Sebastien REDDE (Directeur Général)",
+   "THIERRY REDDE (Président)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 14 72",
+   "telephone_fiabilite": null,
+   "email": "lamoynerie@michel-redde.com",
+   "site_web": "http://michel-redde.fr/",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Sébastien Redde",
+    "fonction": "Directeur Général",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/michel-redde-et-fils-329779284"
+   },
+   "note": "Standard confirmé (Hachette Vins, wein-plus) ; fax 03 86 39 04 36 (forum 2014). E-mail générique déjà connu (deja.email), non reconfirmé par un extrait de recherche. Domaine d'environ 40 ha dirigé par Thierry Redde (président) et ses fils Sébastien et Romain (DG). Un e-mail nominatif du président apparaît sur un forum de 2014 : non relevé (pas une page de contact officielle). Vérification : Numéro repris dans un message de forum de 2023 (avec fax 03 86 39 04 36) en plus de Hachette. lamoynerie@michel-redde.com introuvable dans les résultats (seule une adresse nominative du président sur le même domaine apparaît). Thierry Redde a transmis la responsabilité du domaine à ses fils Sébastien et Romain (Jeroboams)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 209,
+  "siren": "378966931",
+  "nom": "SARL PATRICE MOREUX",
+  "enseigne": "Vignobles Patrice Moreux",
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "LES LOGES",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "code_naf": "01.21Z",
+  "effectif": "10-19 salariés",
+  "ca": 1866124,
+  "resultat": 245565,
+  "groupe": null,
+  "description": "Domaine viticole familial d'environ 35 ha au hameau des Loges à Pouilly-sur-Loire, dirigé par les jumeaux Arnaud et Julien Moreux (gérants depuis 2018) : Pouilly-Fumé (cuvées Corty Artisan, La Loge aux Moines), Pouilly-sur-Loire et Sancerre, avec dégustation, vente et accueil de groupes au caveau et 45 % de la production exportée. La société exploite aussi un second site viticole en Côtes de Provence (Le Cannet-des-Maures, Var).",
+  "dirigeants_registre": [
+   "Arnaud MOREUX (Gérant)",
+   "Julien MOREUX (Gérant)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 13 55",
+   "telephone_fiabilite": null,
+   "email": "patrice.moreux@wanadoo.fr",
+   "site_web": "http://www.pouilly.com",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Julien Moreux",
+    "fonction": "Co-gérant (en charge de la cave, de la clientèle France et de l'administration)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.decanter.com/premium/domaine-moreux-corty-pouilly-fume-purists-plus-the-2019s-tasted-453154"
+   },
+   "note": "Adresse : 1 chemin des Vallées, Les Loges. E-mail de contact du domaine sur une adresse wanadoo au nom du fondateur, publié sur un forum ancien (fax 03 86 39 17 79) : probablement ancien, à vérifier. Arnaud Moreux (co-gérant) gère vigne, vinification et export ; Julien gère l'administration, donc interlocuteur finance naturel. Vérification : Numéro aussi sur Natalie MacLean (1 chemin des Vallées, Les Loges). patrice.moreux@wanadoo.fr : uniquement sur un vieux forum (vers 2003) ; adresse nominative chez un FAI, au nom du fondateur, pas un e-mail générique publié par le domaine : à ne pas utiliser sans vérification. Arnaud et Julien Moreux cités comme exploitants actuels (Hachette, Jancis Robinson, Decanter)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 220,
+  "siren": "384831046",
+  "nom": "SOCIETE D'EXPLOITATION DES AMBULANCES CHARITOISES",
+  "enseigne": "Ambulances Charitoises",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "75 RUE CAMILLE BARRERE",
+  "activite": "Activités pour la santé humaine",
+  "code_naf": "86.90A",
+  "effectif": "20-49 salariés",
+  "ca": 1752014,
+  "resultat": 198453,
+  "groupe": null,
+  "description": "Entreprise de transport sanitaire (ambulances) et de taxi basée à La Charité-sur-Loire : transport de patients, transport de corps, transport urgent de médicaments et de colis. PME de 20 à 49 salariés.",
+  "dirigeants_registre": [
+   "Laurent Albert Marcel GIRARD (Président)",
+   "David GONIN (Directeur Général)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "Laurent Girard",
+    "fonction": "Président",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/societe-dexploitation-des-ambulances-charitoises-384831046"
+   },
+   "note": "Société d'ambulances (APE 86.90A), 75 rue Camille Barrère ; CA 2024 ~1,67 M€ selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/ste-d-exploitation-des-ambulances-charitoises_384831046). Aucun numéro ni site trouvé après 3 recherches (le moteur confond avec 'Ambulances Choletaises'). David Gonin est directeur général. 2e passe : 3 recherches (adresse 75 rue Camille Barrère, « Ambulances Charitoises » téléphone, ambulance taxi La Charité) sans numéro ; Justacoté liste « Ambulances Charitoises » à cette adresse (rubrique taxi) sans numéro visible (https://www.justacote.com/germigny-sur-loire-58320/taxi/). Vérification : Xerfi cite Laurent Girard et David Gonin comme dirigeants (fonction de président non précisée par Xerfi)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 232,
+  "siren": "340352939",
+  "nom": "LE RELAIS DE POUILLY",
+  "enseigne": null,
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "QUAI DE LOIRE RTE NATIONALE 7",
+  "activite": "Hébergement",
+  "code_naf": "55.10Z",
+  "effectif": "10-19 salariés",
+  "ca": 1470000,
+  "resultat": 85100,
+  "groupe": null,
+  "description": null,
+  "dirigeants_registre": [
+   "RELAIS FARCY (Président)"
+  ],
+  "deja": {
+   "telephone": "03 86 39 03 00",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": "https://www.relaisdepouilly.com",
+   "contact_dirigeant": null,
+   "contact_finance": {
+    "nom": "M. Farcy (prénom non trouvé)",
+    "fonction": "Exploitant de l'hôtel cité par Bourgogne Tourisme ; la présidence de la société est assurée par la personne morale RELAIS FARCY",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.burgundy-tourism.com/hotel/hotel-restaurant-le-relais-de-pouilly"
+   },
+   "note": "Hôtel-restaurant Logis 3 étoiles (23 chambres), quai de Loire. Standard issu d'un seul annuaire (successfulmeetings.com, agrégateur) ; site relaisdepouilly.com indiqué par ce même annuaire, non vérifié. Le dirigeant personne physique de RELAIS FARCY reste à confirmer au registre. Ne pas utiliser le 01 41 40 99 80 affiché sur Gault&Millau (standard du guide). Vérification : Le 03 86 39 03 00 ne figure que dans les fiches du même éditeur (successfulmeetings / northstarmeetingsgroup / meetings-conventions, une seule base) ; ni Logis ni Bourgogne Tourisme ne le montrent dans les extraits. 'M. Farcy' : aucun résultat ne relie un Farcy à l'hôtel, ni ne donne le dirigeant de RELAIS FARCY. Gérard Ordan : cité seulement par Gault&Millau."
+  },
+  "opposition_prospection": false
+ }
+]

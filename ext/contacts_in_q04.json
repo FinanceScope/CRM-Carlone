@@ -1,0 +1,303 @@
+[
+ {
+  "rang": 120,
+  "siren": "354045205",
+  "nom": "A.E. PRODUCTION ALAIN ELINAS PRODUCTION",
+  "enseigne": null,
+  "ville": "Pougues-les-Eaux",
+  "adresse": "1298 AVENUE DE PARIS",
+  "activite": "Fabrication de meubles",
+  "code_naf": "31.01Z",
+  "effectif": "20-49 salariés",
+  "ca": 4732145,
+  "resultat": 301193,
+  "groupe": null,
+  "description": null,
+  "dirigeants_registre": [
+   "Alain MANNS"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Alain MANNS",
+    "fonction": "Dirigeant (titre exact non précisé dans le registre)",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+   },
+   "contact_finance": {
+    "nom": "Alain MANNS",
+    "fonction": "Dirigeant (titre exact non précisé dans le registre)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+   },
+   "note": "Aucun numéro ni site trouvé en 3 recherches. Xerfi : fabrication de meubles de bureau et de magasin (31.01Z), CA 4 732 k€ en 2024, 36 personnes, siège avenue de Paris à Pougues-les-Eaux sans établissement secondaire (https://www.xerfi.com/etudes-par-entreprise/alain-elinas-production_354045205). 2e passe : 3 recherches (Elinas + Pougues, adresse 1298 avenue de Paris, A.E. Production + agencement) sans numéro, site ni enseigne commerciale identifiée. Vérification : Aucun résultat web sur Alain Manns ni sur « Alain Elinas » à Pougues-les-Eaux : dirigeant confirmé par le registre seulement (titre exact absent du registre)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 123,
+  "siren": "430086165",
+  "nom": "JOREST",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "RUE DU RAVELIN",
+  "activite": "Restauration",
+  "code_naf": "56.10C",
+  "effectif": "50-99 salariés",
+  "ca": 4465397,
+  "resultat": 327511,
+  "groupe": null,
+  "description": null,
+  "dirigeants_registre": [
+   "Yannick ANDRIEUX (Gérant)"
+  ],
+  "deja": {
+   "telephone": "03 86 59 58 87",
+   "telephone_fiabilite": "à confirmer",
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Yannick ANDRIEUX",
+    "fonction": "Gérant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/jorest-430086165"
+   },
+   "contact_finance": {
+    "nom": "Yannick ANDRIEUX",
+    "fonction": "Gérant",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/jorest-430086165"
+   },
+   "note": "Aucun résultat en 3 recherches (nom de la société, du gérant et adresse rue du Ravelin) : l'enseigne exploitée n'est pas identifiée (50-99 salariés, probablement une enseigne de restauration rapide ou collective sous un autre nom). Dirigeant issu du registre uniquement. 2e passe : le seul restaurant trouvé rue du Ravelin à Nevers est le McDonald's Nevers (angle rue du Ravelin et rue du Champ de Foire, https://www.au-magasin.fr/58000-nevers/mcdonalds-64156.html), cohérent avec une société de restauration de 50-99 salariés : standard = numéro de ce restaurant, 03 86 59 58 87, vu dans les extraits des fiches Bible-Marques des McDonald's de la Nièvre (annuaire). Lien JOREST / McDonald's déduit de l'adresse et non confirmé par une source (aucun résultat pour JOREST ni pour Andrieux + McDonald's) : à vérifier au premier appel. Le 01 30 48 60 00 affiché par Custplace est le siège de McDonald's France, non retenu. Vérification : Aucun résultat web sur Yannick Andrieux à Nevers : gérant confirmé par le registre seulement ; activité réelle de JOREST toujours non identifiée."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 124,
+  "siren": "888572831",
+  "nom": "GERMAIN'S DEVELOPMENT",
+  "enseigne": null,
+  "ville": "Tannay",
+  "adresse": "AVENUE DE LA FRINGALE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.11D",
+  "effectif": "0 salarié (donnée 2023)",
+  "ca": 4410000,
+  "resultat": 141000,
+  "groupe": null,
+  "description": null,
+  "dirigeants_registre": [
+   "Julien Claude Henri GERMAIN (Président)"
+  ],
+  "deja": {
+   "telephone": "03 86 29 30 65",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.magasins-u.com/magasin/uexpress-tannay",
+   "contact_dirigeant": {
+    "nom": "Julien Claude Henri GERMAIN",
+    "fonction": "Président",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/germains-development-888572831"
+   },
+   "contact_finance": {
+    "nom": "Julien Claude Henri GERMAIN",
+    "fonction": "Président",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/germains-development-888572831"
+   },
+   "note": "Aucun résultat en 3 recherches (raison sociale, adresse avenue de la Fringale, dirigeant). Le magasin exploité n'est pas identifié : 4,4 M€ de CA en commerce de détail avec 0 salarié déclaré (2023) ; un Super U / U Express existe à Tannay (https://www.promocatalogues.fr/villes/tannay-nievre) mais aucun lien avec cette société n'a été vérifié. Dirigeant issu du registre uniquement. 2e passe : le seul commerce trouvé avenue de la Fringale à Tannay est le magasin U Express Tannay (ex-Super U, station-service D119, https://www.zagaz.com/carte.php?id_s=16310) : standard = numéro du magasin sur sa page officielle magasins-u.com, 03 86 29 30 65. Lien GERMAIN'S DEVELOPMENT / U Express déduit de l'adresse et de l'activité (commerce de détail, 4,4 M€ de CA), non confirmé par une source : à vérifier au premier appel. Le numéro surtaxé affiché par auto-selection.com n'est pas retenu. Vérification : Aucun résultat web sur Julien Germain à Tannay : président confirmé par le registre seulement ; magasin exploité toujours non identifié."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 126,
+  "siren": "393717863",
+  "nom": "LES ETABLISSEMENTS HUGUET",
+  "enseigne": null,
+  "ville": "Saint-Honoré-les-Bains",
+  "adresse": "24 RUE DU CHEMIN FERRE",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "code_naf": "81.30Z",
+  "effectif": "20-49 salariés",
+  "ca": 4318861,
+  "resultat": 111436,
+  "groupe": null,
+  "description": null,
+  "dirigeants_registre": [
+   "Fabien HUGUET (Gérant)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Fabien HUGUET",
+    "fonction": "Gérant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+   },
+   "contact_finance": {
+    "nom": "Fabien HUGUET",
+    "fonction": "Gérant",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+   },
+   "note": "Aucun numéro ni site trouvé en 3 recherches (les résultats « Huguet » concernent d'autres sociétés : groupe Huguet de Luçon en Vendée, notaire à Houilles). Dirigeant issu du registre uniquement. 2e passe : 3 recherches (Huguet + Saint-Honoré-les-Bains + paysagiste/nettoyage, adresse rue du Chemin Ferré, Ets/Etablissements Huguet + 58360) sans numéro ; seul résultat local : un Garage Huguet au 48 avenue du Général d'Espeuilles, Saint-Honoré-les-Bains (https://www.michelin.fr/auto/dealer-locator/saint-honore-les-bains/ydeddbr-garage-huguet), autre adresse et autre activité, lien non établi, non retenu. Vérification : Aucun résultat web sur Fabien Huguet à Saint-Honoré-les-Bains (seuls des homonymes psychologues ailleurs) ni sur un numéro rue du Chemin Ferré : gérant confirmé par le registre seulement."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 128,
+  "siren": "311665913",
+  "nom": "ENTREPRISE BERNARD POTIER ANCIENNE ENTREPRISE RENE PERROT",
+  "enseigne": null,
+  "ville": "Nevers",
+  "adresse": "101 FAUBOURG DE LA BARATTE",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.22B",
+  "effectif": "20-49 salariés",
+  "ca": 4220000,
+  "resultat": 78100,
+  "groupe": null,
+  "description": null,
+  "dirigeants_registre": [
+   "Alexis Florent DE WITTE (Président)"
+  ],
+  "deja": {
+   "telephone": "03 86 61 02 25",
+   "telephone_fiabilite": "à confirmer",
+   "email": "sarl.bernard.potier@wanadoo.fr",
+   "site_web": null,
+   "contact_dirigeant": {
+    "nom": "Alexis Florent DE WITTE",
+    "fonction": "Président",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
+   },
+   "contact_finance": {
+    "nom": "Alexis Florent DE WITTE",
+    "fonction": "Président",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/entreprise-bernard-potier-ancienne-entreprise-rene-perrot-311665913"
+   },
+   "note": "Société connue sous le nom « Potier Bernard (SARL) », couverture-plomberie-chauffage, RGE QualiBat, 101 faubourg de la Baratte, Nevers. Téléphone identique sur deux annuaires RGE (les-energies-renouvelables.eu et https://www.hellowatt.fr/artisans/potier-bernard-sarl/). Email générique (adresse wanadoo au nom de la société) vu sur ces annuaires, non confirmé sur un site officiel. Les deux annuaires donnent des SIRET différents (…00019 / …00035), possible transfert d'établissement. Aucun résultat sur Alexis De Witte en ligne ; président issu du registre uniquement. Vérification : Le numéro exact 03 86 61 02 25 ne ressort dans aucune recherche indépendante : seulement sur les deux annuaires RGE déjà cités (les-energies-renouvelables.eu, hellowatt.fr) ; les fiches PagesJaunes (https://www.pagesjaunes.fr/pros/00768826) et 118712 existent mais leur numéro n'apparaît pas dans les extraits. L'adresse wanadoo n'apparaît que sur ces mêmes annuaires. Alexis De Witte indiqué comme dirigeant par societe.com ; annonces légales de juillet 2025 sur un changement de forme juridique (SARL → SAS), cohérent avec un président récent."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 130,
+  "siren": "792570335",
+  "nom": "CORIMAR",
+  "enseigne": "Intermarché",
+  "ville": "Magny-Cours",
+  "adresse": "LD DU PRE AUX SAINTS RUE DE PARIS",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "code_naf": "47.29Z",
+  "effectif": "10-19 salariés",
+  "ca": 4094565,
+  "resultat": 177215,
+  "groupe": null,
+  "description": null,
+  "dirigeants_registre": [
+   "REGULAR (Président)"
+  ],
+  "deja": {
+   "telephone": "03 86 58 12 95",
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.intermarche.com/magasins/07038/magny-cours-58470/infos-pratiques",
+   "contact_dirigeant": {
+    "nom": "REGULAR (société holding, personne physique non identifiée)",
+    "fonction": "Président (personne morale) de CORIMAR",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/corimar-792570335"
+   },
+   "contact_finance": {
+    "nom": "REGULAR (société holding, personne physique non identifiée)",
+    "fonction": "Président (personne morale)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/corimar-792570335"
+   },
+   "note": "Magasin Intermarché Contact, rue de Paris (lieu-dit Le Pré aux Saints), 58470 Magny-Cours (https://www.118000.fr/e_C0102020066) : aucun numéro affiché dans les extraits (118000.fr, Que Choisir, zagaz) ; à vérifier sur la page magasin intermarche.com. Surprise : zagaz indique la station-service Intermarché Contact de Magny-Cours exploitée par « Mousin SA » (https://www.zagaz.com/station.php?id_s=18379), donnée possiblement ancienne (ancien exploitant ?). Personne physique derrière la holding REGULAR non identifiée. 2e passe : numéro du magasin Intermarché Contact Magny-Cours (rue de Paris) trouvé sur sa page officielle intermarche.com (infos pratiques), 03 86 58 12 95 (fiche PagesJaunes https://www.pagesjaunes.fr/pros/59678487) ; site_web = page magasin de l'enseigne. Vérification : Le chercheur n'avait trouvé aucun numéro : la page officielle du magasin Intermarché Contact Magny-Cours (rue de Paris, 58470) donne 03 86 58 12 95, également sur PagesJaunes (https://www.pagesjaunes.fr/pros/59678487) et 118712 (station-service). Président REGULAR non revérifié (pas de recherche dédiée)."
+  },
+  "opposition_prospection": false
+ },
+ {
+  "rang": 131,
+  "siren": "333857605",
+  "nom": "EIFFAGE ENERGIE SYSTEMES - BOURGEOT",
+  "enseigne": null,
+  "ville": "Fourchambault",
+  "adresse": "33 RUE GAMBETTA",
+  "activite": "Travaux de construction spécialisés",
+  "code_naf": "43.21A",
+  "effectif": "20-49 salariés",
+  "ca": 4063307,
+  "resultat": 213921,
+  "groupe": null,
+  "description": null,
+  "dirigeants_registre": [
+   "EIFFAGE ENERGIE SYSTEMES - REGIONS FRANCE (Président)"
+  ],
+  "deja": {
+   "telephone": null,
+   "telephone_fiabilite": null,
+   "email": null,
+   "site_web": "https://www.eiffageenergiesystemes.com",
+   "contact_dirigeant": {
+    "nom": "EIFFAGE ENERGIE SYSTEMES - REGIONS FRANCE (personne morale, représentant non identifié)",
+    "fonction": "Président (personne morale) de EIFFAGE ENERGIE SYSTEMES - BOURGEOT",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
+   },
+   "contact_finance": {
+    "nom": "EIFFAGE ENERGIE SYSTEMES - REGIONS FRANCE (personne morale, représentant non identifié)",
+    "fonction": "Président (personne morale)",
+    "type": "dirigeant",
+    "tel_direct": null,
+    "email": null,
+    "linkedin": null,
+    "source": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
+   },
+   "note": "Filiale du groupe Eiffage (Eiffage Énergie Systèmes, siège Vélizy-Villacoublay) ; site web = site de la marque du groupe, pas de page agence trouvée. Aucun numéro d'agence pour Fourchambault trouvé en 3 recherches ; une offre d'emploi Eiffage (technicien de maintenance CVC) est basée à Fourchambault (https://www.wizbii.com/company/eiffage/job/technicien-de-maintenance-cvc-f-h-840). La finance est probablement gérée au niveau régional du groupe ; aucun responsable financier ni chef d'agence identifié. SIRENE : un ancien établissement à La Guerche-sur-l'Aubois (18) fermé en 2006. 2e passe : 3 recherches (Eiffage Énergie Systèmes + Fourchambault + rue Gambetta, Bourgeot + Eiffage + Nevers, Bourgeot + Fourchambault + 03 86) sans numéro d'agence ; l'ancienne entreprise Bourgeot SA de Fourchambault apparaît comme titulaire d'un lot électricité en 2016 (https://ted.europa.eu/en/notice/257149-2016/pdf) et sur Mappy, sans numéro visible. Vérification : Une recherche (agence de Fourchambault, rue Gambetta, téléphone) sans résultat nouveau : seul l'avis SIRENE d'un ancien établissement fermé à La Guerche-sur-l'Aubois ressort. Aucun élément enregistré à vérifier (standard null, président personne morale du registre non recherché)."
+  },
+  "opposition_prospection": false
+ }
+]

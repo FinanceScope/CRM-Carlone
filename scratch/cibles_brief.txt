@@ -1,0 +1,30 @@
+Goal: deep research on priority targets of the Nièvre (France), ranks 101 to 500 of the CRM (smaller companies than the top 100: shops, dealerships, craftsmen, SMEs), for a B2B calling campaign about a tax-deductible purchase (artworks by living artists, article 238 bis AB). We call the switchboard and ask for the decision-makers: the head of the company (PDG, président, gérant, directeur général) and the finance person (DAF, RAF, responsable administratif et financier, directeur financier, chef comptable, contrôleur de gestion). A first, shallow pass (one round of searches) already exists; many numbers come only from directories; your job is to go deeper and fix what is missing or weak.
+
+Input: <racine du dépôt>/ext/{INFILE} — a JSON array. Each company has: rang, siren, nom, enseigne, ville, adresse, activite, effectif, ca, groupe, dirigeants_registre (official registry, can be out of date), deja (what the CRM already shows: telephone, telephone_fiabilite, email, site_web, contact_dirigeant, contact_finance, note), opposition_prospection.
+
+For each company, with at most 4 web searches (use mode "extended" when a standard search returns nothing useful):
+1. standard — the main phone line of THIS company or of its site in the Nièvre (switchboard, accueil, or the shop / dealership it runs). Prefer an official source (company or brand site, store locator, official directory, press release). If "deja.telephone" exists and is weak ("annuaire", "ancienne" or unknown), try to confirm it on an official page; if you find a different official number, give that one and say so in the note.
+2. dirigeant_principal — the head actually in office today: name, exact title, source. The registry can lag: look for a recent source (press, company site, LinkedIn result title, legal notice) and say when the registry is out of date. If the président is a holding company, give the natural person who runs it, or the directeur général of the company.
+3. decideur_financier — the finance person for this company or site: name, exact title, source. Good queries: "directeur administratif et financier" "NOM"; "DAF" "NOM" Nevers; "responsable administratif et financier" "NOM"; "contrôleur de gestion" "NOM" VILLE; "chef comptable" "NOM"; job ads and press about appointments. Use LinkedIn only through search-result titles and snippets (never open linkedin.com); you may record the public profile URL shown in the result. For a group subsidiary, prefer the finance person of this company or site; if only the group DAF is known, give them with type "autre" and say "DAF du groupe" in fonction. If nobody is found, repeat the dirigeant_principal with type "dirigeant".
+4. Professional email / direct phone of these two people ONLY if published on a public page for professional contact (company site, press release, official directory). NEVER guess or construct an email address, never record an email pattern.
+5. email_generique and site_web if missing.
+6. decision — one short sentence: where the purchase decision is likely taken (this company, a family holding in the Nièvre, a group head office elsewhere — say which city) and why, from what you found.
+7. profil — start the note with "Profil : " and one or two sentences: what the company actually does at this site (shop, dealership, workshop, factory, services…), its premises that clients or employees see (showroom, shop floor, reception, workshop, offices), the number of sites, and anything recent (takeover, move, new building). This will be used to write the call card.
+
+Rules: professional contact points only; no private mobiles or personal emails; never invent: null when not found. If opposition_prospection is true: company-level contacts only (standard, generic email, website) and names only if they appear on the company's own website. Only WebSearch works (load it with ToolSearch if needed); WebFetch, curl and any direct page access are blocked by the network policy, do not try them. The session has a hard shared quota of web searches: never more than 4 per company; if a search is refused because of the quota, stop, write what you have and say so. If a search is refused because a name looks like a private person, rephrase it with the company name.
+
+Output: write valid JSON (UTF-8) to <racine du dépôt>/ext/{OUTFILE} — an array, one object per company you have researched, in input order (no placeholders), written progressively:
+{"siren": "9 digits",
+ "standard": {"tel": "03 86 .." or null, "source": "url" or null, "fiabilite": "officielle" | "annuaire" | "ancienne" or null},
+ "email_generique": {"email": "...", "source": "url"} or null,
+ "site_web": "url" or null,
+ "dirigeant_principal": {"nom": "...", "fonction": "exact title", "tel_direct": null or "...", "email": null or "...", "linkedin": null or "url", "source": "url"} or null,
+ "decideur_financier": {"nom": "...", "fonction": "exact title", "type": "DAF/RAF" | "comptable" | "autre" | "dirigeant", "tel_direct": null or "...", "email": null or "...", "linkedin": null or "url", "source": "url"} or null,
+ "autres_contacts": [{"nom": "...", "fonction": "...", "tel": null, "email": null, "source": "url"}] (at most 2: directeur de site, assistante de direction…),
+ "adresse": null,
+ "format_email_observe": null,
+ "decision": "..." or null,
+ "note": "Profil : … Cibles 101-500 (27/10/2026) : what you found, what is uncertain, what to ask on the call"}
+Validate the file with: python3 -I -c "import json,sys; d=json.load(open(sys.argv[1])); print(len(d))" <path>
+
+Reply briefly: companies done; searches used; standards (official / directory); finance persons found (DAF/RAF/comptable vs group vs none); dirigeants updated vs registry; direct contacts found; anything surprising.
