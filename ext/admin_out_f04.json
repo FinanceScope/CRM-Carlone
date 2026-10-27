@@ -1,0 +1,43 @@
+[
+ {
+  "siren": "631880408",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026, passe DAF) : 3 recherches (requête étendue « Bongard Bazot » + responsable administratif / comptable / assistante de direction / contrôleur de gestion, refusée par l'outil de recherche ; LinkedIn « Bongard Bazot et Fils » scierie + comptable / assistante administrative ; annuaires de personnes RocketReach / ZoomInfo / Kompass) ne nomment aucun DAF, RAF, comptable ni assistante de gestion en poste : LinkedIn ne montre que Jean-Philippe et Jean-Baptiste Bazot (famille, hors finance), une ancienne assistante administrative de bureau (2010-2012) et des profils de BBF Réseaux, et Societe.com signale seulement Jeanne Bazot, ancienne DG (mandat clos en 2017). Rien ne confirme l'étiquette Manageo « directeur financier » d'Eric Bongard : décision familiale au siège de Saint-Péreuse, demander au standard la personne chargée de la comptabilité.",
+  "recherches": 3
+ },
+ {
+  "siren": "523229268",
+  "contacts": [
+   {
+    "nom": "Frédéric FRADIN",
+    "fonction": "Financial Manager (directeur financier, « autres dirigeants actuels » selon Verif, fiche non datée)",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.verif.com/en/company/SIMONNEAU-AUTOMOBILES-68d9c0a212992303383181b8/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026, passe DAF) : l'annuaire Verif (non daté) cite Frédéric Fradin comme « Financial Manager » de Simonneau Automobiles, sans autre source (deux recherches sur son nom ne le relient pas au groupe ; un homonyme LinkedIn travaille dans l'agro-industrie chez Lecureur SAS, après Axereal à Bourges, lien non établi : demander au standard s'il est toujours en poste), et une offre LinkedIn de comptable du groupe Simonneau à Saint-Doulchard (début 2024) est rattachée au « responsable du contrôle de gestion », sans nom. Finance centralisée au siège du groupe à Saint-Doulchard (holding Philippe Simonneau Holding), qui décide pour la concession de Varennes-Vauzelles.",
+  "recherches": 5
+ },
+ {
+  "siren": "422593491",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026, passe DAF) : 3 recherches (fiches Verif / Pappers / Manageo / Societeinfo de Central Parc Automobile, requête étendue groupe Vincent + responsable comptable / directeur administratif / secrétaire général / contrôleur de gestion) ne nomment aucun responsable financier : Verif ne donne que les chiffres (61 salariés, CA 2024 42,5 M€) et le groupe publie seulement des offres sans nom (comptable principal au siège de Varennes-Vauzelles, chef comptable Peugeot Varennes-Vauzelles, comptables des concessions Citroën de Nevers et Bourges). Finance du groupe au siège de Varennes-Vauzelles, décision chez Rodolphe Vincent : demander au standard le chef comptable ou le RAF du groupe.",
+  "recherches": 3
+ },
+ {
+  "siren": "483276820",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026, passe DAF) : 5 recherches (requête étendue DAF / CFO / RAF à Magny-Cours, LinkedIn « directeur administratif et financier », annuaires de personnes RocketReach / ZoomInfo / The Org / SignalHire, fiches Verif / Manageo, article sur l'équipe de direction avec Juliette Catinaud et Nicolas Monteil) ne donnent toujours pas le nom du DAF recruté en 2025 : seuls ressortent l'offre de février 2025 (poste créé, rattaché au DG) et les dirigeants du registre (Verif : 82 salariés, CA 2024 26,9 M€). Décision à Magny-Cours chez Pierre Nicolet (DG) : demander au standard le nom du directeur administratif et financier.",
+  "recherches": 5
+ },
+ {
+  "siren": "825065279",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026, passe DAF) : 1 recherche LinkedIn (Intermarché Nevers + comptable / responsable administrative / assistante de direction / contrôleur de gestion) ne relie aucun employé administratif ou comptable à un Intermarché de Nevers ni à NEVINO (les profils sortis sont ceux d'autres magasins ou de la mairie et de l'agglomération de Nevers). Magasin d'adhérent indépendant : la finance relève de Laurent Pommier (président), aucune source ne nommant de comptable interne ni de cabinet ; demander à l'accueil qui tient la comptabilité.",
+  "recherches": 1
+ }
+]
