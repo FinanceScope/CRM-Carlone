@@ -1,0 +1,340 @@
+[
+ {
+  "rang": 36,
+  "siren": "308530690",
+  "nom": "SUPER MARCHE DES VAUX D YONNE",
+  "nom_commercial": "Atac Corbigny / Maxibrico",
+  "nom_court": "Atac / Auchan Supermarché Corbigny",
+  "ville": "Corbigny",
+  "adresse": "5 avenue du Champ de Foire, 58800 Corbigny",
+  "activite": "Commerce de détail",
+  "effectif": "50-99",
+  "groupe": "Enseigne Atac (groupe Auchan)",
+  "dirigeants": [
+   {
+    "nom": "Dominique DE MATTEIS",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Catherine DE MATTEIS (MOUGNEAU)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS (selon registre ; non confirmé par une source web)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "contact_finance": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Catherine DE MATTEIS (née MOUGNEAU)",
+    "fonction": "Directeur général (selon registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/308530690",
+    "a_confirmer": true
+   }
+  ],
+  "contacts_admin": [
+   {
+    "nom": "Dominique DE MATTEIS",
+    "fonction": "Directeur Financier (dirigeant fonctionnel selon Manageo et Verif ; président au registre)",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/308530690.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Catherine DE MATTEIS",
+    "fonction": "Dir. des Ressources Humaines (dirigeante fonctionnelle selon Manageo et Verif ; directrice générale au registre)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/308530690.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "decision": "Probablement dans l'entreprise elle-même, à Corbigny : SAS indépendante tenue par le couple De Matteis (président et directrice générale), exploitant un supermarché sous enseigne Atac/Auchan Supermarché et un magasin Maxibrico ; aucun groupe ou holding extérieur identifié.",
+  "note_contacts": "Le standard (déjà connu) est confirmé par l'annuaire Bible-Marques (fiche Atac, 5 place du Champ de Foire). C'est un agrégateur, et l'enseigne Atac est devenue Auchan Supermarché (station 'Auchan Supermarché Corbigny'), donc la fiche est peut-être datée. Le SIRENE rattache aussi un établissement MAXIBRICO au 5 avenue du Champ de Foire. 2e niveau : 6 recherches. Le magasin Atac de Corbigny est désormais référencé sous l'enseigne « Auchan Supermarché CORBIGNY », rue du Champ de Foire (station carburant, https://www.l-itineraire.com/stations_service/corbigny/auchan-supermarche-corbigny) ; aucune fiche officielle Auchan (localisateur de magasins) n'a été trouvée, et le 03 86 20 04 34 n'apparaît que dans l'annuaire Bible-Marques (fiche Atac, 5 place du Champ de Foire) : une recherche du numéro seul n'a rien confirmé, fiabilité annuaire. L'avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/30853069000038) confirme le siège 5 avenue du Champ de Foire, établissement à l'enseigne MAXIBRICO, activité hypermarchés. Aucun numéro trouvé pour Maxibrico Corbigny (au-magasin.fr évoque aussi un Weldom à proximité, lien non établi). Aucune source web ne mentionne les De Matteis : dirigeants issus du registre seul. Pas de site web propre. À l'appel : confirmer que le standard est bien celui du supermarché, demander M. ou Mme De Matteis, et qui tient la comptabilité (en interne ou cabinet). Recherche du décideur financier (27/10/2026) : 1 recherche (raison sociale + Corbigny + comptable) : aucun responsable financier ni comptable de la société, seulement l'avis SIRENE et des cabinets comptables de Corbigny sans lien établi. Supermarché indépendant (Auchan Supermarché / Maxibrico) : le couple De Matteis (président et DG) décide des finances, la comptabilité étant vraisemblablement externe. Confirmation du standard (27/10/2026) : deux recherches (localisateur de magasins auchan.fr, Auchan Supermarché Corbigny + téléphone) ne trouvent aucune page officielle Auchan pour Corbigny, seulement d'autres magasins (Corbie, Sorigny…) et le service client national : le 03 86 20 04 34 reste issu de l'annuaire Bible-Marques. Vérification : Numéro introuvable hors Bible-Marques (source déjà citée), y compris avec « Corbigny ». Le magasin apparaît désormais sous l'enseigne Auchan Supermarché Corbigny, rue du Champ de Foire (https://www.l-itineraire.com/stations_service/corbigny/auchan-supermarche-corbigny, prix juillet 2026) : le numéro de la fiche Atac peut être daté. Aucun résultat pour De Matteis. Aucun résultat reliant Catherine De Matteis à l'Atac de Corbigny.",
+  "note_admin": "Décideurs (27/10/2026) : 1 recherche LinkedIn (Atac / Auchan Supermarché Corbigny / Maxibrico + directeur, comptable, assistante) sans aucun résultat lié au magasin de Corbigny (homonymes italiens et salariés Auchan d'autres sites). Supermarché indépendant tenu par le couple De Matteis, qui décide : demander au standard la personne chargée de l'administration ou de la comptabilité. Décideurs (27/10/2026) : Manageo et Verif (dirigeants fonctionnels, même source de données, non datée) désignent Dominique De Matteis, président, comme directeur financier et Catherine De Matteis, directrice générale, comme directrice des ressources humaines et commerciale ; aucun comptable, responsable administratif ni directeur de magasin n'est nommé. Décision chez le couple De Matteis à Corbigny : demander M. De Matteis pour les finances, Mme De Matteis pour le personnel. Vérification : relecture sans recherche ; Dominique et Catherine De Matteis, président et DG au registre, restent « probable » (Manageo et Verif, non datés), rôles cohérents avec les titres, aucune coordonnée directe.",
+  "qui_appeler": "Appeler le 03 86 20 04 34 (annuaire, fiche Atac peut-être datée) et demander M. Dominique De Matteis, président, ou Mme Catherine De Matteis, directrice générale. À défaut, demander la personne qui tient la comptabilité ou le responsable administratif et financier."
+ },
+ {
+  "rang": 41,
+  "siren": "392607545",
+  "nom": "NOUVELLE IMPRIMERIE LABALLERY",
+  "nom_commercial": "Laballery",
+  "nom_court": "Imprimerie Laballery, Clamecy",
+  "ville": "Clamecy",
+  "adresse": "Zone Industrielle, Allée Louis Blériot",
+  "activite": "Imprimerie",
+  "effectif": "50-99 (85 salariés en 2025)",
+  "site_web": "https://www.laballery.fr",
+  "linkedin": "https://www.linkedin.com/company/laballery",
+  "dirigeants": [
+   {
+    "nom": "Emilie SAGNELONGE",
+    "fonction": "Présidente du conseil d'administration (BODACC du 12/08/2025) et Directrice générale (BODACC du 27/01/2026)"
+   },
+   {
+    "nom": "Audrey BOUVIER",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Bruno COQUARD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Etienne FEDON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Frédéric FERREIRA",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Pascal PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Sarah PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "David PINON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Erick PITON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Dylan RENAULT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Corinne RICHARD (DAUDET)",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Chrystèle ROUMY (GRALL)",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration (BODACC du 12/08/2025) et Directrice générale (BODACC du 27/01/2026)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "contact_finance": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration et Directrice générale (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "decision": "Dans l'entreprise elle-même, à Clamecy : SCOP indépendante (capital détenu par les salariés, une voix par associé) dirigée par une PDG élue et un conseil d'administration de salariés ; un achat de ce type passera sans doute par la DG et, selon le montant, par le conseil d'administration.",
+  "note_contacts": "Standard, e-mail et site déjà connus (entrée), conservés : ils n'ont pas été recontrôlés car les extraits ne les montraient pas. SCOP (SA coopérative à conseil d'administration, environ 85 salariés). Aucun RAF/DAF/comptable trouvé (ni sur LinkedIn, ni dans la presse Livres Hebdo). Les anciens dirigeants cités dans la presse (David Perrain, Hubert Pedurand) sont obsolètes. 2e niveau : 6 recherches. Emilie Sagnelonge n'est citée que dans la liste des dirigeants de Xerfi (https://www.xerfi.com/etudes-par-entreprise/nouvelle-imprimerie-laballery_392607545), sans titre ; ses mandats viennent des BODACC 2025-2026 (registre récent, donc a priori à jour). Aucune presse ni profil public ne la présente. Aucun DAF/RAF/comptable/contrôleur de gestion trouvé (recherches par fonction, LinkedIn, presse). Le standard 03 86 27 55 55, l'e-mail contact@laballery.fr et le site viennent du CRM et n'ont pas pu être reconfirmés sur une page officielle dans les extraits (fiabilité non établie). Contexte : SCOP depuis 1993, environ 84-85 salariés, CA 17 M€ en 2024 (Xerfi) ; a repris l'imprimerie Floch (Mayenne) en 2016 (https://www.livreshebdo.fr/article/laballery-reprend-floch-et-compte-sur-les-editeurs). À l'appel : demander Mme Sagnelonge et le ou la responsable administratif/comptable ; vérifier si la comptabilité est commune avec Floch. Recherche du décideur financier (27/10/2026) : 3 recherches (« Laballery » Clamecy + responsable administratif et financier, + comptable / contrôleur de gestion, et une requête visant les profils LinkedIn, refusée par l'outil) : aucun DAF, RAF ni comptable nommé, seulement les fiches Xerfi et Livres Hebdo déjà connues. SCOP : la PDG Emilie Sagnelonge décide, avec le conseil d'administration selon le montant ; à l'appel, demander le ou la responsable administratif(ve) et comptable. Confirmation du standard (27/10/2026) : le site officiel laballery.fr (Nouvelle Imprimerie Laballery, allée Louis Blériot, 58500 Clamecy) affiche le 03 86 27 55 55 et contact@laballery.fr, soit le standard et l'e-mail déjà au CRM. Vérification : confirmé (page d'accueil laballery.fr, allée Louis Blériot, 58500 Clamecy : 03 86 27 55 55 et contact@laballery.fr). Vérification : Ni le 03 86 27 55 55 ni contact@laballery.fr ne ressortent dans les résultats (seulement repris de l'entrée). Aucun résultat pour E. Sagnelonge. Une offre France Travail (https://candidat.francetravail.fr/offres/recherche/detail/189CPJN) cite Sarah Petit (administratrice) comme contact employeur.",
+  "note_admin": "Décideurs (27/10/2026) : 3 recherches LinkedIn (comptable / RH / assistante de direction, responsable administratif, fonctions des salariés) : quelques profils citent la SCOP (Sylvie Richard, Moïse Dong A Yakan, Sébastien Laurent) sans fonction affichée, et une annonce relayée vers 2023 décrit un poste d'assistant(e) administratif(ve) cumulant gestion administrative, ADV, RH et comptabilité, sans nom. Aucun responsable finance ou RH nommé : demander au standard le service administratif et comptable ; décision chez la PDG Emilie Sagnelonge et, selon le montant, le conseil d'administration. Décideurs (27/10/2026) : trois nouvelles recherches (annuaires Manageo, Verif, Societe.com avec titres finance et RH, LinkedIn avec comptable, RH, assistante de direction, nom de l'administratrice Sarah Petit) ne nomment aucun responsable administratif, financier ou RH : Manageo ne liste comme dirigeant fonctionnel qu'Hubert Pedurand (commercial, ancien DG parti en janvier 2026) et les profils LinkedIn de la SCOP n'affichent pas de fonction administrative. Décision chez la PDG Emilie Sagnelonge (et le conseil d'administration selon le montant) : demander au standard le service administratif et comptable. Vérification : relecture sans recherche ; aucune personne retenue, note cohérente avec la fiche vide.",
+  "qui_appeler": "Appeler le 03 86 27 55 55 (numéro du CRM, à confirmer) et demander Emilie Sagnelonge, présidente-directrice générale, ou Sarah Petit, administratrice, citée comme contact dans une offre d'emploi. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité."
+ },
+ {
+  "rang": 42,
+  "siren": "338339146",
+  "nom": "TC 58",
+  "nom_commercial": "TC Transports",
+  "nom_court": "TC Transports (TC 58), Cercy-la-Tour",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 rue de la Guette",
+  "activite": "Transports terrestres",
+  "effectif": "50-99 (95 salariés en 2025)",
+  "groupe": "Holding Cassier",
+  "site_web": "https://www.tc-transports.fr",
+  "linkedin": "https://www.linkedin.com/company/tc-transports",
+  "dirigeants": [
+   {
+    "nom": "HOLDING CASSIER",
+    "fonction": "Président (personne morale)"
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (président : HOLDING CASSIER, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "contact_finance": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre-Henri JUHEN",
+    "fonction": "Directeur de l'organisation du groupe TC Transports (interview, date non précisée)",
+    "tel": null,
+    "email": null,
+    "source": "https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/",
+    "a_confirmer": true
+   }
+  ],
+  "contacts_admin": [
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Dir Administratif et Financier (dirigeant fonctionnel de TC 58 selon Manageo ; directeur général au registre)",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/338339146.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Jean-François CASSIER",
+    "fonction": "Directeur Financier ; Directeur des Ressources Humaines de TC VRAC, société sœur (Manageo) ; président du directoire de HOLDING CASSIER, présidente de TC 58 (siège du groupe, Cercy-la-Tour)",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/493717102.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "decision": "Probablement au niveau de la holding familiale HOLDING CASSIER (famille Cassier, présidée par la SARL CASSIER DÉVELOPPEMENT), qui pilote le groupe TC Transports depuis Cercy-la-Tour (siège indiqué avenue Louis Coudant) et son siège commercial de Digoin (Saône-et-Loire) : TC 58 n'est qu'une des filiales d'un groupe d'environ 700 salariés et 80 M€ de CA consolidé.",
+  "note_contacts": "TC Transports est un groupe familial de transport et logistique créé en 1981 : 11 sites en France, plus de 700 salariés selon un dossier préfectoral (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Le site de Cercy-la-Tour fait aussi du tri de pneus (ALIAPUR). Le siège du groupe est indiqué avenue Louis Coudant à Cercy-la-Tour (ContactOut, https://contactout.com/company/TC-TRANSPORTS-6049). Un DAF de groupe existe probablement mais n'a pas été trouvé. Aucun standard trouvé dans les extraits. 2e passe : site du groupe www.tc-transports.fr cité dans une interview d'un dirigeant (https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/ : groupe familial, une dizaine de sites, 700 salariés). Aucun numéro trouvé (3 recherches : nom + Cercy-la-Tour, groupe + siège, site + accueil). Autres entités du groupe : TC 59 à Auby (59), siège commercial ZI Les Mûriers à Digoin (71) selon railmarket.com. 2e niveau : 6 recherches, aucun numéro trouvé (ni pour le 45 rue de la Guette, ni pour le groupe ; le site tc-transports.fr n'apparaît pas dans les extraits). L'avis SIRENE confirme l'établissement « TC TRANSPORTS », 45 rue de la Guette, 58340 Cercy-la-Tour (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023). Selon un dossier ICPE de la préfecture (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf), TC ENVIRONNEMENT appartient au groupe HOLDING CASSIER, dont le président est la SARL CASSIER DÉVELOPPEMENT ; le représentant personne physique (membre de la famille Cassier) n'a pas été identifié. Pierre Racouchot (DG au registre) est aussi DG de POLE SUD-EST (Montpellier) depuis le 12/05/2023 selon verif.com (https://www.verif.com/en/leaders/Pierre-RACOUCHOT-J38747119/) : il s'agit vraisemblablement d'un dirigeant de groupe plutôt que d'un responsable local. Le groupe annonce une douzaine de sites, 700 salariés, 500 moteurs et 80 M€ de CA consolidé (interview de P.-H. Juhen, truckonline). Aucun DAF de groupe trouvé. À l'appel : obtenir le standard du groupe (siège Cercy-la-Tour ou Digoin), demander le DAF ou le service comptable du groupe et le nom du représentant de la holding Cassier. 2e niveau : 6 recherches, aucun numéro trouvé (ni pour le 45 rue de la Guette, ni pour le groupe ; le site tc-transports.fr n'apparaît pas dans les extraits). L'avis SIRENE confirme l'établissement « TC TRANSPORTS », 45 rue de la Guette, 58340 Cercy-la-Tour (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023). Selon un dossier ICPE de la préfecture (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf), TC ENVIRONNEMENT appartient au groupe HOLDING CASSIER, dont le président est la SARL CASSIER DÉVELOPPEMENT ; le représentant personne physique (membre de la famille Cassier) n'a pas été identifié. Pierre Racouchot (DG au registre) est aussi DG de POLE SUD-EST (Montpellier) depuis le 12/05/2023 selon verif.com (https://www.verif.com/en/leaders/Pierre-RACOUCHOT-J38747119/) : il s'agit vraisemblablement d'un dirigeant de groupe plutôt que d'un responsable local. Le groupe annonce une douzaine de sites, 700 salariés, 500 moteurs et 80 M€ de CA consolidé (interview de P.-H. Juhen, truckonline). Aucun DAF de groupe trouvé. À l'appel : obtenir le standard du groupe (siège Cercy-la-Tour ou Digoin), demander le DAF ou le service comptable du groupe et le nom du représentant de la holding Cassier. 3e passe : 5 recherches (« TC Transports » Cercy-la-Tour + téléphone/accueil, site:tc-transports.fr, siège commercial ZI Les Mûriers à Digoin, offres d'emploi France Travail, standard du groupe en 03 8x) : aucun numéro, ni pour le site de Cercy ni pour le groupe sur une source officielle. Seuls éléments : la fiche Railmarket (https://railmarket.com/ap/profile/tc-transports) donne le siège commercial ZI Les Mûriers, 71160 Digoin, sans téléphone ; des offres France Travail de TC-Transports concernent Auby (59) et Aulnat (63), sans numéro du site nivernais. 4e passe (26/10/2026) : numéro de TC 58 (et TC Vrac), ZA de la Guette à Cercy-la-Tour, 03 86 50 57 26, publié sur la page des implantations du groupe TC Transports et par le réseau Tred Union (fiche TC 58, filiale de TC Transports, e-mail contact@tc-transports.fr), aussi sur Pages Jaunes et Waze. TC Services (45 rue de la Guette) : 03 86 50 89 52. Siège indiqué par le site du groupe : ZI Les Mûriers à Digoin (TC 71, 03 85 53 20 24). Recherche du décideur financier (27/10/2026) : 3 recherches (« TC Transports » Digoin + directeur administratif et financier, Cercy-la-Tour + directeur financier / DAF / responsable comptable, profils publics DAF/RAF/contrôleur de gestion) : aucun directeur financier du groupe ni comptable nommé, seulement le dossier préfectoral et les fiches registre déjà connus. Les finances sont pilotées au niveau du groupe familial (holding Cassier, siège ZI Les Mûriers à Digoin) ; à l'appel, demander le service comptable ou le DAF du groupe. Vérification : Aucun résultat reliant P. Racouchot à TC Transports ; DG issu du registre seul. Recherche « Pierre-Henri Juhen » + transports : aucun résultat. Seule source : l'interview citée, non datée.",
+  "note_admin": "Décideurs (27/10/2026) : 3 recherches LinkedIn (TC Transports + financier / comptable / RH, DAF / responsable RH, fonctions de salariés) : aucun DAF, comptable ni RH nommé pour Cercy-la-Tour ou le siège de Digoin ; les seuls noms avec fonction relèvent d'autres sites ou rôles (Sabrina Daval, référente RH, et Eddy Lechine, directeur, de TC Transports 70 en Haute-Saône ; Marlène Margelidon, référente qualité ; Alban d'Avout, à Digoin, fonction non affichée). Finances pilotées par le groupe familial (holding Cassier, siège de Digoin) : demander le service comptable ou le DAF du groupe. Décideurs (27/10/2026) : Manageo (dirigeants fonctionnels) désigne Pierre Racouchot, directeur général de TC 58, comme directeur administratif et financier, et Jean-François Cassier, président du directoire de HOLDING CASSIER (holding présidente de TC 58, siège à Cercy-la-Tour, établissement à Digoin), comme directeur financier et DRH de la société sœur TC VRAC ; aucune autre personne finance ou RH n'est nommée pour Cercy-la-Tour ou Digoin. Décision probable à la holding Cassier de Cercy-la-Tour : demander Pierre Racouchot (DAF) ou Jean-François Cassier. Vérification : quatre recherches. Une recherche générale ne relie toujours pas Pierre Racouchot à TC Transports, mais Societe.com (mise à jour octobre 2026) le donne directeur général de TC 58 depuis juillet 2017 et Manageo le présente à la fois DG et directeur administratif et financier ; son mandat de DG de POLE SUD-EST (Montpellier, depuis 2023, Verif) s'ajoute sans preuve de départ : maintenu « probable ». Societe.com et Verif donnent Jean-François Cassier président du directoire de HOLDING CASSIER (présidente de TC 58) depuis le 05/08/2017 ; son titre de directeur financier et DRH ne vaut que pour la société sœur TC VRAC (Manageo, Verif) : maintenu « probable » comme dirigeant de la holding qui décide, à confirmer au standard ; aucune coordonnée directe.",
+  "qui_appeler": "Appeler TC 58 à Cercy-la-Tour au 03 86 50 57 26 (numéro publié par le groupe TC Transports) et demander la direction du groupe : le représentant de la holding Cassier ou le directeur administratif et financier. À défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 61,
+  "siren": "409564481",
+  "nom": "DANIELSON ENGINEERING",
+  "nom_commercial": "Groupe Danielson",
+  "nom_court": "Danielson Engineering (Magny-Cours)",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 58470 Magny-Cours",
+  "activite": "Fabrication de machines et équipements",
+  "effectif": "50-99 (83 salariés en 2024 ; ~130 pour le groupe)",
+  "groupe": "Groupe Danielson (SIREN 507748283)",
+  "site_web": "https://danielson-groupe.fr",
+  "linkedin": "https://www.linkedin.com/company/danielson-engineering",
+  "dirigeants": [
+   {
+    "nom": "GROUPE DANIELSON (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de GROUPE DANIELSON, holding présidente de DANIELSON ENGINEERING (nom repris du CRM, non revérifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de GROUPE DANIELSON ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481"
+  },
+  "contacts_admin": [
+   {
+    "nom": "Isabelle MEYER",
+    "fonction": "Responsable Financier",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/409564481.html",
+    "linkedin": "https://www.linkedin.com/in/isabelle-meyer-a38583123/",
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Bernard DELAPORTE",
+    "fonction": "Dir. des Ressources Humaines",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/409564481.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "decision": "Décision probablement prise par la holding GROUPE DANIELSON (SIREN 507748283), présidente de la société et implantée comme elle au Technopôle de Magny-Cours, donc dans la Nièvre ; le président de la holding est l'interlocuteur à viser.",
+  "note_contacts": "Recherche interrompue après une seule requête (aucun DAF/RAF trouvé) : le quota global de recherches web de la session était épuisé. Le nom de B. Delaporte vient de l'entrée (champ interlocuteur) et n'a pas été revérifié ; Pappers indique seulement la personne morale GROUPE DANIELSON comme présidente. Le site et le LinkedIn sont déjà connus. Standard à rechercher, et un DAF de groupe est probable (environ 130 salariés). 2e passe : 3 recherches (nom + Magny-Cours + téléphone, site danielson-groupe.fr + contact, Groupe Danielson + tél.) sans numéro de l'entreprise ; les seuls numéros vus sont ceux du circuit (03 86 21 80 00) et du Pôle de la Performance du Technopôle (03 86 21 22 00, source 2012), non retenus. 2e niveau : 6 recherches. Numéro 03 86 21 88 10 relevé sur la fiche gowork.fr de Danielson Engineering (agrégateur d'avis, Magny-Cours) : seule piste de standard, non confirmée ailleurs (une recherche du numéro seul n'a rien donné), à vérifier à l'appel. Ne pas confondre avec le circuit (03 86 21 80 00). CB Insights décrit l'entreprise comme une société d'ingénierie fondée en 2000, spécialisée dans la conception, la fabrication et la validation de démonstrateurs technologiques pour la mobilité (https://www.cbinsights.com/company/danielson-engineering). Aucune source en ligne ne relie Bernard Delaporte à Danielson : le nom vient du CRM et reste à confirmer ; le registre ne cite que la personne morale GROUPE DANIELSON. Aucun DAF, RAF, comptable ou contrôleur de gestion trouvé (un poste de contrôleur de gestion relevé à Magny-Cours concerne Ligier Automotive, pas Danielson). Un responsable du département moteurs de Danielson apparaît sur rocketreach, sans source professionnelle exploitable. À l'appel : demander le président du groupe (confirmer le nom), puis le responsable administratif et financier du groupe (environ 130 salariés). Recherche du décideur financier (27/10/2026) : quatre recherches (Danielson Engineering / Groupe Danielson + DAF, RAF, directeur financier, comptable ; page équipe de danielson-groupe.fr ; offres d'emploi à Magny-Cours) sans aucun DAF, RAF, comptable ou contrôleur de gestion nommé ; le seul financier vu à Magny-Cours (Dominique Bonnet, MarketScreener) relève de la société du circuit, pas de Danielson. La décision reste au président de la holding Groupe Danielson (environ 130 salariés pour le groupe) : demander à l'appel le responsable administratif et financier du groupe. Confirmation du standard (27/10/2026) : des documents publiés sur le site officiel du groupe (danielson-groupe.fr : plaquette ExSTOL 2025 et fiche produit) donnent le +33 (0)3 86 21 88 10 pour le site Danielson du Technopôle de Magny-Cours, au nom de la société sœur Danielson Aircraft Systems, ce qui confirme le numéro du CRM comme standard du groupe sur place, et la plaquette cite un Benoît Delaporte (benoit.delaporte@danielson-as.fr), probablement le « B. Delaporte » du CRM. Vérification : confirmé au niveau du groupe seulement : la plaquette ExSTOL et la fiche 100TD2 de danielson-groupe.fr donnent ce numéro pour Danielson Aircraft Systems, Technopôle du circuit, 58470 Magny-Cours, sans nommer Danielson Engineering, d'où la fiabilité « groupe » ; le Benoît Delaporte de la plaquette (e-mail danielson-as.fr, société sœur) n'est pas forcément le Bernard Delaporte du CRM. Numéro gardé « à confirmer » : la plaquette du groupe le donne pour la société sœur Danielson Aircraft Systems, sur le même site de Magny-Cours. Vérification : Deux recherches sans aucun lien entre Bernard Delaporte et Danielson : le nom vient seulement du champ interlocuteur de l'entrée (le registre ne donne que la personne morale GROUPE DANIELSON). À vérifier avant appel. Aucun résultat liant Bernard Delaporte à Groupe Danielson / Danielson Engineering (2 recherches).",
+  "note_admin": "Décideurs (27/10/2026) : La fiche Manageo de Danielson Engineering (non datée) cite Isabelle Meyer comme responsable financier, dont le profil LinkedIn la rattache au Groupe Danielson à Magny-Cours (elle y évoque aussi une activité de conseil RH), et Bernard Delaporte comme directeur des ressources humaines (et non président, comme l'indiquait le CRM) ; 3 recherches, aucune autre source ne confirme ces fonctions. Décision au niveau de la holding Groupe Danielson, sur le même site de Magny-Cours : demander Mme Meyer pour la partie financière. Vérification : 5 recherches (LinkedIn et web) ; le profil LinkedIn d'Isabelle Meyer affiche toujours Groupe DANIELSON à Magny-Cours, sans aucune fonction, et évoque aussi un départ de MCSA CELERC pour se consacrer à sa propre micro-crèche, de sorte que sa présence actuelle et son poste de responsable financier ne sont pas établis (gardée « probable », à confirmer au standard). La fiche Manageo n'a pu être retrouvée et aucune source ne relie un Bernard Delaporte à Danielson : le seul Delaporte visible en 2026 est Benoît Delaporte, chez la société sœur Danielson Aircraft Systems (même site), qui relaie les offres « Le Groupe Danielson recrute » sans fonction affichée, d'où un risque de confusion de prénom (gardé « probable ») : au standard, demander « M. Delaporte, ressources humaines du groupe ».",
+  "qui_appeler": "Appeler le 03 86 21 88 10 (relevé sur un agrégateur, à confirmer ; ne pas confondre avec le circuit, 03 86 21 80 00) et demander le président de Groupe Danielson, en vérifiant s'il s'agit de Bernard Delaporte. À défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 62,
+  "siren": "352563084",
+  "nom": "PHARMA DEVELOPPEMENT",
+  "nom_court": "Pharma Développement (Corbigny)",
+  "ville": "Corbigny",
+  "adresse": "ZI, Chemin du Moulin de Marcy, 58800 Corbigny",
+  "activite": "Industrie pharmaceutique",
+  "effectif": "50-99",
+  "site_web": "https://www.pharmadeveloppement.com",
+  "dirigeants": [
+   {
+    "nom": "Mario Junio GIRON",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS (registre) ; propriétaire-dirigeant depuis le rachat du laboratoire en 2008, également fondateur de la société pharmaceutique Global Farma",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pharmashopi.com/pharma-developpement-m-713.html"
+  },
+  "contact_finance": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/352563084"
+  },
+  "decision": "Décision probablement prise par le propriétaire-président Mario Giron, qui a racheté le laboratoire en 2008 et le dirige sans groupe identifié ; il est aussi fondateur de Global Farma, son lieu de résidence (France ou étranger) n'est pas connu, donc vérifier s'il est présent à Corbigny.",
+  "note_contacts": "3 recherches sans standard, email, site ni DAF/RAF. Le laboratoire fabrique des préparations pharmaceutiques liquides et pâteuses (fondé en 1985 selon Pharmashopi). Vidal confirme l'adresse ZI Chemin de Marcy, 58800 Corbigny (https://www.vidal.fr/medicaments/laboratoires/pharma-developpement-687.html), mais sans téléphone dans l'extrait. Le président vient seulement du registre (deja) et n'a pas été revérifié. Avec 50 à 99 salariés, un responsable administratif et financier est probable mais n'a pas été trouvé. À ne pas confondre avec la Pharmacie de l'Anguison (03 86 20 02 49), une pharmacie distincte de Corbigny. 2e passe : 3 recherches (nom + 03 86, adresse Chemin de Marcy, site officiel / façonnier) : aucun numéro, email ni site officiel ; seules les fiches Vidal (adresse ZI Chemin de Marcy, produits Alcaphor, Algesal baume, Plasmarine) et Usine Nouvelle (contacts réservés aux abonnés) apparaissent. 2e niveau : 6 recherches. Le registre est confirmé par des pages de revendeurs (Pharmashopi, Soin et Nature : https://www.soin-et-nature.com/fr/528_pharma-developpement) : laboratoire « dirigé par Mario Giron », qui l'a racheté en 2008 et l'a développé à l'export (États-Unis, Afrique francophone, Irak, Algérie, Thaïlande) ; produit phare Ydrovit (soluté de réhydratation, 2013). Date de création divergente selon les sources (1985 ou 1991). Une notice ANSM (https://ansm.sante.fr/actualites/impression/1899) mentionne une injonction contre l'établissement pharmaceutique de Corbigny, prolongée en 2018 puis levée le 13/03/2019. Aucun standard, email, site officiel ni DAF/RAF trouvé : la fiche Usine Nouvelle a des « contacts par direction » réservés aux abonnés (https://industrie.usinenouvelle.com/fiche/etablissement/pharma-developpement-100919204), et la page Vidal du laboratoire peut afficher un téléphone non visible dans les extraits. Les numéros en 03 86 20 vus à Corbigny sont ceux de pharmacies ou d'un cabinet comptable, non retenus. À l'appel : trouver le numéro via la page Vidal ou le fichier Usine Nouvelle, demander le pharmacien responsable ou le directeur de site, le responsable administratif et financier, et si Mario Giron est présent sur place. 2e niveau : 6 recherches. Le registre est confirmé par des pages de revendeurs (Pharmashopi, Soin et Nature : https://www.soin-et-nature.com/fr/528_pharma-developpement) : laboratoire « dirigé par Mario Giron », qui l'a racheté en 2008 et l'a développé à l'export (États-Unis, Afrique francophone, Irak, Algérie, Thaïlande) ; produit phare Ydrovit (soluté de réhydratation, 2013). Date de création divergente selon les sources (1985 ou 1991). Une notice ANSM (https://ansm.sante.fr/actualites/impression/1899) mentionne une injonction contre l'établissement pharmaceutique de Corbigny, prolongée en 2018 puis levée le 13/03/2019. Aucun standard, email, site officiel ni DAF/RAF trouvé : la fiche Usine Nouvelle a des « contacts par direction » réservés aux abonnés (https://industrie.usinenouvelle.com/fiche/etablissement/pharma-developpement-100919204), et la page Vidal du laboratoire peut afficher un téléphone non visible dans les extraits. Les numéros en 03 86 20 vus à Corbigny sont ceux de pharmacies ou d'un cabinet comptable, non retenus. À l'appel : trouver le numéro via la page Vidal ou le fichier Usine Nouvelle, demander le pharmacien responsable ou le directeur de site, le responsable administratif et financier, et si Mario Giron est présent sur place. 3e passe : 5 recherches (adresse « Moulin de Marcy », fiche Vidal + « Tél », raison sociale + « 03 86 », offres d'emploi, produit Ydrovit + contact) : aucun numéro. Les fiches Vidal (https://www.vidal.fr/parapharmacie/societes/pharma-developpement-687.html) ne montrent que l'adresse « Zone industrielle Chemin de Marcy, 58800 Corbigny » dans les extraits. Une offre de pharmacien assurance qualité en CDI à Corbigny (reprise par la-mairie.com, https://www.la-mairie.com/chitry-les-mines/emploi) indique un service qualité de 16 personnes rattaché à la pharmacienne responsable et à la directrice qualité, sans téléphone. 4e passe (26/10/2026) : site officiel trouvé, pharmadeveloppement.com. Le 03 86 20 21 64 figure sur sa page contact (aussi pour les questions sur les produits, traitées par un pharmacien) et sur Pages Jaunes, Cylex, Infobel et Vidal ; fax 03 86 20 21 69 ; e-mail contact@pharmadeveloppement.com (mentions légales) ; adresse Chemin de Marcy, 58800 Corbigny. Recherche du décideur financier (27/10/2026) : trois recherches (Pharma Développement Corbigny + RAF, profils comptable / contrôleur de gestion / directeur financier, offres d'emploi) sans aucune personne de la finance nommée : seules les fiches Vidal et Usine Nouvelle (contacts réservés aux abonnés) ressortent, et l'offre de collaborateur comptable vue à Corbigny vient d'un cabinet de recrutement pour un client non nommé. La décision financière revient au président-propriétaire Mario Giron ; demander à l'appel le responsable administratif et financier du laboratoire (50 à 99 salariés). Vérification : Aucun résultat reliant M. J. Giron à Pharma Développement ; président issu du registre seul, non contredit.",
+  "note_admin": "Décideurs (27/10/2026) : 3 recherches (LinkedIn finance / RH / directeur de site, recherche approfondie RAF / comptable / RH, LinkedIn sans accent) : seule la pharmacienne responsable Sylvia Millot est nommée (publication CCI Nièvre), fonction réglementaire hors des rôles recherchés, Manageo attribuant la direction administrative et financière au président Mario Giron lui-même, et une offre LinkedIn d'assistant(e) administratif(ve) et comptable (vieille de 7 à 12 mois) ne nomme personne. Décision chez le président-propriétaire Mario Giron ; au standard, demander l'assistant(e) administratif(ve) et comptable, ou à défaut Mme Millot. Décideurs (27/10/2026) : 3 recherches (annuaires B2B Manageo / Corporama / Kompass avec « responsable administratif », « comptable », « ressources humaines » ; LinkedIn en mode étendu avec comptable / RH / assistante de direction / contrôleur de gestion / directeur de site ; site pharmadeveloppement.com, page équipe) : aucun nouveau nom, seules ressortent la pharmacienne responsable Sylvia Millot et l'offre d'assistant(e) administratif(ve) et comptable déjà connues, les contacts par direction de L'Usine Nouvelle restant réservés aux abonnés. Décision chez le président-propriétaire Mario Giron : au standard, demander l'assistant(e) administratif(ve) et comptable.",
+  "qui_appeler": "Appeler le 03 86 20 21 64 (site officiel du laboratoire) et demander Mario Giron, président, ou à défaut le directeur de site. Sinon, demander le responsable administratif et financier."
+ }
+]
