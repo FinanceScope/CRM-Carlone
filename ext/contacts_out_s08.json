@@ -1,0 +1,38 @@
+[
+ {
+  "siren": "834449225",
+  "standard": {
+   "tel": "03 86 84 37 88",
+   "source": "https://www.allogarage.fr/garages/details-garage-CARROSSERIE-DELAPORTE-13846.html",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : 03 86 84 37 88 = standard de l'atelier Carrosserie Delaporte (agent Peugeot, ZA Les Pontots, route de Châtillon, Moulins-Engilbert), concordant dans plusieurs annuaires (Allogarage, Pages Jaunes, Auto-Sélection, Canal du Nivernais) ; pas de site propre (fiche réseau https://concessions.peugeot.fr/moulins-engilbert/ sans numéro vérifié). Écarté : le 01 84 80 22 42 de Vroomly, numéro de plateforme de mise en relation. Vérification : pas de recherche (aucun doute exprimé dans la note) ; relecture : numéro au bon format, source et fiabilité « annuaire » cohérentes avec la note.",
+  "recherches": 2
+ },
+ {
+  "siren": "343908042",
+  "standard": {
+   "tel": "03 86 78 70 96",
+   "source": "https://www.touteslesadresses.fr/company-address-phone-company-email-francais-en-ligne/transports-touristiques-en-autocars/2992227/cars-taboureau-meix-roblin-nievre-gouloux-0386787096",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : 03 86 78 70 96 = numéro publié pour Cars Taboureau à Metz Roblin (écrit aussi Meix Roblin), Gouloux, adresse du registre, dans des annuaires non datés ; un autre annuaire (https://www.annuaire-inverse-france.com/annuaire-entreprises/bourgogne/nievre/gouloux/autocars-transports-touristiques/cars-taboureau/0386787190) et Pages Jaunes (https://www.pagesjaunes.fr/pros/05988882) donnent le 03 86 78 71 90 au lieu-dit le Matrat, à confirmer au premier appel. Aucun site ni e-mail trouvé. Vérification (1 recherche) : le 03 86 78 70 96 est aussi donné pour Cars Taboureau à Metz Roblin par e-pro (https://transport.e-pro.fr/nievre/cars-taboureau_f4800026, qui signale un possible changement de numéro) et par le 118000, le 03 86 78 71 90 par Pages Jaunes et Yelp au Matrat : deux numéros d'annuaire de la même entreprise à Gouloux, aucun attribué à un tiers, numéro conservé ; un annuaire cite un site taboureautourisme.com, non confirmé et non retenu.",
+  "recherches": 2
+ },
+ {
+  "siren": "447698069",
+  "standard": {
+   "tel": "06 82 42 06 37",
+   "source": "https://www.maingaudfreres.com/",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.maingaudfreres.com/",
+  "note": "Deuxième passe (27/10/2026) : 06 82 42 06 37 = numéro de contact publié par la SARL Maingaud Frères (paysagiste, 13 rue de la Chaume, Saint-Honoré-les-Bains, adresse du registre) sur son propre site maingaudfreres.com ; le 03 86 30 71 14 des annuaires (Pages Jaunes https://www.pagesjaunes.fr/pros/50863070, Mappy, paysagiste.info, au 3 rue de la Frênaie) et un 03 86 50 76 34 sans attribution claire ne sont pas retenus comme standard. Vérification (3 recherches, dont une refusée par l'outil) : le site de l'entreprise publie le 06 82 42 06 37 comme son numéro de contact (fiabilité relevée à « officielle »), tandis que son ancienne page contact donnait le 03 86 30 71 14 comme fax, d'où le remplacement ; l'adresse info@maingaudfreres.com, vue seulement sur cette ancienne page, n'est pas reprise faute de la retrouver sur le site actuel, et la réserve sur l'entreprise individuelle de S. Maingaud tombe pour ce numéro publié par la SARL elle-même.",
+  "recherches": 2
+ }
+]
