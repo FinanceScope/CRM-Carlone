@@ -812,6 +812,10 @@ for f in sorted(glob.glob(EXT + '/admin_out_*.json')):
         for p in e.get('contacts') or []:   # une passe plus récente remplace la fiche de la même personne
             if isinstance(p, dict) and p.get('nom') and p.get('role') in ROLES_ADMIN and p.get('source'): a['contacts'][norm(re.sub(r'\(.*?\)', '', p['nom']))] = p   # « Alexa (nom non affiché) » = « Alexa (nom de famille non affiché) »
         if e.get('note') and e['note'] not in a['notes']: a['notes'].append(str(e['note']).strip())
+RETRAITS = json.load(open(EXT + '/admin_retraits.json', encoding='utf-8')) if os.path.exists(EXT + '/admin_retraits.json') else []
+for r in RETRAITS:   # personnes écartées sur preuve (poste actuel ailleurs) : elles sortent de la fiche, la raison va dans la note
+    a = ADMIN.get(sid(r['siren']))
+    if a and a['contacts'].pop(norm(re.sub(r'\(.*?\)', '', r['nom'])), None) is not None: a['notes'].append(r['raison'])
 n_adm = Counter()
 for c in base + ext:
     a = ADMIN.get(sid(c.get('siren')))

@@ -158,7 +158,8 @@
 "source": "https://www.pappers.fr/entreprise/soliloire-834179566"
 }
 ],
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune responsable administrative, secrétaire de direction ni comptable de la SELARL Soliloire trouvée sur LinkedIn (seul profil lié : une manipulatrice radio) ; gestion assurée par les quatre radiologues co-gérants déjà connus, comptabilité probablement confiée à un cabinet externe. À l'appel (secrétariat du 44 ter bd Maréchal Juin), demander qui gère l'administration et la comptabilité du cabinet. Vérification : relecture seule (pas de recherche), aucun contact, note cohérente."
 },
 {
 "rang": 103,
@@ -204,7 +205,8 @@
 "note_contacts": "Aucun téléphone ni dirigeant personne physique trouvé (4 requêtes). Présidente : personne morale HOLDING CASSIER, dont le représentant n'a pas été identifié. Au même 45 rue de la Guette (Cercy-la-Tour), la fiche SIRENE d'une autre société, TC 58 (SIRET 338 339 146 00023), porte aussi l'enseigne TC TRANSPORTS (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023) : TC VRAC semble faire partie d'un petit groupe familial Cassier (une société Cassier Combustible est aussi citée à Cercy-la-Tour dans le recueil des actes de la préfecture de janvier 2024). À compléter par PagesJaunes / appel. Deuxième passe (27/10/2026) : 03 86 50 57 26, fiche PagesJaunes « TC VRAC s.a.s. Cercy la Tour – Transport routier » au 45 rue de la Guette (aussi référencée comme Cassier Vrac). La fiche PagesJaunes de HOLDING CASSIER (33 av. Louis Coudant) porte un autre numéro, non retenu. Vérification : relecture seule (pas de recherche), fiche cohérente (nom, ville et adresse concordent), numéro conservé en « annuaire ».",
 "telephone": "03 86 50 57 26",
 "telephone_a_confirmer": true,
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : TC VRAC fait partie du groupe TC Transports (famille Cassier, 501 à 1 000 salariés selon sa page LinkedIn, siège à Cercy-la-Tour, qui décide pour TC VRAC) ; aucun DAF, RH ni comptable actuellement en poste au siège n'est confirmé, et une « Référente RH » Sabrina Daval (site non précisé) et Françoise Maguin (RH de TC 35, Bretagne) ne sont pas retenues : demander au standard le service administratif et financier du siège de Cercy. Vérification (4 recherches) : Anne-Sophie Cheminot, citée comme directrice administrative et financière de TC Transports par la page LinkedIn de l'entreprise et le titre de son profil, a désormais pour employeur actuel sur ce même profil FORÉCREU (Commentry, Allier) : départ probable, retirée des contacts ; Jean-François Cassier apparaît comme directeur général de TC Transports sur LinkedIn."
 },
 {
 "rang": 104,
@@ -432,7 +434,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/apocf-909990079"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : 1 recherche LinkedIn : seul Frédéric Beaufils, gérant au registre, y apparaît chez Carrefour Contact à Saint-Amand-en-Puisaye (sans intitulé, https://www.linkedin.com/in/frederic-beaufils-37633566/), aucun adjoint ni personne chargée de l'administratif nommé. Magasin franchisé de 10-19 salariés : décision et administratif chez le gérant, comptabilité probablement externalisée. Vérification : relecture sans recherche, aucune personne retenue, note cohérente (magasin franchisé géré par Frédéric Beaufils)."
 },
 {
 "rang": 107,
@@ -509,7 +512,20 @@
 "source": "https://www.pappers.fr/entreprise/acordia-530610187"
 }
 ],
+"email": null,
+"contacts_admin": [
+{
+"nom": "Ruth SEDJI",
+"fonction": "Responsable Bureau CF2C Nevers",
+"role": "direction_site",
+"fiabilite": "probable",
+"source": "https://fr.linkedin.com/in/ruth-sedji-adv-relation-client",
+"linkedin": "https://fr.linkedin.com/in/ruth-sedji-adv-relation-client",
+"tel_direct": null,
 "email": null
+}
+],
+"note_admin": "Décideurs (27/10/2026) : Ruth Sedji se présente sur LinkedIn comme responsable du bureau CF2C de Nevers (date du profil inconnue, probable) ; aucun DAF, RH ni comptable de CF2C nommé, et le directeur du recouvrement Etienne Pierré cité par l'entreprise n'est pas une cible. Décision probablement chez le DG Louis Bauvillard (déjà connu) ; une assistante de direction « CF2C » basée à Clermont-Ferrand (Véronique Darras) n'est pas retenue, rattachement à cette société incertain. Vérification (1 recherche LinkedIn) : le profil de Ruth Sedji indique toujours « Responsable Bureau CF2C Nevers » (oct. 2022 – aujourd'hui) et Louis Bauvillard l'identifie dans une offre pour le bureau de Nevers ; profil personnel sans date de mise à jour certaine, maintenue en « probable », sans ligne directe ni e-mail."
 },
 {
 "rang": 108,
@@ -1250,7 +1266,8 @@
 "note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de niveau société sont recherchées ; aucun site web de l'entreprise trouvé, donc aucun décideur nommé ici (le registre liste deux co-gérants, déjà dans « deja »). Aucun téléphone, e-mail ni site trouvé dans les extraits (3 requêtes, les résultats renvoient vers des homonymes marocains ou des pages sans rapport). Une offre France Travail de chauffeur poids lourd à Cosne-Cours-sur-Loire (https://candidat.francetravail.fr/offres/recherche/detail/191CNNW) ne nomme pas l'employeur. Vérifier l'opposition avant tout appel. Deuxième passe (27/10/2026) : aucun numéro, site ni e-mail trouvé pour EL FAYZI (transport routier, notamment de béton prêt à l'emploi, rue des Fondeurs à Cosne) : seules des fiches légales (PagesJaunes SIRET, societe.com, verif) ressortent. Opposition à la prospection : coordonnées société uniquement. Vérification : relecture seule, aucune coordonnée retenue, cohérent avec l'opposition à la prospection. Troisième passe (27/10/2026) : angles adresse (rue des Fondeurs), groupe (holding EF TRANSPORTS, même adresse et même gérant Ibrahim El Fayzi : Kompass n'affiche qu'un 01 43 34 34 34 parisien manifestement générique, Hoodspot masque le numéro) et offres d'emploi (France Travail 197NJNK, conducteur de malaxeur à béton à Cosne, employeur non confirmé) sans numéro de niveau société. Une autre société de transport, M.T.A., est donnée à la même adresse avec le 03 86 24 97 33 (transporteur.tel) mais aucun lien avec EL FAYZI n'est établi, numéro non retenu ; opposition à la prospection : contacts société uniquement. Vérification : relecture seule (pas de recherche), aucune coordonnée retenue ; le 03 86 24 97 33 (M.T.A.) et le 01 43 34 34 34 (Kompass) restent à juste titre écartés faute de lien avec la société ; cohérent avec l'opposition à la prospection. Quatrième passe (27/10/2026) : angle offre d'emploi : l'offre France Travail 197NJNK (conducteur PL de malaxeur à béton à Cosne et La Charité) nomme comme employeur EF TRANSPORTS (holding présidée par Mustapha El Fayzi, cogérant d'EL FAYZI) et donne le 06 08 04 96 04 comme numéro de contact de l'employeur (contact affiché : M. Mustapha El Fayzi), retenu comme numéro du groupe faute de standard propre à EL FAYZI (annuaires PagesJaunes, recherche par dirigeant sans numéro). Opposition à la prospection : à n'utiliser que comme contact société, numéro portable à vérifier avant tout appel. Vérification : 2 recherches (offre 197NJNK + EF TRANSPORTS, puis le numéro seul) sans retrouver l'offre ni le 06 08 04 96 04 ; aucune preuve contraire, numéro conservé en « groupe » (numéro donné par l'offre comme contact de l'employeur EF TRANSPORTS, holding des mêmes gérants à la même adresse), mais non revérifié : la troisième passe jugeait l'employeur de cette offre non confirmé ; opposition à la prospection : n'appeler qu'en demandant la société.",
 "telephone": "06 08 04 96 04",
 "telephone_groupe": true,
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucun comptable, assistante ni responsable administratif d'EL FAYZI ou de sa holding EF Transports trouvé sur LinkedIn (seuls des homonymes ou d'autres transporteurs de Cosne ressortent). Société familiale gérée par les co-gérants Ibrahim et Mustapha El Fayzi, déjà connus ; opposition à la prospection : à l'appel, demander qui tient l'administratif et la comptabilité. Vérification : relecture seule (pas de recherche), aucun contact ni coordonnée, cohérent avec l'opposition à la prospection."
 },
 {
 "rang": 118,
@@ -2258,7 +2275,20 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/eiffage-energie-systemes-bourgeot-333857605"
 },
+"email": null,
+"contacts_admin": [
+{
+"nom": "Danièle FOULIE",
+"fonction": "Comptable – EIFFAGE ENERGIE SYSTEMES - BOURGEOT (Fourchambault)",
+"role": "finance",
+"fiabilite": "probable",
+"source": "https://fr.linkedin.com/in/dani%C3%A8le-foulie-3b7694185",
+"linkedin": "https://fr.linkedin.com/in/dani%C3%A8le-foulie-3b7694185",
+"tel_direct": null,
 "email": null
+}
+],
+"note_admin": "Décideurs (27/10/2026) : Danièle Foulie est le seul profil LinkedIn dont l'employeur actuel est exactement « EIFFAGE ENERGIE SYSTEMES BOURGEOT », et une autre recherche LinkedIn fait ressortir un intitulé « Comptable EIFFAGE ENERGIE SYSTEMES - BOURGEOT » basé à Fourchambault ; le rattachement de ce titre à son nom est un recoupement (nom et titre pas dans le même extrait) : à confirmer au standard. Responsable d'agence toujours non publié (Yannick Prévot, Eiffage Énergie Systèmes Fourchambault, relaie une offre CVC sans titre visible) ; la décision reste au niveau régional ou au siège de Vélizy. Vérification : 2 recherches LinkedIn ; le profil de Danièle Foulie affiche toujours EIFFAGE ENERGIE SYSTEMES BOURGEOT (Fourchambault) comme employeur, sans titre ni date dans l'extrait, et la page LinkedIn de l'Entreprise Bourgeot SA (https://fr.linkedin.com/company/entreprise-bourgeot-sa) l'associe à l'intitulé « Comptable EIFFAGE ENERGIE SYSTEMES - BOURGEOT » ; un extrait de son profil évoque près de 8 ans auprès des TPE-PME de Côte-d'Or (CPME) sans dire s'il s'agit d'un poste passé : aucun indice de départ, elle reste « probable », poste actuel à confirmer au standard."
 },
 {
 "rang": 132,
@@ -2322,7 +2352,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/320130735"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : Aucune comptable ni assistante nommée (LinkedIn, annuaires) : seuls Axel Leroy (SARL Lagoutte et Fils, sans titre) et le gérant Patrice Lagoutte (aussi à la FFB Nièvre, gérant depuis 2004) apparaissent ; les publications LinkedIn citent environ 20 salariés entre l'atelier de Guérigny et l'agence commerciale de Nevers (46 bd du Maréchal-Juin, « Lagoutte Concept Habitat »). Demander au standard qui tient la comptabilité et l'administratif. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée)."
 },
 {
 "rang": 133,
@@ -2732,7 +2763,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/rch-region-centre-habitat-441254968"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : Aucune personne administrative ou financière trouvée : LinkedIn ne montre qu'Alexandre Lhopitault (Région Centre Habitat, sans titre) et un ancien commercial ; « Groupe Le Carré » est un réseau d'entreprises de l'habitat (Centre Aquitain de l'Habitat en fait aussi partie), donc la décision reste chez le gérant Fabrice Ninot. Demander au standard la personne qui gère l'administratif et la comptabilité. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée)."
 },
 {
 "rang": 139,
@@ -2942,7 +2974,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/everest-507604106"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : Aucune source ne relie Yannick Andrieux à un restaurant McDonald's nommé ni ne cite une assistante de direction, un responsable administratif ou RH du franchisé (1 recherche presse/annuaires ; les recherches LinkedIn sont comptées sur V 2 RESTAURATION, même président). Chez un franchisé multi-restaurants, demander au restaurant le bureau administratif ou l'assistante de direction du franchisé. Vérification : relecture sans recherche ; le registre fait bien de Yannick Andrieux le président d'EVEREST (enseigne McDonald's de Marzy), la note vise l'absence de source hors registre ; fiche cohérente (aucun contact retenu, aucune coordonnée)."
 },
 {
 "rang": 142,
@@ -3144,7 +3177,8 @@
 "source": "https://www.toute-la-franchise.com/news-monceau-fleurs-nevers"
 }
 ],
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : Aucun responsable administratif ou comptable nommé : la presse franchise (toute-la-franchise.com, observatoiredelafranchise.fr) confirme seulement que Frédéric et Pascal Signoret exploitent 7 points de vente (dont 5 Monceau Fleurs, environ 30 fleuristes), Frédéric ayant ouvert le premier Monceau Fleurs de Nevers en janvier 2005 ; LinkedIn ne donne aucun salarié de la franchise nivernaise. La gestion est vraisemblablement tenue par les deux frères ou leur cabinet comptable. Vérification : relecture sans recherche ; les chiffres de 7 points de vente et d'environ 30 fleuristes datent de 2016 selon les notes antérieures ; fiche cohérente (aucun contact retenu, aucune coordonnée)."
 },
 {
 "rang": 145,
@@ -3253,7 +3287,8 @@
 "note_contacts": "Fabricant d'équipements de levage, d'arrimage et de manutention, au 4 route de Mousseaux à Cizely. Racheté le 06/11/2025 par HPS International (selon PitchBook) ; présidente : HPS INTERNATIONAL GROUP. Aucun nom de dirigeant ni de responsable financier publié : la page Équipe n'a que des photos sans légende et les mentions légales ne nomment personne. Aucun DAF/RAF trouvé dans les résultats de recherche. Page LinkedIn de l'entreprise : https://www.linkedin.com/company/sapem-sa/.",
 "telephone": "03 86 58 39 90",
 "email": "commercial@sapem-sa.com",
-"site_web": "https://www.sapem-sa.com"
+"site_web": "https://www.sapem-sa.com",
+"note_admin": "Décideurs (27/10/2026) : Aucun DAF, comptable ou RH publié : LinkedIn liste des salariés de SAPEM (Denis Ciapa, Romain Chaudron, Joël Archer, Grégory Girault, Maëllia Marreau) sans intitulé de poste visible, donc non retenus. Depuis le rachat par HPS International (2025), les décisions financières sont probablement prises par le groupe ; demander au standard le directeur du site de Cizely et la personne en charge de la comptabilité. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée)."
 },
 {
 "rang": 147,
@@ -3298,7 +3333,20 @@
 "contacts_ok": true,
 "note_contacts": "Exploite la boulangerie Feuillette (réseau en franchise) au 2 rue des Docks à Nevers. Numéro issu d'un annuaire (eat-list.fr), source faible. Présidente : la holding L3AP ; la personne physique derrière n'a pas été identifiée (rien dans les résultats de recherche).",
 "telephone": "03 71 42 02 19",
+"email": null,
+"contacts_admin": [
+{
+"nom": "Lionel VINCENT",
+"fonction": "Franchisé Boulangeries Feuillette (3e boulangerie ouverte à Varennes-Vauzelles en 2024) ; contact employeur des offres France Travail de La Boulangerie des Docks",
+"role": "direction_site",
+"fiabilite": "probable",
+"source": "https://candidat.francetravail.fr/offres/recherche/detail/196NSRH",
+"linkedin": null,
+"tel_direct": null,
 "email": null
+}
+],
+"note_admin": "Décideurs (27/10/2026) : L'offre France Travail 212DZWQ (vendeur en boulangerie, La Boulangerie des Docks, 20-49 salariés) indique comme contact M. Lionel Vincent, que la presse franchise présente comme franchisé Feuillette ayant ouvert en août 2024 sa 3e boulangerie à Varennes-Vauzelles (https://www.toute-la-franchise.com/news-boulangerie-feuillette-une-nouvelle-adresse-a-varennes-vauzelles) : probablement l'exploitant derrière la holding L3AP (lien non publié). Aucun comptable ni assistant administratif nommé. Vérification : 3 recherches ; l'offre France Travail 196NSRH (vendeur en boulangerie-pâtisserie-traiteur, CDI, La Boulangerie des Docks, 20-49 salariés) nomme aussi M. Lionel Vincent comme contact employeur, sans titre ni date visible (l'offre 212DZWQ n'a pas été retrouvée), et toute-la-franchise.com confirme qu'il exploitait déjà deux boulangeries Feuillette avant d'ouvrir celle de Varennes-Vauzelles ; aucune source ne le relie à la holding L3AP (recherche sans résultat) ni ne le nomme propriétaire de la boutique des Docks : il reste « probable », source remplacée par l'offre retrouvée."
 },
 {
 "rang": 148,
@@ -3448,7 +3496,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/qualijuris-58-381215102"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : Aucun salarié administratif actuel trouvé : les profils LinkedIn liés à QUALIJURIS 58 sont d'anciens clercs ou gestionnaires (jusqu'en 2023 au plus tard), donc non retenus ; Alexandre Lovato a un profil LinkedIn QUALIJURIS à Nevers (https://www.linkedin.com/in/alexandre-lovato-364645196/). Demander au standard le clerc ou la secrétaire qui gère la comptabilité de l'étude. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée)."
 },
 {
 "rang": 150,
@@ -4088,7 +4137,8 @@
 "source": "https://www.xerfi.com/etudes-par-entreprise/ambulances-tissier_498917202"
 }
 ],
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : Aucune secrétaire ni responsable administratif nommé (LinkedIn, Xerfi, Gowork, recueils de la préfecture) : LinkedIn montre seulement des ambulanciers et Cédric Tissier, cogérant, qui se présente comme « Ambulancier - AMBULANCES TISSIER » (https://www.linkedin.com/in/cedric-tissier-166269305/). L'administratif est probablement tenu par les cogérants Cédric et Ghislaine Tissier. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée)."
 },
 {
 "rang": 158,
@@ -4368,7 +4418,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/v-2-restauration-528031750"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : Aucune assistante de direction ni responsable RH ou administratif du franchisé nommé (2 recherches LinkedIn sur les McDonald's de Nevers, Marzy et Varennes-Vauzelles) ; un profil de directeur McDonald's citant Marzy et Varennes-Vauzelles apparaît, mais ni son nom ni sa date (environ 2023) ne permettent de le retenir. Yannick Andrieux préside aussi EVEREST (McDonald's de Marzy) : demander au restaurant le bureau administratif commun aux deux sociétés. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée)."
 },
 {
 "rang": 162,
@@ -4689,7 +4740,8 @@
 "source": "https://www.societe.com/societe/infini-developpement-499091361.html"
 }
 ],
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune personne finance, RH ou administration propre à l'agence de Cosne trouvée (LinkedIn « Gaubier » et « Dabrigeon » : seuls des salariés d'autres agences du groupe, dont une directrice adjointe à Vichy ; recherche sur la direction financière d'Infini Développement sans résultat). La décision se prend au siège Infini Développement / Maison Dabrigeon (Beaumont, 63) : demander à l'agence le nom complet de la directrice financière du groupe (prénom Maria, toujours à confirmer). Vérification : 1 recherche (« Infini Développement » « directrice financière ») : la directrice financière « Maria » n'est pas ressortie, son nom complet reste à obtenir au standard ; aucune personne à retirer."
 },
 {
 "rang": 166,
@@ -4953,7 +5005,8 @@
 "source": "https://www.pappers.fr/entreprise/marc-pescaglini-489664300"
 }
 ],
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune assistante, secrétaire ou comptable salariée trouvée (LinkedIn et site pescaglini.com) ; seul le profil LinkedIn de la présidente Barbara Pescaglini (« SAS PESCAGLINI - Plâtrerie Peinture », déjà connue) ressort. Dans cette PME familiale, la gestion est vraisemblablement tenue par les deux dirigeants (Barbara et Marc Pescaglini) : demander au standard qui tient l'administratif et la comptabilité. Vérification : relecture sans recherche ; « couple dirigeant » remplacé, le lien personnel entre les deux dirigeants n'étant pas sourcé."
 },
 {
 "rang": 170,
@@ -5230,7 +5283,8 @@
 "note_contacts": "Enseigne : McDonald's Decize, 83 avenue du 14 Juillet (même adresse que le siège ; restaurant franchisé). Numéro et horaires vus sur l'annuaire Bible-Marques ; adresse confirmée par Cybo (https://www.cybo.com/FR/decize/pizza). Présidente : la société STAG (holding du franchisé) ; la personne physique qui la dirige n'a été trouvée dans aucun résultat (à lire sur la fiche Pappers de STAG). La décision financière se prend probablement au niveau de la holding, qui peut exploiter d'autres McDonald's de la Nièvre.",
 "telephone": "03 86 30 55 03",
 "telephone_a_confirmer": true,
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune personne trouvée pour le McDonald's de Decize (recherches presse/registre et LinkedIn « directeur de restaurant », « assistante de direction », « responsable RH » : uniquement des salariés d'autres restaurants). La décision se prend chez le franchisé, holding STAG : demander au restaurant le nom du directeur et celui de la personne qui gère l'administratif et la paie chez le franchisé. Vérification : relecture sans recherche, note cohérente avec l'absence de contact."
 },
 {
 "rang": 174,
@@ -5815,7 +5869,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/bkcsl-952050292"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune personne nommée : les offres de directeur et de directeur adjoint du restaurant de Cosne (Welcome to the Jungle, France Travail) ne citent personne ; le restaurant (ouvert le 31 août 2023) appartient au franchisé qui exploite aussi Bourges et Saint-Doulchard (page LinkedIn « Burger King Bourges - Saint Doulchard - Cosne sur Loire »), où se prend probablement la décision. Un résumé d'annuaire évoque un président nommé François Frenard pour la holding, non vérifié : à confirmer au standard. Vérification : 1 recherche (DPLF, Frenard, Burger King Bourges, Saint-Doulchard, Cosne) : ni la holding DPLF ni M. Frenard ne ressortent (seules des offres d'emploi sans nom) ; ce nom ne repose que sur un résumé d'annuaire et ne doit pas être demandé au standard avant confirmation au registre."
 },
 {
 "rang": 182,
@@ -6078,7 +6133,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/les-cars-charles-309230084"
-}
+},
+"note_admin": "Décideurs (27/10/2026) : aucun secrétaire, comptable ou responsable d'exploitation nommé (site lescarscharles.fr, annuaires, LinkedIn) ; le site présente une entreprise familiale depuis 1946 avec près de 40 collaborateurs. Un annuaire ancien (le-site-de.com) cite Fabrice Charles comme gérant alors que le registre donne Roman Charles : demander au standard qui gère l'administratif et la comptabilité. Vérification : relecture sans recherche, note cohérente avec l'absence de contact."
 },
 {
 "rang": 186,
@@ -6282,7 +6338,8 @@
 "source": "https://candidat.francetravail.fr/offres/recherche/detail/188ZJWD"
 }
 ],
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucun gérant, directeur de salle ou responsable administratif nommé pour la brasserie (recherche générale et LinkedIn ; seul un cas client Baresto cite l'établissement sans nom). La gestion relève probablement de la holding FT PRESTATIONS et du directeur général Jean-Pierre Thibault : demander Jean-Pierre ou Flavien Thibault au standard. Vérification : relecture sans recherche ; « famille Thibault » retiré (lien familial non sourcé), Flavien Thibault n'étant cité que comme contact d'une offre d'emploi sans rôle précisé."
 },
 {
 "rang": 189,
@@ -6621,7 +6678,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/evrard-fils-538548199"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune secrétaire ni comptable nommée (annuaires et recherche du site evrard-chauffage.com, non ressorti) ; l'administratif est probablement tenu par le gérant Benoît Evrard ou une personne de son bureau : demander au standard qui s'occupe de la comptabilité. Vérification : relecture sans recherche ; mention non sourcée de la famille du gérant retirée."
 },
 {
 "rang": 194,
@@ -7141,7 +7199,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/440852895"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune assistante, secrétaire ni comptable nommée (Pappers et recherche du site chorobate.com, non ressorti) ; Pappers indique 10 à 19 salariés (2022) et un CA de 1,98 M€ en 2025 : interlocuteur probable le gérant Mathieu Milleret, ou la personne qui tient son bureau. Vérification : relecture sans recherche ; l'effectif Pappers (10 à 19 salariés en 2022) diffère de la tranche du fichier (20-49), sans incidence sur les contacts."
 },
 {
 "rang": 202,
@@ -7317,7 +7376,8 @@
 "note_contacts": "Boulangerie-pâtisserie 'Bourguignon' au 74 avenue du 8 Mai 1945, Coulanges-lès-Nevers (fiches https://www.myboulange.fr/58/coulanges-les-nevers/f-m-bourguignon-29602 et https://www.myboulange.fr/58/coulanges-les-nevers/boulangerie-patisserie-bourguignon-29599), ouverte 7j/7 ; aucun numéro visible dans les extraits. Président = personne morale SARL DES CHAMPS, dont le gérant (personne physique) n'a pas été trouvé : dirigeant_principal laissé à null. Deuxième passe (27/10/2026) : 03 86 57 86 09 = boulangerie-pâtisserie Bourguignon (74 avenue du 8 Mai 1945, Coulanges-lès-Nevers) sur PagesJaunes ; une offre d'emploi (gowork.fr) donne aussi un portable, non retenu. La société a deux autres établissements, dont un à Varennes-Vauzelles. Vérification : relecture sans recherche ; le portable issu de l'offre d'emploi est retiré de la note (numéro probablement personnel, non publié comme standard de l'entreprise).",
 "telephone": "03 86 57 86 09",
 "telephone_a_confirmer": true,
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune gérante, assistante ou secrétaire nommée (recherche générale et LinkedIn : seules des offres France Travail de boulanger chez F M BOURGUIGNON) ; le gérant de la présidente SARL DES CHAMPS reste inconnu : demander au magasin de Coulanges qui gère l'administratif des trois boulangeries. Vérification : relecture sans recherche, note cohérente avec l'absence de contact."
 },
 {
 "rang": 205,
@@ -7848,7 +7908,20 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sicafome-ste-cooperative-dinteret-collectif-agricole-anonyme-de-la-foire-organisee-des-marches-de-moulins-engilbert-321675712"
+},
+"contacts_admin": [
+{
+"nom": "Martial TARDIVON",
+"fonction": "Directeur du marché au cadran de Moulins-Engilbert",
+"role": "direction_site",
+"fiabilite": "confirme",
+"source": "https://www.lafranceagricole.fr/filieres-viande/article/881768/dix-marches-au-cadran-perennisent-leur-systeme-d-encheres",
+"linkedin": null,
+"tel_direct": null,
+"email": null
 }
+],
+"note_admin": "Décideurs (27/10/2026) : Martial Tardivon est présenté comme directeur du marché au cadran de Moulins-Engilbert par La France Agricole et Réussir (2025) : c'est l'interlocuteur salarié à demander. Aucun comptable ni secrétaire nommé. Vérification : 3 recherches ; Martial Tardivon confirmé (La France Agricole le présente comme directeur de la Sicafome et un article Agri Bourgogne de 2026 sur la foire aux culards le cite « aux manettes » des ventes). Philippe Martin, que seul l'annuaire Pappers étiquette « trésorier », est un administrateur élu (cité comme président de la Sicafome par agri71 en 2018) et non une personne de la finance salariée : retiré des contacts, son mandat actuel n'ayant pas été retrouvé."
 },
 {
 "rang": 213,
@@ -7919,7 +7992,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/333749216"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucun responsable administratif, comptable ou assistant(e) trouvé pour N.T.B. (constructeur de maisons individuelles, Urzy) : ni page LinkedIn de l'entreprise ni annonce nommant quelqu'un ; seul Pappers confirme l'entreprise (20-49 salariés, CA 2025 d'environ 1,8 M€). À demander au standard : la comptabilité est probablement tenue en interne par une secrétaire-comptable non nommée en ligne. Vérification : relu sans recherche, aucune personne retenue, note cohérente avec la fiche (aucun courriel ni numéro deviné)."
 },
 {
 "rang": 214,
@@ -9029,7 +9103,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/taxi-carola-803113612"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucune secrétaire ni responsable administratif nommé pour Taxi Carola (seules des fiches d'annuaires sans personnel, GobyTaxi, montransport) ; l'interlocutrice reste la directrice générale Marie Brigitte Carola, la présidence étant tenue par la holding E PLURIBUS UNUM. Vérification : relu sans recherche, aucune personne retenue ; la directrice générale reste l'interlocutrice déjà connue, note cohérente."
 },
 {
 "rang": 231,
@@ -10634,7 +10709,30 @@
 "telephone": "03 86 93 07 77",
 "telephone_a_confirmer": true,
 "site_web": "https://www.adapei58.org/",
+"email": null,
+"contacts_admin": [
+{
+"nom": "Juliette CATINAUD",
+"fonction": "DRH de l'Adapei de la Nièvre (association mère, siège d'Urzy)",
+"role": "rh",
+"fiabilite": "probable",
+"source": "https://www.linkedin.com/in/juliette-catinaud-4832a5171/",
+"linkedin": "https://www.linkedin.com/in/juliette-catinaud-4832a5171/",
+"tel_direct": null,
+"email": "rh@adapei58.org"
+},
+{
+"nom": "Marylou SILVA DOS REIS",
+"fonction": "Assistante RH",
+"role": "rh",
+"fiabilite": "probable",
+"source": "https://www.linkedin.com/in/marylou-silva-dos-reis-568752222/",
+"linkedin": "https://www.linkedin.com/in/marylou-silva-dos-reis-568752222/",
+"tel_direct": null,
 "email": null
+}
+],
+"note_admin": "Décideurs (27/10/2026) : une offre d'emploi diffusée en 2026 par l'Adapei de la Nièvre sur LinkedIn (aide-comptable au siège d'Urzy) demande d'écrire à « Madame CATINAUD Juliette, DRH : rh@adapei58.org » ; elle relève de l'association mère et non de la SAS (même adresse, d'où « probable »). Aucun DAF ni chef comptable nommé (offres de comptable « en lien avec la direction financière » sans nom) ; une publication LinkedIn cite Thierry Le Goaziou comme directeur général de l'association, à confirmer : la décision se prend vraisemblablement au siège associatif d'Urzy. Vérification (2 recherches) : Juliette Catinaud retrouvée sur LinkedIn comme responsable des ressources humaines de l'Adapei de la Nièvre, avec une activité de 2025, et dans une offre de CDD d'assistant(e) RH qui demande d'écrire à « Madame CATINAUD Juliette, DRH », rh@adapei58.org (boîte générique publiée par l'association pour elle, gardée) ; rattachement à l'association mère qui décide pour la SAS, « probable » maintenu. La même recherche a fait sortir Marylou Silva Dos Reis, « Assistante RH – ADAPEI 58 SAS » sur LinkedIn (titre sans date, d'où « probable »), ajoutée en second contact ; le nom de Thierry Le Goaziou n'a pas été recontrôlé."
 },
 {
 "rang": 255,
@@ -22064,7 +22162,8 @@
 "note_contacts": "Enseigne David Lange (marque historique de mobilier en plexiglas/PMMA fondée vers 1969). Aucun résultat ne relie la marque à Varzy ni ne donne de coordonnées (3 recherches). Présidence assurée par la holding JAMES EBENISTES : personne physique qui la dirige non trouvée. Deuxième passe (27/10/2026) : 03 86 29 40 73 = ligne de la manufacture David Lange (SAS DL International, ZI de l'Étang, Varzy) sur la page contact du site officiel. Le site indique aussi un service commercial au 02 97 32 58 45 (indicatif breton, hors Nièvre). Vérification : 03 86 29 40 73 (Manufacture, ZI de l'Étang, Varzy) confirmé sur la page contact de davidlange.com au nom de DL International (officielle maintenue).",
 "telephone": "03 86 29 40 73",
 "email": "contact@davidlange.fr",
-"site_web": "https://www.davidlange.com/"
+"site_web": "https://www.davidlange.com/",
+"note_admin": "Décideurs (27/10/2026) : aucun comptable, assistant(e) de direction ni responsable de la manufacture David Lange de Varzy trouvé (3 recherches : LinkedIn et web ne renvoient que des annonces de mobilier vintage ou des homonymes « DLM International ») ; la personne physique derrière la holding présidente JAMES EBENISTES reste inconnue. Vérification : relu sans recherche, aucune personne retenue, note cohérente (3 recherches annoncées)."
 },
 {
 "rang": 440,
@@ -22126,7 +22225,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
-}
+},
+"note_admin": "Décideurs (27/10/2026) : aucune personne administrative ou comptable trouvée pour Transports MTMS ; le seul profil LinkedIn lié est celui du gérant Tony Mettendorff (« Gérant principal – MTMS transports », agence Mondial Relay de Brinon), déjà connu. PagesJaunes donne 10 à 19 salariés : la gestion passe très probablement par le gérant lui-même. Vérification : relu sans recherche, aucune personne retenue ; le gérant reste l'interlocuteur, note cohérente."
 },
 {
 "rang": 441,
@@ -22176,7 +22276,8 @@
 "telephone": "03 86 61 01 69",
 "telephone_a_confirmer": true,
 "site_web": "https://www.buffalo-grill.fr/nos-restaurants/nevers-varennes-vauzelles",
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucun directeur ni manager du Buffalo Grill de Varennes-Vauzelles trouvé sur LinkedIn (seuls des managers d'autres restaurants de l'enseigne) et rien ne relie SMART FOOD ou FOOD & SEE à ce franchisé : la décision se prend vraisemblablement dans la holding SMART FOOD, dont le dirigeant reste inconnu ; demander le directeur du restaurant au standard. Vérification : relu sans recherche, aucune personne retenue, note cohérente."
 },
 {
 "rang": 442,
@@ -22238,7 +22339,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
-}
+},
+"note_admin": "Décideurs (27/10/2026) : aucune assistante, comptable ni responsable administratif nommé pour l'Atelier François Pouenat (3 recherches : LinkedIn et web) ; seules apparaissent une offre France Travail de dessinateur chargé d'affaires (septembre 2026) et des pages sur la Maison Pouenat de Moulins, autre entreprise. Interlocuteur : le gérant François Pouenat. Vérification : relu sans recherche, aucune personne retenue, note cohérente."
 },
 {
 "rang": 443,
@@ -22304,7 +22406,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucun DAF, comptable ni assistant(e) nommé pour Généol (profils LinkedIn de techniciens seulement) ; Généol a rejoint le groupe AURIA (avec Smart System Group et GB à Nantes, auria-groupe.com), qui dit laisser à chaque filiale « ses équipes » : la gestion reste probablement locale, sous le directeur général Loïc Panse, avec un contrôle possible au niveau du groupe. Vérification : relu sans recherche, aucune personne retenue, note cohérente."
 },
 {
 "rang": 444,
@@ -22366,7 +22469,20 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/inore-groupe-impression-323326512"
+},
+"contacts_admin": [
+{
+"nom": "Lucie V. (nom non affiché)",
+"fonction": "Responsable administrative et comptable",
+"role": "finance",
+"fiabilite": "confirme",
+"source": "https://www.linkedin.com/in/lucie-v-27745a121/",
+"linkedin": "https://www.linkedin.com/in/lucie-v-27745a121/",
+"tel_direct": null,
+"email": null
 }
+],
+"note_admin": "Décideurs (27/10/2026) : le profil LinkedIn de Lucie V. donne le poste de « Responsable administrative et comptable » chez INORE GROUPE IMPRESSION depuis janvier 2022 (poste actuel), avec une expérience de la paie et des RH : elle tient probablement aussi le social. Catherine Hospital se présente sur LinkedIn comme dirigeante d'Inore (vraisemblablement représentante de la holding LECHAT ET LA SOURIS) : c'est la décideuse finale. Vérification (2 recherches) : le profil LinkedIn de Lucie V. affiche toujours « Responsable administrative et comptable – INORE GROUPE IMPRESSION » (Nevers, poste actuel depuis janvier 2022, assistante administrative dans l'entreprise de 2007 à 2021), « confirmé » maintenu ; Catherine Hospital se présente bien sur LinkedIn comme dirigeante d'Inore et gérante du studio Lechat et la Souris, ce qui conforte son rôle de représentante de la holding présidente."
 },
 {
 "rang": 445,
@@ -22428,7 +22544,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/samicolor-452446586"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : aucun responsable administratif, comptable ou RH nommé pour Samicolor / Groupe SERTIP ; un article LinkedIn sur le rachat de Chimicolor (Clairfield) indique que Guillaume Cocquet dirige SERTIP et SAMI à Varennes-Vauzelles, vraisemblablement pour la holding HOLSER. Un profil « Stéphanie B. – Responsable administrative, RH et comptable » est sorti d'une recherche sur Sertip sans que l'employeur soit visible : non retenu. Vérification (1 recherche) : le profil « Stéphanie B. » n'a pas été retrouvé chez Sertip ou Samicolor (aucune personne administrative, RH ou comptable sortie), il reste écarté ; l'article Clairfield confirme que Guillaume Cocquet dirige SERTIP et SAMI à Varennes-Vauzelles."
 },
 {
 "rang": 446,
@@ -22490,7 +22607,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sertip-ste-detudes-et-de-realisations-techniques-industrielles-et-publicitaires-306809716"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : 3 recherches (LinkedIn Sertip / Samicolor + comptable / assistante de direction / RH, recherche générale « Groupe SERTIP » + directeur / RAF / comptable / RH, LinkedIn « Groupe SERTIP » + directeur général / responsable administrative) : aucun responsable financier, RH ou administratif nommé ; les profils du groupe trouvés sont sans fonction (Jordan Derimais, Raphaël Da Silva, Xavier Charvet) ou commerciaux (Xavier Vita, présenté dans un extrait comme directeur commercial chez HOLSER, la holding présidente), donc non retenus. Le groupe (sites de Nevers, La Roche-sur-Yon et Toulouse, rachat de Chimicolor) décide sans doute au niveau de la holding HOLSER : demander au standard (commun avec Samicolor) le service comptabilité ou administratif. Vérification : relecture sans recherche, aucune personne retenue et note cohérente avec les données (profils sans fonction ou commerciaux écartés à juste titre)."
 },
 {
 "rang": 447,
@@ -22553,7 +22671,20 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/societe-louis-charpenet-429628324"
 },
-"email_a_confirmer": true
+"email_a_confirmer": true,
+"contacts_admin": [
+{
+"nom": "Fabienne BIOJOUX GUILLAUME",
+"fonction": "Assistante administrative et commerciale",
+"role": "administratif",
+"fiabilite": "probable",
+"source": "https://www.linkedin.com/in/fabienne-biojoux-guillaume-4199651a5/",
+"linkedin": "https://www.linkedin.com/in/fabienne-biojoux-guillaume-4199651a5/",
+"tel_direct": null,
+"email": null
+}
+],
+"note_admin": "Décideurs (27/10/2026) : Fabienne Biojoux Guillaume se présente sur LinkedIn comme assistante administrative et commerciale chez Charpenet 1951, et la page LinkedIn de l'entreprise la félicite pour environ trois ans dans ce poste (extraits non datés, d'où « probable ») ; 3 recherches (générale, LinkedIn gérant / responsable, LinkedIn assistante / comptable) n'ont nommé aucun comptable ni RH. Autres noms vus sur LinkedIn, hors rôles recherchés : Rémi Rousset, « Gérant chez Charpenet 1951 » (peut-être la personne derrière HOLDING R.C, non vérifié), et Patrice Mabeau, « Responsable opérationnel » (agence non précisée) ; la décision revient au gérant. Vérification : 1 recherche LinkedIn (nom + fonction) ; la page LinkedIn de l'entreprise Charpenet 1951 nomme toujours Fabienne Biojoux Guillaume comme assistante administrative et commerciale (publication d'anniversaire d'environ trois ans, non datée), rien n'indique un départ ; fiabilité « probable » maintenue, son profil personnel n'est pas ressorti dans les résultats. Rémi Rousset ressort bien comme « Gérant - Charpenet 1951 »."
 },
 {
 "rang": 448,
@@ -22632,7 +22763,8 @@
 "source": "https://www.pappers.fr/entreprise/stdc-dumas-et-colinot-soc-581880382"
 }
 ],
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : 2 recherches (LinkedIn Dumas Colinot Varennes-Vauzelles + comptable / assistante / responsable administratif / RH, recherche générale équipe comptabilité / secrétariat de Dumas-Colinot à Nevers et Decize) : aucune personne administrative ou comptable nommée. Société familiale : la décision revient aux Colinot du registre (François, PDG ; Julien, DG délégué) ; demander au standard la personne qui tient la comptabilité. Vérification : relecture sans recherche, aucune personne retenue, note cohérente avec le registre."
 },
 {
 "rang": 449,
@@ -22694,7 +22826,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/t3c-442587440"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : 3 recherches (générale Transports Sagne / T3C + comptable / assistante / exploitation, LinkedIn Sagne Varennes-Vauzelles, LinkedIn « Transports Sagne et T3C » + assistante / comptable / exploitation) : seuls ressortent Romain Sagne (« Gérant principal chez TRANSPORTS SAGNE », déjà au registre) et un profil de Margaux Millot chez « Transports Sagne et T3C » sans fonction affichée, donc non retenu. Administration probablement commune avec Transports Sagne (même gérant, même adresse) : demander au standard la personne chargée de l'administration ou de la comptabilité. Vérification : relecture sans recherche, aucune personne retenue (Romain Sagne déjà au registre, profil sans fonction écarté), note cohérente."
 },
 {
 "rang": 450,
@@ -22760,7 +22893,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/bkn-817976657"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : 2 recherches (LinkedIn Burger King Marzy / Nevers + directeur / responsable administratif / comptable / RH, recherche sur la holding SERENIUM et le franchisé) : seuls des profils nationaux de Burger King France (RH, opérations) ou d'équipiers sans fonction ressortent, aucun responsable administratif, comptable ni directeur du restaurant de Marzy n'est nommé. Décision chez le franchisé : Maud Belin (DG) et la holding SERENIUM ; le rattachement de BKN au Burger King de Marzy reste à confirmer à l'appel. Vérification : relecture sans recherche, aucune personne retenue, note cohérente (rattachement de BKN au Burger King de Marzy toujours non confirmé)."
 },
 {
 "rang": 451,
@@ -22832,7 +22966,8 @@
 "email": null,
 "source": "https://fusacq.com/buzz/triple-c-rachete-cegeplast-et-elargit-son-positionnement-dans-la-plasturgie-a259067"
 }
-]
+],
+"note_admin": "Décideurs (27/10/2026) : 3 recherches (LinkedIn Cegeplast Nevers + comptable / responsable administratif / RH / directeur de site, recherche générale Triple C + DAF / RAF / directeur de site, LinkedIn Cégéplast + assistante / comptable / directeur) : aucun responsable financier, RH ou administratif nommé ; les profils trouvés (Gilles Charpin, Olinka Pernes chez Cegeplast, Martial Rambaud chez Triple C) n'affichent pas de fonction. Depuis le rachat (mai 2026), la décision financière se prend probablement au siège du groupe Triple C à Gond-Pontouvre (Christophe Aufort), Gilles Charpin restant l'interlocuteur local à confirmer. Vérification : relecture sans recherche, aucune personne retenue (profils sans fonction écartés), note cohérente avec le rachat par Triple C."
 },
 {
 "rang": 452,
@@ -22895,7 +23030,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ponge-materiel-agricole-325843050"
-}
+},
+"note_admin": "Décideurs (27/10/2026) : 3 recherches (LinkedIn Ponge Guipy + comptable / responsable administratif / RH / assistante de direction, recherche générale sur la direction, recherche approfondie usine Ponge + gérant / comptable) : aucun comptable ni responsable administratif ou RH nommé ; la page Présentation de ponge.fr indique que Sébastien Ponge et sa sœur Mélanie Audouard dirigent l'entreprise (5e génération), Réussir les présentant comme gérants, sans préciser qui tient l'administration. Décision au niveau familial (GROUPE PONGE SAS, président) : demander au standard Mélanie Audouard ou Sébastien Ponge, ou la personne qui tient la comptabilité. Vérification : 2 recherches ; la page Présentation de ponge.fr et l'article de Réussir confirment que Sébastien Ponge et sa sœur Mélanie Audouard (5e génération, enfants de Gérard Ponge) dirigent l'entreprise, sans fonction administrative ou financière précisée ; aucun contact à ajouter."
 },
 {
 "rang": 453,
@@ -22957,7 +23093,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sndft-societe-nivernaise-de-debardage-forestier-de-transports-691880389"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : 1 recherche (SNDT transport de bois Saint-Benin-d'Azy + secrétaire / comptable / assistante / responsable) sans aucun résultat lié à l'entreprise. Petite société familiale : la décision revient au gérant Pierre Michel ; demander au standard la personne chargée de l'administration. Vérification : relecture sans recherche, aucune personne retenue, note cohérente."
 },
 {
 "rang": 454,
@@ -23019,7 +23156,8 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/decize-carrelages-493995484"
 },
-"email": null
+"email": null,
+"note_admin": "Décideurs (27/10/2026) : 1 recherche (Decize Carrelages + directeur / comptable / assistante / responsable administratif) et une recherche LinkedIn partagée avec T.3.C (comptée pour T.3.C) : aucune personne nommée, seules ressortent la fiche Xerfi et des offres d'emploi à Decize sans employeur identifié. Décision probablement chez la holding présidente (SOCIETE D'INVESTISSEMENT J.W), dont la personne physique reste inconnue ; demander au standard le responsable administratif ou comptable. Vérification : relecture sans recherche, aucune personne retenue ; la recherche LinkedIn présentée comme partagée avec T.3.C n'apparaît pas dans le détail des recherches de la note de T.3.C (décompte à prendre avec réserve)."
 },
 {
 "rang": 455,
@@ -23081,7 +23219,8 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sas-ambulances-picaut-perrot-805308004"
-}
+},
+"note_admin": "Décideurs (27/10/2026) : 3 recherches (LinkedIn Nohain + responsable / assistante / comptable / RH, LinkedIn « Jussieu Secours Nièvre - Groupe Nohain » + administratif / RH / régulation, recherche générale « Groupe Nohain » + RH / comptable / facturation) : aucune personne nommée avec une fonction administrative, RH ou financière ; une publication du groupe évoque des équipes administratives (RH, facturation, régulation) et une ancienne DRH du groupe (nom non affiché) a annoncé son départ après cinq ans, poste actuel non identifié. Le groupe (Jussieu Secours Nièvre - Groupe Nohain, environ 130 salariés à Cosne, Nevers et Decize, associé à Keolis Santé) décide sans doute au siège du groupe avec le président Thomas Damien. Vérification : relecture sans recherche, aucune personne retenue (ancienne DRH du groupe, partie et non nommée, écartée à juste titre), note cohérente."
 },
 {
 "rang": 456,
