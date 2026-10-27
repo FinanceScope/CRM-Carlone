@@ -1,0 +1,660 @@
+[
+ {
+  "rang": 28,
+  "siren": "300822335",
+  "nom": "ETABLISSEMENTS MARECHAL",
+  "nom_commercial": "Ets Maréchal",
+  "nom_court": "Ets Maréchal (matériel agricole, Donzy)",
+  "ville": "Donzy",
+  "adresse": "Route de la Belle Etoile, 58220 Donzy",
+  "effectif": "50-99 (tranche INSEE 2024 de l'entreprise) ; 48 salariés selon Xerfi",
+  "forme_juridique": "SAS",
+  "decision": "Dans l'entreprise elle-même, à Donzy : SAS familiale indépendante (famille Maréchal, président Claude Maréchal, DG Christophe Maréchal), sans groupe ni holding identifiés.",
+  "dirigeants": [
+   {
+    "nom": "Claude MARECHAL",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Christophe MARECHAL",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Claude Maréchal",
+   "fonction": "Président (SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/300822335"
+  },
+  "contact_finance": {
+   "nom": "Claude Maréchal",
+   "fonction": "Président (SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/300822335"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Christophe Maréchal",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/300822335",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Négoce / location de matériel agricole (NAF 46.61Z), siège à Donzy + 4 autres établissements dont Corbigny ; 48 salariés selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335), qui cite aussi COGEP Audit / Groupe COGEP parmi les mandataires (probablement commissaire aux comptes). Ni téléphone, ni site web, ni responsable comptable/financier trouvés après 5 recherches. Président : Claude Maréchal. 2e passe : 3 recherches (Ets Maréchal Donzy matériel agricole, établissement de Corbigny 15 route de Saint-Saulge, « Belle Etoile » + « 03 86 ») sans numéro ni site ; Xerfi confirme l'établissement de Corbigny (15 route de St Saulge). 2e niveau : premier numéro trouvé : 03 86 39 30 51, donné par plusieurs annuaires pour « Maréchal (Sté) », La Belle Etoile, Donzy (PagesJaunes https://www.pagesjaunes.fr/pros/00382909, 118000 https://www.118000.fr/e_C0002437156, 118712) ; aucun site officiel trouvé pour le confirmer (fiabilité annuaire). Horaires PagesJaunes : lun-ven 8h-18h, sam 8h-12h. Établissements : Donzy (siège), Corbigny (15 route de Saint-Saulge, fiche PagesJaunes « Etablissements Maréchal SA » https://www.pagesjaunes.fr/pros/00382424), Saint-Satur (18), Sermoise-sur-Loire, Torteron (18). Activité : vente, réparation et location de matériel agricole ; marque(s) représentée(s) non identifiée(s). Aucun comptable/RAF trouvé (48 salariés selon Xerfi ; COGEP Audit est vraisemblablement commissaire aux comptes). Dirigeants du registre non contredits (aucune source récente). Au téléphone : demander M. Claude ou Christophe Maréchal et le/la responsable administratif(ve) ou comptable. Vérification : Xerfi cite Christophe Maréchal parmi les dirigeants (fonction DG non précisée par Xerfi, cohérente avec le registre). Recherche nom + Donzy : aucune occurrence (seulement des pages sur la commune et un archéologue homonyme partiel). DG selon le seul registre.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Vente, location, pièces et réparation de matériel agricole.",
+   "groupe": "Indépendante, famille Maréchal",
+   "qui_appeler": "Appeler le siège de Donzy au 03 86 39 30 51 (numéro d'annuaire, à confirmer) et demander M. Claude Maréchal, président, ou M. Christophe Maréchal, directeur général. À défaut, demander le responsable administratif et financier ou la personne chargée de la comptabilité.",
+   "vigilance": [
+    "Le 03 86 39 30 51 vient d'annuaires (PagesJaunes, 118000), sans site officiel pour le confirmer.",
+    "Dirigeants connus seulement par le registre, sans source récente.",
+    "Aucun responsable comptable identifié ; COGEP Audit est vraisemblablement le commissaire aux comptes."
+   ]
+  }
+ },
+ {
+  "rang": 30,
+  "siren": "825065279",
+  "nom": "NEVINO",
+  "nom_commercial": "Intermarché (Nevers)",
+  "nom_court": "Intermarché Hyper Nevers (à confirmer)",
+  "ville": "Nevers",
+  "adresse": "Boulevard Jean Moulin, 58000 Nevers",
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "groupe": "Groupement Les Mousquetaires (Intermarché)",
+  "decision": "Décision prise localement à Nevers par l'adhérent qui possède le magasin (Laurent Pommier, avec son DG Diego Fernandez) : chez Intermarché chaque point de vente appartient à un chef d'entreprise indépendant, le groupement (ITM, Paris) n'intervient pas dans ce type d'achat.",
+  "dirigeants": [
+   {
+    "nom": "Laurent POMMIER",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Diego FERNANDEZ",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent POMMIER",
+   "fonction": "Président de SAS (adhérent Intermarché ; registre, aucune source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/825065279"
+  },
+  "contact_finance": {
+   "nom": "Laurent POMMIER",
+   "fonction": "Président de SAS (aucun RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/825065279"
+  },
+  "note_contacts": "Impossible de savoir quel Intermarché de Nevers exploite NEVINO : aucun Intermarché n'a été trouvé boulevard Jean Moulin. Deux magasins sont référencés. (1) Intermarché Super, 33 boulevard du Pré Plantin : 03 86 93 08 75 (au-magasin.fr, source faible, https://www.au-magasin.fr/58000-nevers/intermarche-11897.html). (2) Intermarché Hyper « Bords de Loire », rue Bernard Palissy : un annuaire donne le 03 86 93 24 00, non vérifié. Faire confirmer le bon numéro avant l'appel. 2e passe : le 03 86 93 08 75 est donné par Cylex pour l'« Intermarché Super Nevers » (dit « Nevers Hôpital »), rue Romain Baron, centre commercial Les Loges, et par au-magasin.fr pour le 33 bd du Pré Plantin : deux annuaires concordants pour le seul Intermarché Super de Nevers (l'autre magasin est l'Hyper « Bords de Loire », rue Bernard Palissy). Le rattachement de NEVINO (adresse bd Jean Moulin, 50-99 salariés) à ce Super reste probable mais non confirmé : demander à l'accueil si le magasin est bien exploité par NEVINO. 2e niveau : changement de standard. Le numéro déjà présent (03 86 93 08 75) est celui de l'Intermarché Super du bd du Pré Plantin / rue Romain Baron, qui est exploité par une autre société, LODILOIRE (SIREN 424455012) : fiche station Zagaz « Intermarché - Super - Nevers - Lodiloire SA » (https://www.zagaz.com/carte.php?id_s=7467) et décision 17-DCC-161 de l'Autorité de la concurrence (Lodiloire exploite un Intermarché de 2 090 m² à Nevers, https://www.autoritedelaconcurrence.fr/sites/default/files/commitments//17DCC161versionpublication.pdf). Par élimination, NEVINO exploite très probablement l'autre magasin, l'Intermarché Hyper du centre commercial des Bords de Loire, 22 rue Bernard Palissy : 03 86 93 24 00 (Cylex et mylpg.eu concordants, annuaires). Hypothèse non confirmée par une source officielle (aucune page intermarche.com dans les résultats) ; une décision 19-DCC-71 (prise de contrôle d'un fonds Intermarché à Nevers par Intermarché Alimentaire International, avril 2019) pourrait concerner ce magasin. Aucune trace en ligne du nom NEVINO ni de L. Pommier ; dirigeants du registre non contredits. 6 recherches utilisées. À l'appel : vérifier que le magasin est bien exploité par NEVINO (sinon essayer le 03 86 93 08 75), demander M. Pommier ou le directeur du magasin, et qui tient la comptabilité (souvent un cabinet ou le pôle de gestion de l'adhérent). Vérification : « Laurent Pommier » + Intermarché Nevers : aucun résultat ne le nomme. Les résultats listent deux Intermarché à Nevers, l'un rue Bernard Palissy (Hyper), l'autre boulevard du Pré Plantin (Super) ; aucun boulevard Jean Moulin. Le magasin exploité par NEVINO reste incertain. Recherche « Diego Fernandez » + Intermarché + Nevers : ac-franchise indique que l'Intermarché de La Machine « est géré par Diego Fernandez » depuis mai (année non précisée), avec son épouse Carole. Le couple est arrivé dans la Nièvre en 2018. Ce magasin dépend d'une autre société (MADELIE, SIREN 391484730, où le CRM le liste déjà), dont le registre n'est pas encore à jour : la reprise est donc récente, et postérieure à son mandat de DG chez NEVINO. Il dirige désormais son propre magasin. Remplaçant chez NEVINO inconnu : demander M. Pommier.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Intermarché à Nevers, très probablement l'Hyper des Bords de Loire (à confirmer).",
+   "groupe": "Indépendante, adhérent Intermarché (Laurent Pommier) ; groupement Les Mousquetaires",
+   "qui_appeler": "Appeler le 03 86 93 24 00 (Intermarché Hyper des Bords de Loire, numéro d'annuaire à confirmer), vérifier que le magasin est bien exploité par NEVINO, puis demander M. Laurent Pommier, président. À défaut, demander le directeur du magasin ou le responsable administratif et financier.",
+   "vigilance": [
+    "Le magasin exploité par NEVINO n'est pas confirmé : le rattachement à l'Hyper des Bords de Loire est déduit par élimination.",
+    "Le 03 86 93 08 75 est celui de l'Intermarché Super exploité par Lodiloire, autre société.",
+    "Diego Fernandez, directeur général au registre, dirige désormais l'Intermarché de La Machine : ne pas le demander.",
+    "Laurent Pommier n'est connu que par le registre."
+   ]
+  }
+ },
+ {
+  "rang": 31,
+  "siren": "631880408",
+  "nom": "BONGARD BAZOT ET FILS",
+  "nom_commercial": "Bongard Bazot et Fils",
+  "nom_court": "Bongard Bazot et Fils (Saint-Péreuse)",
+  "ville": "Saint-Péreuse",
+  "adresse": "1 route des Fontaines, 58110 Saint-Péreuse",
+  "effectif": "100-199",
+  "forme_juridique": "SAS",
+  "groupe": "Famille Bongard-Bazot (groupements forestiers, SCI)",
+  "site_web": "http://www.bongard-bazot.fr",
+  "decision": "Décision prise dans la Nièvre, au siège de Saint-Péreuse, par les familles Bazot et Bongard (président et deux DG) : entreprise familiale indépendante créée en 1963, sans groupe extérieur.",
+  "dirigeants": [
+   {
+    "nom": "Jean-Philippe BAZOT",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eric BAZOT (BONGARD)",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Jean-Luc BONGARD",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Philippe BAZOT",
+   "fonction": "Président de SAS (registre ; aucune source plus récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "contact_finance": {
+   "nom": "Jean-Philippe BAZOT",
+   "fonction": "Président de SAS (aucun DAF/RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eric BAZOT (BONGARD)",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/631880408",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Jean-Luc BONGARD",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/631880408"
+   }
+  ],
+  "note_contacts": "Standard = numéro déjà connu (entrée), non revérifié : les extraits Cylex (https://www.cylex-locale.fr/entreprises/bongard-bazot-et-fils-11307240.html) n'affichaient pas le numéro. Aucun DAF/RAF/comptable trouvé malgré 100-199 salariés. Un dossier ICPE de la préfecture (https://www.nievre.gouv.fr/index.php/contenu/telechargement/6361/71729/file/Dossier_enregistrement_BBF.pdf) situe la scierie à La Machine (route de Decize, 58260). Directeurs généraux au registre : Eric BAZOT (BONGARD) et Jean-Luc BONGARD. 2e niveau : 6 recherches. Standard 03 86 84 40 12 (déjà au CRM) non confirmé : aucune page en ligne ne l'affiche dans les extraits (Cylex et Manageo masquent le numéro derrière « afficher le numéro »). Fiche Cylex mise à jour en avril 2026 (https://www.cylex-locale.fr/entreprises/bongard-bazot-et-fils-11307240.html) : Le Bourg, 58110 Saint-Péreuse, ouvert du lundi au vendredi 8h-12h / 13h30-17h ; sciage de chêne et de Douglas, bois de chauffage, granulés, plaquettes. Communiqué de la préfecture de 2021 (https://www.nievre.gouv.fr/contenu/telechargement/10196/90904/file/210428_dp_mercredi_relance_foret_graines_et_plants.pdf) : entreprise familiale créée en 1963, 113 salariés, environ 20 M€ de CA, exploitation forestière, sciage et travaux ruraux ; scierie à La Machine (route de Decize). Site bongard-bazot.fr signalé par Manageo, non vu dans les résultats. Aucun DAF/RAF ni comptable nommé, aucune offre d'emploi trouvée ; dirigeants du registre non contredits. Une société distincte « Entreprise Jean-Philippe Bazot » (SIREN 405106956) existe à la même adresse. Ne pas confondre avec Bongard (fours de boulangerie, Alsace). À l'appel : confirmer le numéro, demander la personne en charge de la comptabilité / administration (taille 100-199 salariés : probablement un(e) responsable administratif(ve) ou comptable interne) et lequel des dirigeants traite les dons et achats d'œuvres. Vérification : Numéro cherché seul puis avec le nom : introuvable (Cylex et Manageo ne l'affichent pas). Le préfixe 03 86 84 correspond bien au secteur Châtillon-en-Bazois. J.-Ph. Bazot n'apparaît en ligne que comme entrepreneur individuel (sylviculture, Saint-Péreuse) ; aucun départ signalé. Un annuaire d'entreprises le donne PDG de Bongard Bazot et Fils de 2003 au 26/03/2020 (mandat clos) ; rien ne confirme la fonction actuelle de DG. À vérifier au registre avant appel. Résultats : autres membres de la famille Bazot à Saint-Péreuse (Jeanne, Tristan, Fanny, entreprise Jean-Philippe Bazot) et anciens DG non nommés (2004-2017). Aucun Eric Bazot trouvé ; à vérifier avant appel.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Exploitation forestière et scierie (chêne, Douglas), bois de chauffage, granulés et plaquettes.",
+   "groupe": "Indépendante, familles Bazot et Bongard",
+   "qui_appeler": "Appeler le siège de Saint-Péreuse au 03 86 84 40 12 (numéro à confirmer, du lundi au vendredi 8h-12h et 13h30-17h) et demander M. Jean-Philippe Bazot, président. À défaut, demander le responsable administratif et financier ou la personne chargée de la comptabilité.",
+   "vigilance": [
+    "Le 03 86 84 40 12 n'est confirmé par aucune page en ligne.",
+    "Fonctions actuelles des dirigeants à vérifier : un annuaire signale un ancien mandat de PDG clos en 2020, et aucune trace d'Eric Bazot n'a été trouvée en ligne.",
+    "Une autre société, Entreprise Jean-Philippe Bazot, existe à la même adresse : ne pas confondre.",
+    "Ne pas confondre avec Bongard, fabricant de fours de boulangerie en Alsace."
+   ]
+  }
+ },
+ {
+  "rang": 34,
+  "siren": "379437387",
+  "nom": "ETS. BUCHEZ",
+  "nom_commercial": "Buchez",
+  "nom_court": "Ets Buchez, matériel agricole (Corbigny)",
+  "ville": "Corbigny",
+  "adresse": "ZI de l'Orme, 24 route de Marcilly, 58800 Corbigny",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "groupe": "Procurium Investissement",
+  "site_web": "https://www.etsbuchez.com",
+  "decision": "Décision probablement prise par le DG Olivier Dubreuilh, à Corbigny, en lien avec la holding présidente PROCURIUM INVESTISSEMENT (localisation et représentant inconnus) : aucune trace d'un groupe extérieur.",
+  "dirigeants": [
+   {
+    "nom": "PROCURIUM INVESTISSEMENT",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Olivier DUBREUILH",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Olivier DUBREUILH",
+   "fonction": "Directeur Général (la présidence est exercée par la holding PROCURIUM INVESTISSEMENT, dont le représentant n'a pas été identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ets-buchez_379437387"
+  },
+  "contact_finance": {
+   "nom": "Olivier DUBREUILH",
+   "fonction": "Directeur Général (aucun RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/ets-buchez_379437387"
+  },
+  "note_contacts": "Commerce de gros de matériel agricole (NAF 46.61Z). Établissements secondaires à Moulins-Engilbert (route de Châtillon) et Autun (24 rue Nicéphore Niépce) selon Xerfi. Aucun numéro ni site trouvé dans les extraits ; une recherche a été refusée car le nom a été pris pour celui d'un particulier. 2e passe : 3 recherches (concession matériel agricole Corbigny, Ets Buchez + Autun/Moulins-Engilbert, Buchez Corbigny tracteurs) sans numéro ni site, ni marque représentée identifiée ; Xerfi indique négoce et location de matériel agricole, CA 25 M€ en 2024. 2e niveau : 6 recherches (nom + Corbigny, holding Procurium, marques de tracteurs, DG + Buchez, site d'Autun, site de Moulins-Engilbert) sans standard, site web, marque représentée ni contact financier. Confirmé (SIRENE, https://api-avis-situation-sirene.insee.fr/identification/pdf/37943738700010 ; Xerfi) : SAS active depuis 1990, siège ZI de l'Orme / 24 route de Marcilly à Corbigny, commerce de gros de matériel agricole (46.61Z), 20-49 salariés, CA 25 M€ en 2024, capital 20 k€, 3 autres établissements dont Moulins-Engilbert (route de Châtillon, ouvert en 1995) et Autun (rue Nicéphore Niépce). La holding PROCURIUM INVESTISSEMENT n'a aucune présence en ligne ; DG du registre non contredit, aucune source récente. À faire avant l'appel : relever le numéro sur Pages Jaunes (« Buchez Corbigny ») ; à l'appel, demander qui représente la holding (probablement la famille propriétaire), la marque distribuée et qui tient la comptabilité (interne ou cabinet). 2e niveau : 6 recherches (nom + Corbigny, holding Procurium, marques de tracteurs, DG + Buchez, site d'Autun, site de Moulins-Engilbert) sans standard, site web, marque représentée ni contact financier. Confirmé (SIRENE, https://api-avis-situation-sirene.insee.fr/identification/pdf/37943738700010 ; Xerfi) : SAS active depuis 1990, siège ZI de l'Orme / 24 route de Marcilly à Corbigny, commerce de gros de matériel agricole (46.61Z), 20-49 salariés, CA 25 M€ en 2024, capital 20 k€, 3 autres établissements dont Moulins-Engilbert (route de Châtillon, ouvert en 1995) et Autun (rue Nicéphore Niépce). La holding PROCURIUM INVESTISSEMENT n'a aucune présence en ligne ; DG du registre non contredit, aucune source récente. À faire avant l'appel : relever le numéro sur Pages Jaunes (« Buchez Corbigny ») ; à l'appel, demander qui représente la holding (probablement la famille propriétaire), la marque distribuée et qui tient la comptabilité (interne ou cabinet). 3e passe : 5 recherches (adresse 24 route de Marcilly + téléphone, concessionnaire Corbigny / Moulins-Engilbert / Autun, « Ets Buchez » Corbigny, offres de mécanicien agricole, concession ZI de l'Orme + téléphone) sans numéro ni marque représentée. L'offre France Travail 191HVJZ (mécanicien motoculture à Autun, avril 2025) n'est pas attribuable avec certitude à Buchez. Standard toujours manquant. 4e passe (26/10/2026) : site officiel trouvé, etsbuchez.com (« Établissements Buchez - Matériel Agricole dans la Nièvre », concessionnaire Fendt et Valtra). Base de Corbigny, 24 route de Marcilly : 03 86 20 17 38 (aussi sur Pages Jaunes et l'annuaire inversé), lundi-vendredi 8 h-12 h / 14 h-18 h, samedi matin. Autres bases : Moulins-Engilbert, 14 route de Châtillon, 03 86 84 31 33 ; Autun, 24 rue Nicéphore Niépce, 03 85 54 18 23 ; Luzy. Page Facebook « ETS Buchez ». Vérification : Aucun résultat reliant O. Dubreuilh à Buchez ; DG issu du registre seul.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Négoce, location et entretien de matériel agricole (vente, pièces, atelier).",
+   "groupe": "Holding Procurium Investissement (propriétaire à confirmer)",
+   "qui_appeler": "Appeler la base de Corbigny au 03 86 20 17 38 (site officiel etsbuchez.com) et demander Olivier Dubreuilh, directeur général. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité.",
+   "vigilance": [
+    "Concessionnaire Fendt et Valtra selon son site, avec des bases à Moulins-Engilbert, Autun et Luzy : appeler Corbigny, le siège.",
+    "La société est présidée par la holding Procurium Investissement, dont le représentant n'est pas identifié (probablement la famille propriétaire).",
+    "Olivier Dubreuilh ne figure qu'au registre, sans source récente : vérifier qu'il est toujours en poste."
+   ]
+  }
+ },
+ {
+  "rang": 36,
+  "siren": "308530690",
+  "nom": "SUPER MARCHE DES VAUX D YONNE",
+  "nom_commercial": "Atac Corbigny / Maxibrico",
+  "nom_court": "Atac / Auchan Supermarché Corbigny",
+  "ville": "Corbigny",
+  "adresse": "5 avenue du Champ de Foire, 58800 Corbigny",
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "groupe": "Enseigne Atac (groupe Auchan)",
+  "decision": "Probablement dans l'entreprise elle-même, à Corbigny : SAS indépendante tenue par le couple De Matteis (président et directrice générale), exploitant un supermarché sous enseigne Atac/Auchan Supermarché et un magasin Maxibrico ; aucun groupe ou holding extérieur identifié.",
+  "dirigeants": [
+   {
+    "nom": "Dominique DE MATTEIS",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Catherine DE MATTEIS (MOUGNEAU)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS (selon registre ; non confirmé par une source web)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "contact_finance": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Catherine DE MATTEIS (née MOUGNEAU)",
+    "fonction": "Directeur général (selon registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/308530690",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Le standard (déjà connu) est confirmé par l'annuaire Bible-Marques (fiche Atac, 5 place du Champ de Foire). C'est un agrégateur, et l'enseigne Atac est devenue Auchan Supermarché (station 'Auchan Supermarché Corbigny'), donc la fiche est peut-être datée. Le SIRENE rattache aussi un établissement MAXIBRICO au 5 avenue du Champ de Foire. 2e niveau : 6 recherches. Le magasin Atac de Corbigny est désormais référencé sous l'enseigne « Auchan Supermarché CORBIGNY », rue du Champ de Foire (station carburant, https://www.l-itineraire.com/stations_service/corbigny/auchan-supermarche-corbigny) ; aucune fiche officielle Auchan (localisateur de magasins) n'a été trouvée, et le 03 86 20 04 34 n'apparaît que dans l'annuaire Bible-Marques (fiche Atac, 5 place du Champ de Foire) : une recherche du numéro seul n'a rien confirmé, fiabilité annuaire. L'avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/30853069000038) confirme le siège 5 avenue du Champ de Foire, établissement à l'enseigne MAXIBRICO, activité hypermarchés. Aucun numéro trouvé pour Maxibrico Corbigny (au-magasin.fr évoque aussi un Weldom à proximité, lien non établi). Aucune source web ne mentionne les De Matteis : dirigeants issus du registre seul. Pas de site web propre. À l'appel : confirmer que le standard est bien celui du supermarché, demander M. ou Mme De Matteis, et qui tient la comptabilité (en interne ou cabinet). Vérification : Numéro introuvable hors Bible-Marques (source déjà citée), y compris avec « Corbigny ». Le magasin apparaît désormais sous l'enseigne Auchan Supermarché Corbigny, rue du Champ de Foire (https://www.l-itineraire.com/stations_service/corbigny/auchan-supermarche-corbigny, prix juillet 2026) : le numéro de la fiche Atac peut être daté. Aucun résultat pour De Matteis. Aucun résultat reliant Catherine De Matteis à l'Atac de Corbigny.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Supermarché alimentaire (enseigne Atac, désormais Auchan Supermarché) et magasin de bricolage Maxibrico à Corbigny.",
+   "groupe": "Indépendante, famille De Matteis (enseigne Auchan)",
+   "qui_appeler": "Appeler le 03 86 20 04 34 (annuaire, fiche Atac peut-être datée) et demander M. Dominique De Matteis, président, ou Mme Catherine De Matteis, directrice générale. À défaut, demander la personne qui tient la comptabilité ou le responsable administratif et financier.",
+   "vigilance": [
+    "Le 03 86 20 04 34 ne vient que d'un annuaire : vérifier au premier appel qu'il s'agit bien du supermarché.",
+    "Le magasin apparaît désormais sous l'enseigne Auchan Supermarché : vérifier le nom en usage avant de se présenter.",
+    "Les deux dirigeants ne figurent qu'au registre, sans autre source : vérifier qu'ils sont toujours en poste."
+   ]
+  }
+ },
+ {
+  "rang": 39,
+  "siren": "304890817",
+  "nom": "SAGET LA PERRIERE",
+  "nom_commercial": "Saget La Perrière (Guy Saget, La Perrière)",
+  "nom_court": "Saget La Perrière, Pouilly-sur-Loire",
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "La Castille, RN 7, 58150 Pouilly-sur-Loire",
+  "effectif": "50-99",
+  "forme_juridique": "SA à conseil d'administration",
+  "groupe": "Famille Saget (Financière Saget)",
+  "site_web": "https://www.sagetlaperriere.com",
+  "decision": "Décision prise sur place à Pouilly-sur-Loire par la famille Saget (Laurent et Arnaud, via la holding familiale SARL Financière Saget) : maison familiale indépendante, sans groupe extérieur.",
+  "dirigeants": [
+   {
+    "nom": "Laurent Olivier SAGET",
+    "fonction": "Président du conseil d'administration et directeur général"
+   },
+   {
+    "nom": "Arnaud SAGET",
+    "fonction": "Directeur général délégué"
+   },
+   {
+    "nom": "SARL FINANCIERE SAGET",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent Saget",
+   "fonction": "Président du conseil d'administration et directeur général (PDG)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/304890817"
+  },
+  "contact_finance": {
+   "nom": "Laurent Saget",
+   "fonction": "Président du conseil d'administration et directeur général (PDG)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/304890817"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Arnaud Saget",
+    "fonction": "Directeur général délégué (co-dirige la maison avec son frère Laurent)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.hachette-vins.com/guide-vins/producteurs/13774/scea-dom-clos-de-la-perriere"
+   },
+   {
+    "nom": "C. Jacquard",
+    "fonction": "Responsable du traitement des données personnelles (contact RGPD indiqué sur le site)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.sagetlaperriere.com/mentions-legal"
+   }
+  ],
+  "note_contacts": "Maison de vins familiale (50-99 salariés, SA à conseil d'administration, holding SARL Financière Saget) : un responsable financier/comptable est probable mais aucun n'a été trouvé (recherches LinkedIn/DAF sans résultat). Standard confirmé par plusieurs guides vins (Hachette, Le Quotidien du Médecin, Falstaff). Aucun e-mail générique publié trouvé. Directeur général délégué : Arnaud Saget. 2e niveau : standard 03 86 39 57 75 désormais confirmé sur le site officiel (mentions légales, et page « Les Éclaireurs » pour les partenariats) → fiabilité officielle. E-mail générique boutique@sagetlaperriere.com (FAQ, commandes) ; formulaire de contact sur /contactez-nous. Dirigeants inchangés par rapport au registre (Laurent PDG, Arnaud DG délégué ; maison fondée par Jean-Louis Saget, dirigée par ses fils selon Hachette). Aucun DAF/RAF/comptable trouvé (recherches DAF, comptable, contrôleur de gestion, offres France Travail : uniquement postes commerciaux et viticoles). Le site cite un « C. Jacquard » comme responsable du traitement des données : adresse nominative publiée pour les seules demandes RGPD, non reprise ; rôle administratif possible, à vérifier. Au standard : demander qui gère la comptabilité / le service administratif et financier, et passer par l'assistante de Laurent Saget. Le Domaine La Perrière (Sancerre, 02 48 54 16 93) est une entité distincte côté Cher. Vérification : Numéro repris par Falstaff et guides vins. Laurent Saget présenté comme codirigeant de la maison avec son frère Arnaud (Hachette, Vineo) ; titre exact selon registre. Merlin Vignal introuvable hors de la fiche exposant Millésime Bio. Le Guide Hachette des Vins et une offre France Travail de 2025 (187YZTK ou 189QCKL) indiquent que la maison est dirigée par les fils du fondateur, Arnaud et Laurent Saget. Le titre exact de PDG ne vient que du registre. Arnaud Saget co-dirige. 03 86 39 57 75 confirmé par Falstaff, Hachette Vins et Le Quotidien du Médecin (La Castille, Pouilly-sur-Loire). Aucun résultat reliant un(e) Jacquard à Saget La Perrière hors la page de mentions légales citée. VinePair le présente comme 9e génération et « general manager » de Saget La Perrière ; plusieurs sources indiquent que la maison est dirigée par ses fils Arnaud et Laurent. Article non daté précisément, rien de plus récent ne le contredit.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Maison viticole familiale : cinq domaines le long de la Loire et marques La Perrière et Les Eclaireurs (Pouilly-Fumé, Sancerre).",
+   "groupe": "Indépendante, famille Saget (holding SARL Financière Saget)",
+   "qui_appeler": "Appeler le standard 03 86 39 57 75 (site officiel) et demander Laurent Saget, PDG, ou Arnaud Saget, directeur général délégué, au besoin par l'assistante de Laurent Saget. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité.",
+   "vigilance": [
+    "Ne pas confondre avec le Domaine La Perrière de Sancerre (02 48 54 16 93), entité distincte dans le Cher.",
+    "Aucune boutique ouverte au public n'est mentionnée à Pouilly : prévoir plutôt un espace accessible à tous les salariés.",
+    "Aucun responsable financier identifié ; C. Jacquard, nommé sur le site pour les données personnelles, a peut-être un rôle administratif (à vérifier)."
+   ]
+  }
+ },
+ {
+  "rang": 41,
+  "siren": "392607545",
+  "nom": "NOUVELLE IMPRIMERIE LABALLERY",
+  "nom_commercial": "Laballery",
+  "nom_court": "Imprimerie Laballery, Clamecy",
+  "ville": "Clamecy",
+  "adresse": "Zone Industrielle, Allée Louis Blériot",
+  "effectif": "50-99 (85 salariés en 2025)",
+  "forme_juridique": "SCOP SA à conseil d'administration",
+  "site_web": "https://www.laballery.fr",
+  "decision": "Dans l'entreprise elle-même, à Clamecy : SCOP indépendante (capital détenu par les salariés, une voix par associé) dirigée par une PDG élue et un conseil d'administration de salariés ; un achat de ce type passera sans doute par la DG et, selon le montant, par le conseil d'administration.",
+  "dirigeants": [
+   {
+    "nom": "Emilie SAGNELONGE",
+    "fonction": "Présidente du conseil d'administration (BODACC du 12/08/2025) et Directrice générale (BODACC du 27/01/2026)"
+   },
+   {
+    "nom": "Audrey BOUVIER",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Bruno COQUARD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Etienne FEDON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Frédéric FERREIRA",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Pascal PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Sarah PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "David PINON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Erick PITON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Dylan RENAULT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Corinne RICHARD (DAUDET)",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Chrystèle ROUMY (GRALL)",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration (BODACC du 12/08/2025) et Directrice générale (BODACC du 27/01/2026)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "contact_finance": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration et Directrice générale (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "note_contacts": "Standard, e-mail et site déjà connus (entrée), conservés : ils n'ont pas été recontrôlés car les extraits ne les montraient pas. SCOP (SA coopérative à conseil d'administration, environ 85 salariés). Aucun RAF/DAF/comptable trouvé (ni sur LinkedIn, ni dans la presse Livres Hebdo). Les anciens dirigeants cités dans la presse (David Perrain, Hubert Pedurand) sont obsolètes. 2e niveau : 6 recherches. Emilie Sagnelonge n'est citée que dans la liste des dirigeants de Xerfi (https://www.xerfi.com/etudes-par-entreprise/nouvelle-imprimerie-laballery_392607545), sans titre ; ses mandats viennent des BODACC 2025-2026 (registre récent, donc a priori à jour). Aucune presse ni profil public ne la présente. Aucun DAF/RAF/comptable/contrôleur de gestion trouvé (recherches par fonction, LinkedIn, presse). Le standard 03 86 27 55 55, l'e-mail contact@laballery.fr et le site viennent du CRM et n'ont pas pu être reconfirmés sur une page officielle dans les extraits (fiabilité non établie). Contexte : SCOP depuis 1993, environ 84-85 salariés, CA 17 M€ en 2024 (Xerfi) ; a repris l'imprimerie Floch (Mayenne) en 2016 (https://www.livreshebdo.fr/article/laballery-reprend-floch-et-compte-sur-les-editeurs). À l'appel : demander Mme Sagnelonge et le ou la responsable administratif/comptable ; vérifier si la comptabilité est commune avec Floch. Vérification : Ni le 03 86 27 55 55 ni contact@laballery.fr ne ressortent dans les résultats (seulement repris de l'entrée). Aucun résultat pour E. Sagnelonge. Une offre France Travail (https://candidat.francetravail.fr/offres/recherche/detail/189CPJN) cite Sarah Petit (administratrice) comme contact employeur.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Imprimerie de livres pour les éditeurs (offset, numérique, impression à la demande).",
+   "groupe": "Indépendante : SCOP détenue par ses salariés",
+   "qui_appeler": "Appeler le 03 86 27 55 55 (numéro du CRM, à confirmer) et demander Emilie Sagnelonge, présidente-directrice générale, ou Sarah Petit, administratrice, citée comme contact dans une offre d'emploi. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité.",
+   "vigilance": [
+    "Nouvelle direction : Emilie Sagnelonge depuis 2025-2026 ; David Perrain et Hubert Pédurand, cités dans la presse, ne sont plus dirigeants.",
+    "Le 03 86 27 55 55 et contact@laballery.fr n'ont pas été reconfirmés sur une source officielle.",
+    "En SCOP, un achat de ce montant peut devoir passer par le conseil d'administration.",
+    "Investissement « Laballery 3 » en cours (2,92 M€ HT) et bénéfice 2025 en baisse : le moment budgétaire est à vérifier."
+   ]
+  }
+ },
+ {
+  "rang": 42,
+  "siren": "338339146",
+  "nom": "TC 58",
+  "nom_commercial": "TC Transports",
+  "nom_court": "TC Transports (TC 58), Cercy-la-Tour",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 rue de la Guette",
+  "effectif": "50-99 (95 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "groupe": "Holding Cassier",
+  "site_web": "https://www.tc-transports.fr",
+  "decision": "Probablement au niveau de la holding familiale HOLDING CASSIER (famille Cassier, présidée par la SARL CASSIER DÉVELOPPEMENT), qui pilote le groupe TC Transports depuis Cercy-la-Tour (siège indiqué avenue Louis Coudant) et son siège commercial de Digoin (Saône-et-Loire) : TC 58 n'est qu'une des filiales d'un groupe d'environ 700 salariés et 80 M€ de CA consolidé.",
+  "dirigeants": [
+   {
+    "nom": "HOLDING CASSIER",
+    "fonction": "Président (personne morale)"
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (président : HOLDING CASSIER, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "contact_finance": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre-Henri JUHEN",
+    "fonction": "Directeur de l'organisation du groupe TC Transports (interview, date non précisée)",
+    "tel": null,
+    "email": null,
+    "source": "https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "TC Transports est un groupe familial de transport et logistique créé en 1981 : 11 sites en France, plus de 700 salariés selon un dossier préfectoral (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Le site de Cercy-la-Tour fait aussi du tri de pneus (ALIAPUR). Le siège du groupe est indiqué avenue Louis Coudant à Cercy-la-Tour (ContactOut, https://contactout.com/company/TC-TRANSPORTS-6049). Un DAF de groupe existe probablement mais n'a pas été trouvé. Aucun standard trouvé dans les extraits. 2e passe : site du groupe www.tc-transports.fr cité dans une interview d'un dirigeant (https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/ : groupe familial, une dizaine de sites, 700 salariés). Aucun numéro trouvé (3 recherches : nom + Cercy-la-Tour, groupe + siège, site + accueil). Autres entités du groupe : TC 59 à Auby (59), siège commercial ZI Les Mûriers à Digoin (71) selon railmarket.com. 2e niveau : 6 recherches, aucun numéro trouvé (ni pour le 45 rue de la Guette, ni pour le groupe ; le site tc-transports.fr n'apparaît pas dans les extraits). L'avis SIRENE confirme l'établissement « TC TRANSPORTS », 45 rue de la Guette, 58340 Cercy-la-Tour (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023). Selon un dossier ICPE de la préfecture (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf), TC ENVIRONNEMENT appartient au groupe HOLDING CASSIER, dont le président est la SARL CASSIER DÉVELOPPEMENT ; le représentant personne physique (membre de la famille Cassier) n'a pas été identifié. Pierre Racouchot (DG au registre) est aussi DG de POLE SUD-EST (Montpellier) depuis le 12/05/2023 selon verif.com (https://www.verif.com/en/leaders/Pierre-RACOUCHOT-J38747119/) : il s'agit vraisemblablement d'un dirigeant de groupe plutôt que d'un responsable local. Le groupe annonce une douzaine de sites, 700 salariés, 500 moteurs et 80 M€ de CA consolidé (interview de P.-H. Juhen, truckonline). Aucun DAF de groupe trouvé. À l'appel : obtenir le standard du groupe (siège Cercy-la-Tour ou Digoin), demander le DAF ou le service comptable du groupe et le nom du représentant de la holding Cassier. 2e niveau : 6 recherches, aucun numéro trouvé (ni pour le 45 rue de la Guette, ni pour le groupe ; le site tc-transports.fr n'apparaît pas dans les extraits). L'avis SIRENE confirme l'établissement « TC TRANSPORTS », 45 rue de la Guette, 58340 Cercy-la-Tour (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023). Selon un dossier ICPE de la préfecture (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf), TC ENVIRONNEMENT appartient au groupe HOLDING CASSIER, dont le président est la SARL CASSIER DÉVELOPPEMENT ; le représentant personne physique (membre de la famille Cassier) n'a pas été identifié. Pierre Racouchot (DG au registre) est aussi DG de POLE SUD-EST (Montpellier) depuis le 12/05/2023 selon verif.com (https://www.verif.com/en/leaders/Pierre-RACOUCHOT-J38747119/) : il s'agit vraisemblablement d'un dirigeant de groupe plutôt que d'un responsable local. Le groupe annonce une douzaine de sites, 700 salariés, 500 moteurs et 80 M€ de CA consolidé (interview de P.-H. Juhen, truckonline). Aucun DAF de groupe trouvé. À l'appel : obtenir le standard du groupe (siège Cercy-la-Tour ou Digoin), demander le DAF ou le service comptable du groupe et le nom du représentant de la holding Cassier. 3e passe : 5 recherches (« TC Transports » Cercy-la-Tour + téléphone/accueil, site:tc-transports.fr, siège commercial ZI Les Mûriers à Digoin, offres d'emploi France Travail, standard du groupe en 03 8x) : aucun numéro, ni pour le site de Cercy ni pour le groupe sur une source officielle. Seuls éléments : la fiche Railmarket (https://railmarket.com/ap/profile/tc-transports) donne le siège commercial ZI Les Mûriers, 71160 Digoin, sans téléphone ; des offres France Travail de TC-Transports concernent Auby (59) et Aulnat (63), sans numéro du site nivernais. 4e passe (26/10/2026) : numéro de TC 58 (et TC Vrac), ZA de la Guette à Cercy-la-Tour, 03 86 50 57 26, publié sur la page des implantations du groupe TC Transports et par le réseau Tred Union (fiche TC 58, filiale de TC Transports, e-mail contact@tc-transports.fr), aussi sur Pages Jaunes et Waze. TC Services (45 rue de la Guette) : 03 86 50 89 52. Siège indiqué par le site du groupe : ZI Les Mûriers à Digoin (TC 71, 03 85 53 20 24). Vérification : Aucun résultat reliant P. Racouchot à TC Transports ; DG issu du registre seul. Recherche « Pierre-Henri Juhen » + transports : aucun résultat. Seule source : l'interview citée, non datée.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Transport routier de marchandises (courte et longue distance, international), entreposage et location de véhicules.",
+   "groupe": "Groupe familial TC Transports (Holding Cassier, Cercy-la-Tour)",
+   "qui_appeler": "Appeler TC 58 à Cercy-la-Tour au 03 86 50 57 26 (numéro publié par le groupe TC Transports) et demander la direction du groupe : le représentant de la holding Cassier ou le directeur administratif et financier. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "TC 58 n'est qu'une filiale : la décision remonte probablement à la holding Cassier, qui pilote tout le groupe ; éviter d'appeler chaque société séparément.",
+    "Pierre Racouchot, directeur général au registre, dirige aussi une société à Montpellier : sans doute un dirigeant de groupe, pas un responsable local.",
+    "Le représentant de la holding (famille Cassier) n'est pas identifié.",
+    "Si la direction n'est pas à Cercy-la-Tour : le site du groupe situe son siège à Digoin (TC 71, 03 85 53 20 24)."
+   ]
+  }
+ },
+ {
+  "rang": 49,
+  "siren": "350293221",
+  "nom": "PASORI",
+  "nom_commercial": "Centre de Rééducation Fonctionnelle Pasori",
+  "nom_court": "Centre de rééducation Pasori (Cosne)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "9 ter rue Franc-Nohain",
+  "effectif": "200-249 (207 salariés en 2025)",
+  "forme_juridique": "SAS",
+  "site_web": "https://www.pasori.fr",
+  "decision": "Décision probablement prise sur place à Cosne-Cours-sur-Loire par la direction familiale (Frédérique Bordet, présidente, et Pascale Bordet, DG) : établissement privé indépendant, sans groupe ni holding identifiés.",
+  "dirigeants": [
+   {
+    "nom": "Frédérique BORDET",
+    "fonction": "Présidente"
+   },
+   {
+    "nom": "Pascale BORDET",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Frédérique BORDET",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "contact_finance": {
+   "nom": "Frédérique BORDET",
+   "fonction": "Présidente (aucun DAF/RAF ni chef comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/350293221"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pascale BORDET",
+    "fonction": "Directrice générale (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/350293221",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Aucun DAF/RAF ou responsable comptable trouvé malgré la taille (~207 salariés). Fax 03 86 28 77 10 (santeenfrance.fr). Email contact@pasori.fr déjà connu (deja) et repris dans un résumé de recherche sans source précise : source réelle non confirmée. Xerfi cite aussi Agnès Perrot parmi les dirigeants (fonction non précisée) : https://www.xerfi.com/etudes-par-entreprise/pasori_350293221 2e niveau : standard 03 86 28 43 89 et contact@pasori.fr retrouvés uniquement dans des annuaires santé (santeenfrance.fr, etablissementsdesante.fr, koifaire), pas sur une page officielle ; fax 03 86 28 77 10. CRF privé (FINESS 580972008, 99 lits et places, plus de 160 professionnels selon une annonce). Aucune source récente (presse, site, LinkedIn) ne nomme la direction ni un responsable administratif/financier : dirigeants du registre non confirmés mais non contredits ; Agnès Perrot (citée par Xerfi) introuvable. À demander à l'appel : qui de la présidente ou de la DG décide des achats, et nom du responsable administratif et financier ou du comptable de l'établissement. Vérification : Email et téléphone publiés dans les annuaires santé (etablissementsdesante.fr / santeenfrance.fr, cylex) ; pas vus sur pasori.fr lui-même. Les Bordet viennent du registre, sans source web plus récente indiquant un changement. Aucun résultat reliant Pascale Bordet à Pasori ou à Cosne. Seul résultat : une homonyme, costumière de théâtre décédée en 2023, sans rapport. DG selon le seul registre.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Centre de soins médicaux et de réadaptation : rééducation orthopédique, neurologique et après amputation, hospitalisation complète et de jour.",
+   "groupe": "Indépendante, famille Bordet",
+   "qui_appeler": "Appeler le standard au 03 86 28 43 89 et demander Frédérique Bordet, présidente, ou Pascale Bordet, directrice générale. À défaut, demander le responsable administratif et financier ou le comptable de l'établissement.",
+   "vigilance": [
+    "Dirigeantes connues uniquement par le registre : aucune source récente ne nomme la direction.",
+    "Standard et e-mail (contact@pasori.fr) relevés dans des annuaires santé, pas sur le site officiel.",
+    "Xerfi cite aussi Agnès Perrot parmi les dirigeants, sans fonction précisée : à vérifier."
+   ]
+  }
+ },
+ {
+  "rang": 52,
+  "siren": "401453188",
+  "nom": "POPIANE",
+  "nom_commercial": "Intermarché Donzy",
+  "nom_court": "Intermarché Donzy (Popiane)",
+  "ville": "Donzy",
+  "adresse": "1 rue Guy de Jean",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché)",
+  "site_web": "https://www.intermarche.com/magasin?pdvref=01255",
+  "decision": "Décision prise sur place à Donzy par le couple d'adhérents indépendants Thierry et Corinne Thomas (POPIANE SAS) : le magasin est un point de vente indépendant du Groupement Les Mousquetaires, qui ne décide pas des achats de la société.",
+  "dirigeants": [
+   {
+    "nom": "Thierry THOMAS",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Corinne THOMAS (née CHARPIN)",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Thierry Thomas",
+   "fonction": "Président (SAS POPIANE, exploitant de l'Intermarché Super de Donzy)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/401453188"
+  },
+  "contact_finance": {
+   "nom": "Thierry Thomas",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/401453188"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Corinne Thomas",
+    "fonction": "Directrice générale (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/401453188",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Intermarché Super indépendant (20-49 salariés) : pas de responsable financier, le couple dirigeant exploite le magasin (Corinne Thomas, directrice générale). Numéro confirmé uniquement par un agrégateur (coparking.ch) ; PagesJaunes (https://www.pagesjaunes.fr/pros/59482582) rattache l'adresse à POPIANE. 2e niveau : standard 03 86 39 47 28 désormais confirmé sur la page officielle du magasin intermarche.com (infos pratiques, magasin n° 01255 ; ouvert lun.-sam. 8h45-19h30, dim. 9h-12h30) → fiabilité officielle. La station-service attenante est aussi au nom de Popiane SAS (zagaz). Dirigeants : rien de plus récent que le registre (Thierry Thomas président, Corinne Thomas DG) ; aucune presse locale trouvée. Pas de responsable financier attendu à cette taille (20-49 salariés) : comptabilité probablement confiée à un cabinet ou aux services du groupement. Aucun e-mail générique publié. Au standard : demander M. ou Mme Thomas (adhérents) plutôt que le directeur de magasin ; éviter les heures d'affluence (fin d'après-midi, samedi). Vérification : Le 03 86 39 47 28 n'est retrouvé que sur coparking.ch (source déjà citée) ; PagesJaunes ne montre pas le numéro dans les extraits. Thierry Thomas : registre seulement. Aucune trace du 03 86 39 47 28. Le magasin (1 rue Guy de Jean, Donzy ; Intermarché Contact, Popiane SAS selon Zagaz) est confirmé, sans numéro. Aucun résultat nommant Corinne Thomas ; l'Intermarché de Donzy apparaît exploité par la SAS POPIANE (1 rue Guy de Jean).",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Supermarché Intermarché indépendant, avec station-service attenante.",
+   "groupe": "Indépendante, famille Thomas (adhérents du Groupement Les Mousquetaires)",
+   "qui_appeler": "Appeler le magasin au 03 86 39 47 28 et demander M. ou Mme Thomas, les adhérents, plutôt que le directeur de magasin, en évitant la fin d'après-midi et le samedi. À défaut, demander le responsable administratif ou la personne qui suit la comptabilité du magasin.",
+   "vigilance": [
+    "Pas de responsable financier à cette taille : la comptabilité est probablement confiée à un cabinet ou aux services du groupement.",
+    "Dirigeants connus uniquement par le registre."
+   ]
+  }
+ }
+]

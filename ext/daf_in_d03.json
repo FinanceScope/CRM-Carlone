@@ -1,0 +1,578 @@
+[
+ {
+  "rang": 58,
+  "siren": "388806317",
+  "nom": "BONJOUR",
+  "nom_commercial": "Intermarché Decize",
+  "nom_court": "Intermarché Super Decize",
+  "ville": "Decize",
+  "adresse": "107 route de Moulins",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché)",
+  "site_web": "https://www.intermarche.com/magasin?pdvref=08116",
+  "decision": "Décision prise localement par l'adhérent Intermarché (chef d'entreprise indépendant, propriétaire du magasin via sa holding NALOUMY), et non par le Groupement Les Mousquetaires : c'est à lui qu'il faut s'adresser au magasin de Decize.",
+  "dirigeants": [
+   {
+    "nom": "NALOUMY",
+    "fonction": "Président (personne morale, depuis le 01/07/2022)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Anthony PEZANT",
+   "fonction": "Dirigeant présumé de NALOUMY (SIREN 790009658), holding présidente de BONJOUR depuis le 01/07/2022 ; président de BONJOUR en nom propre jusqu'au 27/01/2023 (lien à confirmer)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/388806317",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Anthony PEZANT",
+   "fonction": "Dirigeant présumé de la holding NALOUMY ; aucun comptable ou RAF nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/388806317"
+  },
+  "note_contacts": "Numéro du magasin issu d'un agrégateur (Bonial) : source faible, à confirmer ; la fiche 118000.fr et la page magasin intermarche.com (JS) n'affichent pas le numéro. Lien PEZANT–NALOUMY tiré de la section « Entreprises citées » de Pappers (générée automatiquement) : à confirmer à l'appel. 2e niveau : 6 recherches. Standard 03 86 77 18 90 confirmé par plusieurs annuaires concordants (118000.fr, Bonial, mylpg.eu) pour l'Intermarché Super, 107 route de Moulins, 58300 Decize (lun-sam 8h30-19h30, dim 9h-12h30 selon Bonial) ; la page officielle intermarche.com n'est pas remontée par la recherche, d'où la fiabilité « annuaire ». Aucune source publique (presse, site) ne nomme l'adhérent ou le directeur du magasin : Anthony Pezant et la holding NALOUMY restent introuvables hors registre, le lien vient des « entreprises citées » de Pappers. Pas de comptable identifié : dans le réseau Intermarché, la comptabilité est souvent tenue par le magasin ou un cabinet. À l'appel : demander le chef d'entreprise (adhérent) ou le directeur du magasin, vérifier qu'il s'agit bien d'Anthony Pezant, et demander qui tient la comptabilité. Vérification : Aucune trace d'Anthony Pezant ni de NALOUMY en lien avec l'Intermarché de Decize. Zagaz confirme seulement que le magasin (107 route de Moulins) est exploité par BONJOUR SA.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Supermarché sous enseigne Intermarché",
+   "groupe": "Indépendante, holding NALOUMY (adhérent Intermarché)",
+   "qui_appeler": "Appeler le magasin au 03 86 77 18 90 (numéro d'annuaires concordants, à confirmer) et demander le chef d'entreprise adhérent ou le directeur du magasin, en vérifiant s'il s'agit d'Anthony Pezant. À défaut, demander le responsable administratif ou la personne qui tient la comptabilité.",
+   "vigilance": [
+    "Bénéfice faible et irrégulier : perte en 2023, puis 12,6 K€ en 2024 selon l'actualité, contre 110 035 € dans nos données ; à vérifier avec le comptable.",
+    "Lien entre Anthony Pezant et la holding NALOUMY tiré d'une mention automatique de Pappers : à confirmer.",
+    "Ne pas passer par le Groupement Les Mousquetaires : c'est l'adhérent qui décide.",
+    "Numéro issu d'annuaires, pas de la page officielle Intermarché."
+   ]
+  }
+ },
+ {
+  "rang": 59,
+  "siren": "400674875",
+  "nom": "GMDE CHR BOISSONS",
+  "nom_commercial": "CHR Boissons / Caves du Val d'Or (Cosne)",
+  "nom_court": "CHR Boissons (Decize, dépôt à Cosne)",
+  "ville": "Decize",
+  "adresse": "31 B rue de Caqueret (siège) ; établissements à Cosne : Le Tremblat et 13 place Georges Clemenceau (Caves du Val d'Or)",
+  "effectif": "20-49 (environ 40 salariés selon le site)",
+  "forme_juridique": "SAS",
+  "groupe": "CHR Finances",
+  "site_web": "https://www.chrboissons.com",
+  "decision": "Décision probablement prise dans la holding familiale CHR Finances à Decize (famille Coussement : Frédéric, président de CHR Finances, Paul, DG de la holding), qui préside CHR Boissons depuis novembre 2024.",
+  "dirigeants": [
+   {
+    "nom": "CHR FINANCES",
+    "fonction": "Président (personne morale, depuis le 01/11/2024)"
+   },
+   {
+    "nom": "Frédéric COUSSEMENT",
+    "fonction": "Directeur général (depuis le 16/04/2025)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Frédéric COUSSEMENT",
+   "fonction": "Directeur général (depuis avril 2025 ; président jusqu'au 18/04/2025) ; président de la holding CHR Finances, elle-même présidente de CHR Boissons",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Frederic.COUSSEMENT.263qO-yHG89.html"
+  },
+  "contact_finance": {
+   "nom": "Frédéric COUSSEMENT",
+   "fonction": "Directeur général (aucun DAF/RAF ni comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Frederic.COUSSEMENT.263qO-yHG89.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Paul COUSSEMENT",
+    "fonction": "Directeur général de la holding CHR Finances (depuis avril 2023, selon societe.com)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/Paul.COUSSEMENT.u0vDNmkbYWD.html",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Thomas COUSSEMENT",
+    "fonction": "Mandataire lié à CHR Boissons depuis février 2024 selon societe.com (fonction exacte à confirmer)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/Thomas.COUSSEMENT.3VyFNHyrgpw.html"
+   }
+  ],
+  "note_contacts": "Standard 03 86 25 08 35 déjà connu (deja) mais non retrouvé dans les résultats de recherche (non revérifié). Président = holding CHR FINANCES ; pas de DAF/RAF trouvé (~40 salariés). Aucun numéro trouvé pour les Caves du Val d'Or à Cosne. Societe.com indique que Frédéric Coussement a été président jusqu'au 18/04/2025, cohérent avec son passage à DG. 2e niveau : le standard 03 86 25 08 35 (deja) reste introuvable en ligne (recherche du numéro exact sans résultat, chrboissons.com non indexé) : à vérifier en appelant ; aucun numéro trouvé non plus pour les Caves du Val d'Or à Cosne. SIRENE (avis de situation du 06/10/2025) confirme SAS active depuis 1995, enseigne Caves du Val d'Or à Cosne. Gouvernance familiale : Frédéric Coussement président de CHR Finances depuis 2007, DG de CHR Boissons depuis avril 2025 ; Paul et Thomas Coussement apparaissent comme mandataires (génération suivante probable, rôles à confirmer). Aucun DAF/RAF ni comptable trouvé (~40 salariés, 5 dépôts selon un annuaire). À demander à l'appel : qui gère la comptabilité/finance (en interne ou cabinet), et lequel des Coussement décide. Vérification : Le 03 86 25 08 35 n'apparaît dans aucun résultat (recherche du numéro, du nom et de Decize). Selon societe.com, Frédéric Coussement a démissionné de la présidence le 18/04/2025 et est devenu directeur général. Thomas Coussement n'est plus DG de CHR BOISSONS : il est passé à CHR FINANCES à la même date. Recherche « Paul Coussement » + CHR boissons : aucun résultat ne le cite. Seule source : societe.com, déjà citée.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Grossiste en boissons pour les professionnels CHR, les associations et les particuliers",
+   "groupe": "Holding familiale CHR Finances (famille Coussement, Decize)",
+   "qui_appeler": "Appeler le siège de Decize au 03 86 25 08 35 (non revérifié) ou, à défaut, le dépôt de Cosne au 03 86 24 09 92, et demander Frédéric Coussement, directeur général. S'il est indisponible, demander qui gère la comptabilité ou le responsable administratif et financier.",
+   "vigilance": [
+    "Standard du siège introuvable en ligne : à vérifier ; le numéro de la Cave du Val d'Or (03 86 26 91 63) vient d'une fiche annuaire non officielle.",
+    "Gouvernance changée en 2024-2025 : Thomas Coussement n'est plus directeur général, Frédéric Coussement l'est depuis avril 2025.",
+    "Rôles de Paul et Thomas Coussement dans la holding à préciser : savoir lequel des Coussement décide.",
+    "Siège à Decize, à environ 95 km de Cosne : la présence cosnoise se limite au dépôt du Tremblat et à la cave."
+   ]
+  }
+ },
+ {
+  "rang": 60,
+  "siren": "333222214",
+  "nom": "GEFICCA",
+  "nom_commercial": "GEFICCA (Groupe d'Étude de Fabrication Industrielle de Commercialisation du Caoutchouc)",
+  "nom_court": "GEFICCA Cosne (ZI du Tremblat)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ZI Le Tremblat, 5 allée des Entrepreneurs",
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "groupe": "Geficca Technologies (holding, Cosne-Cours-sur-Loire, présidée par Dominique Froux ; également présidente de SMAC à La Garde – 83, caoutchouc)",
+  "site_web": "https://www.geficca.fr",
+  "decision": "Décision probablement prise à Cosne-Cours-sur-Loire au niveau de la holding GEFICCA TECHNOLOGIES (même adresse), dont Dominique Froux préside le directoire ; les deux DG (V. Desnost, A. Kaichouh) gèrent l'opérationnel.",
+  "dirigeants": [
+   {
+    "nom": "GEFICCA TECHNOLOGIES",
+    "fonction": "Président (personne morale, depuis le 01/01/2024)"
+   },
+   {
+    "nom": "Vincent DESNOST",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Abel KAICHOUH",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Dominique FROUX",
+   "fonction": "Président du directoire de GEFICCA TECHNOLOGIES (holding présidente de GEFICCA depuis le 01/01/2024)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Dominique FROUX",
+   "fonction": "Président du directoire de GEFICCA TECHNOLOGIES (aucun DAF/RAF ni comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/manager/Dominique.FROUX.tnLPiX5CriY.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Vincent DESNOST",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/333222214",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Abel KAICHOUH",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/333222214"
+   }
+  ],
+  "note_contacts": "Standard et email déjà connus (deja) mais non retrouvés dans les résultats de recherche (non revérifiés). Aucun DAF/RAF/comptable trouvé (recherches LinkedIn, Kompass sans résultat ; pas de fiche Kompass). 50-99 salariés, filiale de GEFICCA TECHNOLOGIES. 2e niveau : standard 03 86 39 59 75 retrouvé sur la fiche Usine Nouvelle (annuaire, contacts détaillés réservés aux abonnés), pas sur geficca.fr (non indexé) ; contact@geficca.fr (deja) non retrouvé en ligne. Dominique Froux : président de Geficca Technologies depuis 2013, président du directoire depuis le 12/01/2024 (réorganisation début 2024 : la holding devient présidente de Geficca). Fabricant de pièces techniques moulées en élastomères (OFB, entreprise engagée pour la nature) ; 2 établissements actifs à Cosne. Aucun DAF/RAF/comptable trouvé (une recherche LinkedIn a été refusée par l'outil). À demander à l'appel : nom du responsable administratif et financier (holding ou filiale) et qui de D. Froux ou des DG valide ce type d'achat. Vérification : Standard +33 3 86 39 59 75 confirmé par la fiche L'Usine Nouvelle. contact@geficca.fr ne figure dans aucun résultat. Desnost et Kaichouh : dirigeants du registre, aucune trace de départ. D. Froux : président de GEFICCA TECHNOLOGIES depuis le 14/08/2013, président du directoire depuis le 12/01/2024 (données du registre via societe.com). Seule la fiche Societe.com (source citée) ressort : président de GEFICCA TECHNOLOGIES depuis 2013, président du directoire depuis le 12/01/2024, ancien président du directoire de GEFICCA jusqu'au 02/02/2024. C'est cohérent avec l'affirmation, mais aucune source indépendante ne le confirme. Aucun résultat pour Abel Kaichouh ni lien avec GEFICCA. Société.com (fiche d'un co-mandataire) le relie à GEFICCA Technologies comme membre d'organe de direction, mais avec une période indiquée du 09/10/2013 au 02/02/2024 : le mandat pourrait avoir pris fin en février 2024. Fonction actuelle de DG non établie : à vérifier sur le registre avant tout appel.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Fabrication sur mesure de pièces techniques en caoutchouc moulées et surmoulées",
+   "groupe": "Holding Geficca Technologies (Cosne), présidée par Dominique Froux",
+   "qui_appeler": "Appeler le standard 03 86 39 59 75 et demander Dominique Froux, président du directoire de Geficca Technologies, ou à défaut Vincent Desnost, directeur général (à confirmer). Sinon, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Qui valide ce type d'achat, de Dominique Froux (holding) ou des directeurs généraux, reste à préciser.",
+    "Mandat d'Abel Kaichouh peut-être terminé en février 2024 : ne pas le demander sans vérification.",
+    "Aucun responsable administratif et financier identifié, ni à la holding ni dans la filiale.",
+    "Rôle de Dominique Froux à la tête de la holding connu par une seule source (societe.com) : à confirmer."
+   ]
+  }
+ },
+ {
+  "rang": 61,
+  "siren": "409564481",
+  "nom": "DANIELSON ENGINEERING",
+  "nom_commercial": "Groupe Danielson",
+  "nom_court": "Danielson Engineering (Magny-Cours)",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 58470 Magny-Cours",
+  "effectif": "50-99 (83 salariés en 2024 ; ~130 pour le groupe)",
+  "forme_juridique": "SAS",
+  "groupe": "Groupe Danielson (SIREN 507748283)",
+  "site_web": "https://danielson-groupe.fr",
+  "decision": "Décision probablement prise par la holding GROUPE DANIELSON (SIREN 507748283), présidente de la société et implantée comme elle au Technopôle de Magny-Cours, donc dans la Nièvre ; le président de la holding est l'interlocuteur à viser.",
+  "dirigeants": [
+   {
+    "nom": "GROUPE DANIELSON (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de GROUPE DANIELSON, holding présidente de DANIELSON ENGINEERING (nom repris du CRM, non revérifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Bernard DELAPORTE",
+   "fonction": "Président de GROUPE DANIELSON ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/409564481"
+  },
+  "note_contacts": "Recherche interrompue après une seule requête (aucun DAF/RAF trouvé) : le quota global de recherches web de la session était épuisé. Le nom de B. Delaporte vient de l'entrée (champ interlocuteur) et n'a pas été revérifié ; Pappers indique seulement la personne morale GROUPE DANIELSON comme présidente. Le site et le LinkedIn sont déjà connus. Standard à rechercher, et un DAF de groupe est probable (environ 130 salariés). 2e passe : 3 recherches (nom + Magny-Cours + téléphone, site danielson-groupe.fr + contact, Groupe Danielson + tél.) sans numéro de l'entreprise ; les seuls numéros vus sont ceux du circuit (03 86 21 80 00) et du Pôle de la Performance du Technopôle (03 86 21 22 00, source 2012), non retenus. 2e niveau : 6 recherches. Numéro 03 86 21 88 10 relevé sur la fiche gowork.fr de Danielson Engineering (agrégateur d'avis, Magny-Cours) : seule piste de standard, non confirmée ailleurs (une recherche du numéro seul n'a rien donné), à vérifier à l'appel. Ne pas confondre avec le circuit (03 86 21 80 00). CB Insights décrit l'entreprise comme une société d'ingénierie fondée en 2000, spécialisée dans la conception, la fabrication et la validation de démonstrateurs technologiques pour la mobilité (https://www.cbinsights.com/company/danielson-engineering). Aucune source en ligne ne relie Bernard Delaporte à Danielson : le nom vient du CRM et reste à confirmer ; le registre ne cite que la personne morale GROUPE DANIELSON. Aucun DAF, RAF, comptable ou contrôleur de gestion trouvé (un poste de contrôleur de gestion relevé à Magny-Cours concerne Ligier Automotive, pas Danielson). Un responsable du département moteurs de Danielson apparaît sur rocketreach, sans source professionnelle exploitable. À l'appel : demander le président du groupe (confirmer le nom), puis le responsable administratif et financier du groupe (environ 130 salariés). Vérification : Deux recherches sans aucun lien entre Bernard Delaporte et Danielson : le nom vient seulement du champ interlocuteur de l'entrée (le registre ne donne que la personne morale GROUPE DANIELSON). À vérifier avant appel. Aucun résultat liant Bernard Delaporte à Groupe Danielson / Danielson Engineering (2 recherches).",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Conception, fabrication et mise au point de moteurs et de pièces mécaniques",
+   "groupe": "Groupe Danielson (holding installée à Magny-Cours)",
+   "qui_appeler": "Appeler le 03 86 21 88 10 (relevé sur un agrégateur, à confirmer ; ne pas confondre avec le circuit, 03 86 21 80 00) et demander le président de Groupe Danielson, en vérifiant s'il s'agit de Bernard Delaporte. À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Deux projets de fusion déposés en 2026, de nature non publique : la structure peut changer.",
+    "Exercice 2025 (clos au 30/09/2025) : CA 10,7 M€ (en recul de 13 %), résultat 392 K€ (728 K€ auparavant), d'après la recherche, à confirmer.",
+    "Nom du président de la holding (Bernard Delaporte) non confirmé par le registre ni par une source en ligne.",
+    "Standard tiré d'un seul agrégateur d'avis (gowork.fr) : à vérifier."
+   ]
+  }
+ },
+ {
+  "rang": 62,
+  "siren": "352563084",
+  "nom": "PHARMA DEVELOPPEMENT",
+  "nom_court": "Pharma Développement (Corbigny)",
+  "ville": "Corbigny",
+  "adresse": "ZI, Chemin du Moulin de Marcy, 58800 Corbigny",
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "site_web": "https://www.pharmadeveloppement.com",
+  "decision": "Décision probablement prise par le propriétaire-président Mario Giron, qui a racheté le laboratoire en 2008 et le dirige sans groupe identifié ; il est aussi fondateur de Global Farma, son lieu de résidence (France ou étranger) n'est pas connu, donc vérifier s'il est présent à Corbigny.",
+  "dirigeants": [
+   {
+    "nom": "Mario Junio GIRON",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS (registre) ; propriétaire-dirigeant depuis le rachat du laboratoire en 2008, également fondateur de la société pharmaceutique Global Farma",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pharmashopi.com/pharma-developpement-m-713.html"
+  },
+  "contact_finance": {
+   "nom": "Mario Junio GIRON (Mario Giron)",
+   "fonction": "Président de SAS ; aucun DAF/RAF ni comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/352563084"
+  },
+  "note_contacts": "3 recherches sans standard, email, site ni DAF/RAF. Le laboratoire fabrique des préparations pharmaceutiques liquides et pâteuses (fondé en 1985 selon Pharmashopi). Vidal confirme l'adresse ZI Chemin de Marcy, 58800 Corbigny (https://www.vidal.fr/medicaments/laboratoires/pharma-developpement-687.html), mais sans téléphone dans l'extrait. Le président vient seulement du registre (deja) et n'a pas été revérifié. Avec 50 à 99 salariés, un responsable administratif et financier est probable mais n'a pas été trouvé. À ne pas confondre avec la Pharmacie de l'Anguison (03 86 20 02 49), une pharmacie distincte de Corbigny. 2e passe : 3 recherches (nom + 03 86, adresse Chemin de Marcy, site officiel / façonnier) : aucun numéro, email ni site officiel ; seules les fiches Vidal (adresse ZI Chemin de Marcy, produits Alcaphor, Algesal baume, Plasmarine) et Usine Nouvelle (contacts réservés aux abonnés) apparaissent. 2e niveau : 6 recherches. Le registre est confirmé par des pages de revendeurs (Pharmashopi, Soin et Nature : https://www.soin-et-nature.com/fr/528_pharma-developpement) : laboratoire « dirigé par Mario Giron », qui l'a racheté en 2008 et l'a développé à l'export (États-Unis, Afrique francophone, Irak, Algérie, Thaïlande) ; produit phare Ydrovit (soluté de réhydratation, 2013). Date de création divergente selon les sources (1985 ou 1991). Une notice ANSM (https://ansm.sante.fr/actualites/impression/1899) mentionne une injonction contre l'établissement pharmaceutique de Corbigny, prolongée en 2018 puis levée le 13/03/2019. Aucun standard, email, site officiel ni DAF/RAF trouvé : la fiche Usine Nouvelle a des « contacts par direction » réservés aux abonnés (https://industrie.usinenouvelle.com/fiche/etablissement/pharma-developpement-100919204), et la page Vidal du laboratoire peut afficher un téléphone non visible dans les extraits. Les numéros en 03 86 20 vus à Corbigny sont ceux de pharmacies ou d'un cabinet comptable, non retenus. À l'appel : trouver le numéro via la page Vidal ou le fichier Usine Nouvelle, demander le pharmacien responsable ou le directeur de site, le responsable administratif et financier, et si Mario Giron est présent sur place. 2e niveau : 6 recherches. Le registre est confirmé par des pages de revendeurs (Pharmashopi, Soin et Nature : https://www.soin-et-nature.com/fr/528_pharma-developpement) : laboratoire « dirigé par Mario Giron », qui l'a racheté en 2008 et l'a développé à l'export (États-Unis, Afrique francophone, Irak, Algérie, Thaïlande) ; produit phare Ydrovit (soluté de réhydratation, 2013). Date de création divergente selon les sources (1985 ou 1991). Une notice ANSM (https://ansm.sante.fr/actualites/impression/1899) mentionne une injonction contre l'établissement pharmaceutique de Corbigny, prolongée en 2018 puis levée le 13/03/2019. Aucun standard, email, site officiel ni DAF/RAF trouvé : la fiche Usine Nouvelle a des « contacts par direction » réservés aux abonnés (https://industrie.usinenouvelle.com/fiche/etablissement/pharma-developpement-100919204), et la page Vidal du laboratoire peut afficher un téléphone non visible dans les extraits. Les numéros en 03 86 20 vus à Corbigny sont ceux de pharmacies ou d'un cabinet comptable, non retenus. À l'appel : trouver le numéro via la page Vidal ou le fichier Usine Nouvelle, demander le pharmacien responsable ou le directeur de site, le responsable administratif et financier, et si Mario Giron est présent sur place. 3e passe : 5 recherches (adresse « Moulin de Marcy », fiche Vidal + « Tél », raison sociale + « 03 86 », offres d'emploi, produit Ydrovit + contact) : aucun numéro. Les fiches Vidal (https://www.vidal.fr/parapharmacie/societes/pharma-developpement-687.html) ne montrent que l'adresse « Zone industrielle Chemin de Marcy, 58800 Corbigny » dans les extraits. Une offre de pharmacien assurance qualité en CDI à Corbigny (reprise par la-mairie.com, https://www.la-mairie.com/chitry-les-mines/emploi) indique un service qualité de 16 personnes rattaché à la pharmacienne responsable et à la directrice qualité, sans téléphone. 4e passe (26/10/2026) : site officiel trouvé, pharmadeveloppement.com. Le 03 86 20 21 64 figure sur sa page contact (aussi pour les questions sur les produits, traitées par un pharmacien) et sur Pages Jaunes, Cylex, Infobel et Vidal ; fax 03 86 20 21 69 ; e-mail contact@pharmadeveloppement.com (mentions légales) ; adresse Chemin de Marcy, 58800 Corbigny. Vérification : Aucun résultat reliant M. J. Giron à Pharma Développement ; président issu du registre seul, non contredit.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Laboratoire pharmaceutique fabriquant des médicaments et des compléments",
+   "groupe": "Indépendante, propriétaire-président Mario Giron (sans groupe identifié)",
+   "qui_appeler": "Appeler le 03 86 20 21 64 (site officiel du laboratoire) et demander Mario Giron, président, ou à défaut le directeur de site. Sinon, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Le 03 86 20 21 64 sert aussi aux questions sur les produits (un pharmacien répond) : se présenter et demander la direction. E-mail : contact@pharmadeveloppement.com.",
+    "Mario Giron a aussi fondé Global Farma et son lieu de résidence n'est pas connu : vérifier s'il est présent à Corbigny.",
+    "Ne pas confondre avec la Pharmacie de l'Anguison ni avec les autres numéros en 03 86 20 de Corbigny."
+   ]
+  }
+ },
+ {
+  "rang": 66,
+  "siren": "328162284",
+  "nom": "EVORIAL",
+  "nom_commercial": "Laboratoire de biologie médicale Evorial",
+  "nom_court": "Laboratoires Evorial (Nevers, Cosne)",
+  "ville": "Nevers",
+  "adresse": "37 rue Saint-Martin, 58000 Nevers (site à Cosne-Cours-sur-Loire, rue Croix Janvier)",
+  "effectif": "50-99",
+  "forme_juridique": "SELAS",
+  "site_web": "https://www.evorial.fr",
+  "decision": "Décision probablement prise au siège de la SELAS Evorial à Nevers (37 rue Saint-Martin) par les biologistes associés : laboratoire multisite indépendant (membre du réseau des biologistes indépendants), sans groupe national identifié.",
+  "dirigeants": [
+   {
+    "nom": "David LONG",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Arel DESJARDIN",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Caroline FAURE",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "note_contacts": "OPPOSITION À LA PROSPECTION : uniquement coordonnées société. Aucun nom de décideur trouvé sur le site evorial.fr via les résultats, donc decideur_financier laissé à null (les dirigeants du registre sont dans deja). Standard Nevers issu d'un annuaire COVID (source faible, possiblement ancienne). Site de Cosne (9 rue Croix Janvier) : 03 86 28 04 66 selon https://www.nonsurtaxe.com/covid/centre-de-depistage/pTwglB8dZwgpUQJH- (source faible). Laboratoire multisite : Nevers, Cosne, Decize, Briare, Sully-sur-Loire, Sancoins. 2e niveau — OPPOSITION À LA PROSPECTION : coordonnées société uniquement. Standard Nevers 03 86 61 41 30 retrouvé dans plusieurs annuaires (nonsurtaxe, keskeces), toujours pas sur evorial.fr (les pages labo et contact du site ne montrent pas de numéro dans les extraits ; le contact se fait par e-mail/formulaire : https://evorial.fr/contact.html). Aucun nom de dirigeant ou de biologiste visible sur le site officiel (mentions légales : https://www.evorial.fr/mentions-legales.html, contenu non lisible via la recherche), donc aucun nom retenu. Sites : Nevers, Cosne-Cours-sur-Loire, Decize, Briare, Sully-sur-Loire, Sancoins ; accréditation COFRAC ISO 15189. À l'appel : demander au standard le service administratif/direction du siège de Nevers, sans citer de nom. Vérification : Opposition à la prospection : seul le standard a été vérifié. Le numéro est associé au LBM Evorial Nevers, 37 rue Saint-Martin, dans plusieurs annuaires (nonsurtaxe, keskeces), mais ces sources sont faibles et datent de la période COVID.",
+  "opposition_prospection": true,
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Laboratoires de biologie médicale : analyses pour patients, médecins et établissements de santé",
+   "groupe": "Indépendante, biologistes associés (aucun groupe national identifié)",
+   "qui_appeler": "Contact direct uniquement, pas de mailing (société opposée à la prospection) : appeler le siège de Nevers au 03 86 61 41 30 ou le laboratoire de Cosne au 03 86 28 04 66 (annuaires, à confirmer) et demander la direction ou le service administratif du siège, sans citer de nom d'emblée (au registre : David Long, président depuis août 2026 ; Arel Desjardin et Caroline Faure, directeurs généraux). À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Société opposée à la prospection : contact direct uniquement, aucun mailing ni envoi non sollicité.",
+    "Direction changée en août 2026 (nouveau président et nouveau directeur général) : interlocuteurs à confirmer.",
+    "Numéros issus d'annuaires de la période COVID, absents du site evorial.fr : à vérifier.",
+    "Aucun nom de décideur sur le site officiel : dirigeants connus par le registre seulement."
+   ]
+  }
+ },
+ {
+  "rang": 67,
+  "siren": "403894512",
+  "nom": "VERSTHAN",
+  "nom_commercial": "Bricomarché Varennes-Vauzelles",
+  "nom_court": "Bricomarché Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "2 rue Saint-Exupéry, 58640 Varennes-Vauzelles",
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "groupe": "Groupement Les Mousquetaires (enseigne Bricomarché, adhérent indépendant)",
+  "site_web": "https://www.bricomarche.com/magasin/varennes-vauzelles/01461",
+  "decision": "Décision prise localement par les propriétaires du magasin (Thierry Duquesne, président, et Gaëlle Duquesne, DG), adhérents indépendants du Groupement Les Mousquetaires : le groupement ne décide pas des dépenses de la société d'exploitation.",
+  "dirigeants": [
+   {
+    "nom": "Thierry DUQUESNE",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Gaëlle DUQUESNE",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Thierry DUQUESNE",
+   "fonction": "Président de SAS (registre ; non confirmé par une source en ligne)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/versthan_403894512"
+  },
+  "contact_finance": {
+   "nom": "Thierry DUQUESNE",
+   "fonction": "Président de SAS (registre) ; aucun DAF/RAF ni comptable identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/versthan_403894512"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Gaëlle DUQUESNE",
+    "fonction": "Directrice générale (registre ; Xerfi cite une Gaëlle Desjardins, peut-être la même personne)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/versthan_403894512",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Le standard vient seulement de deja : il n'apparaît dans aucun extrait de recherche (la fiche 118000 https://www.118000.fr/e_C0101250605 a un champ téléphone vide). Il est donc à vérifier. Ne pas confondre avec Brico Dépôt Varennes-Vauzelles (03 86 71 95 50, 1 rue Louise Michel), un autre magasin. Xerfi liste comme dirigeants Thierry Duquesne, Gaëlle Desjardins (peut-être la même personne que Gaëlle Duquesne, DG au registre, à confirmer) et Patrick Wolff (fonction non précisée). Xerfi indique aussi 11 M€ de CA en 2024 et 20 à 49 salariés, contre 50 à 99 dans l'entrée. Magasin Bricomarché ouvert le 29/04/2017. Aucun DAF ou comptable trouvé. 2e niveau : 6 recherches. Standard 03 86 36 00 11 désormais confirmé par la fiche officielle du magasin sur bricomarche.com (2 rue Antoine de Saint-Exupéry, 58640 Varennes-Vauzelles) : fiabilité officielle. L'email du point de vente pdv01461@mousquetaires.com figure dans les données structurées (contactPoint) de cette même fiche officielle (affiché masqué sur la page). Horaires : lundi-samedi 9h-19h (dimanche matin selon une version de la fiche). Ne pas confondre avec Brico Dépôt Varennes-Vauzelles (03 86 71 95 50). Aucune source en ligne ne relie Thierry ni Gaëlle Duquesne au magasin : dirigeants repris du registre/Xerfi seulement (Xerfi cite aussi Patrick Wolff, fonction inconnue). Aucun DAF/RAF ni comptable trouvé (structure de 20 à 99 salariés, comptabilité probablement externalisée). À l'appel : demander M. ou Mme Duquesne (propriétaires) et qui suit la comptabilité/administration du magasin. Vérification : Le 03 86 36 00 11 n'apparaît nulle part (118000 : champ vide) ; source enregistrée nulle, numéro seulement issu de l'entrée. Aucun résultat pour T. Duquesne. Au-magasin.fr situe aussi le Bricomarché rue Henri Bouquillard (https://www.au-magasin.fr/58640-varennes-vauzelles/bricomarche-24407.html). Aucune trace du 03 86 36 00 11. Les annuaires (118000, au-magasin) masquent le numéro ; les adresses diffèrent (2 rue Saint-Exupéry contre rue Henri Bouquillard). Recherche sur la directrice du Bricomarché de Varennes-Vauzelles (Duquesne ou Desjardins) : aucun nom de direction dans les résultats (fiches magasin, offres d'emploi). Le doute Duquesne/Desjardins reste entier.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Magasin de bricolage, jardinage et matériaux sous enseigne Bricomarché",
+   "groupe": "Indépendante (dirigeants Duquesne au registre), adhérent Les Mousquetaires",
+   "qui_appeler": "Appeler le magasin au 03 86 36 00 11 (confirmé par la fiche officielle bricomarche.com) et demander Thierry Duquesne, président, ou Gaëlle Duquesne, directrice générale. À défaut, demander qui suit la comptabilité et l'administration du magasin.",
+   "vigilance": [
+    "Dirigeants connus par le registre seulement ; Xerfi cite une Gaëlle Desjardins, peut-être la même personne que Gaëlle Duquesne : à confirmer.",
+    "Ne pas confondre avec Brico Dépôt Varennes-Vauzelles (03 86 71 95 50), autre magasin.",
+    "Effectif incertain : 50 à 99 salariés au registre, 20 à 49 selon Xerfi."
+   ]
+  }
+ },
+ {
+  "rang": 68,
+  "siren": "479965980",
+  "nom": "SAUVYNA",
+  "nom_commercial": "Intermarché Super Challuy",
+  "nom_court": "Intermarché Super Challuy",
+  "ville": "Challuy",
+  "adresse": "Le Clos Ry, Route de Bourges, 58000 Challuy",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "site_web": "https://www.intermarche.com/magasins/08763/challuy-58000/infos-pratiques",
+  "decision": "Décision prise localement par l'adhérent indépendant propriétaire du magasin (holding FANALONA, présidente de SAUVYNA, et Carole Grillet, DG), et non par le Groupement Les Mousquetaires ; la localisation de la holding n'est pas connue.",
+  "dirigeants": [
+   {
+    "nom": "FANALONA (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Carole GRILLET",
+    "fonction": "Directrice générale"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Carole GRILLET",
+   "fonction": "Directrice générale (registre ; la présidente est la personne morale FANALONA, dont le représentant n'a pas été identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/479965980"
+  },
+  "contact_finance": {
+   "nom": "Carole GRILLET",
+   "fonction": "Directrice générale (registre) ; aucun DAF/RAF ni comptable identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/479965980"
+  },
+  "note_contacts": "Le standard de deja (03 86 37 60 71) est confirmé par un annuaire participatif (au-magasin.fr) : Intermarché Super, Le Clos Ry, route de Bourges, 58000 Challuy, avec une station-service associée. Les 3 recherches n'ont trouvé ni la personne physique derrière la holding FANALONA, ni de lien en ligne entre Carole Grillet et le magasin : les dirigeants viennent seulement du registre (deja). Page du magasin sur intermarche.com non trouvée. Pas de DAF attendu pour 20 à 49 salariés. 2e niveau : 5 recherches. Standard 03 86 37 60 71 désormais confirmé par la page officielle du magasin sur intermarche.com (Intermarché Super Challuy, n° de point de vente 08763, adresse officielle « Le Clos Ry, RN 7, 58000 Challuy ») : fiabilité officielle. Une station-service Intermarché est sur le même site. Aucune source en ligne sur la holding FANALONA (présidente), ni sur SAUVYNA, ni reliant Carole Grillet au magasin : dirigeants repris du registre seulement. Pas d'email générique publié. Aucun DAF/RAF attendu (20 à 49 salariés). À l'appel : demander le directeur ou le propriétaire du magasin (et le nom de la personne qui représente FANALONA), puis qui gère la comptabilité/administration. Vérification : Le 03 86 37 60 71 n'apparaît que sur au-magasin.fr (source enregistrée, participative). Zagaz confirme seulement que la station est exploitée par Sauvyna (Intermarché Super Challuy). Aucun résultat pour Carole Grillet. Coparking et Cylex (annuaires indépendants) donnent tous deux 03 86 37 60 71 pour l'Intermarché Super de Challuy (Le Clos Ry, RN7). Cylex indique une autre adresse (route de Lyon), mais le même numéro.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Supermarché Intermarché avec station-service, route de Bourges à Challuy",
+   "groupe": "Indépendante (holding FANALONA), adhérent Les Mousquetaires",
+   "qui_appeler": "Appeler le magasin au 03 86 37 60 71 (confirmé par la page officielle intermarche.com) et demander Carole Grillet, directrice générale, ou le propriétaire du magasin qui représente la holding FANALONA. À défaut, demander qui gère la comptabilité et l'administration du magasin.",
+   "vigilance": [
+    "La présidente est une holding (FANALONA) dont le représentant et la localisation ne sont pas connus.",
+    "Carole Grillet n'est connue que par le registre : son rôle au magasin est à confirmer.",
+    "Aucun email générique publié : tout passe par le téléphone."
+   ]
+  }
+ },
+ {
+  "rang": 70,
+  "siren": "490935756",
+  "nom": "TEXYS INTERNATIONAL",
+  "nom_commercial": "Texys Group / Texense",
+  "nom_court": "Texys (capteurs Texense), Varennes-Vauzelles",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZA des Chamonds, 16 rue Edouard Branly, 58640 Varennes-Vauzelles",
+  "effectif": "20-49 (42 salariés en 2025)",
+  "forme_juridique": "SASU",
+  "groupe": "Texys Group (Texys HD), allié à FOGALE Sensors depuis décembre 2023",
+  "site_web": "https://www.texysgroup.com",
+  "decision": "Décision probablement prise par la direction de Texys à Varennes-Vauzelles, qui garde son autonomie dans le groupe FOGALE Sensors selon FOGALE, avec un accord possible de FOGALE Sensors (dirigé par Jérôme Porque, siège non confirmé) pour une dépense hors exploitation.",
+  "dirigeants": [
+   {
+    "nom": "TEXYS HD (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Philippe LEUWERS",
+   "fonction": "Directeur général de Texys Group (communiqué du 29/01/2024) ; président de la SAS : TEXYS HD (holding) ; maintien en poste à confirmer",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.vehiculedufutur.com/uploads/images/News-et-opportunites/Texys/20240129_CdP_Texys.pdf",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Philippe LEUWERS",
+   "fonction": "Directeur général de Texys Group (janvier 2024) ; aucun DAF/RAF ni contrôleur de gestion identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.vehiculedufutur.com/uploads/images/News-et-opportunites/Texys/20240129_CdP_Texys.pdf"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jérôme PORQUE",
+    "fonction": "CEO de FOGALE Sensors (groupe auquel Texys appartient depuis décembre 2023)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.ddacompany.com/en/transaction/dda-company-advises-fogale-sensors-on-the-acquisition-of-texys-group/",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Standard repris de deja.telephone, non reconfirmé par une source en ligne (aucun extrait trouvé). Aucun DAF/RAF identifié. Texys a rejoint FOGALE Sensors (groupe formé le 19/12/2023, cession par Isatis Capital) ; CFNews (https://www.cfnews.net/L-actualite/Build-up/Texys-demarre-une-nouvelle-course-469586) indique que l'opération 'offre une sortie à son président' (Philippe Leuwers) : il peut ne plus être en poste, la direction actuelle est peut-être côté FOGALE Sensors. Thermo Est a intégré le groupe fin 2025. Recherche interrompue : quota de recherches web épuisé. 2e niveau : 6 recherches. Standard 03 86 21 27 18 (écrit +33 3 86 212 718) désormais confirmé par le site officiel texysgroup.com (page « Le groupe ») : fiabilité officielle. Email générique contact@texysgroup.com sur le même site ; la marque Texense utilise sales@texense.com (commercial). Mentions légales : second site à Nevers (bâtiment INKUB, rue du 13e de ligne). Le groupe compte environ 50 salariés sur 5 sites (Varennes-Vauzelles, Nevers, Paris, Heidelberg, Indianapolis) et a intégré ThermoEst en décembre 2025. Depuis le 19/12/2023, Texys fait partie de FOGALE Sensors (cession par Isatis Capital, CEO de FOGALE Sensors : Jérôme Porque d'après DDA & Company) ; FOGALE dit que chaque société garde son autonomie. Aucune source récente (2025-2026) sur le dirigeant de Texys : Philippe Leuwers reste à confirmer (CFNews évoquait une « sortie » pour le président lors de l'opération). Aucun DAF/RAF ni contrôleur de gestion trouvé. À l'appel : demander qui dirige aujourd'hui Texys (DG ou directeur de site) et qui gère la finance (sur place ou chez FOGALE Sensors). Vérification : Numéro 03 86 21 27 18 introuvable (recherche du numéro exact + nom/ville). Philippe Leuwers : aucune source indépendante ne le donne comme directeur général ; CFNews (cession à FOGALE Sensors, fin 2023) le présente comme président et dit que l'opération lui 'offre une sortie' ; la note Taylor Wessing de l'entrée d'Isatis (2020, https://www.lemondedudroit.fr/deals/70649-taylor-wessing-conseil-isatis-capital.html) nomme Emmanuel Esnault directeur général. Probablement plus en poste, direction actuelle non identifiée : à vérifier avant appel. Aucune trace de Philippe Leuwers hors du communiqué cité. Un article plus ancien du Monde du Droit (entrée d'Isatis Capital, vers 2018) nomme Emmanuel Esnault directeur général, aux côtés du président-fondateur. C'est antérieur à 2024, donc ce n'est pas une contradiction. Le maintien en poste reste à confirmer. Aucune trace indépendante du 03 86 21 27 18 (2 recherches). Un profil tiers associe Texys Group au SIREN 487817249 (16 rue Edouard Branly), à vérifier par rapport au SIREN retenu. Aucun résultat pour Jérôme Porque + Fogale (seulement des homonymes « Jérôme »). Rôle de CEO de Fogale Sensors non revérifié par une source indépendante.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Conception et fabrication de capteurs (marque Texense) pour la course automobile, l'automobile, l'aéronautique et l'industrie",
+   "groupe": "Texys Group (holding Texys HD), rattaché à FOGALE Sensors depuis décembre 2023",
+   "qui_appeler": "Appeler le standard au 03 86 21 27 18 (confirmé par texysgroup.com) et demander qui dirige aujourd'hui Texys, sans citer d'emblée Philippe Leuwers (directeur général en janvier 2024, probablement plus en poste). À défaut, demander le responsable administratif et financier, sur place ou chez FOGALE Sensors.",
+   "vigilance": [
+    "Philippe Leuwers, directeur général en janvier 2024, n'est probablement plus en poste depuis la cession à FOGALE Sensors fin 2023 : identifier le dirigeant actuel avant de citer un nom.",
+    "Opérations en cours : absorption d'Optel-Texys en 2025, nouveau projet de fusion daté du 30/09/2026 et établissement créé à Fontenay-sous-Bois en octobre 2026.",
+    "Un accord de FOGALE Sensors (dirigé par Jérôme Porque, à confirmer) peut être nécessaire pour une dépense hors exploitation.",
+    "Un profil tiers rattache Texys Group à un autre SIREN (487817249, même adresse) : vérifier quelle société porterait l'achat."
+   ]
+  }
+ },
+ {
+  "rang": 72,
+  "siren": "418048591",
+  "nom": "FOURCHAMB",
+  "nom_commercial": "Intermarché Super Fourchambault",
+  "nom_court": "Intermarché Super Fourchambault",
+  "ville": "Fourchambault",
+  "adresse": "9 rue du 4 Septembre, 58600 Fourchambault",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "site_web": "https://www.intermarche.com/magasin?pdvref=02520",
+  "decision": "Décision prise localement par l'adhérent indépendant propriétaire du magasin (Alain Baillou, président, avec Thomas Kerbourc'h, DG, selon le registre), et non par le Groupement Les Mousquetaires.",
+  "dirigeants": [
+   {
+    "nom": "Alain BAILLOU",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Thomas Aurélien KERBOURC'H",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alain BAILLOU",
+   "fonction": "Président de SAS (registre ; non confirmé par une source en ligne)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/418048591"
+  },
+  "contact_finance": {
+   "nom": "Alain BAILLOU",
+   "fonction": "Président de SAS (registre) ; aucun DAF/RAF ni comptable identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/418048591"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Thomas Aurélien KERBOURC'H",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/418048591",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Standard repris de deja.telephone : aucun extrait de recherche ne l'a confirmé (fiche 118000 https://www.118000.fr/e_C0101982804 confirme le magasin Intermarché SUPER au 9 rue du 4 Septembre mais sans numéro visible). Aucun nom de dirigeant trouvé en ligne : dirigeants repris du registre uniquement. Magasin de 20-49 salariés : pas de DAF attendu, la comptabilité est souvent suivie par le groupement Les Mousquetaires / expert-comptable. 2e niveau : 5 recherches. Standard 03 86 60 99 30 désormais confirmé par la page officielle du magasin sur intermarche.com (Intermarché Super Fourchambault, point de vente 02520, 9 rue du 4 Septembre, « contactez-nous au 0386609930 ») : fiabilité officielle. Station-service attenante 24h/24. Pas d'email générique publié. Une offre France Travail (mise à jour le 21/07/2026) montre que le magasin recrute (rayon PGC), sans nom de responsable. Aucune source en ligne ne relie Alain Baillou ni Thomas Kerbourc'h au magasin : dirigeants repris du registre seulement. Aucun DAF/RAF attendu (20 à 49 salariés). À l'appel : demander le directeur ou propriétaire du magasin (M. Baillou ou M. Kerbourc'h) et qui suit la comptabilité/administration. Vérification : 03 86 60 99 30 introuvable (numéro exact sans résultat ; fiches 118000 et au-magasin.fr du magasin, 9 rue du 4 Septembre, masquent le numéro). Alain Baillou : aucune trace en ligne, dirigeant du registre seulement, aucun indice de départ. Aucune trace du 03 86 60 99 30. Adresse confirmée par Que Choisir et 118000 (9 rue du 4 Septembre, Fourchambault), sans numéro visible. Recherche « Kerbourc'h » + Intermarché + Fourchambault : aucun résultat ne le cite (fiches magasin, offre France Travail de juillet 2026, sans nom). Registre seul.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Supermarché Intermarché avec drive et station-service 24 h/24 à Fourchambault",
+   "groupe": "Indépendante (Alain Baillou), adhérent Les Mousquetaires",
+   "qui_appeler": "Appeler le magasin au 03 86 60 99 30 (confirmé par la page officielle intermarche.com) et demander Alain Baillou, président, ou Thomas Kerbourc'h, directeur général. À défaut, demander qui suit la comptabilité et l'administration du magasin.",
+   "vigilance": [
+    "Dirigeants connus par le registre seulement, sans trace en ligne : vérifier qui est présent au magasin.",
+    "Bénéfice modeste au dernier exercice (73 000 €) : l'intérêt fiscal dépend du résultat de l'année."
+   ]
+  }
+ }
+]

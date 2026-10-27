@@ -1,0 +1,25 @@
+Context. Two to four business partners based in Cosne-Cours-sur-Loire (Nièvre, France) will phone 37 priority companies of the Nièvre to sell them original artworks, with a corporate tax deduction (article 238 bis AB of the CGI) as the argument. The purchase is a finance decision: they want to know, for each company, WHO handles finance — a named finance director (DAF, directeur administratif et financier, RAF, responsable administratif et financier, directeur financier, CFO), or failing that the person in charge of accounting / management control on site (chef comptable, responsable comptable, contrôleur de gestion), or a group finance director when the company belongs to a group that decides centrally. Earlier research already found the managers (dirigeants) and phone numbers; it found almost no finance people. Small family firms and independent supermarket owners (Leclerc, Intermarché, Bricomarché, U) usually have NO finance director: the owner decides and an external chartered accountant keeps the books. Saying so clearly, with what you checked, is a valid and useful result.
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of company records (registry managers in "dirigeants", "contact_dirigeant", any earlier "contact_finance", research notes in "note_contacts", where decisions are taken in "decision", the call card in "fiche").
+
+Search with WebSearch (load it with ToolSearch; WebFetch and curl are blocked). Budget: at most {BUDGET} searches for the whole file. Spend them where a finance person is likely: 1 search for a company under 50 employees (independent shop, small family firm), up to 3 for 50 employees or more, or for a group. Useful queries: "<company> directeur administratif et financier", "<company> DAF", "<company> responsable administratif et financier", "<company> responsable comptable", "<company> contrôleur de gestion", "<group> directeur financier", job offers of the company (they name the finance manager or say who the post reports to), the company's own "équipe" / "qui sommes-nous" page, press articles, public LinkedIn profile titles (as a source for a name and title only).
+
+Rules:
+- Only a person whose role and employer are stated by a published source. Never infer a person from a surname, never guess. The source must be about THIS company (same name AND same town or group): beware of namesakes and of other companies of the same family.
+- Prefer recent sources (2024-2026). If the only source is older than 2023, keep the person but say so in "fonction" and set "a_confirmer": true.
+- Contact details: a direct phone or a nominative e-mail only if published on an official page of the company (never from a LinkedIn profile or a data broker, never guessed from an e-mail pattern). Otherwise null.
+- If "opposition_prospection" is true: name and title only if they appear on the company's own website; no contact details at all.
+- Group finance directors: type "autre", and say in "fonction" that this is the group's DAF and where the group is based.
+
+Output: write valid JSON (UTF-8, indent 1) to <racine du dépôt>/ext/{OUTFILE}: an array, one object per input record, in input order:
+{"siren": "...",
+ "statut_daf": "trouve" (a finance person of this company or its site) | "groupe" (only a group-level finance director) | "aucun" (none found),
+ "decideur_financier": {"nom": "...", "fonction": "exact title as published, + context", "type": "DAF/RAF" | "comptable" | "autre", "tel_direct": null or published, "email": null or published, "linkedin": public profile URL or null, "source": "url", "a_confirmer": true or false} — or null when statut_daf is "aucun",
+ "autres_contacts": [other finance or accounting people found, same keys as above: nom, fonction, tel (null), email (null), source] (empty list if none),
+ "note": one or two French sentences starting with "Recherche du décideur financier (27/10/2026) : " — what was found and from where, or what was searched and that no finance person appears (and, when it is the case, that the dirigeant decides on finance),
+ "recherches": number of searches you used for this company}
+Do not put "standard", "email_generique", "site_web", "dirigeant_principal" or "adresse" in the objects: this pass is only about finance people.
+
+Then check the file with:
+python3 -I -c "import json,sys; d=json.load(open(sys.argv[1])); i=json.load(open(sys.argv[2])); assert [x['siren'] for x in d]==[x['siren'] for x in i]; [print(x['siren'],'statut sans décideur') for x in d if (x['statut_daf']!='aucun')!=bool(x.get('decideur_financier'))]; [print(x['siren'],'note') for x in d if not str(x.get('note','')).startswith('Recherche du décideur financier')]; print(len(d),'fiches,', sum(x.get('recherches',0) for x in d), 'recherches')" <output path> <input path>
+and fix every line it prints. Do not modify any other file.

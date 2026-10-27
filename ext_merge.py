@@ -649,7 +649,7 @@ for c in base + ext:
     if e.get('site_web') and not c.get('site_web'): c['site_web'] = e['site_web']
     df = e.get('decideur_financier') or None
     if isinstance(df, dict) and df.get('nom'):
-        cf = {k: df.get(k) for k in ('nom', 'fonction', 'type', 'tel_direct', 'email', 'linkedin', 'source')}
+        cf = {k: df.get(k) for k in ('nom', 'fonction', 'type', 'tel_direct', 'email', 'linkedin', 'source', 'a_confirmer') if k != 'a_confirmer' or df.get(k)}
         cf['tel_direct'] = clean_tel(cf.get('tel_direct'))
         if c.get('opposition_prospection'): cf['tel_direct'] = cf['email'] = None
         c['contact_finance'] = cf; n_ct['décideur'] += 1

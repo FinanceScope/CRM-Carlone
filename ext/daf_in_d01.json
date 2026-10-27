@@ -1,0 +1,596 @@
+[
+ {
+  "rang": 4,
+  "siren": "301420626",
+  "nom": "TEXTILOT",
+  "nom_commercial": "Textilot / magasins Plus",
+  "nom_court": "Textilot / Plus (Varennes-Vauzelles)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "5 rue Denis Papin, 58640 Varennes-Vauzelles",
+  "effectif": "500-999",
+  "forme_juridique": "SAS",
+  "groupe": "Dumange Family (holding familiale créée en 2023, présidée par Sébastien Dumange)",
+  "site_web": "https://www.textilot.fr",
+  "decision": "Dans la Nièvre, au niveau de la famille Dumange : Textilot est une entreprise familiale fondée en 1974, présidée depuis 2023 par la holding Dumange Family (Sébastien et Delphine Dumange), sans groupe extérieur.",
+  "dirigeants": [
+   {
+    "nom": "DUMANGE FAMILY (personne morale)",
+    "fonction": "Présidente de SAS (depuis le 01/08/2023)"
+   },
+   {
+    "nom": "Sébastien Dumange",
+    "fonction": "Président de Dumange Family, holding présidente de Textilot"
+   },
+   {
+    "nom": "Delphine Dumange",
+    "fonction": "Directrice générale de Dumange Family"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sébastien DUMANGE",
+   "fonction": "Président de Dumange Family, holding présidente de Textilot SAS (présenté comme PDG de Textilot par Kompass)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/301420626"
+  },
+  "contact_finance": {
+   "nom": "Sébastien DUMANGE",
+   "fonction": "Président de Dumange Family, holding présidente de Textilot SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/301420626"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Delphine DUMANGE",
+    "fonction": "Directrice générale de Dumange Family (holding présidente de Textilot)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/301420626",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Standard 03 86 71 62 08 confirmé sur le site (en-tête et mentions légales). L'email de contact des mentions légales est masqué (protection anti-spam), donc non relevé. L'agrégateur zeliq.com liste un poste « Directrice Administrative et Financière » chez Textilot, sans nom (source faible) : un DAF existe probablement, à demander au standard. Dirigeant donné à défaut. 2e niveau : 6 recherches. Registre cohérent avec les annuaires : Kompass présente Sébastien Dumange comme PDG ; everybodywiki, plus ancien (données 2018), cite encore Régis Dumange comme PDG et Sébastien comme directeur général délégué, ce qui est dépassé depuis le passage à la holding en 2023. Aucun DAF, RAF, chef comptable ni contrôleur de gestion nommé publiquement (recherches DAF, comptabilité, LinkedIn sans résultat Textilot) ; la mention « Directrice Administrative et Financière » sans nom (zeliq, 1re passe) reste la seule piste. Les offres France Travail décrivent une entreprise d'environ 550 salariés qui travaille avec plus de 3 200 clients (GMS) en France, Belgique et Luxembourg, et qui exploite des boutiques « Plus ». Standard officiel inchangé (site, mentions légales) ; email des mentions légales masqué, non relevé. Au téléphone : demander le nom de la directrice administrative et financière et si M. Dumange traite lui-même les achats de ce type. Vérification : Deux recherches, numéro introuvable. Kompass donne le siège au 5 rue Denis Papin, 58640 Varennes-Vauzelles, sans téléphone, et cite Sébastien Dumange comme dirigeant. Aucun résultat reliant Delphine Dumange à Textilot / Plus ou à Dumange Family.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Grossiste en prêt-à-porter pour les rayons textile de la grande distribution, et magasins « Plus ».",
+   "groupe": "Indépendante, famille Dumange (holding Dumange Family)",
+   "qui_appeler": "Appeler le standard du siège au 03 86 71 62 08 et demander Sébastien Dumange, président de la holding familiale qui dirige Textilot, ou son secrétariat. À défaut, demander la directrice administrative et financière (poste signalé sans nom, à confirmer) ou le responsable administratif et financier.",
+   "vigilance": [
+    "Exercice 2025 : CA 167 M€, résultat 130 K€ contre 8,98 M€ en 2022, d'après la recherche, à confirmer ; l'intérêt fiscal est à vérifier avec le comptable.",
+    "Le nom de la directrice administrative et financière n'est pas connu (poste signalé par une source faible) : le demander au standard.",
+    "Mêmes décideurs que la holding Dumange Family : un seul appel pour les deux."
+   ]
+  }
+ },
+ {
+  "rang": 10,
+  "siren": "327098364",
+  "nom": "SOC NEVERS DIS",
+  "nom_commercial": "E.Leclerc Nevers (Coulanges-lès-Nevers / Saint-Éloi)",
+  "nom_court": "E.Leclerc Nevers (Coulanges-lès-Nevers)",
+  "ville": "Coulanges-lès-Nevers",
+  "adresse": "Boulevard Beauregard, 58660 Coulanges-lès-Nevers",
+  "effectif": "200-249",
+  "forme_juridique": "SAS",
+  "groupe": "Mouvement E.Leclerc (adhérent) ; holding VANAJEF (SIREN 833243801, Coulanges-lès-Nevers, même dirigeants)",
+  "site_web": "https://www.e.leclerc/mag/e-leclerc-nevers",
+  "decision": "Dans la Nièvre, chez les adhérents Mousset et leur holding VANAJEF (Coulanges-lès-Nevers) : le magasin est un adhérent indépendant E.Leclerc, la centrale nationale n'intervient pas dans ce type d'achat.",
+  "dirigeants": [
+   {
+    "nom": "Jean-François MOUSSET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Nadia MOUSSET (MADAIRE)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-François MOUSSET",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/327098364"
+  },
+  "contact_finance": {
+   "nom": "Jean-François MOUSSET",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/327098364"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Nadia MOUSSET (MADAIRE)",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/327098364",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Numéro confirmé par la page du magasin et par Bonial ; la même ligne est affichée pour l'agence Voyages E.Leclerc (SAS Nevers Dis). Environ 210 à 215 salariés selon les offres d'emploi. Aucun RAF ou responsable comptable nommé publiquement. 2e niveau : 6 recherches. Standard officiel confirmé (page du magasin sur e.leclerc). Les offres d'emploi décrivent le centre E.Leclerc de Nevers : créé en 1983, 210 à 215 salariés, il exploite l'hypermarché de Coulanges, le drive de Nevers (rue des Docks) et l'Express de Saint-Éloi. Aucune source publique (presse, offres, annuaires) ne cite Jean-François ni Nadia Mousset : registre non contredit mais non confirmé. Aucun RAF, chef comptable ni contrôleur de gestion nommé ; aucune offre de poste comptable de ce magasin trouvée. Au téléphone : demander le secrétariat de direction, puis la personne chargée de la comptabilité ou le RAF du centre, et vérifier qui de M. ou Mme Mousset suit les dons et le mécénat. Vérification : Le 03 86 71 84 10 figure aussi sur Bonial pour le magasin du boulevard Beauregard. Aucun résultat ne nomme Jean-François Mousset (président au registre), mais rien ne le contredit. Le 03 86 71 84 10 est confirmé par la page magasin E.Leclerc et par la fiche Bonial (boulevard Beauregard, Coulanges-lès-Nevers). Aucune trace reliant Nadia Mousset au Leclerc de Nevers / Coulanges.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Hypermarché E.Leclerc, avec drive à Nevers et magasin Express à Saint-Éloi.",
+   "groupe": "Indépendant adhérent E.Leclerc, famille Mousset (holding VANAJEF)",
+   "qui_appeler": "Appeler le standard du magasin au 03 86 71 84 10 et demander le secrétariat de direction pour joindre Jean-François Mousset, président, ou Nadia Mousset, directrice générale. À défaut, demander le responsable administratif et financier ou la personne chargée de la comptabilité du centre.",
+   "vigilance": [
+    "Aucune source publique ne relie M. ou Mme Mousset au magasin : dirigeants connus par le registre seulement.",
+    "Mêmes décideurs que la holding VANAJEF : un seul appel pour les deux.",
+    "Le même numéro sert à l'agence Voyages E.Leclerc : préciser qu'on veut la direction du centre."
+   ]
+  }
+ },
+ {
+  "rang": 13,
+  "siren": "334898277",
+  "nom": "CLAMECY DISTRIBUTION",
+  "nom_commercial": "E.Leclerc Clamecy",
+  "nom_court": "E.Leclerc Clamecy",
+  "ville": "Clamecy",
+  "adresse": "2 avenue Saint-Exupéry, 58500 Clamecy",
+  "effectif": "100-199",
+  "forme_juridique": "SAS",
+  "groupe": "Mouvement E.Leclerc (adhérent indépendant)",
+  "site_web": "https://www.e.leclerc/mag/e-leclerc-clamecy",
+  "decision": "À Clamecy, chez l'adhérente qui préside la société : le magasin est un adhérent indépendant E.Leclerc et aucune holding ni groupe extérieur n'apparaît.",
+  "dirigeants": [
+   {
+    "nom": "Letitia BELLANGER",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Letitia BELLANGER",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/334898277"
+  },
+  "contact_finance": {
+   "nom": "Letitia BELLANGER",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/334898277"
+  },
+  "note_contacts": "Le numéro vient d'annuaires (au-magasin.fr, site participatif, et Bonial pour le Drive à la même adresse : https://www.bonial.fr/Magasins/Clamecy/E-Leclerc-Drive-Avenue-Antoine-de-Saint-Exupery/v-f542564339). Source faible : la page officielle e.leclerc du magasin n'est pas ressortie. Environ 120 salariés selon une offre d'emploi. Aucun responsable comptable ni RAF nommé publiquement. 2e niveau : 6 recherches. Standard désormais confirmé sur la page officielle du magasin (e.leclerc/mag/e-leclerc-clamecy, avenue Antoine Saint-Exupéry), le même numéro que les annuaires ; la page n'est pas récente, mais le numéro est cohérent partout. Les offres d'emploi décrivent un centre créé en 2005, 120 salariés, plus de 900 000 clients par an, avec un drive à la même adresse. Aucune source publique ne cite Letitia Bellanger (ni sous la graphie Laetitia) : registre non contredit mais non confirmé. Aucun RAF, chef comptable ni assistante de direction nommé ; aucune offre de poste comptable trouvée. Au téléphone : demander la direction du magasin, puis la personne qui tient la comptabilité ; vérifier si la présidente est aussi la directrice opérationnelle. Vérification : La fiche officielle e.leclerc du magasin indique « avenue Antoine Saint Exupéry, 58500 Clamecy, Tél. : 03.86.27.17.08 ». La copie indexée est ancienne (environ 5 ans), mais les annuaires récents donnent le même numéro. Aucun résultat ne nomme Letitia Bellanger. Aucun annuaire indépendant trouvé pour le numéro 03 86 27 17 08 de l'E.Leclerc Clamecy (2 recherches).",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Hypermarché E.Leclerc avec drive",
+   "groupe": "Adhérent indépendant du Mouvement E.Leclerc",
+   "qui_appeler": "Standard du magasin 03 86 27 17 08 (page officielle E.Leclerc) : demander la direction du magasin et Letitia Bellanger, présidente, puis la personne qui tient la comptabilité. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Letitia Bellanger n'est citée que par le registre : vérifier qu'elle dirige aussi le magasin au quotidien.",
+    "Aucun responsable comptable nommé : demander qui tient la comptabilité, en interne ou chez l'expert-comptable."
+   ]
+  }
+ },
+ {
+  "rang": 15,
+  "siren": "523229268",
+  "nom": "SIMONNEAU AUTOMOBILES",
+  "nom_commercial": "Renault / Dacia Nevers – Simonneau Automobiles",
+  "nom_court": "Renault Dacia Nevers (groupe Simonneau)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZA Les Commailles, 2 rue Léonard de Vinci, 58640 Varennes-Vauzelles",
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "groupe": "Groupe Simonneau (holding Philippe Simonneau Holding, Saint-Doulchard (18), présidée par Philippe Simonneau ; environ 385 salariés et 12 sites selon L'argus, déc. 2020)",
+  "site_web": "https://www.renault-nevers.fr",
+  "decision": "Probablement à la holding familiale Philippe Simonneau Holding (Saint-Doulchard, Cher), qui préside la société et pilote les sites Renault/Dacia du groupe dans la Nièvre et le Cher.",
+  "dirigeants": [
+   {
+    "nom": "PHILIPPE SIMONNEAU HOLDING (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Philippe SIMONNEAU",
+   "fonction": "Dirigeant du groupe Simonneau, président de Philippe Simonneau Holding (présidente de la SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "contact_finance": {
+   "nom": "Philippe SIMONNEAU",
+   "fonction": "Dirigeant du groupe Simonneau, président de Philippe Simonneau Holding (présidente de la SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre SIMONNEAU",
+    "fonction": "Directeur adjoint du groupe (entré en 2018, fils du dirigeant)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Le standard et l'e-mail viennent des données existantes ('deja') ; aucun extrait WebSearch ne les confirme ni ne les contredit, d'où une source nulle. Aucun DAF ou RAF du groupe identifié. Selon BuiltWith, le siège du groupe serait à Saint-Doulchard (18), où la fonction finance est probablement centralisée. 2e niveau : 6 recherches sans résultat nouveau. Ni le standard 03 86 93 00 00 ni l'e-mail contact@groupesimonneau.fr n'apparaissent dans les extraits (ni page renault.fr de la concession de Varennes-Vauzelles, ni site groupesimonneau.fr indexé) : ils restent à confirmer. Philippe Simonneau reste le seul dirigeant nommé (L'argus) ; aucun DAF, RAF, chef comptable ni directeur de concession trouvé. Pappers rattacherait un établissement de la société à Saint-Léger-des-Vignes (Renault Decize, page renault.fr dwsShortName=decize) : vérifier quel site correspond au SIREN. À demander à l'appel : le nom du directeur de la concession de Nevers et du responsable administratif et financier du groupe (probablement au siège de Saint-Doulchard). Vérification : La liste officielle des ateliers Renault donne le +33 3 86 93 00 00 pour « RENAULT NEVERS », 2 rue Léonard de Vinci (adresse de la société). L'e-mail contact@groupesimonneau.fr est introuvable ; BuiltWith rattache le groupe au domaine groupe-simonneau.fr (avec tiret, Saint-Doulchard). Le nom de domaine enregistré est donc douteux : à ne pas utiliser sans vérification. Pour Philippe Simonneau, seul l'article de L'argus déjà cité ressort ; cela reste cohérent avec le registre (Philippe Simonneau Holding présidente), rien de contraire. La recherche ne fait ressortir que l'article L'argus déjà cité, centré sur Philippe Simonneau (dirigeant du groupe). Aucune trace indépendante de Pierre Simonneau ni de son poste de directeur adjoint.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Concession Renault et Dacia (vente et atelier)",
+   "groupe": "Groupe familial Simonneau (holding à Saint-Doulchard, Cher)",
+   "qui_appeler": "Standard de la concession 03 86 93 00 00 (liste officielle Renault) : demander le nom du directeur de la concession, puis Philippe Simonneau, dirigeant du groupe. À défaut, demander le responsable administratif et financier du groupe, probablement au siège de Saint-Doulchard.",
+   "vigilance": [
+    "Décision probablement prise à la holding familiale de Saint-Doulchard (Cher), pas à Nevers.",
+    "Ne pas utiliser l'e-mail contact@groupesimonneau.fr, introuvable (le domaine du groupe serait groupe-simonneau.fr).",
+    "Pierre Simonneau était directeur adjoint du groupe en 2020 : fonction actuelle non confirmée."
+   ]
+  }
+ },
+ {
+  "rang": 16,
+  "siren": "422593491",
+  "nom": "TOYOTA CONCES NEVERS CENTRAL PARC AUTOMOBILE",
+  "nom_commercial": "Toyota Nevers / Central Parc Automobile",
+  "nom_court": "Toyota Nevers (groupe Vincent)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "1 route de Paris, 58640 Varennes-Vauzelles",
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "groupe": "Groupe Vincent",
+  "site_web": "https://www.groupevincent.fr",
+  "decision": "Probablement chez Rodolphe Vincent, à la tête du groupe Vincent (environ 16 concessions Peugeot, Citroën/DS et Toyota dans la Nièvre, le Cher, l'Allier et le Loiret) : groupe familial régional, dont le berceau est Nevers depuis 2011, sans siège extérieur identifié.",
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS, dirigeant du groupe Vincent",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/422593491"
+  },
+  "contact_finance": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS, dirigeant du groupe Vincent",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/422593491"
+  },
+  "note_contacts": "Le numéro et l'e-mail viennent de la fiche officielle du concessionnaire sur toyota.fr (fax 03 86 71 69 09). Société (CPA) rattachée au groupe Vincent de Rodolphe Vincent (concessions Toyota ; rachat d'un site Citroën/DS dans le Cher selon journalauto.com). Aucun DAF ou responsable comptable du groupe identifié. 2e niveau : standard 03 86 71 69 00 et e-mail cpa@groupevincent.fr confirmés par la fiche officielle Toyota France de Central Parc Automobile (fax 03 86 71 69 09). Rodolphe Vincent, président selon le registre, est aussi présenté comme le patron du groupe par Journal de l'Automobile (articles 2013-2019 : environ 170 M€ de CA et 367 salariés en 2018). Aucune source plus récente que 2019, et aucun DAF, chef comptable, contrôleur de gestion ni directeur de concession trouvé (recherches presse, LinkedIn et offres d'emploi). À demander au standard : le nom du directeur de la concession Toyota de Nevers et celui du responsable administratif et financier du groupe, ainsi que la ville où il travaille (Nevers ou Bourges/Saint-Doulchard). Vérification : Le téléphone et l'e-mail sont repris par d'autres pages du site officiel Toyota (réseau), et non par une source tierce. Une recherche sur cpa@groupevincent.fr seul ne donne rien d'autre ; BuiltWith situe bien groupevincent.fr à Varennes-Vauzelles. Le Journal de l'Automobile (2016) indique que la société CPA de Rodolphe Vincent exploite la concession Toyota de la Nièvre. Le 03 86 71 69 00 n'apparaît que sur toyota.fr (la source citée ; fax 03 86 71 69 09, mail cpa@groupevincent.fr). Un annuaire (justacote) confirme la concession au 1 route de Paris, mais pas le numéro. Une fiche Mappy indique « fermé » : à revérifier.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Concession Toyota (vente et après-vente)",
+   "groupe": "Groupe familial Vincent (Rodolphe Vincent, berceau à Nevers)",
+   "qui_appeler": "Standard de la concession 03 86 71 69 00 (fiche officielle Toyota) : demander Rodolphe Vincent, président, ou le directeur de la concession. À défaut, demander le responsable administratif et financier du groupe.",
+   "vigilance": [
+    "Une fiche Mappy indique la concession « fermée » : vérifier en début d'appel que le site du 1 route de Paris est bien actif.",
+    "Aucun responsable financier connu et sources sur le groupe antérieures à 2019 : demander s'il travaille à Nevers ou à Bourges/Saint-Doulchard."
+   ]
+  }
+ },
+ {
+  "rang": 18,
+  "siren": "507757672",
+  "nom": "DECIZE DISTRIBUTION",
+  "nom_commercial": "E.Leclerc Decize",
+  "nom_court": "E.Leclerc Decize",
+  "ville": "Decize",
+  "adresse": "Route de Champvert, 58300 Decize",
+  "effectif": "100-199",
+  "forme_juridique": "SAS",
+  "groupe": "Mouvement E.Leclerc (adhérent indépendant)",
+  "decision": "Sur place à Decize : magasin d'un adhérent indépendant E.Leclerc, dirigé par le couple Martin (président et directrice générale), qui décide seul de ses achats hors centrale.",
+  "dirigeants": [
+   {
+    "nom": "Jean-François MARTIN",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Laetitia MARTIN (GAGNE)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-François MARTIN",
+   "fonction": "Président de SAS (adhérent E.Leclerc)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/507757672"
+  },
+  "contact_finance": {
+   "nom": "Jean-François MARTIN",
+   "fonction": "Président de SAS (adhérent E.Leclerc)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/507757672"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Laetitia MARTIN (GAGNE)",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/507757672",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Le numéro ne figure que sur Custplace, un agrégateur d'avis : source faible, non recoupée, la page officielle e.leclerc n'étant pas ressortie. Environ 90 salariés et centre créé en 1988 selon une offre Wizbii (https://www.wizbii.com/company/leclerc/job/secretaire-comptable-h-f-1171). Aucun responsable comptable nommé ; l'offre de secrétaire comptable laisse penser que la comptabilité est gérée en interne. 2e niveau : 6 recherches. Le 03 86 25 50 00 n'apparaît toujours que sur Custplace (annuaire d'avis), la page officielle e.leclerc du magasin n'est pas indexée : à confirmer au premier appel. Aucune source récente (presse locale, LinkedIn) ne confirme ni ne contredit le registre (Jean-François Martin président, Laetitia Martin directrice générale). Aucun responsable comptable nommé ; l'offre Wizbii de secrétaire comptable montre une comptabilité tenue sur place (environ 90 salariés, centre créé en 1988). La station-service porte le nom « Leclerc DECIZE DISTRIBUTION » (l-itineraire.com), ce qui confirme la raison sociale du site. À demander à l'accueil : le nom de la personne chargée de la comptabilité et le créneau pour joindre M. ou Mme Martin. Vérification : Deux recherches n'ont fait ressortir le 03 86 25 50 00 que sur Custplace, la source déjà citée. Aucune page officielle e.leclerc ni aucun autre annuaire ne le reprend. Aucun résultat ne nomme Jean-François Martin. Recherche « Laetitia Martin » + Leclerc + Decize : aucun résultat ne la cite (fiches du magasin seulement). Registre seul.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Hypermarché E.Leclerc avec station-service, drive et Leclerc Sports",
+   "groupe": "Adhérent indépendant du Mouvement E.Leclerc (famille Martin)",
+   "qui_appeler": "Standard 03 86 25 50 00, à confirmer au premier appel : demander M. Jean-François Martin, président, ou Mme Laetitia Martin, directrice générale, et à l'accueil le nom de la personne chargée de la comptabilité. À défaut, demander le responsable administratif et financier.",
+   "vigilance": [
+    "Le 03 86 25 50 00 ne figure que sur Custplace, un site d'avis : confirmer qu'il s'agit bien du magasin.",
+    "Dirigeants connus par le seul registre : vérifier qu'ils sont toujours en place."
+   ]
+  }
+ },
+ {
+  "rang": 21,
+  "siren": "530572775",
+  "nom": "NEXSON GROUP - INDUSTRY",
+  "nom_commercial": "Nexson Group",
+  "nom_court": "Nexson Group, Garchizy",
+  "ville": "Garchizy",
+  "adresse": "685 rue Jules Verne, 58600 Garchizy",
+  "effectif": "100-199 (131 salariés selon L'industrie recrute)",
+  "forme_juridique": "SAS",
+  "groupe": "Nexson Group (Nexson Corporation)",
+  "site_web": "https://www.nexson-group.com",
+  "decision": "Probablement au niveau de la holding Nexson Corporation (SIREN 891083107), présidente de la société depuis septembre 2025, donc à la direction du groupe à Garchizy, où se trouve le siège industriel.",
+  "dirigeants": [
+   {
+    "nom": "NEXSON CORPORATION (personne morale, SIREN 891083107)",
+    "fonction": "Président de SAS (depuis le 01/09/2025, en remplacement de Charles Bonnafous)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025, remplacé par la personne morale Nexson Corporation)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/530572775",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/530572775"
+  },
+  "note_contacts": "Le standard et l'e-mail viennent des données existantes ('deja') ; aucun extrait WebSearch ne les confirme ni ne les contredit. Depuis le 01/09/2025, la présidente de la société est la personne morale Nexson Corporation, en remplacement de Charles Bonnafous ; son rôle actuel de CEO du groupe est à reconfirmer. Groupe en croissance externe (rachat de l'allemand Thermowave en 2024) : un DAF existe probablement mais n'a pas été trouvé via WebSearch. 2e niveau : 6 recherches. Seuls les éléments d'activité sont confirmés (échangeurs de chaleur et appareils à pression, 685 rue Jules Verne à Garchizy ; rachat de l'allemand Thermowave, filiale d'A-Heat, en mars 2024, qui reste une entité autonome). Aucun extrait ne nomme le dirigeant actuel : le communiqué Thermowave ne cite aucun CEO, et aucune source ne relie Charles Bonnafous à Nexson Corporation. Son rôle actuel reste donc à confirmer, tout comme l'identité de la personne qui préside la holding. Le standard 03 86 60 13 04 et l'e-mail contact@nexson-group.com (données existantes) ne sont confirmés par aucun extrait, faute de page contact indexée. Aucun DAF ni contrôleur de gestion trouvé, alors qu'un groupe de cette taille (environ 31 M€ de CA, filiale allemande) en a très probablement un. À demander au standard : qui dirige aujourd'hui Nexson Group et le nom du directeur administratif et financier. Vérification : Ni le 03 86 60 13 04 ni contact@nexson-group.com ne ressortent : seuls l'adresse du 685 rue Jules Verne à Garchizy (salons, PitchBook) et un numéro incomplet apparaissent. Aucun résultat ne relie Charles Bonnafous à Nexson. Le titre « Fondateur et CEO » vient des données existantes et non de Pappers, qui indique Nexson Corporation présidente depuis le 01/09/2025. Deux recherches (nom + Nexson, Nexson + Nevers/Garchizy) : aucune trace indépendante de Charles Bonnafous chez Nexson Group.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Conception et fabrication d'échangeurs de chaleur sur mesure, à environ 98 % pour l'export",
+   "groupe": "Nexson Group (holding Nexson Corporation, présidente depuis 2025)",
+   "qui_appeler": "Standard 03 86 60 13 04, à confirmer : demander qui dirige aujourd'hui le groupe (Charles Bonnafous en était président jusqu'en septembre 2025, rôle actuel à confirmer). À défaut, demander le directeur administratif et financier.",
+   "vigilance": [
+    "Depuis le 01/09/2025, la présidente est la holding Nexson Corporation : le rôle actuel de Charles Bonnafous est à confirmer.",
+    "Standard et e-mail contact@nexson-group.com non confirmés par une source en ligne.",
+    "Exercice clos au 31 mars : CA de 26,8 M€ au 31/03/2025 contre 31,4 M€ un an plus tôt, bénéfice de 1,8 M€."
+   ]
+  }
+ },
+ {
+  "rang": 23,
+  "siren": "483276820",
+  "nom": "LIGIER AUTOMOTIVE",
+  "nom_commercial": "Ligier Automotive",
+  "nom_court": "Ligier Automotive (Magny-Cours)",
+  "ville": "Magny-Cours",
+  "adresse": "Technopole, 8 rue du Champ de Magny, 58470 Magny-Cours",
+  "effectif": "50-99",
+  "forme_juridique": "SAS",
+  "groupe": "Ligier (filiale Ligier Advanced Technologies, ex-Mygale)",
+  "site_web": "https://ligierautomotive.com",
+  "decision": "Décision prise à Magny-Cours, siège de Ligier Automotive, par la famille Nicolet (Jacques, président fondateur, et Pierre, DG) : société indépendante qui pilote elle-même ses filiales d'Amilly et des États-Unis, avec un comité de direction local auquel siège le DAF.",
+  "dirigeants": [
+   {
+    "nom": "Jacques NICOLET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Pierre NICOLET",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jacques NICOLET",
+   "fonction": "Président (fondateur ; actionnaire majoritaire de Mygale / Ligier Advanced Technologies depuis fin 2024)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ligierautomotive.com/en/news/ligier-automotive-becomes-majority-shareholder-of-mygale-ushering-in-a-new-era-for-french-formula-racing/"
+  },
+  "contact_finance": {
+   "nom": "Jacques NICOLET",
+   "fonction": "Président (aucun DAF nommé trouvé ; poste de DAF créé en 2025, rattaché au DG Pierre Nicolet)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ligierautomotive.com/wp-content/uploads/2025/02/2025-offre-demploi-directeur-administratif-et-financier-h-f.pdf"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre NICOLET",
+    "fonction": "Directeur Général (CEO)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/ligier-automotive_483276820"
+   }
+  ],
+  "note_contacts": "En février 2025, Ligier Automotive a publié une offre de directeur administratif et financier (CDI, poste créé, basé à Magny-Cours, rattaché au DG, chargé aussi des filiales d'Amilly et des États-Unis, candidatures jusqu'au 30/06/2025) : https://ligierautomotive.com/wp-content/uploads/2025/02/2025-offre-demploi-directeur-administratif-et-financier-h-f.pdf. Un DAF est donc probablement en poste, mais son nom n'est pas apparu dans les résultats : à demander à l'accueil. Aucun téléphone trouvé dans les extraits. Adresse : Technopole, 8 rue du Champ de Magny, Magny-Cours. 2e passe : pas de numéro trouvé (les 03 86 21 xx xx du Technopôle relevés dans un document de 2012 sont ceux du circuit et du Pôle de la Performance, non retenus) ; e-mail commercial sales@ligierautomotive.com publié sur le site Ligier (actualité Ligier Days, 2021). Ligier est actionnaire majoritaire de Mygale depuis fin 2024, également installée au Technopôle. 2e niveau : 6 recherches (DAF, CFO/LinkedIn, téléphone 03 86, +33 3 86, Pages Jaunes, page « présence internationale ») sans aucun numéro de standard publié : le site ne montre pas de téléphone dans les extraits ; les numéros du Technopôle (circuit, Pôle de la Performance) ne sont pas ceux de Ligier. Dirigeants inchangés par rapport au registre (Jacques Nicolet président, confirmé par le communiqué Mygale de décembre 2024 ; Pierre Nicolet DG/CEO). Le poste de DAF (création, CDI, Magny-Cours, rattaché au DG, membre du comité de direction, candidatures jusqu'au 30/06/2025) est probablement pourvu, mais aucun nom n'apparaît. Un article professionnel de 2025 citerait Richard Tur comme COO (non vérifié). Adresse de recrutement publiée : recrutement@ligierautomotive.com (non commerciale). Attention : ne pas confondre avec Ligier Group (voiturettes, Abrest, Allier). À l'appel (numéro à obtenir via le Technopôle ou le formulaire du site) : demander le nom du DAF arrivé en 2025 et l'assistante de Pierre Nicolet. 2e niveau : 6 recherches (DAF, CFO/LinkedIn, téléphone 03 86, +33 3 86, Pages Jaunes, page « présence internationale ») sans aucun numéro de standard publié : le site ne montre pas de téléphone dans les extraits ; les numéros du Technopôle (circuit, Pôle de la Performance) ne sont pas ceux de Ligier. Dirigeants inchangés par rapport au registre (Jacques Nicolet président, confirmé par le communiqué Mygale de décembre 2024 ; Pierre Nicolet DG/CEO). Le poste de DAF (création, CDI, Magny-Cours, rattaché au DG, membre du comité de direction, candidatures jusqu'au 30/06/2025) est probablement pourvu, mais aucun nom n'apparaît. Un article professionnel de 2025 citerait Richard Tur comme COO (non vérifié). Adresse de recrutement publiée : recrutement@ligierautomotive.com (non commerciale). Attention : ne pas confondre avec Ligier Group (voiturettes, Abrest, Allier). À l'appel (numéro à obtenir via le Technopôle ou le formulaire du site) : demander le nom du DAF arrivé en 2025 et l'assistante de Pierre Nicolet. 3e passe : 5 recherches (adresse exacte 8 rue du Champ de Magny + téléphone, contact / accueil / standard Technopôle, offres d'emploi, variantes +33 (0)3 86, annuaire des entreprises du Technopôle) sans numéro de standard. Les offres publiées en PDF sur ligierautomotive.com (alternance HSE 2026, ingénieur électronicien, directeur des programmes) ne montrent pas de téléphone dans les extraits, et le site des carrières renvoie à recrutement@ligierautomotive.com. Pas de repli groupe possible : le siège est lui-même à Magny-Cours. Standard toujours manquant. 4e passe (26/10/2026) : standard 03 86 21 29 20 donné par Pages Jaunes (fiche liée au site ligierautomotive.com, Technopole, 58470 Magny-Cours), Waze (« Ligier Automotive Magny-Cours », ouvert 8 h 30-18 h en semaine) et Infobel ; absent du site officiel : à confirmer en début d'appel. Pages Jaunes cite aussi le 03 86 21 86 86. Le 03 86 21 80 00 est le standard du circuit, le +33 2 38 85 00 35 (Industrie Explorer) celui d'un autre site (Loiret). Vérification : L'infobox Wikipedia indique « Pierre Nicolet (CEO) » et Jacques Nicolet président. Le communiqué de 2021 sur l'arrivée de Franck Tiné (ligierautomotive.com) remercie Jacques et Pierre Nicolet. Le titre de directeur général au registre est cohérent. Wikipedia le donne CEO de Ligier Automotive (Jacques Nicolet président) ; presse auto récente le cite comme dirigeant à Magny-Cours.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Construction de voitures de course (prototypes, monoplaces) et organisation de championnats monomarques.",
+   "groupe": "Indépendante, famille Nicolet (siège à Magny-Cours)",
+   "qui_appeler": "Appeler le 03 86 21 29 20 (numéro d'annuaire, à confirmer en début d'appel) et demander le directeur administratif et financier (poste créé en 2025, nom à obtenir) ou l'assistante de Pierre Nicolet, directeur général. À défaut, demander M. Jacques Nicolet, président.",
+   "vigilance": [
+    "Le 03 86 21 29 20 ne vient que d'annuaires (Pages Jaunes, Waze), pas du site officiel ; Pages Jaunes cite aussi le 03 86 21 86 86. L'adresse sales@ligierautomotive.com est commerciale.",
+    "Le DAF dont le poste a été créé en 2025 n'est pas identifié : demander son nom à l'accueil.",
+    "Ne pas confondre avec Ligier Group (voiturettes, Abrest, Allier), autre entreprise."
+   ]
+  }
+ },
+ {
+  "rang": 25,
+  "siren": "419013297",
+  "nom": "ANTARES",
+  "nom_commercial": "Intermarché Super La Charité-sur-Loire",
+  "nom_court": "Intermarché Super La Charité",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "2 rue des Plantes des Religieuses, 58400 La Charité-sur-Loire",
+  "effectif": "20-49",
+  "forme_juridique": "SAS",
+  "groupe": "Groupement Les Mousquetaires (Intermarché) ; présidée par la holding ALFOCEA (SIREN 447741109), dont le siège est à Cosne-Cours-sur-Loire (gérant Alain Jaudon)",
+  "site_web": "https://www.intermarche.com/magasin?pdvref=02766",
+  "decision": "Dans la famille Jaudon (adhérents Intermarché indépendants) : la DG Fanny Jaudon au magasin de La Charité ou la holding familiale ALFOCEA à Cosne-Cours-sur-Loire (Alain Jaudon) ; pas de centrale de décision externe pour ce type d'achat.",
+  "dirigeants": [
+   {
+    "nom": "ALFOCEA",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Fanny JAUDON (STIOT)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Fanny Jaudon (née Stiot)",
+   "fonction": "Directrice générale (présidente : la holding ALFOCEA)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/419013297"
+  },
+  "contact_finance": {
+   "nom": "Fanny Jaudon (née Stiot)",
+   "fonction": "Directrice générale",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/419013297"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Alain Jaudon",
+    "fonction": "Gérant de la holding ALFOCEA (Cosne-Cours-sur-Loire), présidente d'ANTARES",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/447741109",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Supermarché Intermarché indépendant (adhérent), 20-49 salariés : pas de DAF identifié, la directrice générale est l'interlocutrice finance. Numéro du magasin issu d'un agrégateur (au-magasin.fr) ; attention, une fiche Cylex attribue le même numéro et la même adresse à un 'SPAR' (erreur d'annuaire probable). Président : ALFOCEA (personne morale, holding probable). 2e niveau : numéro 03 86 70 28 62 désormais confirmé par la fiche officielle du magasin sur intermarche.com (Intermarché Super La Charité-sur-Loire, 2 rue des Plantes des Religieuses ; lun-sam 8h30-19h15, dim 8h30-12h ; station-service 24h/24). Fiabilité passée d'agrégateur à officielle. Aucune source de presse récente ne cite Fanny ou Alain Jaudon (4 recherches sur les noms, ALFOCEA et le magasin) : dirigeants repris du registre, non contredits. Pas de DAF/comptable identifié (20-49 salariés, comptabilité probablement externalisée ou tenue par la holding). Au standard : demander Mme Jaudon (directrice) et qui gère la comptabilité/administration (holding ALFOCEA ?). Vérification : Numéro retrouvé sur Cylex (supermarché, 2 rue Plantes des Religieuses) en plus d'au-magasin.fr : deux annuaires, aucune source officielle Intermarché. Fanny Jaudon (DG) : uniquement au registre (Pappers), aucune source indépendante trouvée. Le 03 86 70 28 62 est repris par au-magasin.fr et Cylex pour l'Intermarché de la ZI des Plantes des Religieuses. Aucune trace indépendante de Fanny Jaudon (ni de la holding ALFOCEA) liée au magasin. Aucun résultat associant Alain Jaudon à Intermarché, aux Mousquetaires ou à la Charité-sur-Loire. Lien holding ALFOCEA / ANTARES fondé sur le seul registre.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Supermarché Intermarché avec station-service et drive à La Charité-sur-Loire.",
+   "groupe": "Indépendante, famille Jaudon (holding ALFOCEA à Cosne) ; enseigne Intermarché",
+   "qui_appeler": "Appeler le magasin au 03 86 70 28 62 et demander Mme Fanny Jaudon, directrice générale ; si la décision relève de la holding, demander à joindre M. Alain Jaudon (ALFOCEA, Cosne-Cours-sur-Loire). À défaut, demander le responsable administratif et financier ou la personne qui gère la comptabilité.",
+   "vigilance": [
+    "Fanny Jaudon et le lien avec la holding ALFOCEA ne sont connus que par le registre.",
+    "Pas de DAF identifié : la comptabilité est probablement tenue par la holding ou un cabinet externe.",
+    "Une fiche Cylex attribue le même numéro à un « SPAR » : erreur d'annuaire probable."
+   ]
+  }
+ },
+ {
+  "rang": 26,
+  "siren": "312057318",
+  "nom": "ETABLISSEMENTS COIGNETS",
+  "nom_commercial": "Etablissements Coignet",
+  "nom_court": "Établissements Coignet (Ciez)",
+  "ville": "Ciez",
+  "adresse": "6 route du Puits, Les Naslots, 58220 Ciez",
+  "effectif": "10-19",
+  "forme_juridique": "SAS",
+  "site_web": "http://www.etablissements-coignet.fr",
+  "decision": "Dans l'entreprise elle-même, à Ciez : PME familiale indépendante (« depuis 3 générations ») sans groupe ni holding connus, dirigée par la famille Coignet (Sophie, Guillaume et Alain).",
+  "dirigeants": [
+   {
+    "nom": "Sophie Marie Elisabeth COIGNET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Guillaume Alain COIGNET",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Alain COIGNET",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sophie Coignet",
+   "fonction": "Présidente (SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/312057318"
+  },
+  "contact_finance": {
+   "nom": "Sophie Coignet",
+   "fonction": "Présidente (SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/312057318"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Guillaume Coignet",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/312057318"
+   },
+   {
+    "nom": "Alain Coignet",
+    "fonction": "Directeur général délégué",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/312057318",
+    "a_confirmer": true
+   }
+  ],
+  "note_contacts": "Numéro déjà connu (deja.telephone), conservé mais non reconfirmé par un extrait de recherche (la fiche 118712 'Garage Coignet' à Ciez, https://www.118712.fr/professionnels/X0JSVlVRFAQ, masque le numéro). Activité réelle : distribution de fioul domestique / carburants (station 'Coignet Carburant' aux Naslots), malgré un code APE vente à distance ; 3 établissements (Ciez, Clamecy, La Charité-sur-Loire). Présidente : Sophie Coignet. Aucun responsable financier trouvé (10-19 salariés). 2e niveau : le 03 86 26 43 28 est maintenant confirmé par le site officiel (page contact, 6 route du Puits, Les Naslots, 58220 Ciez), qui publie aussi l'e-mail générique coignet-ciez@orange.fr. Activité : livraison de fioul, biofioul, carburants, GNR, AdBlue, granulés, nettoyage de cuves, station libre-service aux Naslots ; agences/pages locales à Clamecy, La Charité-sur-Loire et Cosne-Cours-sur-Loire. Aucune source de presse ou web récente ne nomme les dirigeants (le site ne cite aucun nom) : registre conservé, non contredit. Aucun comptable ni RAF trouvé (10-19 salariés, recherche d'offres d'emploi sans résultat). Au téléphone : demander Mme Sophie Coignet (présidente) ou M. Guillaume Coignet (DG), et qui s'occupe de la comptabilité. Vérification : Le 03 86 26 43 28 n'apparaît dans aucun résultat (118712 masque le numéro). Guillaume Coignet (DG) : registre seulement, aucune source indépendante. Deux recherches, numéro introuvable. L'annuaire des entreprises donne le siège aux Naslots, 58220 Ciez, avec trois établissements (Ciez, Clamecy, La Charité-sur-Loire) et une activité de vente à distance sur catalogue spécialisé. Aucune trace d'un Guillaume Coignet lié aux Établissements Coignet de Ciez (résultats historiques homonymes). Recherche « Alain Coignet » + Ciez + Nièvre : aucun résultat ne le cite. Registre seul.",
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Négoce d'énergies (fioul, carburants, GNR, granulés), avec station à Ciez et atelier de mécanique.",
+   "groupe": "Indépendante, famille Coignet",
+   "qui_appeler": "Appeler le siège de Ciez au 03 86 26 43 28 (numéro du site officiel) et demander Mme Sophie Coignet, présidente, ou M. Guillaume Coignet, directeur général. À défaut, demander le responsable administratif et financier ou la personne qui gère la comptabilité.",
+   "vigilance": [
+    "CA en baisse : 28,7 M€ en 2022, 20,6 M€ en 2025 ; le plafond est calculé sur 2025.",
+    "Dirigeants connus seulement par le registre ; le rôle d'Alain Coignet est à confirmer.",
+    "Aucun responsable comptable ou financier identifié : demander qui tient la comptabilité."
+   ]
+  }
+ }
+]
