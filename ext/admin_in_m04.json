@@ -1,0 +1,445 @@
+[
+ {
+  "rang": 76,
+  "siren": "391484730",
+  "nom": "MADELIE",
+  "nom_commercial": "Intermarché Super La Machine",
+  "nom_court": "Intermarché Super La Machine",
+  "ville": "La Machine",
+  "adresse": "Route de Decize, Forêt des Glénons, 58260 La Machine",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "dirigeants": [
+   {
+    "nom": "Fabrice PONTI",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Pierre PONTI",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Sylvie PONTI",
+    "fonction": "Directrice générale"
+   },
+   {
+    "nom": "REGULAR (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Diego FERNANDEZ",
+   "fonction": "Exploitant (repreneur) de l'Intermarché Super de La Machine, successeur de Fabrice et Sylvie Ponti — mandat exact dans MADELIE (présidence via la personne morale REGULAR ?) non confirmé",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ac-franchise.com/article/le-groupement-les-mousquetaires-annonce-des-reprises-et-des-transformations",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Diego FERNANDEZ",
+   "fonction": "Exploitant (repreneur) du magasin, avec son épouse Carole — aucun comptable ou RAF nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://ac-franchise.com/article/le-groupement-les-mousquetaires-annonce-des-reprises-et-des-transformations"
+  },
+  "decision": "Décision prise sur place à La Machine par le couple d'adhérents exploitants (Intermarché = adhérents indépendants propriétaires de leur magasin), éventuellement via leur holding REGULAR ; pas de siège de groupe impliqué.",
+  "note_contacts": "Numéro du magasin vu uniquement sur un agrégateur (Bonial) — à vérifier. Le registre liste encore Fabrice PONTI (président) et Pierre/Sylvie PONTI (DG) mais aussi une personne morale REGULAR comme présidente : ac-franchise annonce la reprise du magasin par Diego et Carole Fernandez (succédant à Fabrice et Sylvie Ponti) ; à confirmer au téléphone qui préside MADELIE aujourd'hui. Zagaz signale un nouveau supermarché en construction à l'entrée sud de La Machine (déménagement possible). 2e niveau : 6 recherches. Le 03 86 50 44 21 n'apparaît que sur des agrégateurs (Bonial, repris par ac-franchise/tiendeo) avec horaires à jour (lun.-sam. 8h30-19h15, dim. 9h-12h15) ; aucune fiche officielle intermarche.com trouvée dans les extraits, fiabilité « annuaire ». Que Choisir donne une autre adresse (15 rue Clémence Bonde, 58260 La Machine) : possible déménagement — Zagaz signale un nouveau supermarché en construction à l'entrée sud de La Machine, déménagement prévu « avant la fin de l'année » (date non précisée). La reprise par de nouveaux propriétaires est confirmée par ac-franchise (extrait tronqué ; le nom Fernandez vient du premier passage) ; le registre est probablement en retard (Fabrice PONTI président, Pierre et Sylvie PONTI DG, plus la personne morale REGULAR présidente). Aucune recherche sur « Diego Fernandez » ou « REGULAR » n'a donné de résultat. À l'appel : demander « M. ou Mme Fernandez, les propriétaires du magasin », vérifier qu'ils sont bien les dirigeants de MADELIE et qui tient la comptabilité (souvent cabinet externe ou l'épouse de l'adhérent). Vérification : Seul l'article AC Franchise cité mentionne la reprise de l'Intermarché de La Machine ; aucun résultat indépendant ne nomme Diego Fernandez.",
+  "qui_appeler": "Appeler le magasin au 03 86 50 44 21 (numéro vu seulement sur des agrégateurs) et demander M. ou Mme Fernandez, les propriétaires du magasin, en vérifiant qu'ils dirigent bien la société MADELIE. À défaut, demander le responsable administratif et financier ou la personne qui suit la comptabilité du magasin."
+ },
+ {
+  "rang": 78,
+  "siren": "778492009",
+  "nom": "CMG CENTRE DE MATERIEL GENERAL",
+  "nom_commercial": "CMG TP",
+  "nom_court": "CMG TP (Varennes-Vauzelles)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "2 B rue Thomas Edison, 58640 Varennes-Vauzelles",
+  "activite": "Commerce de gros",
+  "effectif": "20-49",
+  "groupe": "AFIC (holding présidente)",
+  "site_web": "https://www.cmgtp.fr",
+  "linkedin": "https://www.linkedin.com/company/cmgtp",
+  "dirigeants": [
+   {
+    "nom": "AFIC (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "AFIC (personne morale)",
+   "fonction": "Président de SAS (registre) — représentant personne physique non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/778492009"
+  },
+  "contact_finance": {
+   "nom": "AFIC (personne morale)",
+   "fonction": "Président de SAS (registre) — aucun DAF/RAF/comptable nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/778492009"
+  },
+  "decision": "Probablement au niveau de la holding présidente AFIC (localisation non identifiée) ou du dirigeant de CMG à Varennes-Vauzelles ; aucune information publique ne permet de le préciser.",
+  "note_contacts": "Aucun résultat exploitable via WebSearch (5 requêtes : CMG TP, Centre de Matériel Général, Varennes-Vauzelles, rue Thomas Edison). Présidence assurée par la personne morale AFIC, dont le représentant n'a pas été identifié. Seule la page LinkedIn entreprise déjà connue (linkedin.com/company/cmgtp) existe. À rechercher directement (PagesJaunes / Google Maps). 2e niveau : 6 recherches (CMG TP, Centre de Matériel Général, cmgtp, rue Thomas Edison + téléphone) sans numéro, site, ni nom de dirigeant. Seule confirmation : fiche de l'Annuaire des entreprises (https://production-sbg-01.annuaire-entreprises.infra.api.gouv.fr/documents/778492009) — SAS créée le 01/01/1972, siège 2 B rue Thomas Edison 58640 Varennes-Vauzelles, 6 établissements dont 4 actifs, activité commerce de gros de machines pour l'extraction, la construction et le génie civil (engins de TP). La société est quasi invisible en ligne malgré ~10 M€ de CA ; seule la page LinkedIn entreprise linkedin.com/company/cmgtp est connue (premier passage). À faire avant l'appel : trouver le numéro via PagesJaunes / Google Maps (« CMG TP Varennes-Vauzelles ») et identifier sur Pappers le représentant de la holding AFIC. Au standard : demander le dirigeant (gérant/directeur de CMG) et la personne en charge de la comptabilité. Attention : ne pas confondre avec SOMTP Nevers (2 route de la Bert, Varennes-Vauzelles), autre distributeur d'engins de TP. Deuxième cercle (27/10/2026) : 03 86 59 81 81, standard de la concession CMG de Nevers – Varennes-Vauzelles (ZI des Chamonds, 2 bis rue Thomas Edison) et ligne Bourgogne publiés sur cmgtp.fr ; la holding présidente AFIC a son siège à la même adresse depuis juin 2025 et serait présidée par Marie-Hélène Bernard (societe.com), donc décision sur place à Varennes-Vauzelles. Le 03 86 59 81 82 est celui de TPI Location, société voisine elle aussi présidée par AFIC, non retenu. Vérification : numéro confirmé sur la page Nevers de cmgtp.fr et par PagesJaunes, Mappy et un annuaire inversé au nom de C.M.G à Varennes-Vauzelles ; le 03 86 59 81 82 voisin est bien celui de TPI Location, autre société.",
+  "qui_appeler": "Appeler le 03 86 59 81 81, standard de la concession de Varennes-Vauzelles (ZI des Chamonds), et demander le dirigeant de CMG et le nom du représentant de la holding AFIC. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité."
+ },
+ {
+  "rang": 95,
+  "siren": "823921739",
+  "nom": "MAELANN",
+  "nom_commercial": "Intermarché (Dornes)",
+  "nom_court": "Intermarché Dornes (SAS Maelann)",
+  "ville": "Dornes",
+  "adresse": "Lieu-dit Les Blondeaux, Route de Moulins, 58390 Dornes",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "site_web": "https://www.intermarche.com/magasins/07887/dornes-58390/infos-pratiques",
+  "dirigeants": [
+   {
+    "nom": "Mikaël Le Guillou",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Aurore Jeandeau",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Déborah Lefebvre",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mikaël LE GUILLOU",
+   "fonction": "Président de SAS (registre ; non confirmé par une source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/823921739"
+  },
+  "contact_finance": {
+   "nom": "Mikaël LE GUILLOU",
+   "fonction": "Président de SAS (registre) — aucun comptable/RAF nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/823921739"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Aurore JEANDEAU",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/823921739",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Déborah LEFEBVRE",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/823921739"
+   }
+  ],
+  "decision": "Décision prise sur place à Dornes par l'adhérent exploitant (Intermarché = adhérents indépendants propriétaires de leur point de vente) et ses co-DG ; pas de siège de groupe impliqué.",
+  "note_contacts": "Aucun numéro de magasin trouvé dans les extraits (Que Choisir, Zagaz, ac-franchise, prix-carburant ne donnent pas de téléphone). Magasin Intermarché Super/Contact, route de Moulins, lieu-dit Les Blondeaux, Dornes (https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm6558/). Aucune source publique ne confirme les mandats au-delà du registre. 2e niveau : 6 recherches (téléphone magasin, « 03 86 », Le Guillou, Maelann, offres d'emploi) sans numéro du magasin ni nom au-delà du registre. Confirmé : Intermarché Contact / Super exploité par « SA Maelann », lieu-dit Les Blondeaux, route de Moulins (D13), 58390 Dornes, station carburant 24h/24 et DAB (Zagaz, https://www.zagaz.com/station-avis.php?id_s=21265 ; Que Choisir, https://www.quechoisir.org/carte-interactive-drives-n21243/drive-magasin-dm6558/) ; magasin relativement récent (création 06/03/2017 selon Promocatalogues). Numéros vus mais NON retenus : 03 86 50 61 44 (Pharmacie Trouart, 6 route de Moulins) et 03 86 50 60 47 (mairie de Dornes). À faire : trouver le numéro sur intermarche.com (fiche magasin Dornes) ou Google Maps ; à l'appel, demander M. Le Guillou ou l'une des deux directrices générales (Aurore Jeandeau, Déborah Lefebvre) et qui tient la comptabilité. Deuxième cercle (27/10/2026) : 03 86 25 55 70, numéro du magasin Intermarché Super de Dornes (route de Moulins, lieu-dit Les Blondeaux) sur sa fiche officielle intermarche.com, repris par PagesJaunes et LeBonDrive ; décision sur place par l'adhérent. Le 03 86 50 69 50 (« rue Vieille ») de certains annuaires semble correspondre à l'ancien magasin et n'est pas retenu. Vérification : numéro confirmé sur la fiche officielle intermarche.com de l'Intermarché Super de Dornes (route de Moulins) et repris par PagesJaunes, LeBonDrive et Tiendeo. Vérification : Aucune occurrence du nom. Une brochure Mousquetaires de 2021 cite une adhérente prénommée Aurore, mais en Gironde et sans nom de famille ; probablement une autre personne.",
+  "qui_appeler": "Appeler le 03 86 25 55 70, standard du magasin de Dornes (route de Moulins), et demander Mikaël Le Guillou, président, ou l'une des directrices générales, Aurore Jeandeau ou Déborah Lefebvre. Demander aussi qui tient la comptabilité ; à défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 96,
+  "siren": "404816712",
+  "nom": "CIA IMPRIMERIE",
+  "nom_commercial": "CIA Graphic (enseignes CIA Bourgogne, IB Imprimerie, CIA Direct, CIA Com)",
+  "nom_court": "CIA Graphic imprimerie, Pougues-les-Eaux",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "Zone Industrielle, 58320 Pougues-les-Eaux",
+  "activite": "Imprimerie",
+  "effectif": "20-49 (30 salariés en 2025)",
+  "groupe": "2B Finance et Conseils (holding présidente)",
+  "site_web": "https://imprimerie-ciabourgogne.com",
+  "linkedin": "https://www.linkedin.com/company/imprimerie-ciagraphic",
+  "dirigeants": [
+   {
+    "nom": "2B FINANCE ET CONSEILS (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Xavier BOULOT",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS, elle-même présidente de la SAS CIA Imprimerie (information CRM/registre, non confirmée en ligne)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Xavier BOULOT",
+   "fonction": "Président de la holding 2B FINANCE ET CONSEILS (aucun DAF/RAF/comptable nommé trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/404816712"
+  },
+  "decision": "Décision probablement prise localement à Pougues-les-Eaux par le dirigeant de la holding présidente 2B Finance et Conseils (PME indépendante de ~30 salariés, sans groupe extérieur identifié).",
+  "note_contacts": "Aucun numéro trouvé (3 recherches). Imprimerie CIA Graphic membre du réseau Imprifrance (profil Motherbase, auto-déclaratif). Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712) : créée en mars 1996, capital 604 k€, siège à Pougues-les-Eaux. Dirigeant repris de deja/registre (Xavier Boulot via la holding 2B Finance et Conseils), non confirmé par une source en ligne. Adresse issue d'un agrégateur (Motherbase) : à vérifier. 2e passe : 3 recherches (CIA Graphic + Pougues, adresse 1A impasse des Montais, enseignes CIA Bourgogne / IB Imprimerie) sans numéro ni site officiel ; l'adresse 1A impasse des Montais, 58320 Pougues-les-Eaux n'apparaît que sur Motherbase (agrégateur). 2e niveau : 6 recherches (CIA Graphic + téléphone, « ciagraphic » Nevers, Imprifrance + CIA, « Xavier Boulot » imprimerie, « 2B Finance et Conseils », CIA Imprimerie/CIA Bourgogne 58320) sans numéro, site officiel ni email. Seules sources : Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712 : imprimerie de labeur NAF 18.12Z, siège ZI de Pougues-les-Eaux, établissement « CIA Bourgogne IB Imprimerie », CA 2024 = 7 024 k€) et Motherbase (agrégateur, « Imprimerie CIA Graphic », 1A impasse des Montais, membre du réseau Imprifrance). Le 03 86 90 96 00 vu dans les résultats est celui de la mairie de Pougues, non retenu. Aucune trace en ligne de Xavier Boulot ni de la holding 2B Finance et Conseils : nom du dirigeant à confirmer à l'appel. À faire : trouver le numéro via l'annuaire de l'adhérent Imprifrance ou PagesJaunes (recherche « CIA Graphic » Pougues), puis demander au standard le dirigeant et la personne qui tient la comptabilité (souvent l'assistante de direction / comptable dans une PME de cette taille). 2e niveau : 6 recherches (CIA Graphic + téléphone, « ciagraphic » Nevers, Imprifrance + CIA, « Xavier Boulot » imprimerie, « 2B Finance et Conseils », CIA Imprimerie/CIA Bourgogne 58320) sans numéro, site officiel ni email. Seules sources : Xerfi (https://www.xerfi.com/etudes-par-entreprise/cia-imprimerie_404816712 : imprimerie de labeur NAF 18.12Z, siège ZI de Pougues-les-Eaux, établissement « CIA Bourgogne IB Imprimerie », CA 2024 = 7 024 k€) et Motherbase (agrégateur, « Imprimerie CIA Graphic », 1A impasse des Montais, membre du réseau Imprifrance). Le 03 86 90 96 00 vu dans les résultats est celui de la mairie de Pougues, non retenu. Aucune trace en ligne de Xavier Boulot ni de la holding 2B Finance et Conseils : nom du dirigeant à confirmer à l'appel. À faire : trouver le numéro via l'annuaire de l'adhérent Imprifrance ou PagesJaunes (recherche « CIA Graphic » Pougues), puis demander au standard le dirigeant et la personne qui tient la comptabilité (souvent l'assistante de direction / comptable dans une PME de cette taille). 3e passe : 5 recherches (« impasse des Montais » Pougues, « IB Imprimerie »/« CIA Bourgogne » + téléphone, offres d'emploi « CIA Graphic », « ciagraphic » + contact/devis, « CIA Direct »/« CIA Com ») : aucun numéro, site ni email. Seules sources toujours : Xerfi et Motherbase (agrégateur : offset feuille, numérique, façonnage, réseau Imprifrance, travail en 3x8). Deuxième cercle (27/10/2026) : 03 86 90 96 10, standard publié sur la page contact du site de l'imprimerie (CIA Bourgogne / CIA Graphic, 383 rue Gutenberg, ZI de Pougues-les-Eaux) et repris par PagesJaunes ; ne pas confondre avec le 03 86 90 96 00 de la mairie. Décision sur place, auprès du dirigeant de la holding présidente 2B Finance et Conseils. Vérification : numéro bien attribué à C.I.A. Bourgogne / CIA Imprimerie, 383 rue Gutenberg à Pougues-les-Eaux, par PagesJaunes, Cylex et e-pro, mais sa publication sur imprimerie-ciabourgogne.com n'a pas pu être vue, d'où une fiabilité ramenée à « annuaire » et une source PagesJaunes ; l'e-mail contact@ciagraphic.com, sur le domaine que PagesJaunes donne comme site de l'imprimerie, est conservé mais reste à confirmer. Vérification : 1A Impasse des Montais : seul Motherbase (source déjà citée, auto-déclarative) la donne ; Xerfi indique seulement 'Zone Industrielle, 58320 Pougues-les-Eaux'. Xavier Boulot : aucun lien en ligne avec l'imprimerie ni avec 2B Finance et Conseils (2 recherches). Aucune trace en ligne de Xavier Boulot en lien avec CIA Graphic / CIA Imprimerie (Pougues-les-Eaux).",
+  "qui_appeler": "Appeler le 03 86 90 96 10, standard de l'imprimerie à Pougues-les-Eaux (numéro d'annuaire, à confirmer), et demander Xavier Boulot, président de la holding 2B Finance et Conseils (nom à confirmer). Demander aussi qui tient la comptabilité ; à défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 97,
+  "siren": "335275319",
+  "nom": "ASM ANDRE STOCKAGE MANUTENTION",
+  "nom_commercial": "ASM",
+  "nom_court": "ASM André Stockage Manutention, Cosne",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "123 La Bichatte, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Transports terrestres",
+  "effectif": "20-49 (45 salariés en 2025)",
+  "groupe": "Groupe Rave (transport et logistique, siège à Torcy, 71), via sa holding Rave Croissance, présidente d'ASM depuis mars 2020 (famille Charbon ; président du directoire : Pascal Polte). Standard du groupe : 03 85 77 93 00 (ravegroupe.com)",
+  "site_web": "https://www.ravegroupe.com/reseau/",
+  "linkedin": "https://www.linkedin.com/company/andr-chenue",
+  "dirigeants": [
+   {
+    "nom": "RAVE CROISSANCE (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Benjamin André",
+   "fonction": "Directeur d'ASM (direction confiée lors de l'intégration au groupe Rave en 2020 ; présidente : RAVE CROISSANCE)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Benjamin André",
+   "fonction": "Directeur d'ASM",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/"
+  },
+  "decision": "Probablement au siège du groupe Rave à Torcy (Saône-et-Loire) : ASM est une filiale rachetée en 2020 et présidée par la holding RAVE CROISSANCE ; le directeur local (Benjamin André) peut relayer mais ne décide sans doute pas seul.",
+  "note_contacts": "Le registre ne donne qu'une personne morale (RAVE CROISSANCE, holding basée à Torcy 71) ; le décideur indiqué est le DG de cette holding, pas un dirigeant direct d'ASM — à confirmer. Aucun numéro trouvé : 118000.fr liste « André Stockage Manutention » au 44 avenue du 85e de Ligne à Cosne mais sans numéro visible (https://www.118000.fr/v_cosne-cours-sur-loire_58/c_demenagement). Lien possible avec l'agence de déménagement « André » / Gentlemen du Déménagement au 123 route des Cours (https://www.gentlemen-demenagement.com/en/movers/demenageur-nievre-58-cosne-cours-sur-loire/) et avec André Chenue (LinkedIn de deja), non confirmé. 2e passe : 3 recherches (adresse La Bichatte, « André Stockage Manutention » Cosne, site de Cosne du groupe Rave) sans numéro. La fiche 118000.fr (44 av. du 85e de Ligne) porte la mention « Opposé au marketing direct » et n'affiche pas de numéro. Seule ligne connue : le standard du groupe Rave (03 85 77 93 00, cf. champ groupe), qui n'est pas propre à ASM et n'est donc pas reporté dans « standard ». 2e niveau : le communiqué officiel du groupe Rave (https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/) confirme le rachat d'ASM (fondée en 1969 ; transport de chariots élévateurs, location de véhicules avec chauffeur, logistique ; client principal Urban/Fenwick-Still) et indique que « la direction est confiée à Benjamin André » ; information de 2020, à confirmer (aucune source récente trouvée sur lui). Adresse officielle du site : 123 route des Cours, 58200 Cosne-Cours-sur-Loire (page réseau Rave). Aucun numéro propre au site de Cosne trouvé (6 recherches) ; seule ligne officielle : standard du siège Rave à Torcy 03 85 77 93 00 et e-mail générique du groupe rave@ravegroupe.com (https://www.ravegroupe.com/contact/), non reportés comme coordonnées d'ASM. La fiche 118000 (44 av. du 85e de Ligne) ne montre pas de numéro. Aucun DAF du groupe Rave identifié (≈1 400 salariés, 26 sites). Au téléphone (siège de Torcy) : demander le site de Cosne, M. Benjamin André, et qui suit la comptabilité/finance d'ASM au siège. 2e niveau : le communiqué officiel du groupe Rave (https://www.ravegroupe.com/groupe-rave-integre-andre-stockage-manutention/) confirme le rachat d'ASM (fondée en 1969 ; transport de chariots élévateurs, location de véhicules avec chauffeur, logistique ; client principal Urban/Fenwick-Still) et indique que « la direction est confiée à Benjamin André » ; information de 2020, à confirmer (aucune source récente trouvée sur lui). Adresse officielle du site : 123 route des Cours, 58200 Cosne-Cours-sur-Loire (page réseau Rave). Aucun numéro propre au site de Cosne trouvé (6 recherches) ; seule ligne officielle : standard du siège Rave à Torcy 03 85 77 93 00 et e-mail générique du groupe rave@ravegroupe.com (https://www.ravegroupe.com/contact/), non reportés comme coordonnées d'ASM. La fiche 118000 (44 av. du 85e de Ligne) ne montre pas de numéro. Aucun DAF du groupe Rave identifié (≈1 400 salariés, 26 sites). Au téléphone (siège de Torcy) : demander le site de Cosne, M. Benjamin André, et qui suit la comptabilité/finance d'ASM au siège. 3e passe : 4 recherches pour le site de Cosne (nom + Cosne + téléphone, « ASM » + route des Cours, offres d'emploi Rave à Cosne, nom + « 03 86 ») sans numéro propre au site ; le 118000 situe l'entreprise au 44 av. du 85e de Ligne sans numéro, et le « 123 route de Cours » y est attribué à une autre société (Assistance Déménagement). Standard renseigné par défaut avec le standard du groupe Rave relevé en 2e passe sur la page contact officielle (ravegroupe.com/contact), non revérifié par un extrait en 3e passe : standard du groupe (siège à Torcy) : demander le site de Cosne-Cours-sur-Loire. Vérification : X. Charbon n'apparaît que sur societe.com : DG de RAVE CROISSANCE depuis 05/2020 et membre (pas président) du directoire depuis 01/2023. Le président du directoire de la holding n'a pas été identifié et rien ne relie Charbon directement à ASM. 118000.fr liste ASM au 44 av. du 85e de Ligne à Cosne sans numéro (opposé au marketing direct). Rachat d'André Stockage Manutention par le groupe Rave en février 2020 confirmé (PitchBook), mais aucune trace indépendante de Benjamin André comme directeur. Recherche « Xavier Charbon » + ASM + Cosne : seule réapparaît la fiche societe.com déjà citée (DG et membre du directoire de RAVE CROISSANCE depuis janvier 2023). Aucune source indépendante. Son lien opérationnel avec ASM n'est pas établi.",
+  "opposition_prospection": true,
+  "qui_appeler": "Pas de numéro propre au site : appeler le standard du groupe Rave au 03 85 77 93 00 (siège de Torcy), demander le site de Cosne-Cours-sur-Loire et Benjamin André, directeur d'ASM (information de 2020, à confirmer). Demander aussi qui suit la comptabilité d'ASM au siège ; à défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 99,
+  "siren": "887120046",
+  "nom": "MORVAN DISTRIBUTION",
+  "nom_commercial": "Weldom Clamecy / U Express Lormes",
+  "nom_court": "Weldom Clamecy (groupe Schiever)",
+  "ville": "Clamecy",
+  "adresse": "Route d'Orléans, La Vanne du Gour, 58500 Clamecy",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "groupe": "Groupe Schiever (Anciens Ets Georges Schiever et Fils)",
+  "site_web": "https://www.weldom.fr/m/weldom-clamecy",
+  "dirigeants": [
+   {
+    "nom": "ANCIENS ETABLISSEMENTS GEORGES SCHIEVER ET FILS (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Dominique De Matteis",
+    "fonction": "Autre (mandataire)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Vincent PICQ",
+   "fonction": "PDG du groupe Schiever (fiche employeur Indeed, contributive ; cité comme directeur général du groupe Schiever en 2006) – la présidente de MORVAN DISTRIBUTION est la holding ANCIENS ETS GEORGES SCHIEVER ET FILS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://fr.indeed.com/cmp/Schiever",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Vincent PICQ",
+   "fonction": "PDG du groupe Schiever (aucun DAF/RAF du groupe ni du magasin trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.observatoiredelafranchise.fr/indiscretions-actualite/WELDOM-maxi-brico-les-30-magasins-rejoignent-le-reseau-weldom-52643.htm"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Dominique DE MATTEIS",
+    "fonction": "Mandataire inscrit au registre (rôle exact non précisé, probablement représentant de la holding Schiever)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/887120046",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision vraisemblablement prise au siège du groupe Schiever à Avallon (Yonne) : MORVAN DISTRIBUTION est une filiale présidée par la holding familiale Anciens Ets Georges Schiever et Fils, qui gère une trentaine de magasins Weldom et des supermarchés de façon centralisée.",
+  "note_contacts": "Aucun numéro trouvé (3 recherches). Le magasin Weldom de Clamecy est listé au 8 route de Beaugy, 58500 Clamecy (118000 https://www.118000.fr/e_C0070527250, ac-franchise https://ac-franchise.com/store/weldom-66/), et non à l'adresse du siège (route d'Orléans, La Vanne du Gour) ; numéro non visible dans les extraits (le 03 86 24 01 83 vu dans les résultats est celui de la PMI de l'hôpital, non retenu). Présidente au registre : ANCIENS ETABLISSEMENTS GEORGES SCHIEVER ET FILS (groupe Schiever, personne morale) : la personne physique qui la dirige et le DAF du groupe n'ont pas été identifiés ; la finance est vraisemblablement centralisée au niveau du groupe Schiever. 2e passe : numéro du magasin Weldom Clamecy (8 route de Beaugy) trouvé sur sa page officielle weldom.fr, 03 86 27 11 89 (aussi sur PagesJaunes https://www.pagesjaunes.fr/pros/07757816) ; Legadom confirme que MORVAN DISTRIBUTION exploite des grandes surfaces de quincaillerie/bricolage avec des établissements à Clamecy et Lormes (https://legadom.com/entreprises/887120046-morvan-distribution). Numéro du site de Lormes non recherché. 2e niveau : standard 03 86 27 11 89 = magasin Weldom Clamecy (8 route de Beaugy), page officielle weldom.fr (trouvé en 1re/2e passe, non remis en cause). 6 recherches : aucun DAF/RAF du groupe Schiever publié (résultats limités à des offres d'emploi Schiever à Avallon : responsable de région, logistique) ; dirigeant du groupe : Vincent Picq indiqué comme PDG sur la fiche Indeed (contributive) et cité comme DG du groupe en 2006 (Observatoire de la franchise, passage de 30 Maxi Brico sous enseigne Weldom), donc à confirmer. Aucune trace en ligne de Dominique De Matteis. Groupe familial et indépendant (~8 000 collaborateurs, alimentaire, bricolage, décoration, sport, textile), siège rue de l'Étang, 89200 Avallon (agrégateur Motherbase). Numéro du U Express de Lormes non trouvé (seules des fiches d'autres U Express). À demander à l'appel : nom du directeur du magasin de Clamecy et coordonnées de la direction administrative et financière du groupe Schiever à Avallon ; vérifier si Dominique De Matteis est le directeur de magasin ou le représentant de la holding. Vérification : Aucune valeur enregistrée à vérifier hors autres_contacts (non vérifiés par consigne) ; aucune recherche faite. Aucune source ne relie Vincent Picq au groupe Schiever ; les recherches n'ont pas permis d'identifier le PDG actuel du groupe. La fiche Indeed (contributive) et une mention de 2006 sont insuffisantes. Fiche 118000.fr de Weldom Clamecy (8 route de Beaugy) trouvée, mais le numéro n'y est pas lisible ; 03 86 27 11 89 non confirmé (2 recherches). Aucun résultat pour Dominique De Matteis ni lien avec Schiever / Weldom Clamecy.",
+  "qui_appeler": "Appeler le magasin Weldom de Clamecy au 03 86 27 11 89 et demander le directeur du magasin (nom inconnu ; vérifier s'il s'agit de Dominique De Matteis, mandataire au registre), puis qui décide au groupe Schiever à Avallon et les coordonnées de sa direction administrative et financière. À défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 102,
+  "siren": "834179566",
+  "nom": "SOLILOIRE",
+  "ville": "Nevers",
+  "adresse": "44 T BOULEVARD MARECHAL JUIN",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "20-49 salariés",
+  "site_web": "https://radiologie-nevers.com",
+  "dirigeants": [
+   {
+    "nom": "Laurent BAIL",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Nicolas CHAILLET",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Mehdi CHERFAOUI",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Marc FOINANT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Marc FOINANT",
+   "fonction": "Co-gérant (un des 4 co-gérants inscrits au registre) — médecin radiologue",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://lemedecin.fr/nevers/selarl-soliloire/radiologue/docteur-foinant-marc/813ee9edb2e37f952349df1c38242cb9-2/pro/"
+  },
+  "contact_finance": {
+   "nom": "Marc FOINANT",
+   "fonction": "Co-gérant (registre) — médecin radiologue, SELARL Soliloire",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://lemedecin.fr/nevers/selarl-soliloire/radiologue/docteur-foinant-marc/813ee9edb2e37f952349df1c38242cb9-2/pro/"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Laurent BAIL",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/soliloire-834179566"
+   },
+   {
+    "nom": "Nicolas CHAILLET",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/soliloire-834179566"
+   }
+  ],
+  "note_contacts": "SELARL de médecins radiologues (imagerie médicale) exerçant sur plusieurs sites à Nevers : 44 ter bd Maréchal Juin, 49 bd Jérôme Trésaguet (centre d'imagerie de la Polyclinique du Val de Loire) et IRM du Centre hospitalier, 1 av. Patrick Guillot (sources lemedecin.fr, ex. https://lemedecin.fr/nevers/selarl-soliloire/radiologue/docteur-rouquette-christophe/4cacee3439484ed59822e90c312bdfc1-2/pro/). 4 co-gérants au registre (Laurent BAIL, Nicolas CHAILLET, Mehdi CHERFAOUI, Marc FOINANT), pas de hiérarchie connue. Un résumé de recherche cite un site radiologie-nevers.com, non vérifié (non retenu). Aucun téléphone de secrétariat trouvé dans les extraits. Deuxième passe (27/10/2026) : 03 86 61 02 10, numéro du cabinet de radiologie du 44 ter bd Maréchal Juin à Nevers (siège de la SELARL) donné par une liste de centres agréés de l'ARS Centre-Val de Loire (document non daté), qui renvoie aussi à radiologie-nevers.com pour les rendez-vous ; site du cabinet non lu, numéro à confirmer au premier appel (secrétariat). Vérification : une recherche retrouve bien le 03 86 61 02 10 dans la liste ARS au nom du « Cabinet de Radiologie, 44 ter boulevard du Maréchal Juin » à Nevers avec renvoi à radiologie-nevers.com, et lemedecin.fr rattache la SELARL Soliloire à cette adresse ; numéro conservé en « annuaire »."
+ },
+ {
+  "rang": 103,
+  "siren": "493717102",
+  "nom": "TC VRAC",
+  "nom_commercial": "TC Transports",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 RUE DE LA GUETTE",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "HOLDING CASSIER",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Aucun téléphone ni dirigeant personne physique trouvé (4 requêtes). Présidente : personne morale HOLDING CASSIER, dont le représentant n'a pas été identifié. Au même 45 rue de la Guette (Cercy-la-Tour), la fiche SIRENE d'une autre société, TC 58 (SIRET 338 339 146 00023), porte aussi l'enseigne TC TRANSPORTS (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023) : TC VRAC semble faire partie d'un petit groupe familial Cassier (une société Cassier Combustible est aussi citée à Cercy-la-Tour dans le recueil des actes de la préfecture de janvier 2024). À compléter par PagesJaunes / appel. Deuxième passe (27/10/2026) : 03 86 50 57 26, fiche PagesJaunes « TC VRAC s.a.s. Cercy la Tour – Transport routier » au 45 rue de la Guette (aussi référencée comme Cassier Vrac). La fiche PagesJaunes de HOLDING CASSIER (33 av. Louis Coudant) porte un autre numéro, non retenu. Vérification : relecture seule (pas de recherche), fiche cohérente (nom, ville et adresse concordent), numéro conservé en « annuaire »."
+ },
+ {
+  "rang": 107,
+  "siren": "530610187",
+  "nom": "CF2C (ex-ACORDIA)",
+  "nom_court": "CF2C (ex-Acordia), recouvrement, Nevers",
+  "ville": "Nevers",
+  "adresse": "30 AVENUE PIERRE BEREGOVOY",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.cf-2c.fr/",
+  "dirigeants": [
+   {
+    "nom": "Louis BAUVILLARD",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Constance Martine Marie DENJEAN (GAUME)",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Constance DENJEAN (GAUME)",
+   "fonction": "Présidente",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+  },
+  "contact_finance": {
+   "nom": "Constance DENJEAN (GAUME)",
+   "fonction": "Présidente",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Louis BAUVILLARD",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/acordia-530610187"
+   }
+  ],
+  "decision": "Décision prise par la direction de CF2C (présidente Constance Denjean, DG Louis Bauvillard) : siège juridique à Nevers, mais le site présente un bureau à Paris (17e) et des agences dans les DOM, d'où une direction peut-être parisienne, à confirmer.",
+  "note_contacts": "Aucun numéro ni site trouvé en 3 recherches. Selon verif.com, CF2C relève des activités des agences de recouvrement / sociétés d'information financière, avec un établissement à Baie-Mahault (Guadeloupe) et le siège à Nevers (https://www.verif.com/en/company/CF2C-68d9c19012992303383daf43/). Dirigeants issus du registre uniquement. Profil : cabinet de recouvrement de créances amiable et judiciaire (B2B et pour assureurs ou néobanques, partenaire recouvrement de Qonto), siège social à Nevers, 30 avenue Pierre Bérégovoy, avec un second établissement au n° 34 ouvert en 2022 (plateau de gestion probable : bureaux, pas d'accueil public) ; bureau à Paris (3 rue Alfred Roll, 75017, selon le site) et agences outre-mer (Baie-Mahault en Guadeloupe, Martinique, Guyane, Réunion). Récent : la page LinkedIn annonce le rachat de 60 % de Mercure Finances (recouvrement) ; le site cf-2c.fr cite aussi le « Cabinet Cofag & Associés » (lien à éclaircir). Cibles 101-500 (27/10/2026) : 4 recherches. Site officiel trouvé (cf-2c.fr) ; le seul numéro publié est le 01 62 01 00 95 (ligne parisienne / nationale), aucun numéro propre au site de Nevers trouvé : à l'appel, demander le standard ou le responsable du site de Nevers. Dirigeants : présidente au registre ; Louis Bauvillard, DG au registre, est aussi cité comme directeur général sur la page LinkedIn de CF2C (extrait de résultat), retenu comme interlocuteur pour la décision financière faute de DAF identifié. Résultat élevé (1,5 M€ pour 6 M€ de CA). Adresses parisiennes variables selon les pages du site (rue Alfred Roll, rue Cambacérès, rue Joubert) : pages anciennes. Avis clients négatifs en ligne (relances jugées agressives) : sans incidence pour l'appel. Vérification : 2 recherches (la première, non limitée, sans résultat ; la seconde limitée à cf-2c.fr) : le 01 62 01 00 95 figure sur plusieurs pages du site officiel comme numéro général, sans ligne propre à Nevers : « officielle » confirmé. Le site cite des implantations à Paris, Solaize et Nevers ; une présentation de 2023 donne le 161 rue de Courcelles (Paris 17e) ; un ancien numéro de Cofag & Associés, sans doute obsolète, n'est pas retenu ; un article du blog annonce une deuxième acquisition en France. Dirigeants identiques au registre, non revérifiés. Aucun numéro ni site trouvé en 3 recherches. Selon verif.com, CF2C relève des activités des agences de recouvrement / sociétés d'information financière, avec un établissement à Baie-Mahault (Guadeloupe) et le siège à Nevers (https://www.verif.com/en/company/CF2C-68d9c19012992303383daf43/). Dirigeants issus du registre uniquement. 2e passe : 3 recherches (CF2C + recouvrement + avenue Pierre Bérégovoy, adresse 30 avenue Pierre Bérégovoy Nevers, ancien nom Acordia) sans numéro ni site : l'occupant du 30 avenue Pierre Bérégovoy n'apparaît dans aucun annuaire. Vérification : Aucun résultat web pour CF2C, Constance Denjean ni Louis Bauvillard (DG au registre) : dirigeante confirmée par le registre seulement, aucun départ signalé. Aucun numéro trouvé non plus.",
+  "qui_appeler": "Appeler le 01 62 01 00 95 (numéro général du site officiel, pas de ligne propre à Nevers) et demander le site de Nevers, puis M. Louis Bauvillard, directeur général, ou Mme Constance Denjean, présidente. À défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 117,
+  "siren": "811119403",
+  "nom": "EL FAYZI",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE DES FONDEURS",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés",
+  "groupe": "EF Transports (holding de la famille El Fayzi, Cosne)",
+  "dirigeants": [
+   {
+    "nom": "Ibrahim EL FAYZI",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Mustapha EL FAYZI",
+    "fonction": "Gérant"
+   }
+  ],
+  "note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de niveau société sont recherchées ; aucun site web de l'entreprise trouvé, donc aucun décideur nommé ici (le registre liste deux co-gérants, déjà dans « deja »). Aucun téléphone, e-mail ni site trouvé dans les extraits (3 requêtes, les résultats renvoient vers des homonymes marocains ou des pages sans rapport). Une offre France Travail de chauffeur poids lourd à Cosne-Cours-sur-Loire (https://candidat.francetravail.fr/offres/recherche/detail/191CNNW) ne nomme pas l'employeur. Vérifier l'opposition avant tout appel. Deuxième passe (27/10/2026) : aucun numéro, site ni e-mail trouvé pour EL FAYZI (transport routier, notamment de béton prêt à l'emploi, rue des Fondeurs à Cosne) : seules des fiches légales (PagesJaunes SIRET, societe.com, verif) ressortent. Opposition à la prospection : coordonnées société uniquement. Vérification : relecture seule, aucune coordonnée retenue, cohérent avec l'opposition à la prospection. Troisième passe (27/10/2026) : angles adresse (rue des Fondeurs), groupe (holding EF TRANSPORTS, même adresse et même gérant Ibrahim El Fayzi : Kompass n'affiche qu'un 01 43 34 34 34 parisien manifestement générique, Hoodspot masque le numéro) et offres d'emploi (France Travail 197NJNK, conducteur de malaxeur à béton à Cosne, employeur non confirmé) sans numéro de niveau société. Une autre société de transport, M.T.A., est donnée à la même adresse avec le 03 86 24 97 33 (transporteur.tel) mais aucun lien avec EL FAYZI n'est établi, numéro non retenu ; opposition à la prospection : contacts société uniquement. Vérification : relecture seule (pas de recherche), aucune coordonnée retenue ; le 03 86 24 97 33 (M.T.A.) et le 01 43 34 34 34 (Kompass) restent à juste titre écartés faute de lien avec la société ; cohérent avec l'opposition à la prospection.",
+  "opposition_prospection": true
+ }
+]

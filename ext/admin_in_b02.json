@@ -1,0 +1,433 @@
+[
+ {
+  "rang": 45,
+  "siren": "819621194",
+  "nom": "ASTRA RECYCLAGE",
+  "nom_commercial": "Groupe Astradec Environnement",
+  "nom_court": "Astra Recyclage Saint-Éloi (groupe Astradec)",
+  "ville": "Saint-Éloi",
+  "adresse": "6 ZI de Nevers - Saint-Éloi",
+  "activite": "Collecte et traitement des déchets",
+  "effectif": "20-49",
+  "groupe": "Groupe Astradec",
+  "site_web": "https://www.astradec.com",
+  "dirigeants": [
+   {
+    "nom": "E.B.P.",
+    "fonction": "Président (personne morale)"
+   },
+   {
+    "nom": "Emmanuel BIALLAIS",
+    "fonction": "Autre (représentant)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Emmanuel Biallais",
+   "fonction": "Représentant permanent de E.B.P., présidente de la société",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/819621194"
+  },
+  "contact_finance": {
+   "nom": "Emmanuel Biallais",
+   "fonction": "Représentant permanent de E.B.P., présidente de la société",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/819621194"
+  },
+  "decision": "Probablement au siège du groupe Astradec à Arques (Pas-de-Calais) ou chez sa holding E.B.P. : le site de Saint-Éloi est une filiale d'exploitation rachetée par Astradec fin 2020, sans direction financière locale identifiée.",
+  "note_contacts": "Filiale du groupe Astradec (siège à Arques, 62 ; ~300 salariés, ~70 M€ de CA selon une offre France Travail : https://candidat.francetravail.fr/offres/recherche/detail/4923071). Pas de numéro trouvé pour le site de Saint-Éloi (6 route de la Zone industrielle selon Géorisques/travail-industrie.com). Le seul numéro vu est celui du siège du groupe à Arques, 03 21 93 60 60, dans un dossier ICPE de 2021 (https://www.pas-de-calais.gouv.fr/contenu/telechargement/64684/369634/file/PJ 5_1 demande enregistrement ASTRADEC_v2_PJ 5 GROUPE ASTRADEC 2021.pdf) : utilisable pour joindre la direction financière du groupe, mais ce n'est pas le standard du site nivernais. Aucun DAF du groupe trouvé ; dirigeant tiré du registre (deja), non confirmé par une autre source. 2e niveau : toujours aucun standard propre au site de Saint-Éloi (6 recherches : annuaires, presse, site du groupe). Le groupe Astradec (siège Arques 62, ~300 salariés, ~70 M€ de CA, 20 sites, 4 pôles) publie l'email générique contact@astradec.com et le site www.astradec.com (cités dans un dossier ICPE de la préfecture du Pas-de-Calais et un annuaire pro ; attribution exacte de l'email à vérifier). Le site de Saint-Éloi a été racheté par Astradec le 28/12/2020 (Géorisques) ; une autre société ASTRA RECYCLAGE (même nom) recrute à Saint-Florentin (89), ex-Odelot Recyclage. Historique : Le Journal des Entreprises citait Eric Bée comme dirigeant-fondateur d'Astradec (article ancien, ~2010) ; E.B.P. est vraisemblablement sa holding (projet de financement « E.B.P. » sur october.eu : https://october.eu/project/e-b-p/), non confirmé. Emmanuel Biallais n'apparaît dans aucune source hors registre. Aucun DAF/RAF trouvé. À l'appel : passer par le siège d'Arques (03 21 93 60 60, numéro vu en 2021 dans un dossier ICPE, non reconfirmé) et demander qui gère la finance des filiales et qui dirige le site de Saint-Éloi. Deuxième cercle (27/10/2026) : le site de Saint-Éloi (6 route de la Zone industrielle, SIRET 819 621 194 00060) est au 09 66 86 18 45 sur la page « Nos implantations » d'Astradec, et le standard du siège du groupe à Arques (62), où se prend probablement la décision, est le 03 21 93 60 60, confirmé sur la page contact d'astradec.com (https://www.astradec.com/contact-media/). À noter : activité du site suspendue par arrêté préfectoral du 26/06/2026, suspension levée le 09/10/2026 (nievre.gouv.fr). Vérification : confirmé, la page « Nos implantations » d'astradec.com donne le 09 66 86 18 45 pour Astra Recyclage, 6 route de la Zone industrielle à Saint-Éloi (même numéro pour Astradec Saint-Éloi, repris par Pages Jaunes et 118712) ; le 03 21 93 60 60 du siège n'a pas été recontrôlé.",
+  "qui_appeler": "Appeler le 09 66 86 18 45, standard du site de Saint-Éloi, et demander qui dirige le site nivernais. Au siège du groupe à Arques, 03 21 93 60 60, où se prend probablement la décision, demander qui gère la finance des filiales, ou Emmanuel Biallais, représentant de la présidente E.B.P. ; à défaut, le responsable administratif et financier du groupe (e-mail générique du groupe : contact@astradec.com, attribution à vérifier)."
+ },
+ {
+  "rang": 47,
+  "siren": "411012107",
+  "nom": "FORESTA",
+  "nom_commercial": "Foresta (marques Foresta, Habrita)",
+  "nom_court": "Foresta / Habrita (abris bois, Challuy)",
+  "ville": "Challuy",
+  "adresse": "63 route de Bourges",
+  "activite": "Commerce de gros",
+  "effectif": "20-49",
+  "groupe": "Burgundy Garden",
+  "site_web": "https://foresta.fr",
+  "linkedin": "https://www.linkedin.com/company/foresta-sa",
+  "dirigeants": [
+   {
+    "nom": "BURGUNDY GARDEN",
+    "fonction": "Président (personne morale)"
+   },
+   {
+    "nom": "Eric BOUVIER",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Eric Bouvier",
+   "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411012107"
+  },
+  "contact_finance": {
+   "nom": "Eric Bouvier",
+   "fonction": "Directeur général (présidente : Burgundy Garden, personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/411012107"
+  },
+  "decision": "Probablement à Challuy, chez le dirigeant repreneur via la holding Burgundy Garden, avec l'aval du fonds Atlantic Entrepreneur Fund (groupe suisse Atlantic) qui a participé à la reprise de Foresta vers 2021.",
+  "note_contacts": "Aucun numéro trouvé. L'email order.foresta@altona.fr (adresse de commande, domaine altona.fr) figure dans les fiches fabricant des abris Habrita/Foresta chez des revendeurs (Bricocash, Mr Bricolage) avec l'adresse route de Bourges, Challuy : source revendeur, pas le site de l'entreprise. Aucun site web propre confirmé. Personne physique derrière Burgundy Garden non identifiée ; DG tiré du registre (deja), non confirmé par une autre source (homonymes Eric Bouvier sans lien). 2e niveau : Foresta (créée en 1997, marque Habrita « du groupe Foresta », ~39 salariés en France et ~55 en Roumanie) a été transmise vers 2021 : cfnews titrait « Foresta planche sur sa transmission » (04/03/2021, https://cfnews.net/Annuaires-base-de-deals/Acteurs-Corporate-Finance/Fonds-d-investissement/ATLANTIC-ENTREPRENEUR-LUXEMBOURG) et allnews.ch « Atlantic Entrepreneur Fund participe à la reprise de Foresta » (https://allnews.ch/node/44632) ; ce fonds finance des MBI de managers repreneurs, d'où Burgundy Garden = holding de reprise, Eric Bouvier (DG au registre) probablement le repreneur — non confirmé, nom absent des extraits. Les fiches Habrita chez Bricomarché confirment la raison sociale Foresta, 63 route de Bourges à Challuy, mais sans téléphone ; pas de site officiel habrita/foresta trouvé dans les résultats. Email déjà connu (order.foresta@altona.fr, adresse de commande) inchangé. Aucun standard, aucun RAF trouvé (6 recherches). À l'appel : obtenir le standard via un annuaire au moment de l'appel, demander M. Bouvier et le/la responsable administratif(ve) et financier(ère). Deuxième cercle (27/10/2026) : standard 03 86 37 76 21 publié dans les mentions légales du site officiel foresta.fr (63 route de Bourges, Challuy), qui donne aussi le 03 86 37 50 52 pour l'agence de Nevers à la même adresse. Décision sur place à Challuy, chez la direction (Eric Bouvier, DG ; holding Burgundy Garden). Vérification : confirmé, le 03 86 37 76 21 figure dans les mentions légales de foresta.fr et chez Pages Jaunes, Waze et Cylex pour Foresta, 63 route de Bourges à Challuy ; Pages Jaunes signale aussi un projet de fusion (annonce légale du 29/05/2026), à vérifier.",
+  "qui_appeler": "Appeler le 03 86 37 76 21, standard du siège de Challuy (63 route de Bourges), et demander Eric Bouvier, directeur général. À défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 48,
+  "siren": "701880486",
+  "nom": "ETOILE 58",
+  "nom_commercial": "Mercedes-Benz Nevers (Groupe Chopard)",
+  "nom_court": "Mercedes-Benz Nevers (groupe Chopard)",
+  "ville": "Nevers",
+  "adresse": "38 boulevard du Pré Plantin",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49 (24 salariés en 2025)",
+  "groupe": "Groupe Chopard Automobile",
+  "site_web": "https://www.groupechopard.com/concessions/mercedes-benz-nevers",
+  "linkedin": "https://www.linkedin.com/company/etoile-58",
+  "dirigeants": [
+   {
+    "nom": "E.C.L.",
+    "fonction": "Président (personne morale)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Erik Chopard-Lallier",
+   "fonction": "Président du Groupe Chopard (E.C.L., présidente de la société)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-chopard-valorise-sa-politique-rse/"
+  },
+  "contact_finance": {
+   "nom": "Sébastien Pate",
+   "fonction": "Directeur financier du groupe Chopard (DAF du groupe, holding à Besançon ; donnée 2020)",
+   "type": "autre",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.autoactu.com/content/uploads/actualite/fichiers/doc_new/477GROUPE-CHOPARD.pdf",
+   "a_confirmer": true
+  },
+  "decision": "Au siège du Groupe Chopard à Besançon (holding E.C.L. d'Erik Chopard-Lallier) : Étoile 58 n'est qu'une concession d'un groupe de ~3 000 salariés et 132 points de vente, dont la finance est centralisée.",
+  "note_contacts": "Standard 03 86 68 21 70 (déjà connu) confirmé seulement par un annuaire (lesvoitures.fr, 38 bd du Pré Plantin) ; la page contact officielle du groupe (https://www.groupechopard.com/mercedes-benz/contact/mercedes-nevers/) confirme qu'Étoile 58 = Mercedes-Benz Nevers, groupe Chopard depuis 2016, mais son numéro n'apparaît pas dans l'extrait. Groupe Chopard : siège à Besançon, ~3 000 salariés, 1,9 Md€ de CA 2024, président Erik Chopard-Lallier, vice-président Quentin Chopard-Lallier depuis 2024 (journalauto.com). Lien E.C.L. = holding d'Erik Chopard-Lallier déduit des initiales, non confirmé par une source. Aucun DAF du groupe identifié : décideur financier = dirigeant par défaut. 2e niveau : standard 03 86 68 21 70 toujours confirmé uniquement par des annuaires (lesvoitures.fr et un second annuaire), absent des extraits de la page officielle groupechopard.com (qui donne seulement les horaires : lun-ven 8h-12h/14h-19h, sam 9h-12h/14h-18h) ; aucun autre numéro trouvé. Finance : l'annuaire 2020 des groupes de distribution (autoactu.com) cite Sébastien Pate comme directeur financier du groupe Chopard (CA 2019 : 872 M€) — donnée de 2020, à faire confirmer (le groupe pèse aujourd'hui 1,9 Md€, il a pu changer). Président : Erik Chopard-Lallier (journalauto 2025), vice-président Quentin Chopard-Lallier. Pas de chef de concession nommé à Nevers. À l'appel : demander le directeur de la concession (relais local), puis le nom et la ligne de la direction financière du groupe à Besançon. Vérification : Erik Chopard-Lallier confirmé président de la holding ECL / Groupe Chopard (annuaire Auto Infos). Aucune trace indépendante de Sébastien Pate comme DAF du groupe (donnée 2020, à revérifier).",
+  "qui_appeler": "Appeler le 03 86 68 21 70 (numéro d'annuaire, à confirmer) et demander le directeur de la concession, puis la direction financière du groupe Chopard à Besançon, peut-être Sébastien Pate (directeur financier en 2020, à confirmer). À défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 56,
+  "siren": "809097561",
+  "nom": "VGB FRANCE - PREFABRIQUES",
+  "nom_commercial": "VGB France",
+  "nom_court": "VGB France Préfabriqués (La Machine)",
+  "ville": "La Machine",
+  "adresse": "ZI Les Fontaines Douces",
+  "activite": "Produits minéraux non métalliques",
+  "effectif": "20-49",
+  "groupe": "Vigobloco (Portugal)",
+  "site_web": "https://www.vgbfrance.fr",
+  "linkedin": "https://www.linkedin.com/company/vgbfranceprefabriques",
+  "dirigeants": [
+   {
+    "nom": "VIGOBLOCO - PRE FABRICADOS S.A.",
+    "fonction": "Président (personne morale étrangère, depuis le 26/11/2024)"
+   },
+   {
+    "nom": "Daniel Filipe DA FONSECA MARINHO",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Daniel Filipe Da Fonseca Marinho",
+   "fonction": "Directeur général (présidente : VIGOBLOCO - PRE FABRICADOS S.A. depuis le 26/11/2024)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/vgb-france-prefabriques_809097561"
+  },
+  "contact_finance": {
+   "nom": "Daniel Filipe Da Fonseca Marinho",
+   "fonction": "Directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/809097561"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eric Mena",
+    "fonction": "Dirigeant cité par Xerfi (rôle non précisé, possiblement ancien président avant la reprise de la présidence par Vigobloco en 11/2024)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/vgb-france-prefabriques_809097561",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au siège du groupe Vigobloco à Ourém (Portugal), présidente de la société depuis novembre 2024, le DG local Daniel Da Fonseca Marinho servant de relais ; décision difficile vu la perte de 2024.",
+  "note_contacts": "Filiale du groupe portugais Vigobloco (Président personne morale VIGOBLOCO - PRE FABRICADOS S.A.). Aucun site web propre ni numéro trouvé (recherche annuaires infructueuse, PagesJaunes recherche bloquée) ; page LinkedIn entreprise connue : https://www.linkedin.com/company/vgbfranceprefabriques. Pas de RAF identifié. 2e niveau : Xerfi donne un CA 2024 d'environ 10,4 M€ (contre 14,3 M€ en 2023, chiffre du CRM) et une perte nette d'environ 681 k€ en 2024 (bénéfice de 706 k€ en 2023) : société en recul, cible moins favorable pour un achat défiscalisé. Dirigeants cités par Xerfi : Daniel Da Fonseca Marinho (DG au registre) et Eric Mena (rôle non précisé, absent du registre transmis — à clarifier). Vigobloco = préfabricant béton portugais d'Ourém (>100 salariés) ; aucune source ne décrit l'acquisition de VGB France, seul le registre lie les deux. Aucun site web, standard, email ni RAF trouvé (6 recherches : annuaires, LinkedIn, presse). Page LinkedIn connue : https://www.linkedin.com/company/vgbfranceprefabriques. À l'appel : chercher le numéro dans un annuaire au moment de l'appel, demander le DG et la personne qui tient la comptabilité (peut-être externalisée ou gérée depuis le Portugal). Deuxième cercle (27/10/2026) : standard 03 86 30 75 18 publié sur la page contacts du site officiel vgbfrance.fr (usine ZI Les Fontaines Douces, La Machine) et repris par Pages Jaunes ; le 01 43 34 34 34 de Kompass n'est pas retenu. Décision probablement au siège du groupe Vigobloco à Ourém (Portugal) : le standard permet de joindre le DG local, Daniel Da Fonseca Marinho. Vérification : non confirmé comme officiel, le 03 86 30 75 18 est donné par Pages Jaunes pour VGB Préfabriqués (VGB FRANCE - PREFABRIQUES, RCS Nevers 809 097 561, ZI Fontaines Douces, La Machine), mais la page vgbfrance.fr/contacts citée n'est pas ressortie : fiabilité ramenée à « annuaire ». Vérification : Aucune trace d'Eric Mena ; seule la fiche annuaire-entreprises de VGB France - Préfabriqués (La Machine) ressort.",
+  "qui_appeler": "Appeler le 03 86 30 75 18, standard de l'usine de La Machine, ZI Les Fontaines Douces (numéro d'annuaire, à confirmer), et demander Daniel Da Fonseca Marinho, directeur général. À défaut, demander la personne qui tient la comptabilité ou le responsable administratif et financier."
+ },
+ {
+  "rang": 71,
+  "siren": "331967943",
+  "nom": "AIZEN INDUSTRIES FRANCE S.A.",
+  "nom_commercial": "ex-Aisan Industry France",
+  "nom_court": "Aizen Industries France (ex-Aisan), Nevers",
+  "ville": "Nevers",
+  "adresse": "1-6 rue des Grands Champs, 58000 Nevers",
+  "activite": "Fabrication de machines et équipements",
+  "effectif": "20-49 (37 salariés en 2024 ; ~60 annoncés en 2023)",
+  "groupe": "Ancienne filiale du groupe japonais AISAN ; nouvel actionnariat lié à la famille Gupta depuis 2025",
+  "site_web": "http://www.aisanindustryfrance.fr",
+  "linkedin": "https://www.linkedin.com/company/aisan-industry-fr-sa",
+  "dirigeants": [
+   {
+    "nom": "Ambrish Kumar GUPTA",
+    "fonction": "Président du conseil d'administration"
+   },
+   {
+    "nom": "Shelaindra BHARDWAJ",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Karan GUPTA",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Shelaindra Bhardwaj",
+   "fonction": "Directeur général (président du conseil d'administration : Ambrish Kumar Gupta)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/aisan-industry-france_331967943"
+  },
+  "contact_finance": {
+   "nom": "Shelaindra Bhardwaj",
+   "fonction": "Directeur général (aucun DAF/RAF identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/aisan-industry-france_331967943"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre-Yves Boix",
+    "fonction": "Cité parmi les dirigeants/mandataires par Xerfi (rôle exact non précisé, peut-être administrateur ou représentant ; absent de la liste du registre fournie)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.xerfi.com/etudes-par-entreprise/aisan-industry-france_331967943",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement hors du site : chez les nouveaux actionnaires liés à la famille Gupta (Ambrish Kumar et Karan Gupta, a priori basés en Inde, ville non trouvée) qui contrôlent le conseil d'administration, le DG Shelaindra Bhardwaj relayant ; société en pertes trois années de suite avec un CA en baisse (11,2 M€ en 2023, 9,9 M€ en 2024), donc achat discrétionnaire peu probable.",
+  "note_contacts": "Le numéro de contact est un 07 (mobile) publié comme contact de l'entreprise dans la présentation Aisan Industry France de 2024 (pôle Véhicule du Futur) : numéro professionnel publié, mais antérieur au changement de nom en Aizen Industries France, à revérifier. Aucune source en ligne sur la reprise par Aizen ni sur les nouveaux dirigeants indiens (registre uniquement). Sources anciennes : MarketScreener citait Koji Tanaka (Chairman & GM) et un document de 2020 citait Nicolas Berhault comme directeur d'usine — ce dernier est aujourd'hui DG de COMMAND-SMFI (Cosne) depuis 04/2026. Aucun DAF/RAF trouvé : décideur financier = DG par défaut. 2e niveau : 6 recherches. Aucune source en ligne sur le nom « Aizen Industries France » ni sur la reprise par la famille Gupta : les dirigeants actuels (Ambrish Kumar Gupta PCA, Shelaindra Bhardwaj DG, Karan Gupta administrateur) ne sont connus que par le registre et Xerfi, qui cite aussi un Pierre-Yves Boix (rôle à préciser). MarketScreener/Zonebourse présente encore Koji Tanaka comme Chairman & General Manager (périmé). Le seul numéro publié est un 07 donné comme contact de l'entreprise dans sa présentation 2024 (pôle Véhicule du Futur), avec l'email aif@aisan-ind.fr et le site aisanindustryfrance.fr : tous antérieurs au changement d'actionnaire et de nom, le domaine aisan-ind.fr (groupe japonais) pourrait ne plus fonctionner. Aucun 03 86 trouvé (ni SIRENE ni annuaire dans les extraits). Aucun DAF/RAF/comptable identifié. Xerfi : 37 salariés, CA 9 935 k€ en 2024, résultat net négatif trois ans de suite. À demander à l'appel : le standard fixe actuel, si M. Bhardwaj est présent à Nevers, et qui tient la comptabilité (interne ou cabinet). Vérification : Aucun résultat pour Pierre-Yves Boix lié à Aisan Industry France.",
+  "qui_appeler": "Le seul numéro publié est un mobile de 2024 (07 45 89 14 30), antérieur au changement de nom : l'appeler pour obtenir le standard fixe actuel et demander Shelaindra Bhardwaj, directeur général. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité."
+ },
+ {
+  "rang": 75,
+  "siren": "331066639",
+  "nom": "SOC GARAGE G R V",
+  "nom_commercial": "Garage GRV – Citroën & Peugeot Cosne (Groupe Vincent)",
+  "nom_court": "Garage GRV Citroën Peugeot Cosne",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "Chemin Rural du Grand Champ, Avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49",
+  "groupe": "Groupe Vincent Automobile",
+  "site_web": "https://www.groupevincent.fr/",
+  "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président de SAS (dirigeant du Groupe Vincent)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-vincent-repasse-a-loffensive/"
+  },
+  "contact_finance": {
+   "nom": "Rodolphe Vincent",
+   "fonction": "Président de SAS (aucun DAF/RAF/chef comptable du groupe publié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/les-bonnes-affaires-du-groupe-vincent/"
+  },
+  "decision": "Au niveau du groupe familial Vincent, dont le siège (holding VINCENT SAS) est route de Paris à Varennes-Vauzelles (Nièvre) : Rodolphe Vincent préside le Garage GRV comme toutes les sociétés sœurs du groupe (Citroën/DS, Peugeot, Toyota, Fiat, Distance).",
+  "note_contacts": "Le numéro 03 86 28 49 70 vient seulement de « deja » : une recherche exacte sur ce numéro ne renvoie aucune page, donc non confirmé. Le garage est bien listé comme atelier Peugeot (Chemin rural du Grand Champ, 58204 Cosne-sur-Loire Cedex : https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB17007_garage-grv) et Citroën (https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB20025_sa-garage-grv-cosne-sur-loire), sans numéro dans les extraits. Groupe Vincent : 16 concessions (Cher, Loiret, Nièvre, Allier), 367 salariés en 2019 (journalauto.com) ; aucun DAF/RAF du groupe identifié, décideur financier = président par défaut. 2e niveau : 6 recherches. Le 03 86 28 49 70 (repris du CRM) reste non confirmé : aucune page officielle (citroen.fr, peugeot.fr, groupevincent.fr) ni annuaire ne l'affiche dans les extraits ; idGarages (Peugeot : https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB17007_garage-grv ; Citroën : https://www.idgarages.com/fr-fr/garage/cosne-cours-sur-loire/GB20025_sa-garage-grv-cosne-sur-loire) et Justacoté (« Sa Garage Grv Cosne Sur Loire – Citroën ») confirment l'adresse Chemin rural du Grand Champ (58204 Cosne-sur-Loire Cedex) sans numéro ; Tiendeo situe une vitrine Peugeot avenue du 85e de Ligne. À vérifier sur la page établissement du site du groupe (modèle https://www.groupevincent.fr/etablissement/…, cf. Distance Cosne-sur-Loire relevé au lot t02) ou sur un mini-site concessions.peugeot.fr. Dirigeant conforme au registre ; presse spécialisée (Journal de l'Automobile) seulement jusqu'en 2019 : 16 concessions Cher/Loiret/Nièvre/Allier, 367 salariés. Aucun DAF, RAF, chef comptable, contrôleur de gestion ni directeur de site nommé (presse, offres d'emploi, LinkedIn). À demander à l'appel : le nom du chef de site / directeur de la concession de Cosne et du responsable administratif et financier du groupe (siège route de Paris à Varennes-Vauzelles), et le bon numéro fixe du garage.",
+  "qui_appeler": "Appeler le 03 86 28 49 70 (numéro repris de notre fichier, non confirmé) et demander le chef de site de la concession de Cosne, ou directement Rodolphe Vincent, président du garage et dirigeant du groupe Vincent. À défaut, demander le responsable administratif et financier du groupe, au siège de Varennes-Vauzelles."
+ },
+ {
+  "rang": 80,
+  "siren": "919448043",
+  "nom": "VALENJE",
+  "nom_commercial": "Carrefour Market Decize",
+  "nom_court": "Carrefour Market Decize",
+  "ville": "Decize",
+  "adresse": "18 route de Champvert, 58300 Decize",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "groupe": "Franchisé Carrefour (holding CORVAHIE)",
+  "site_web": "https://www.carrefour.fr/magasin/market-decize",
+  "dirigeants": [
+   {
+    "nom": "CORVAHIE (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "CORVAHIE (personne morale)",
+   "fonction": "Présidente de SAS (registre) ; dirigeant personne physique de la holding non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/919448043"
+  },
+  "contact_finance": {
+   "nom": "CORVAHIE (personne morale)",
+   "fonction": "Présidente de SAS (registre) ; aucun responsable financier identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/919448043"
+  },
+  "decision": "Chez le franchisé, via sa holding CORVAHIE (ville non identifiée) : le Carrefour Market de Decize est un magasin franchisé (enseigne ouverte le 03/10/2022 selon ac-franchise), donc l'achat relève de l'exploitant et non du siège Carrefour.",
+  "note_contacts": "Standard du magasin Carrefour Market Decize (18 route de Champvert) vu sur un annuaire de magasins (bible-marques) ; ne pas confondre avec le numéro du Carrefour Drive (09 80 98 09 86, https://www.bonial.fr/Magasins/Decize/Carrefour-Drive-route-de-Champvert/v-f541027171), service centralisé. Présidente au registre : CORVAHIE (personne morale) ; la personne physique qui la dirige n'a pas été identifiée (3 recherches sans résultat) : pas de dirigeant ni de décideur financier nommé. Magasin franchisé (ac-franchise : https://ac-franchise.com/store/carrefour-market-776/). 2e niveau : 6 recherches. Standard 03 86 25 11 77 confirmé par deux annuaires concordants (PagesJaunes https://www.pagesjaunes.fr/pros/55681845, 18 route de Champvert, et bible-marques https://www.bible-marques.fr/magasins/58300-decize/carrefour) ; la page officielle du magasin (https://www.carrefour.fr/magasin/market-decize) existe mais le numéro n'a pas pu y être lu, d'où fiabilité « annuaire ». Ne pas confondre avec le drive (09 80 98 09 86 selon carrefour.fr, 09 80 98 09 87 selon le site traiteur Carrefour), ni avec le E.Leclerc voisin (03 86 25 50 00). Aucune trace en ligne de CORVAHIE ni de VALENJE (holding et société d'exploitation non indexées), aucun article de presse sur l'ouverture de 2022, aucun nom de directeur de magasin. À l'appel : demander le nom du directeur du magasin et celui du franchisé (dirigeant de CORVAHIE), et si la comptabilité est tenue au magasin, à la holding ou par un cabinet externe. Vérification : 03 86 25 11 77 : la recherche du numéro exact ne donne rien ; seul l'annuaire déjà cité (bible-marques) le relie au Carrefour de Decize, les autres fiches (Tiendeo, ac-franchise, l-itineraire) confirment l'adresse 18 route de Champvert sans numéro. Reste une source annuaire unique.",
+  "qui_appeler": "Appeler le magasin au 03 86 25 11 77 (numéro d'annuaire, à confirmer) et demander le directeur du magasin, puis le nom du franchisé qui dirige la holding CORVAHIE. À défaut, demander le responsable administratif et financier ou la personne qui suit la comptabilité."
+ },
+ {
+  "rang": 98,
+  "siren": "450817200",
+  "nom": "SUMIRIKO SD FRANCE SAS",
+  "nom_commercial": "SumiRiko SD France (ex-Anvis SD France)",
+  "nom_court": "SumiRiko SD France (ex-Anvis), Decize",
+  "ville": "Decize",
+  "adresse": "Usine des Caillots, Les Caillots, 58300 Decize",
+  "activite": "Recherche-développement scientifique",
+  "effectif": "20-49",
+  "groupe": "Sumitomo Riko (Japon)",
+  "site_web": "https://avs.sumiriko.com",
+  "dirigeants": [
+   {
+    "nom": "Carlos Jimenez",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Stéphane Birebent",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Stéphane Birebent",
+   "fonction": "Directeur général (registre ; président de la SAS : Carlos Jimenez)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/450817200"
+  },
+  "contact_finance": {
+   "nom": "Stéphane Birebent",
+   "fonction": "Directeur général (aucun responsable financier nommé ; la finance France semble pilotée par la direction financière d'Anvis Holding)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/450817200"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Carlos Jimenez",
+    "fonction": "Président de SAS (registre ; vraisemblablement dirigeant au niveau du groupe SumiRiko AVS Europe)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/450817200",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Au niveau du groupe Sumitomo Riko (Japon), via sa branche européenne SumiRiko AVS Europe (ex-groupe Anvis, d'origine allemande) et Anvis Holding, dont le directeur financier établit les budgets de toutes les entités françaises en lien avec leurs directeurs généraux : une petite entité de R&D comme celle-ci n'a vraisemblablement pas d'autonomie d'achat.",
+  "note_contacts": "Filiale du groupe japonais Sumitomo Riko (ex-Anvis SD France), sur le même site que Anvis Decize (Usine des Caillots). Aucun numéro, email ni site propre trouvé, ni pour cette société ni pour le site des Caillots. Dirigeants tirés du registre (deja), non confirmés en ligne ; verif.com présente Axel Edwin Benz comme directeur général de SumiRiko SD France depuis 2014 (https://www.verif.com/en/leaders/Axel-BENZ-3623766/), information probablement périmée. Aucun responsable financier identifié. 2e niveau : 6 recherches. Société de R&D du groupe Sumitomo Riko à Decize (registre : Usine des Caillots) ; Verif la donne filiale du groupe Sumitomo Electric et lui attribue le site wocogroup.com (héritage Woco/Anvis, périmé). Sur le même site des Caillots : SumiRiko Rubber Compounding France (SIREN 322804931, CA ≈ 25 M€ en 2024) ; Patsnap cite aussi SumiRiko Industry France SAS à Decize. La page presse d'Anvis signale un déménagement d'Anvis des Caillots vers la zone du Four-à-Chaux à Decize : l'adresse de cette société est peut-être à mettre à jour. Le groupe Anvis est devenu SumiRiko AVS Europe en 2017. Aucun numéro de standard trouvé (ni annuaire, ni page officielle). Dirigeants : seulement le registre (Carlos Jimenez président, Stéphane Birebent DG), aucune source en ligne ; la mention d'Axel Edwin Benz comme DG (verif.com, depuis 2014) est périmée. Finance : Anvis a publié en 2023 des offres de contrôleur de gestion industriel senior à Decize (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-Controleur-de-Gestion-industrielle-senior.pdf) et de directeur financier d'Anvis Holding couvrant toutes les entités françaises (https://anvisgroup.com/wp-content/uploads/2023/09/Offre-demploi-DIRECTEUR-FINANCIER.pdf), sans nom ; un profil Viadeo décrit un ancien responsable financier et informatique Anvis France (Decize et Épinal, 2015-2017), donc périmé. À demander à l'appel (via le standard Anvis/SumiRiko de Decize) : le nom du directeur financier d'Anvis Holding / SumiRiko France et si M. Birebent est sur le site de Decize. Deuxième cercle (27/10/2026) : standard 03 86 77 32 32 (Usine des Caillots, Decize), publié pour SumiRiko SD France sur la page « Locations » de SumiRiko AVS et dans sa politique de confidentialité, commun au site des Caillots (SumiRiko Rubber Compounding France) ; Anvis Decize a son propre standard, 03 86 77 33 33. Décision au niveau du groupe Sumitomo Riko via SumiRiko AVS Europe : demander au standard M. Birebent et le responsable financier. Vérification : non confirmé comme officiel, le 03 86 77 32 32 est donné pour SumiRiko SD France, Les Caillots à Decize, par Infonet et Datalegal, mais la page « Locations » d'avs.sumiriko.com citée n'est pas ressortie : fiabilité ramenée à « annuaire ». Vérification : Recherche nom + SumiRiko AVS Europe : uniquement des homonymes (basketteur, footballeur, commerciaux). SumiRiko AVS Germany est dirigée par Kazuhiko Kato selon un profil trouvé. Président de la SAS selon le seul registre.",
+  "qui_appeler": "Appeler le 03 86 77 32 32, standard de l'usine des Caillots à Decize, commun aux sociétés SumiRiko du site (numéro d'annuaire, à confirmer), et demander Stéphane Birebent, directeur général, en vérifiant qu'il travaille sur place. Demander aussi le nom du directeur financier d'Anvis Holding, qui établit les budgets des sociétés françaises ; à défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 100,
+  "siren": "880515994",
+  "nom": "COMMAND-SMFI",
+  "nom_commercial": "SMFI",
+  "nom_court": "SMFI (Command-SMFI), Cosne-Cours-sur-Loire",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "5 rue des Guérins, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Métallurgie",
+  "effectif": "20-49",
+  "site_web": "https://www.command-smfi.com/",
+  "dirigeants": [
+   {
+    "nom": "Charles Garvey",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Nicolas Berhault",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "decision": "Vraisemblablement prise à Cosne-Cours-sur-Loire même : SAS autonome (aucun groupe identifié) créée en 2020 pour reprendre l'ancienne activité produits de forage SMFI/Vallourec du site, sans siège extérieur connu — à confirmer au standard.",
+  "note_contacts": "Opposition à la prospection (Pappers) : seules les coordonnées de l'entreprise ont été recherchées. Aucun numéro, email ni site web trouvé (3 recherches). Xerfi (https://www.xerfi.com/etudes-par-entreprise/command-smfi_880515994) : société créée en janvier 2020, fabrication et vente de matériel de forage (NAF tubes et profilés en acier), CA 7,3 M€ en 2024, 20-49 salariés — vraisemblablement l'ancienne activité produits de forage de Vallourec/SMF International à Cosne (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638). Aucun site de l'entreprise trouvé, donc aucun nom de décideur repris. 2e niveau : opposition à la prospection (Pappers), donc uniquement des coordonnées d'entreprise et aucun nom hors site officiel. 6 recherches supplémentaires sans résultat : aucun site web, aucun numéro de standard, aucun email générique publiés. Seule la fiche LEI Bloomberg (https://lei.bloomberg.com/leis/view/969500S5WC7849E1Y596) confirme la SAS COMMAND-SMFI active au 5 rue des Guérins, 58200 Cosne-Cours-sur-Loire. Contexte : en 2017, Vallourec a cédé à NOV ses produits de forage, hors sites français de Cosne et Tarbes, mis en vente séparément. La page CFNews sur cette cession (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638) cite SMFI et ALTIFOR en mots-clés, sans détail visible. Une question à l'Assemblée nationale (https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QG451.pdf) indiquait alors 139 salariés à Cosne ; l'effectif actuel est de 20 à 49. Attention : GlobalSpec liste « Vam Drilling France » au 7 rue des Frères Lumière à Cosne, une autre adresse et une autre entité (ancienne dénomination Vallourec), dont les coordonnées ne doivent pas être reprises. La marque SMFI (tiges, masses-tiges, stabilisateurs) appartient historiquement à SMF International. À faire : chercher le numéro par l'annuaire inversé ou l'accueil de la zone des Guérins, puis demander au standard qui gère la comptabilité (interne ou expert-comptable externe) et qui décide des achats hors production. Deuxième cercle (27/10/2026) : standard du site de Cosne (5 rue des Guérins) au 03 73 58 00 26, publié sur le site officiel command-smfi.com (page Contact, pages peut-être antérieures à 2022) et repris par Cylex, Bottin et Infonet ; décision vraisemblablement à Cosne, le site affichant aussi un bureau Command Tubular à New Caney (Texas, États-Unis) qui laisse supposer un lien avec ce groupe américain. Email du site masqué (non repris) ; ne pas utiliser le portable 07 85 77 42 15 (fiche CCI) ni le 03 86 39 52 00 de l'ancienne société Altifort SMFI. Vérification : non confirmé comme officiel — une recherche sur le numéro le retrouve bien pour Command-SMFI au 5 rue des Guérins à Cosne (Pages Jaunes, Cylex, Bottin, Infonet), mais pas sur le site command-smfi.com, d'où une fiabilité « annuaire » ; aucun email générique à retirer.",
+  "opposition_prospection": true,
+  "qui_appeler": "Appeler le 03 73 58 00 26, standard du site de Cosne, 5 rue des Guérins (numéro d'annuaire, à confirmer), et demander Nicolas Berhault, directeur général, ou Charles Garvey, président ; à défaut, demander qui tient la comptabilité ou le responsable administratif et financier. Contact direct uniquement, pas de mailing."
+ },
+ {
+  "rang": 114,
+  "siren": "631880374",
+  "nom": "CENTRE MEDICAL DE LA VENERIE",
+  "ville": "Champlemy",
+  "adresse": "CHAMPLEMY",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "VP SANTE",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "VP SANTE (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"
+  },
+  "contact_finance": {
+   "nom": "VP SANTE (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/centre-medical-de-la-venerie-631880374"
+  },
+  "note_contacts": "Centre de soins médicaux et de réadaptation (SMR). Standard 03 86 69 50 00 (fax 03 86 69 23 60) concordant sur plusieurs annuaires (etablissementsdesante.fr, santeenfrance.fr, gowork.fr) : source agrégateur. Directeur d'établissement et représentant de VP SANTE non trouvés ; le décideur financier est probablement au niveau du groupe VP SANTE. Recherche interrompue : quota de recherches web de la session épuisé."
+ }
+]

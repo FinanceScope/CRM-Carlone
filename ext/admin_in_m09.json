@@ -1,0 +1,518 @@
+[
+ {
+  "rang": 3,
+  "siren": "571881002",
+  "nom": "VINCENT SAS",
+  "nom_commercial": "Groupe Vincent (concessions automobiles)",
+  "nom_court": "Groupe Vincent (holding, Varennes-Vauzelles)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "3 route de Paris, 58640 Varennes-Vauzelles",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "effectif": "10-19 (holding) ; ≈450 salariés pour le groupe",
+  "groupe": "Groupe Vincent (holding familiale ; filiales dont SAS Garage Vincent, Central Parc Automobile)",
+  "site_web": "https://www.groupevincent.fr",
+  "linkedin": "https://www.linkedin.com/company/groupe-vincent-automobile/",
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Guillaume VINCENT",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (dirigeant du Groupe Vincent ; aussi président de Central Parc Automobile)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://journalauto.com/distribution/le-groupe-vincent-se-porte-acquereur-dun-site-citroen-et-ds-dans-le-cher/"
+  },
+  "contact_finance": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS (aucun DAF/RAF/chef comptable du groupe trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/571881002"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Guillaume VINCENT",
+    "fonction": "Directeur général délégué (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/571881002",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision prise à Varennes-Vauzelles, au siège de la holding familiale VINCENT SAS, par Rodolphe Vincent : groupe familial indépendant dont le siège et la principale concession (Citroën, 3 route de Paris) sont dans la Nièvre.",
+  "note_contacts": "Numéro standard repris de « deja » (concession Citroën SAS Garage Vincent, 3 route de Paris, même adresse que le siège), non reconfirmé par les recherches. Builtwith attribue au Groupe Vincent le +33 3 81 31 19 89 (indicatif du Doubs, incohérent, non retenu : https://builtwith.com/meta/groupevincent.fr). Aucun DAF / RAF / contrôleur de gestion trouvé en 3 recherches malgré la taille du groupe (≈450 salariés, concessions Citroën, Peugeot, Toyota, Fiat/Jeep dans le Cher, le Loiret, la Nièvre et l'Allier) : à demander au standard. 2e niveau : 6 recherches. Standard 03 86 68 22 00 (concession Citroën SAS Garage Vincent, 3 route de Paris, même adresse que le siège) confirmé seulement par des annuaires (lesvoitures.fr ; idgarages, Mappy et acceslibre confirment l'adresse sans numéro) : aucune page officielle citroen.fr trouvée, d'où fiabilité « annuaire ». Autre site du groupe : Fiat SAS Garage Vincent, 30 route de Paris, 03 86 71 09 10 (annuaire). Le +33 3 81 31 19 89 de BuiltWith reste incohérent (indicatif du Doubs), non retenu. Dirigeant : Rodolphe Vincent cité par la presse auto jusqu'en 2019 (Journal de l'Automobile : 16 concessions Cher/Loiret/Nièvre/Allier, 170 M€ de CA et 367 salariés en 2019) et président de Central Parc Automobile (rubypayeur, CAC COGEP) ; registre cohérent, pas de source plus récente. Aucun DAF, RAF, chef comptable ni contrôleur de gestion publié malgré la taille du groupe (pas d'offre d'emploi ni de profil trouvé). À demander à l'appel : le nom du responsable administratif et financier / chef comptable du groupe au siège de Varennes-Vauzelles et le rôle de Guillaume Vincent (DG délégué). Vérification : 03 86 68 22 00 rattaché par un annuaire indépendant à la concession Citroën SAS Garage Vincent, 3 route de Paris (adresse du siège) : c'est le numéro de la concession, pas une ligne propre à la holding. Rodolphe Vincent : seul l'article Journal de l'Automobile de 2018 ressort ; président au registre, aucun départ trouvé. Recherche nom + « Groupe Vincent » + Nevers : seulement des homonymes (metteur en scène, peintre) et un Groupe Vincent canadien. Aucune trace indépendante du DG délégué ; ne repose que sur le registre. Téléphone 03 86 68 22 00 : concession Citroën SAS Garage Vincent, 3 route de Paris – même adresse que le siège.",
+  "qui_appeler": "Appeler le 03 86 68 22 00 (concession Citroën à l'adresse du siège, numéro d'annuaire) et demander le secrétariat de Rodolphe Vincent, président du groupe. À défaut, demander le responsable administratif et financier ou le chef comptable du groupe."
+ },
+ {
+  "rang": 12,
+  "siren": "399502897",
+  "nom": "HOLDING CASSIER",
+  "nom_court": "Groupe Cassier (TC-Transports) Cercy-la-Tour",
+  "ville": "Cercy-la-Tour",
+  "adresse": "33 avenue Louis Coudant, 58340 Cercy-la-Tour",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "effectif": "10-19",
+  "groupe": "Groupe familial Cassier (filiales dont TC Environnement / TC Manutention)",
+  "site_web": "https://tc-transports.fr",
+  "dirigeants": [
+   {
+    "nom": "Jean-François CASSIER",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Alain CASSIER",
+    "fonction": "Président du conseil de surveillance"
+   },
+   {
+    "nom": "Luc CASSIER",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Jean-Luc FUMOUX",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Membre du directoire"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-François CASSIER",
+   "fonction": "Président de SAS (registre ; holding du groupe familial TC-Transports)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/399502897"
+  },
+  "contact_finance": {
+   "nom": "Jean-François CASSIER",
+   "fonction": "Président de SAS (registre) — aucun DAF/RAF du groupe TC-Transports nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/399502897"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jean-Luc FUMOUX",
+    "fonction": "Membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/399502897",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/399502897"
+   }
+  ],
+  "decision": "Décision prise à Cercy-la-Tour par la famille Cassier : HOLDING CASSIER est la tête du groupe familial de transport et logistique TC-Transports (créé en 1981, 11 sites, plus de 700 salariés) et de TC Environnement, sans actionnaire extérieur identifié.",
+  "note_contacts": "Aucun résultat en 3 recherches (raison sociale + adresse, nom dans la commune, noms des dirigeants) ; activité opérationnelle du groupe (71,5 M€) non identifiée. Le registre mélange président de SAS et organes de SA à directoire (Alain CASSIER président du conseil de surveillance, Luc CASSIER, J.-L. FUMOUX et P. RACOUCHOT membres du directoire) : liste probablement en partie ancienne. Les membres du directoire hors famille pourraient porter la fonction financière, non vérifié. 2e niveau : 6 recherches. Activité identifiée : HOLDING CASSIER est la holding du groupe familial TC-Transports (transport routier, logistique, stockage, manutention, transport de verre ; « groupe familial français de transports et logistique créé en 1981 », 11 sites en France, plus de 700 salariés) et de TC ENVIRONNEMENT (SAS créée en 2012, présidée par la SARL CASSIER DEVELOPPEMENT, projet de plateforme de broyage de pneus usagés au lieu-dit Les Fourneaux) — source : dossier ICPE PJ11 capacités techniques et financières, préfecture de la Nièvre (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Siège TC-Transports avenue Louis Coudant à Cercy-la-Tour (ContactOut, https://contactout.com/company/TC-TRANSPORTS-6049) ; Railmarket mentionne un bureau commercial à Digoin (71). Aucun numéro ni site officiel trouvé dans les extraits (le numéro PagesJaunes vu concernait une autre société, non retenu) : chercher « TC Transports Cercy-la-Tour » sur PagesJaunes / Google Maps, puis demander le service comptabilité / direction administrative et financière du groupe (avec 700 salariés, un DAF ou RAF groupe existe très probablement ; les membres du directoire Jean-Luc FUMOUX ou Pierre RACOUCHOT pourraient porter la finance — non vérifié). Registre mêlant président de SAS et organes de SA à directoire : à faire préciser. « Ets Cassier Combustibles » et « Cassier Vrac » (rue de la Guette) à Cercy portent le même nom, lien non confirmé. Deuxième cercle (27/10/2026) : la page implantations du site officiel du groupe donne le 03 86 50 57 26 pour TC58 / TC Vrac, ZA de la Guette à Cercy-la-Tour, seul standard nivernais publié (TC Services, garage du groupe rue de la Guette : 03 86 50 89 52), sans ligne propre à la holding du 33 avenue Louis Coudant. Le site situe désormais le siège (« home office ») du groupe à Digoin (71, ZI Les Mûriers, agence TC71, 03 85 53 20 24, numéro que PagesJaunes rattache aussi à Holding Cassier mais qui est celui de la société TC71) : faire préciser à l'appel si la décision se prend à Cercy-la-Tour ou à Digoin. Vérification : 03 86 50 57 26 confirmé pour TC58 et TC Vrac à Cercy-la-Tour (PagesJaunes, Industrie Explorer, Tredunion, page implantations de tc-transports.fr) ; c'est le standard nivernais d'une filiale du groupe et non une ligne propre de la holding, ce que la note dit déjà, et le siège à Digoin n'a pas été revérifié. Vérification : Aucun résultat web sur la famille Cassier à Cercy-la-Tour : président confirmé par le registre seulement ; activité opérationnelle toujours non identifiée. Aucun résultat reliant Pierre Racouchot à Holding Cassier. Aucune occurrence de Fumoux associée à Cassier ou à Cercy-la-Tour. Membre du directoire selon le seul registre.",
+  "qui_appeler": "Appeler le 03 86 50 57 26, standard de la filiale TC58 / TC Vrac à Cercy-la-Tour (ZA de la Guette), la holding n'ayant pas de ligne propre, et demander Jean-François Cassier, président de la holding. À défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 24,
+  "siren": "488376278",
+  "nom": "A.B.S AVENIR BENNES ET SERVICES",
+  "nom_commercial": "A.B.S",
+  "nom_court": "A.B.S Avenir Bennes et Services (Clamecy)",
+  "ville": "Clamecy",
+  "adresse": "ZI Bagatelle, avenue Saint-Exupéry, 58500 Clamecy",
+  "activite": "Entreposage et services auxiliaires des transports",
+  "effectif": "10-19",
+  "site_web": "https://www.abstransports.fr",
+  "dirigeants": [
+   {
+    "nom": "Gilles BETHERY",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Romain SAGNE",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Gilles BETHERY",
+   "fonction": "Gérant (cogérant avec Romain SAGNE, selon le registre ; aucune source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/488376278"
+  },
+  "contact_finance": {
+   "nom": "Gilles BETHERY",
+   "fonction": "Gérant (aucun DAF/RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/488376278"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Romain SAGNE",
+    "fonction": "Gérant (cogérant, registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/488376278",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision probablement prise à Clamecy par les deux cogérants (G. Bethery, R. Sagne) : aucune trace de groupe ou de holding extérieure ; la société pilote un réseau de transporteurs adhérents depuis son siège de Clamecy.",
+  "note_contacts": "Aucune trace en ligne de la société (téléphone, site, annuaire) dans les résultats WebSearch, ni par nom ni par SIREN. Le profil surprend : environ 28,8 M€ de CA pour 10 à 19 salariés en entreposage et services auxiliaires des transports. Il peut s'agir d'une structure de négoce ou d'une société liée à un groupe local ; à vérifier sur le registre. 2e passe : 3 recherches (nom exact + Clamecy, transport vrac avenue Saint-Exupéry, nom + téléphone/contact). Seule trace : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) listant « A.B.S. Avenir Bennes et Services », avenue St Exupéry, 58500 Clamecy, transport de vrac sec en France et pays limitrophes (170 véhicules, réseau de 20 transporteurs adhérents, ce qui explique le CA), sans numéro visible dans l'extrait. Aucun standard trouvé. 2e niveau : 6 recherches (nom exact + Clamecy, noms des gérants + transport, sigle A.B.S + vrac, adresse + téléphone, site officiel) sans standard, site ni e-mail. Seule source : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) qui reprend l'auto-présentation de la société : « spécialiste du transport en vrac solide en France et dans les pays limitrophes, flotte de 170 véhicules récents, réseau de 20 transporteurs adhérents », avenue St Exupéry, 58500 Clamecy, numéro non visible dans l'extrait (fonction « afficher le n° » de l'annuaire). Une fiche 118712.fr de transport vrac/céréales (https://www.118712.fr/professionnels/X0dXWl5THwk) pourrait correspondre, non confirmé. Le CA (28,8 M€ pour 10-19 salariés) s'explique par la sous-traitance aux transporteurs adhérents. Dirigeants : registre non contredit, aucune source récente. À faire avant l'appel : relever le numéro sur la fiche 118000.fr ou Pages Jaunes ; à l'appel, demander qui gère la comptabilité (probablement un cabinet externe) et lequel des deux gérants décide. 2e niveau : 6 recherches (nom exact + Clamecy, noms des gérants + transport, sigle A.B.S + vrac, adresse + téléphone, site officiel) sans standard, site ni e-mail. Seule source : fiche 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) qui reprend l'auto-présentation de la société : « spécialiste du transport en vrac solide en France et dans les pays limitrophes, flotte de 170 véhicules récents, réseau de 20 transporteurs adhérents », avenue St Exupéry, 58500 Clamecy, numéro non visible dans l'extrait (fonction « afficher le n° » de l'annuaire). Une fiche 118712.fr de transport vrac/céréales (https://www.118712.fr/professionnels/X0dXWl5THwk) pourrait correspondre, non confirmé. Le CA (28,8 M€ pour 10-19 salariés) s'explique par la sous-traitance aux transporteurs adhérents. Dirigeants : registre non contredit, aucune source récente. À faire avant l'appel : relever le numéro sur la fiche 118000.fr ou Pages Jaunes ; à l'appel, demander qui gère la comptabilité (probablement un cabinet externe) et lequel des deux gérants décide. 3e passe : 5 recherches (nom exact + Clamecy, phrase d'auto-présentation « spécialiste du transport en vrac solide », ABS + bennes céréalières + avenue Saint-Exupéry / Bagatelle, recrutement et site web « avenir-bennes », PagesJaunes / 118712 / societe.com) sans numéro, site ni e-mail : seule la fiche 118000.fr déjà connue ressort, au numéro masqué. BENNES SERVICES (SIREN 353054471, Quincy-Voisins) est une autre société. Standard toujours manquant. Deuxième cercle (27/10/2026) : standard 03 86 20 20 30 (avenue Saint-Exupéry, ZI Bagatelle, Clamecy) publié sur le site officiel abstransports.fr (alias abs-transports.com) et sur PagesJaunes, avec un service commercial au 03 86 20 20 92 et l'e-mail contact@abs-transports.fr. Décision sur place à Clamecy par les cogérants ; la société est adhérente de la coopérative France Benne, ce qui explique son réseau de transporteurs. Vérification : 03 86 20 20 30 et contact@abs-transports.fr confirmés sur les mentions légales et la page contact d'abstransports.fr ainsi que sur PagesJaunes et la fiche adhérent de la coopérative France Benne (france-benne.fr), qui confirme aussi l'adhésion. Vérification : Aucun résultat ne nomme Gilles Bethery. Contrairement à la note du chercheur (« aucune trace en ligne »), une liste du 118000.fr (https://www.118000.fr/v_heugon_61/c_transport-routier-lots-complets-marchandises-diverses/2) cite Avenir Bennes et Services, avenue St Exupéry à Clamecy : transport de vrac sec, flotte de 170 véhicules, réseau de 20 transporteurs partenaires. Cela explique le chiffre d'affaires. Aucun numéro trouvé dans les extraits. Recherche « Romain Sagne » + Clamecy : aucun résultat (seulement Romain Rolland et la ville). Registre seul.",
+  "qui_appeler": "Appeler le 03 86 20 20 30, standard de la société à Clamecy (avenue Saint-Exupéry), et demander Gilles Bethery ou Romain Sagne, cogérants. À défaut, demander la personne qui gère la comptabilité ou le responsable administratif et financier."
+ },
+ {
+  "rang": 43,
+  "siren": "529213050",
+  "nom": "NEVERS PREMIUM MOTORS",
+  "nom_commercial": "SUMA",
+  "nom_court": "Audi-Ducati Nevers (groupe SUMA)",
+  "ville": "Nevers",
+  "adresse": "Rond-Point Monte Cassino, 135 rue de Marzy",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "10-19",
+  "dirigeants": [
+   {
+    "nom": "Richard VIVES",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Richard VIVES",
+   "fonction": "Président (président du groupe SUMA)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.caradisiac.com/ducati-se-rapproche-d-audi-et-ouvre-une-nouvelle-concession-213290.htm"
+  },
+  "contact_finance": {
+   "nom": "Richard VIVES",
+   "fonction": "Président (aucun DAF/RAF/comptable du groupe SUMA identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/529213050"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eddy MICHEL",
+    "fonction": "Directeur général délégué (selon registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/529213050",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au siège du groupe SUMA (Richard Vivès), hors Nièvre, a priori dans le Rhône (région lyonnaise, ville non confirmée) : la société n'est qu'une des 26 concessions d'un groupe de 370 salariés réparti sur 5 départements (Rhône, Saône-et-Loire, Nièvre, Allier, Ain).",
+  "note_contacts": "Concession du groupe SUMA (Richard Vivès, groupe basé dans la région lyonnaise : VW/Seat/Skoda/Cupra à Nevers et Cosne, Hyundai Nevers). L'annuaire Justacôté place 'Ducati Nevers - Suma' au 135 rue de Marzy (https://www.justacote.com/marzy-58180/moto-et-scooter/), soit la même adresse que la société. Aucun standard ni service comptable identifié, et une recherche dédiée au téléphone n'a rien donné. Pour la finance, le service comptable du groupe SUMA est probablement centralisé hors Nièvre (non confirmé). 2e passe : la société exploite la concession Audi Nevers du groupe SUMA (Mappy liste « Audi Suma Concessionnaire », rond-point de Monte Cassino, Nevers, https://fr.mappy.com/poi/5c6a91b60351d1296305b4f0 ; SUMA y a ouvert la première concession mixte Audi-Ducati de France, https://journalauto.com/distribution/le-groupe-suma-ouvre-la-premiere-concession-mixte-audi-ducati-de-france/). Le 03 86 71 01 53 est donné par lesvoitures.fr pour « Audi Nevers – Nevers Premium Automobiles », mais à une autre adresse (10 bd des Grands Prés des Bordes, probablement l'ancien site) : numéro à confirmer. 2e niveau : 6 recherches. La société exploite la concession Audi (et l'espace Ducati ouvert en janvier 2025, premier site mixte Audi-Ducati de France) au rond-point de Monte Cassino, Nevers (https://journalauto.com/distribution/le-groupe-suma-ouvre-la-premiere-concession-mixte-audi-ducati-de-france/). Richard Vivès est confirmé comme président du groupe SUMA par Caradisiac ; Eddy Michel (DG délégué) n'apparaît dans aucune source web. Le 03 86 71 01 53 reste à confirmer : il n'est publié que par lesvoitures.fr pour « Audi Nevers – Nevers Premium Automobiles », à l'adresse du boulevard des Grands Prés des Bordes (probable ancien site) ; une recherche du numéro seul n'a rien donné, et aucune page officielle (site SUMA, localisateur Audi) n'est ressortie. Le groupe compte 26 points de vente, 17 marques et 370 collaborateurs (offre France Travail, https://candidat.francetravail.fr/offres/recherche/detail/2172188). Aucun DAF ni service comptable du groupe trouvé. À l'appel : vérifier le numéro, demander le directeur de la concession Audi Nevers et les coordonnées du service administratif et financier du groupe SUMA. Vérification : Le Journal de l'Automobile (article distinct de la source enregistrée) décrit le groupe SUMA, siège à Limonest, comme « dirigé par Richard Vivès », présent dans la Nièvre ; un autre article signale la concession mixte Audi-Ducati du groupe à Nevers (https://journalauto.com/distribution/le-groupe-suma-ouvre-la-premiere-concession-mixte-audi-ducati-de-france/), cohérent avec le 135 rue de Marzy. Le registre le donne président de la société. Recherche nom + SUMA + groupe automobile : aucune mention dans SUMA (26 points de vente, 370 salariés). Seul homonyme trouvé : un Eddy Michel associé-gérant d'ECOTEST (contrôle technique) depuis 2005, sans lien établi avec SUMA.",
+  "qui_appeler": "Appeler le 03 86 71 01 53 (numéro d'annuaire, à confirmer) et demander le directeur de la concession Audi Nevers, puis les coordonnées du service administratif et financier du groupe SUMA ou de Richard Vivès, président. À défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 44,
+  "siren": "562010454",
+  "nom": "G.C.E. SAS",
+  "nom_commercial": "GCE (Gas Control Equipment)",
+  "nom_court": "GCE Gas Control Equipment (La Charité)",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "70 rue du Puits Charles",
+  "activite": "Commerce de gros",
+  "effectif": "10-19 (14 salariés en 2025)",
+  "groupe": "GCE (Gas Control Equipment), membre du groupe ESAB depuis 2018 (ESAB Corporation, coté au NYSE depuis 2022)",
+  "site_web": "https://www.gascontrol.com",
+  "linkedin": "https://www.linkedin.com/company/gce-group",
+  "dirigeants": [
+   {
+    "nom": "Mathieu BENIER",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Curtis Evan JEWELL",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Piyushkumar SHETH",
+    "fonction": "Directeur général"
+   },
+   {
+    "nom": "Tommaso TOFFOLO",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Mathieu Benier",
+   "fonction": "Président de la SAS (registre) ; cité comme Directeur général de GCE SAS dans le catalogue GCE Healthcare 2019",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/562010454"
+  },
+  "contact_finance": {
+   "nom": "Mathieu Benier",
+   "fonction": "Président de la SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/562010454"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Piyush Sheth",
+    "fonction": "Vice President & General Manager, GCE (niveau groupe ESAB) ; directeur général de la SAS au registre",
+    "tel": null,
+    "email": null,
+    "source": "https://gcegroup.com/about"
+   }
+  ],
+  "decision": "Décision très probablement prise au niveau du groupe GCE (siège à Steinhausen, Suisse) / ESAB Corporation (États-Unis) : filiale commerciale de 14 salariés dont trois des quatre mandataires sont des dirigeants du groupe ; le président Mathieu Benier est le seul relais local.",
+  "note_contacts": "Filiale française du groupe GCE (siège groupe : Steinhausen, Suisse, +41 41 560 07 00 ; site groupe https://gcegroup.com). Standard et fax (03 86 70 09 81) issus d'un catalogue de 2019 : à vérifier. Les autres DG au registre (Jewell, Sheth, Toffolo) sont des dirigeants du groupe ; la finance est probablement gérée au niveau groupe, aucun responsable financier France trouvé. Le catalogue mentionne des e-mails @gcegroup.com pour les contacts mais ils n'apparaissent pas dans les extraits : non relevés. 2e niveau : 6 recherches (téléphone La Charité, direction de site, adresse rue du Puits Charles, finance/comptabilité, nom du président, contact France sur gcegroup.com) sans aucun résultat nouveau : le site de La Charité-sur-Loire n'apparaît sur aucune page web indexée. Le standard 03 86 69 46 20 (et fax 03 86 70 09 81) reste celui du catalogue GCE de 2019 : source officielle mais ancienne, à confirmer au premier appel. Le site du groupe indique une production centralisée en République tchèque, au Royaume-Uni et en Chine : La Charité serait surtout un site commercial/logistique. Aucun responsable financier France identifié ; la comptabilité est probablement tenue par le groupe ou un cabinet. Au standard : demander si Mathieu Benier est toujours président/directeur du site et qui gère l'administration et la finance en France. Cible peu probable pour un achat d'œuvres (décision hors de France). Vérification : Le 03 86 69 46 20 n'apparaît que dans le catalogue GCE de 2019 (non retrouvé ailleurs) : à traiter comme ancien. Mathieu Benier : aucune source hors registre/catalogue. Les deux commerciaux viennent du seul catalogue 2019, probablement obsolètes. Fiche ESAB (Yahoo Finance) et communiqué GCE de mars 2026 : VP & General Manager de GCE / Gas Control. Mandat dans la SAS française non vérifié ; dirigeant groupe, pas local.",
+  "qui_appeler": "Appeler le 03 86 69 46 20 (numéro d'un catalogue GCE de 2019, à confirmer), demander si Mathieu Benier, président, dirige toujours le site, puis qui gère l'administration et la finance en France. À défaut, demander le responsable administratif et financier France."
+ },
+ {
+  "rang": 53,
+  "siren": "921426086",
+  "nom": "SONIRVAL ENERGIE",
+  "nom_court": "Sonirval Energie (usine de Fourchambault)",
+  "ville": "Fourchambault",
+  "adresse": "38 route de Vauzelles",
+  "activite": "Collecte et traitement des déchets",
+  "effectif": "10-19 (20 salariés en 2024)",
+  "groupe": "Lien supposé avec Veolia / RONAVAL (non confirmé)",
+  "dirigeants": [
+   {
+    "nom": "Anaël GENDRE",
+    "fonction": "Président (depuis le 26/03/2026)"
+   },
+   {
+    "nom": "Frédéric LONGO",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026, registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "contact_finance": {
+   "nom": "Anaël GENDRE",
+   "fonction": "Président (depuis le 26/03/2026) ; aucun DAF/RAF identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/921426086"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Frédéric LONGO",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/921426086",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision probablement prise hors de la Nièvre, au niveau de l'ensemble VALEST (UES VALEST : VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), SONIRVAL ENERGIE étant une société dédiée créée pour la DSP de l'UVE de Fourchambault et dont le siège serait à Vaulx-en-Velin (69) d'après un accord d'entreprise ; actionnaire final non confirmé.",
+  "note_contacts": "Exploite l'usine d'incinération d'ordures ménagères (UIOM) de Fourchambault, anciennement SONIRVAL puis VALEST, au 38 route de Vauzelles (rapport d'inspection Géorisques de 2025 : https://www.georisques.gouv.fr/webappReport/ws/installations/inspection/IAobM3aziW4I6l01V4ghaGeHiPi9ISyX). Groupe parent non identifié. Président récent (mars 2026). Aucun standard trouvé. 2e passe : 3 recherches (UIOM route de Vauzelles + téléphone, Sonirval + 03 86, groupe exploitant) sans numéro de l'usine. Le seul numéro vu (03 39 59 67 37) est celui de l'inspecteur DREAL Nièvre/Yonne, non retenu. Un document de Nevers Agglomération associe SONIRVAL à 45 000 t d'ordures ménagères brûlées par an qui alimentent le réseau de chaleur urbain géré par Énéa (Dalkia) (https://www.nevers.fr/sites/default/files/Fichiers/Actus/2021/2021-12/NCMB%20243%20Le%20r%C3%A9seau%20de%20chaleur%20urbain%202021.pdf) ; groupe parent toujours non identifié. 2e niveau : 6 recherches. Un avenant d'accord d'entreprise (https://www.maitredata.com/app/accords-entreprise/sonirval-energie/230270) explique que SONIRVAL ENERGIE a été créée comme société dédiée à l'exploitation de la délégation de service public (DSP) de l'UVE de Fourchambault : le personnel du site a été transféré de SONIRVAL à SONIRVAL ENERGIE au 1er février 2023. La société relève de l'UES VALEST (VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), avec un siège indiqué à Vaulx-en-Velin (69), à vérifier. Le rapport Géorisques confirme l'exploitation de l'UVE (46 000 t/an autorisées, ligne de 6 t/h). Aucun lien avec Veolia ou Dalkia trouvé : l'hypothèse « Veolia / RONAVAL » de l'entrée n'est pas étayée. Aucune trace en ligne d'Anaël Gendre ni de Frédéric Longo (président et DG selon le registre). Aucun standard, email, site ni DAF/RAF trouvé. À l'appel (via l'accueil de l'UVE, route de Vauzelles) : demander le directeur ou responsable d'exploitation de l'UVE, le nom du groupe propriétaire de VALEST/SONIRVAL et le service comptable ou financier du groupe. 2e niveau : 6 recherches. Un avenant d'accord d'entreprise (https://www.maitredata.com/app/accords-entreprise/sonirval-energie/230270) explique que SONIRVAL ENERGIE a été créée comme société dédiée à l'exploitation de la délégation de service public (DSP) de l'UVE de Fourchambault : le personnel du site a été transféré de SONIRVAL à SONIRVAL ENERGIE au 1er février 2023. La société relève de l'UES VALEST (VALEST, SONIRVAL, VALINEA, SHMVD, REMIVAL), avec un siège indiqué à Vaulx-en-Velin (69), à vérifier. Le rapport Géorisques confirme l'exploitation de l'UVE (46 000 t/an autorisées, ligne de 6 t/h). Aucun lien avec Veolia ou Dalkia trouvé : l'hypothèse « Veolia / RONAVAL » de l'entrée n'est pas étayée. Aucune trace en ligne d'Anaël Gendre ni de Frédéric Longo (président et DG selon le registre). Aucun standard, email, site ni DAF/RAF trouvé. À l'appel (via l'accueil de l'UVE, route de Vauzelles) : demander le directeur ou responsable d'exploitation de l'UVE, le nom du groupe propriétaire de VALEST/SONIRVAL et le service comptable ou financier du groupe. 3e passe : 5 recherches (UVE route de Vauzelles + téléphone, « Sonirval » contact/accueil, presse locale, offres d'emploi « Sonirval Energie », ensemble VALEST/SHMVD/Valinea) : aucun numéro de l'usine ni du groupe. Le seul numéro vu (03 39 59 67 37, rapport DREAL sur Géorisques) est celui de l'inspecteur des installations classées, non retenu. Un avis préfectoral (https://www.nievre.gouv.fr/index.php/contenu/telechargement/6688/73364/file/avis_au_public_pour_arrete_sonirval.pdf) indique que l'usine était auparavant exploitée sous le nom VALEST ; une fiche PagesJaunes de VALEST existe à Sens (RCS Nancy) mais sans numéro dans l'extrait. Deuxième cercle (27/10/2026) : 03 86 90 79 40, accueil de l'usine de valorisation énergétique du 38 route de Vauzelles à Fourchambault, donné par PagesJaunes (fiche « Sonirval ») et par la fiche SINOE de l'ADEME qui cite Sonirval Energie comme exploitant (https://www.sinoe.org/index.php/fiche_service/index/id/6556/prov/fiche). Aucun standard de groupe trouvé : VALEST, associée de Sonirval, a transféré son siège de Vaulx-en-Velin (2-4 avenue des Canuts) à Nancy en 2023 et son usine de Sens est référencée sous Veolia sur PagesJaunes, d'où un rattachement probable à Veolia, à confirmer à l'appel. Vérification : numéro confirmé pour l'usine du 38 route de Vauzelles par plusieurs annuaires (PagesJaunes, Cylex, 118712, Misterwhat, Firmania), mais toujours sous le nom « Sonirval », ancien exploitant dont le personnel est passé chez Sonirval Energie en 2023, d'où la fiabilité « annuaire » maintenue ; une fiche recyclage.veolia.fr « sonirval-fourchambault » est signalée par la recherche sans avoir pu être vue, piste à vérifier pour le rattachement à Veolia. Vérification : Aucun résultat pour « Anaël Gendre » ni pour « Sonirval Energie » Fourchambault : président (mars 2026) issu du registre seul, non contredit. Recherche « Frédéric Longo » + Sonirval ou énergie à Nevers : aucun résultat ne le cite, ni la société. Registre seul.",
+  "qui_appeler": "Appeler le 03 86 90 79 40, accueil de l'usine de la route de Vauzelles, inscrit au nom de l'ancien exploitant Sonirval (numéro d'annuaire, à confirmer), et demander le directeur ou le responsable d'exploitation, puis le nom du groupe propriétaire et de son service financier ; le président est Anaël Gendre depuis mars 2026. À défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 55,
+  "siren": "330907205",
+  "nom": "DEROMEDI CARRIERES SARL",
+  "nom_commercial": "Deromedi Carrières",
+  "nom_court": "Deromedi Carrières (Ciez)",
+  "ville": "Ciez",
+  "adresse": "Lieu-dit Jussy",
+  "activite": "Produits minéraux non métalliques",
+  "effectif": "10-19",
+  "groupe": "Groupe familial Deromedi – pôle Deromedi Carrières et Matériaux (Paris 16e, présidé par Gilles Deromedi : 6 sites, ~70 collaborateurs, ~1,5 Mt extraites par an) ; Gilles Deromedi gère aussi SOSEMAT (sablière Les Pelus, Neuvy-sur-Loire) et Transports Emile Boffin (Villemandeur, 45)",
+  "site_web": "https://www.deromedicarrieres.fr",
+  "dirigeants": [
+   {
+    "nom": "Gilles DEROMEDI",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Gilles Deromedi",
+   "fonction": "Gérant (registre) ; président du pôle Deromedi Carrières et Matériaux et directeur de la publication du site",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.deromedicarrieres.fr/mentions-legales/"
+  },
+  "contact_finance": {
+   "nom": "Gilles Deromedi",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/330907205"
+  },
+  "decision": "Décision probablement prise au siège du groupe familial Deromedi Carrières et Matériaux à Paris 16e par Gilles Deromedi lui-même (gérant de la SARL et président du pôle) : le site de Ciez est une carrière d'exploitation sans direction autonome.",
+  "note_contacts": "Carrière de sables et argiles (APE 08.12Z, site ICPE à Jussy, Ciez) ; CA 2024 ~13 M€ selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/deromedi-carrieres_330907205). Gilles Deromedi préside aussi Deromedi Carrières et Matériaux (structure de groupe probable). Aucun numéro de standard ni e-mail trouvé dans les extraits (4 recherches) : à chercher sur la page contact du site. 2e passe : 3 recherches (Ciez / Jussy téléphone, « Deromedi » + « 03 86 », Deromedi Carrières et Matériaux contact) sans numéro ni e-mail ; le groupe exploite aussi la société Le Ciment Route à Sainte-Geneviève-des-Bois (45) selon les dossiers de la préfecture du Loiret. Numéro à relever sur la page contact de deromedicarrieres.fr. 2e niveau : site officiel confirmé (pages contact, mentions légales, produits granulats / béton / charges minérales). Les mentions légales donnent l'e-mail générique dsa@deromedi.fr, situent le siège du groupe à Paris 16e et nomment Gilles Deromedi directeur de la publication ; le site revendique 40 ans d'expérience et environ 70 salariés. La page contact ne propose qu'un formulaire, et aucun numéro de standard n'apparaît ni sur le site ni dans les annuaires (PagesJaunes, recherches Ciez / Jussy) : standard toujours manquant. Xerfi : CA 2024 13,5 M€ (14,5 M€ en 2023), résultat net 728 k€ ; Creatis Audit figure comme commissaire aux comptes, pas comme dirigeant. Aucun responsable administratif ou financier trouvé : la comptabilité est vraisemblablement centralisée au siège parisien. Piste : écrire à dsa@deromedi.fr ou passer par le formulaire pour obtenir le numéro du siège et le nom du responsable administratif et financier du groupe ; vérifier aussi le numéro de la carrière sur place (Lieu-dit Jussy, Ciez). 2e niveau : site officiel confirmé (pages contact, mentions légales, produits granulats / béton / charges minérales). Les mentions légales donnent l'e-mail générique dsa@deromedi.fr, situent le siège du groupe à Paris 16e et nomment Gilles Deromedi directeur de la publication ; le site revendique 40 ans d'expérience et environ 70 salariés. La page contact ne propose qu'un formulaire, et aucun numéro de standard n'apparaît ni sur le site ni dans les annuaires (PagesJaunes, recherches Ciez / Jussy) : standard toujours manquant. Xerfi : CA 2024 13,5 M€ (14,5 M€ en 2023), résultat net 728 k€ ; Creatis Audit figure comme commissaire aux comptes, pas comme dirigeant. Aucun responsable administratif ou financier trouvé : la comptabilité est vraisemblablement centralisée au siège parisien. Piste : écrire à dsa@deromedi.fr ou passer par le formulaire pour obtenir le numéro du siège et le nom du responsable administratif et financier du groupe ; vérifier aussi le numéro de la carrière sur place (Lieu-dit Jussy, Ciez). 3e passe : 5 recherches (carrière Ciez / Jussy + téléphone, « Deromedi Carrières » + téléphone, arrêtés préfectoraux carrière de Ciez, siège du groupe à Paris 16e, offres d'emploi) sans numéro du site ni du siège. Seule trace ICPE : arrêté 99-P-4664 du 22/12/1999 pour une carrière de pierres calcaires à Entrains-sur-Nohain / Ciez (recueil des actes de la Nièvre, 2019), sans téléphone. Le 01 40 71 71 71 (DER.IM, agence immobilière du boulevard Murat, représentant Philippe Deromedi) et la fiche PagesJaunes de SOSEMAT (société sœur de Neuvy-sur-Loire) ne sont pas des numéros de Deromedi Carrières : non retenus. Standard toujours manquant ; passer par dsa@deromedi.fr. Deuxième cercle (27/10/2026) : 03 86 26 87 00, numéro de la carrière de Jussy à Ciez, donné par PagesJaunes (fiche « Déromédi Carrières », fax 03 86 26 46 43), Waze et l'annuaire inversé lannuaire.fr, mais absent du site officiel. La décision restant au siège du groupe à Paris 16e, dont aucun numéro n'est publié, demander à la carrière Gilles Deromedi ou le numéro du siège. Vérification : numéro confirmé pour Déromédi Carrières, lieu-dit Jussy à Ciez, par PagesJaunes, Waze, lannuaire.fr, 118712 et ToutesLesAdresses, toujours sans publication sur le site officiel, d'où la fiabilité « annuaire » maintenue ; l'e-mail dsa@deromedi.fr vient bien des mentions légales du site de l'entreprise. Vérification : Xerfi liste Gilles Deromedi comme dirigeant (avec Creatis Audit).",
+  "qui_appeler": "Appeler le 03 86 26 87 00, standard de la carrière de Jussy à Ciez (numéro d'annuaire, à confirmer), et demander Gilles Deromedi, gérant, ou le numéro du siège parisien. À défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 74,
+  "siren": "453481244",
+  "nom": "SARL BOUILLET FRERES",
+  "nom_commercial": "Bouillet Frères",
+  "nom_court": "Bouillet Frères (Decize)",
+  "ville": "Decize",
+  "adresse": "ZA Les Champs Monarès, 58300 Decize",
+  "activite": "Commerce de gros",
+  "effectif": "10-19 (tranche INSEE la plus récente : 6-9)",
+  "site_web": "https://www.bouillet-acier.com",
+  "dirigeants": [
+   {
+    "nom": "Guillaume BOUILLET",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Jérôme BOUILLET",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "Sébastien BOUILLET",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Guillaume Bouillet",
+   "fonction": "Gérant (co-gérant avec Jérôme et Sébastien Bouillet, registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/453481244"
+  },
+  "contact_finance": {
+   "nom": "Guillaume Bouillet",
+   "fonction": "Gérant (co-gérant, registre) ; aucun responsable financier identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/453481244"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jérôme Bouillet",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/453481244",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Sébastien Bouillet",
+    "fonction": "Co-gérant (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/453481244"
+   }
+  ],
+  "decision": "Dans la société elle-même, à Decize : SARL familiale indépendante (aucun groupe) dirigée par trois frères co-gérants, qui décident vraisemblablement ensemble.",
+  "note_contacts": "Aucune trace en ligne de la société dans les résultats de recherche (3 recherches : nom + Decize, ZA des Champs Monarès, raison sociale exacte) : ni téléphone, ni site, ni activité précise. Trois co-gérants égaux au registre ; le choix de Guillaume Bouillet comme interlocuteur est arbitraire (premier listé). À compléter via PagesJaunes ou annuaire-entreprises. 2e passe : 3 recherches (ZA des Champs Monarès, activité négoce bestiaux/bois, Bouillet Decize + téléphone) sans aucune trace de la société ni numéro. 2e niveau : 6 recherches (raison sociale + Decize, négoce bestiaux, SIREN, filières fioul/céréales/matériaux/bois, « marchand de bestiaux » 58300, annuaire PagesJaunes) : toujours aucune trace en ligne de la société (ni site, ni téléphone, ni activité précise) ; seuls des homonymes sans lien (Bouillet Cestas, Laurent Bouillet Cergy, Établissements Bouillet). L'activité exacte de ce commerce de gros (11 M€ de CA avec moins de 10 salariés : profil compatible avec un négoce agricole ou de bestiaux) reste à confirmer. Les trois co-gérants du registre sont repris tels quels, non confirmés par une source récente. À l'appel : il faut d'abord un numéro (annuaire inverse sur l'adresse ZA Les Champs Monarès ou passage sur place) ; demander lequel des trois frères gère l'administratif et la comptabilité, et si un cabinet comptable externe tient les comptes. 2e niveau : 6 recherches (raison sociale + Decize, négoce bestiaux, SIREN, filières fioul/céréales/matériaux/bois, « marchand de bestiaux » 58300, annuaire PagesJaunes) : toujours aucune trace en ligne de la société (ni site, ni téléphone, ni activité précise) ; seuls des homonymes sans lien (Bouillet Cestas, Laurent Bouillet Cergy, Établissements Bouillet). L'activité exacte de ce commerce de gros (11 M€ de CA avec moins de 10 salariés : profil compatible avec un négoce agricole ou de bestiaux) reste à confirmer. Les trois co-gérants du registre sont repris tels quels, non confirmés par une source récente. À l'appel : il faut d'abord un numéro (annuaire inverse sur l'adresse ZA Les Champs Monarès ou passage sur place) ; demander lequel des trois frères gère l'administratif et la comptabilité, et si un cabinet comptable externe tient les comptes. 3e passe : 5 recherches (« Champs Monarès » Decize, « frères Bouillet » + Journal du Centre, Bouillet + négoce/export de bovins, prénoms des trois co-gérants + Decize, « SARL Bouillet »/« Bouillet Frères » + agrément ou commerce de gros) : toujours aucune trace en ligne, ni numéro, ni activité précise. Le lieu-dit « Champs Monarès » n'est indexé nulle part (orthographe à vérifier). Deuxième cercle (27/10/2026) : 03 86 25 33 57, standard publié sur la page contact du site de la société, qui exerce sous l'enseigne Bouillet Acier (tôles de bardage et de toiture) et dont la ville de Decize (https://www.ville-decize.fr/bouillet-acier-lexcellence-industrielle-made-in-decize/) confirme le transfert des Bruyères de Crécy (Avril-sur-Loire) vers la ZA des Champs Monarès. Décision sur place par les trois frères co-gérants ; le numéro pourrait changer avec le déménagement (nouveau siège publié au BODACC le 19/05/2026). Vérification : numéro confirmé sur la page contact de bouillet-acier.com et sur PagesJaunes (« Bouillet Frères »), le site nommant SARL BOUILLET FRÈRES à la ZA des Champs Monarès, Decize, même si sa page contact donne encore l'adresse d'Avril-sur-Loire ; l'e-mail sarlbouillet@orange.fr y est bien publié. Vérification : Aucune trace en ligne de Bouillet Frères à Decize ni de ses gérants ; cogérants du registre seulement, aucun indice de départ. Résultats uniquement sur un homonyme (chocolatier lyonnais, Maison Bouillet) ; aucun lien trouvé avec Bouillet Frères à Decize. Attention à la confusion. Recherche nom + Decize : aucune occurrence. Co-gérant selon le seul registre.",
+  "qui_appeler": "Appeler le 03 86 25 33 57, standard de la société (enseigne Bouillet Acier), et demander l'un des trois co-gérants, Guillaume, Jérôme ou Sébastien Bouillet, et lequel suit l'administratif et la comptabilité. À défaut, demander le responsable administratif et financier ou le nom du cabinet comptable."
+ },
+ {
+  "rang": 93,
+  "siren": "692007768",
+  "nom": "LITHOPRESS",
+  "nom_court": "Lithopress, Luzy (groupe Graphilys)",
+  "ville": "Luzy",
+  "adresse": "La Maladière, 58170 Luzy",
+  "activite": "Imprimerie",
+  "effectif": "10-19 (16 salariés en 2025)",
+  "groupe": "Graphilys",
+  "dirigeants": [
+   {
+    "nom": "SAS GRAPHILYS (personne morale)",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "GRAPHILYS (SAS, personne morale)",
+   "fonction": "Présidente de SAS (registre) ; personne physique qui la représente non identifiée",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768"
+  },
+  "contact_finance": {
+   "nom": "GRAPHILYS (SAS, personne morale)",
+   "fonction": "Présidente de SAS (registre) ; aucun DAF/RAF/comptable identifié, ni à Luzy ni au siège de Perpignan",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768"
+  },
+  "decision": "Hors de la Nièvre, au siège de GRAPHILYS à Perpignan (Pyrénées-Orientales), qui préside Lithopress et présente Luzy comme son site de production ; GRAPHILYS appartient depuis 2021 au groupe belge Asteria, qui pourrait devoir valider une dépense de ce type.",
+  "note_contacts": "Aucun téléphone ni dirigeant personne physique trouvé (3 recherches). Xerfi (https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768) : SAS, La Maladière 58170 Luzy, créée en 1980, CA 2024 ~7,66 M€, NAF 18.12Z, mandataires COMPTAFRANCE et SAS GRAPHILYS (personnes morales). GRAPHILYS est un fabricant d'étiquettes adhésives dont le siège est à Perpignan (ZI Torremila ; ~33 M€ de CA, 60+ salariés selon une offre d'emploi) et qui présente Luzy comme l'un de ses sites de production : la finance est vraisemblablement pilotée depuis le siège de Perpignan (DAF/RAF du groupe non identifié). Le nom de la personne qui préside GRAPHILYS n'a pas été trouvé. 2e passe : 3 recherches (Graphilys + Luzy, raison sociale + imprimerie, adresse La Maladière + 03 86) sans numéro ; villepratique.fr liste Lithopress comme imprimeur à La Maladière, Luzy, sans numéro visible dans l'extrait. 2e niveau : 6 recherches (dirigeant de GRAPHILYS, groupe Asteria, direction de GRAPHILYS, site de Luzy, fonctions financières de GRAPHILYS, raison sociale + Luzy). Nouveau : des offres d'emploi Indeed (https://fr.indeed.com/q-administration-des-ventes-l-toulouges-(66)-emplois.html) indiquent que GRAPHILYS (étiquettes adhésives depuis 2002, environ 33 M€ de CA, plus de 60 salariés) a rejoint en 2021 le groupe international ASTERIA, avec des postes basés « sur notre site de production à Luzy (58) ou à notre siège social à Perpignan (66) » ; le site d'Asteria Group (siège en Belgique, filiales en Europe) a une fiche GRAPHILYS (https://asteriagroup.eu/?p=4738). Chaîne de contrôle : Lithopress → GRAPHILYS (Perpignan) → Asteria Group (Belgique). Aucun nom de dirigeant personne physique, de directeur du site de Luzy ni de DAF trouvé ; aucun téléphone ni site web propre (Xerfi https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768 confirme La Maladière, Luzy, CA 2024 7,66 M€). Le CRM n'a toujours aucun numéro : à chercher dans un annuaire (PagesJaunes) avant l'appel. À l'appel : demander le responsable du site de Luzy et le nom du directeur général de GRAPHILYS, et si la décision se prend à Perpignan ou au niveau d'Asteria. 2e niveau : 6 recherches (dirigeant de GRAPHILYS, groupe Asteria, direction de GRAPHILYS, site de Luzy, fonctions financières de GRAPHILYS, raison sociale + Luzy). Nouveau : des offres d'emploi Indeed (https://fr.indeed.com/q-administration-des-ventes-l-toulouges-(66)-emplois.html) indiquent que GRAPHILYS (étiquettes adhésives depuis 2002, environ 33 M€ de CA, plus de 60 salariés) a rejoint en 2021 le groupe international ASTERIA, avec des postes basés « sur notre site de production à Luzy (58) ou à notre siège social à Perpignan (66) » ; le site d'Asteria Group (siège en Belgique, filiales en Europe) a une fiche GRAPHILYS (https://asteriagroup.eu/?p=4738). Chaîne de contrôle : Lithopress → GRAPHILYS (Perpignan) → Asteria Group (Belgique). Aucun nom de dirigeant personne physique, de directeur du site de Luzy ni de DAF trouvé ; aucun téléphone ni site web propre (Xerfi https://www.xerfi.com/etudes-par-entreprise/lithopress_692007768 confirme La Maladière, Luzy, CA 2024 7,66 M€). Le CRM n'a toujours aucun numéro : à chercher dans un annuaire (PagesJaunes) avant l'appel. À l'appel : demander le responsable du site de Luzy et le nom du directeur général de GRAPHILYS, et si la décision se prend à Perpignan ou au niveau d'Asteria. 3e passe : 5 recherches (Graphilys + Luzy + La Maladière, « Lithopress » Luzy + téléphone, Graphilys contact/nos sites, fiche Asteria Group France, « Lithopress » + 58170 + « 03 86 ») : aucun numéro, ni pour Luzy ni pour Graphilys (Perpignan) sur une source officielle. Villepratique liste « Lithopress, imprimeur, Maladière, 58170 Luzy » sans téléphone ; la page France d'Asteria (https://asteriagroup.eu/country/france/) n'affiche pas de numéro dans les extraits. Deuxième cercle (27/10/2026) : 04 68 62 32 78, standard du siège de Graphilys (225 rue Henri Guillaumet, Perpignan), où se prend la décision, publié sur la page contact du groupe (hébergée chez son agence web, domaine officiel groupegraphilys.fr non vérifié) et repris par PagesJaunes. La même page donne l'usine Lithopress de Luzy (La Maladière) au 03 86 30 00 12, numéro confirmé par infonet. Vérification : numéro confirmé comme standard du siège de Graphilys à Perpignan (225 rue Henri Guillaumet) par la page contact du groupe, qui donne aussi l'e-mail commercial@graphilys.fr et l'usine de Luzy au 03 86 30 00 12, et par PagesJaunes et Cylex ; la fiabilité « groupe » est juste, mais la page est hébergée sur le domaine de l'agence web. Vérification : Aucune valeur enregistrée à vérifier (tous les champs vérifiables sont null) ; aucune recherche faite.",
+  "qui_appeler": "Appeler le 04 68 62 32 78, standard du siège de Graphilys à Perpignan, où se prend la décision (l'usine de Luzy répond au 03 86 30 00 12), et demander le responsable du site de Luzy et le nom du directeur général de Graphilys. À défaut, demander le responsable administratif et financier de Graphilys à Perpignan."
+ },
+ {
+  "rang": 106,
+  "siren": "909990079",
+  "nom": "APOCF",
+  "nom_commercial": "Carrefour Contact",
+  "ville": "Saint-Amand-en-Puisaye",
+  "adresse": "56 ROUTE DE COSNE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "groupe": "Enseigne Carrefour Contact (réseau Carrefour)",
+  "site_web": "https://www.carrefour.fr/magasin/contact-saint-amand-en-puisaye",
+  "dirigeants": [
+   {
+    "nom": "Frederic BEAUFILS",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Frederic BEAUFILS",
+   "fonction": "Gérant (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/apocf-909990079"
+  },
+  "contact_finance": {
+   "nom": "Frederic BEAUFILS",
+   "fonction": "Gérant (registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/apocf-909990079"
+  },
+  "note_contacts": "Numéro déjà connu confirmé par un annuaire de magasins (bible-marques.fr, agrégateur). Magasin franchisé Carrefour Contact, 56 route de Cosne (D955), société créée le 01/03/2022 (https://ac-franchise.com/store/carrefour-contact-354/). Aucune source publique ne mentionne le gérant en dehors du registre.",
+  "opposition_prospection": false
+ }
+]

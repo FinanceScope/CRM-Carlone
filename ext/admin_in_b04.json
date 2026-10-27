@@ -1,0 +1,386 @@
+[
+ {
+  "rang": 202,
+  "siren": "752881839",
+  "nom": "TC ENVIRONNEMENT",
+  "ville": "Cercy-la-Tour",
+  "adresse": "ZAE LES FOURNEAUX",
+  "activite": "Collecte, traitement et élimination des déchets ; récupération",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "HOLDING CASSIER",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "HOLDING CASSIER (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tc-environnement-752881839"
+  },
+  "contact_finance": {
+   "nom": "HOLDING CASSIER (personne morale)",
+   "fonction": "Président (personne morale) ; représentant personne physique non identifié",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tc-environnement-752881839"
+  },
+  "note_contacts": "SAS créée en 2012, filiale du groupe Holding Cassier : tri, transit et préparation de déchets non dangereux et projet de plateforme de broyage de pneumatiques usagés à Cercy-la-Tour (dossier ICPE 2023 de la préfecture : https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Ce dossier de 2023 indique comme président la SARL CASSIER DÉVELOPPEMENT, alors que le registre (deja) donne HOLDING CASSIER : à vérifier. Les pièces préfectorales mentionnent un siège au 45 rue de la Guette, 58340 Cercy-la-Tour. Aucun téléphone propre trouvé (seul celui de la mairie est ressorti). Le groupe compte aussi la société Cassier Combustible à Cercy-la-Tour. Personne physique dirigeante non identifiée en 3 recherches. Deuxième passe (27/10/2026) : aucun numéro propre trouvé en 2 recherches (dossiers ICPE de la préfecture, Kompass, Pappers, Societe.com sans téléphone ; seule la mairie de Cercy-la-Tour ressort). Le registre indique un nouvel établissement ZAE Les Fourneaux depuis le 01/08/2024, celui du 45 rue de la Guette étant fermé."
+ },
+ {
+  "rang": 229,
+  "siren": "507748283",
+  "nom": "GROUPE DANIELSON",
+  "ville": "Magny-Cours",
+  "adresse": "TECHNOPOLE",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.danielson-eng.fr",
+  "dirigeants": [
+   {
+    "nom": "Bernard DELAPORTE",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Guy PAUL",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "William DONCHESS",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Franco ORSI",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Bernard Delaporte",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/groupe-danielson-507748283"
+  },
+  "contact_finance": {
+   "nom": "Bernard Delaporte",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/groupe-danielson-507748283"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Benoît Delaporte",
+    "fonction": "Directeur adjoint (assistant director) de Danielson Aircraft Systems, filiale du groupe",
+    "tel": null,
+    "email": null,
+    "source": "https://www.uncrewed-systems.com/groupe-danielson-trident-100-td2-turbodiesel/"
+   }
+  ],
+  "note_contacts": "Aucun standard propre trouvé pour la holding (3 recherches). La filiale Danielson Aircraft Systems, même adresse (Technopole Magny-Cours), affiche le 03 86 21 88 10 sur gowork.fr (annuaire) — à utiliser comme point d'entrée du groupe. Site officiel non trouvé dans les résultats. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : 03 86 21 88 10, standard commun du groupe publié sous le nom « GROUPE DANIELSON Engineering » (Technopole, Magny-Cours) sur la fiche adhérent du Pôle Véhicule du Futur, avec contact@danielson-groupe.fr et le site danielson-eng.fr ; c'est le même numéro que celui vu pour les filiales. Ne pas confondre avec Danielson Equipement (03 86 21 22 55), autre société de la Technopole. Vérification : relecture seule (pas de recherche) ; numéro conservé en « annuaire » (fiche d'un pôle de compétitivité, nom commercial et adresse de la Technopole concordants) ; l'e-mail contact@danielson-groupe.fr, publié par le pôle et non par l'entreprise (domaine différent du site danielson-eng.fr), est retiré."
+ },
+ {
+  "rang": 237,
+  "siren": "387932437",
+  "nom": "COSNE ABATTOIRS DU HAUT VAL DE LOIRE",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ZI LE TREMBLAT",
+  "activite": "Industries alimentaires",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Emmanuel Sebastien BAILLY",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Alain BEAUVOIS",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Fabrice Laurent Olivier CANTIN",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Jean-Philippe CHEVREAU",
+    "fonction": "Administrateur"
+   }
+  ],
+  "note_contacts": "OPPOSITION PROSPECTION (Pappers) : contacts société uniquement. Standard repris des données existantes (deja), non confirmé par une recherche (aucun résultat pour ce numéro). Site web et email générique non trouvés. ATTENTION : activité de l'abattoir suspendue temporairement par arrêté préfectoral le 10/12/2025 après une plainte de L214 (https://www.macommune.info/nievre-un-abattoir-suspendu-apres-des-accusations-de-l214/ ; https://nievre.fr/wp-content/uploads/2025/12/CP-Abattoir-de-Cosne.pdf) ; aucune information de réouverture trouvée pour 2026. Dirigeant non renseigné (opposition + absence de site officiel).",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 246,
+  "siren": "339913428",
+  "nom": "ENTREPRISE VIODE",
+  "ville": "Corbigny",
+  "adresse": "ROUTE DE CLAMECY",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Jean-Luc BOUVART",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Luc Bouvart",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-viode-339913428"
+  },
+  "contact_finance": {
+   "nom": "Jean-Luc Bouvart",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/entreprise-viode-339913428"
+  },
+  "note_contacts": "Entreprise de plomberie-chauffage, couverture, maçonnerie, rénovation énergétique (QualiBAT), Route de Clamecy à Corbigny. Fiches annuaires : https://www.118000.fr/e_C0003575341 (« Viodé Entreprise SA », sans numéro visible) et https://www.hellowatt.fr/artisans/viode-sarl/ (un numéro y est affiché mais n'apparaît pas dans les extraits de recherche) — standard non relevé faute de pouvoir lire la page. Site web non trouvé. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : 03 86 20 12 14, numéro de l'Entreprise Viodé (route de Clamecy, Corbigny) sur son certificat Qualibat RGE et sur Hello Watt ; le certificat donne aussi le 03 86 20 20 72 (probablement le fax) et un site viode-maconnerie.fr introuvable en recherche. Ne pas confondre avec Houssin & Fils, autre plombier de Corbigny. Vérification : relecture seule (pas de recherche) ; nom, adresse et commune concordent sur le certificat Qualibat, numéro conservé en « annuaire »."
+ },
+ {
+  "rang": 253,
+  "siren": "402891774",
+  "nom": "LE CYPRES - GENS DE LA LUNE",
+  "ville": "Nevers",
+  "adresse": "17 RUE DU PONT CIZEAU",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.librairie-lecypres-gensdelalune.fr/",
+  "dirigeants": [
+   {
+    "nom": "Wilfried SEJEAU",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Wilfried Sejeau",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-cypres-gens-de-la-lune-402891774"
+  },
+  "contact_finance": {
+   "nom": "Wilfried Sejeau",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-cypres-gens-de-la-lune-402891774"
+  },
+  "note_contacts": "Aucune trace web trouvée pour « Le Cyprès » / « Gens de la Lune » ni pour son gérant (3 recherches) ; activité exacte et enseigne commerciale inconnues (commerce de détail, 17 rue du Pont Cizeau, Nevers). Pas de standard, d'email ni de site trouvés. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : La société exploite la Librairie Le Cyprès (17 rue du Pont Cizeau, Nevers), standard 03 86 57 53 36 sur le site de la librairie et l'office de tourisme de Nevers ; la seconde librairie, Gens de la Lune (même adresse), a sa propre ligne 03 86 61 30 77. Un annuaire inversé donne un ancien 03 86 59 59 24, non retenu. Vérification : une recherche ne retrouve pas le 03 86 57 53 36 (seules Xerfi et Livres Hebdo confirment que la société exploite les librairies Le Cyprès et Gens de la Lune à Nevers) ; numéro conservé mais ramené de « officielle » à « annuaire » faute d'avoir été revu sur le site de la librairie ; l'e-mail, donné par ce même site, est conservé."
+ },
+ {
+  "rang": 263,
+  "siren": "750984064",
+  "nom": "SPL CONFLUENCE",
+  "ville": "Decize",
+  "adresse": "LA JONCTION",
+  "activite": "Hébergement",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Alain Dominique MOREAU",
+    "fonction": "Président du conseil d’administration et directeur général"
+   },
+   {
+    "nom": "Daniel CAILLOT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "David COLAS",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Jean-Yves FOREST",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alain Moreau",
+   "fonction": "Président du conseil d'administration et directeur général (PDG)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
+  },
+  "contact_finance": {
+   "nom": "Alain Moreau",
+   "fonction": "Président du conseil d'administration et directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/spl-confluence-750984064"
+  },
+  "note_contacts": "Société publique locale créée en mai 2012 par la Communauté de communes Sud Nivernais et ses communes (actionnaires uniquement publics) : gère le port de Decize (La Jonction), le Stade nautique, l'Office de tourisme Confluence (place du Champ de Foire, Decize) et le salon SINUO (https://nievre.fr/wp-content/uploads/2021/06/EP1-GEN-NTE-0122-A_Analyse_socio-ecoAnnexes.pdf ; https://www.lesepl.fr/epl-en-action/decize-nievre-un-village-portuaire-pour-un-carrefour-fluvial/?pdf=77867). Le PDG est un élu (registre) ; en 2014 c'était Jean-Noël Le Bras. Une fiche Pappers citant une « direction commune » depuis le 28/06/2024 apparaît dans les résultats sans nom confirmé : un directeur salarié existe peut-être — à demander. Standard et email non trouvés ; domaine decize-confluence.fr vu (builtwith) mais non confirmé comme site de la SPL. Cible atypique (structure publique). Deuxième passe (27/10/2026) : 03 73 15 00 00, numéro de la SPL Confluence (port de Decize, La Jonction) sur la page contact « SPL Confluence » du site de la Communauté de communes Sud Nivernais, son actionnaire, avec port-decize@ccsn.fr ; le Stade nautique a sa propre ligne (03 86 25 00 99) et le site decize-confluence.fr reste non confirmé. Vérification : une recherche ne retrouve pas le 03 73 15 00 00 (BuiltWith associe au domaine decize-confluence.fr un autre numéro, 03 86 25 27 23, non confirmé) ; numéro conservé mais ramené de « officielle » à « annuaire », la page source étant celle de la communauté de communes actionnaire et non de la SPL ; l'e-mail port-decize@ccsn.fr, publié par la communauté de communes et non par la SPL, est retiré."
+ },
+ {
+  "rang": 274,
+  "siren": "891398190",
+  "nom": "SAS TMS 58",
+  "ville": "Nevers",
+  "adresse": "85 FAUBOURG DU GRAND MOUESSE",
+  "activite": "Hébergement",
+  "effectif": "10-19 salariés",
+  "site_web": "https://logishotels.com/en/hotel/logis-hotel-au-relais-nivernais-186946",
+  "dirigeants": [
+   {
+    "nom": "Fabien GUICHARD",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Fabien Guichard",
+   "fonction": "Président (référent de l'établissement Hôtel Au Relais Nivernais)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://mnt.entreprises.gouv.fr/en/all/etablissement/58948-hotel-au-relais-nivernais"
+  },
+  "contact_finance": {
+   "nom": "Fabien Guichard",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-tms-58-891398190"
+  },
+  "note_contacts": "Exploite le Logis Hôtel Au Relais Nivernais (3*, 14 chambres, Marque Qualité Tourisme) et son restaurant Le Bouchon Nivernais, 85 faubourg du Grand Mouësse, Nevers. Standard et email (adresse orange.fr de l'établissement) publiés sur l'annuaire Marque Qualité Tourisme (entreprises.gouv.fr). Site web = page de l'hôtel sur le réseau Logis (pas de site propre trouvé). Fabien Guichard : président au registre, référent de l'établissement et accueil des clients selon la page Logis."
+ },
+ {
+  "rang": 280,
+  "siren": "503336471",
+  "nom": "MECAMACHINE",
+  "ville": "La Machine",
+  "adresse": "LES ZAGOTS",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "effectif": "10-19 salariés",
+  "site_web": "http://www.mecamachine.fr/",
+  "dirigeants": [
+   {
+    "nom": "MECAMACHINE HOLDING",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Gérard Provost",
+   "fonction": "Représentant de MECAMACHINE HOLDING, présidente de la société",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://origami-entreprises.fr/entreprise/503336471.txt"
+  },
+  "contact_finance": {
+   "nom": "Gérard Provost",
+   "fonction": "Représentant de MECAMACHINE HOLDING, présidente de la société",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://origami-entreprises.fr/entreprise/503336471.txt"
+  },
+  "note_contacts": "Décolletage (NAF 25.62A), SAS créée en 2008, Les Zagots, La Machine. Aucun standard, email ni site trouvés (3 recherches). Dirigeant identifié via un agrégateur des données SIRENE/INPI (origami-entreprises.fr). Arbitrage (27/10/2026) : le 03 86 50 81 64 est le standard publié par Mecamachine sur la page contact de son site (rue des Zagots, La Machine ; fax 03 86 50 95 50), repris par la commune et les annuaires ; trouvé lors de la recherche sur sa holding (Mecamachine Holding) et reconfirmé par une recherche de contrôle. Le 03 86 50 49 13 (Pages Jaunes) et un portable Cylex ne sont pas retenus."
+ },
+ {
+  "rang": 284,
+  "siren": "478725278",
+  "nom": "EXAGON ENGINEERING",
+  "ville": "Magny-Cours",
+  "adresse": "TECHNOPOLE",
+  "activite": "Industrie automobile",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.exagon-engineering.com",
+  "dirigeants": [
+   {
+    "nom": "Luc MARCHETTI",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Luc Marchetti",
+   "fonction": "Gérant, fondateur (2004)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://franco.wiki/fr/Exagon_Motors.html"
+  },
+  "contact_finance": {
+   "nom": "Luc Marchetti",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/exagon-engineering-478725278"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Cathy Muller",
+    "fonction": "Manager de l'équipe course (selon Wikipédia, information possiblement ancienne)",
+    "tel": null,
+    "email": null,
+    "source": "https://en.wikipedia.org/wiki/Exagon_Engineering"
+   }
+  ],
+  "note_contacts": "Équipe de course et préparateur automobile sur la Technopole du circuit de Magny-Cours ; division Exagon Motors (voiture électrique Furtive-eGT). Site exagon-motors.com cité par un wiki (non vérifié en ligne). Aucun standard ni email propres trouvés (3 recherches) ; seuls les numéros du circuit / de la Technopole apparaissent (non retenus). Deuxième passe (27/10/2026) : 03 86 21 07 40 = standard d'Exagon Engineering (Technopôle du circuit, Magny-Cours), donné par sa page contact et ses mentions légales (Luc Marchetti directeur de publication), lun-ven 8h30-12h / 14h-17h30. Numéros vus dans des annuaires non retenus : 03 86 21 25 59 (fax) et 09 63 41 18 31. Vérification : numéro non retrouvé (1 recherche, aucun résultat sur exagon-engineering.com ni ailleurs), conservé mais rétrogradé en « annuaire » ; rien n'indique qu'il appartienne à une autre société."
+ },
+ {
+  "rang": 307,
+  "siren": "831929161",
+  "nom": "CITYA IMMOBILIER NEVERS",
+  "nom_commercial": "CITYA SAINT SEBASTIEN IMMOBILIER",
+  "ville": "Nevers",
+  "adresse": "67 RUE FRANCOIS MITTERRAND",
+  "activite": "Activités immobilières",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.citya.com/agences-immobilieres/nevers-58000/525",
+  "dirigeants": [
+   {
+    "nom": "Charles Edouard Andre COLAS",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Charles Edouard Andre COLAS",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/citya-immobilier-nevers-831929161"
+  },
+  "contact_finance": {
+   "nom": "Charles Edouard Andre COLAS",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/citya-immobilier-nevers-831929161"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Patrice MEUNIER",
+    "fonction": "Directeur de l'agence Citya Saint Sébastien Immobilier (Nevers)",
+    "tel": null,
+    "email": "pmeunier@citya.com",
+    "source": "https://www.citya.com/agences-immobilieres/nevers-58000/525"
+   }
+  ],
+  "note_contacts": "Filiale du réseau Citya (siège à Tours). Pas de DAF/RAF propre trouvé pour l'agence ; le gérant légal (registre) n'est pas sur place, l'interlocuteur opérationnel est le directeur d'agence Patrice Meunier, dont l'e-mail est publié sur la page agence Citya. Numéro d'agence confirmé aussi par PagesJaunes (https://www.pagesjaunes.fr/pros/08725415). Une annonce cite une ancienne adresse 11 place Saint-Sébastien. Réclamations groupe : qualite@citya.com (national, non retenu)."
+ }
+]

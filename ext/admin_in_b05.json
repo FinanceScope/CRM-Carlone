@@ -1,0 +1,358 @@
+[
+ {
+  "rang": 330,
+  "siren": "671880235",
+  "nom": "CASINO DE ST HONORE",
+  "ville": "Saint-Honoré-les-Bains",
+  "adresse": "PARC THERMAL",
+  "activite": "Organisation de jeux de hasard et d'argent",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Jean DOUTRELIGNE",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Manon BOUILLOT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Sophie LEPERE",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean DOUTRELIGNE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/casino-de-st-honore-671880235"
+  },
+  "contact_finance": {
+   "nom": "Jean DOUTRELIGNE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/casino-de-st-honore-671880235"
+  },
+  "note_contacts": "Casino exploité sous le nom 'Casino Le Vegas' (av. Jean Mermoz, 58360 Saint-Honoré-les-Bains ; 50 machines, 1 table) selon World Casino Directory et Casinosavenue (https://www.casinosavenue.com/fr/casino/casino-le-vegas-saint-honore-les-bains/8423). Numéro issu d'annuaires uniquement. Directeur d'établissement non trouvé. Administrateurs au registre : Manon BOUILLOT, Sophie LEPERE (confirmés par Xerfi). Aucun site officiel trouvé."
+ },
+ {
+  "rang": 336,
+  "siren": "344407903",
+  "nom": "HOTEL GRIL DE NEVERS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "6 RUE LOUISE MICHEL",
+  "activite": "Hébergement",
+  "effectif": "10-19 salariés",
+  "site_web": "https://nevers-nord-varennes-vauzelles.campanile.com/",
+  "dirigeants": [
+   {
+    "nom": "LOUVRE HOTELS",
+    "fonction": "Associé indéfiniment et solidairement responsable"
+   },
+   {
+    "nom": "ENVERGURE PARTICIPATIONS SAS",
+    "fonction": "Gérant et associé indéfiniment et solidairement responsable"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "ENVERGURE PARTICIPATIONS SAS",
+   "fonction": "Gérant et associé indéfiniment et solidairement responsable (personne morale, groupe Louvre Hotels) ; personne physique non identifiée",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/344407903"
+  },
+  "note_contacts": "Société exploitant l'hôtel Campanile Nevers Nord - Varennes-Vauzelles (rue Louise Michel, ~46 chambres), filiale de Louvre Hotels Group (groupe Jin Jiang) : associés/gérant = LOUVRE HOTELS et ENVERGURE PARTICIPATIONS. Décisions financières probablement prises au siège du groupe (Puteaux) ; ni DAF ni directeur d'hôtel nommé trouvé en 3 recherches. Standard joignable 8h-22h selon le site officiel."
+ },
+ {
+  "rang": 456,
+  "siren": "808472484",
+  "nom": "LE CHENE ET LE ROSEAU",
+  "nom_commercial": "Biocoop Cosne",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ZI DES PRES MAILLARDS 108 AVENUE DU 85EME DE LIGNE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "groupe": "Réseau coopératif Biocoop",
+  "site_web": "http://www.biocoop-cosne.com",
+  "dirigeants": [
+   {
+    "nom": "Maya BERGERON (AZGUI)",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Opposition à la prospection : coordonnées société uniquement. Numéro du magasin Biocoop Cosne (108 avenue du 85e de Ligne) confirmé par l'annuaire Bible des Marques, identique à 'deja'. Aucun e-mail générique trouvé. Présidente selon le registre : Maya BERGERON (depuis le 16/09/2025), non reprise car non vue sur le site de la société.",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 457,
+  "siren": "393733191",
+  "nom": "OPTIQUE BAPTESTE",
+  "nom_commercial": "Opticien Krys Cosne Saint-Jacques",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "17-19-21 17 RUE SAINT-JACQUES",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "groupe": "Krys Group (enseignes Krys et Le Collectif des Lunetiers)",
+  "site_web": "https://www.krys.com/opticien/france/nievre/opticien-cosne-cours-sur-loire/cosne-stjacques",
+  "linkedin": "https://www.linkedin.com/company/sarl-optique-bapteste",
+  "dirigeants": [
+   {
+    "nom": "Olivier BAPTESTE",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Olivier BAPTESTE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
+  },
+  "contact_finance": {
+   "nom": "Olivier BAPTESTE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/optique-bapteste-393733191"
+  },
+  "note_contacts": "Magasin Krys, 17/19 rue Saint-Jacques ; numéro identique à 'deja', confirmé par l'annuaire 118000. Pas de DAF (10-19 salariés) : le président décide. Aucune source web en ligne ne cite O. Bapteste en dehors du registre.",
+  "opposition_prospection": false
+ },
+ {
+  "rang": 458,
+  "siren": "382085215",
+  "nom": "CHATEAU DE TRACY COMTESSE A.D ASSAY",
+  "nom_commercial": "Château de Tracy",
+  "ville": "Tracy-sur-Loire",
+  "adresse": "LE CHATEAU DE TRACY",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.chateau-de-tracy.com/",
+  "dirigeants": [
+   {
+    "nom": "Juliette Pauline Marie D'ESTUTT D'ASSAY",
+    "fonction": "Président du directoire"
+   },
+   {
+    "nom": "Maxime BOURRET",
+    "fonction": "Membre du directoire"
+   },
+   {
+    "nom": "Marie-Caroline D'ESTUTT D'ASSAY",
+    "fonction": "Président du conseil de surveillance"
+   },
+   {
+    "nom": "Nathalie D'ESTUTT D'ASSAY",
+    "fonction": "Autre"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Juliette D'ESTUTT D'ASSAY",
+   "fonction": "Présidente du directoire (dirige le domaine depuis 2014, après son frère Henry d'Estutt d'Assay)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.thewinedoctor.com/tastingsformal/tracy2024.shtml"
+  },
+  "contact_finance": {
+   "nom": "Juliette D'ESTUTT D'ASSAY",
+   "fonction": "Présidente du directoire",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Maxime BOURRET",
+    "fonction": "Membre du directoire",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215"
+   }
+  ],
+  "note_contacts": "Domaine viticole (Pouilly-Fumé). Standard identique à 'deja', confirmé par la fiche Falstaff (+33 3 86 26 15 12). E-mail contact@ repris de 'deja' (attribué au site officiel, non revérifié dans un extrait de recherche). Rôle exact de Maxime Bourret non trouvé en ligne.",
+  "opposition_prospection": false
+ },
+ {
+  "rang": 459,
+  "siren": "394326854",
+  "nom": "SARL DELIN J.",
+  "ville": "Guérigny",
+  "adresse": "57 GRANDE RUE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "FRANCK DELIN",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "SEVERINE DELIN",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Franck DELIN",
+   "fonction": "Gérant (co-gérant avec Séverine DELIN)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+  },
+  "contact_finance": {
+   "nom": "Franck DELIN",
+   "fonction": "Gérant (co-gérant avec Séverine DELIN)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Séverine DELIN",
+    "fonction": "Gérante (co-gérante)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+   }
+  ],
+  "note_contacts": "Aucune présence web trouvée en 3 recherches (ni téléphone, ni site, ni annuaire visible dans les extraits). Dirigeants d'après le registre uniquement ; la co-gérante Séverine Delin peut aussi suivre la gestion. Deuxième passe (27/10/2026) : 03 86 60 48 03, numéro de l'entreprise de couverture/isolation (RGE) à Guérigny d'après l'annuaire d'artisans Hellowatt ; aucun site propre trouvé. Vérification : relecture sans recherche ; numéro conservé (annuaire), l'e-mail générique tiré de Hellowatt a été retiré car il n'est pas publié par l'entreprise elle-même (domaine delin-couverture.fr introuvable)."
+ },
+ {
+  "rang": 460,
+  "siren": "351271127",
+  "nom": "MORVAN CHARCUTERIES SALAISONS",
+  "ville": "Clamecy",
+  "adresse": "ZI DE SURGY RUE HELENE BOUCHER",
+  "activite": "Industries alimentaires",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "GUSTEO",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Fabricant de l'andouillette de Clamecy (fiche Bourgogne Tourisme : https://www.burgundy-tourism.com/regional-products/morvan-charcuteries-salaisons-landouillette-de-clamecy). Président = la société GUSTEO (holding) ; personne physique qui la dirige non trouvée en 3 recherches. Ni téléphone ni site trouvés dans les extraits. Deuxième passe (27/10/2026) : 03 86 27 00 14, numéro de l'usine publié par Pages Jaunes et d'autres annuaires sous le nom commercial « Morvan Andouillette », rue Hélène Boucher, ZI de Surgy, Clamecy (fax 03 86 27 01 13 selon Kompass). Fichesociete.fr cite Thierry Mosson comme dirigeant, à confirmer. Vérification : relecture sans recherche ; le nom commercial « Morvan Andouillette » est publié à la même adresse (rue Hélène Boucher, Clamecy), numéro conservé en annuaire."
+ },
+ {
+  "rang": 461,
+  "siren": "405156274",
+  "nom": "SARL AMBULANCES MARTIN",
+  "ville": "Clamecy",
+  "adresse": "PRESSURES 16 RUE DES HIRONDELLES",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Kelly MARTIN",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Kelly MARTIN",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+  },
+  "contact_finance": {
+   "nom": "Kelly MARTIN",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+  },
+  "note_contacts": "Aucun numéro trouvé en 3 recherches. Un annuaire (trouver-ouvert.fr) liste 'Ambulances Martin SARL' au 16 route de Pressures / Hirondelles, Clamecy, et un établissement 'Ambulances Martin' au 12 rue du Faubourg de Marcy, 58210 Varzy, ouverts 24h/24 (https://trouver-ouvert.fr/varzy/ambulances-martin-2655846), sans téléphone visible dans l'extrait. Gérante d'après le registre uniquement. Deuxième passe (27/10/2026) : 03 86 24 97 23, siège de Clamecy (16 rue des Hirondelles, Pressures) d'après Pages Jaunes et Cylex ; l'établissement de Varzy (12 faubourg de Marcy) répond au 03 86 29 42 29. Un annuaire cite Pascal Martin comme gérant, d'autres Kelly Martin. Vérification : relecture sans recherche ; numéro du siège de Clamecy conservé (annuaire). Le numéro de Varzy, autre commune, n'a pas été revérifié et son rattachement à cette société reste à confirmer."
+ },
+ {
+  "rang": 462,
+  "siren": "352722649",
+  "nom": "SARL HOSTELLERIE DE LA POSTE",
+  "ville": "Clamecy",
+  "adresse": "9 PLACE EMILE ZOLA",
+  "activite": "Hébergement",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.logishotels.com/fr/hotel/logis-hostellerie-de-la-poste-6276",
+  "dirigeants": [
+   {
+    "nom": "Denis GUENOT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Denis GUENOT",
+   "fonction": "Gérant (et chef de cuisine)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://fr.gaultmillau.com/en/restaurant/hostellerie-de-la-poste"
+  },
+  "contact_finance": {
+   "nom": "Denis GUENOT",
+   "fonction": "Gérant (et chef de cuisine)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-hostellerie-de-la-poste-352722649"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Christophe GUENOT",
+    "fonction": "Sommelier",
+    "tel": null,
+    "email": null,
+    "source": "https://fr.gaultmillau.com/en/restaurant/hostellerie-de-la-poste"
+   }
+  ],
+  "note_contacts": "Hôtel-restaurant 3 étoiles Logis, 9 place Émile Zola. Standard 03 86 27 01 55 concordant sur l'office de tourisme de Clamecy et plusieurs annuaires (Sluurpy, Koifaire, Foodle) ; fax 03 86 27 05 99. Site = page Logis Hotels (non ouverte). E-mail masqué dans les extraits ; attention, lhostellerieposte@gmail.com appartient à un homonyme de Tarascon-sur-Ariège."
+ },
+ {
+  "rang": 463,
+  "siren": "315548925",
+  "nom": "SAS AMBULANCE JACSON",
+  "ville": "Clamecy",
+  "adresse": "ZONE ARTISANALE RUE HELENE BOUCHER",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Christopher SANCHEZ",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Christopher SANCHEZ",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+  },
+  "contact_finance": {
+   "nom": "Christopher SANCHEZ",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+  },
+  "note_contacts": "Aucun numéro trouvé en 3 recherches. Changements récents : arrêté ARS de sept. 2025 (transformation SARL -> SAS et changement de gérant) et arrêté ARS BFC-2026-03-12-00009 de mars 2026 (rachat de parts et changement de dirigeant) — https://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/irecontenu/telechargement/136450/997663/file/recueil-bfc-2026-049-recueil-des-actes-administratifs-nominatifs.pdf ; vérifier que C. Sanchez est bien le dirigeant actuel. SIRENE indique aussi un établissement au 28 chemin de la Côte d'Or, Clamecy, et un autre à LD Cervenon, 58210 Saint-Germain-des-Bois ; implantation Clamecy / Tannay. Deuxième passe (27/10/2026) : 03 86 24 47 48, établissement de Clamecy (rue Hélène Boucher) selon Pages Jaunes et itaxis ; le site de Tannay (5 place Charles Chaigneau) est au 03 86 29 32 32. Un 03 86 27 26 14 donné pour Saint-Germain-des-Bois n'est pas confirmé. Vérification : relecture sans recherche ; numéro de l'établissement de Clamecy conservé (annuaire), les numéros de Tannay et de Saint-Germain-des-Bois ne sont que des pistes."
+ }
+]

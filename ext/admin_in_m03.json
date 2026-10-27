@@ -1,0 +1,330 @@
+[
+ {
+  "rang": 133,
+  "siren": "530108307",
+  "nom": "AP NEVERS",
+  "nom_commercial": "Les Rives de la Nièvre",
+  "ville": "Nevers",
+  "adresse": "37-39 RUE JEAN GAUTHERIN",
+  "activite": "Hébergement médico-social et social",
+  "effectif": "50-99 salariés",
+  "dirigeants": [
+   {
+    "nom": "DOMIDEP",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Dominique Pellé",
+   "fonction": "Fondateur et président du groupe Domidep (DOMIDEP, présidente de la société) — mention possiblement ancienne",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.capretraite.fr/choisir-une-maison-de-retraite/types-de-maison/domidep/"
+  },
+  "contact_finance": {
+   "nom": "Dominique Pellé",
+   "fonction": "Fondateur et président du groupe Domidep (DOMIDEP, présidente de la société) — mention possiblement ancienne",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.capretraite.fr/choisir-une-maison-de-retraite/types-de-maison/domidep/"
+  },
+  "note_contacts": "EHPAD Les Rives de la Nièvre (FINESS 580781185), 37 rue Jean Gautherin, Nevers ; standard issu de l'annuaire officiel pour-les-personnes-agees.gouv.fr. Fax 03 86 36 55 33 (etablissementsdesante.fr, annuaire) ; un email de contact y est signalé mais n'apparaît pas dans l'extrait, donc non relevé. Groupe Domidep contrôlé par le fonds I Squared depuis 2019 (euodia.fr) : la présidence de Dominique Pellé provient de guides en ligne possiblement datés, à vérifier. Finance probablement centralisée au siège du groupe ; ni DAF ni directeur d'établissement nommé trouvé. Le 03 86 60 68 89 vu dans un arrêté du Département est celui du service autonomie du Conseil départemental, pas de l'EHPAD."
+ },
+ {
+  "rang": 136,
+  "siren": "379574767",
+  "nom": "S.E.D.N.A Nevers",
+  "nom_commercial": "Résidence Marion de Givry",
+  "ville": "Nevers",
+  "adresse": "7-9 RUE DES FRANCS BOURGEOIS",
+  "activite": "Hébergement médico-social et social",
+  "effectif": "50-99 salariés",
+  "dirigeants": [
+   {
+    "nom": "S.E.D.N.A FRANCE",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "EHPAD Résidence Marion de Givry (FINESS 580972123), 7 rue des Francs Bourgeois, Nevers, géré par SEDNA Nevers (filiale de S.E.D.N.A France, présidente personne morale). Standard issu de l'annuaire officiel pour-les-personnes-agees.gouv.fr. etablissementsdesante.fr signale un email sur le domaine SEDNA pour l'établissement, non visible dans l'extrait, donc non relevé. Aucune personne physique trouvée à la tête de SEDNA France ni de directeur d'établissement / DAF : décideur à identifier via le standard. Une recherche sur le nom de la résidence est refusée par l'outil (confondu avec une personne) : préciser « EHPAD »."
+ },
+ {
+  "rang": 154,
+  "siren": "315564443",
+  "nom": "CLINIQUE DU MORVAN",
+  "ville": "Nevers",
+  "adresse": "49 BOULEVARD JEROME TRESAGUET",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "50-99 salariés",
+  "site_web": "https://www.elsan.care/fr/polyclinique-val-de-loire/notre-etablissement",
+  "dirigeants": [
+   {
+    "nom": "ELSAN SAS",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "François Auquière",
+   "fonction": "Directeur du territoire ELSAN (Nevers) — la société est présidée par ELSAN SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.elsan.care/presse/la-polyclinique-val-de-loire-obtient-sa-certification-haute-qualite-des-soins?amp=1"
+  },
+  "contact_finance": {
+   "nom": "François Auquière",
+   "fonction": "Directeur du territoire ELSAN (Nevers) — la société est présidée par ELSAN SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.elsan.care/presse/la-polyclinique-val-de-loire-obtient-sa-certification-haute-qualite-des-soins?amp=1"
+  },
+  "note_contacts": "Le siège de CLINIQUE DU MORVAN est à l'adresse de la Polyclinique du Val de Loire – ELSAN (49 bd Jérôme Trésaguet, Nevers ; autre SIREN 651880437), mais l'établissement « Clinique du Morvan » est situé à Luzy (Journal du Centre via elsan.care : https://www.elsan.care/fr/nos-actualites/paru-dans-le-journal-du-centre-nouveau-directeur-la-clinique-du-val-de-loire) ; son numéro à Luzy n'a pas été trouvé. Standard et fax (03 86 93 53 93) de la polyclinique d'après etablissementsdesante.fr ; email pvl@elsan.care publié dans le livret d'accueil ELSAN. François Auquière est cité comme directeur du territoire ELSAN en septembre 2024 ; directeurs antérieurs : Michel Lagache (2014), Arnaud Goguillot (2017-2020). Finance probablement centralisée chez ELSAN ; aucun DAF/RAF ou contrôleur de gestion du site trouvé."
+ },
+ {
+  "rang": 435,
+  "siren": "408194686",
+  "nom": "J.L. TRANSPORTS",
+  "ville": "Clamecy",
+  "adresse": "LA VIGNE DOREE MOULOT",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "50-99 salariés",
+  "dirigeants": [
+   {
+    "nom": "KERAL INVESTISSEMENTS",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Aucun téléphone ni site trouvé (3 recherches) ; seule la fiche SIRENE confirme SAS active, transport routier de fret de proximité, \"La Vigne Dorée\" Moulot 58500 Clamecy. Présidence assurée par la holding KERAL INVESTISSEMENTS : personne physique qui la dirige non trouvée. Aucun responsable financier identifié malgré 50-99 salariés. Deuxième passe (27/10/2026) : standard du siège (La Vigne Dorée, Moulot, Clamecy) donné par les annuaires (Pages Jaunes, Cylex, annuaire inversé) au nom de JL Transports ; pas de site trouvé. Manageo et Kompass (données anciennes) citent Thierry Jeannin et Pierre-Jean Lenoir comme dirigeants."
+ },
+ {
+  "rang": 436,
+  "siren": "879402949",
+  "nom": "SARL CHRONO'TRANS 58",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "5 RUE LEON BLUM",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "50-99 salariés",
+  "dirigeants": [
+   {
+    "nom": "Anthony BERANGER",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Anthony BERANGER",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-chronotrans-58-879402949"
+  },
+  "contact_finance": {
+   "nom": "Anthony BERANGER",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-chronotrans-58-879402949"
+  },
+  "note_contacts": "Aucune trace en ligne de CHRONO'TRANS 58 (3 recherches) : pas de téléphone ni de site. Une société homonyme CHRONO'TRANS (transport routier, siège à Montierchaume, 36) existe ; lien non établi. Gérant repris du registre (deja), non revérifié. Deuxième passe (27/10/2026) : aucun numéro trouvé (2 recherches) ; une fiche PagesJaunes « Chrono'Trans 58 SARL » à Varennes-Vauzelles existe (https://www.pagesjaunes.fr/pros/63451401) mais le numéro n'apparaît pas dans les extraits. Messagerie en véhicules de moins de 3,5 t, filiale de HOLDING BERANGER ; le gérant Anthony Beranger dirige aussi CHRONO'TRANS à Montierchaume (36), dont le numéro n'est pas à reprendre. Troisième passe (27/10/2026) : l'angle adresse du registre (5 rue Léon Blum, Varennes-Vauzelles) a fonctionné : les annuaires (Hoodspot, Pages Jaunes) publient le 03 58 07 60 80 pour SARL Chrono'Trans 58 à cette adresse, distinct du numéro de Chrono'Trans à Montierchaume (36). Les recherches sur le nom seul et sur Holding Beranger / Anthony Beranger n'ont rien donné. Vérification : aucune recherche de contrôle n'a pu être faite (quota de recherches web de la session épuisé) ; numéro conservé faute de preuve contraire : la source citée (petitesaffiches, non nommée dans la note) porte dans son adresse le SIRET 879 402 949 00017 de la société, et l'indicatif 03 58 est nivernais, distinct du siège de Montierchaume (36)."
+ },
+ {
+  "rang": 437,
+  "siren": "482066487",
+  "nom": "TRANSPORTS RESSAT",
+  "ville": "Langeron",
+  "adresse": "16 RUE DES CRAIES",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "50-99 salariés",
+  "dirigeants": [
+   {
+    "nom": "HPR",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Lucas RESSAT",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Lucas RESSAT",
+   "fonction": "Directeur Général (présidence assurée par la holding HPR, dont le dirigeant n'a pas été identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/transports-ressat-482066487"
+  },
+  "contact_finance": {
+   "nom": "Lucas RESSAT",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/transports-ressat-482066487"
+  },
+  "note_contacts": "Téléphone vu uniquement sur un agrégateur (CB Insights), qui situe le siège 'ZA la Maison Rouge, Langeron' (le registre donne 16 rue des Craies). Aucun responsable financier nommé trouvé malgré 50-99 salariés ; dirigeants repris du registre (deja)."
+ },
+ {
+  "rang": 438,
+  "siren": "340991926",
+  "nom": "VOYAGES GONIN",
+  "ville": "Saint-Léger-des-Vignes",
+  "adresse": "52 ROUTE DE LA MACHINE",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "50-99 salariés",
+  "site_web": "https://www.voyages-gonin.com/",
+  "dirigeants": [
+   {
+    "nom": "Olivier ROUSSAT",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Olivier ROUSSAT",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+  },
+  "contact_finance": {
+   "nom": "Olivier ROUSSAT",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+  },
+  "note_contacts": "Nom commercial 'Voyages Gonin - Transports Gaulier' (Pappers) ; transport de voyageurs/scolaire (secteurs Decize, Luzy, Saint-Saulge, Châtillon-en-Bazois). Aucun téléphone publié trouvé (3 recherches). Pappers cite aussi une holding financière et Emmanuel Chevalier parmi les dirigeants (fonction non précisée dans l'extrait). Marché de navettes/autocars attribué en juin 2026 (https://www.marchesonline.com/appels-offres/attribution/transport-collectif-en-navette-et-autocar/am-9609887-1). Aucun responsable financier nommé malgré 50-99 salariés. Deuxième passe (27/10/2026) : 03 86 77 11 44 = standard du siège de Saint-Léger-des-Vignes (52 route de la Machine), publié sur le site de l'entreprise et repris par PagesJaunes. Agence de Decize (31 bis rue de la République) au 03 86 25 19 96 ; le 03 86 25 04 37 serait le fax ; adresses nominatives e.chevalier@ et o.roussat@voyages-gonin.com non retenues comme génériques. Vérification : 03 86 77 11 44 confirmé sur voyages-gonin.com pour le 52 route de la Machine à Saint-Léger-des-Vignes (officielle maintenue) ; l'adresse voyages-gonin@wanadoo.fr, tirée d'un programme de cinéma de la ville de Decize et non publiée par l'entreprise elle-même, a été retirée."
+ },
+ {
+  "rang": 9,
+  "siren": "510317191",
+  "nom": "GROUPE ROUSSEAU",
+  "nom_court": "Groupe Rousseau (transports, Clamecy)",
+  "ville": "Clamecy",
+  "adresse": "Allée Clément Ader, 58500 Clamecy",
+  "activite": "Services financiers",
+  "effectif": "20-49 (registre) ; 10-19 selon le classement",
+  "groupe": "Holding de Transports Rousseau Eric",
+  "site_web": "https://rousseau-groupe.com",
+  "dirigeants": [
+   {
+    "nom": "Eric ROUSSEAU",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Jade ROUSSEAU",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de SAS (fondateur du groupe de transport routier Rousseau, né des Transports Éric Rousseau créés en 1994)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://auris-finance.fr/en/?p=9631"
+  },
+  "contact_finance": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de SAS (aucun DAF/RAF/contrôleur de gestion du groupe trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/510317191"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jade ROUSSEAU",
+    "fonction": "Directeur général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/510317191",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Décision prise à Clamecy par la famille Rousseau (Éric Rousseau, président, et Jade Rousseau, DG) : GROUPE ROUSSEAU est la holding familiale nivernaise d'un groupe de transport routier indépendant (~740 salariés, 10 sites) qui a gardé son siège dans la Nièvre.",
+  "note_contacts": "Aucun résultat pertinent en 3 recherches : les résultats « Groupe Rousseau » concernent un homonyme (groupe normand de construction métallique / mobilier urbain, Turenne et Bpifrance au capital), sans lien établi avec Clamecy. Activité opérationnelle du groupe de Clamecy (91 M€ de CA) non identifiée. Dirigeants issus du registre uniquement. 2e niveau : 6 recherches. Activité identifiée (la 1re passe avait confondu avec un homonyme normand) : holding du groupe de transport routier Rousseau, issu des Transports Éric Rousseau (1994, RCS Nevers), qui a repris Transports Malleret (1999), Transports Charrier (Decize) et Boudet (Saint-Florent-sur-Cher), EF Bennes (avril 2023) et Van de Walle (septembre 2024, 210 salariés, 30 M€) ; ~740 salariés, 1 200 véhicules, 10 sites (Nièvre, Pas-de-Calais, Gironde, Yonne, Cher, Puy-de-Dôme) ; transport sous température dirigée, matières dangereuses, vrac et bennes – source conseil M&A Auris Finance (https://auris-finance.fr/en/?p=9631 et https://auris-finance.fr/en/?p=8298). Attention aux homonymes : Groupe Rousseau (construction métallique, Normandie, Turenne/Bpifrance), Rousseau Automobile (Île-de-France), Transports Rousseau SAS (Cognac), Transports Cyril Rousseau (Marseille) – sans lien. Aucun site officiel, standard ni email trouvé ; aucun DAF/RAF publié. À faire : trouver le numéro des Transports Éric Rousseau à Clamecy (allée Clément Ader) via PagesJaunes ; à l'appel, demander le responsable administratif et financier du groupe et confirmer le rôle de Jade Rousseau (DG). Deuxième cercle (27/10/2026) : standard du siège du Groupe Rousseau, allée Clément Ader à Clamecy, 03 58 05 30 57, et e-mail contact@rousseau-groupe.com, publiés sur le site officiel rousseau-groupe.com (page contact, confirmés par les mentions légales). La décision se prend à ce siège de Clamecy (famille Rousseau) ; la filiale Transports Rousseau de Corvol-l'Orgueilleux a son propre numéro, le 03 86 29 94 94. Vérification : 03 58 05 30 57 et contact@rousseau-groupe.com confirmés sur la page contact et les mentions légales de rousseau-groupe.com (Groupe Rousseau, allée Clément Ader, Clamecy) ; aucun homonyme en cause. Vérification : Aucun résultat reliant Eric Rousseau à Clamecy : président confirmé par le registre seulement. Piste non vérifiée : une société « Transports Rousseau Eric » (transport routier, greffe de Nevers) existe (https://copeps.fr/actualites/sarl-rousseau-eric/), peut-être la filiale opérationnelle. Aucun résultat pour Jade Rousseau + Groupe Rousseau + Clamecy. Le seul rôle trouvé (DG depuis le 06/02/2025, siège à Corvol-l'Orgueilleux) vient d'un agrégateur (copeps.fr) déjà cité ailleurs, pas d'une source indépendante.",
+  "qui_appeler": "Appeler le 03 58 05 30 57, standard du siège du groupe à Clamecy (allée Clément Ader), et demander Éric Rousseau, président, ou Jade Rousseau, directeur général. À défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 38,
+  "siren": "621880012",
+  "nom": "ETABLISSEMENTS SIMONNEAU",
+  "nom_commercial": "Renault Cosne-sur-Loire (Groupe Simonneau)",
+  "nom_court": "Renault Cosne (groupe Simonneau)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "80 avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49",
+  "groupe": "Groupe Simonneau (holding Philippe Simonneau Holding, Saint-Doulchard (18), présidée par Philippe Simonneau ; environ 12 sites et 385 salariés selon L'argus, déc. 2020)",
+  "site_web": "https://www.renault-cosne.fr",
+  "linkedin": "https://www.linkedin.com/company/groupe-simonneau/",
+  "dirigeants": [
+   {
+    "nom": "PHILIPPE SIMONNEAU HOLDING",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Philippe SIMONNEAU",
+   "fonction": "Dirigeant du groupe Simonneau, président de Philippe Simonneau Holding (présidente de la SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "contact_finance": {
+   "nom": "Philippe SIMONNEAU",
+   "fonction": "Dirigeant du groupe Simonneau, président de Philippe Simonneau Holding (aucun DAF/RAF/comptable publié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.largus.fr/pros/actualite-automobile/simonneau-une-maison-automobile-batie-avec-le-losange-10488401.html"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre SIMONNEAU",
+    "fonction": "Directeur (concession Renault Cosne-sur-Loire ; fils de Philippe Simonneau, directeur adjoint du groupe selon L'argus 2020)",
+    "tel": null,
+    "email": null,
+    "source": "https://concessionnaire.renault.fr/cosne-sur-loire.html",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "À la holding familiale Philippe Simonneau Holding (Saint-Doulchard, Cher), présidée par Philippe Simonneau ; Pierre Simonneau, son fils, dirige le site de Cosne (berceau du groupe) et peut relayer la demande.",
+  "note_contacts": "Standard 03 86 26 81 81 (déjà connu) confirmé par la liste des ateliers Renault (renault.fr, document non daté). Email contact@groupesimonneau.fr repris de « deja », non revu dans les résultats de recherche. Aucun DAF/RAF/comptable du groupe Simonneau trouvé (le groupe a une entité à Saint-Doulchard, 18) : décideur financier = dirigeant par défaut. 2e niveau : 6 recherches. Standard 03 86 26 81 81 confirmé par la page officielle du concessionnaire sur renault.fr et par la liste des ateliers Renault ; site officiel du concessionnaire : https://www.renault-cosne.fr (« concessionnaire Renault du groupe Simonneau »). Nouveau contact : la page officielle Renault nomme Pierre SIMONNEAU « Directeur » de la concession de Cosne (L'argus, 2020, le présentait comme directeur adjoint du groupe, entré en 2018). Président de la SAS = PHILIPPE SIMONNEAU HOLDING (registre), dirigée par Philippe Simonneau : pas de changement constaté. Email contact@groupesimonneau.fr repris de « deja », toujours non retrouvé sur une page publique (aucun site groupesimonneau.fr indexé). Aucun DAF, RAF, chef comptable ni contrôleur de gestion du groupe trouvé (presse, Renault réseau, offres d'emploi) ; la comptabilité est probablement centralisée au siège de Saint-Doulchard (Renault Bourges, 1760 route d'Orléans). Groupe : 50 ans de concession Renault, sites Renault/Dacia à Cosne, Nevers, Decize, Bourges/Saint-Doulchard, Montluçon et Nissan à Bourges, Châteauroux, Nevers (L'argus). À demander à l'appel : Pierre Simonneau, puis le nom du responsable administratif et financier du groupe. Vérification : La liste officielle des ateliers Renault donne +33 3 86 26 81 81 pour Renault Cosne-sur-Loire, 80 avenue du 85e (site Renault-Dacia). L'appartenance au groupe Simonneau n'a pas été vérifiée. Recherche « Pierre Simonneau » + Renault + Cosne : l'article L'argus sur le groupe Simonneau cite Jean, Jean-Claude et Philippe Simonneau, mais aucun Pierre dans les extraits. Rôle de directeur de la concession de Cosne non recoupé.",
+  "qui_appeler": "Appeler la concession au 03 86 26 81 81 (page officielle Renault) et demander Pierre Simonneau, directeur du site, puis le nom du responsable administratif et financier du groupe, sans doute au siège de Saint-Doulchard. À défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 51,
+  "siren": "307049437",
+  "nom": "GARAGE NEVERS SUD",
+  "nom_court": "Garage Nevers Sud (poids lourds, Challuy)",
+  "ville": "Challuy",
+  "adresse": "183-185 route de Lyon",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49 (24 salariés en 2023)",
+  "groupe": "Financière Bongard",
+  "linkedin": "https://www.linkedin.com/company/garage-nevers-sud",
+  "dirigeants": [
+   {
+    "nom": "FINANCIERE BONGARD",
+    "fonction": "Président (personne morale)"
+   }
+  ],
+  "decision": "Probablement au niveau de la holding FINANCIERE BONGARD (présidente de la SAS), dont la localisation et le dirigeant n'ont pas été identifiés ; l'entreprise a un établissement hors Nièvre (Toulon-sur-Allier, Allier), ce qui suggère un petit groupe régional.",
+  "note_contacts": "Le président est la personne morale FINANCIERE BONGARD. Son représentant n'a pas été identifié, et aucun dirigeant personne physique n'est connu. L'annuaire 118712 (https://www.118712.fr/professionnels/X0JRVl9UFQk, numéro masqué) lie FINANCIERE BONGARD aux noms 'Renault Garage Nevers Agent', 'Garage Nevers' et 'Financière Nevers' : il s'agit probablement d'une concession Renault/Dacia, à confirmer. Un lien familial avec Bongard Bazot et Fils (Jean-Luc et Eric Bongard, DG) est possible mais non vérifié. Aucun numéro trouvé dans les extraits pour le 183-185 route de Lyon à Challuy. 2e passe : 3 recherches (adresse 183 route de Lyon Challuy, agent Renault Challuy, garage route de Lyon) sans résultat : aucun garage ni numéro trouvé à cette adresse dans les extraits (seul un Speedy au 5 route de Lyon, sans lien). 2e niveau : 6 recherches, aucun numéro, site ou dirigeant personne physique trouvé. Élément nouveau : l'avis SIRENE de l'établissement 307 049 437 00030 (https://api-avis-situation-sirene.insee.fr/identification/pdf/30704943700030) indique un code NAF 45.19Z (commerce d'autres véhicules automobiles, c'est-à-dire en principe poids lourds/véhicules de plus de 3,5 t), une création en 1976 et un établissement dans un parc logistique sur la RN7 à Toulon-sur-Allier (03400). Il s'agirait donc plutôt d'un distributeur de poids lourds ou véhicules industriels (piste Renault Trucks, cohérente avec la mention « Renault Garage Nevers Agent » de l'annuaire 118712, non confirmée) que d'une concession VP. Aucune activité indexée au 183-185 route de Lyon à Challuy (seul un Speedy au 5 route de Lyon) ; aucune trace web de « Financière Bongard » ni de « Garage Nevers Sud » en dehors du SIRENE. Le lien avec Bongard Bazot et Fils reste non vérifié. Aucun DAF ni comptable trouvé, et aucun dirigeant personne physique connu (d'où dirigeant et décideur financier à null). À l'appel (numéro à obtenir via le 118 712 ou sur place) : demander quelle marque est distribuée, le nom du représentant de Financière Bongard et la personne en charge de la comptabilité. 2e niveau : 6 recherches, aucun numéro, site ou dirigeant personne physique trouvé. Élément nouveau : l'avis SIRENE de l'établissement 307 049 437 00030 (https://api-avis-situation-sirene.insee.fr/identification/pdf/30704943700030) indique un code NAF 45.19Z (commerce d'autres véhicules automobiles, c'est-à-dire en principe poids lourds/véhicules de plus de 3,5 t), une création en 1976 et un établissement dans un parc logistique sur la RN7 à Toulon-sur-Allier (03400). Il s'agirait donc plutôt d'un distributeur de poids lourds ou véhicules industriels (piste Renault Trucks, cohérente avec la mention « Renault Garage Nevers Agent » de l'annuaire 118712, non confirmée) que d'une concession VP. Aucune activité indexée au 183-185 route de Lyon à Challuy (seul un Speedy au 5 route de Lyon) ; aucune trace web de « Financière Bongard » ni de « Garage Nevers Sud » en dehors du SIRENE. Le lien avec Bongard Bazot et Fils reste non vérifié. Aucun DAF ni comptable trouvé, et aucun dirigeant personne physique connu (d'où dirigeant et décideur financier à null). À l'appel (numéro à obtenir via le 118 712 ou sur place) : demander quelle marque est distribuée, le nom du représentant de Financière Bongard et la personne en charge de la comptabilité. 3e passe : 5 recherches (route de Lyon à Challuy + poids lourds, Renault Trucks Nevers/Challuy, « Garage Nevers Sud » + Toulon-sur-Allier, Bongard + Toulon-sur-Allier RN7, « 183 route de Lyon » Challuy) : aucun numéro ni marque identifiée. Le seul concessionnaire Renault Trucks trouvé près de Nevers est Faurie Trucks (Varennes-Vauzelles) et le site Volvo de la zone est à Moulins (Relais Poids Lourds Auvergne, groupe Brochard) : aucun lien établi avec Garage Nevers Sud. L'adresse du 183-185 route de Lyon n'est indexée nulle part. Deuxième cercle (27/10/2026) : Garage Nevers Sud est le distributeur et réparateur agréé Scania de Challuy (183-185 route de Lyon), standard 03 86 37 60 66 sur sa fiche officielle du réseau Scania, confirmé par PagesJaunes ; l'établissement de Toulon-sur-Allier (Parc logistique les Gris, Allier) est aussi un atelier Scania. Décision probable chez la holding Financière Bongard ; Pappers cite Gilles Bongard parmi les dirigeants et bénéficiaires effectifs, à confirmer à l'appel. Vérification : 03 86 37 60 66 confirmé pour Garage Nevers Sud, 183-185 route de Lyon à Challuy, sur la fiche officielle du réseau Scania (page tenue par la marque pour ce distributeur, assimilée à une page réseau) ainsi que sur PagesJaunes et d'autres annuaires. Vérification : Aucun élément renseigné dans la fiche (standard, e-mail, dirigeant, adresse tous null) : rien à vérifier, aucune recherche faite.",
+  "qui_appeler": "Appeler le 03 86 37 60 66, standard du garage de Challuy, réparateur agréé Scania (route de Lyon), et demander le nom du représentant de Financière Bongard et la personne qui tient la comptabilité. À défaut, demander le responsable administratif et financier."
+ }
+]

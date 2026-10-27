@@ -1,0 +1,555 @@
+[
+ {
+  "rang": 10,
+  "siren": "327098364",
+  "nom": "SOC NEVERS DIS",
+  "nom_commercial": "E.Leclerc Nevers (Coulanges-lès-Nevers / Saint-Éloi)",
+  "nom_court": "E.Leclerc Nevers (Coulanges-lès-Nevers)",
+  "ville": "Coulanges-lès-Nevers",
+  "adresse": "Boulevard Beauregard, 58660 Coulanges-lès-Nevers",
+  "activite": "Commerce de détail",
+  "effectif": "200-249",
+  "groupe": "Mouvement E.Leclerc (adhérent) ; holding VANAJEF (SIREN 833243801, Coulanges-lès-Nevers, même dirigeants)",
+  "site_web": "https://www.e.leclerc/mag/e-leclerc-nevers",
+  "dirigeants": [
+   {
+    "nom": "Jean-François MOUSSET",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Nadia MOUSSET (MADAIRE)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-François MOUSSET",
+   "fonction": "Président de SAS (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/327098364"
+  },
+  "contact_finance": {
+   "nom": "Jean-François MOUSSET",
+   "fonction": "Président de SAS",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/327098364"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Nadia MOUSSET (MADAIRE)",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/327098364",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Dans la Nièvre, chez les adhérents Mousset et leur holding VANAJEF (Coulanges-lès-Nevers) : le magasin est un adhérent indépendant E.Leclerc, la centrale nationale n'intervient pas dans ce type d'achat.",
+  "note_contacts": "Numéro confirmé par la page du magasin et par Bonial ; la même ligne est affichée pour l'agence Voyages E.Leclerc (SAS Nevers Dis). Environ 210 à 215 salariés selon les offres d'emploi. Aucun RAF ou responsable comptable nommé publiquement. 2e niveau : 6 recherches. Standard officiel confirmé (page du magasin sur e.leclerc). Les offres d'emploi décrivent le centre E.Leclerc de Nevers : créé en 1983, 210 à 215 salariés, il exploite l'hypermarché de Coulanges, le drive de Nevers (rue des Docks) et l'Express de Saint-Éloi. Aucune source publique (presse, offres, annuaires) ne cite Jean-François ni Nadia Mousset : registre non contredit mais non confirmé. Aucun RAF, chef comptable ni contrôleur de gestion nommé ; aucune offre de poste comptable de ce magasin trouvée. Au téléphone : demander le secrétariat de direction, puis la personne chargée de la comptabilité ou le RAF du centre, et vérifier qui de M. ou Mme Mousset suit les dons et le mécénat. Recherche du décideur financier (27/10/2026) : trois recherches (RAF, chef ou responsable comptable, contrôleur de gestion, LinkedIn, offres d'emploi) ne nomment aucun responsable financier ou comptable du centre E.Leclerc de Nevers (environ 210 salariés) ; les offres de RAF E.Leclerc trouvées concernent d'autres magasins (Cabriès, Château-Thierry, etc.). Sans DAF connu, les adhérents Jean-François et Nadia Mousset décident : demander au standard qui tient la comptabilité du centre. Vérification : Le 03 86 71 84 10 figure aussi sur Bonial pour le magasin du boulevard Beauregard. Aucun résultat ne nomme Jean-François Mousset (président au registre), mais rien ne le contredit. Le 03 86 71 84 10 est confirmé par la page magasin E.Leclerc et par la fiche Bonial (boulevard Beauregard, Coulanges-lès-Nevers). Aucune trace reliant Nadia Mousset au Leclerc de Nevers / Coulanges.",
+  "note_admin": "Décideurs (27/10/2026) : trois recherches (LinkedIn RH et comptabilité, offres du centre de Coulanges-lès-Nevers, raison sociale SOC NEVERS DIS) ne nomment aucun responsable financier, RH ou administratif : seules ressortent une offre d'assistant(e) comptable du magasin (2026, sans nom de responsable) et un profil LinkedIn de Jean-François Mousset chez E.Leclerc, cohérent avec le registre. Décision chez les adhérents Mousset : demander au standard le nom de la personne responsable de la comptabilité et de l'assistante de direction. Vérification : relecture sans recherche, aucune personne retenue, note cohérente.",
+  "qui_appeler": "Appeler le standard du magasin au 03 86 71 84 10 et demander le secrétariat de direction pour joindre Jean-François Mousset, président, ou Nadia Mousset, directrice générale. À défaut, demander le responsable administratif et financier ou la personne chargée de la comptabilité du centre."
+ },
+ {
+  "rang": 21,
+  "siren": "530572775",
+  "nom": "NEXSON GROUP - INDUSTRY",
+  "nom_commercial": "Nexson Group",
+  "nom_court": "Nexson Group, Garchizy",
+  "ville": "Garchizy",
+  "adresse": "685 rue Jules Verne, 58600 Garchizy",
+  "activite": "Fabrication de machines et équipements",
+  "effectif": "100-199 (131 salariés selon L'industrie recrute)",
+  "groupe": "Nexson Group (Nexson Corporation)",
+  "site_web": "https://www.nexson-group.com",
+  "linkedin": "https://www.linkedin.com/company/nexson-group/",
+  "dirigeants": [
+   {
+    "nom": "NEXSON CORPORATION (personne morale, SIREN 891083107)",
+    "fonction": "Président de SAS (depuis le 01/09/2025, en remplacement de Charles Bonnafous)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025, remplacé par la personne morale Nexson Corporation)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/530572775",
+   "a_confirmer": true
+  },
+  "contact_finance": {
+   "nom": "Charles BONNAFOUS",
+   "fonction": "Fondateur et CEO de Nexson Group (président de la SAS jusqu'au 01/09/2025)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/530572775"
+  },
+  "decision": "Probablement au niveau de la holding Nexson Corporation (SIREN 891083107), présidente de la société depuis septembre 2025, donc à la direction du groupe à Garchizy, où se trouve le siège industriel.",
+  "note_contacts": "Le standard et l'e-mail viennent des données existantes ('deja') ; aucun extrait WebSearch ne les confirme ni ne les contredit. Depuis le 01/09/2025, la présidente de la société est la personne morale Nexson Corporation, en remplacement de Charles Bonnafous ; son rôle actuel de CEO du groupe est à reconfirmer. Groupe en croissance externe (rachat de l'allemand Thermowave en 2024) : un DAF existe probablement mais n'a pas été trouvé via WebSearch. 2e niveau : 6 recherches. Seuls les éléments d'activité sont confirmés (échangeurs de chaleur et appareils à pression, 685 rue Jules Verne à Garchizy ; rachat de l'allemand Thermowave, filiale d'A-Heat, en mars 2024, qui reste une entité autonome). Aucun extrait ne nomme le dirigeant actuel : le communiqué Thermowave ne cite aucun CEO, et aucune source ne relie Charles Bonnafous à Nexson Corporation. Son rôle actuel reste donc à confirmer, tout comme l'identité de la personne qui préside la holding. Le standard 03 86 60 13 04 et l'e-mail contact@nexson-group.com (données existantes) ne sont confirmés par aucun extrait, faute de page contact indexée. Aucun DAF ni contrôleur de gestion trouvé, alors qu'un groupe de cette taille (environ 31 M€ de CA, filiale allemande) en a très probablement un. À demander au standard : qui dirige aujourd'hui Nexson Group et le nom du directeur administratif et financier. Recherche du décideur financier (27/10/2026) : trois recherches (DAF ou CFO à Garchizy, RAF / contrôleur de gestion / responsable comptable, communiqués sur le rachat de Thermowave en 2024) ne nomment aucun directeur financier de Nexson Group (les CFO trouvés sont ceux d'homonymes : Nexus Group, Nexon, Nexans). Un DAF existe probablement au siège de Garchizy : le faire nommer au standard ; à défaut, la direction de la holding Nexson Corporation décide. Confirmation du standard (27/10/2026) : le site officiel nexson-group.com (pages implantations et contact) donne pour le site du 685 rue Jules Verne à Garchizy le +33 3 86 60 13 04 et contact@nexson-group.com, soit le standard déjà au CRM, et ses mentions légales nomment Charles-Edouard Vigneron directeur de la publication. Vérification : non confirmé, la seule recherche permise (nexson-group.com, Garchizy, téléphone) n'a renvoyé aucun résultat, si bien que la page implantations citée (+33 3 86 60 13 04 pour le 685 rue Jules Verne) n'a pas pu être revue : standard remis à null, numéro à confirmer à l'appel. Vérification : Ni le 03 86 60 13 04 ni contact@nexson-group.com ne ressortent : seuls l'adresse du 685 rue Jules Verne à Garchizy (salons, PitchBook) et un numéro incomplet apparaissent. Aucun résultat ne relie Charles Bonnafous à Nexson. Le titre « Fondateur et CEO » vient des données existantes et non de Pappers, qui indique Nexson Corporation présidente depuis le 01/09/2025. Deux recherches (nom + Nexson, Nexson + Nevers/Garchizy) : aucune trace indépendante de Charles Bonnafous chez Nexson Group.",
+  "note_admin": "Décideurs (27/10/2026) : trois recherches (LinkedIn finance et RH, nom de Charles-Édouard Vigneron, offres comptables ou RH) ne nomment aucun DAF, RH ni assistante de direction : Indeed affiche pour Nexson Group une offre de « Responsable Administratif et Comptable » (non datée, sans nom) et Charles Vigneron, directeur de la publication du site, a un profil LinkedIn chez Nexson-Group sans fonction affichée. La décision se prend probablement au siège de Garchizy, à la holding Nexson Corporation : demander au standard le nom du responsable administratif et comptable. Vérification : relecture sans recherche, aucune personne retenue, note cohérente.",
+  "qui_appeler": "Standard 03 86 60 13 04, à confirmer : demander qui dirige aujourd'hui le groupe (Charles Bonnafous en était président jusqu'en septembre 2025, rôle actuel à confirmer). À défaut, demander le directeur administratif et financier."
+ },
+ {
+  "rang": 31,
+  "siren": "631880408",
+  "nom": "BONGARD BAZOT ET FILS",
+  "nom_commercial": "Bongard Bazot et Fils",
+  "nom_court": "Bongard Bazot et Fils (Saint-Péreuse)",
+  "ville": "Saint-Péreuse",
+  "adresse": "1 route des Fontaines, 58110 Saint-Péreuse",
+  "activite": "Sylviculture et exploitation forestière",
+  "effectif": "100-199",
+  "groupe": "Famille Bongard-Bazot (groupements forestiers, SCI)",
+  "site_web": "http://www.bongard-bazot.fr",
+  "dirigeants": [
+   {
+    "nom": "Jean-Philippe BAZOT",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eric BAZOT (BONGARD)",
+    "fonction": "Directeur Général"
+   },
+   {
+    "nom": "Jean-Luc BONGARD",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Philippe BAZOT",
+   "fonction": "Président de SAS (registre ; aucune source plus récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "contact_finance": {
+   "nom": "Jean-Philippe BAZOT",
+   "fonction": "Président de SAS (aucun DAF/RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/631880408"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Eric BAZOT (BONGARD)",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/631880408",
+    "a_confirmer": true
+   },
+   {
+    "nom": "Jean-Luc BONGARD",
+    "fonction": "Directeur Général (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/631880408"
+   }
+  ],
+  "decision": "Décision prise dans la Nièvre, au siège de Saint-Péreuse, par les familles Bazot et Bongard (président et deux DG) : entreprise familiale indépendante créée en 1963, sans groupe extérieur.",
+  "note_contacts": "Standard = numéro déjà connu (entrée), non revérifié : les extraits Cylex (https://www.cylex-locale.fr/entreprises/bongard-bazot-et-fils-11307240.html) n'affichaient pas le numéro. Aucun DAF/RAF/comptable trouvé malgré 100-199 salariés. Un dossier ICPE de la préfecture (https://www.nievre.gouv.fr/index.php/contenu/telechargement/6361/71729/file/Dossier_enregistrement_BBF.pdf) situe la scierie à La Machine (route de Decize, 58260). Directeurs généraux au registre : Eric BAZOT (BONGARD) et Jean-Luc BONGARD. 2e niveau : 6 recherches. Standard 03 86 84 40 12 (déjà au CRM) non confirmé : aucune page en ligne ne l'affiche dans les extraits (Cylex et Manageo masquent le numéro derrière « afficher le numéro »). Fiche Cylex mise à jour en avril 2026 (https://www.cylex-locale.fr/entreprises/bongard-bazot-et-fils-11307240.html) : Le Bourg, 58110 Saint-Péreuse, ouvert du lundi au vendredi 8h-12h / 13h30-17h ; sciage de chêne et de Douglas, bois de chauffage, granulés, plaquettes. Communiqué de la préfecture de 2021 (https://www.nievre.gouv.fr/contenu/telechargement/10196/90904/file/210428_dp_mercredi_relance_foret_graines_et_plants.pdf) : entreprise familiale créée en 1963, 113 salariés, environ 20 M€ de CA, exploitation forestière, sciage et travaux ruraux ; scierie à La Machine (route de Decize). Site bongard-bazot.fr signalé par Manageo, non vu dans les résultats. Aucun DAF/RAF ni comptable nommé, aucune offre d'emploi trouvée ; dirigeants du registre non contredits. Une société distincte « Entreprise Jean-Philippe Bazot » (SIREN 405106956) existe à la même adresse. Ne pas confondre avec Bongard (fours de boulangerie, Alsace). À l'appel : confirmer le numéro, demander la personne en charge de la comptabilité / administration (taille 100-199 salariés : probablement un(e) responsable administratif(ve) ou comptable interne) et lequel des dirigeants traite les dons et achats d'œuvres. Recherche du décideur financier (27/10/2026) : 3 recherches (« Bongard Bazot » + comptable/administratif, offres d'emploi et équipe de la scierie, annuaires de la filière bois et site bongard-bazot.fr) : aucun DAF, RAF ni comptable nommé ; les annuaires (guide-forestier, e-pro) ne citent qu'un responsable du site de La Machine (Xavier de Bontin) et un responsable commercial (Jean-Baptiste Bazot), sans fonction financière. Entreprise familiale : les finances relèvent des dirigeants Bazot/Bongard (une fiche récente donnerait Jean-Luc Bongard président-DG, à vérifier au registre) ; au standard, demander la personne chargée de la comptabilité. Confirmation du standard (27/10/2026) : la page contact et les mentions légales du site officiel bongard-bazot.fr donnent le +33 (0)3 86 84 40 12 pour Bongard-Bazot et Fils à Saint-Péreuse, numéro déjà au CRM, et indiquent un numéro distinct pour la scierie de La Machine (03 86 50 93 50, questions produits). Vérification : confirmé. Vérification : Numéro cherché seul puis avec le nom : introuvable (Cylex et Manageo ne l'affichent pas). Le préfixe 03 86 84 correspond bien au secteur Châtillon-en-Bazois. J.-Ph. Bazot n'apparaît en ligne que comme entrepreneur individuel (sylviculture, Saint-Péreuse) ; aucun départ signalé. Un annuaire d'entreprises le donne PDG de Bongard Bazot et Fils de 2003 au 26/03/2020 (mandat clos) ; rien ne confirme la fonction actuelle de DG. À vérifier au registre avant appel. Résultats : autres membres de la famille Bazot à Saint-Péreuse (Jeanne, Tristan, Fanny, entreprise Jean-Philippe Bazot) et anciens DG non nommés (2004-2017). Aucun Eric Bazot trouvé ; à vérifier avant appel.",
+  "note_admin": "Décideurs (27/10/2026) : ni LinkedIn ni le site bongard-bazot.fr (contact, mentions légales, historique) ne nomment de comptable, de responsable administratif ou RH : le site ne donne que le standard du siège et celui de la scierie de La Machine, et décrit une entreprise familiale de plus de 120 salariés sur deux sites, dirigée par les 3e et 4e générations Bongard et Bazot. Décision au siège de Saint-Péreuse : demander au standard la personne chargée de la comptabilité. Vérification : relecture sans recherche, aucune personne retenue, note cohérente.",
+  "qui_appeler": "Appeler le siège de Saint-Péreuse au 03 86 84 40 12 (numéro à confirmer, du lundi au vendredi 8h-12h et 13h30-17h) et demander M. Jean-Philippe Bazot, président. À défaut, demander le responsable administratif et financier ou la personne chargée de la comptabilité."
+ },
+ {
+  "rang": 16,
+  "siren": "422593491",
+  "nom": "TOYOTA CONCES NEVERS CENTRAL PARC AUTOMOBILE",
+  "nom_commercial": "Toyota Nevers / Central Parc Automobile",
+  "nom_court": "Toyota Nevers (groupe Vincent)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "1 route de Paris, 58640 Varennes-Vauzelles",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "50-99",
+  "groupe": "Groupe Vincent",
+  "site_web": "https://www.groupevincent.fr",
+  "dirigeants": [
+   {
+    "nom": "Rodolphe Dimitri VINCENT",
+    "fonction": "Président de SAS"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS, dirigeant du groupe Vincent",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/422593491"
+  },
+  "contact_finance": {
+   "nom": "Rodolphe VINCENT",
+   "fonction": "Président de SAS, dirigeant du groupe Vincent",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/422593491"
+  },
+  "decision": "Probablement chez Rodolphe Vincent, à la tête du groupe Vincent (environ 16 concessions Peugeot, Citroën/DS et Toyota dans la Nièvre, le Cher, l'Allier et le Loiret) : groupe familial régional, dont le berceau est Nevers depuis 2011, sans siège extérieur identifié.",
+  "note_contacts": "Le numéro et l'e-mail viennent de la fiche officielle du concessionnaire sur toyota.fr (fax 03 86 71 69 09). Société (CPA) rattachée au groupe Vincent de Rodolphe Vincent (concessions Toyota ; rachat d'un site Citroën/DS dans le Cher selon journalauto.com). Aucun DAF ou responsable comptable du groupe identifié. 2e niveau : standard 03 86 71 69 00 et e-mail cpa@groupevincent.fr confirmés par la fiche officielle Toyota France de Central Parc Automobile (fax 03 86 71 69 09). Rodolphe Vincent, président selon le registre, est aussi présenté comme le patron du groupe par Journal de l'Automobile (articles 2013-2019 : environ 170 M€ de CA et 367 salariés en 2018). Aucune source plus récente que 2019, et aucun DAF, chef comptable, contrôleur de gestion ni directeur de concession trouvé (recherches presse, LinkedIn et offres d'emploi). À demander au standard : le nom du directeur de la concession Toyota de Nevers et celui du responsable administratif et financier du groupe, ainsi que la ville où il travaille (Nevers ou Bourges/Saint-Doulchard). Recherche du décideur financier (27/10/2026) : trois recherches (DAF ou RAF du groupe Vincent, chef comptable ou contrôleur de gestion à Nevers / Varennes-Vauzelles, page équipe de groupevincent.fr) ne nomment aucun responsable financier : la presse (Journal de l'Automobile) ne cite que Rodolphe Vincent. Sans DAF identifié, Rodolphe Vincent décide ; demander au standard le responsable administratif et financier du groupe. Vérification : Le téléphone et l'e-mail sont repris par d'autres pages du site officiel Toyota (réseau), et non par une source tierce. Une recherche sur cpa@groupevincent.fr seul ne donne rien d'autre ; BuiltWith situe bien groupevincent.fr à Varennes-Vauzelles. Le Journal de l'Automobile (2016) indique que la société CPA de Rodolphe Vincent exploite la concession Toyota de la Nièvre. Le 03 86 71 69 00 n'apparaît que sur toyota.fr (la source citée ; fax 03 86 71 69 09, mail cpa@groupevincent.fr). Un annuaire (justacote) confirme la concession au 1 route de Paris, mais pas le numéro. Une fiche Mappy indique « fermé » : à revérifier.",
+  "note_admin": "Décideurs (27/10/2026) : deux recherches LinkedIn ne nomment aucun DAF, DRH, chef comptable ni directeur de la concession Toyota : elles montrent seulement que le siège du groupe Vincent à Varennes-Vauzelles recrute un chef comptable et des comptables (offres sans nom) et qu'un poste de gestionnaire de paie existe au garage Citroën Vincent voisin (autre société). La finance du groupe est donc à Varennes-Vauzelles, auprès de Rodolphe Vincent : demander au standard le responsable administratif et financier du groupe. Vérification : relecture sans recherche, aucune personne retenue, note cohérente.",
+  "qui_appeler": "Standard de la concession 03 86 71 69 00 (fiche officielle Toyota) : demander Rodolphe Vincent, président, ou le directeur de la concession. À défaut, demander le responsable administratif et financier du groupe."
+ },
+ {
+  "rang": 28,
+  "siren": "300822335",
+  "nom": "ETABLISSEMENTS MARECHAL",
+  "nom_commercial": "Ets Maréchal",
+  "nom_court": "Ets Maréchal (matériel agricole, Donzy)",
+  "ville": "Donzy",
+  "adresse": "Route de la Belle Etoile, 58220 Donzy",
+  "activite": "Commerce de gros",
+  "effectif": "50-99 (tranche INSEE 2024 de l'entreprise) ; 48 salariés selon Xerfi",
+  "dirigeants": [
+   {
+    "nom": "Claude MARECHAL",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Christophe MARECHAL",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Claude Maréchal",
+   "fonction": "Président (SAS)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/300822335"
+  },
+  "contact_finance": {
+   "nom": "Claude Maréchal",
+   "fonction": "Président (SAS)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/300822335"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Christophe Maréchal",
+    "fonction": "Directeur général",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/300822335",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Dans l'entreprise elle-même, à Donzy : SAS familiale indépendante (famille Maréchal, président Claude Maréchal, DG Christophe Maréchal), sans groupe ni holding identifiés.",
+  "note_contacts": "Négoce / location de matériel agricole (NAF 46.61Z), siège à Donzy + 4 autres établissements dont Corbigny ; 48 salariés selon Xerfi (https://www.xerfi.com/etudes-par-entreprise/ets-marechal_300822335), qui cite aussi COGEP Audit / Groupe COGEP parmi les mandataires (probablement commissaire aux comptes). Ni téléphone, ni site web, ni responsable comptable/financier trouvés après 5 recherches. Président : Claude Maréchal. 2e passe : 3 recherches (Ets Maréchal Donzy matériel agricole, établissement de Corbigny 15 route de Saint-Saulge, « Belle Etoile » + « 03 86 ») sans numéro ni site ; Xerfi confirme l'établissement de Corbigny (15 route de St Saulge). 2e niveau : premier numéro trouvé : 03 86 39 30 51, donné par plusieurs annuaires pour « Maréchal (Sté) », La Belle Etoile, Donzy (PagesJaunes https://www.pagesjaunes.fr/pros/00382909, 118000 https://www.118000.fr/e_C0002437156, 118712) ; aucun site officiel trouvé pour le confirmer (fiabilité annuaire). Horaires PagesJaunes : lun-ven 8h-18h, sam 8h-12h. Établissements : Donzy (siège), Corbigny (15 route de Saint-Saulge, fiche PagesJaunes « Etablissements Maréchal SA » https://www.pagesjaunes.fr/pros/00382424), Saint-Satur (18), Sermoise-sur-Loire, Torteron (18). Activité : vente, réparation et location de matériel agricole ; marque(s) représentée(s) non identifiée(s). Aucun comptable/RAF trouvé (48 salariés selon Xerfi ; COGEP Audit est vraisemblablement commissaire aux comptes). Dirigeants du registre non contredits (aucune source récente). Au téléphone : demander M. Claude ou Christophe Maréchal et le/la responsable administratif(ve) ou comptable. Recherche du décideur financier (27/10/2026) : 3 recherches (« Ets Maréchal » Donzy + comptable/administratif, concession et sites Corbigny/Sermoise, site officiel etsmarechal-agri.com et page Facebook du concessionnaire Case IH) : aucun DAF, RAF, comptable ni contrôleur de gestion nommé, le site ne présente pas d'équipe. SAS familiale d'environ 48 salariés : la famille Maréchal (Claude, président, et Christophe, DG) décide des questions financières ; au standard, demander qui tient la comptabilité (interne ou cabinet). Confirmation du standard (27/10/2026) : le site officiel du concessionnaire Case IH (etsmarechal-agri.com, Rue de la Belle Etoile, 58220 Donzy) est bien identifié, mais aucun extrait n'y montre de standard (seul un portable figure dans une annonce de matériel d'occasion), si bien que le 03 86 39 30 51 reste issu des annuaires. Vérification : Xerfi cite Christophe Maréchal parmi les dirigeants (fonction DG non précisée par Xerfi, cohérente avec le registre). Recherche nom + Donzy : aucune occurrence (seulement des pages sur la commune et un archéologue homonyme partiel). DG selon le seul registre.",
+  "note_admin": "Décideurs (27/10/2026) : 2 recherches (LinkedIn « Ets Maréchal » Donzy + comptable / assistante / ressources humaines, concession Case IH de Donzy + équipe administrative) sans aucun comptable, assistant(e) ni responsable administratif nommé : le site etsmarechal-agri.com ne présente pas d'équipe et la page Facebook du concessionnaire ne donne qu'une adresse générique (adresse non reprise ici). SAS familiale : la famille Maréchal (Claude, président, Christophe, DG) décide ; au standard, demander la personne qui tient la comptabilité. Vérification : relecture sans recherche ; l'adresse e-mail générique citée par la note (domaine différent de celui du site officiel etsmarechal-agri.com) n'a pu être revue sur aucune source et a été retirée par prudence.",
+  "qui_appeler": "Appeler le siège de Donzy au 03 86 39 30 51 (numéro d'annuaire, à confirmer) et demander M. Claude Maréchal, président, ou M. Christophe Maréchal, directeur général. À défaut, demander le responsable administratif et financier ou la personne chargée de la comptabilité."
+ },
+ {
+  "rang": 30,
+  "siren": "825065279",
+  "nom": "NEVINO",
+  "nom_commercial": "Intermarché (Nevers)",
+  "nom_court": "Intermarché Hyper Nevers (à confirmer)",
+  "ville": "Nevers",
+  "adresse": "Boulevard Jean Moulin, 58000 Nevers",
+  "activite": "Commerce de détail",
+  "effectif": "50-99",
+  "groupe": "Groupement Les Mousquetaires (Intermarché)",
+  "dirigeants": [
+   {
+    "nom": "Laurent POMMIER",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Diego FERNANDEZ",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent POMMIER",
+   "fonction": "Président de SAS (adhérent Intermarché ; registre, aucune source récente)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/825065279"
+  },
+  "contact_finance": {
+   "nom": "Laurent POMMIER",
+   "fonction": "Président de SAS (aucun RAF/comptable trouvé)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/825065279"
+  },
+  "decision": "Décision prise localement à Nevers par l'adhérent qui possède le magasin (Laurent Pommier, avec son DG Diego Fernandez) : chez Intermarché chaque point de vente appartient à un chef d'entreprise indépendant, le groupement (ITM, Paris) n'intervient pas dans ce type d'achat.",
+  "note_contacts": "Impossible de savoir quel Intermarché de Nevers exploite NEVINO : aucun Intermarché n'a été trouvé boulevard Jean Moulin. Deux magasins sont référencés. (1) Intermarché Super, 33 boulevard du Pré Plantin : 03 86 93 08 75 (au-magasin.fr, source faible, https://www.au-magasin.fr/58000-nevers/intermarche-11897.html). (2) Intermarché Hyper « Bords de Loire », rue Bernard Palissy : un annuaire donne le 03 86 93 24 00, non vérifié. Faire confirmer le bon numéro avant l'appel. 2e passe : le 03 86 93 08 75 est donné par Cylex pour l'« Intermarché Super Nevers » (dit « Nevers Hôpital »), rue Romain Baron, centre commercial Les Loges, et par au-magasin.fr pour le 33 bd du Pré Plantin : deux annuaires concordants pour le seul Intermarché Super de Nevers (l'autre magasin est l'Hyper « Bords de Loire », rue Bernard Palissy). Le rattachement de NEVINO (adresse bd Jean Moulin, 50-99 salariés) à ce Super reste probable mais non confirmé : demander à l'accueil si le magasin est bien exploité par NEVINO. 2e niveau : changement de standard. Le numéro déjà présent (03 86 93 08 75) est celui de l'Intermarché Super du bd du Pré Plantin / rue Romain Baron, qui est exploité par une autre société, LODILOIRE (SIREN 424455012) : fiche station Zagaz « Intermarché - Super - Nevers - Lodiloire SA » (https://www.zagaz.com/carte.php?id_s=7467) et décision 17-DCC-161 de l'Autorité de la concurrence (Lodiloire exploite un Intermarché de 2 090 m² à Nevers, https://www.autoritedelaconcurrence.fr/sites/default/files/commitments//17DCC161versionpublication.pdf). Par élimination, NEVINO exploite très probablement l'autre magasin, l'Intermarché Hyper du centre commercial des Bords de Loire, 22 rue Bernard Palissy : 03 86 93 24 00 (Cylex et mylpg.eu concordants, annuaires). Hypothèse non confirmée par une source officielle (aucune page intermarche.com dans les résultats) ; une décision 19-DCC-71 (prise de contrôle d'un fonds Intermarché à Nevers par Intermarché Alimentaire International, avril 2019) pourrait concerner ce magasin. Aucune trace en ligne du nom NEVINO ni de L. Pommier ; dirigeants du registre non contredits. 6 recherches utilisées. À l'appel : vérifier que le magasin est bien exploité par NEVINO (sinon essayer le 03 86 93 08 75), demander M. Pommier ou le directeur du magasin, et qui tient la comptabilité (souvent un cabinet ou le pôle de gestion de l'adhérent). Recherche du décideur financier (27/10/2026) : 1 recherche (« NEVINO » Nevers Intermarché + comptable / responsable administratif) : aucune trace en ligne de NEVINO ni d'un responsable financier ou comptable du magasin. Magasin Intermarché indépendant : l'adhérent Laurent Pommier (président) décide des finances, la comptabilité étant en général tenue par un cabinet ou les services du groupement. Confirmation du standard (27/10/2026) : la page officielle intermarche.com de l'Intermarché Hyper Nevers (rue Bernard Palissy, centre commercial des Bords de Loire, 58000 Nevers) affiche le 03 86 93 24 00, numéro déjà au CRM, mais l'exploitation de ce magasin par NEVINO reste déduite par élimination et doit être confirmée à l'accueil. Vérification : la page intermarche.com 08585 affiche bien le 03 86 93 24 00 pour l'Intermarché Hyper Nevers (Bords de Loire, rue Bernard Palissy), mais elle ne nomme pas NEVINO et ne correspond pas à l'adresse du registre (boulevard Jean Moulin) : le rattachement de NEVINO à ce magasin n'étant qu'une déduction (une décision 19-DCC-71 évoque en outre une reprise d'un fonds Intermarché de Nevers par ITM en 2019), le standard est remis à null et reste à confirmer à l'accueil. Vérification : « Laurent Pommier » + Intermarché Nevers : aucun résultat ne le nomme. Les résultats listent deux Intermarché à Nevers, l'un rue Bernard Palissy (Hyper), l'autre boulevard du Pré Plantin (Super) ; aucun boulevard Jean Moulin. Le magasin exploité par NEVINO reste incertain. Recherche « Diego Fernandez » + Intermarché + Nevers : ac-franchise indique que l'Intermarché de La Machine « est géré par Diego Fernandez » depuis mai (année non précisée), avec son épouse Carole. Le couple est arrivé dans la Nièvre en 2018. Ce magasin dépend d'une autre société (MADELIE, SIREN 391484730, où le CRM le liste déjà), dont le registre n'est pas encore à jour : la reprise est donc récente, et postérieure à son mandat de DG chez NEVINO. Il dirige désormais son propre magasin. Remplaçant chez NEVINO inconnu : demander M. Pommier.",
+  "note_admin": "Décideurs (27/10/2026) : 1 recherche LinkedIn (Intermarché Bords de Loire Nevers + directeur / comptable / RH) : un seul profil cite l'Intermarché Bords de Loire (Karine Gauthier, fonction non indiquée) et l'exploitation de ce magasin par NEVINO reste non confirmée, donc personne n'est retenu. Décision chez l'adhérent (Laurent Pommier) : demander à l'accueil le directeur du magasin et qui tient la comptabilité.",
+  "qui_appeler": "Appeler le 03 86 93 24 00 (Intermarché Hyper des Bords de Loire, numéro d'annuaire à confirmer), vérifier que le magasin est bien exploité par NEVINO, puis demander M. Laurent Pommier, président. À défaut, demander le directeur du magasin ou le responsable administratif et financier."
+ },
+ {
+  "rang": 36,
+  "siren": "308530690",
+  "nom": "SUPER MARCHE DES VAUX D YONNE",
+  "nom_commercial": "Atac Corbigny / Maxibrico",
+  "nom_court": "Atac / Auchan Supermarché Corbigny",
+  "ville": "Corbigny",
+  "adresse": "5 avenue du Champ de Foire, 58800 Corbigny",
+  "activite": "Commerce de détail",
+  "effectif": "50-99",
+  "groupe": "Enseigne Atac (groupe Auchan)",
+  "dirigeants": [
+   {
+    "nom": "Dominique DE MATTEIS",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Catherine DE MATTEIS (MOUGNEAU)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS (selon registre ; non confirmé par une source web)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "contact_finance": {
+   "nom": "Dominique DE MATTEIS",
+   "fonction": "Président de SAS (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/308530690"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Catherine DE MATTEIS (née MOUGNEAU)",
+    "fonction": "Directeur général (selon registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/308530690",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement dans l'entreprise elle-même, à Corbigny : SAS indépendante tenue par le couple De Matteis (président et directrice générale), exploitant un supermarché sous enseigne Atac/Auchan Supermarché et un magasin Maxibrico ; aucun groupe ou holding extérieur identifié.",
+  "note_contacts": "Le standard (déjà connu) est confirmé par l'annuaire Bible-Marques (fiche Atac, 5 place du Champ de Foire). C'est un agrégateur, et l'enseigne Atac est devenue Auchan Supermarché (station 'Auchan Supermarché Corbigny'), donc la fiche est peut-être datée. Le SIRENE rattache aussi un établissement MAXIBRICO au 5 avenue du Champ de Foire. 2e niveau : 6 recherches. Le magasin Atac de Corbigny est désormais référencé sous l'enseigne « Auchan Supermarché CORBIGNY », rue du Champ de Foire (station carburant, https://www.l-itineraire.com/stations_service/corbigny/auchan-supermarche-corbigny) ; aucune fiche officielle Auchan (localisateur de magasins) n'a été trouvée, et le 03 86 20 04 34 n'apparaît que dans l'annuaire Bible-Marques (fiche Atac, 5 place du Champ de Foire) : une recherche du numéro seul n'a rien confirmé, fiabilité annuaire. L'avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/30853069000038) confirme le siège 5 avenue du Champ de Foire, établissement à l'enseigne MAXIBRICO, activité hypermarchés. Aucun numéro trouvé pour Maxibrico Corbigny (au-magasin.fr évoque aussi un Weldom à proximité, lien non établi). Aucune source web ne mentionne les De Matteis : dirigeants issus du registre seul. Pas de site web propre. À l'appel : confirmer que le standard est bien celui du supermarché, demander M. ou Mme De Matteis, et qui tient la comptabilité (en interne ou cabinet). Recherche du décideur financier (27/10/2026) : 1 recherche (raison sociale + Corbigny + comptable) : aucun responsable financier ni comptable de la société, seulement l'avis SIRENE et des cabinets comptables de Corbigny sans lien établi. Supermarché indépendant (Auchan Supermarché / Maxibrico) : le couple De Matteis (président et DG) décide des finances, la comptabilité étant vraisemblablement externe. Confirmation du standard (27/10/2026) : deux recherches (localisateur de magasins auchan.fr, Auchan Supermarché Corbigny + téléphone) ne trouvent aucune page officielle Auchan pour Corbigny, seulement d'autres magasins (Corbie, Sorigny…) et le service client national : le 03 86 20 04 34 reste issu de l'annuaire Bible-Marques. Vérification : Numéro introuvable hors Bible-Marques (source déjà citée), y compris avec « Corbigny ». Le magasin apparaît désormais sous l'enseigne Auchan Supermarché Corbigny, rue du Champ de Foire (https://www.l-itineraire.com/stations_service/corbigny/auchan-supermarche-corbigny, prix juillet 2026) : le numéro de la fiche Atac peut être daté. Aucun résultat pour De Matteis. Aucun résultat reliant Catherine De Matteis à l'Atac de Corbigny.",
+  "note_admin": "Décideurs (27/10/2026) : 1 recherche LinkedIn (Atac / Auchan Supermarché Corbigny / Maxibrico + directeur, comptable, assistante) sans aucun résultat lié au magasin de Corbigny (homonymes italiens et salariés Auchan d'autres sites). Supermarché indépendant tenu par le couple De Matteis, qui décide : demander au standard la personne chargée de l'administration ou de la comptabilité.",
+  "qui_appeler": "Appeler le 03 86 20 04 34 (annuaire, fiche Atac peut-être datée) et demander M. Dominique De Matteis, président, ou Mme Catherine De Matteis, directrice générale. À défaut, demander la personne qui tient la comptabilité ou le responsable administratif et financier."
+ },
+ {
+  "rang": 39,
+  "siren": "304890817",
+  "nom": "SAGET LA PERRIERE",
+  "nom_commercial": "Saget La Perrière (Guy Saget, La Perrière)",
+  "nom_court": "Saget La Perrière, Pouilly-sur-Loire",
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "La Castille, RN 7, 58150 Pouilly-sur-Loire",
+  "activite": "Culture et production animale",
+  "effectif": "50-99",
+  "groupe": "Famille Saget (Financière Saget)",
+  "site_web": "https://www.sagetlaperriere.com",
+  "linkedin": "https://www.linkedin.com/company/saget-la-perrière/",
+  "dirigeants": [
+   {
+    "nom": "Laurent Olivier SAGET",
+    "fonction": "Président du conseil d'administration et directeur général"
+   },
+   {
+    "nom": "Arnaud SAGET",
+    "fonction": "Directeur général délégué"
+   },
+   {
+    "nom": "SARL FINANCIERE SAGET",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent Saget",
+   "fonction": "Président du conseil d'administration et directeur général (PDG)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/304890817"
+  },
+  "contact_finance": {
+   "nom": "Laurent Saget",
+   "fonction": "Président du conseil d'administration et directeur général (PDG)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/304890817"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Arnaud Saget",
+    "fonction": "Directeur général délégué (co-dirige la maison avec son frère Laurent)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.hachette-vins.com/guide-vins/producteurs/13774/scea-dom-clos-de-la-perriere"
+   },
+   {
+    "nom": "C. Jacquard",
+    "fonction": "Responsable du traitement des données personnelles (contact RGPD indiqué sur le site)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.sagetlaperriere.com/mentions-legal"
+   }
+  ],
+  "decision": "Décision prise sur place à Pouilly-sur-Loire par la famille Saget (Laurent et Arnaud, via la holding familiale SARL Financière Saget) : maison familiale indépendante, sans groupe extérieur.",
+  "note_contacts": "Maison de vins familiale (50-99 salariés, SA à conseil d'administration, holding SARL Financière Saget) : un responsable financier/comptable est probable mais aucun n'a été trouvé (recherches LinkedIn/DAF sans résultat). Standard confirmé par plusieurs guides vins (Hachette, Le Quotidien du Médecin, Falstaff). Aucun e-mail générique publié trouvé. Directeur général délégué : Arnaud Saget. 2e niveau : standard 03 86 39 57 75 désormais confirmé sur le site officiel (mentions légales, et page « Les Éclaireurs » pour les partenariats) → fiabilité officielle. E-mail générique boutique@sagetlaperriere.com (FAQ, commandes) ; formulaire de contact sur /contactez-nous. Dirigeants inchangés par rapport au registre (Laurent PDG, Arnaud DG délégué ; maison fondée par Jean-Louis Saget, dirigée par ses fils selon Hachette). Aucun DAF/RAF/comptable trouvé (recherches DAF, comptable, contrôleur de gestion, offres France Travail : uniquement postes commerciaux et viticoles). Le site cite un « C. Jacquard » comme responsable du traitement des données : adresse nominative publiée pour les seules demandes RGPD, non reprise ; rôle administratif possible, à vérifier. Au standard : demander qui gère la comptabilité / le service administratif et financier, et passer par l'assistante de Laurent Saget. Le Domaine La Perrière (Sancerre, 02 48 54 16 93) est une entité distincte côté Cher. Recherche du décideur financier (27/10/2026) : 3 recherches (« Saget La Perrière » + responsable administratif et financier, + comptable / contrôleur de gestion / directeur financier, offres d'emploi à La Castille) : aucune personne chargée des finances ou de la comptabilité n'est nommée par une source publiée. Maison familiale : les dirigeants Laurent Saget (PDG) et Arnaud Saget (DG délégué) décident des finances ; au standard (03 86 39 57 75), demander le service administratif et comptable. Vérification : Numéro repris par Falstaff et guides vins. Laurent Saget présenté comme codirigeant de la maison avec son frère Arnaud (Hachette, Vineo) ; titre exact selon registre. Merlin Vignal introuvable hors de la fiche exposant Millésime Bio. Le Guide Hachette des Vins et une offre France Travail de 2025 (187YZTK ou 189QCKL) indiquent que la maison est dirigée par les fils du fondateur, Arnaud et Laurent Saget. Le titre exact de PDG ne vient que du registre. Arnaud Saget co-dirige. 03 86 39 57 75 confirmé par Falstaff, Hachette Vins et Le Quotidien du Médecin (La Castille, Pouilly-sur-Loire). Aucun résultat reliant un(e) Jacquard à Saget La Perrière hors la page de mentions légales citée. VinePair le présente comme 9e génération et « general manager » de Saget La Perrière ; plusieurs sources indiquent que la maison est dirigée par ses fils Arnaud et Laurent. Article non daté précisément, rien de plus récent ne le contredit.",
+  "note_admin": "Décideurs (27/10/2026) : 3 recherches (LinkedIn finance / RH / assistante, fonctions des salariés, offres « adjoint RAF ») : la maison a un service administratif et financier interne (offres LinkedIn d'assistant comptable en CDI et d'assistant RH en CDD, offre APEC du 10/09/2026 d'adjoint au responsable administratif et financier, localisée à Saint-Avertin (37) par l'agrégateur), mais aucune source ne nomme le RAF, et les profils LinkedIn trouvés (Anne-Laure Gaudry, Anthony Keller, etc.) citent la maison sans fonction. Au standard, demander le ou la responsable administratif et financier par sa fonction ; décision finale chez Laurent et Arnaud Saget.",
+  "qui_appeler": "Appeler le standard 03 86 39 57 75 (site officiel) et demander Laurent Saget, PDG, ou Arnaud Saget, directeur général délégué, au besoin par l'assistante de Laurent Saget. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité."
+ },
+ {
+  "rang": 41,
+  "siren": "392607545",
+  "nom": "NOUVELLE IMPRIMERIE LABALLERY",
+  "nom_commercial": "Laballery",
+  "nom_court": "Imprimerie Laballery, Clamecy",
+  "ville": "Clamecy",
+  "adresse": "Zone Industrielle, Allée Louis Blériot",
+  "activite": "Imprimerie",
+  "effectif": "50-99 (85 salariés en 2025)",
+  "site_web": "https://www.laballery.fr",
+  "linkedin": "https://www.linkedin.com/company/laballery",
+  "dirigeants": [
+   {
+    "nom": "Emilie SAGNELONGE",
+    "fonction": "Présidente du conseil d'administration (BODACC du 12/08/2025) et Directrice générale (BODACC du 27/01/2026)"
+   },
+   {
+    "nom": "Audrey BOUVIER",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Bruno COQUARD",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Etienne FEDON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Frédéric FERREIRA",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Pascal PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Sarah PETIT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "David PINON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Erick PITON",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Dylan RENAULT",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Corinne RICHARD (DAUDET)",
+    "fonction": "Administrateur"
+   },
+   {
+    "nom": "Chrystèle ROUMY (GRALL)",
+    "fonction": "Administrateur"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration (BODACC du 12/08/2025) et Directrice générale (BODACC du 27/01/2026)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "contact_finance": {
+   "nom": "Emilie SAGNELONGE",
+   "fonction": "Présidente du conseil d'administration et Directrice générale (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/392607545"
+  },
+  "decision": "Dans l'entreprise elle-même, à Clamecy : SCOP indépendante (capital détenu par les salariés, une voix par associé) dirigée par une PDG élue et un conseil d'administration de salariés ; un achat de ce type passera sans doute par la DG et, selon le montant, par le conseil d'administration.",
+  "note_contacts": "Standard, e-mail et site déjà connus (entrée), conservés : ils n'ont pas été recontrôlés car les extraits ne les montraient pas. SCOP (SA coopérative à conseil d'administration, environ 85 salariés). Aucun RAF/DAF/comptable trouvé (ni sur LinkedIn, ni dans la presse Livres Hebdo). Les anciens dirigeants cités dans la presse (David Perrain, Hubert Pedurand) sont obsolètes. 2e niveau : 6 recherches. Emilie Sagnelonge n'est citée que dans la liste des dirigeants de Xerfi (https://www.xerfi.com/etudes-par-entreprise/nouvelle-imprimerie-laballery_392607545), sans titre ; ses mandats viennent des BODACC 2025-2026 (registre récent, donc a priori à jour). Aucune presse ni profil public ne la présente. Aucun DAF/RAF/comptable/contrôleur de gestion trouvé (recherches par fonction, LinkedIn, presse). Le standard 03 86 27 55 55, l'e-mail contact@laballery.fr et le site viennent du CRM et n'ont pas pu être reconfirmés sur une page officielle dans les extraits (fiabilité non établie). Contexte : SCOP depuis 1993, environ 84-85 salariés, CA 17 M€ en 2024 (Xerfi) ; a repris l'imprimerie Floch (Mayenne) en 2016 (https://www.livreshebdo.fr/article/laballery-reprend-floch-et-compte-sur-les-editeurs). À l'appel : demander Mme Sagnelonge et le ou la responsable administratif/comptable ; vérifier si la comptabilité est commune avec Floch. Recherche du décideur financier (27/10/2026) : 3 recherches (« Laballery » Clamecy + responsable administratif et financier, + comptable / contrôleur de gestion, et une requête visant les profils LinkedIn, refusée par l'outil) : aucun DAF, RAF ni comptable nommé, seulement les fiches Xerfi et Livres Hebdo déjà connues. SCOP : la PDG Emilie Sagnelonge décide, avec le conseil d'administration selon le montant ; à l'appel, demander le ou la responsable administratif(ve) et comptable. Confirmation du standard (27/10/2026) : le site officiel laballery.fr (Nouvelle Imprimerie Laballery, allée Louis Blériot, 58500 Clamecy) affiche le 03 86 27 55 55 et contact@laballery.fr, soit le standard et l'e-mail déjà au CRM. Vérification : confirmé (page d'accueil laballery.fr, allée Louis Blériot, 58500 Clamecy : 03 86 27 55 55 et contact@laballery.fr). Vérification : Ni le 03 86 27 55 55 ni contact@laballery.fr ne ressortent dans les résultats (seulement repris de l'entrée). Aucun résultat pour E. Sagnelonge. Une offre France Travail (https://candidat.francetravail.fr/offres/recherche/detail/189CPJN) cite Sarah Petit (administratrice) comme contact employeur.",
+  "note_admin": "Décideurs (27/10/2026) : 3 recherches LinkedIn (comptable / RH / assistante de direction, responsable administratif, fonctions des salariés) : quelques profils citent la SCOP (Sylvie Richard, Moïse Dong A Yakan, Sébastien Laurent) sans fonction affichée, et une annonce relayée vers 2023 décrit un poste d'assistant(e) administratif(ve) cumulant gestion administrative, ADV, RH et comptabilité, sans nom. Aucun responsable finance ou RH nommé : demander au standard le service administratif et comptable ; décision chez la PDG Emilie Sagnelonge et, selon le montant, le conseil d'administration.",
+  "qui_appeler": "Appeler le 03 86 27 55 55 (numéro du CRM, à confirmer) et demander Emilie Sagnelonge, présidente-directrice générale, ou Sarah Petit, administratrice, citée comme contact dans une offre d'emploi. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité."
+ },
+ {
+  "rang": 42,
+  "siren": "338339146",
+  "nom": "TC 58",
+  "nom_commercial": "TC Transports",
+  "nom_court": "TC Transports (TC 58), Cercy-la-Tour",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 rue de la Guette",
+  "activite": "Transports terrestres",
+  "effectif": "50-99 (95 salariés en 2025)",
+  "groupe": "Holding Cassier",
+  "site_web": "https://www.tc-transports.fr",
+  "linkedin": "https://www.linkedin.com/company/tc-transports",
+  "dirigeants": [
+   {
+    "nom": "HOLDING CASSIER",
+    "fonction": "Président (personne morale)"
+   },
+   {
+    "nom": "Pierre RACOUCHOT",
+    "fonction": "Directeur général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (président : HOLDING CASSIER, personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "contact_finance": {
+   "nom": "Pierre RACOUCHOT",
+   "fonction": "Directeur général (aucun DAF/RAF/comptable identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/338339146"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Pierre-Henri JUHEN",
+    "fonction": "Directeur de l'organisation du groupe TC Transports (interview, date non précisée)",
+    "tel": null,
+    "email": null,
+    "source": "https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au niveau de la holding familiale HOLDING CASSIER (famille Cassier, présidée par la SARL CASSIER DÉVELOPPEMENT), qui pilote le groupe TC Transports depuis Cercy-la-Tour (siège indiqué avenue Louis Coudant) et son siège commercial de Digoin (Saône-et-Loire) : TC 58 n'est qu'une des filiales d'un groupe d'environ 700 salariés et 80 M€ de CA consolidé.",
+  "note_contacts": "TC Transports est un groupe familial de transport et logistique créé en 1981 : 11 sites en France, plus de 700 salariés selon un dossier préfectoral (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf). Le site de Cercy-la-Tour fait aussi du tri de pneus (ALIAPUR). Le siège du groupe est indiqué avenue Louis Coudant à Cercy-la-Tour (ContactOut, https://contactout.com/company/TC-TRANSPORTS-6049). Un DAF de groupe existe probablement mais n'a pas été trouvé. Aucun standard trouvé dans les extraits. 2e passe : site du groupe www.tc-transports.fr cité dans une interview d'un dirigeant (https://truckonline.pro/en/un-accompagnement-et-un-suivi-rigoureux/ : groupe familial, une dizaine de sites, 700 salariés). Aucun numéro trouvé (3 recherches : nom + Cercy-la-Tour, groupe + siège, site + accueil). Autres entités du groupe : TC 59 à Auby (59), siège commercial ZI Les Mûriers à Digoin (71) selon railmarket.com. 2e niveau : 6 recherches, aucun numéro trouvé (ni pour le 45 rue de la Guette, ni pour le groupe ; le site tc-transports.fr n'apparaît pas dans les extraits). L'avis SIRENE confirme l'établissement « TC TRANSPORTS », 45 rue de la Guette, 58340 Cercy-la-Tour (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023). Selon un dossier ICPE de la préfecture (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf), TC ENVIRONNEMENT appartient au groupe HOLDING CASSIER, dont le président est la SARL CASSIER DÉVELOPPEMENT ; le représentant personne physique (membre de la famille Cassier) n'a pas été identifié. Pierre Racouchot (DG au registre) est aussi DG de POLE SUD-EST (Montpellier) depuis le 12/05/2023 selon verif.com (https://www.verif.com/en/leaders/Pierre-RACOUCHOT-J38747119/) : il s'agit vraisemblablement d'un dirigeant de groupe plutôt que d'un responsable local. Le groupe annonce une douzaine de sites, 700 salariés, 500 moteurs et 80 M€ de CA consolidé (interview de P.-H. Juhen, truckonline). Aucun DAF de groupe trouvé. À l'appel : obtenir le standard du groupe (siège Cercy-la-Tour ou Digoin), demander le DAF ou le service comptable du groupe et le nom du représentant de la holding Cassier. 2e niveau : 6 recherches, aucun numéro trouvé (ni pour le 45 rue de la Guette, ni pour le groupe ; le site tc-transports.fr n'apparaît pas dans les extraits). L'avis SIRENE confirme l'établissement « TC TRANSPORTS », 45 rue de la Guette, 58340 Cercy-la-Tour (https://api-avis-situation-sirene.insee.fr/identification/pdf/33833914600023). Selon un dossier ICPE de la préfecture (https://nievre.gouv.fr/index.php/contenu/telechargement/14662/125882/file/PJ11_DDE_Capacites_tech_fin_2023_03.pdf), TC ENVIRONNEMENT appartient au groupe HOLDING CASSIER, dont le président est la SARL CASSIER DÉVELOPPEMENT ; le représentant personne physique (membre de la famille Cassier) n'a pas été identifié. Pierre Racouchot (DG au registre) est aussi DG de POLE SUD-EST (Montpellier) depuis le 12/05/2023 selon verif.com (https://www.verif.com/en/leaders/Pierre-RACOUCHOT-J38747119/) : il s'agit vraisemblablement d'un dirigeant de groupe plutôt que d'un responsable local. Le groupe annonce une douzaine de sites, 700 salariés, 500 moteurs et 80 M€ de CA consolidé (interview de P.-H. Juhen, truckonline). Aucun DAF de groupe trouvé. À l'appel : obtenir le standard du groupe (siège Cercy-la-Tour ou Digoin), demander le DAF ou le service comptable du groupe et le nom du représentant de la holding Cassier. 3e passe : 5 recherches (« TC Transports » Cercy-la-Tour + téléphone/accueil, site:tc-transports.fr, siège commercial ZI Les Mûriers à Digoin, offres d'emploi France Travail, standard du groupe en 03 8x) : aucun numéro, ni pour le site de Cercy ni pour le groupe sur une source officielle. Seuls éléments : la fiche Railmarket (https://railmarket.com/ap/profile/tc-transports) donne le siège commercial ZI Les Mûriers, 71160 Digoin, sans téléphone ; des offres France Travail de TC-Transports concernent Auby (59) et Aulnat (63), sans numéro du site nivernais. 4e passe (26/10/2026) : numéro de TC 58 (et TC Vrac), ZA de la Guette à Cercy-la-Tour, 03 86 50 57 26, publié sur la page des implantations du groupe TC Transports et par le réseau Tred Union (fiche TC 58, filiale de TC Transports, e-mail contact@tc-transports.fr), aussi sur Pages Jaunes et Waze. TC Services (45 rue de la Guette) : 03 86 50 89 52. Siège indiqué par le site du groupe : ZI Les Mûriers à Digoin (TC 71, 03 85 53 20 24). Recherche du décideur financier (27/10/2026) : 3 recherches (« TC Transports » Digoin + directeur administratif et financier, Cercy-la-Tour + directeur financier / DAF / responsable comptable, profils publics DAF/RAF/contrôleur de gestion) : aucun directeur financier du groupe ni comptable nommé, seulement le dossier préfectoral et les fiches registre déjà connus. Les finances sont pilotées au niveau du groupe familial (holding Cassier, siège ZI Les Mûriers à Digoin) ; à l'appel, demander le service comptable ou le DAF du groupe. Vérification : Aucun résultat reliant P. Racouchot à TC Transports ; DG issu du registre seul. Recherche « Pierre-Henri Juhen » + transports : aucun résultat. Seule source : l'interview citée, non datée.",
+  "note_admin": "Décideurs (27/10/2026) : 3 recherches LinkedIn (TC Transports + financier / comptable / RH, DAF / responsable RH, fonctions de salariés) : aucun DAF, comptable ni RH nommé pour Cercy-la-Tour ou le siège de Digoin ; les seuls noms avec fonction relèvent d'autres sites ou rôles (Sabrina Daval, référente RH, et Eddy Lechine, directeur, de TC Transports 70 en Haute-Saône ; Marlène Margelidon, référente qualité ; Alban d'Avout, à Digoin, fonction non affichée). Finances pilotées par le groupe familial (holding Cassier, siège de Digoin) : demander le service comptable ou le DAF du groupe.",
+  "qui_appeler": "Appeler TC 58 à Cercy-la-Tour au 03 86 50 57 26 (numéro publié par le groupe TC Transports) et demander la direction du groupe : le représentant de la holding Cassier ou le directeur administratif et financier. À défaut, demander le responsable administratif et financier."
+ }
+]

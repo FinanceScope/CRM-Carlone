@@ -1,0 +1,361 @@
+[
+ {
+  "rang": 464,
+  "siren": "840504427",
+  "nom": "LES PATTES DOUCES",
+  "nom_commercial": "Unae",
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "2 RUE DE VEAUPOULE",
+  "activite": "Industries alimentaires",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.unae.fr/",
+  "dirigeants": [
+   {
+    "nom": "HOLDING VEGEO GROUPE",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Société d'exploitation du 'Laboratoire UNAE' (compléments alimentaires / parapharmacie : multivitamines, magnésium, probiotiques…), fiche fabricant Vidal : https://www.vidal.fr/parapharmacie/societes/laboratoire-unae-5427.html — adresse indiquée : Les Pattes Douces, 19 rue du Commandant Victor Guerreau, 58420 Brinon-sur-Beuvron (le registre donne 2 rue de Veaupoule). Téléphone et e-mail non visibles dans les extraits ; site probable unae.fr non vérifié. Président = HOLDING VEGEO GROUPE ; personne physique qui la dirige non trouvée en 3 recherches. Deuxième passe (27/10/2026) : 03 58 05 01 34, ligne du service client du Laboratoire UNAE (nom commercial de Les Pattes Douces, Brinon-sur-Beuvron) publiée sur sa page contact, en semaine de 8 h 30 à 16 h 30. Des annuaires plus anciens donnent le 03 86 28 40 57, sans doute périmé. Vérification : confirmé (1 recherche sur unae.fr) : numéro, horaires et e-mail contact-sav@unae.fr figurent bien sur https://www.unae.fr/contact/ ; fiabilité officielle maintenue."
+ },
+ {
+  "rang": 465,
+  "siren": "381751171",
+  "nom": "A.MAILHARRO SARL",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZONE INDUSTRIELLE LES CHAMPS MALES",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "CAREMA INVESTISSEMENTS",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Plâtrerie-peinture / isolation (RGE). Numéro concordant sur deux annuaires (les-energies-renouvelables.eu et Cylex : https://www.cylex-locale.fr/varennes-vauzelles/peintre+en+b%C3%A2timent.html), adresse postale Champ Mâle, BP 60037, Varennes-Vauzelles ; fiches non vérifiées par leurs éditeurs. Président = la société CAREMA INVESTISSEMENTS (holding) ; personne physique non trouvée en 3 recherches."
+ },
+ {
+  "rang": 466,
+  "siren": "489272518",
+  "nom": "ALFONSO BUJAN ASSOCIES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZONE INDUSTRIELLE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "Franck MYSKOWIAK",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Karin MYSKOWIAK (DRU)",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Franck MYSKOWIAK",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+  },
+  "contact_finance": {
+   "nom": "Franck MYSKOWIAK",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Karin MYSKOWIAK",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+   }
+  ],
+  "note_contacts": "Aucune présence web trouvée en 3 recherches. Adresse d'entrée sans rue (Zone industrielle, Varennes-Vauzelles) : rue non trouvée. Dirigeants d'après le registre uniquement ; la DG Karin Myskowiak peut aussi suivre la gestion. Deuxième passe (27/10/2026) : aucun numéro trouvé dans les extraits ; une fiche Pages Jaunes « Alfonso Bujan Associés à Nevers » existe (https://www.pagesjaunes.fr/pros/05983997), liée à l'établissement secondaire du 4 faubourg de la Baratte, Nevers. Activité : peinture, plâtrerie, isolation, ravalement. Vérification : relecture sans recherche, cohérente (pas de numéro retenu)."
+ },
+ {
+  "rang": 467,
+  "siren": "385244009",
+  "nom": "COPIEFAX",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "52 B BOULEVARD CAMILLE DAGONNEAU",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.copiefax.fr/",
+  "dirigeants": [
+   {
+    "nom": "JEAN-PIERRE BOURDILLAT",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "THIBAUT BOURDILLAT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Thibaut BOURDILLAT",
+   "fonction": "Gérant (co-gérant avec Jean-Pierre BOURDILLAT)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/385244009"
+  },
+  "contact_finance": {
+   "nom": "Thibaut BOURDILLAT",
+   "fonction": "Gérant (co-gérant avec Jean-Pierre BOURDILLAT)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/385244009"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jean-Pierre BOURDILLAT",
+    "fonction": "Gérant (co-gérant)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/385244009"
+   }
+  ],
+  "note_contacts": "Vente, location et maintenance de photocopieurs (aussi 'Canon Copiéfax'), SARL créée en 1992 ; établissement secondaire au 15 rue Michaël Faraday, 18000 Bourges (https://fr.mappy.com/poi/50ae642a84aeaa2bc3e369bf). Aucun numéro trouvé en 3 recherches. Deux co-gérants (père/fils probable) : le choix de Thibaut comme contact principal est arbitraire. Deuxième passe (27/10/2026) : 03 86 36 46 04, numéro du siège de Varennes-Vauzelles (52 bis bd Camille Dagonneau) publié sur le site de l'entreprise ; Pages Jaunes donne aussi le 03 86 36 41 28 (fiche « Canon Copiéfax ») et le site copiefax-nievre.fr affiche le même 03 86 36 46 04. Vérification : confirmé (1 recherche sur copiefax.fr) sur la page contact, qui publie aussi commercial@copiefax.fr (ajouté) ; le 02 48 68 67 12 de la page d'accueil correspond à l'agence de Bourges, non retenu."
+ },
+ {
+  "rang": 468,
+  "siren": "434598173",
+  "nom": "GALLOIS ROBERT ET ASSOCIES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "50 RUE MARCEL ROBIN",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "LAURENT GALLOIS",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent GALLOIS",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+  },
+  "contact_finance": {
+   "nom": "Laurent GALLOIS",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+  },
+  "note_contacts": "Aucune présence web trouvée en 3 recherches (ni téléphone, ni site, ni annuaire). Gérant d'après le registre uniquement. Deuxième passe (27/10/2026) : 03 86 57 06 67, numéro de l'entreprise de chauffage (« Gallois Robert & Ass. », RGE QualiPAC) à Varennes-Vauzelles d'après l'annuaire Hellowatt ; aucun site propre trouvé (www.sarl-gallois-lpa.fr non retrouvé). Vérification : 1 recherche : le numéro n'apparaît que sur Hellowatt, sans élément contraire, il reste en annuaire ; l'e-mail générique tiré de Hellowatt a été retiré car il n'est pas publié par l'entreprise elle-même."
+ },
+ {
+  "rang": 469,
+  "siren": "343056628",
+  "nom": "GUYON & ASSOCIEE",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "15 RUE DU BENGY",
+  "activite": "Activités comptables",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "SONIA JEANNE LOUISE GUYON (MOUILLERON)",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sonia GUYON (née MOUILLERON)",
+   "fonction": "Gérante",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/343056628"
+  },
+  "contact_finance": {
+   "nom": "Sonia GUYON (née MOUILLERON)",
+   "fonction": "Gérante",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/343056628"
+  },
+  "note_contacts": "Cabinet d'expertise comptable, anciennement 'GUYON LECANU & Associés' (changement de dénomination déc. 2023, siège transféré au 15 rue du Bengy, Varennes-Vauzelles). Le numéro 09 79 55 63 66 vient d'annuaires qui listent encore 'Guyon Lecanu & Associés' au 14 rue de Paris, La Charité-sur-Loire : numéro faible, peut-être celui de l'ancien bureau, à vérifier. Ne pas confondre avec COGEP (3 rue du Bengy, 03 86 36 96 70) ni avec le cabinet 'Lecanu & Associés' de Nevers (03 86 59 01 76), autres sociétés."
+ },
+ {
+  "rang": 470,
+  "siren": "813205473",
+  "nom": "J C SHUNXIN",
+  "nom_commercial": "LE GRILLARDIN STEAK HOUSE",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "CHAMPS DES NOYERS RUE HENRI BOUQUILLARD",
+  "activite": "Restauration",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "JIANPING FANG",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "LU CHEN (LIN)",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jianping FANG",
+   "fonction": "Gérant (co-gérant avec Lu CHEN (LIN), selon le registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/j-c-shunxin-813205473"
+  },
+  "contact_finance": {
+   "nom": "Jianping FANG",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/j-c-shunxin-813205473"
+  },
+  "note_contacts": "Aucun numéro trouvé en 3 recherches. La fiche PagesJaunes du restaurant 'Le Grillardin Steak House' (https://www.pagesjaunes.fr/pros/08425905, restaurant de type buffet) le signale 'Probablement fermé définitivement' ; Justacote indique 1 rue Henri Bouquillard, 58640 Varennes-Vauzelles. Activité à vérifier avant appel. Dirigeants issus du registre uniquement. Deuxième passe (27/10/2026) : 03 86 23 07 08 est le numéro du restaurant buffet 'Le Grillardin Steak House' (1 rue du Champ des Noyers / rue Henri Bouquillard), repris par TripAdvisor, Mappy, 118712 et Mapstr. PagesJaunes le signalait 'probablement fermé définitivement' alors que d'autres fiches donnent des horaires 7j/7 : vérifier l'activité dès l'appel. Vérification : non recherché dans cette passe (budget de 5 recherches) ; numéro au nom du restaurant et de la commune, cohérent avec la source, maintenu en 'annuaire'."
+ },
+ {
+  "rang": 471,
+  "siren": "914586185",
+  "nom": "LE BENGY",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "25 ROUTE DE PARIS",
+  "activite": "Restauration",
+  "effectif": "10-19 salariés",
+  "site_web": "https://le-bengy-restaurant.com",
+  "dirigeants": [
+   {
+    "nom": "SEBASTIEN CLAUDE BERNARD ETIENNE",
+    "fonction": "Président"
+   },
+   {
+    "nom": "AMBRE MARIE-ANNE MAZOYER",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Sébastien ETIENNE",
+   "fonction": "Président (Ambre MAZOYER directrice générale, selon le registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-bengy-914586185"
+  },
+  "contact_finance": {
+   "nom": "Sébastien ETIENNE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-bengy-914586185"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Ambre MAZOYER",
+    "fonction": "Directrice générale",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/le-bengy-914586185"
+   }
+  ],
+  "note_contacts": "Restaurant Le Bengy, 25 route de Paris, cité au Guide Michelin (https://guide.michelin.com/us/en/bourgogne-franche-comte/nevers/restaurant/le-bengy : ancien café routier repris par un jeune couple ; ouvert du mardi au samedi). Numéro et site web (le-bengy-restaurant.com) vus uniquement sur l'annuaire Foodle, non confirmés sur le site officiel."
+ },
+ {
+  "rang": 472,
+  "siren": "525407011",
+  "nom": "LE SIECLE D 'OR",
+  "nom_commercial": "SAVEURS GOURMANDES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "CHAMPS DES NOYERS RUE HENRI BOUQUILLARD",
+  "activite": "Restauration",
+  "effectif": "10-19 salariés",
+  "dirigeants": [
+   {
+    "nom": "YUNWEI HU",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Yunwei HU",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-siecle-d-or-525407011"
+  },
+  "contact_finance": {
+   "nom": "Yunwei HU",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/le-siecle-d-or-525407011"
+  },
+  "note_contacts": "Aucun numéro trouvé en 3 recherches (enseigne 'Saveurs Gourmandes' introuvable). Une fiche Wanderlog 'Le Siècle d'Or' (https://wanderlog.com/place/details/3035640, buffet avec sushis) existe sans ville confirmée ; une autre fiche Wanderlog évoque un Siècle d'Or repris et renommé 'Steak House 1st' : rattachement à cette société non confirmé. Dirigeant issu du registre uniquement. Deuxième passe (27/10/2026) : 03 86 23 96 56 est le numéro du buffet chinois 'Le Siècle d'Or', rue Henri Bouquillard à Varennes-Vauzelles (PagesJaunes, Le Club des Bons Vivants, 118000) ; l'enseigne 'Saveurs Gourmandes' reste introuvable. Les annuaires divergent sur le numéro de rue (102 ou 187) et une reprise sous un autre nom a été évoquée : confirmer l'exploitant à l'appel. Vérification : 03 86 23 96 56 retrouvé pour 'Le Siècle d'Or', rue Henri Bouquillard à Varennes-Vauzelles (PagesJaunes, 118000, e-pro et Kompass sous la raison sociale 'Le Siecle D 'or') ; numéro maintenu."
+ },
+ {
+  "rang": 473,
+  "siren": "530024611",
+  "nom": "LUDOVIC THAUSE TOURISME",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "14 RUE JACQUES DUCLOS",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.ludovic-thause-tourisme.fr/",
+  "dirigeants": [
+   {
+    "nom": "HERVE MILLERIOUX",
+    "fonction": "Gérant"
+   },
+   {
+    "nom": "LUDOVIC THAUSE",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Ludovic THAUSE",
+   "fonction": "Gérant (co-gérant avec Hervé MILLERIOUX, selon le registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ludovic-thause-tourisme-530024611"
+  },
+  "contact_finance": {
+   "nom": "Ludovic THAUSE",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ludovic-thause-tourisme-530024611"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Hervé MILLERIOUX",
+    "fonction": "Co-gérant",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/ludovic-thause-tourisme-530024611"
+   }
+  ],
+  "note_contacts": "Autocariste / agence de voyages. Une fiche 118712 'Ludovic Thause Tourisme' (https://www.118712.fr/professionnels/WUNXX19UGQI) la situe à Cosne-sur-Loire (58200), numéro non visible dans l'extrait de recherche. Aucun numéro confirmé en 3 recherches. Deuxième passe (27/10/2026) : 03 86 36 70 14 est la ligne du service transport à Varennes-Vauzelles (site de l'entreprise, aussi sur PagesJaunes) ; l'agence de voyages de Cosne-Cours-sur-Loire (4 rue Saint-Jacques) répond au 03 86 22 48 96. Les mobiles publiés (06 84 64 14 84 urgences, 06 70 08 76 20 groupes) sont des lignes de service, non retenues. Vérification : le site de l'entreprise publie bien le 03 86 36 70 14 (service transport) et l'adresse 14 rue Jacques Duclos à Varennes-Vauzelles, ainsi que les deux mobiles comme lignes de l'entreprise ; 'officielle' maintenu."
+ }
+]
