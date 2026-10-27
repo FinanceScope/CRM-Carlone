@@ -406,6 +406,23 @@ p.txt{margin:0;max-width:65ch}
 .mailsubj{display:flex;flex-direction:column;gap:6px;margin-top:8px}
 .mailsubj .mail{max-height:none;margin-top:0}
 .tshort{display:none}
+.simt{width:100%;border-collapse:collapse;font-size:13px;font-variant-numeric:tabular-nums}
+.simt th,.simt td{padding:6px 8px;border-bottom:1px solid var(--line-2);text-align:right}
+.simt th:first-child,.simt td:first-child{text-align:left}
+.simt th{font-size:12px;color:var(--muted);font-weight:600}
+.bilan{padding:0}
+.bilan summary{cursor:pointer;padding:14px 18px;font-family:var(--font-display);font-weight:700;font-size:17px;list-style:none;display:flex;justify-content:space-between;gap:12px}
+.bilan summary::-webkit-details-marker{display:none}
+.bilan summary::after{content:"+";color:var(--accent);font-weight:700}
+.bilan[open] summary::after{content:"–"}
+.bilan-b{padding:0 18px 18px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+@media (max-width:860px){.bilan-b{grid-template-columns:minmax(0,1fr)}}
+.bilan h4{margin:0 0 6px;font-size:13px;color:var(--muted)}
+.bars{display:flex;flex-direction:column;gap:5px;margin:0;padding:0;list-style:none;font-size:13px}
+.bars li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px;align-items:center}
+.bars .bar{grid-column:1/-1;height:6px;border-radius:3px;background:var(--sunk);overflow:hidden}
+.bars .bar b{display:block;height:100%;background:var(--accent);border-radius:3px}
+.foot-acts{display:flex;flex-wrap:wrap;gap:4px 18px}
 @media (max-width:640px){
   .copy{min-height:36px;padding:6px 12px;margin-left:4px}
   .tlong{display:none}.tshort{display:inline}.tab{padding:8px 13px}
@@ -566,11 +583,13 @@ p.txt{margin:0;max-width:65ch}
   <div class="toolbar">
     <label class="search"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg><input type="search" id="aq" placeholder="Nom, ville ou numéro qui appelle…" aria-label="Rechercher dans la feuille d'appels"></label>
     <select id="aResp" aria-label="Appelant"><option value="">Tous les appelants</option></select>
-    <select id="aVague" aria-label="Vague"><option value="">Toutes les vagues</option><option value="1">Vague 1 · Cosne</option><option value="2">Vague 2 · le bassin</option><option value="3">Vague 3 · grands comptes</option></select>
+    <select id="aVague" aria-label="Vague"><option value="">Toutes les vagues</option><option value="1">Vague 1 · Cosne</option><option value="2">Vague 2 · le bassin</option><option value="3">Vague 3 · grands comptes</option><option value="m">Deuxième cercle · priorité moyenne</option></select>
     <span class="count num" id="acount"></span>
   </div>
   <div id="alist" class="alist"></div>
-  <p class="foot-note">Les entreprises « Pas intéressé », « Œuvre achetée » ou qui ont demandé à ne plus être contactées sortent de la liste. Le refus de prospection est daté dans la fiche et conservé 3 ans. <button class="tbtn" type="button" id="exportOpp" style="color:var(--accent);padding:0">Exporter la liste des refus (CSV)</button></p>
+  <details class="card bilan" id="bilan"><summary>Bilan de la campagne <span class="hint" id="bilanSum"></span></summary><div class="bilan-b" id="bilanB"></div></details>
+  <p class="foot-note">Les entreprises « Pas intéressé », « Œuvre achetée » ou qui ont demandé à ne plus être contactées sortent de la liste. Le refus de prospection est daté dans la fiche et conservé 3 ans. Le deuxième cercle (choix « Deuxième cercle » dans le filtre des vagues) réunit les entreprises du top 100 en priorité moyenne : décision souvent prise au siège d'un groupe.</p>
+  <div class="foot-acts"><button class="tbtn" type="button" id="exportIcs" style="color:var(--accent);padding:0">Ajouter rappels et rendez-vous à mon agenda (.ics)</button><button class="tbtn" type="button" id="exportOpp" style="color:var(--accent);padding:0">Exporter la liste des refus (CSV)</button></div>
 </section>
 
 <section id="viewFiches" class="gutter content" hidden aria-labelledby="tab-fiches">
@@ -926,12 +945,14 @@ function callGroups(){
   const inScope=new Set(companies);
   const list=allCompanies.filter(c=>{const s=S(c),cl=callsOf(c),st=statutOf(c);
     if(!inScope.has(c)&&!s.date_relance&&!cl.n&&st==="a_contacter")return false;   // hors périmètre affiché : seulement si un suivi est en cours
+    const c2=c.rang<=100&&c.priorite==="Moyenne"&&!c.vague&&!c.exclue&&!/procédure|liquidation|redressement/i.test(c.statut||"");   // deuxième cercle
     if(STOP_ST.has(st)||s.opposition||c.exclue)return false;
     if(resp==="__me"){if(!(myId&&(s.responsable_id===myId||cl.h.some(e=>e.by===myId))))return false}
     else if(resp&&norm(s.responsable)!==resp)return false;
-    if(vg&&String(c.vague)!==vg)return false;
+    if(vg==="m"){if(!c2)return false}
+    else if(vg&&String(c.vague)!==vg)return false;
     if(q&&!matchQ(c,q))return false;
-    return c.vague||cl.n||s.date_relance||st!=="a_contacter"});
+    return c.vague||(vg==="m"&&c2)||cl.n||s.date_relance||st!=="a_contacter"});
   const rdv=[],due=[],todo=[],retry=[],later=[],nonum=[];
   for(const c of list){const s=S(c),st=statutOf(c);
     if(st==="rdv")rdv.push(c);
@@ -947,7 +968,7 @@ function callGroups(){
   rdv.sort((a,b)=>rw(a)<rw(b)?-1:rw(a)>rw(b)?1:ord(a,b));
   due.sort(byWhen);later.sort(byWhen);todo.sort(ord);nonum.sort(ord);
   retry.sort((a,b)=>callsOf(a).n-callsOf(b).n||String(callsOf(a).lastT).localeCompare(String(callsOf(b).lastT))||ord(a,b));
-  return [["rdv","Rendez-vous à venir",rdv,"Statut « RDV fixé », par date"],["due","À rappeler aujourd'hui",due,"Rappels prévus aujourd'hui ou en retard"],["todo","Pas encore appelées",todo,"Cibles des vagues, dans l'ordre d'attaque"],["retry","Sans date de rappel",retry,"Déjà appelées, sans conclusion ni date de rappel"],["later","Prochains rappels",later,"Rappels prévus plus tard"],["nonum","Numéro à trouver",nonum,"Pas de numéro connu : trouver le standard, puis le noter dans la fiche (Tél. / e-mail direct)"]];
+  return [["rdv","Rendez-vous à venir",rdv,"Statut « RDV fixé », par date"],["due","À rappeler aujourd'hui",due,"Rappels prévus aujourd'hui ou en retard"],["todo","Pas encore appelées",todo,vg==="m"?"Deuxième cercle : demander qui décide au siège du groupe":"Cibles des vagues, dans l'ordre d'attaque"],["retry","Sans date de rappel",retry,"Déjà appelées, sans conclusion ni date de rappel"],["later","Prochains rappels",later,"Rappels prévus plus tard"],["nonum","Numéro à trouver",nonum,"Pas de numéro connu : trouver le standard, puis le noter dans la fiche (Tél. / e-mail direct)"]];
 }
 const telLink=t=>{const u=e164(t);return u?`<a class="mono tel" href="tel:${u}">${esc(t)}</a>`:`<span class="mono">${esc(t)}</span>`};
 const copyBtn=(v,what)=>`<button class="copy" type="button" data-copy="${esc(v)}" aria-label="Copier ${esc(what||v)}">copier</button>`;
@@ -1005,6 +1026,45 @@ function openAform(c,res){
   box.dataset.res=res;box.innerHTML=F[res];box.hidden=false;
   const first=box.querySelector("input");if(first)first.focus();
 }
+/* Bilan de la campagne : appels notés, résultats, appelants, 7 derniers jours */
+const JOINT=new Set(["rappeler","interesse","rdv","pas_interesse","stop"]);
+async function renderBilan(){
+  const box=$("#bilanB");if(!box)return;
+  const all=allCompanies.flatMap(c=>callsOf(c).h);
+  const n=all.length,joint=all.filter(e=>JOINT.has(e.res)).length,rdv=allCompanies.filter(c=>statutOf(c)==="rdv").length;
+  $("#bilanSum").textContent=n?`${n} appel${n>1?"s":""} · ${Math.round(joint/n*100)} % joints · ${rdv} rendez-vous`:"Aucun appel noté pour l'instant";
+  if(!$("#bilan").open){box.dataset.dirty="1";return}
+  delete box.dataset.dirty;
+  const bars=(rows,max)=>rows.length?`<ul class="bars">${rows.map(([l,v])=>`<li><span>${esc(l)}</span><b class="num">${v}</b><span class="bar"><b style="width:${max?Math.round(v/max*100):0}%"></b></span></li>`).join("")}</ul>`:`<p class="muted small" style="margin:0">Rien à afficher.</p>`;
+  const byRes=RESULTATS.map(r=>[r.l,all.filter(e=>e.res===r.k).length]).filter(x=>x[1]);
+  const days=[];for(let i=6;i>=0;i--){const d=new Date();d.setDate(d.getDate()-i);const k=isoDay(d);days.push([fmtShortDay(k),all.filter(e=>isoDay(new Date(e.t))===k).length])}
+  const who=new Map();for(const e of all){const k=e.by||"?";who.set(k,(who.get(k)||0)+1)}
+  let ps={};const ids=[...who.keys()].filter(k=>k!=="?");
+  if(userNs&&ids.length){try{ps=await userNs.profiles(ids)}catch(e){}}
+  const whoRows=[...who].map(([k,v])=>[k==="?"?"Sur cet appareil":(ps[k]&&ps[k].name)||"Associé",v]).sort((a,b)=>b[1]-a[1]);
+  const mx=a=>Math.max(0,...a.map(x=>x[1]));
+  box.innerHTML=`<div><h4>Résultats des appels</h4>${bars(byRes,mx(byRes))}</div><div><h4>7 derniers jours</h4>${bars(days,mx(days))}</div><div><h4>Par appelant</h4>${bars(whoRows,mx(whoRows))}</div>`;
+}
+/* Agenda : rappels et rendez-vous à venir, au format iCalendar (téléphone, Google Agenda, Outlook) */
+function icsFor(){
+  const today=isoDay(new Date()),stamp=new Date().toISOString().replace(/[-:]/g,"").replace(/\.\d+/,"");
+  const tx=v=>String(v||"").replace(/\\/g,"\\\\").replace(/;/g,"\;").replace(/,/g,"\\,").replace(/\r?\n/g,"\\n");
+  const enc=new TextEncoder(),fold=l=>{const o=[];let cur="",n=0;for(const ch of l){const b=enc.encode(ch).length;if(n+b>74){o.push(cur);cur=" ";n=1}cur+=ch;n+=b}o.push(cur);return o.join("\r\n")};   // lignes de 75 octets au plus
+  const when=(d,h,min)=>{if(!h)return [`DTSTART;VALUE=DATE:${d.replace(/-/g,"")}`,`DTEND;VALUE=DATE:${(x=>{x.setDate(x.getDate()+1);return isoDay(x)})(new Date(d+"T12:00")).replace(/-/g,"")}`];
+    const t0=new Date(d+"T"+h),z=x=>x.toISOString().replace(/[-:]/g,"").replace(/\.\d+/,"");return [`DTSTART:${z(t0)}`,`DTEND:${z(new Date(t0.getTime()+min*60000))}`]};
+  const ev=[];
+  for(const x of allCompanies.concat(cPros())){const s=S(x);if(s.opposition)continue;
+    const nm=x.rang?nameOf(x):x.nom,tel=x.rang?(telIn(s.contact_coord)||x.telephone||""):((x.contact||{}).telephone||"");
+    const who=s.contact_nom||(x.rang&&personToAsk(x)?personToAsk(x).nom:"");
+    if(s.date_relance&&s.date_relance>=today&&!STOP_ST.has(statutOf(x)))
+      ev.push(["rappel",x,when(s.date_relance,s.rappel_heure,15),`Rappeler ${nm}`,[tel&&"Tél. "+tel,who&&"Demander "+who,s.prochaine_action,s.notes].filter(Boolean).join(" · "),""]);
+    if(s.rdv_date&&s.rdv_date>=today&&statutOf(x)==="rdv")
+      ev.push(["rdv",x,when(s.rdv_date,s.rdv_heure,60),`Rendez-vous ${nm}`,[who&&"Avec "+who,tel&&"Tél. "+tel,x.art&&x.art.ca?"Jusqu'à "+fmtE(x.art.plafond)+" déductibles par an":"",s.notes].filter(Boolean).join(" · "),s.rdv_note||""])}
+  const lines=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//CRM Entreprises Nievre//FR","CALSCALE:GREGORIAN","METHOD:PUBLISH",
+    ...ev.flatMap(([k,x,w,sum,desc,loc])=>["BEGIN:VEVENT",`UID:${k}-${key(x)}-${(S(x)[k==="rdv"?"rdv_date":"date_relance"]||"").replace(/-/g,"")}@crm-nievre`,`DTSTAMP:${stamp}`,...w,`SUMMARY:${tx(sum)}`,desc?`DESCRIPTION:${tx(desc)}`:null,loc?`LOCATION:${tx(loc)}`:null,"END:VEVENT"].filter(Boolean)),
+    "END:VCALENDAR"];
+  return {n:ev.length,data:lines.map(fold).join("\r\n")+"\r\n"};
+}
 let appelsDirty=false;
 const appelsBusy=()=>{const b=$("#alist");return !!(b&&(b.querySelector(".aform:not([hidden])")||(b.contains(document.activeElement)&&document.activeElement.matches("select,input"))))};
 function renderAppels(force){
@@ -1021,10 +1081,11 @@ function renderAppels(force){
   const g=k=>groups.find(x=>x[0]===k)[2].length;
   $("#akpis").innerHTML=[
     ["k1",g("due"),"à rappeler aujourd'hui","Rappels du jour et en retard"],
-    ["",g("todo"),"pas encore appelées","Cibles des vagues 1 à 3"],
+    ["",g("todo"),"pas encore appelées",$("#aVague").value==="m"?"Deuxième cercle":"Cibles des vagues 1 à 3"],
     ["k3",calls,"appels notés","Tous appelants confondus"],
     ["k2",rdv,"rendez-vous fixés","Statut « RDV fixé »"]
   ].map(([cl,n,l,sm])=>`<div class="kpi ${cl}"><b class="num">${n}</b><span>${l}</span><small>${sm}</small></div>`).join("");
+  renderBilan();
   box.innerHTML=groups.filter(x=>x[2].length).map(([k,t,l,sub])=>`<section class="agroup card" aria-label="${esc(t)}"><header><h3>${esc(t)} <span class="num muted">${l.length}</span></h3><span class="hint">${esc(sub)}</span></header>${l.map(callRow).join("")}</section>`).join("")||`<div class="empty card">Rien à appeler avec ces filtres.</div>`;
 }
 function renderPlan(){
@@ -1261,6 +1322,7 @@ function renderDetail(force){
       ${line("Où se décide l'achat",c.decision?esc(c.decision):"")}
     </dl>
     ${!fi&&(a.notes||[]).length?`<ul class="checks">${a.notes.map(n=>`<li>${esc(n)}</li>`).join("")}</ul>`:""}
+    ${simTable(c)}
     <div class="acts"><button class="btn" type="button" data-sim="1">Simuler avec ce chiffre d'affaires</button></div>
     <details class="mailer"><summary>Note pour l'expert-comptable</summary>
       <div class="mail" data-note="1">${esc(noteEC(c))}</div>
@@ -1335,6 +1397,16 @@ function renderDetail(force){
   `;
   renderHist(c,"f_");
   if(!ro)bindForm(c,"f_",()=>{renderPipeline();renderList();renderPlan()},()=>renderDetail(true));
+}
+/* Trois prix d'œuvre types pour le rendez-vous : déduction par an, impôt en moins sur 5 ans (taux normal de 25 %), coût net */
+function simTable(c){
+  const a=c.art||{},lim=a.ca?a.plafond:PLANCHER;
+  const prix=[10000,25000,Math.round(lim*5/1000)*1000].filter((v,i,t)=>v>0&&t.indexOf(v)===i).sort((x,y)=>x-y);
+  const rows=prix.map(p=>{const ded=Math.min(p/5,lim),eco=ded*5*.25;return `<tr><td>${fmtE(p)}</td><td>${fmtE(ded)}</td><td>${fmtE(eco)}</td><td>${fmtE(p-eco)}</td></tr>`}).join("");
+  return `<details class="mailer"><summary>Simulation à présenter</summary>
+    <table class="simt" style="margin-top:8px"><thead><tr><th>Prix de l'œuvre</th><th>Déduit par an</th><th>Impôt en moins sur 5 ans</th><th>Coût net</th></tr></thead><tbody>${rows}</tbody></table>
+    <p class="muted small" style="margin:6px 0 0">Au taux normal de l'IS (25 %), pour une société bénéficiaire${a.benefice===false?" : <b class=\"late\">en perte au dernier exercice, pas d'économie tant qu'elle ne redevient pas bénéficiaire</b>":""} ; limite de ${fmtE(lim)} par an${a.ca?"":" (plancher, chiffre d'affaires non connu)"}, réduite des dons de mécénat. À valider avec son expert-comptable.</p>
+  </details>`;
 }
 function mailFor(c){
   const s=S(c),a=c.art||{},grp=a.espace==="groupe";
@@ -1637,10 +1709,10 @@ const csvq=v=>{if(v==null)return "";let t;if(typeof v==="number")t=String(v);els
 const csvOf=(cols,rows)=>"﻿"+cols.join(";")+"\n"+rows.map(r=>r.map(csvq).join(";")).join("\n");
 const histTxt=x=>histOf(S(x)).map(e=>`${fmtStamp(e.t)} · ${e.res&&RLABEL[e.res]?RLABEL[e.res]+" · ":""}${e.txt||""}`).join(" | ");
 const oppD=x=>{const o=S(x).opposition;return o?[isoDay(new Date(o.date)),o.canal||""]:["",""]};
-async function saveFile(filename,data){
+async function saveFile(filename,data,mime){
   const dl=window.claude&&window.claude.use?await window.claude.use("downloads").catch(()=>null):null;
   if(dl){try{await dl.save({filename,data})}catch(e){if(e&&e.code!=="declined")toast("Export impossible pour le moment")}return}
-  try{const u=URL.createObjectURL(new Blob([data],{type:"text/csv;charset=utf-8"}));const a=document.createElement("a");a.href=u;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),3000)}
+  try{const u=URL.createObjectURL(new Blob([data],{type:mime||"text/csv;charset=utf-8"}));const a=document.createElement("a");a.href=u;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),3000)}
   catch(e){toast("Export indisponible dans cette vue")}
 }
 $("#exportBtn").addEventListener("click",()=>{
@@ -1659,6 +1731,12 @@ $("#exportBtn").addEventListener("click",()=>{
   const rows=allCompanies.map(c=>{const s=S(c),cf=c.contact_finance||{},cd=c.contact_dirigeant||{},a=c.art||{},fi=c.fiche||{},cl=callsOf(c);return [c.rang,c.nom,c.nom_commercial||"",c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,RAW(e164(c.telephone)),c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+(d.fonction?" ("+d.fonction+")":"")).join(" / "),SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,cl.n,RLABEL[cl.last]||"",cl.lastT?fmtStamp(cl.lastT):"",s.notes,...oppD(c),histTxt(c),cd.nom,cd.fonction,cd.tel_direct,cd.email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,fi.angle_art,fi.qui_appeler,(fi.vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":c.opposition_prospection===false?"non":"non vérifiée",c.adresse,c.code_postal]});
   saveFile("crm-entreprises-nievre.csv",csvOf(cols,rows));
 });
+$("#exportIcs").addEventListener("click",()=>{
+  const r=icsFor();
+  if(!r.n){toast("Aucun rappel ni rendez-vous à venir");return}
+  saveFile("agenda-prospection-nievre.ics",r.data,"text/calendar;charset=utf-8");
+});
+$("#bilan").addEventListener("toggle",()=>{if($("#bilan").open)renderBilan()});
 $("#exportOpp").addEventListener("click",()=>{   // liste d'exclusion : refus notés dans le CRM et oppositions relevées sur Pappers
   const rows=[];
   for(const c of allCompanies){const o=S(c).opposition;if(o||c.opposition_prospection)rows.push(["entreprise",c.nom,c.siren,o?isoDay(new Date(o.date)):"",o?o.canal||"":"",o?"noté dans le CRM":"opposition Pappers"])}
