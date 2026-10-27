@@ -1,0 +1,38 @@
+[
+ {
+  "rang": 100,
+  "siren": "880515994",
+  "nom": "COMMAND-SMFI",
+  "nom_commercial": "SMFI",
+  "nom_court": "SMFI (Command-SMFI), Cosne-Cours-sur-Loire",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "5 rue des Guérins, 58200 Cosne-Cours-sur-Loire",
+  "code_postal": "58200",
+  "effectif": "20-49",
+  "decision": "Vraisemblablement prise à Cosne-Cours-sur-Loire même : SAS autonome (aucun groupe identifié) créée en 2020 pour reprendre l'ancienne activité produits de forage SMFI/Vallourec du site, sans siège extérieur connu — à confirmer au standard.",
+  "dirigeants": [
+   {
+    "nom": "Charles Garvey",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Nicolas Berhault",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "note_contacts": "Opposition à la prospection (Pappers) : seules les coordonnées de l'entreprise ont été recherchées. Aucun numéro, email ni site web trouvé (3 recherches). Xerfi (https://www.xerfi.com/etudes-par-entreprise/command-smfi_880515994) : société créée en janvier 2020, fabrication et vente de matériel de forage (NAF tubes et profilés en acier), CA 7,3 M€ en 2024, 20-49 salariés — vraisemblablement l'ancienne activité produits de forage de Vallourec/SMF International à Cosne (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638). Aucun site de l'entreprise trouvé, donc aucun nom de décideur repris. 2e niveau : opposition à la prospection (Pappers), donc uniquement des coordonnées d'entreprise et aucun nom hors site officiel. 6 recherches supplémentaires sans résultat : aucun site web, aucun numéro de standard, aucun email générique publiés. Seule la fiche LEI Bloomberg (https://lei.bloomberg.com/leis/view/969500S5WC7849E1Y596) confirme la SAS COMMAND-SMFI active au 5 rue des Guérins, 58200 Cosne-Cours-sur-Loire. Contexte : en 2017, Vallourec a cédé à NOV ses produits de forage, hors sites français de Cosne et Tarbes, mis en vente séparément. La page CFNews sur cette cession (https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Vallourec-quitte-les-produits-de-forage-270638) cite SMFI et ALTIFOR en mots-clés, sans détail visible. Une question à l'Assemblée nationale (https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QG451.pdf) indiquait alors 139 salariés à Cosne ; l'effectif actuel est de 20 à 49. Attention : GlobalSpec liste « Vam Drilling France » au 7 rue des Frères Lumière à Cosne, une autre adresse et une autre entité (ancienne dénomination Vallourec), dont les coordonnées ne doivent pas être reprises. La marque SMFI (tiges, masses-tiges, stabilisateurs) appartient historiquement à SMF International. À faire : chercher le numéro par l'annuaire inversé ou l'accueil de la zone des Guérins, puis demander au standard qui gère la comptabilité (interne ou expert-comptable externe) et qui décide des achats hors production.",
+  "opposition_prospection": true,
+  "fiche": {
+   "nom_affiche": null,
+   "activite": "Fabrication de matériel de forage (tiges, tubes et accessoires en acier) et usinage de pièces techniques, surtout pour l'export.",
+   "groupe": "Indépendante, présidée par Charles Garvey (aucun groupe identifié, à confirmer)",
+   "qui_appeler": "Contact direct uniquement, pas de mailing. Aucun numéro trouvé : le chercher par l'annuaire inversé ou auprès de l'accueil de la zone des Guérins, puis demander Nicolas Berhault, directeur général, ou Charles Garvey, président ; à défaut, demander qui tient la comptabilité ou le responsable administratif et financier.",
+   "vigilance": [
+    "Opposée à la prospection : contact direct uniquement, pas de mailing.",
+    "Perte de 463 K€ en 2025 et CA presque divisé par deux (3,95 M€ contre 7,26 M€ en 2024) : pas d'intérêt fiscal tant que la société est en perte.",
+    "Nouveau directeur général depuis le 1er avril 2026 : Nicolas Berhault remplace Jean-Pierre Alaux.",
+    "Ne pas reprendre les coordonnées de Vam Drilling France (7 rue des Frères Lumière), autre entité de Cosne."
+   ]
+  }
+ }
+]
