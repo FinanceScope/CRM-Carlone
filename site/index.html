@@ -401,6 +401,8 @@ p.txt{margin:0;max-width:65ch}
 .callbox .tel:hover{color:var(--accent)}
 .cb-l{display:block;font-size:12px;color:var(--muted);font-weight:600}
 .cb-who{font-size:13.5px}
+.peers{display:block;font-size:12.5px;color:var(--muted)}
+.plink{border:0;background:none;padding:0;font:inherit;font-weight:600;color:var(--accent);cursor:pointer;text-align:left;text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere}
 .oppform{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:8px}
 .oppform select{padding:8px 10px;border:1px solid var(--line);border-radius:var(--r-sm);background:var(--bg)}
 .recent .btn{margin-top:8px}
@@ -991,6 +993,12 @@ function callGroups(){
   return [["rdv","Rendez-vous à venir",rdv,"Statut « RDV fixé », par date"],["due","À rappeler aujourd'hui",due,"Rappels prévus aujourd'hui ou en retard"],["todo","Pas encore appelées",todo,vg==="m"?"Deuxième cercle : demander qui décide au siège du groupe":"Cibles des vagues, dans l'ordre d'attaque"],["retry","Sans date de rappel",retry,"Déjà appelées, sans conclusion ni date de rappel"],["later","Prochains rappels",later,"Rappels prévus plus tard"],["nonum","Numéro à trouver",nonum,"Pas de numéro connu : trouver le standard, puis le noter dans la fiche (Tél. / e-mail direct)"]];
 }
 const telLink=t=>{const u=e164(t);return u?`<a class="mono tel" href="tel:${u}">${esc(t)}</a>`:`<span class="mono">${esc(t)}</span>`};
+let TELIX={};   // standard → entreprises qui le partagent (sociétés d'un même groupe, holding et exploitant)
+const peersOf=c=>{const k=e164(c.telephone);return k?(TELIX[k]||[]).filter(o=>o!==c):[]};
+function peersHTML(c){
+  const p=peersOf(c);if(!p.length)return "";
+  return `<span class="peers">Même standard que ${p.map(o=>{const n=callsOf(o).n;return `<button type="button" class="plink" data-open="${o.rang}">${esc(nameOf(o))}</button>${n?` (${n} appel${n>1?"s":""})`:""}`}).join(", ")} : traiter ${p.length>1?"toutes ces sociétés":"les deux sociétés"} dans le même appel.</span>`;
+}
 const copyBtn=(v,what)=>`<button class="copy" type="button" data-copy="${esc(v)}" aria-label="Copier ${esc(what||v)}">copier</button>`;
 const pjLink=c=>`<a class="small" href="https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=${encodeURIComponent(nameOf(c).replace(/\s*\([^)]*\)/g,""))}&ou=${encodeURIComponent(c.ville||"Nièvre")}" target="_blank" rel="noopener">Chercher sur PagesJaunes</a>`;
 function askLine(c){
@@ -1023,7 +1031,7 @@ function callRow(c){
     </div>
     <div class="acol atel">
       ${direct?`<span class="contact">${telLink(direct)}${copyBtn(direct,"la ligne directe")}</span><span class="muted small">ligne directe notée</span>`:""}
-      ${tel?`<span class="contact">${telLink(tel)}${copyBtn(tel,"le numéro")}</span>${c.telephone_a_confirmer?`<span class="muted small">à confirmer</span>`:c.telephone_groupe?`<span class="muted small">standard du groupe : demander le site de la Nièvre</span>`:direct?`<span class="muted small">standard</span>`:""}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
+      ${tel?`<span class="contact">${telLink(tel)}${copyBtn(tel,"le numéro")}</span>${c.telephone_a_confirmer?`<span class="muted small">à confirmer</span>`:c.telephone_groupe?`<span class="muted small">standard du groupe : demander le site de la Nièvre</span>`:direct?`<span class="muted small">standard</span>`:""}${peersHTML(c)}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
     </div>
     <div class="acol astate">
       <span>${cl.last?`<span class="pill ${rcls(cl.last)}">${esc(RLABEL[cl.last]||"")}</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
@@ -1314,7 +1322,7 @@ function renderDetail(force){
   const direct=telIn(s.contact_coord);
   const callbox=`<div class="callbox">
       ${direct?`<div><span class="cb-l">Ligne directe notée</span><span class="contact">${telLink(direct)}${copyBtn(direct,"la ligne directe")}</span></div>`:""}
-      ${c.telephone?`<div><span class="cb-l">${c.telephone_groupe?"Standard du groupe : demander le site de la Nièvre":"Standard"}${c.telephone_a_confirmer?" · numéro à confirmer à l'appel":""}</span><span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span></div>`
+      ${c.telephone?`<div><span class="cb-l">${c.telephone_groupe?"Standard du groupe : demander le site de la Nièvre":"Standard"}${c.telephone_a_confirmer?" · numéro à confirmer à l'appel":""}</span><span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>${peersHTML(c)}</div>`
         :direct?"":`<div><span class="cb-l">Pas de numéro connu</span>${pjLink(c)}</div>`}
       <div class="cb-who">${askLine(c)}</div>
     </div>`;
@@ -1740,7 +1748,7 @@ $("#alist").addEventListener("change",async e=>{const sl=e.target.closest(".ares
   afterLog(c,res,await logResult(c,res,RLABEL[res]));
 });
 $("#alist").addEventListener("focusout",()=>setTimeout(()=>{if(appelsDirty&&!appelsBusy())renderAppels(true)},0));
-$("#detail").addEventListener("click",e=>{if(e.target.closest("[data-sim]")&&byId[sel])simFrom(byId[sel])});
+$("#detail").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o){openFiche(+o.dataset.open,retView);return}if(e.target.closest("[data-sim]")&&byId[sel])simFrom(byId[sel])});
 $("#calcForm").addEventListener("input",renderSim);
 $("#calcForm").addEventListener("submit",e=>e.preventDefault());
 $("#fSort").addEventListener("change",e=>{filt.sort=e.target.value;renderList();try{localStorage.setItem("crm58-sort",filt.sort)}catch(err){}});
@@ -1852,7 +1860,7 @@ function offerLocal(){
   $("#cstatut").insertAdjacentHTML("beforeend",STATUTS.map(s=>`<option value="${s.k}">${s.l}</option>`).join(""));
   const [cj,uj]=await Promise.all([fetch("companies.json").then(r=>r.json()).catch(()=>null),fetch("culture.json").then(r=>r.ok?r.json():null).catch(()=>null)]);
   if(!cj){$("#rows").innerHTML=`<div class="empty">Les fiches n'ont pas pu être chargées. Recharge la page.</div>`;return}
-  allCompanies=cj;allCompanies.forEach(c=>{c.id=c.ext&&c.siren?"s"+c.siren:"r"+c.rang;byId[c.rang]=c});
+  allCompanies=cj;allCompanies.forEach(c=>{c.id=c.ext&&c.siren?"s"+c.siren:"r"+c.rang;byId[c.rang]=c;const k=e164(c.telephone);if(k)(TELIX[k]=TELIX[k]||[]).push(c)});
   try{if(localStorage.getItem("crm58-scope")==="all")scope="all"}catch(e){}
   let startView="plan";
   try{const v=localStorage.getItem("crm58-view");if(VIEWS[v])startView=v}catch(e){}
