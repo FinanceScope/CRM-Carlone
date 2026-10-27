@@ -13,25 +13,47 @@
     "email": null
    }
   ],
-  "note": "Décideurs (27/10/2026, passe DAF) : le titre du profil LinkedIn affiche désormais en toutes lettres « Christine Pouenat - Directrice administrative et financière - TEXTILOT » (poste indiqué de février 2015 à aujourd'hui, Varennes-Vauzelles), mais aucune source datée de 2024 ou après ne le recoupe (recherches sur son nom seul ou avec le titre sans résultat) : maintenue en « probable », à demander au standard. Aucun comptable, contrôleur de gestion ni assistante de direction de Textilot n'est nommé avec un titre (les autres profils LinkedIn rattachés à Textilot n'affichent pas de fonction).",
+  "note": "Décideurs (27/10/2026, passe DAF) : le titre du profil LinkedIn affiche désormais en toutes lettres « Christine Pouenat - Directrice administrative et financière - TEXTILOT » (poste indiqué de février 2015 à aujourd'hui, Varennes-Vauzelles), mais aucune source datée de 2024 ou après ne le recoupe (recherches sur son nom seul ou avec le titre sans résultat) : maintenue en « probable », à demander au standard. Aucun comptable, contrôleur de gestion ni assistante de direction de Textilot n'est nommé avec un titre (les autres profils LinkedIn rattachés à Textilot n'affichent pas de fonction). Vérification : 1 recherche LinkedIn ; le profil de Christine Pouenat ressort toujours avec l'en-tête actuel « Christine Pouenat - TEXTILOT » (Varennes-Vauzelles, relais d'offres d'emploi de Textilot), mais l'extrait n'affiche ni l'intitulé ni de date : aucune preuve de départ, maintenue en « probable » (titre de DAF à faire confirmer au standard) ; aucune coordonnée directe.",
   "recherches": 5
  },
  {
   "siren": "327098364",
   "contacts": [],
-  "note": "Décideurs (27/10/2026, passe DAF) : trois nouvelles recherches (LinkedIn E.Leclerc Coulanges-lès-Nevers / Nevers Dis avec responsable administrative, comptable, RH, contrôleur de gestion ; annuaires B2B de SOC NEVERS DIS et de la holding VANAJEF ; offres d'assistant comptable « rattaché » au RAF) ne nomment aucun responsable financier du centre : Manageo ne donne que Jean-François Mousset sous l'étiquette fonctionnelle « directeur financier » (étiquette d'annuaire, pas un vrai poste), et les offres trouvées concernent d'autres magasins. Décision chez les adhérents Mousset (Nadia Mousset directrice générale de VANAJEF depuis le 01/11/2025 selon Pappers) : demander au standard la personne chargée de la comptabilité.",
+  "note": "Décideurs (27/10/2026, passe DAF) : trois nouvelles recherches (LinkedIn E.Leclerc Coulanges-lès-Nevers / Nevers Dis avec responsable administrative, comptable, RH, contrôleur de gestion ; annuaires B2B de SOC NEVERS DIS et de la holding VANAJEF ; offres d'assistant comptable « rattaché » au RAF) ne nomment aucun responsable financier du centre : Manageo ne donne que Jean-François Mousset sous l'étiquette fonctionnelle « directeur financier » (étiquette d'annuaire, pas un vrai poste), et les offres trouvées concernent d'autres magasins. Décision chez les adhérents Mousset (Nadia Mousset directrice générale de VANAJEF depuis le 01/11/2025 selon Pappers) : demander au standard la personne chargée de la comptabilité. Vérification : relecture sans recherche ; aucune personne retenue, cohérent (Jean-François Mousset écarté à juste titre, son titre de directeur financier n'étant qu'une étiquette Manageo) ; la date du 01/11/2025 pour Nadia Mousset chez VANAJEF n'a pas été revue.",
   "recherches": 3
  },
  {
   "siren": "334898277",
-  "contacts": [],
-  "note": "Décideurs (27/10/2026, passe DAF) : deux nouvelles recherches LinkedIn (nom Grangeot avec Clamecy et des titres comptables ; E.Leclerc Clamecy avec comptable, assistante de direction, RH, responsable administratif, directeur de magasin) ne retrouvent ni Séverine Grangeot ni aucun autre responsable du magasin : elle reste « probable » sur la seule foi de Manageo, sans preuve de départ. Décision chez la présidente Letitia Bellanger : faire confirmer au standard qui tient la comptabilité.",
+  "contacts": [
+   {
+    "nom": "Séverine GRANGEOT",
+    "fonction": "Directeur Financier",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/334898277.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026, passe DAF) : deux nouvelles recherches LinkedIn (nom Grangeot avec Clamecy et des titres comptables ; E.Leclerc Clamecy avec comptable, assistante de direction, RH, responsable administratif, directeur de magasin) ne retrouvent ni Séverine Grangeot ni aucun autre responsable du magasin : elle reste « probable » sur la seule foi de Manageo, sans preuve de départ. Décision chez la présidente Letitia Bellanger : faire confirmer au standard qui tient la comptabilité. Vérification : 1 recherche sur « Séverine Grangeot » seul, sans aucun résultat à ce nom (ni chez E.Leclerc ni ailleurs) : aucune preuve de départ ni d'homonyme, elle est donc remise dans la fiche en « probable », source Manageo seule (annuaire, ne peut pas être confirmée), à faire confirmer au standard.",
   "recherches": 2
  },
  {
   "siren": "507757672",
-  "contacts": [],
-  "note": "Décideurs (27/10/2026, passe DAF) : deux nouvelles recherches (LinkedIn Marcelot / Decize Distribution avec titres comptables, puis « Delphine Marcelot » seul) ne retrouvent pas Delphine Marcelot ni aucun autre responsable comptable du magasin : elle reste « probable » sur la seule foi de Verif, sans preuve de départ. Décision chez le couple Martin : demander à l'accueil le nom de la personne chargée de la comptabilité.",
+  "contacts": [
+   {
+    "nom": "Delphine MARCELOT",
+    "fonction": "Responsable financière",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.verif.com/en/company/DECIZE-DISTRIBUTION-68d9c0551299230338d2cc24/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026, passe DAF) : deux nouvelles recherches (LinkedIn Marcelot / Decize Distribution avec titres comptables, puis « Delphine Marcelot » seul) ne retrouvent pas Delphine Marcelot ni aucun autre responsable comptable du magasin : elle reste « probable » sur la seule foi de Verif, sans preuve de départ. Décision chez le couple Martin : demander à l'accueil le nom de la personne chargée de la comptabilité. Vérification : relecture sans nouvelle recherche (nom déjà cherché seul et avec Leclerc / Decize sans résultat) ; aucune preuve de départ ni d'homonyme, Delphine Marcelot est donc remise dans la fiche en « probable », source Verif seule (annuaire, ne peut pas être confirmée), à faire confirmer à l'accueil.",
   "recherches": 2
  },
  {
@@ -48,7 +70,7 @@
     "email": null
    }
   ],
-  "note": "Décideurs (27/10/2026, passe DAF) : l'annuaire Manageo (données non datées) cite « GOZZY Baptiste » directeur administratif et financier de Nexson Group - Industry, et un profil LinkedIn « Baptiste Gozzi - Nexson-Group » (Fourchambault, sans fonction affichée) confirme qu'il travaille au groupe : retenu en « probable » sous la graphie LinkedIn, à faire confirmer au standard. Il est rattaché au siège de Garchizy, où décide la holding Nexson Corporation ; aucune autre source (communiqués, offres) ne nomme de DAF.",
+  "note": "Décideurs (27/10/2026, passe DAF) : l'annuaire Manageo (données non datées) cite « GOZZY Baptiste » directeur administratif et financier de Nexson Group - Industry, et un profil LinkedIn « Baptiste Gozzi - Nexson-Group » (Fourchambault, sans fonction affichée) confirme qu'il travaille au groupe : retenu en « probable » sous la graphie LinkedIn, à faire confirmer au standard. Il est rattaché au siège de Garchizy, où décide la holding Nexson Corporation ; aucune autre source (communiqués, offres) ne nomme de DAF. Vérification : 2 recherches ; LinkedIn montre toujours « Baptiste Gozzi - Nexson-Group » (Fourchambault, sans intitulé ; un autre profil au même nom est chez Mercedes-Benz France) et une recherche du titre « directeur administratif et financier » avec Nexson / Garchizy / Gozzi ne renvoie rien : le titre de DAF ne repose que sur Manageo (graphie « Gozzy »), d'où le maintien en « probable », sans coordonnée directe, à faire confirmer au standard.",
   "recherches": 5
  }
 ]

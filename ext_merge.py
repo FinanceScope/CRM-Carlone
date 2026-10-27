@@ -799,6 +799,8 @@ for c in base + ext:
 
 # ---- responsables finance, RH et administration (admin_out_*.json : recherche puis contre-vérification, consigne scratch/admin_brief.txt) ----
 ROLES_ADMIN = ('finance', 'rh', 'administratif', 'direction_site')
+ANNUAIRE_B2B = re.compile(r'manageo\.fr|verif\.com|societe\.com|societeinfo|kompass\.com|corporama', re.I)
+ETIQUETTE_DIRIGEANT = re.compile(r'fonctionnel|au registre|président du directoire|société sœur', re.I)
 ADMIN = {}
 for f in sorted(glob.glob(EXT + '/admin_out_*.json')):
     try: data = json.load(open(f, encoding='utf-8'))
@@ -808,7 +810,7 @@ for f in sorted(glob.glob(EXT + '/admin_out_*.json')):
         if not k: continue
         a = ADMIN.setdefault(k, {'contacts': {}, 'notes': []})
         for p in e.get('contacts') or []:   # une passe plus récente remplace la fiche de la même personne
-            if isinstance(p, dict) and p.get('nom') and p.get('role') in ROLES_ADMIN and p.get('source'): a['contacts'][norm(p['nom'])] = p
+            if isinstance(p, dict) and p.get('nom') and p.get('role') in ROLES_ADMIN and p.get('source'): a['contacts'][norm(re.sub(r'\(.*?\)', '', p['nom']))] = p   # « Alexa (nom non affiché) » = « Alexa (nom de famille non affiché) »
         if e.get('note') and e['note'] not in a['notes']: a['notes'].append(str(e['note']).strip())
 n_adm = Counter()
 for c in base + ext:
@@ -820,6 +822,8 @@ for c in base + ext:
     lst = []
     for p in a['contacts'].values():
         if norm(p['nom']) in connus and p['role'] == 'direction_site': continue   # déjà affiché comme dirigeant
+        if ANNUAIRE_B2B.search(p.get('source') or '') and (norm(p['nom']) in connus or ETIQUETTE_DIRIGEANT.search(p.get('fonction') or '')):
+            n_adm['étiquettes d\'annuaire écartées'] += 1; continue   # dirigeant du registre étiqueté « directeur financier » ou « DRH » par Manageo / Verif : pas un vrai poste (passe DAF)
         q = {kk: p.get(kk) for kk in ('nom', 'fonction', 'role', 'fiabilite', 'source', 'linkedin')}
         q['tel_direct'] = clean_tel(p.get('tel_direct')) if p.get('tel_direct') else None
         q['email'] = (p.get('email') or '').strip() or None

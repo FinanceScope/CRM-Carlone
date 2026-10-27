@@ -13,19 +13,8 @@
  },
  {
   "siren": "444611933",
-  "contacts": [
-   {
-    "nom": "Samuel (nom non affiché)",
-    "fonction": "Directeur de restaurant",
-    "role": "direction_site",
-    "fiabilite": "probable",
-    "source": "https://www.mcdonalds-recrute.fr/nos-restaurants/cosne-sur-loire/",
-    "linkedin": null,
-    "tel_direct": null,
-    "email": null
-   }
-  ],
-  "note": "Décideurs (27/10/2026) : seul un « Samuel, Directeur de restaurant » apparaît, en témoignage sur la page recrutement du McDonald's de Cosne (mcdonalds-recrute.fr), peut-être un contenu générique de l'enseigne ; aucune source ne cite Yannick Andrieux ni de comptable (3 recherches : directeur/franchisé, SIREN + Andrieux, presse en mode étendu). Décision chez le franchisé, gérant Yannick Andrieux ; à noter, la page officielle mcdonalds.fr du restaurant affiche le 03 71 55 00 82 et non le 03 71 55 00 56.",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun directeur de restaurant, franchisé ni comptable nommé en 3 recherches (directeur/franchisé, SIREN + Andrieux, presse en mode étendu) ; aucune source ne cite Yannick Andrieux. Décision chez le franchisé, gérant Yannick Andrieux ; à noter, la page recrutement officielle du restaurant (mcdonalds-recrute.fr) affiche le 03 71 55 00 82 et non le 03 71 55 00 56. Vérification : « Samuel, Directeur de restaurant » (témoignage sans nom de famille sur la page recrutement de Cosne) retiré : 2 recherches montrent le même témoignage « Samuel, Directeur de restaurant » sur au moins dix autres pages restaurants de mcdonalds-recrute.fr (Somain, Provins, Saumur, Ussel, Canteleu…), contenu générique de l'enseigne et non le directeur du McDonald's de Cosne.",
   "recherches": 3
  },
  {
@@ -48,7 +37,7 @@
     "email": null
    }
   ],
-  "note": "Décideurs (27/10/2026) : Verif.com cite Mme Dominique Lutinier comme « Responsable Financier » de CVL (donnée d'annuaire non datée, à confirmer au standard) et Pascal Cormier, ancien gérant, comme directeur des achats ; LinkedIn et le site cvloire58.fr ne nomment personne d'autre (3 recherches). Décision sur place par le gérant Sébastien Cormier, avec Mme Lutinier pour le règlement.",
+  "note": "Décideurs (27/10/2026) : Verif.com cite Dominique Lutinier comme « Responsable Financier » de CVL (donnée d'annuaire non datée, à confirmer au standard) et Pascal Cormier, ancien gérant, comme directeur des achats ; LinkedIn et le site cvloire58.fr ne nomment personne d'autre (3 recherches). Décision sur place par le gérant Sébastien Cormier, avec D. Lutinier pour le règlement. Vérification : 2 recherches (nom + Constructions du Val de Loire/Cosne, puis LinkedIn et annuaires) : Manageo (https://www.manageo.fr/entreprises/394518096.html) liste aussi « LUTINIER Dominique » comme Responsable Financier et Responsable Ressources Humaines de la société, sans date ; aucun profil LinkedIn, site ou article ne confirme le poste actuel. Source d'annuaire seulement : maintenu en « probable », à confirmer au standard.",
   "recherches": 3
  },
  {
