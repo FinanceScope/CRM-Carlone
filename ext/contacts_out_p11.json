@@ -1,0 +1,108 @@
+[
+ {
+  "siren": "502997745",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : société très probablement identique à la « SEM Patrimoniale de la Nièvre » (annuaire des EPL, https://www.lesepl.fr/annuaire-entreprises-publiques-locales/sem-patrimoniale-de-la-nievre/), hébergée avec Nièvre Aménagement au 11 rue Bovet à Nevers et partageant son standard selon https://www.lafabriquemploi.fr/nievre-amenagement-investit-de-nouveaux-locaux/ ; le numéro lui-même n'apparaît pas dans les extraits. Passer par le standard de Nièvre Aménagement reste la piste.",
+  "recherches": 2
+ },
+ {
+  "siren": "882956204",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : aucun numéro pour la holding ; piste non confirmée : Emmanuelle Paillé (née en 1984) aurait exercé comme greffière de tribunal de commerce (SELARL Emmanuelle Paillé radiée en 2021, article https://forumeco.fr/apres-40-ans-le-greffe-du-tribunal-de-commerce-change-de-main/). Le numéro d'un greffe appartiendrait à une autre entité, donc non retenu.",
+  "recherches": 2
+ },
+ {
+  "siren": "830768529",
+  "standard": {
+   "tel": "03 86 39 31 75",
+   "source": "https://www.pagesjaunes.fr/pros/57357840",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : 03 86 39 31 75 est le numéro du magasin Coccimarket de Donzy (46 rue du Général Leclerc), donné par PagesJaunes et repris par la liste des commerçants de la commune (https://www.donzy.fr/commercants/) et d'autres annuaires.",
+  "recherches": 2
+ },
+ {
+  "siren": "383622479",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : la société figure dans les annuaires sous « Gomès SA » (métallurgie, chaudronnerie, maintenance), notamment sur PagesJaunes (https://www.pagesjaunes.fr/pros/00931978, au 13 rue des Grands Prés), mais le numéro n'apparaît pas dans les extraits. Pas de site propre trouvé.",
+  "recherches": 2
+ },
+ {
+  "siren": "511672032",
+  "standard": {
+   "tel": "03 86 61 31 46",
+   "source": "https://www.frenchbookdistribution.com/fr/5/contact.html",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "info@frenchbookdistribution.com",
+   "source": "https://www.frenchbookdistribution.com/"
+  },
+  "site_web": "https://www.frenchbookdistribution.com/",
+  "note": "Deuxième passe (27/10/2026) : 03 86 61 31 46 (donné au format +33 3 86 61 31 46) est le numéro du bureau de French Book Distribution, distributeur de livres français spécialisé à l'export, au 22 rue Antony Duvivier à Nevers, sur son site frenchbookdistribution.com. Un annuaire de librairies associe aussi le nom de Régis Terrier à cette adresse. Vérification : numéro confirmé sur les pages contact du site de la société (Tel +33 3 86 61 31 46, 22 rue Antony Duvivier, Nevers), qui publie aussi l'adresse générique info@frenchbookdistribution.com (page exacte non identifiée) ; fiabilité officielle maintenue.",
+  "recherches": 2
+ },
+ {
+  "siren": "320926249",
+  "standard": {
+   "tel": "03 86 26 02 15",
+   "source": "https://www.pagesjaunes.fr/pros/05609925",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.moulurebillebault.fr/",
+  "note": "Deuxième passe (27/10/2026) : 03 86 26 02 15 est le numéro de l'atelier de moulures « Billebault ETS » au 1 rue Jolin à La Celle-sur-Loire, relevé dans les annuaires (PagesJaunes, Kompass, 118712) et à confirmer sur le site moulurebillebault.fr. Opposition à la prospection : seules des coordonnées d'entreprise sont retenues. Vérification : non recherchée faute de budget ; nom, adresse et commune concordent avec le registre, fiabilité annuaire maintenue et standard d'entreprise conservé malgré l'opposition à la prospection.",
+  "recherches": 2
+ },
+ {
+  "siren": "802750471",
+  "standard": {
+   "tel": "03 86 37 84 17",
+   "source": "https://www.luneo-opticiens.fr/contact/",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "luneonevers@hotmail.com",
+   "source": "https://www.luneo-opticiens.fr/contact/"
+  },
+  "site_web": "https://www.luneo-opticiens.fr/",
+  "note": "Deuxième passe (27/10/2026) : 03 86 37 84 17 est le numéro du magasin Lunéo Opticiens (ex-Générale d'Optique), rue Henri Bouquillard à Varennes-Vauzelles. Le rattachement à OPADE est déduit du code NAF 47.78A (optique) et de l'adresse, sans mention légale qui le confirme. Vérification : numéro confirmé sur la page contact du site Lunéo (rue Henri Bouquillard, Varennes-Vauzelles) et rattachement à OPADE étayé, la page « À propos » nommant Laurent Pacaud, gérant d'OPADE au registre, comme gérant du magasin ; fiabilité officielle et adresse e-mail publiée par le magasin maintenues.",
+  "recherches": 2
+ },
+ {
+  "siren": "952338515",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : la fiche PagesJaunes « Nivernais Bâtiment Construction » (maçonnerie, 11 rue des Chailloux, https://www.pagesjaunes.fr/pros/63452925) affiche un numéro de portable, non visible dans les extraits. Aucun site trouvé ; une autre société Keskin (commerce automobile) est domiciliée à la même adresse.",
+  "recherches": 2
+ },
+ {
+  "siren": "419212816",
+  "standard": {
+   "tel": "03 86 38 67 72",
+   "source": "https://www.pagesjaunes.fr/pros/06837215",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": "https://www.facebook.com/proximarchechantenaysaintimbert/",
+  "note": "Deuxième passe (27/10/2026) : 03 86 38 67 72 est le numéro du magasin Proximarché (fiche PagesJaunes « C P Proximarché SARL », place de l'Église à Chantenay-Saint-Imbert), distinct de celui de la pharmacie (03 86 38 64 00). La commune a aussi une page sur le magasin (https://ville-chantenay-saint-imbert.fr/proximarche/).",
+  "recherches": 2
+ },
+ {
+  "siren": "491233797",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "note": "Deuxième passe (27/10/2026) : SOTEC est aussi cuisiniste et salles de bains (site sotec-salledebain-cuisine.fr, page contact https://www.sotec-salledebain-cuisine.fr/contact, présentée à Nevers), mais le numéro n'apparaît pas dans les extraits. Ne pas confondre avec Christophe Tardivat, particulier au 13 rue Badelle. Vérification : site retiré de site_web car présenté à Nevers et non à Saint-Benin-d'Azy, sans élément le rattachant à Jérôme Tardivat ; piste https://www.sotec-salledebain-cuisine.fr/ à confirmer.",
+  "recherches": 2
+ }
+]

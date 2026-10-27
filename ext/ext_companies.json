@@ -10040,7 +10040,10 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "3 recherches sans résultat (le nom est noyé par des résultats « Super Mario »). Aucun numéro ni site trouvé. Dirigeant repris du registre (deja), non confirmé par une source récente.",
+"note_contacts": "3 recherches sans résultat (le nom est noyé par des résultats « Super Mario »). Aucun numéro ni site trouvé. Dirigeant repris du registre (deja), non confirmé par une source récente. Deuxième passe (27/10/2026) : l'entreprise (maçonnerie, gros œuvre, TP, centrale béton, enseigne « Mario et Longo », site marioetlongo.fr / marioetlongo.com) a pour numéro 03 86 68 12 85, donné par la recherche avec le site et les annuaires sans que la page exacte soit visible, d'où la fiabilité « annuaire » par prudence. Un autre numéro, 03 86 68 19 20, figure sur annuaire-inverse-france.com (fiche « MARIO ET LONGO SARL », ancienne forme juridique) : à essayer en second. Vérification : relue sans recherche (déjà en « annuaire », sans doute de nom ni de commune) ; données cohérentes avec la note.",
+"telephone": "03 86 68 12 85",
+"telephone_a_confirmer": true,
+"site_web": "https://www.marioetlongo.fr/",
 "contact_finance": {
 "nom": "Nicolas BARATHON",
 "fonction": "Président",
@@ -10058,7 +10061,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/entreprise-mario-longo-701880023"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -10102,7 +10104,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun numéro trouvé en 3 recherches. Mappy cite « SAS RF Elec, 47 bis rue Henri Bouquillard, 58000 Nevers » (simple suggestion de proximité sur https://fr.mappy.com/poi/60b8d1a4f83b3f0ba2f38e57), adresse différente du siège au registre (7 rue Jacques Monod, Varennes-Vauzelles) : probablement ancienne adresse ou autre local, à vérifier. Dirigeant repris du registre (deja).",
+"note_contacts": "Aucun numéro trouvé en 3 recherches. Mappy cite « SAS RF Elec, 47 bis rue Henri Bouquillard, 58000 Nevers » (simple suggestion de proximité sur https://fr.mappy.com/poi/60b8d1a4f83b3f0ba2f38e57), adresse différente du siège au registre (7 rue Jacques Monod, Varennes-Vauzelles) : probablement ancienne adresse ou autre local, à vérifier. Dirigeant repris du registre (deja). Deuxième passe (27/10/2026) : numéro de contact publié par l'entreprise sur son site rfelec.fr (électricité tertiaire et industrielle, adresse de Varennes-Vauzelles) ; c'est un portable, mais présenté comme le numéro de l'entreprise. L'ancien établissement de Nevers (rue Henri Bouquillard) est fermé depuis novembre 2024 selon societe.com. Vérification : confirmé par recherche, rfelec.fr publie le 06 99 15 87 13 avec l'adresse 7 rue Jacques Monod à Varennes-Vauzelles, comme numéro de l'entreprise et non comme portable privé ; Pages Jaunes et tel.fr donnent aussi un fixe à la même adresse, 03 86 70 22 78, non vu sur le site (à essayer en second).",
+"telephone": "06 99 15 87 13",
+"site_web": "https://rfelec.fr/",
 "contact_finance": {
 "nom": "Redouane FRIFRA",
 "fonction": "Gérant",
@@ -10120,7 +10124,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/rf-elec-842208597"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -10168,7 +10171,9 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
 "contacts_ok": true,
-"note_contacts": "3 recherches sans résultat sur l'entreprise (seul le numéro de la mairie de Saint-Martin-d'Heuille ressort, non retenu). Dirigeants repris du registre (deja), non confirmés par une source récente.",
+"note_contacts": "3 recherches sans résultat sur l'entreprise (seul le numéro de la mairie de Saint-Martin-d'Heuille ressort, non retenu). Dirigeants repris du registre (deja), non confirmés par une source récente. Deuxième passe (27/10/2026) : standard de l'atelier (chaudronnerie, mécano-soudure, serrurerie industrielle) au 2 route de Nevers, publié sur le site sasvannier.fr et repris par Pages Jaunes (fiche « Vannier SAS Saint Martin d'Heuille »). Vérification : non revérifiée par recherche faute de budget ; site au nom de la société et adresse identique au registre, « officielle » maintenue.",
+"telephone": "03 86 38 56 06",
+"site_web": "https://www.sasvannier.fr/",
 "contact_finance": {
 "nom": "Chryss VANNIER",
 "fonction": "Président",
@@ -10195,7 +10200,6 @@
 "source": "https://www.pappers.fr/entreprise/sas-vannier-392638243"
 }
 ],
-"telephone": null,
 "email": null
 },
 {
@@ -10239,7 +10243,10 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Avipur est un réseau national de sociétés de dératisation / désinsectisation / dépigeonnisation / hygiène du bâtiment (une trentaine de filiales régionales selon https://www.lejournaldesentreprises.com/article/nord-pas-de-calais-avipur-publie-ses-resultats-105879, article de 2014-2015). Aucune fiche ni numéro trouvés pour l'entité de Varennes-Vauzelles en 3 recherches. Dirigeant repris du registre (deja).",
+"note_contacts": "Avipur est un réseau national de sociétés de dératisation / désinsectisation / dépigeonnisation / hygiène du bâtiment (une trentaine de filiales régionales selon https://www.lejournaldesentreprises.com/article/nord-pas-de-calais-avipur-publie-ses-resultats-105879, article de 2014-2015). Aucune fiche ni numéro trouvés pour l'entité de Varennes-Vauzelles en 3 recherches. Dirigeant repris du registre (deja). Deuxième passe (27/10/2026) : numéro de l'agence Avipur de la Nièvre (dératisation, désinsectisation), associé au siège du 24 rue du Bengy à Varennes-Vauzelles par insectes-de-france.fr et donné aussi pour « Avipur Centre Est », 13 rue du Moulin d'Écorce à Nevers (guepes.fr, allo-reparateurs.fr). Annuaires seulement ; avipur.com est le site du réseau national, cité par un annuaire. Vérification : non revérifiée par recherche faute de budget ; déjà en « annuaire », le rattachement du numéro à l'entité de Varennes-Vauzelles plutôt qu'à « Avipur Centre Est » (Nevers) reste à confirmer à l'appel.",
+"telephone": "03 86 61 94 48",
+"telephone_a_confirmer": true,
+"site_web": "https://www.avipur.com",
 "contact_finance": {
 "nom": "Alexandre LEFEVRE",
 "fonction": "Gérant",
@@ -10257,7 +10264,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/avipur-505017194"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -10301,7 +10307,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Le magasin exploité semble être « Les Experts Meubles Lecreux Clamecy » (enseigne Les Experts Meubles, réseau de magasins franchisés), au lieu-dit La Galette, route de Pressures (fiche 118000 : https://www.118000.fr/e_C0072544906). Rattachement à la société déduit de l'adresse identique (La Galette, Clamecy), non confirmé. Aucun numéro visible dans les extraits (118000, Tiendeo). Tiendeo indique une autre adresse, 8 route d'Orléans à Clamecy (https://www.tiendeo.fr/Magasins/clamecy/les-experts-meubles-route-d-orleans/145942), probablement ancienne. Dirigeant repris du registre (deja).",
+"note_contacts": "Le magasin exploité semble être « Les Experts Meubles Lecreux Clamecy » (enseigne Les Experts Meubles, réseau de magasins franchisés), au lieu-dit La Galette, route de Pressures (fiche 118000 : https://www.118000.fr/e_C0072544906). Rattachement à la société déduit de l'adresse identique (La Galette, Clamecy), non confirmé. Aucun numéro visible dans les extraits (118000, Tiendeo). Tiendeo indique une autre adresse, 8 route d'Orléans à Clamecy (https://www.tiendeo.fr/Magasins/clamecy/les-experts-meubles-route-d-orleans/145942), probablement ancienne. Dirigeant repris du registre (deja). Deuxième passe (27/10/2026) : numéro du magasin « Les Experts Meubles Lecreux » de Clamecy, publié sur la page officielle du magasin dans le réseau Les Experts Meubles (72 route de Pressures) et identique dans les annuaires (Pages Jaunes : lieu-dit La Galette). Rattachement à la société déduit de l'adresse La Galette, non confirmé par SIREN. Vérification : rattachement du magasin à la société seulement déduit de l'adresse La Galette, le numéro est publié pour l'enseigne et non sous le nom de la société : fiabilité ramenée de « officielle » à « annuaire ».",
+"telephone": "03 86 27 07 05",
+"telephone_a_confirmer": true,
+"site_web": "https://lecreux.lesexpertsmeubles.fr/",
 "contact_finance": {
 "nom": "Philippe Adolphe Armand ROH",
 "fonction": "Président",
@@ -10319,7 +10328,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/societe-clamecycoise-dameublement-323448175"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -10483,8 +10491,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Filiale (SAS) de l'association ADAPEI de la Nièvre, dont le siège est à la même adresse (120 route de Beauregard, 58130 Urzy : IME, ESAT, foyer de vie, MAS, FAM) selon https://www.pour-les-personnes-agees.gouv.fr/annuaire-association-parents-usagers-familles-soutien/nievre-58. Cet annuaire n'affiche qu'un numéro de portable pour l'association, non retenu (pas un standard, peut être personnel). Aucun dirigeant au registre (deja vide) et aucun DAF / directeur général de l'ADAPEI de la Nièvre trouvé en 3 recherches. Site officiel non confirmé dans les résultats.",
-"telephone": null,
+"note_contacts": "Filiale (SAS) de l'association ADAPEI de la Nièvre, dont le siège est à la même adresse (120 route de Beauregard, 58130 Urzy : IME, ESAT, foyer de vie, MAS, FAM) selon https://www.pour-les-personnes-agees.gouv.fr/annuaire-association-parents-usagers-familles-soutien/nievre-58. Cet annuaire n'affiche qu'un numéro de portable pour l'association, non retenu (pas un standard, peut être personnel). Aucun dirigeant au registre (deja vide) et aucun DAF / directeur général de l'ADAPEI de la Nièvre trouvé en 3 recherches. Site officiel non confirmé dans les résultats. Deuxième passe (27/10/2026) : standard du siège de l'Adapei de la Nièvre, 120 route de Beauregard à Urzy (site adapei58.org et annuaires), où la SAS est domiciliée (fiche Pages Jaunes « Adapei58 Sas Urzy ») : ce n'est pas une ligne propre à la SAS. Les mentions légales du site donnent un autre numéro pour la même adresse, 03 76 15 00 38. Vérification : numéro publié pour l'association Adapei de la Nièvre et non pour la SAS (entité distincte domiciliée à la même adresse) : fiabilité ramenée de « officielle » à « annuaire » ; non revérifié par recherche faute de budget.",
+"telephone": "03 86 93 07 77",
+"telephone_a_confirmer": true,
+"site_web": "https://www.adapei58.org/",
 "email": null
 },
 {
@@ -10686,7 +10696,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)",
 "contacts_ok": true,
-"note_contacts": "Les deux cogérants apparaissent comme chirurgiens-dentistes à Nevers dans l'annuaire keskeces (https://www.keskeces.com/dentiste/58000-marzy.html) : ESSIAN est probablement leur structure d'exercice dentaire. Aucun numéro trouvé en 3 recherches (un « cabinet dentaire » est référencé au 10 rue André Lhote sur acceslibre, sans nom de praticien, rattachement non confirmé). Ordre des cogérants arbitraire ; dirigeants repris du registre (deja).",
+"note_contacts": "Les deux cogérants apparaissent comme chirurgiens-dentistes à Nevers dans l'annuaire keskeces (https://www.keskeces.com/dentiste/58000-marzy.html) : ESSIAN est probablement leur structure d'exercice dentaire. Aucun numéro trouvé en 3 recherches (un « cabinet dentaire » est référencé au 10 rue André Lhote sur acceslibre, sans nom de praticien, rattachement non confirmé). Ordre des cogérants arbitraire ; dirigeants repris du registre (deja). Deuxième passe (27/10/2026) : secrétariat du « Cabinet dentaire des Ducs », 8 rue André Lhote à Nevers, où exercent les deux cogérants (Dr Sophie Collomb, Dr Laurent Péleyras) : nom commercial probable d'ESSIAN. Ligne de prise de rendez-vous des patients ; certains annuaires gardent l'ancienne adresse 5 rue de la Parcheminerie avec le même numéro. Vérification : une recherche sans résultat sur le « Cabinet dentaire des Ducs » ; le nom commercial n'étant que probable, fiabilité ramenée de « officielle » à « annuaire ».",
+"telephone": "03 86 36 03 78",
+"telephone_a_confirmer": true,
+"site_web": "https://www.cabinet-dentaire-des-ducs.fr/",
 "contact_finance": {
 "nom": "Laurent PELEYRAS",
 "fonction": "Gérant (cogérant avec Sophie COLLOMB)",
@@ -10713,7 +10726,6 @@
 "source": "https://www.pappers.fr/entreprise/essian-889322970"
 }
 ],
-"telephone": null,
 "email": null
 },
 {
@@ -11143,7 +11155,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Entreprise listée sur Obat (https://travaux.obat.fr/menuiserie/nievre : MENUISERIE PINO, La Charité-sur-Loire, menuisier / charpentier / ébéniste) mais sans coordonnées. Aucun numéro trouvé en 3 recherches. Dirigeant repris du registre (deja).",
+"note_contacts": "Entreprise listée sur Obat (https://travaux.obat.fr/menuiserie/nievre : MENUISERIE PINO, La Charité-sur-Loire, menuisier / charpentier / ébéniste) mais sans coordonnées. Aucun numéro trouvé en 3 recherches. Dirigeant repris du registre (deja). Deuxième passe (27/10/2026) : numéro de l'entreprise (menuiserie bois, PVC, alu, 62 rue de Gérigny) sur Pages Jaunes et 118712 ; l'entreprise a un site, menuiserie-pino.fr (page contact), mais le numéro n'a pas été vu directement dessus. Vérification : relue sans recherche (déjà en « annuaire », sans doute de nom ni de commune) ; données cohérentes avec la note.",
+"telephone": "03 86 70 17 42",
+"telephone_a_confirmer": true,
+"site_web": "https://www.menuiserie-pino.fr/",
 "contact_finance": {
 "nom": "Olivier PINO MARTINEZ",
 "fonction": "Gérant",
@@ -11161,7 +11176,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/menuiserie-pino-495186884"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -11251,7 +11265,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "3 recherches sans résultat (ni le nom, ni le gérant, ni le 113 avenue de Verdun à Decize n'apparaissent). Société récente sans salarié. Dirigeant repris du registre (deja).",
+"note_contacts": "3 recherches sans résultat (ni le nom, ni le gérant, ni le 113 avenue de Verdun à Decize n'apparaissent). Société récente sans salarié. Dirigeant repris du registre (deja). Deuxième passe (27/10/2026) : ligne fixe de « SSP » (véhicules, préparation de rallye) avenue de Verdun à Decize, sur la page contact du site ssp-vehicules.com et sur Pages Jaunes (« Service Sport Promotion », 113 avenue de Verdun). Attention : une autre société du même nom (SIREN 450117288, président Michel Saumet, 117 T avenue de Verdun, vente de véhicules) existe à côté, le numéro est donc probablement partagé entre les deux sociétés de la famille Saumet. Vérification : deux recherches sans résultat ; le site ssp-vehicules.com (vente de véhicules) relève plus probablement de l'homonyme SIREN 450117288, seule la fiche Pages Jaunes au 113 avenue de Verdun relie le numéro à cette société : fiabilité ramenée de « officielle » à « annuaire ».",
+"telephone": "03 86 77 14 27",
+"telephone_a_confirmer": true,
+"site_web": "https://ssp-vehicules.com/",
 "contact_finance": {
 "nom": "Julien Frederic SAUMET",
 "fonction": "Gérant",
@@ -11269,7 +11286,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/ssp-service-sport-promotion-920839941"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -11313,7 +11329,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Exploite l'agence « Pompes Funèbres Martin », 25 rue Gambetta, Fourchambault (fiche 118000 : https://www.118000.fr/v_fourchambault_58/c_pompes-funebres-inhumation-et-cremation, numéro non visible dans l'extrait ; permanence 24h/24 annoncée). Président au registre : la société POMPES FUNEBRES CATON (agences à Prémery, Donzy, La Charité-sur-Loire, Cosne). M. Pascal Caton est cité comme président de Pompes Funèbres Caton dans un arrêté de la préfecture du Cher (2021, établissement d'Argent-sur-Sauldre) et comme responsable dans le Loiret : identité de la société non vérifiée par SIREN.",
+"note_contacts": "Exploite l'agence « Pompes Funèbres Martin », 25 rue Gambetta, Fourchambault (fiche 118000 : https://www.118000.fr/v_fourchambault_58/c_pompes-funebres-inhumation-et-cremation, numéro non visible dans l'extrait ; permanence 24h/24 annoncée). Président au registre : la société POMPES FUNEBRES CATON (agences à Prémery, Donzy, La Charité-sur-Loire, Cosne). M. Pascal Caton est cité comme président de Pompes Funèbres Caton dans un arrêté de la préfecture du Cher (2021, établissement d'Argent-sur-Sauldre) et comme responsable dans le Loiret : identité de la société non vérifiée par SIREN. Deuxième passe (27/10/2026) : numéro de l'agence « Pompes Funèbres Martin », 25 rue Gambetta à Fourchambault, sur la page de l'agence du réseau Pompes Funèbres Caton (sa présidente) et sur Pages Jaunes. Non retenus : le 03 74 11 55 61 d'un site « etablissementmartin-pompes-funebres-prive.com » dont l'appartenance n'est pas confirmée, et le 09 72 28 92 81, ancien (Comitam). Vérification : non revérifiée par recherche faute de budget ; page de l'agence sur le site du réseau de sa société présidente, à l'adresse exacte du registre, « officielle » maintenue.",
+"telephone": "03 86 58 90 32",
+"site_web": "https://pompes-funebres-caton.fr/nos-agences/nievre/fourchambault/68-pompes-funebres-martin-fourchambault/",
 "contact_finance": {
 "nom": "Pascal CATON",
 "fonction": "Président de la société Pompes Funèbres Caton (elle-même présidente d'ETS MARTIN SAS) - rattachement probable, à confirmer",
@@ -11331,7 +11349,6 @@
 "linkedin": null,
 "source": "https://www.cher.gouv.fr/contenu/telechargement/29897/200160/file/recueil-18-2021-07-006-recueil-des-actes-administratifs-special.pdf"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -11440,7 +11457,10 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
 "contacts_ok": true,
-"note_contacts": "3 recherches (ITI Communication / ITI Conseil / Jacques Ansault) sans résultat exploitable : aucun numéro, site ni email trouvé pour JABA PRODUCTION (enseigne ITI Communication - ITI Conseil). Une fiche La Fabrique du Net 'Agence iti Conseil' existe mais sans coordonnées. Dirigeant d'après le registre uniquement (non recoupé par une source récente).",
+"note_contacts": "3 recherches (ITI Communication / ITI Conseil / Jacques Ansault) sans résultat exploitable : aucun numéro, site ni email trouvé pour JABA PRODUCTION (enseigne ITI Communication - ITI Conseil). Une fiche La Fabrique du Net 'Agence iti Conseil' existe mais sans coordonnées. Dirigeant d'après le registre uniquement (non recoupé par une source récente). Deuxième passe (27/10/2026) : 03 86 61 56 52 = standard de l'agence de communication itiConseil (enseigne de JABA PRODUCTION, 12 avenue Marceau, Nevers ; fondée par Jacques Ansault), relevé dans des annuaires (guide Stratégies, fiche PagesJaunes ITI CONSEIL Nevers), site iti-conseil.com. Seule adresse vue : ja@iti-conseil.com, nominative (Jacques Ansault), donc non retenue comme email générique. Vérification : numéro confirmé pour itiConseil, 12 avenue Marceau à Nevers, par PagesJaunes (SIRET 412 611 550 00044, autre nom JABA PRODUCTION), Cylex, Bottin et la page Facebook de l'agence ; le site iti-conseil.com l'afficherait aussi d'après les extraits (non vu directement, fiabilité laissée « annuaire ») ; le 06 07 27 72 72 de Cylex (mobile) et le 03 86 61 98 03 de Koikispass (autre activité à la même adresse) ne sont pas retenus.",
+"telephone": "03 86 61 56 52",
+"telephone_a_confirmer": true,
+"site_web": "https://www.iti-conseil.com",
 "contact_finance": {
 "nom": "Jacques Ansault",
 "fonction": "Gérant",
@@ -11458,7 +11478,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/jaba-production-412611550"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -11905,7 +11924,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Société de projet sans salarié (0 salarié) créée par le groupement WEYA - VEOLIA pour construire et exploiter le réseau de chaleur de Cosne-Cours-sur-Loire (DSP de 2015). Pas de standard propre trouvé : le contact passe par Weya / groupe EO2 (pas de numéro trouvé dans les extraits). Anciens présidents : François Clairouin, Pierre Baux.",
+"note_contacts": "Société de projet sans salarié (0 salarié) créée par le groupement WEYA - VEOLIA pour construire et exploiter le réseau de chaleur de Cosne-Cours-sur-Loire (DSP de 2015). Pas de standard propre trouvé : le contact passe par Weya / groupe EO2 (pas de numéro trouvé dans les extraits). Anciens présidents : François Clairouin, Pierre Baux. Deuxième passe (27/10/2026) : aucun numéro propre à C3L (société de projet sans salarié, détenue à 80 % par Weya avec Veolia, exploitant la chaufferie biomasse inaugurée en 2018) ; le 03 86 26 36 48 vu en recherche est celui du maître d'œuvre Arch'cade, pas de C3L. Contact à passer par Weya ou par la mairie de Cosne (délégant).",
 "contact_finance": {
 "nom": "WEYA (personne morale)",
 "fonction": "Président (depuis le 08/06/2023) ; Weya est une filiale du groupe EO2",
@@ -12745,7 +12764,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Filiale du groupe allemand Evertz (Evertz Europe SA) : centre de service de meulage / découpe / contrôle de produits sidérurgiques (2 000 m2) ouvert en juillet 2022 à La Croix de Criens, Billy-Chevannes (siège auparavant à Imphy). Aucun numéro propre au site français trouvé ; seul le standard du groupe en Allemagne est publié (+49 212 22 311 0, https://www.evertz-group.com/contact). L'email info@ est celui du groupe, pas du site. Pas de financier local identifié (1 à 8 salariés selon les sources) : la fonction finance relève probablement du groupe.",
+"note_contacts": "Filiale du groupe allemand Evertz (Evertz Europe SA) : centre de service de meulage / découpe / contrôle de produits sidérurgiques (2 000 m2) ouvert en juillet 2022 à La Croix de Criens, Billy-Chevannes (siège auparavant à Imphy). Aucun numéro propre au site français trouvé ; seul le standard du groupe en Allemagne est publié (+49 212 22 311 0, https://www.evertz-group.com/contact). L'email info@ est celui du groupe, pas du site. Pas de financier local identifié (1 à 8 salariés selon les sources) : la fonction finance relève probablement du groupe. Deuxième passe (27/10/2026) : aucun numéro publié pour le site de Billy-Chevannes (Croix de Criens) : seules des fiches registre et Kompass apparaissent, et une fiche e-pro à l'ancienne adresse d'Imphy (établissement fermé). Seul contact connu : le standard du groupe en Allemagne (+49 212 22 311 0).",
 "email": "info@evertz-group.com",
 "site_web": "https://www.evertz-group.com/",
 "contact_finance": {
@@ -12880,7 +12899,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Société immobilière sans salarié (0 salarié), présidée par la holding LA LICORNE (même adresse, 2 chemin de la Garde, Saint-Aubin-des-Chaumes). Aucun numéro, site ou email trouvé. Divergence d'adresse : Pappers et PagesJaunes (https://www.pagesjaunes.fr/siret/92000604600014) mentionnent aussi le 27 rue Leforestier à L'Haÿ-les-Roses (94) (ancien siège ou établissement secondaire). Un homonyme suisse (Genève) apparaît en recherche mais aucun lien n'est établi.",
+"note_contacts": "Société immobilière sans salarié (0 salarié), présidée par la holding LA LICORNE (même adresse, 2 chemin de la Garde, Saint-Aubin-des-Chaumes). Aucun numéro, site ou email trouvé. Divergence d'adresse : Pappers et PagesJaunes (https://www.pagesjaunes.fr/siret/92000604600014) mentionnent aussi le 27 rue Leforestier à L'Haÿ-les-Roses (94) (ancien siège ou établissement secondaire). Un homonyme suisse (Genève) apparaît en recherche mais aucun lien n'est établi. Deuxième passe (27/10/2026) : aucun numéro, site ni email pour AXENCE (marchand de biens sans salarié, présidé par la holding LA LICORNE) : seules les fiches registre (annuaire-entreprises, societe.com, PagesJaunes SIRET à L'Haÿ-les-Roses) ressortent.",
 "contact_finance": {
 "nom": "Stéphane Zbinden",
 "fonction": "Président de la holding LA LICORNE (SIREN 450 493 994), elle-même présidente d'AXENCE",
@@ -13005,7 +13024,8 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace web de Supembouts ni d'Earshape dans les résultats de recherche (4 requêtes) : ni téléphone, ni site. Activité probable : fabrication d'embouts auriculaires sur mesure (audioprothèse). Personne physique derrière la holding EARSHAPE non identifiée.",
+"note_contacts": "Aucune trace web de Supembouts ni d'Earshape dans les résultats de recherche (4 requêtes) : ni téléphone, ni site. Activité probable : fabrication d'embouts auriculaires sur mesure (audioprothèse). Personne physique derrière la holding EARSHAPE non identifiée. Deuxième passe (27/10/2026) : site officiel trouvé (supembouts.fr, fabricant familial d'embouts et protections auditives sur mesure depuis 1990, 11 avenue Pierre Bérégovoy, Nevers) et fiche annuaire-audition.com, mais aucun numéro dans les extraits. EARSHAPE est présidée par Alexandre Demeaux ; le registre signale un changement de dénomination décidé le 22/01/2025 (nouveau nom non trouvé).",
+"site_web": "https://www.supembouts.fr/",
 "contact_finance": {
 "nom": "EARSHAPE (personne morale)",
 "fonction": "Présidente de la société (représentant personne physique non identifié)",
@@ -13137,7 +13157,10 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat web pour 'Centre du Gué de Frise' / Arquian (3 requêtes) : ni téléphone, ni site, ni nature exacte de l'activité d'enseignement. Trois cogérants au registre ; le choix de Guillaume Vaudenay comme interlocuteur est arbitraire (aucune source ne précise lequel gère les finances).",
+"note_contacts": "Aucun résultat web pour 'Centre du Gué de Frise' / Arquian (3 requêtes) : ni téléphone, ni site, ni nature exacte de l'activité d'enseignement. Trois cogérants au registre ; le choix de Guillaume Vaudenay comme interlocuteur est arbitraire (aucune source ne précise lequel gère les finances). Deuxième passe (27/10/2026) : 03 86 39 60 69 = numéro du centre équestre le Gué de Frise à Arquian (club FFE : stages, cours, randonnées, pension, colonies équitation-tennis), relevé sur les fiches des offices de tourisme (Nièvre Tourisme, Puisaye-Forterre) ; site guedefrise.com.",
+"telephone": "03 86 39 60 69",
+"telephone_a_confirmer": true,
+"site_web": "https://www.guedefrise.com",
 "contact_finance": {
 "nom": "Guillaume VAUDENAY",
 "fonction": "Cogérant (avec Marie et Agnès Vaudenay)",
@@ -13155,7 +13178,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/centre-du-gue-de-frise-448807214"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -13199,7 +13221,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "SOCOFIG est une structure financière sans salarié de l'imprimerie Nouvelle Imprimerie Laballery (SCOP, SIREN 392607545, ZI allée Louis Blériot, 58500 Clamecy, ~84 salariés, CA ~17 M€ selon Xerfi) : l'interlocuteur réel est la direction/la comptabilité de Laballery. Aucun numéro de standard ni DAF/RAF trouvé dans les extraits (4 requêtes). Les dirigeants cités par la presse (Gilles Mure-Ravaud DG en 2014, Hubert Pédurand DG vers 2015, David Perrain président de la Scop — non confirmé) sont anciens.",
+"note_contacts": "SOCOFIG est une structure financière sans salarié de l'imprimerie Nouvelle Imprimerie Laballery (SCOP, SIREN 392607545, ZI allée Louis Blériot, 58500 Clamecy, ~84 salariés, CA ~17 M€ selon Xerfi) : l'interlocuteur réel est la direction/la comptabilité de Laballery. Aucun numéro de standard ni DAF/RAF trouvé dans les extraits (4 requêtes). Les dirigeants cités par la presse (Gilles Mure-Ravaud DG en 2014, Hubert Pédurand DG vers 2015, David Perrain président de la Scop — non confirmé) sont anciens. Deuxième passe (27/10/2026) : aucun numéro au nom de SOCOFIG (structure financière sans salarié) ; sa présidente Nouvelle Imprimerie Laballery, même adresse allée Louis Blériot à Clamecy, a pour standard le 03 86 27 55 55 (PagesJaunes, annuaires), site www.laballery.fr, email contact@laballery.fr (infonet.fr) : c'est l'interlocuteur à appeler.",
 "contact_finance": {
 "nom": "NOUVELLE IMPRIMERIE LABALLERY (SCOP)",
 "fonction": "Présidente de la société (personne morale ; représentant non identifié)",
@@ -13332,7 +13354,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Agent Peugeot. idGarages liste 'Garage Perreau', route de Cosne, 58500 Clamecy (https://www.idgarages.com/fr-fr/garage/clamecy/GB17174_garage-perreau) et 'SARL Garage Perreau', route de Clamecy, 58800 Corbigny (https://www.idgarages.com/fr-fr/garage/corbigny/GB17138_sarl-garage-perreau ; aussi https://lesvoitures.fr/adresse/sarl-garage-perreau-58800/) — lien exact avec le SIREN à confirmer. Aucun numéro de téléphone dans les extraits (3 requêtes). Gérant d'après le registre uniquement (Claude Perreau, à vérifier s'il est toujours en fonction).",
+"note_contacts": "Agent Peugeot. idGarages liste 'Garage Perreau', route de Cosne, 58500 Clamecy (https://www.idgarages.com/fr-fr/garage/clamecy/GB17174_garage-perreau) et 'SARL Garage Perreau', route de Clamecy, 58800 Corbigny (https://www.idgarages.com/fr-fr/garage/corbigny/GB17138_sarl-garage-perreau ; aussi https://lesvoitures.fr/adresse/sarl-garage-perreau-58800/) — lien exact avec le SIREN à confirmer. Aucun numéro de téléphone dans les extraits (3 requêtes). Gérant d'après le registre uniquement (Claude Perreau, à vérifier s'il est toujours en fonction). Deuxième passe (27/10/2026) : 03 86 27 13 38 = standard du Garage Perreau, agent Peugeot route de Cosne / La Galette à Clamecy, publié sur la page Peugeot de la concession et confirmé par PagesJaunes et AlloGarage (fax 03 86 27 31 49). Le 01 84 80 22 42 de Vroomly (numéro de plateforme) et le garage homonyme de Corbigny sont écartés. Vérification : 03 86 27 13 38 confirmé sur la page Peugeot de Clamecy (concessions.peugeot.fr/clamecy), AlloGarage et PagesJaunes pour le Garage Perreau, route de Cosne à Clamecy ; le garage de Corbigny (03 86 20 02 34), présenté comme autre site du même groupe, n'est pas retenu ; fiabilité « officielle » maintenue.",
+"telephone": "03 86 27 13 38",
+"site_web": "https://concessions.peugeot.fr/clamecy/",
 "contact_finance": {
 "nom": "Claude PERREAU",
 "fonction": "Gérant",
@@ -13350,7 +13374,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-garage-perreau-400110318"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -13394,7 +13417,10 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Entreprise d'électricité générale (NAF 43.21A, enseigne 'Electricité Générale'), 1 impasse Ambroise Croizat, Varennes-Vauzelles. Aucun téléphone ni site trouvé dans les extraits (3 requêtes).",
+"note_contacts": "Entreprise d'électricité générale (NAF 43.21A, enseigne 'Electricité Générale'), 1 impasse Ambroise Croizat, Varennes-Vauzelles. Aucun téléphone ni site trouvé dans les extraits (3 requêtes). Deuxième passe (27/10/2026) : 03 86 57 27 70 = standard de l'entreprise d'électricité générale Neverlec (1 impasse Ambroise Croizat, Varennes-Vauzelles), publié sur son propre site neverlec.com. Des annuaires citent aussi une « Société Nervelec » à la même adresse avec le 09 62 52 83 50 (doublon probable, non retenu). Vérification : 03 86 57 27 70 confirmé sur les pages du site neverlec.com (Neverlec électricité, 1 impasse Ambroise Croizat, Varennes-Vauzelles) et sur Sospages ; fiabilité « officielle » maintenue et email générique contact@neverlec.com, publié sur ce site, ajouté.",
+"telephone": "03 86 57 27 70",
+"email": "contact@neverlec.com",
+"site_web": "https://www.neverlec.com/",
 "contact_finance": {
 "nom": "Georges PARENT",
 "fonction": "Président",
@@ -13411,9 +13437,7 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/328899141"
-},
-"telephone": null,
-"email": null
+}
 },
 {
 "rang": 300,
@@ -13460,7 +13484,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "SAS créée le 05/03/2021, filiale d'un groupe portugais (Certus Structures, LDA), 10-19 salariés en 2022 selon l'annuaire des entreprises (https://production-sbg-01.annuaire-entreprises.infra.api.gouv.fr/documents/898704309). Aucune présence web trouvée (3 requêtes) : ni téléphone, ni site.",
+"note_contacts": "SAS créée le 05/03/2021, filiale d'un groupe portugais (Certus Structures, LDA), 10-19 salariés en 2022 selon l'annuaire des entreprises (https://production-sbg-01.annuaire-entreprises.infra.api.gouv.fr/documents/898704309). Aucune présence web trouvée (3 requêtes) : ni téléphone, ni site. Deuxième passe (27/10/2026) : aucun numéro ni site pour CERTUS BETON (La Machine) : seules des fiches registre ressortent (annuaire-entreprises, societe.com, Pappers, PagesJaunes SIRET, constructeur.pro), sans téléphone dans les extraits.",
 "contact_finance": {
 "nom": "José SIMOES RAMOS",
 "fonction": "Directeur général",
@@ -13522,7 +13546,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Recherche incomplète (1 requête seulement, quota de recherche atteint). Activité : pompes funèbres — villepratique.fr liste 'De Souza (SARL)', pompes funèbres, 43 av. Saint-Jean, 58800 Corbigny (https://www.villepratique.fr/pompes-funebres/guipy-58420), numéro différent de l'adresse du registre (62 av. Saint-Jean) ; téléphone non affiché dans l'extrait.",
+"note_contacts": "Recherche incomplète (1 requête seulement, quota de recherche atteint). Activité : pompes funèbres — villepratique.fr liste 'De Souza (SARL)', pompes funèbres, 43 av. Saint-Jean, 58800 Corbigny (https://www.villepratique.fr/pompes-funebres/guipy-58420), numéro différent de l'adresse du registre (62 av. Saint-Jean) ; téléphone non affiché dans l'extrait. Deuxième passe (27/10/2026) : 03 86 22 84 48 = agence 'Pompes Funèbres De Souza' (SARL), 43 av. Saint-Jean, Corbigny, numéro le plus repris par les annuaires (Simplifia, fiche PagesJaunes https://www.pagesjaunes.fr/pros/53270496). Comitam-obsèques donne un autre numéro (03 86 20 08 76) ; aucun site propre trouvé. Vérification : la recherche de contrôle confirme l'agence SARL De Souza, pompes funèbres, 43 av. Saint-Jean, Corbigny, mais n'affiche aucun numéro ; le conflit entre 03 86 22 84 48 et 03 86 20 08 76 reste non tranché, fiabilité 'annuaire' maintenue, essayer le second numéro si le premier n'aboutit pas.",
+"telephone": "03 86 22 84 48",
+"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "Didier DE SOUZA",
 "fonction": "Gérant",
@@ -13540,7 +13566,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/de-souza-fils-348765199"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -13585,7 +13610,10 @@
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "note_classement": "Procédure collective passée : Plan de redressement adopté le 18/09/2019",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat web exploitable pour GEOFFROY (69 faubourg de la Baratte, Nevers ; fabrication de machines et équipements) en 3 requêtes : ni téléphone, ni site, ni mention du président hors registre. Dirigeant d'après le registre uniquement (à vérifier). Malgré 10-19 salariés, aucun responsable financier identifié.",
+"note_contacts": "Aucun résultat web exploitable pour GEOFFROY (69 faubourg de la Baratte, Nevers ; fabrication de machines et équipements) en 3 requêtes : ni téléphone, ni site, ni mention du président hors registre. Dirigeant d'après le registre uniquement (à vérifier). Malgré 10-19 salariés, aucun responsable financier identifié. Deuxième passe (27/10/2026) : 03 86 59 00 77 = standard de Geoffroy SA (constructeur d'équipements de manutention continue pour l'agriculture, la viticulture et l'agroalimentaire), 69 faubourg de la Baratte, Nevers, publié sur la page contact de son site (fax 03 86 36 56 60). Vérification : la recherche de contrôle n'a pas retrouvé la page contact (résultats hors sujet), numéro non reconfirmé mais cohérent (adresse identique au registre, activité de manutention conforme au code NAF 28.22Z, aucun homonyme repéré) ; fiabilité 'officielle' et e-mail générique maintenus sur la foi de la page du site citée.",
+"telephone": "03 86 59 00 77",
+"email": "geoffroy@geoffroysa.com",
+"site_web": "http://www.geoffroysa.com/",
 "contact_finance": {
 "nom": "Pierre-Marie BAUDIN",
 "fonction": "Président",
@@ -13602,9 +13630,7 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/geoffroy-408337434"
-},
-"telephone": null,
-"email": null
+}
 },
 {
 "rang": 303,
@@ -13709,7 +13735,9 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
 "contacts_ok": true,
-"note_contacts": "Boulangerie-pâtisserie artisanale 'Lucas Nevers Carnot', 1 rue du 14 Juillet, 58000 Nevers (https://www.myboulange.fr/58/nevers/artisan-boulanger-patissier-lucas-nevers-carnot-112413 ; aussi listée sur https://www.118000.fr/v_nevers_58/c_boulangerie-et-patisserie), mais aucun numéro de téléphone dans les extraits (3 requêtes). Personne physique derrière HOLDING LUCAS non identifiée.",
+"note_contacts": "Boulangerie-pâtisserie artisanale 'Lucas Nevers Carnot', 1 rue du 14 Juillet, 58000 Nevers (https://www.myboulange.fr/58/nevers/artisan-boulanger-patissier-lucas-nevers-carnot-112413 ; aussi listée sur https://www.118000.fr/v_nevers_58/c_boulangerie-et-patisserie), mais aucun numéro de téléphone dans les extraits (3 requêtes). Personne physique derrière HOLDING LUCAS non identifiée. Deuxième passe (27/10/2026) : 03 86 61 56 76 = boulangerie-pâtisserie 'Lucas Nevers Carnot' (enseigne 'Artisan Boulanger Pâtissier'), 1 rue du 14 Juillet, Nevers, d'après les annuaires (Mapstr ; fiche PagesJaunes https://www.pagesjaunes.fr/pros/61006470). Pas de site propre trouvé. Vérification : la recherche de contrôle confirme l'enseigne 'Artisan Boulanger Pâtissier Lucas Nevers Carnot' au 1 rue du 14 Juillet, Nevers (MyBoulange, 118000.fr), mais aucun extrait n'affiche de numéro ; 03 86 61 56 76 non reconfirmé, fiabilité 'annuaire' maintenue.",
+"telephone": "03 86 61 56 76",
+"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "HOLDING LUCAS (personne morale)",
 "fonction": "Présidente de la société (représentant personne physique non identifié)",
@@ -13727,7 +13755,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/lucas-nevers-carnot-900082157"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -13771,7 +13798,9 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace web de 'Pierre Naturelle de Bourgogne' (RN 7, Mesves-sur-Loire) ni d'Éric Morin en lien avec l'entreprise (3 requêtes) : ni téléphone, ni site. Ne pas confondre avec Pierre Mureuse de Bourgogne (Molay, Yonne).",
+"note_contacts": "Aucune trace web de 'Pierre Naturelle de Bourgogne' (RN 7, Mesves-sur-Loire) ni d'Éric Morin en lien avec l'entreprise (3 requêtes) : ni téléphone, ni site. Ne pas confondre avec Pierre Mureuse de Bourgogne (Molay, Yonne). Deuxième passe (27/10/2026) : 03 86 21 24 59 = Pierre Naturelle de Bourgogne (taille de pierre / carrière), RN 7 route d'Antibes, Mesves-sur-Loire, d'après Firmania ; la fiche PagesJaunes (https://www.pagesjaunes.fr/pros/05719832) donne aussi le 03 86 69 43 70. Le 03 86 69 23 16 est celui d'Eric Morin Entreprises (holding présidente, autre société), non retenu. Vérification : aucune trace de la société dans la recherche de contrôle, numéro non reconfirmé ; le 03 86 69 43 70 de PagesJaunes porte l'indicatif local de Mesves-sur-Loire (mairie : 03 86 69 04 87), contrairement au 03 86 21 24 59 de Firmania, donc appeler le premier si le second n'aboutit pas.",
+"telephone": "03 86 21 24 59",
+"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "ERIC MORIN ENTREPRISES (personne morale)",
 "fonction": "Présidente de la société (holding ; personne physique probablement Éric Morin, non confirmé)",
@@ -13789,7 +13818,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/pierre-naturelle-de-bourgogne-445089469"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -13968,7 +13996,8 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace web de 'Société Maillot Distribution' ni de l'enseigne exploitée au 4 rue Joseph Marie Jacquard, Varennes-Vauzelles (3 requêtes) : ni téléphone, ni site. Société récente (SIREN 950…, vers 2023), commerce de détail ; probablement un magasin sous enseigne non identifiée. Personne physique derrière MAUGUIN HOLDING non identifiée.",
+"note_contacts": "Aucune trace web de 'Société Maillot Distribution' ni de l'enseigne exploitée au 4 rue Joseph Marie Jacquard, Varennes-Vauzelles (3 requêtes) : ni téléphone, ni site. Société récente (SIREN 950…, vers 2023), commerce de détail ; probablement un magasin sous enseigne non identifiée. Personne physique derrière MAUGUIN HOLDING non identifiée. Deuxième passe (27/10/2026) : La société exploite le site 'Maillot Distribution' (distributeurs automatiques de boissons et confiseries, fontaines à eau, Varennes-Vauzelles ; gérants Hervé et Estelle Mauguin selon le site), mais aucun numéro n'apparaît dans les extraits de recherche. Numéro à relever sur la page contact / mentions légales du site (http://maillot-distribution.fr/contact/mentions-legales.html).",
+"site_web": "http://maillot-distribution.fr/",
 "contact_finance": {
 "nom": "MAUGUIN HOLDING (personne morale)",
 "fonction": "Présidente de la société (représentant personne physique non identifié)",
@@ -14030,7 +14059,7 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune trace web de TNP (Boussegre, 58140 Lormes ; commerce de gros) ni d'Eric Potier en lien avec l'entreprise (3 requêtes) : ni téléphone, ni site, activité exacte inconnue. Dirigeant d'après le registre uniquement.",
+"note_contacts": "Aucune trace web de TNP (Boussegre, 58140 Lormes ; commerce de gros) ni d'Eric Potier en lien avec l'entreprise (3 requêtes) : ni téléphone, ni site, activité exacte inconnue. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : PagesJaunes liste 'T.N.P SA', Lormes, en entreprises d'emballage et de conditionnement (https://www.pagesjaunes.fr/pros/04531841), sans numéro dans l'extrait ; un annuaire cite le site www.tnp.fr, non vérifié. Aucun numéro trouvé (2 requêtes).",
 "contact_finance": {
 "nom": "Eric POTIER",
 "fonction": "Président",
@@ -14092,7 +14121,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Justacoté liste 'Pradeau Aurélia', vétérinaire, 138 rue de Donzy (orthographié 'rue Donz'), 58200 Cosne-Cours-sur-Loire (https://www.justacote.com/tracy-sur-loire-58150/veterinaire/), sans téléphone dans l'extrait. PagesJaunes liste un 'Groupe Vétérinaire Donzy & Cosne' (https://www.pagesjaunes.fr/pros/62467893) dont le lien avec ce cabinet n'est pas établi. Aucun numéro trouvé (3 requêtes).",
+"note_contacts": "Justacoté liste 'Pradeau Aurélia', vétérinaire, 138 rue de Donzy (orthographié 'rue Donz'), 58200 Cosne-Cours-sur-Loire (https://www.justacote.com/tracy-sur-loire-58150/veterinaire/), sans téléphone dans l'extrait. PagesJaunes liste un 'Groupe Vétérinaire Donzy & Cosne' (https://www.pagesjaunes.fr/pros/62467893) dont le lien avec ce cabinet n'est pas établi. Aucun numéro trouvé (3 requêtes). Deuxième passe (27/10/2026) : 03 86 28 36 19 = 'Clinique vétérinaire du Docteur Pradeau', 138 rue de Donzy, Cosne-Cours-sur-Loire (fiche PagesJaunes, même numéro sur monrendezvousveto.fr). Pas de site propre trouvé ; le 'Groupe Vétérinaire Donzy & Cosne' est une autre structure. Vérification : relecture seule, sans recherche ; nom, adresse et numéro cohérents, fiabilité 'annuaire' maintenue.",
+"telephone": "03 86 28 36 19",
+"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "Aurélia PRADEAU",
 "fonction": "Gérante (docteur vétérinaire)",
@@ -14110,7 +14141,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/cabinet-veterinaire-du-docteur-aurelia-pradeau-848323390"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -14158,7 +14188,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Installateur de cheminées et poêles : 'Cheminees Delran', Varennes-Vauzelles, listé par HelloWatt parmi les installateurs de poêles à granulés autour de Nevers (https://www.hellowatt.fr/chauffage/poele-granules/installateur/nevers), sans téléphone dans l'extrait. Aucun numéro ni site trouvé (3 requêtes). Le registre liste deux fois le même gérant (Olivier Delran / Olivier Daniel Jacques Delran).",
+"note_contacts": "Installateur de cheminées et poêles : 'Cheminees Delran', Varennes-Vauzelles, listé par HelloWatt parmi les installateurs de poêles à granulés autour de Nevers (https://www.hellowatt.fr/chauffage/poele-granules/installateur/nevers), sans téléphone dans l'extrait. Aucun numéro ni site trouvé (3 requêtes). Le registre liste deux fois le même gérant (Olivier Delran / Olivier Daniel Jacques Delran). Deuxième passe (27/10/2026) : 03 86 61 43 49 = magasin 'Turbo Fonte – Cheminées Delran' (concessionnaire du réseau Turbo Fonte), 42 rue des Quatre Cheminées, Varennes-Vauzelles, numéro concordant sur plusieurs annuaires ; site propre cheminees-poeles-nevers.fr. Société passée par un redressement judiciaire (plan arrêté le 4 mars 2019). Vérification : la recherche de contrôle n'a fait apparaître ni concession Turbo Fonte dans la Nièvre ni 'Cheminées Delran', numéro et site non reconfirmés ; la fiche Allbiz est intitulée 'Turbo Fonte Nevers', donc confirmer à l'appel qu'il s'agit bien de Cheminées Delran à Varennes-Vauzelles (fiabilité 'annuaire' maintenue).",
+"telephone": "03 86 61 43 49",
+"telephone_a_confirmer": true,
+"site_web": "https://www.cheminees-poeles-nevers.fr/",
 "contact_finance": {
 "nom": "Olivier DELRAN",
 "fonction": "Gérant",
@@ -14176,7 +14209,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/531707545"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -14224,7 +14256,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (4 requêtes). Président et DG sont des holdings ; leurs noms suggèrent Régis/Martine Clair et Grégory Clair, mais la personne physique qui les dirige n'a pas pu être vérifiée.",
+"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (4 requêtes). Président et DG sont des holdings ; leurs noms suggèrent Régis/Martine Clair et Grégory Clair, mais la personne physique qui les dirige n'a pas pu être vérifiée. Deuxième passe (27/10/2026) : Aucune trace de 'Clair Père et Fils' à Avrée ni d'un réparateur de machines au nom de Clair autour de Luzy (2 requêtes) ; Luzy Motoculture et Garage Depussay (Luzy) sont d'autres sociétés, non retenues.",
 "contact_finance": {
 "nom": "HOLDING REGIS MARTINE CLAIR (personne physique non identifiée)",
 "fonction": "Président (personne morale)",
@@ -14286,7 +14318,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Raison sociale très courte (E.T.) : aucun résultat exploitable via WebSearch (3 requêtes).",
+"note_contacts": "Raison sociale très courte (E.T.) : aucun résultat exploitable via WebSearch (3 requêtes). Deuxième passe (27/10/2026) : E.T. est une SARL de carrelage, faïence et marbre (gérant Mevlut Bozkurt) connue seulement des registres ; aucun numéro, site ni nom commercial trouvé (2 requêtes).",
 "contact_finance": {
 "nom": "Mevlut BOZKURT",
 "fonction": "Gérant",
@@ -14414,7 +14446,10 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (3 requêtes).",
+"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (3 requêtes). Deuxième passe (27/10/2026) : le 09 74 56 30 60 est donné par le site hc-froid.com (« Frigoriste Cosne-Cours-sur-Loire », 9 route de l'Étang des Granges, Cosne) ; HC Froid est un frigoriste (chambres froides, équipements de cuisines professionnelles, climatisation ; Cher, Nièvre, Yonne, Loiret). Vérification : le contrôleur n'a pas retrouvé ce numéro en 3 recherches et a relevé un second site, hc-froid.fr / hcfroid.fr, qui publie deux portables professionnels à l'ancienne adresse de Pouilly-sur-Loire (établissement fermé en août 2024, siège transféré à Cosne) : 06 73 56 68 34 (ventes et devis) et 07 83 58 65 50 (SAV). Arbitrage (27/10/2026) : une recherche supplémentaire retrouve hc-froid.com avec le 09 74 56 30 60 et l'adresse de Cosne ; numéro retenu en « annuaire » à cause de la divergence, à confirmer en début d'appel ; à défaut, essayer le 07 83 58 65 50.",
+"telephone": "09 74 56 30 60",
+"telephone_a_confirmer": true,
+"site_web": "https://www.hc-froid.com/",
 "contact_finance": {
 "nom": "Cedric HEURTIER",
 "fonction": "Président",
@@ -14432,7 +14467,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/hc-froid-810592634"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -14476,7 +14510,8 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucun résultat propre à cette société via WebSearch (3 requêtes) : les résultats renvoient à des homonymes (IMSM, IMS Health/IQVIA, IMS Consulting UK) sans lien établi avec Tamnay-en-Bazois.",
+"note_contacts": "Aucun résultat propre à cette société via WebSearch (3 requêtes) : les résultats renvoient à des homonymes (IMSM, IMS Health/IQVIA, IMS Consulting UK) sans lien établi avec Tamnay-en-Bazois. Deuxième passe (27/10/2026) : aucun numéro trouvé (fiches registre et Pages Jaunes SIRET sans téléphone) ; le site de la marque IMS (ims-carbon.com, conseil climat et développement durable) présente Graham Sprigg comme fondateur d'IMS Consulting Europe et peut servir de point de contact (formulaire). Vérification : relecture sans recherche, cohérent (aucun numéro, site de la marque donné comme simple point de contact).",
+"site_web": "https://ims-carbon.com/",
 "contact_finance": {
 "nom": "Graham SPRIGG",
 "fonction": "Président",
@@ -14617,8 +14652,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Site meca-soud-58.fr cité par verif.com mais non indexé par WebSearch (contenu non vérifié) ; aucun numéro trouvé dans les extraits (4 requêtes). Mécanique industrielle (NAF 25.62B), SARL créée en 1995.",
-"site_web": "http://meca-soud-58.fr",
+"note_contacts": "Site meca-soud-58.fr cité par verif.com mais non indexé par WebSearch (contenu non vérifié) ; aucun numéro trouvé dans les extraits (4 requêtes). Mécanique industrielle (NAF 25.62B), SARL créée en 1995. Deuxième passe (27/10/2026) : numéro de l'atelier (mécanique de précision, mécano-soudure, 14 route de Donzy) publié dans les mentions légales du site meca-soud-58.fr, dont le directeur de publication est Stéphane Cartier ; même numéro sur la fiche Pages Jaunes. Vérification : numéro confirmé (2 recherches) sur les pages contact et mentions légales de meca-soud-58.fr (le 03 86 39 93 06, affiché aussi par Pages Jaunes, est le fax) ; l'adresse meca-soud-58@wanadoo.fr publiée sur ces pages est ajoutée.",
+"telephone": "03 86 39 93 21",
+"email": "meca-soud-58@wanadoo.fr",
+"site_web": "https://www.meca-soud-58.fr",
 "contact_finance": {
 "nom": "Alain CARTIER",
 "fonction": "Gérant (co-gérant avec Stéphane CARTIER)",
@@ -14644,9 +14681,7 @@
 "email": null,
 "source": "https://www.xerfi.com/etudes-par-entreprise/meca-soud-58_400874798"
 }
-],
-"telephone": null,
-"email": null
+]
 },
 {
 "rang": 319,
@@ -14773,7 +14808,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)",
 "contacts_ok": true,
-"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (4 requêtes), malgré 10-19 salariés.",
+"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (4 requêtes), malgré 10-19 salariés. Deuxième passe (27/10/2026) : numéro de l'entreprise générale du bâtiment « Lamoureux & Maizières », rue de Pont à Luzy, relevé dans les extraits d'annuaires (fiche Pages Jaunes « Isolation » et fiche achetezaluzy.fr à l'appui, fiche précise non isolée) ; à confirmer au premier appel. Vérification : non revérifié en ligne (budget épuisé) ; la note dit la fiche précise non isolée alors qu'une URL Pages Jaunes précise est citée : rattachement de cette fiche non confirmé, fiabilité « annuaire » maintenue, indicatif 03 86 30 cohérent avec Luzy.",
+"telephone": "03 86 30 52 44",
+"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "Christophe LAMOUREUX",
 "fonction": "Gérant (co-gérant avec Ludovic MAIZIERES)",
@@ -14800,7 +14837,6 @@
 "source": "https://www.pappers.fr/entreprise/sarl-lamoureux-et-maizieres-835401936"
 }
 ],
-"telephone": null,
 "email": null
 },
 {
@@ -14844,7 +14880,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Holding (SARL créée en 2010). Olivier Roussat est aussi dirigeant (gérant puis président selon une modification de 2024) de DECIZE VOYAGES, enseigne Viabela / Viabela Voyages, 69 rue de la République, 58300 Decize (https://rubypayeur.com/societe/decize-voyages-347508384) : Amistad en est probablement la holding (non confirmé) ; aucun numéro trouvé pour l'agence non plus. Un annuaire ancien situe le siège au 52 route de la Machine, Saint-Léger-des-Vignes (adresse d'entrée différente). Sans rapport avec l'homonyme Olivier Roussat de Bouygues.",
+"note_contacts": "Holding (SARL créée en 2010). Olivier Roussat est aussi dirigeant (gérant puis président selon une modification de 2024) de DECIZE VOYAGES, enseigne Viabela / Viabela Voyages, 69 rue de la République, 58300 Decize (https://rubypayeur.com/societe/decize-voyages-347508384) : Amistad en est probablement la holding (non confirmé) ; aucun numéro trouvé pour l'agence non plus. Un annuaire ancien situe le siège au 52 route de la Machine, Saint-Léger-des-Vignes (adresse d'entrée différente). Sans rapport avec l'homonyme Olivier Roussat de Bouygues. Deuxième passe (27/10/2026) : aucun numéro publié au nom d'AMISTAD DEVELOPPEMENT ; l'agence Selectour Viabela Voyages (DECIZE VOYAGES, autre société dirigée par Olivier Roussat, 69 rue de la République, Decize) publie le 03 86 25 34 90 (https://www.selectour.com/agence/nievre/decize/viabela-voyages/8989), utilisable seulement pour joindre le gérant, pas comme standard de la holding. Vérification : relecture sans recherche, cohérent (le numéro de Viabela Voyages, autre société, reste hors du champ standard).",
 "contact_finance": {
 "nom": "Olivier ROUSSAT",
 "fonction": "Gérant",
@@ -14985,8 +15021,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Menuiserie bois/PVC et métallerie (annuaire Obat https://travaux.obat.fr/menuiserie/nievre). Site et contact M. Sébastien Grimard cités par une offre France Travail ; site non indexé par WebSearch, aucun numéro trouvé (5 requêtes).",
-"site_web": "http://www.menuiseries-grimard-nievre.fr",
+"note_contacts": "Menuiserie bois/PVC et métallerie (annuaire Obat https://travaux.obat.fr/menuiserie/nievre). Site et contact M. Sébastien Grimard cités par une offre France Travail ; site non indexé par WebSearch, aucun numéro trouvé (5 requêtes). Deuxième passe (27/10/2026) : ligne fixe de la menuiserie Grimard Père & Fils (4 rue Auguste Mahaut, Nevers ; bois, PVC, alu, vérandas) donnée par plusieurs annuaires (Pages Jaunes, lemenuisier.fr…), qui citent aussi un portable et l'adresse sarlgrimard@orange.fr (non publiée par l'entreprise elle-même). Site indexé « Entreprise Grimard » sur menuiseries-grimard-nievre-lpa.fr ; l'ancien domaine menuiseries-grimard-nievre.fr est celui cité par les annuaires. Vérification : non revérifié en ligne (budget épuisé) ; numéro de source annuaire, portable et adresse orange non retenus, rattachement du domaine « -lpa » non confirmé.",
+"telephone": "09 67 03 52 66",
+"telephone_a_confirmer": true,
+"site_web": "https://www.menuiseries-grimard-nievre-lpa.fr/",
 "contact_finance": {
 "nom": "Sebastien GRIMARD",
 "fonction": "Gérant",
@@ -15004,7 +15042,6 @@
 "linkedin": null,
 "source": "https://candidat.francetravail.fr/offres/recherche/detail/191GFLH"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -15048,7 +15085,7 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
 "contacts_ok": true,
-"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (3 requêtes). Adresse d'entrée sans numéro de rue (ZA La Chaume aux Sables) : aucune adresse plus précise trouvée.",
+"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (3 requêtes). Adresse d'entrée sans numéro de rue (ZA La Chaume aux Sables) : aucune adresse plus précise trouvée. Deuxième passe (27/10/2026) : aucun numéro ni site trouvé (recherche nom + ville, puis nom + gérant + ZA La Chaume aux Sables) : seules des fiches registre (Pappers, societe.com, societefrance.net « Patrick Tissier [ERCAEE] ») sans téléphone ; un annuaire la décrit comme tableautier (armoires électriques). Vérification : relecture sans recherche, cohérent.",
 "contact_finance": {
 "nom": "Patrick TISSIER",
 "fonction": "Gérant",
@@ -15172,7 +15209,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Établissement exploité non confirmé. Piste sérieuse mais non vérifiée : le Camping Plage du Midi (3*, les Branlasses, rive droite, 58230 Montsauche-les-Settons), dont la fiche du Parc du Morvan crédite les photos à « JM.Mari » et précise que les propriétaires sont sur place (https://geotrek.parcdumorvan.org/api/fr/touristiccontents/99/camping-plage-du-midi.pdf). Coordonnées publiées pour ce camping : tél. 03 86 84 51 97 (https://www.campingfrance.com/nl/zoek-een-camping/bourgogne-franche-comte/nievre/montsauche-les-settons/plage-du-midi), email campplagedumidi@orange.fr, site settons-camping.com. À confirmer avant de les rattacher à la SARL MARI.",
+"note_contacts": "Établissement exploité non confirmé. Piste sérieuse mais non vérifiée : le Camping Plage du Midi (3*, les Branlasses, rive droite, 58230 Montsauche-les-Settons), dont la fiche du Parc du Morvan crédite les photos à « JM.Mari » et précise que les propriétaires sont sur place (https://geotrek.parcdumorvan.org/api/fr/touristiccontents/99/camping-plage-du-midi.pdf). Coordonnées publiées pour ce camping : tél. 03 86 84 51 97 (https://www.campingfrance.com/nl/zoek-een-camping/bourgogne-franche-comte/nievre/montsauche-les-settons/plage-du-midi), email campplagedumidi@orange.fr, site settons-camping.com. À confirmer avant de les rattacher à la SARL MARI. Deuxième passe (27/10/2026) : lien confirmé : la page contact du site settons-camping.fr indique que le Camping Plage du Midi (les Branlasses, rive droite, lac des Settons) est exploité par la Sarl Mari, gérant Jean-Marc Mari, SIRET 400 725 560 00017 ; le numéro du camping vient de campingfrance.com (adresse campplagedumidi@orange.fr publiée par le Parc du Morvan, non relevée sur le site lui-même). Vérification : non revérifié en ligne (budget épuisé) ; lien SIRET cohérent avec le SIREN, numéro de source annuaire (indicatif 03 86 84 cohérent avec Montsauche), la note d'entrée citait settons-camping.com et non .fr.",
+"telephone": "03 86 84 51 97",
+"telephone_a_confirmer": true,
+"site_web": "https://settons-camping.fr/",
 "contact_finance": {
 "nom": "Jean-Marc MARI",
 "fonction": "Gérant",
@@ -15190,7 +15230,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-mari-400725560"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -15238,7 +15277,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (3 requêtes). Activité déclarée « services financiers » malgré le nom : probablement une holding.",
+"note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (3 requêtes). Activité déclarée « services financiers » malgré le nom : probablement une holding. Deuxième passe (27/10/2026) : aucun numéro trouvé (recherches nom + ville + dirigeants, puis nom + rue des Fondeurs) : uniquement des fiches registre confirmant une holding (NAF 64.20Z) ; un annuaire transport cite une adresse EF TRANSPORTS à Saint-Martin-sur-Nohain, sans téléphone. Vérification : relecture sans recherche, cohérent.",
 "contact_finance": {
 "nom": "Mustapha EL FAYZI",
 "fonction": "Président",
@@ -15505,7 +15544,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune présence web trouvée (3 recherches : nom + ville, activité, SIREN) ; aucun numéro dans les extraits. Dirigeante d'après le registre (deja.dirigeants) uniquement.",
+"note_contacts": "Aucune présence web trouvée (3 recherches : nom + ville, activité, SIREN) ; aucun numéro dans les extraits. Dirigeante d'après le registre (deja.dirigeants) uniquement. Deuxième passe (27/10/2026) : numéro des Ets Bourgeois (fabricant de matériel de levage et de manutention, monte-charges, route de Saint-Fargeau) relevé dans les extraits d'annuaires (Europages et annuaires d'entreprises, fiche précise non isolée) ; site bourgeois-sa.com cité par un annuaire, non vérifié. Vérification : non revérifié en ligne (budget épuisé) ; la note dit la fiche précise non isolée alors qu'une URL Europages précise est citée : rattachement non confirmé, fiabilité « annuaire » maintenue, indicatif 03 86 39 cohérent avec Saint-Amand-en-Puisaye.",
+"telephone": "03 86 39 61 12",
+"telephone_a_confirmer": true,
+"site_web": "http://www.bourgeois-sa.com",
 "contact_finance": {
 "nom": "Isabelle Bourgeois",
 "fonction": "Présidente du conseil d'administration et directrice générale",
@@ -15523,7 +15565,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/etablissements-bourgeois-sa-651880031"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -15579,7 +15620,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Structure para-publique sans salarié (siège à l'Hôtel du Département ; administrateurs Caisse des dépôts, Conseil départemental de la Nièvre, Batifranc). Aucune page web propre trouvée. Jocelyne Guérin (conseillère départementale) préside aussi Nièvre Aménagement (SA d'économie mixte, DG Cédric Duhem en mars 2022, source https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/mars_2022_rna_nievre_amgt.pdf) : gestion probablement assurée par Nièvre Aménagement, lien non confirmé. Interlocuteur peu pertinent pour une prospection commerciale classique.",
+"note_contacts": "Structure para-publique sans salarié (siège à l'Hôtel du Département ; administrateurs Caisse des dépôts, Conseil départemental de la Nièvre, Batifranc). Aucune page web propre trouvée. Jocelyne Guérin (conseillère départementale) préside aussi Nièvre Aménagement (SA d'économie mixte, DG Cédric Duhem en mars 2022, source https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/mars_2022_rna_nievre_amgt.pdf) : gestion probablement assurée par Nièvre Aménagement, lien non confirmé. Interlocuteur peu pertinent pour une prospection commerciale classique. Deuxième passe (27/10/2026) : société très probablement identique à la « SEM Patrimoniale de la Nièvre » (annuaire des EPL, https://www.lesepl.fr/annuaire-entreprises-publiques-locales/sem-patrimoniale-de-la-nievre/), hébergée avec Nièvre Aménagement au 11 rue Bovet à Nevers et partageant son standard selon https://www.lafabriquemploi.fr/nievre-amenagement-investit-de-nouveaux-locaux/ ; le numéro lui-même n'apparaît pas dans les extraits. Passer par le standard de Nièvre Aménagement reste la piste.",
 "contact_finance": {
 "nom": "Jocelyne Guérin",
 "fonction": "Présidente du conseil d'administration et directrice générale",
@@ -15703,7 +15744,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "SPFPL (holding de profession libérale, 0 salarié). Profession exercée non identifiée : aucune notaire/avocate/commissaire de justice à ce nom trouvée dans les annuaires indexés (3 recherches). Aucun numéro trouvé.",
+"note_contacts": "SPFPL (holding de profession libérale, 0 salarié). Profession exercée non identifiée : aucune notaire/avocate/commissaire de justice à ce nom trouvée dans les annuaires indexés (3 recherches). Aucun numéro trouvé. Deuxième passe (27/10/2026) : aucun numéro pour la holding ; piste non confirmée : Emmanuelle Paillé (née en 1984) aurait exercé comme greffière de tribunal de commerce (SELARL Emmanuelle Paillé radiée en 2021, article https://forumeco.fr/apres-40-ans-le-greffe-du-tribunal-de-commerce-change-de-main/). Le numéro d'un greffe appartiendrait à une autre entité, donc non retenu.",
 "contact_finance": {
 "nom": "Emmanuelle Paillé",
 "fonction": "Gérante et associée indéfiniment responsable",
@@ -15765,7 +15806,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Magasin Coccimarket de Donzy confirmé au 46 bis rue du Général Leclerc (https://www.au-magasin.fr/58220-donzy/), mais aucun numéro visible dans les extraits (PagesJaunes / au-magasin / promocatalogues). Dirigeant d'après le registre uniquement.",
+"note_contacts": "Magasin Coccimarket de Donzy confirmé au 46 bis rue du Général Leclerc (https://www.au-magasin.fr/58220-donzy/), mais aucun numéro visible dans les extraits (PagesJaunes / au-magasin / promocatalogues). Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : 03 86 39 31 75 est le numéro du magasin Coccimarket de Donzy (46 rue du Général Leclerc), donné par PagesJaunes et repris par la liste des commerçants de la commune (https://www.donzy.fr/commercants/) et d'autres annuaires.",
+"telephone": "03 86 39 31 75",
+"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "Abdel Ouaghlani",
 "fonction": "Président",
@@ -15783,7 +15826,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/au-bon-marche-830768529"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -15964,7 +16006,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Aucune présence web trouvée (3 recherches : nom + adresse, activité, SIREN) ; aucun numéro. Dirigeant d'après le registre uniquement.",
+"note_contacts": "Aucune présence web trouvée (3 recherches : nom + adresse, activité, SIREN) ; aucun numéro. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : la société figure dans les annuaires sous « Gomès SA » (métallurgie, chaudronnerie, maintenance), notamment sur PagesJaunes (https://www.pagesjaunes.fr/pros/00931978, au 13 rue des Grands Prés), mais le numéro n'apparaît pas dans les extraits. Pas de site propre trouvé.",
 "contact_finance": {
 "nom": "Jean-Claude Gomes",
 "fonction": "Président",
@@ -16026,7 +16068,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "0 salarié ; activité de vente de livres et matériel pédagogique selon https://origami-entreprises.fr/entreprise/511672032/histoire/ (extrait). Aucun site, numéro ni personne physique derrière la holding L'Oliveraie trouvés (3 recherches).",
+"note_contacts": "0 salarié ; activité de vente de livres et matériel pédagogique selon https://origami-entreprises.fr/entreprise/511672032/histoire/ (extrait). Aucun site, numéro ni personne physique derrière la holding L'Oliveraie trouvés (3 recherches). Deuxième passe (27/10/2026) : 03 86 61 31 46 (donné au format +33 3 86 61 31 46) est le numéro du bureau de French Book Distribution, distributeur de livres français spécialisé à l'export, au 22 rue Antony Duvivier à Nevers, sur son site frenchbookdistribution.com. Un annuaire de librairies associe aussi le nom de Régis Terrier à cette adresse. Vérification : numéro confirmé sur les pages contact du site de la société (Tel +33 3 86 61 31 46, 22 rue Antony Duvivier, Nevers), qui publie aussi l'adresse générique info@frenchbookdistribution.com (page exacte non identifiée) ; fiabilité officielle maintenue.",
+"telephone": "03 86 61 31 46",
+"email": "info@frenchbookdistribution.com",
+"site_web": "https://www.frenchbookdistribution.com/",
 "contact_finance": {
 "nom": "L'Oliveraie (société présidente ; représentant personne physique non identifié)",
 "fonction": "Président (personne morale)",
@@ -16043,9 +16088,7 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/french-book-distribution-511672032"
-},
-"telephone": null,
-"email": null
+}
 },
 {
 "rang": 340,
@@ -16431,7 +16474,10 @@
 "opposition_prospection": true,
 "enrichie": true,
 "contacts_ok": true,
-"note_contacts": "Opposition à la prospection : seules des coordonnées d'entreprise ont été recherchées. Avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/32092624900014) : société active, siège 1 rue Jolin, NAF 16.29Z. Aucun site ni numéro trouvés (3 recherches) ; pas de décideur sur un site propre, d'où decideur_financier null. Dirigeant d'après le registre.",
+"note_contacts": "Opposition à la prospection : seules des coordonnées d'entreprise ont été recherchées. Avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/32092624900014) : société active, siège 1 rue Jolin, NAF 16.29Z. Aucun site ni numéro trouvés (3 recherches) ; pas de décideur sur un site propre, d'où decideur_financier null. Dirigeant d'après le registre. Deuxième passe (27/10/2026) : 03 86 26 02 15 est le numéro de l'atelier de moulures « Billebault ETS » au 1 rue Jolin à La Celle-sur-Loire, relevé dans les annuaires (PagesJaunes, Kompass, 118712) et à confirmer sur le site moulurebillebault.fr. Opposition à la prospection : seules des coordonnées d'entreprise sont retenues. Vérification : non recherchée faute de budget ; nom, adresse et commune concordent avec le registre, fiabilité annuaire maintenue et standard d'entreprise conservé malgré l'opposition à la prospection.",
+"telephone": "03 86 26 02 15",
+"telephone_a_confirmer": true,
+"site_web": "https://www.moulurebillebault.fr/",
 "contact_dirigeant": {
 "nom": "François-Régis de Reboul",
 "fonction": "Président de la holding INIGO, présidente de la société depuis le 01/02/2025",
@@ -16440,7 +16486,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/etablissements-billebault-320926249"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -16484,7 +16529,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "SNC de commerce de détail située dans la zone commerciale du Champ des Noyers (rue Henri Bouquillard), probablement un magasin franchisé ; enseigne non identifiée (magasins de la rue : Saint Maclou, Centrakor, Interior's, Heytens, Bricomarché…). Aucun numéro attribuable trouvé (3 recherches).",
+"note_contacts": "SNC de commerce de détail située dans la zone commerciale du Champ des Noyers (rue Henri Bouquillard), probablement un magasin franchisé ; enseigne non identifiée (magasins de la rue : Saint Maclou, Centrakor, Interior's, Heytens, Bricomarché…). Aucun numéro attribuable trouvé (3 recherches). Deuxième passe (27/10/2026) : 03 86 37 84 17 est le numéro du magasin Lunéo Opticiens (ex-Générale d'Optique), rue Henri Bouquillard à Varennes-Vauzelles. Le rattachement à OPADE est déduit du code NAF 47.78A (optique) et de l'adresse, sans mention légale qui le confirme. Vérification : numéro confirmé sur la page contact du site Lunéo (rue Henri Bouquillard, Varennes-Vauzelles) et rattachement à OPADE étayé, la page « À propos » nommant Laurent Pacaud, gérant d'OPADE au registre, comme gérant du magasin ; fiabilité officielle et adresse e-mail publiée par le magasin maintenues.",
+"telephone": "03 86 37 84 17",
+"email": "luneonevers@hotmail.com",
+"site_web": "https://www.luneo-opticiens.fr/",
 "contact_finance": {
 "nom": "Laurent Pacaud",
 "fonction": "Gérant et associé indéfiniment responsable",
@@ -16501,9 +16549,7 @@
 "email": null,
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/opade-802750471"
-},
-"telephone": null,
-"email": null
+}
 },
 {
 "rang": 347,
@@ -16670,7 +16716,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Société récente (SIREN 952…, créée vers 2023), aucune présence web trouvée (3 recherches : nom, nom + adresse, dirigeant). Dirigeant d'après le registre uniquement.",
+"note_contacts": "Société récente (SIREN 952…, créée vers 2023), aucune présence web trouvée (3 recherches : nom, nom + adresse, dirigeant). Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : la fiche PagesJaunes « Nivernais Bâtiment Construction » (maçonnerie, 11 rue des Chailloux, https://www.pagesjaunes.fr/pros/63452925) affiche un numéro de portable, non visible dans les extraits. Aucun site trouvé ; une autre société Keskin (commerce automobile) est domiciliée à la même adresse.",
 "contact_finance": {
 "nom": "Savas Keskin",
 "fonction": "Président",
@@ -16732,7 +16778,10 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Magasin Proximarché listé place de l'Église à Chantenay-Saint-Imbert (https://ac-franchise.com/store/proximarche-4/), sans numéro. Aucun numéro trouvé (3 recherches) ; ne pas confondre avec la pharmacie de la même place (03 86 38 64 00). Un annuaire de services (https://habity.fr/ville/chantenay-saint-imbert-58/services) n'indique pas de supermarché dans la commune : activité du magasin à vérifier. Dirigeante d'après le registre uniquement.",
+"note_contacts": "Magasin Proximarché listé place de l'Église à Chantenay-Saint-Imbert (https://ac-franchise.com/store/proximarche-4/), sans numéro. Aucun numéro trouvé (3 recherches) ; ne pas confondre avec la pharmacie de la même place (03 86 38 64 00). Un annuaire de services (https://habity.fr/ville/chantenay-saint-imbert-58/services) n'indique pas de supermarché dans la commune : activité du magasin à vérifier. Dirigeante d'après le registre uniquement. Deuxième passe (27/10/2026) : 03 86 38 67 72 est le numéro du magasin Proximarché (fiche PagesJaunes « C P Proximarché SARL », place de l'Église à Chantenay-Saint-Imbert), distinct de celui de la pharmacie (03 86 38 64 00). La commune a aussi une page sur le magasin (https://ville-chantenay-saint-imbert.fr/proximarche/).",
+"telephone": "03 86 38 67 72",
+"telephone_a_confirmer": true,
+"site_web": "https://www.facebook.com/proximarchechantenaysaintimbert/",
 "contact_finance": {
 "nom": "Marie-Claude Plantade",
 "fonction": "Gérante",
@@ -16750,7 +16799,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-cp-419212816"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -17064,7 +17112,7 @@
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
 "contacts_ok": true,
-"note_contacts": "3 recherches sans résultat : aucune fiche annuaire, site ni numéro trouvé pour cette SOTEC (homonymes dans le Jura et en Haute-Garonne, sans rapport). Dirigeant issu du registre uniquement.",
+"note_contacts": "3 recherches sans résultat : aucune fiche annuaire, site ni numéro trouvé pour cette SOTEC (homonymes dans le Jura et en Haute-Garonne, sans rapport). Dirigeant issu du registre uniquement. Deuxième passe (27/10/2026) : SOTEC est aussi cuisiniste et salles de bains (site sotec-salledebain-cuisine.fr, page contact https://www.sotec-salledebain-cuisine.fr/contact, présentée à Nevers), mais le numéro n'apparaît pas dans les extraits. Ne pas confondre avec Christophe Tardivat, particulier au 13 rue Badelle. Vérification : site retiré de site_web car présenté à Nevers et non à Saint-Benin-d'Azy, sans élément le rattachant à Jérôme Tardivat ; piste https://www.sotec-salledebain-cuisine.fr/ à confirmer.",
 "contact_finance": {
 "nom": "Jérôme Tardivat",
 "fonction": "Gérant",
@@ -17134,7 +17182,10 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Activité visible sous le nom « Europub 58 » (atelier d'enseignes, supports publicitaires, stores et films solaires, né en 1995 à Varennes-Vauzelles) d'après le profil Sortlist https://www.sortlist.com/agency/europub-58 (profil non géré par l'entreprise, sans téléphone). La SAS EUROPUB MPE (SIREN 922…) est récente : probablement une reprise de l'activité, non vérifié. Aucun numéro trouvé en 3 recherches. Directeurs généraux au registre : Enzo Mansilla, Patrick Ruellet.",
+"note_contacts": "Activité visible sous le nom « Europub 58 » (atelier d'enseignes, supports publicitaires, stores et films solaires, né en 1995 à Varennes-Vauzelles) d'après le profil Sortlist https://www.sortlist.com/agency/europub-58 (profil non géré par l'entreprise, sans téléphone). La SAS EUROPUB MPE (SIREN 922…) est récente : probablement une reprise de l'activité, non vérifié. Aucun numéro trouvé en 3 recherches. Directeurs généraux au registre : Enzo Mansilla, Patrick Ruellet. Deuxième passe (27/10/2026) : 03 86 71 66 70 est le numéro de l'atelier « Europub 58 » (enseignes et supports publicitaires, 5 rue Thomas Edison, Varennes-Vauzelles), relevé sur l'annuaire publiciteinfo.com qui indique aussi le site europub58.fr (non consulté). La page LinkedIn Europub 58 confirme l'adresse ; aucun e-mail générique trouvé. Vérification : relecture seule (budget de recherche réservé aux numéros « officielle ») ; numéro d'annuaire publié sous l'enseigne Europub 58 à l'adresse du registre (5 rue Thomas Edison), cohérent avec la reprise probable de l'activité par la SAS ; fiabilité « annuaire » maintenue, site europub58.fr non vérifié.",
+"telephone": "03 86 71 66 70",
+"telephone_a_confirmer": true,
+"site_web": "https://europub58.fr",
 "contact_finance": {
 "nom": "Michael Hervé",
 "fonction": "Président",
@@ -17152,7 +17203,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/europub-mpe-922477708"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -17198,7 +17248,9 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Domaine producteur de Pouilly-Fumé (fiches Guide Hachette, ex. https://www.hachette-vins.com/guide-vins/les-vins/dom-michel-dutarte-2022-2025/202582809/), sans coordonnées publiées. Adresse issue d'un annuaire (Justacote), à confirmer. Aucun numéro trouvé en 3 recherches.",
+"note_contacts": "Domaine producteur de Pouilly-Fumé (fiches Guide Hachette, ex. https://www.hachette-vins.com/guide-vins/les-vins/dom-michel-dutarte-2022-2025/202582809/), sans coordonnées publiées. Adresse issue d'un annuaire (Justacote), à confirmer. Aucun numéro trouvé en 3 recherches. Deuxième passe (27/10/2026) : 03 86 39 15 55 est le numéro du domaine (31 rue Saint-Vincent, Les Loges, Pouilly-sur-Loire) sur sa fiche de la fédération des Vignerons indépendants, repris par routes-des-vins.com. Le guide Hachette affiche 03 86 39 13 55 et un annuaire donne 03 86 39 10 93 pour une « EARL Dutarte » au même lieu : variantes non retenues, à lever au premier appel. Vérification : une recherche confirme 03 86 39 15 55 pour le Domaine Michel Dutarte (31 rue Saint-Vincent, Les Loges, Pouilly-sur-Loire) sur routes-des-vins.com et un second annuaire, la fiche Vignerons indépendants confirmant l'adresse ; fiche de fédération et numéro concurrent du guide Hachette : fiabilité ramenée de « officielle » à « annuaire », source remplacée par la page qui affiche le numéro.",
+"telephone": "03 86 39 15 55",
+"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "Julien Moreux",
 "fonction": "Gérant",
@@ -17216,7 +17268,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-domaine-michel-dutarte-388705444"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -17268,7 +17319,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Trois cogérants au registre (Grégory Brade, Jérôme Brade, Laetitia Brade) ; aucun élément public ne permet de désigner le principal. SARL créée le 11/12/2019 (menuiserie bois et PVC), reprenant l'enseigne « Menuiserie Artisanale Brade » de l'ancienne entreprise individuelle de René Brade (fermée fin 2019). Deux établissements : siège à Guipy et un site rue des Forges à Corbigny (58800) selon https://annuaire-entreprises.data.gouv.fr/entreprise/879790616. Aucun numéro trouvé en 3 recherches.",
+"note_contacts": "Trois cogérants au registre (Grégory Brade, Jérôme Brade, Laetitia Brade) ; aucun élément public ne permet de désigner le principal. SARL créée le 11/12/2019 (menuiserie bois et PVC), reprenant l'enseigne « Menuiserie Artisanale Brade » de l'ancienne entreprise individuelle de René Brade (fermée fin 2019). Deux établissements : siège à Guipy et un site rue des Forges à Corbigny (58800) selon https://annuaire-entreprises.data.gouv.fr/entreprise/879790616. Aucun numéro trouvé en 3 recherches. Deuxième passe (27/10/2026) : aucun numéro fiable trouvé en 2 recherches (enseigne « Menuiserie Artisanale Brade », siège à Guipy, établissement au 16 rue des Forges à Corbigny) ; les numéros d'annuaires remontés ont été écartés (Kompass : 01 43 34 34 34, numéro parisien générique ; Hoodspot : 0000000000). La fiche Annuaire de La Poste remontée porte le SIRET de l'ancienne entreprise individuelle de René Brade, sans numéro visible. Vérification : relecture seule, absence de numéro cohérente avec les numéros écartés.",
 "contact_finance": {
 "nom": "Grégory Brade",
 "fonction": "Cogérant",
@@ -17330,7 +17381,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Société d'agent général Allianz : l'agence « Allianz Assurance Nevers Préfecture » au 3 rue de la Préfecture est listée en annuaire au nom de « L. Manon & Ph. Maienza » (https://www.villepratique.fr/allianz/coulanges-les-nevers-58660), donc agence probablement partagée avec un second agent. Aucun numéro d'agence vu dans les extraits ; la fiche officielle agences.allianz.fr de l'agence n'est pas remontée. Titre exact non publié (registre : dirigeant sans fonction précisée).",
+"note_contacts": "Société d'agent général Allianz : l'agence « Allianz Assurance Nevers Préfecture » au 3 rue de la Préfecture est listée en annuaire au nom de « L. Manon & Ph. Maienza » (https://www.villepratique.fr/allianz/coulanges-les-nevers-58660), donc agence probablement partagée avec un second agent. Aucun numéro d'agence vu dans les extraits ; la fiche officielle agences.allianz.fr de l'agence n'est pas remontée. Titre exact non publié (registre : dirigeant sans fonction précisée). Deuxième passe (27/10/2026) : 03 86 61 42 65 est le standard de l'agence Allianz « Nevers Préfecture » (3 rue de la Préfecture), agence commune de Ludovic Manon et Philippe Maienza, publié dans l'annuaire officiel des agences Allianz. Un portable affiché par un annuaire local n'a pas été retenu. Vérification : une recherche n'a fait remonter aucun numéro pour l'agence (villepratique.fr la liste au nom de L. Manon et Ph. Maienza sans numéro ; le numéro Pages Jaunes remonté est celui d'une autre agence Allianz, rue de Lourdes) ; rien ne contredit 03 86 61 42 65, maintenu en « officielle » mais non reconfirmé. Le numéro de portable relevé en annuaire a été retiré de la note.",
+"telephone": "03 86 61 42 65",
+"site_web": "https://agence.allianz.fr/nevers-prefecture-58000-H95809",
 "contact_finance": {
 "nom": "Ludovic Manon",
 "fonction": "Dirigeant ; agent Allianz (agence Allianz Nevers Préfecture, 3 rue de la Préfecture)",
@@ -17348,7 +17401,6 @@
 "linkedin": null,
 "source": "https://www.justacote.com/magny-cours-58470/assurance/"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -17392,7 +17444,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "SAS holding créée en 2001 (objet : prises de participation et services administratifs aux filiales, NAF 82.11Z), capital 14 500 € (https://origami-entreprises.fr/entreprise/afic-438561789/, agrégateur). Filiales non identifiées. Aucun numéro, site ni e-mail trouvé en 3 recherches. Nom de naissance au registre : Jouot.",
+"note_contacts": "SAS holding créée en 2001 (objet : prises de participation et services administratifs aux filiales, NAF 82.11Z), capital 14 500 € (https://origami-entreprises.fr/entreprise/afic-438561789/, agrégateur). Filiales non identifiées. Aucun numéro, site ni e-mail trouvé en 3 recherches. Nom de naissance au registre : Jouot. Deuxième passe (27/10/2026) : aucun numéro publié au nom d'AFIC ; au 2 rue Thomas Edison, AFIC apparaît comme centre de domiciliation (19 sociétés, annuairedomiciliation.fr), tête de groupe de CMG Centre de Matériel Général (SIREN 778 492 009) et présidente de TPI Travaux Publics et Industriels (SIREN 350 408 183), toutes deux rue Thomas Edison à Varennes-Vauzelles. Le standard de ces filiales, non recherché faute de budget, est la piste pour joindre la présidente. Vérification : relecture seule, absence de numéro cohérente (numéros de filiales non retenus pour la holding).",
 "contact_finance": {
 "nom": "Marie-Hélène Bernard",
 "fonction": "Présidente",
@@ -17458,7 +17510,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Deux boutiques : « Boulangerie Pâtisserie Olivier Raveau », 6 avenue de la Mairie, Saint-Parize-le-Châtel (https://www.myboulange.fr/58/saint-parize-le-chatel/boulangerie-patisserie-olivier-raveau-70441) et une seconde au 19 rue de Paris, 58240 Saint-Pierre-le-Moûtier (https://www.myboulange.fr/58/saint-pierre-le-moutier/sarl-boulangerie-patisserie-raveau-154353). Fermées le lundi. Aucun numéro visible dans les extraits en 3 recherches.",
+"note_contacts": "Deux boutiques : « Boulangerie Pâtisserie Olivier Raveau », 6 avenue de la Mairie, Saint-Parize-le-Châtel (https://www.myboulange.fr/58/saint-parize-le-chatel/boulangerie-patisserie-olivier-raveau-70441) et une seconde au 19 rue de Paris, 58240 Saint-Pierre-le-Moûtier (https://www.myboulange.fr/58/saint-pierre-le-moutier/sarl-boulangerie-patisserie-raveau-154353). Fermées le lundi. Aucun numéro visible dans les extraits en 3 recherches. Deuxième passe (27/10/2026) : 03 86 58 13 90 est le numéro de la boutique de Saint-Parize-le-Châtel (6 avenue de la Mairie), donné par plusieurs annuaires dont la fiche Pages Jaunes au nom de la SARL. Certaines fiches portent encore le nom de l'ancien boulanger (Cassier) ; aucun numéro distinct trouvé pour la boutique de Saint-Pierre-le-Moûtier. Vérification : relecture seule ; fiche Pages Jaunes au nom de la SARL à Saint-Parize-le-Châtel, fiabilité « annuaire » cohérente.",
+"telephone": "03 86 58 13 90",
+"telephone_a_confirmer": true,
 "contact_finance": {
 "nom": "Olivier Raveau",
 "fonction": "Gérant",
@@ -17476,7 +17530,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/sarl-boulangerie-patisserie-raveau-884511155"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -17524,7 +17577,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "SAS holding créée le 29/06/2021, sans salarié en 2022 (https://annuaire-entreprises.data.gouv.fr/entreprise/901643510). Une version de l'annuaire des entreprises indique le siège au 15 rue Commandant Victor Guerreau à Brinon-sur-Beuvron, différent de l'adresse fournie (2 rue de Veaupoule) : transfert probable, à vérifier. Filiales non identifiées. Aucun numéro, site ni e-mail trouvé en 3 recherches.",
+"note_contacts": "SAS holding créée le 29/06/2021, sans salarié en 2022 (https://annuaire-entreprises.data.gouv.fr/entreprise/901643510). Une version de l'annuaire des entreprises indique le siège au 15 rue Commandant Victor Guerreau à Brinon-sur-Beuvron, différent de l'adresse fournie (2 rue de Veaupoule) : transfert probable, à vérifier. Filiales non identifiées. Aucun numéro, site ni e-mail trouvé en 3 recherches. Deuxième passe (27/10/2026) : aucun numéro, site ni e-mail trouvé en 2 recherches ; d'après Pappers et societe.com, la holding préside la SAS Les Pattes Douces (SIREN 840 504 427, Brinon-sur-Beuvron) et Julien Venesson dirige aussi Venesson Medias et plusieurs SCI à Brinon (Labo Beuvron, Garage Beuvron, Nièvre Beuvron). Ces sociétés liées sont la piste pour un numéro. Vérification : relecture seule, absence de numéro cohérente.",
 "contact_finance": {
 "nom": "Julien Venesson",
 "fonction": "Président",
@@ -17659,7 +17712,9 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Société non employeuse. Une fiche 118712 « FG Automobile » existe (https://www.118712.fr/professionnels/WkVQV1NQHwE : entretien, réparation, restauration de véhicules anciens) mais l'extrait ne montre ni adresse ni numéro, donc rattachement à Nevers non confirmé ; homonyme FG Automobiles à Dechy (59) sans rapport. Aucun numéro trouvé en 3 recherches.",
+"note_contacts": "Société non employeuse. Une fiche 118712 « FG Automobile » existe (https://www.118712.fr/professionnels/WkVQV1NQHwE : entretien, réparation, restauration de véhicules anciens) mais l'extrait ne montre ni adresse ni numéro, donc rattachement à Nevers non confirmé ; homonyme FG Automobiles à Dechy (59) sans rapport. Aucun numéro trouvé en 3 recherches. Deuxième passe (27/10/2026) : 06 02 28 11 33 est le numéro que le garage de véhicules d'occasion « Fg-Automobile Nevers » (26 rue des Docks, Gabriel Fèvre, visites sur rendez-vous) publie sur son site et sur Pages Jaunes, qui donne aussi un fixe, 09 72 93 53 62. Les mentions légales citent une adresse outlook.fr, non relevée en entier. Vérification : une recherche (« fg-automobile » Nevers 26 rue des Docks) n'a rien fait remonter, ni confirmation ni contradiction ; numéro maintenu en « officielle » car publié sur le site de l'entreprise avec son nom, sa ville et son dirigeant (portable présenté comme numéro de contact du garage, donc admis), mais non reconfirmé.",
+"telephone": "06 02 28 11 33",
+"site_web": "https://www.fg-automobile.com",
 "contact_finance": {
 "nom": "Gabriel Fevre",
 "fonction": "Président",
@@ -17677,7 +17732,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/851257634"
 },
-"telephone": null,
 "email": null
 },
 {
@@ -18010,7 +18064,7 @@
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
 "contacts_ok": true,
-"note_contacts": "SAS récente (SIREN 949…, commerce de gros) sans aucune présence trouvée en ligne en 3 recherches (ni enseigne, ni site, ni annuaire). Le président porte le même nom que le vigneron de Sancerre/Pouilly (Domaine Pascal Jolivet), mais aucun lien n'est établi par les sources : homonymie possible.",
+"note_contacts": "SAS récente (SIREN 949…, commerce de gros) sans aucune présence trouvée en ligne en 3 recherches (ni enseigne, ni site, ni annuaire). Le président porte le même nom que le vigneron de Sancerre/Pouilly (Domaine Pascal Jolivet), mais aucun lien n'est établi par les sources : homonymie possible. Deuxième passe (27/10/2026) : aucun numéro au nom de Mathusalem (SAS de négoce de vins créée en mars 2023) : Pages Jaunes n'en a qu'une fiche légale (SIRET) et liste à part « Jolivet Pascal, négociant en vins » au 15 avenue du 14-Juillet à Cosne, fiche au nom du dirigeant non retenue. Le lien avec la maison Pascal Jolivet (Sancerre), qui annonce une nouvelle marque issue de vignes près de Cosne, est probable mais non établi. Vérification : relecture seule ; fiche au nom du dirigeant à juste titre non retenue (homonymie et lien avec la maison Pascal Jolivet non établis).",
 "contact_finance": {
 "nom": "Pascal Jolivet",
 "fonction": "Président",
@@ -18145,7 +18199,7 @@
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
 "contacts_ok": true,
-"note_contacts": "Holding de la SAS MECAMACHINE (SIREN 503 336 471, décolletage NAF 25.62A, 10 à 19 salariés, créée le 21/03/2008, même siège aux Zagots, La Machine) d'après https://origami-entreprises.fr/entreprise/503336471.txt (agrégateur). Mecamachine figure aussi dans l'annuaire Manageo du décolletage en Nièvre (https://www.manageo.fr/annuaire/58-nievre-decolletage-_dem58-1237-1.html), sans numéro visible dans l'extrait. Aucun numéro trouvé en 3 recherches. Adresse fournie sans rue (lieu-dit Les Zagots) : aucune adresse plus précise trouvée.",
+"note_contacts": "Holding de la SAS MECAMACHINE (SIREN 503 336 471, décolletage NAF 25.62A, 10 à 19 salariés, créée le 21/03/2008, même siège aux Zagots, La Machine) d'après https://origami-entreprises.fr/entreprise/503336471.txt (agrégateur). Mecamachine figure aussi dans l'annuaire Manageo du décolletage en Nièvre (https://www.manageo.fr/annuaire/58-nievre-decolletage-_dem58-1237-1.html), sans numéro visible dans l'extrait. Aucun numéro trouvé en 3 recherches. Adresse fournie sans rue (lieu-dit Les Zagots) : aucune adresse plus précise trouvée. Deuxième passe (27/10/2026) : 03 86 50 81 64 est le standard de la SAS Mecamachine (filiale opérationnelle présidée par la holding, même site rue des Zagots à La Machine), publié sur la page contact de mecamachine.fr et repris par Pages Jaunes ; la holding n'a pas de ligne propre. Fax 03 86 50 95 50 ; un autre numéro Pages Jaunes (03 86 50 49 13) et un portable Cylex non retenus. Vérification : numéro retiré du standard et site retiré, car tous deux publiés au nom de la filiale SAS Mecamachine (SIREN 503 336 471) et non de Mecamachine Holding, comme pour les autres holdings du lot ; 03 86 50 81 64 (mecamachine.fr) reste la piste pour joindre le président Gérard Provost. Une recherche n'a pas reconfirmé ce numéro.",
 "contact_finance": {
 "nom": "Gérard Provost",
 "fonction": "Président (de Mecamachine Holding, elle-même présidente de la SAS Mecamachine)",

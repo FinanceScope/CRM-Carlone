@@ -8,7 +8,7 @@
   },
   "email_generique": null,
   "site_web": "https://www.iti-conseil.com",
-  "note": "Deuxième passe (27/10/2026) : 03 86 61 56 52 = standard de l'agence de communication itiConseil (enseigne de JABA PRODUCTION, 12 avenue Marceau, Nevers ; fondée par Jacques Ansault), relevé dans des annuaires (guide Stratégies, fiche PagesJaunes ITI CONSEIL Nevers), site iti-conseil.com. Seule adresse vue : ja@iti-conseil.com, nominative (Jacques Ansault), donc non retenue comme email générique.",
+  "note": "Deuxième passe (27/10/2026) : 03 86 61 56 52 = standard de l'agence de communication itiConseil (enseigne de JABA PRODUCTION, 12 avenue Marceau, Nevers ; fondée par Jacques Ansault), relevé dans des annuaires (guide Stratégies, fiche PagesJaunes ITI CONSEIL Nevers), site iti-conseil.com. Seule adresse vue : ja@iti-conseil.com, nominative (Jacques Ansault), donc non retenue comme email générique. Vérification : numéro confirmé pour itiConseil, 12 avenue Marceau à Nevers, par PagesJaunes (SIRET 412 611 550 00044, autre nom JABA PRODUCTION), Cylex, Bottin et la page Facebook de l'agence ; le site iti-conseil.com l'afficherait aussi d'après les extraits (non vu directement, fiabilité laissée « annuaire ») ; le 06 07 27 72 72 de Cylex (mobile) et le 03 86 61 98 03 de Koikispass (autre activité à la même adresse) ne sont pas retenus.",
   "recherches": 2
  },
  {
@@ -72,7 +72,7 @@
   },
   "email_generique": null,
   "site_web": "https://concessions.peugeot.fr/clamecy/",
-  "note": "Deuxième passe (27/10/2026) : 03 86 27 13 38 = standard du Garage Perreau, agent Peugeot route de Cosne / La Galette à Clamecy, publié sur la page Peugeot de la concession et confirmé par PagesJaunes et AlloGarage (fax 03 86 27 31 49). Le 01 84 80 22 42 de Vroomly (numéro de plateforme) et le garage homonyme de Corbigny sont écartés.",
+  "note": "Deuxième passe (27/10/2026) : 03 86 27 13 38 = standard du Garage Perreau, agent Peugeot route de Cosne / La Galette à Clamecy, publié sur la page Peugeot de la concession et confirmé par PagesJaunes et AlloGarage (fax 03 86 27 31 49). Le 01 84 80 22 42 de Vroomly (numéro de plateforme) et le garage homonyme de Corbigny sont écartés. Vérification : 03 86 27 13 38 confirmé sur la page Peugeot de Clamecy (concessions.peugeot.fr/clamecy), AlloGarage et PagesJaunes pour le Garage Perreau, route de Cosne à Clamecy ; le garage de Corbigny (03 86 20 02 34), présenté comme autre site du même groupe, n'est pas retenu ; fiabilité « officielle » maintenue.",
   "recherches": 2
  },
  {
@@ -82,9 +82,12 @@
    "source": "https://www.neverlec.com/electricien-nevers",
    "fiabilite": "officielle"
   },
-  "email_generique": null,
+  "email_generique": {
+   "email": "contact@neverlec.com",
+   "source": "https://www.neverlec.com/"
+  },
   "site_web": "https://www.neverlec.com/",
-  "note": "Deuxième passe (27/10/2026) : 03 86 57 27 70 = standard de l'entreprise d'électricité générale Neverlec (1 impasse Ambroise Croizat, Varennes-Vauzelles), publié sur son propre site neverlec.com. Des annuaires citent aussi une « Société Nervelec » à la même adresse avec le 09 62 52 83 50 (doublon probable, non retenu).",
+  "note": "Deuxième passe (27/10/2026) : 03 86 57 27 70 = standard de l'entreprise d'électricité générale Neverlec (1 impasse Ambroise Croizat, Varennes-Vauzelles), publié sur son propre site neverlec.com. Des annuaires citent aussi une « Société Nervelec » à la même adresse avec le 09 62 52 83 50 (doublon probable, non retenu). Vérification : 03 86 57 27 70 confirmé sur les pages du site neverlec.com (Neverlec électricité, 1 impasse Ambroise Croizat, Varennes-Vauzelles) et sur Sospages ; fiabilité « officielle » maintenue et email générique contact@neverlec.com, publié sur ce site, ajouté.",
   "recherches": 2
  },
  {
