@@ -1,0 +1,84 @@
+[
+ {
+  "siren": "393717863",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun comptable, secrétaire ni co-gérant administratif nommé en 3 recherches (fonctions administratives + Saint-Honoré-les-Bains, annuaires Manageo/Verif/Kompass par SIREN, presse locale en mode étendu) : gowork.fr ne liste que des postes de vendeuse, piscinier, horticultrice et pépiniériste, et Pappers mentionne seulement une cession de parts de Jackie Huguet à Fabien et Yann Huguet (associés, sans fonction administrative publiée). Décision chez le gérant Fabien Huguet : demander au standard qui tient la comptabilité (Yann Huguet ou un proche, à vérifier).",
+  "recherches": 3
+ },
+ {
+  "siren": "311665913",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun comptable ni assistant(e) de gestion nommé en 3 recherches (fonctions administratives + Bernard Potier Nevers sur le web et LinkedIn, nom de Charlotte Ridde) : LinkedIn ne montre qu'une offre de couvreur relayée par Synergie Nevers, et le poste de Charlotte Ridde reste inconnu. Décision à Nevers par le président Alexis De Witte : demander au standard qui tient l'administratif.",
+  "recherches": 3
+ },
+ {
+  "siren": "444611933",
+  "contacts": [
+   {
+    "nom": "Samuel (nom non affiché)",
+    "fonction": "Directeur de restaurant",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://www.mcdonalds-recrute.fr/nos-restaurants/cosne-sur-loire/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : seul un « Samuel, Directeur de restaurant » apparaît, en témoignage sur la page recrutement du McDonald's de Cosne (mcdonalds-recrute.fr), peut-être un contenu générique de l'enseigne ; aucune source ne cite Yannick Andrieux ni de comptable (3 recherches : directeur/franchisé, SIREN + Andrieux, presse en mode étendu). Décision chez le franchisé, gérant Yannick Andrieux ; à noter, la page officielle mcdonalds.fr du restaurant affiche le 03 71 55 00 82 et non le 03 71 55 00 56.",
+  "recherches": 3
+ },
+ {
+  "siren": "794456921",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun comptable, secrétaire ni assistant(e) de gestion nommé en 2 recherches (fonctions administratives + Energie 2000 Plus Cosne, annuaires Verif/Manageo/Pappers en mode étendu) : les annuaires ne citent que la holding présidente GROUPE ENERGIE BATIMENT et l'ancien directeur général Jean-Philippe Devoucoux (2017-2021), avec 21 salariés selon Verif. Décision chez Sébastien Thomas via la holding de Germigny-sur-Loire : demander qui tient le secrétariat et la comptabilité.",
+  "recherches": 2
+ },
+ {
+  "siren": "394518096",
+  "contacts": [
+   {
+    "nom": "Dominique LUTINIER",
+    "fonction": "Responsable Financier",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.verif.com/societe/CONSTRUCTIONS-DU-VAL-DE-LOIRE-394518096/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Verif.com cite Mme Dominique Lutinier comme « Responsable Financier » de CVL (donnée d'annuaire non datée, à confirmer au standard) et Pascal Cormier, ancien gérant, comme directeur des achats ; LinkedIn et le site cvloire58.fr ne nomment personne d'autre (3 recherches). Décision sur place par le gérant Sébastien Cormier, avec Mme Lutinier pour le règlement.",
+  "recherches": 3
+ },
+ {
+  "siren": "384831046",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun secrétaire, facturier(ère) ni responsable administratif nommé en 3 recherches (fonctions administratives + Ambulances Charitoises, LinkedIn, site ambulancescharitoises-taxis.fr et annuaires en mode étendu) : seuls les dirigeants du registre et la participation de la SAS à un événement de L'INKUB ressortent. Décision locale par Laurent Girard (président) et David Gonin (DG) : demander à la régulation qui gère la facturation et l'administratif.",
+  "recherches": 3
+ },
+ {
+  "siren": "312057318",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun comptable ni responsable administratif nommé en 2 recherches (LinkedIn Etablissements Coignet/Coignet carburant, annuaires Verif/Manageo/Kompass en mode étendu) : seuls les trois dirigeants du registre et le commissaire aux comptes COGEP AUDIT apparaissent. Décision dans la famille Coignet à Ciez (Sophie, présidente ; Guillaume, DG) : demander qui tient la comptabilité.",
+  "recherches": 2
+ },
+ {
+  "siren": "420237398",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun directeur de magasin, comptable ni assistant(e) nommé en 1 recherche (Intermarché Contact Saint-Benin-d'Azy + directeur/adhérent/Mordzialek) : seules des fiches magasin (ac-franchise, Que Choisir, Tiendeo, stations-service) ressortent. Décision par la présidente adhérente Myriam Mordzialek : demander au standard qui suit la comptabilité.",
+  "recherches": 1
+ },
+ {
+  "siren": "950376566",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun DAF, chef comptable ni DRH du groupe Vincent nommé avec sa fonction en 3 recherches LinkedIn/web : un profil Marie Caroline Favier (Groupe Vincent, sans intitulé) relaie les offres de chef comptable (Peugeot Varennes-Vauzelles) et de comptable confirmé (Citroën DS), et un profil Alexandre Maindrot « Responsable Comptable Concession » n'a pas pu être rattaché au groupe : non retenus. Décision au siège nivernais du groupe (holding VINCENT SAS, Varennes-Vauzelles) par Rodolphe Vincent : demander le service comptable du groupe.",
+  "recherches": 3
+ },
+ {
+  "siren": "792570335",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun adhérent, directeur de magasin ni comptable nommé en 1 recherche (Intermarché Magny-Cours + Fernandez/REGULAR/directeur) : seules la fiche ac-franchise du magasin et des offres d'emploi Intermarché sans nom ressortent. Décision chez l'adhérent via la holding REGULAR : demander au standard le nom du directeur et de la personne qui tient la comptabilité.",
+  "recherches": 1
+ }
+]
