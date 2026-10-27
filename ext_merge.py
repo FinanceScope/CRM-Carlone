@@ -745,7 +745,8 @@ print('vérifications :', len(VERIF), dict(n_vf))
 
 # relecture du 22/10/2026 : coordonnées sans source publiée, profils LinkedIn personnels, libellés
 RETIRER = {'823687033': ('email',),       # adresse hotmail nominative, introuvable sur une page publique
-           '397727397': ('telephone', 'autres_contacts')}   # LOOK Fixations (Rossignol) : numéro et contact des passes précédentes = LOOK Cycle
+           '397727397': ('autres_contacts',)}   # LOOK Fixations (Rossignol) : contact des passes précédentes = LOOK Cycle
+RETIRER_NUMERO = {'397727397': '03 86 71 63 00'}   # numéro de LOOK Cycle, attribué à tort à LOOK Fixations par les premières passes
 # le mobile d'Aizen (331967943), d'abord retiré faute de source, figure dans la présentation 2024 de l'entreprise (lot h23)
 AUDITEURS = re.compile(r'(KPMG|DELOITTE|MAZARS|ERNST|PRICEWATERHOUSE|GRANT THORNTON|BDO)\b', re.I)
 TEL_RE = re.compile(r'(?:\+33\s?(?:\(0\)\s?)?|0)[1-9](?:[\s.-]?\d{2}){4}')
@@ -759,6 +760,7 @@ def sans_annotation(v, rx, propre, quoi, c):
     return propre(m.group())
 for c in base + ext:
     for k in RETIRER.get(sid(c.get('siren')), ()): c[k] = None
+    if c.get('telephone') and c['telephone'] == RETIRER_NUMERO.get(sid(c.get('siren'))): c['telephone'] = None
     c['telephone'] = sans_annotation(c.get('telephone'), TEL_RE, clean_tel, 'Téléphone', c)
     c['email'] = sans_annotation(c.get('email'), EMAIL_RE, str, 'E-mail', c)
     for pp in [c.get('contact_dirigeant'), c.get('contact_finance')] + list(c.get('autres_contacts') or []):
