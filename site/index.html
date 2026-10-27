@@ -10,10 +10,10 @@
   --bg:#F7F1EA; --wash:#EFE3D4; --surface:#FFFCF8; --sunk:#F1E9DE; --line:#E5D9C9; --line-2:#EEE5D9;
   --ink:#2B211A; --muted:#6C5D50; --faint:#9E8D7D;
   --accent:#7B2D3A; --accent-ink:#FFF8F2; --accent-soft:#F3E0E1;
-  --v1:#B4532A; --v1-soft:#F8E3D6; --v2:#5E7A34; --v2-soft:#E7EDD8; --v3:#3D6680; --v3-soft:#DFE9EF; --v0:#8C7E71; --v0-soft:#EFE7DD;
-  --hot:#A3324A; --hot-soft:#F6E0E4; --warm:#9A6408; --warm-soft:#F6EACD;
+  --v1:#9C4722; --v1-soft:#F8E3D6; --v2:#516B2C; --v2-soft:#E7EDD8; --v3:#3D6680; --v3-soft:#DFE9EF; --v0:#8C7E71; --v0-soft:#EFE7DD;
+  --hot:#A3324A; --hot-soft:#F6E0E4; --warm:#86560A; --warm-soft:#F6EACD;
   --slate:#4C6478; --slate-soft:#E2E9EF; --bad:#9E3A2B; --bad-soft:#F5DFD8;
-  --st-0:#A59584; --st-1:#5C86A3; --st-2:#D29A2E; --st-3:#C8643A; --st-4:#7E9A45; --st-5:#9B4656;
+  --st-0:#8C7E71; --st-1:#4C6478; --st-2:#A87512; --st-3:#7B2D3A; --st-4:#516B2C; --st-5:#9E3A2B;
   --shadow:0 1px 2px rgba(70,45,20,.06),0 8px 24px rgba(70,45,20,.07);
   --font-display:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;
   --font-body:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif;
@@ -26,6 +26,7 @@
   --v1:#EA976C; --v1-soft:#43281B; --v2:#AAC37B; --v2-soft:#2D3620; --v3:#8FB6D0; --v3-soft:#21303A; --v0:#AA9B8C; --v0-soft:#2F2822;
   --hot:#F29BAB; --hot-soft:#47232C; --warm:#E8B85A; --warm-soft:#3F3117;
   --slate:#A4BACB; --slate-soft:#27323B; --bad:#F29B89; --bad-soft:#45251E;
+  --st-0:#8F8072; --st-1:#A4BACB; --st-2:#E8B85A; --st-3:#E6A3AE; --st-4:#AAC37B; --st-5:#F29B89;
   --shadow:0 1px 2px rgba(0,0,0,.35),0 10px 26px rgba(0,0,0,.3);
   color-scheme:dark;
 }}
@@ -36,6 +37,7 @@
   --v1:#EA976C; --v1-soft:#43281B; --v2:#AAC37B; --v2-soft:#2D3620; --v3:#8FB6D0; --v3-soft:#21303A; --v0:#AA9B8C; --v0-soft:#2F2822;
   --hot:#F29BAB; --hot-soft:#47232C; --warm:#E8B85A; --warm-soft:#3F3117;
   --slate:#A4BACB; --slate-soft:#27323B; --bad:#F29B89; --bad-soft:#45251E;
+  --st-0:#8F8072; --st-1:#A4BACB; --st-2:#E8B85A; --st-3:#E6A3AE; --st-4:#AAC37B; --st-5:#F29B89;
   --shadow:0 1px 2px rgba(0,0,0,.35),0 10px 26px rgba(0,0,0,.3);
   color-scheme:dark;
 }
@@ -51,14 +53,6 @@ a{color:var(--accent);text-underline-offset:2px}
 .muted{color:var(--muted)}
 .gutter{max-width:1360px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 
-/* ---------- En-tête ---------- */
-.band{background:linear-gradient(to bottom,var(--wash),var(--bg) 88%);color:var(--ink);border-bottom:1px solid var(--line)}
-.band-inner{display:flex;flex-direction:column;gap:18px;padding-block:28px 28px}
-.topline{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:14px 24px}
-.eyebrow{font-size:13.5px;font-weight:600;color:var(--v2)}
-.brand h1{font-family:var(--font-display);font-weight:800;font-size:clamp(34px,5vw,54px);line-height:1;letter-spacing:-.025em;margin:6px 0 0;text-wrap:balance}
-.brand h1 em{font-style:normal;color:var(--accent)}
-.brand p{margin:10px 0 0;color:var(--muted);max-width:62ch;font-size:15px}
 .loire{display:block;width:100%;height:22px;color:var(--v3);opacity:.5}
 .top-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
 .sync{font-size:13px;color:var(--muted);display:flex;align-items:center;gap:7px}
@@ -70,16 +64,7 @@ a{color:var(--accent);text-underline-offset:2px}
 .tab{border:0;background:transparent;color:var(--muted);padding:9px 18px;border-radius:999px;font-weight:600;cursor:pointer;white-space:nowrap;font-size:14.5px}
 .tab:hover{color:var(--ink)}
 .tab[aria-selected="true"]{background:var(--surface);color:var(--accent);box-shadow:0 1px 3px rgba(70,45,20,.14)}
-.hero{display:flex;flex-direction:column;gap:14px}
 
-/* Chiffres clés */
-.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
-@media (max-width:760px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
-.kpi{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:16px 18px;display:flex;flex-direction:column;gap:3px;min-width:0}
-.kpi b{font-family:var(--font-display);font-weight:800;font-size:clamp(36px,4.4vw,52px);line-height:1;letter-spacing:-.03em}
-.kpi span{font-size:14px;font-weight:600}
-.kpi small{color:var(--muted);font-size:12.5px}
-.kpi.k1 b{color:var(--v1)} .kpi.k2 b{color:var(--v2)} .kpi.k3 b{color:var(--v3)}
 
 /* Carte des distances */
 .route-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:18px 20px 10px;display:flex;flex-direction:column;gap:8px}
@@ -194,12 +179,8 @@ a{color:var(--accent);text-underline-offset:2px}
 @media (max-width:860px){.calc{grid-template-columns:minmax(0,1fr)}.calc .out{border-left:0;border-top:1px solid var(--line-2)}}
 @media (max-width:480px){.calc .in{grid-template-columns:minmax(0,1fr)}.calc .out .figs{grid-template-columns:minmax(0,1fr)}}
 .acts{display:flex;gap:8px;flex-wrap:wrap}
-.scope{display:inline-flex;gap:3px;padding:4px;background:var(--sunk);border:1px solid var(--line);border-radius:999px}
-.scope button{border:0;background:transparent;color:var(--muted);padding:7px 14px;border-radius:999px;font-weight:600;cursor:pointer;font-size:13.5px;white-space:nowrap}
-.scope button:hover{color:var(--ink)}
-.scope button[aria-pressed="true"]{background:var(--surface);color:var(--accent);box-shadow:0 1px 3px rgba(70,45,20,.14)}
 .alist{display:flex;flex-direction:column;gap:16px}
-.agroup{overflow:hidden}
+.agroup{overflow:clip}
 .agroup header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:4px 14px;padding:14px 18px;background:var(--sunk);border-bottom:1px solid var(--line)}
 .agroup h3{margin:0;font-family:var(--font-display);font-size:18px;font-weight:700;letter-spacing:-.01em}
 .arow{display:grid;grid-template-columns:44px minmax(0,1.6fr) minmax(0,1fr) minmax(0,1.1fr);gap:14px;align-items:center;padding:12px 18px;border-bottom:1px solid var(--line-2)}
@@ -220,7 +201,7 @@ a{color:var(--accent);text-underline-offset:2px}
 @media (max-width:520px){.addlog{flex-wrap:wrap}.addlog select{max-width:100%;flex:1 1 100%}}
 .qs{color:var(--ink)}
 .recent ul.checks{margin-top:4px;color:var(--ink)}
-@media (max-width:640px){.brand p,.loire{display:none}.band-inner{padding-block:18px;gap:12px}}
+@media (max-width:640px){.loire{display:none}}
 .who-h{font-size:12.5px;font-weight:700;color:var(--accent);margin-top:4px}
 
 /* Discours */
@@ -232,7 +213,7 @@ a{color:var(--accent);text-underline-offset:2px}
 .script .step{display:flex;align-items:center;gap:10px}
 .script .n{width:32px;height:32px;border-radius:50%;background:var(--accent);color:var(--accent-ink);display:grid;place-items:center;font-family:var(--font-display);font-weight:800;font-size:15px;flex:none}
 .script h3{margin:0;font-size:16px;font-family:var(--font-display);font-weight:700;letter-spacing:-.01em}
-.script .dur{margin-left:auto;font-size:12.5px;color:var(--faint);white-space:nowrap}
+.script .dur{margin-left:auto;font-size:12.5px;color:var(--muted);white-space:nowrap}
 .script .step{flex-wrap:wrap}
 .script p{margin:0;font-size:14px;max-width:65ch}
 .script .next{font-size:13px;color:var(--v2);font-weight:600}
@@ -288,7 +269,7 @@ a{color:var(--accent);text-underline-offset:2px}
 .nm{font-weight:600;line-height:1.3;overflow-wrap:anywhere}
 .sub{color:var(--muted);font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ca{text-align:right;font-size:13.5px;font-weight:600;font-variant-numeric:tabular-nums}
-.ca small{display:block;color:var(--faint);font-size:12px;font-weight:400}
+.ca small{display:block;color:var(--muted);font-size:12px;font-weight:400}
 .ca .nc{font-style:normal;font-weight:500;font-size:12px;color:var(--muted)}
 @media (max-width:640px){
   .row,.list-head,.chead,.crow{grid-template-columns:36px minmax(0,1fr) auto}
@@ -327,7 +308,7 @@ a{color:var(--accent);text-underline-offset:2px}
 .btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
 .btn.primary:hover{color:var(--accent-ink);filter:brightness(1.08)}
 .d-sec{padding:16px 22px;border-top:1px solid var(--line-2);display:flex;flex-direction:column;gap:10px}
-.d-sec h3{margin:0;font-size:13px;color:var(--muted);font-weight:700}
+.d-sec h3{margin:0}
 .figs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
 .fig{background:var(--sunk);border-radius:var(--r-sm);padding:10px 12px;min-width:0}
 .fig b{display:block;font-family:var(--font-display);font-size:21px;font-weight:800;line-height:1.15;letter-spacing:-.02em;overflow-wrap:anywhere}
@@ -430,93 +411,323 @@ p.txt{margin:0;max-width:65ch}
 @media (max-width:640px){
   .copy{min-height:36px;padding:6px 12px;margin-left:4px}
   .tlong{display:none}.tshort{display:inline}.tab{padding:8px 13px}
-  .eyebrow{display:none}.brand h1{font-size:26px;margin-top:0}
-  #akpis{display:flex;flex-wrap:wrap;gap:4px 16px}
-  #akpis .kpi{flex-direction:row;align-items:baseline;gap:6px;padding:0;background:none;border:0;box-shadow:none}
-  #akpis .kpi b{font-size:22px}#akpis .kpi small{display:none}#akpis .kpi span{font-size:13px}
   .top-actions{gap:8px}.sync{font-size:12px}
-  #exportBtn span{display:none}#exportBtn{padding:8px 11px}
-  #viewAppels .sec-title{display:none}
   .content{padding-block:16px 48px;gap:16px}
   .toolbar select{flex:1 1 40%;padding:9px 12px}
   .toolbar .count{flex:1 1 100%;margin-left:0}
 }
+
+/* ---------- Barre d'application collée en haut, vue Aujourd'hui, poste d'appel ---------- */
+:root{--bar-h:58px;--abar-h:0px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:16;background:var(--bg)}
+.appbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:15;background:var(--bg);border-bottom:1px solid var(--line)}
+.appbar-in{display:flex;align-items:center;gap:16px;min-height:58px;padding-block:7px}
+.logo{font-family:var(--font-display);font-weight:800;font-size:20px;letter-spacing:-.02em;color:var(--ink);text-decoration:none;white-space:nowrap}
+.logo em{font-style:normal;color:var(--accent)}
+.appbar .tabs{min-width:0;align-self:center}
+.appbar .top-actions{margin-left:auto;flex-wrap:nowrap}
+.sync.on span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.kicker{display:block;font-size:13.5px;font-weight:600;color:var(--v2)}
+.content{padding-block:24px 64px}
+@media (max-width:640px){
+  :root{--bar-h:52px}
+  .logo{display:none}
+  .appbar-in{gap:8px;padding-block:6px;min-height:52px}
+  .sync span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+  .sync{padding:8px 2px}
+  .appbar .tabs{flex:1 1 auto;padding:4px}
+  .appbar .tab{padding:8px 10px;font-size:14px}
+}
+@media (max-width:360px){.appbar .tab{padding:7px 8px;font-size:13.5px}}
+
+/* Aujourd'hui */
+.jhead{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:12px 24px}
+.jtitle{min-width:0}
+.jhead h1{font-family:var(--font-display);font-weight:800;font-size:clamp(30px,4vw,44px);line-height:1;letter-spacing:-.025em;margin:4px 0 0}
+.lede{margin:8px 0 0;color:var(--muted);max-width:66ch;font-size:14.5px}
+#viewJour .loire{margin-block:-8px -6px}
+.seg{display:inline-flex;gap:3px;padding:4px;background:var(--sunk);border:1px solid var(--line);border-radius:999px}
+.seg button{border:0;background:transparent;color:var(--muted);padding:7px 14px;border-radius:999px;font-weight:600;cursor:pointer;font-size:13.5px;white-space:nowrap}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--accent);box-shadow:0 1px 3px rgba(70,45,20,.14)}
+.today{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;align-items:start}
+@media (max-width:1100px){.today{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.today>:last-child{grid-column:1/-1}}
+@media (max-width:760px){.today{grid-template-columns:minmax(0,1fr)}.today>:last-child{grid-column:auto}}
+.tcol{display:flex;flex-direction:column;min-width:0}
+.tcol>header{display:flex;justify-content:space-between;align-items:baseline;gap:10px;padding:14px 16px 6px}
+.tcol h2{margin:0;font-family:var(--font-display);font-size:18px;font-weight:700;letter-spacing:-.01em}
+.tlist{list-style:none;margin:0;padding:0 8px;display:flex;flex-direction:column}
+.titem{padding:10px 8px;border-top:1px solid var(--line-2);display:flex;flex-direction:column;gap:5px;min-width:0}
+.titem:first-child{border-top:0}
+.tmeta{display:flex;flex-wrap:wrap;gap:2px 8px;align-items:baseline;font-size:12.5px;color:var(--muted)}
+.tt{font-weight:700;color:var(--ink);font-variant-numeric:tabular-nums}
+.tt.late{color:var(--bad)}
+.tfoot{padding:6px 16px 14px;margin-top:auto}
+.tfoot .tbtn{color:var(--accent);padding:0}
+.tempty{margin:0;padding:4px 16px 12px;color:var(--muted);font-size:13.5px}
+.todo-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.todo-row:empty{display:none}
+.tlab{font-size:13px;font-weight:700;color:var(--muted);margin-right:2px}
+.tchip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 14px;font-weight:600;font-size:13.5px;cursor:pointer;color:var(--ink)}
+.tchip b{font-variant-numeric:tabular-nums}
+.tchip.bad{border-color:var(--bad);color:var(--bad)}
+.tchip:hover{border-color:var(--accent);color:var(--accent)}
+.dash{padding:16px 18px 18px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.dash-h{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:6px 16px}
+.dash-h h2{margin:0;font-family:var(--font-display);font-size:19px;font-weight:700;letter-spacing:-.015em}
+.dash2{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;align-items:start}
+@media (max-width:980px){.dash2{grid-template-columns:minmax(0,1fr)}}
+.dash h3{margin:0;font-size:13px;color:var(--muted);font-weight:700}
+/* Avancement : une entreprise a la même largeur sur toutes les lignes (sauf le total, à sa propre échelle) */
+.av{display:flex;flex-direction:column;gap:10px}
+.avr{display:grid;grid-template-columns:150px minmax(0,1fr) 230px;gap:6px 14px;align-items:center}
+.avr.tot{border-top:1px solid var(--line-2);padding-top:10px}
+.avl{border:0;background:none;padding:0;font:inherit;font-weight:600;text-align:left;cursor:pointer;color:var(--ink)}
+.avl:hover{color:var(--accent)}
+.avt{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.avtrack{height:14px;min-width:0}
+.avbar{display:flex;height:100%;border-radius:4px;overflow:hidden;background:var(--sunk);box-shadow:inset 0 0 0 1px var(--line)}
+.sg{display:block;height:100%;min-width:0}
+.sg-todo{background:transparent}
+.sg-contacte{background:var(--st-1)} .sg-en_discussion{background:var(--st-2)} .sg-rdv{background:var(--st-3)} .sg-partenaire{background:var(--st-4)}
+.sg-refus{background:repeating-linear-gradient(135deg,var(--st-5) 0 3px,var(--bad-soft) 3px 6px)}
+.legend i.sg{width:14px;height:10px;border-radius:2px}
+.legend i.sg-todo{background:var(--sunk);box-shadow:inset 0 0 0 1px var(--line)}
+@media (max-width:640px){.avr{grid-template-columns:minmax(0,1fr) auto}.avr .avtrack{grid-column:1/-1;order:3}}
+/* Équipe */
+.eqwrap{overflow-x:auto}
+.eqt{width:100%;border-collapse:collapse;font-size:13.5px;font-variant-numeric:tabular-nums}
+.eqt th,.eqt td{padding:6px 8px;border-bottom:1px solid var(--line-2);text-align:right;white-space:nowrap}
+.eqt th:first-child,.eqt td:first-child{text-align:left;white-space:normal}
+.eqt th{font-size:12px;color:var(--muted);font-weight:600}
+.cols{display:flex;align-items:flex-end;gap:6px;height:128px;border-bottom:1px solid var(--line)}
+.colw{flex:1 1 0;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;min-width:0;gap:3px}
+.colv{font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.colb{width:100%;max-width:30px;display:flex;flex-direction:column-reverse;border-radius:4px 4px 0 0;overflow:hidden}
+.colb i{display:block}
+.cj{background:var(--accent)} .cn{background:var(--accent-soft);box-shadow:inset 0 0 0 1px var(--accent)}
+.cold{display:flex;gap:6px;margin-top:4px}
+.cold span{flex:1 1 0;text-align:center;font-size:11px;color:var(--muted);min-width:0;white-space:nowrap;overflow:hidden}
+.reslist{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12.5px;color:var(--muted);margin:0;padding:0;list-style:none}
+.reslist b{color:var(--ink);font-variant-numeric:tabular-nums}
+/* Qualité des fiches */
+.qa{display:flex;flex-direction:column;gap:14px}
+.qr{display:flex;flex-direction:column;gap:4px}
+.qr h3{font-size:13.5px;color:var(--ink);font-weight:600}
+.qb{display:grid;grid-template-columns:62px minmax(0,1fr) 86px;gap:10px;align-items:center;border:0;background:none;padding:3px 0;font:inherit;text-align:left;cursor:pointer;color:var(--ink);width:100%;border-radius:6px}
+.qb:hover .qn,.qb:focus-visible .qn{color:var(--accent)}
+.qk{font-size:12px;color:var(--muted)}
+.qt{height:10px;background:var(--sunk);border-radius:3px;overflow:hidden;display:flex;box-shadow:inset 0 0 0 1px var(--line)}
+.qt i{display:block;height:100%}
+.q1{background:var(--v2)} .q2{background:var(--v2-soft);box-shadow:inset 0 0 0 1px var(--v2)}
+.qn{font-size:12.5px;font-variant-numeric:tabular-nums;white-space:nowrap;text-align:right}
+/* Vagues : avancement */
+.wave .big small{font-size:22px;color:var(--muted);font-weight:700;letter-spacing:0}
+.wprog{grid-column:1/-1;display:flex;height:6px;margin-top:10px;border-radius:3px;overflow:hidden;background:var(--surface)}
+.dot.o{background:transparent;box-shadow:inset 0 0 0 2px var(--st-0)}
+.wave .pill{font-size:11.5px;padding:2px 8px}
+/* Carte : statut sur les points */
+.dotc.st-todo{fill:var(--surface);stroke-width:2.4}
+.dotc.d1.st-todo{stroke:var(--v1)} .dotc.d2.st-todo{stroke:var(--v2)} .dotc.d3.st-todo{stroke:var(--v3)}
+.dotc.st-rdv,.dotc.st-partenaire{fill:var(--accent)}
+.dotc.st-refus{opacity:.35}
+.legend .ring{width:10px;height:10px;border-radius:50%;box-shadow:inset 0 0 0 2px var(--muted);background:transparent}
+.legend .full{background:var(--muted)} .legend .acc{background:var(--accent)} .legend .faded{background:var(--muted);opacity:.35}
+
+/* Feuille d'appels */
+.abar{display:flex;flex-direction:column;gap:10px}
+.anchors{display:flex;flex-wrap:wrap;gap:6px}
+.anchors:empty{display:none}
+.anc{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 12px;font-size:13px;font-weight:600;cursor:pointer;color:var(--ink)}
+.anc b{font-variant-numeric:tabular-nums;margin-left:6px}
+.anc.late{color:var(--bad);border-color:var(--bad)}
+.anc.nx{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.anc:hover{border-color:var(--accent)}
+.amain{display:grid;grid-template-columns:minmax(0,1fr);gap:18px;align-items:start}
+.amain:not(.open) .detail{display:none}
+.agroup{overflow:clip;scroll-margin-top:calc(var(--bar-h) + 12px)}
+.nextcall{border:2px solid var(--accent)}
+.nextcall>header{background:var(--accent-soft)}
+.arow.sel{background:var(--accent-soft);box-shadow:inset 3px 0 0 var(--accent)}
+.rdvl{list-style:none;margin:0;padding:4px 10px}
+.rdvl li{display:grid;grid-template-columns:170px minmax(0,1fr) minmax(0,1fr);gap:2px 14px;align-items:baseline;padding:9px 8px;border-bottom:1px solid var(--line-2)}
+.rdvl li:last-child{border-bottom:0}
+.rdvd{font-weight:700;font-size:13px;font-variant-numeric:tabular-nums}
+.rdvl li.late .rdvd{color:var(--bad)}
+@media (max-width:640px){.rdvl li{grid-template-columns:minmax(0,1fr)}}
+.anl{display:flex;align-items:baseline;gap:8px;min-width:0}
+.rkm{display:none;font-size:12px;font-weight:700;padding:1px 7px;border-radius:7px;background:var(--wcs);color:var(--wc);white-space:nowrap}
+.rk.lt,.rkm.lt{background:var(--bad-soft);color:var(--bad)}
+.asks{list-style:none;margin:2px 0 0;padding:0;display:flex;flex-direction:column;gap:3px;font-size:13.5px}
+.ask-l{display:block;font-size:12px;color:var(--muted);font-weight:600}
+.rtag{display:inline-flex;align-items:center;gap:4px;font-size:11.5px;font-weight:700;white-space:nowrap;vertical-align:baseline}
+.rtag::before{content:"";width:6px;height:6px;border-radius:50%;background:currentColor;flex:none}
+.r-finance{color:var(--slate)} .r-rh{color:var(--v2)} .r-administratif{color:var(--warm)} .r-direction_site{color:var(--v1)} .r-direction,.r-autre{color:var(--muted)} .r-equipe{color:var(--accent)}
+.r-prob{color:var(--muted);font-weight:600}
+.r-prob::before{background:transparent;box-shadow:inset 0 0 0 1.5px currentColor}
+.qres{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.qchip{border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:6px 11px;font-size:12.5px;font-weight:600;cursor:pointer;color:var(--ink);min-height:34px}
+.qchip:hover{border-color:var(--accent);color:var(--accent)}
+.qchip:disabled{opacity:.5;cursor:default}
+.qres select{padding:7px 10px;border:1px solid var(--line);border-radius:999px;background:var(--bg);max-width:100%;min-height:34px}
+.qdates{display:flex;flex-wrap:wrap;gap:6px;flex:1 1 100%}
+.aform datalist{display:none}
+.aform input[name=w]{flex:1 1 180px}
+.tel2{font-size:12.5px;gap:6px}
+.btn-call{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:var(--accent);color:var(--accent-ink)!important;border-radius:999px;padding:9px 18px;font-weight:700;text-decoration:none;font-size:16px;min-height:44px}
+.btn-call:hover{filter:brightness(1.08)}
+.btn-call::before{content:"";width:16px;height:16px;flex:none;background:currentColor;-webkit-mask:var(--ic-tel) center/contain no-repeat;mask:var(--ic-tel) center/contain no-repeat}
+:root{--ic-tel:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z'/%3E%3C/svg%3E")}
+@media (pointer:coarse),(max-width:640px){
+  .atel .calllink,.titem .calllink{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--accent);color:var(--accent-ink);border-radius:999px;padding:10px 18px;font-weight:700;font-size:16px;min-height:46px;text-decoration:none;width:100%}
+  .atel .calllink::before,.titem .calllink::before{content:"";width:16px;height:16px;background:currentColor;-webkit-mask:var(--ic-tel) center/contain no-repeat;mask:var(--ic-tel) center/contain no-repeat}
+  .atel .copy{display:none}
+  .atel .contact{flex-wrap:nowrap}
+}
+@media (max-width:640px){
+  .arow{grid-template-columns:minmax(0,1fr);padding:12px 14px}
+  .arow>.rk{display:none}
+  .rkm{display:inline-block}
+  .arow .atel,.arow .astate{grid-column:1}
+}
+@media (min-width:981px){
+  .abar{position:sticky;top:calc(var(--bar-h) + env(safe-area-inset-top,0px));z-index:6;background:var(--bg);padding-block:12px 10px;margin-block:-12px 0}
+  .agroup>header{position:sticky;top:calc(var(--bar-h) + var(--abar-h) + env(safe-area-inset-top,0px));z-index:3}
+  .agroup{scroll-margin-top:calc(var(--bar-h) + var(--abar-h) + 12px)}
+  .amain.open{grid-template-columns:minmax(0,1fr) minmax(0,470px)}
+  .amain.open .arow{grid-template-columns:40px minmax(0,1fr);row-gap:8px}
+  .amain.open .arow .atel,.amain.open .arow .astate{grid-column:2}
+  .detail{top:calc(var(--bar-h) + 14px + env(safe-area-inset-top,0px));max-height:calc(100vh - var(--bar-h) - 28px)}
+  #viewAppels .detail{top:calc(var(--bar-h) + var(--abar-h) + 14px + env(safe-area-inset-top,0px));max-height:calc(100vh - var(--bar-h) - var(--abar-h) - 28px)}
+}
+/* Filtres repliables sur téléphone, export par vue */
+.fbtn{display:none}
+.fgroup{display:contents}
+.xacts{display:inline-flex;gap:8px;flex-wrap:wrap}
+.xbtn{padding:9px 14px;font-size:13.5px;box-shadow:var(--shadow)}
+@media (max-width:640px){
+  .fbtn{display:inline-flex}
+  .fgroup{display:none;flex:1 1 100%;flex-wrap:wrap;gap:8px}
+  .fgroup.open{display:flex}
+  .fgroup select{flex:1 1 40%;min-width:0}
+  .toolbar .count{flex:1 1 auto;margin-left:0}
+  .pipeline{display:flex;overflow-x:auto;gap:8px;padding-bottom:4px}
+  .stage{flex:0 0 auto;flex-direction:row;align-items:baseline;gap:6px;padding:8px 12px}
+  .stage .n{font-size:18px}
+  .stage .l{overflow:visible}
+  .stage .bar{display:none}
+}
+
+/* Fiche */
+.d-head .tags .pill{background:var(--surface)}
+.d-head h2{font-size:clamp(21px,5.6vw,28px)}
+.d-head h2.long{font-size:20px;font-weight:700;letter-spacing:-.01em}
+.d-head h2:focus{outline:none}
+.d-head h2:focus-visible{outline:none}
+.d-head>[data-back]{align-self:flex-start}
+.d-sec h3{font-family:var(--font-display);font-size:16px;color:var(--ink);font-weight:700;letter-spacing:-.01em}
+.cb-nums{display:flex;flex-direction:column;gap:8px}
+.cb-row{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px}
+.cb-find{display:flex;flex-direction:column;gap:6px}
+.callbox>.btn{align-self:flex-start}
+.callbox .btn-call{font-size:17px}
+.people{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.pp{display:flex;flex-direction:column;gap:3px;padding-bottom:10px;border-bottom:1px solid var(--line-2)}
+.pp:last-child{border-bottom:0;padding-bottom:0}
+.pp-h{display:flex;flex-wrap:wrap;gap:3px 10px;align-items:baseline}
+.pp-f{font-size:13.5px;color:var(--muted)}
+.pp-c{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:13px}
+.pp-d summary{cursor:pointer;color:var(--accent);font-size:12.5px;font-weight:600}
+.pp-d p{margin:4px 0 0;font-size:13px;color:var(--muted);max-width:65ch}
+.figs.off .fig b{color:var(--muted)}
+.offnote{margin:0;font-size:13px;color:var(--bad)}
+.fig b{font-size:clamp(17px,4.6vw,21px)}
+.inl{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.inl input{flex:1 1 160px;min-width:0;padding:8px 11px;border:1px solid var(--line);border-radius:var(--r-sm);background:var(--bg)}
+.rdvbox{grid-column:1/-1}
+.rdvbox summary{cursor:pointer;font-size:12.5px;color:var(--accent);font-weight:600;padding:4px 0}
+.rdvbox .form{margin-top:6px}
+.simwrap{overflow-x:auto}
+.simt td{white-space:nowrap}
+.dbar{display:none}
+@media (min-width:981px){.d-head .close{display:none}}
+@media (max-width:980px){
+  .dbar{display:flex;position:sticky;top:0;z-index:4;align-items:center;gap:10px;padding:8px 12px;background:var(--surface);border-bottom:1px solid var(--line)}
+  .dbar .dn{flex:1;min-width:0;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .dbar .btn{padding:7px 13px}
+  .dbar .dcall{display:inline-flex;align-items:center;justify-content:center;width:42px;height:42px;border-radius:50%;background:var(--accent);color:transparent;font-size:0;flex:none;text-decoration:none}
+  .dbar .dcall::before{content:"";width:18px;height:18px;background:var(--accent-ink);-webkit-mask:var(--ic-tel) center/contain no-repeat;mask:var(--ic-tel) center/contain no-repeat}
+  .d-head>.close,.d-head>[data-back]{display:none}
+}
+@media (max-width:480px){.simt{font-size:12px}.simt th,.simt td{padding:6px 4px}}
+
+/* Listes */
+.pr .pill{background:none;padding-inline:0}
+.st0{color:var(--faint);font-size:13px}
+.nm{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.w0 .rk{color:var(--muted)}
+.row:focus-visible{outline-offset:-3px;border-radius:var(--r-sm)}
+@media (max-width:640px){
+  .rk{position:relative}
+  .rk.pz-Haute::after,.rk.pz-Moyenne::after{content:"";position:absolute;right:-3px;top:-3px;width:10px;height:10px;border-radius:50%;border:2px solid var(--surface)}
+  .rk.pz-Haute::after{background:var(--hot)} .rk.pz-Moyenne::after{background:var(--warm)}
+}
+/* Culture : le projet replié */
+.proj summary{cursor:pointer;padding:14px 18px;font-family:var(--font-display);font-weight:700;font-size:17px;list-style:none;display:flex;justify-content:space-between;gap:12px}
+.proj summary::-webkit-details-marker{display:none}
+.proj summary::after{content:"+";color:var(--accent);font-weight:700}
+.proj[open] summary::after{content:"–"}
+.proj-b{padding:0 18px 18px;display:flex;flex-direction:column;gap:14px}
+.toast{left:16px;right:16px;margin-inline:auto;width:max-content;max-width:calc(100vw - 32px);transform:none;border-radius:14px;flex-wrap:wrap;justify-content:center}
+.toast .tbtn{min-height:40px;padding:8px 10px}
 </style>
 
-<header class="band">
-  <div class="gutter band-inner">
-    <div class="topline">
-      <div class="brand">
-        <span class="eyebrow">Nièvre · 58 · Cosne-Cours-sur-Loire</span>
-        <h1>CRM Entreprises <em>Nièvre</em></h1>
-        <p>Proposer aux entreprises de la Nièvre des œuvres d'artistes vivants, déductibles de leur résultat (article 238 bis AB du CGI). Fiches, plafonds de déduction, priorités et suivi des démarches, partagés entre associés, avec le volet culture : artistes, associations et lieux.</p>
-      </div>
-      <div class="top-actions">
-        <div class="scope" id="scope" role="group" aria-label="Périmètre"><button type="button" data-scope="100" aria-pressed="true">100 entreprises</button><button type="button" data-scope="all" aria-pressed="false">Les 500</button></div>
-        <span class="sync" id="sync"><i></i><span>Connexion…</span></span>
-        <button class="btn-ghost" id="exportBtn" type="button"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg><span>Exporter les entreprises (CSV)</span></button>
-      </div>
-    </div>
-
-    <svg class="loire" viewBox="0 0 1200 24" preserveAspectRatio="none" aria-hidden="true"><path d="M0 14 C 60 4, 120 4, 180 12 S 300 22, 360 14 S 480 2, 560 10 S 700 22, 780 14 S 900 4, 980 10 S 1120 22, 1200 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"/></svg>
+<header class="appbar" id="appbar">
+  <div class="gutter appbar-in">
+    <a class="logo" href="#aujourdhui" data-goview="jour" aria-label="CRM Entreprises Nièvre : aujourd'hui">CRM <em>Nièvre</em></a>
     <div class="tabs" role="tablist" aria-label="Vues">
-      <button class="tab" role="tab" id="tab-plan" data-view="plan" aria-selected="true" type="button"><span class="tlong">Plan d'attaque</span><span class="tshort">Plan</span></button>
+      <button class="tab" role="tab" id="tab-jour" data-view="jour" aria-selected="true" type="button"><span class="tlong">Aujourd'hui</span><span class="tshort">Jour</span></button>
       <button class="tab" role="tab" id="tab-appels" data-view="appels" aria-selected="false" type="button">Appels</button>
-      <button class="tab" role="tab" id="tab-fiches" data-view="fiches" aria-selected="false" type="button"><span class="tlong">Les 100 entreprises</span><span class="tshort">Fiches</span></button>
-      <button class="tab" role="tab" id="tab-culture" data-view="culture" aria-selected="false" type="button"><span class="tlong">Culture &amp; événements</span><span class="tshort">Culture</span></button>
+      <button class="tab" role="tab" id="tab-fiches" data-view="fiches" aria-selected="false" type="button"><span class="tlong">Entreprises</span><span class="tshort">Fiches</span></button>
+      <button class="tab" role="tab" id="tab-culture" data-view="culture" aria-selected="false" type="button">Culture</button>
+      <button class="tab" role="tab" id="tab-memo" data-view="memo" aria-selected="false" type="button"><span class="tlong">Mémo d'appel</span><span class="tshort">Mémo</span></button>
     </div>
-
-    <div id="heroPlan" class="hero">
-      <div class="kpis" id="kpis"></div>
-      <div class="route-card">
-        <div class="route-head">
-          <div><h2>Les cibles, par distance depuis Cosne</h2><p>Distances par la route, échelle resserrée. La taille du point suit l'effectif. Clique sur un point pour ouvrir la fiche.</p></div>
-          <div class="legend" id="legend"></div>
-        </div>
-        <div id="route" role="group" aria-label="Carte des cibles par distance depuis Cosne"></div>
-      </div>
-    </div>
-    <div id="heroAppels" class="hero" hidden>
-      <div class="kpis" id="akpis"></div>
-    </div>
-    <div id="heroFiches" class="hero" hidden>
-      <nav class="pipeline" id="pipeline" aria-label="Étapes de prospection"></nav>
-    </div>
-    <div id="heroCulture" class="hero" hidden>
-      <div class="kpis" id="ckpis"></div>
-      <div class="roadmap" aria-label="Feuille de route">
-        <div class="rstep"><div class="rtop"><span class="rn">1</span><span class="rw">Semaines 1–2</span></div><b>Caler le concept</b><span class="rd">Murs disponibles, éclairage, jours d'ouverture, budget des vernissages.</span></div>
-        <div class="rstep"><div class="rtop"><span class="rn">2</span><span class="rw">Semaines 2–4</span></div><b>Contacter les prioritaires</b><span class="rd">Artistes et associations en priorité haute, avec le message prêt dans leur fiche.</span></div>
-        <div class="rstep"><div class="rtop"><span class="rn">3</span><span class="rw">Mois 2</span></div><b>Choisir le premier artiste</b><span class="rd">Convention d'exposition signée, date du vernissage fixée.</span></div>
-        <div class="rstep"><div class="rtop"><span class="rn">4</span><span class="rw">Mois 2–3</span></div><b>Premier vernissage</b><span class="rd">Annoncé dans la presse locale, à l'office de tourisme et sur les réseaux.</span></div>
-        <div class="rstep"><div class="rtop"><span class="rn">5</span><span class="rw">Ensuite</span></div><b>Le rythme de croisière</b><span class="rd">Une nouvelle expo tous les deux mois, un rendez-vous par mois avec une association.</span></div>
-      </div>
-    </div>
+    <div class="top-actions"><span class="sync" id="sync" role="status"><i></i><span>Connexion…</span></span></div>
   </div>
 </header>
 
-<section id="viewPlan" class="gutter content" aria-labelledby="tab-plan">
-  <div class="sec-title"><div><span class="kicker">Ordre d'attaque</span><h2>Les vagues de prospection</h2></div><span class="hint">Clique sur une entreprise pour ouvrir sa fiche</span></div>
-  <div class="waves" id="waves"></div>
-
-  <div class="sec-title"><div><span class="kicker">Article 238 bis AB du CGI</span><h2>Le dispositif en cinq conditions</h2></div><span class="tag-valid">Achats réalisés jusqu'au 31/12/2028</span></div>
-  <div class="grid5" id="offers"></div>
-
-  <div class="sec-title"><div><span class="kicker">Avec le client</span><h2>Le calcul à faire ensemble</h2></div><span class="hint">Chiffres indicatifs, à valider avec son expert-comptable</span></div>
-  <div class="calc card" id="calc">
-    <form class="in" id="calcForm">
-      <div class="field"><label for="simCa">Chiffre d'affaires HT (€)</label><input id="simCa" type="number" inputmode="numeric" min="0" step="10000" value="5000000"></div>
-      <div class="field"><label for="simPrix">Prix de l'œuvre HT (€)</label><input id="simPrix" type="number" inputmode="numeric" min="0" step="1000" value="25000"></div>
-      <div class="field"><label for="simDons">Dons de mécénat de l'année (€)</label><input id="simDons" type="number" inputmode="numeric" min="0" step="500" value="0"></div>
-      <div class="field"><label for="simTaux">Taux d'impôt sur les sociétés</label><select id="simTaux"><option value="0.25">25 % (taux normal)</option><option value="0.15">15 % (PME, bénéfice sous 42 500 €)</option></select></div>
-      <p class="expl full" id="simFrom">Exemple : une entreprise de 5 M€ de chiffre d'affaires. Depuis une fiche, « Simuler avec ce chiffre d'affaires » remplit le calcul.</p>
-    </form>
-    <div class="out" aria-live="polite">
-      <div class="figs" id="simFigs"></div>
-      <p class="expl" id="simTxt"></p>
+<section id="viewJour" class="gutter content" aria-labelledby="jTitle">
+  <div class="jhead">
+    <div class="jtitle">
+      <span class="kicker" id="jDate">Aujourd'hui</span>
+      <h1 id="jTitle">Aujourd'hui</h1>
+      <p class="lede">Œuvres d'artistes vivants pour les entreprises de la Nièvre, déductibles de leur résultat (article 238 bis AB du CGI). Le suivi des appels est partagé entre associés.</p>
     </div>
+    <div class="seg" id="jWho" role="group" aria-label="Afficher les rendez-vous et rappels de" hidden><button type="button" data-who="" aria-pressed="true">Toute l'équipe</button><button type="button" data-who="me" aria-pressed="false">Moi</button></div>
   </div>
+  <svg class="loire" viewBox="0 0 1200 24" preserveAspectRatio="none" aria-hidden="true"><path d="M0 14 C 60 4, 120 4, 180 12 S 300 22, 360 14 S 480 2, 560 10 S 700 22, 780 14 S 900 4, 980 10 S 1120 22, 1200 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"/></svg>
+  <div class="today" id="today"></div>
+  <div class="todo-row" id="atraiter"></div>
+  <section class="card dash" aria-labelledby="hAv">
+    <header class="dash-h"><h2 id="hAv">Avancement de la campagne</h2><div class="legend" id="avLegend"></div></header>
+    <div class="av" id="avance"></div>
+  </section>
+  <div class="dash2">
+    <section class="card dash" aria-labelledby="hEq"><header class="dash-h"><h2 id="hEq">L'équipe</h2><span class="hint" id="eqSum"></span></header><div id="equipe"></div></section>
+    <section class="card dash" aria-labelledby="hQa"><header class="dash-h"><h2 id="hQa">Qualité des fiches</h2><span class="hint">Clique sur une barre pour voir les fiches à compléter</span></header><div class="qa" id="qualite"></div></section>
+  </div>
+  <div class="sec-title"><div><span class="kicker">Ordre d'attaque</span><h2>Les vagues</h2></div><span class="hint">Clique sur une entreprise pour ouvrir sa fiche</span></div>
+  <div class="waves" id="waves"></div>
+  <div class="route-card">
+    <div class="route-head">
+      <div><h2>Les cibles, par distance depuis Cosne</h2><p>Distances par la route, échelle resserrée. La taille du point suit l'effectif, son remplissage le statut. Clique sur un point pour ouvrir la fiche.</p></div>
+      <div class="legend" id="legend"></div>
+    </div>
+    <div id="route" role="group" aria-label="Carte des cibles par distance depuis Cosne"></div>
+  </div>
+  <p class="foot-note" id="cultureLine"></p>
+</section>
 
+<section id="viewMemo" class="gutter content" hidden aria-labelledby="tab-memo">
   <div class="sec-title"><div><span class="kicker">Au téléphone</span><h2>Le discours</h2></div></div>
   <div class="scripts">
     <article class="script card">
@@ -543,6 +754,24 @@ p.txt{margin:0;max-width:65ch}
     </article>
   </div>
   <p class="foot-note">Le mail d'approche personnalisé se génère dans chaque fiche entreprise, avec son plafond de déduction et le lieu d'exposition possible. Il ne mentionne jamais nos établissements. Avant tout envoi, y indiquer la structure qui vend les œuvres et vérifier sur Pappers que l'entreprise ne s'est pas opposée à la prospection.</p>
+
+  <div class="sec-title"><div><span class="kicker">Article 238 bis AB du CGI</span><h2>Le dispositif en cinq conditions</h2></div><span class="tag-valid">Achats réalisés jusqu'au 31/12/2028</span></div>
+  <div class="grid5" id="offers"></div>
+
+  <div class="sec-title"><div><span class="kicker">Avec le client</span><h2>Le calcul à faire ensemble</h2></div><span class="hint">Chiffres indicatifs, à valider avec son expert-comptable</span></div>
+  <div class="calc card" id="calc">
+    <form class="in" id="calcForm">
+      <div class="field"><label for="simCa">Chiffre d'affaires HT (€)</label><input id="simCa" type="number" inputmode="numeric" min="0" step="10000" value="5000000"></div>
+      <div class="field"><label for="simPrix">Prix de l'œuvre HT (€)</label><input id="simPrix" type="number" inputmode="numeric" min="0" step="1000" value="25000"></div>
+      <div class="field"><label for="simDons">Dons de mécénat de l'année (€)</label><input id="simDons" type="number" inputmode="numeric" min="0" step="500" value="0"></div>
+      <div class="field"><label for="simTaux">Taux d'impôt sur les sociétés</label><select id="simTaux"><option value="0.25">25 % (taux normal)</option><option value="0.15">15 % (PME, bénéfice sous 42 500 €)</option></select></div>
+      <p class="expl full" id="simFrom">Exemple : une entreprise de 5 M€ de chiffre d'affaires. Depuis une fiche, « Simuler avec ce chiffre d'affaires » remplit le calcul.</p>
+    </form>
+    <div class="out" aria-live="polite">
+      <div class="figs" id="simFigs"></div>
+      <p class="expl" id="simTxt"></p>
+    </div>
+  </div>
 
   <div class="sec-title"><div><span class="kicker">Avant d'appeler</span><h2>Le cadre légal</h2></div></div>
   <div class="acc card">
@@ -583,36 +812,46 @@ p.txt{margin:0;max-width:65ch}
 </section>
 
 <section id="viewAppels" class="gutter content" hidden aria-labelledby="tab-appels">
-  <div class="sec-title"><div><span class="kicker">Feuille d'appels</span><h2>Qui appeler maintenant</h2></div><span class="hint">Note le résultat dans la liste : sans réponse, le rappel passe au jour ouvré suivant</span></div>
-  <div class="toolbar">
-    <label class="search"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg><input type="search" id="aq" placeholder="Nom, ville ou numéro qui appelle…" aria-label="Rechercher dans la feuille d'appels"></label>
-    <select id="aResp" aria-label="Appelant"><option value="">Tous les appelants</option></select>
-    <select id="aVague" aria-label="Vague"><option value="">Toutes les vagues</option><option value="1">Vague 1 · Cosne</option><option value="2">Vague 2 · le bassin</option><option value="3">Vague 3 · grands comptes</option><option value="m">Deuxième cercle · priorité moyenne</option></select>
-    <span class="count num" id="acount"></span>
+  <div class="abar" id="abar">
+    <div class="toolbar">
+      <label class="search"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg><input type="search" id="aq" placeholder="Nom, ville, interlocuteur ou numéro qui appelle…" aria-label="Rechercher dans la feuille d'appels"></label>
+      <button class="btn fbtn" type="button" id="aFiltBtn" aria-expanded="false" aria-controls="aFilt">Filtres</button>
+      <div class="fgroup" id="aFilt">
+        <select id="aResp" aria-label="Appelant"><option value="">Tous les appelants</option></select>
+        <select id="aVague" aria-label="Vague"><option value="">Toutes les vagues</option><option value="1">Vague 1 · Cosne</option><option value="2">Vague 2 · le bassin</option><option value="3">Vague 3 · grands comptes</option><option value="m">Deuxième cercle · priorité moyenne</option></select>
+      </div>
+      <span class="count num" id="acount"></span>
+      <span class="xacts"><button class="btn xbtn" type="button" id="exportIcs">Agenda (.ics)</button><button class="btn xbtn" type="button" id="aExport">Exporter (CSV)</button></span>
+    </div>
+    <nav class="anchors" id="akpis" aria-label="Aller à un groupe"></nav>
   </div>
-  <div id="alist" class="alist"></div>
-  <details class="card bilan" id="bilan"><summary>Bilan de la campagne <span class="hint" id="bilanSum"></span></summary><div class="bilan-b" id="bilanB"></div></details>
-  <p class="foot-note">Les entreprises « Pas intéressé », « Œuvre achetée » ou qui ont demandé à ne plus être contactées sortent de la liste. Le refus de prospection est daté dans la fiche et conservé 3 ans. Le deuxième cercle (choix « Deuxième cercle » dans le filtre des vagues) réunit les entreprises du top 100 en priorité moyenne : décision souvent prise au siège d'un groupe.</p>
-  <div class="foot-acts"><button class="tbtn" type="button" id="exportIcs" style="color:var(--accent);padding:0">Ajouter rappels et rendez-vous à mon agenda (.ics)</button><button class="tbtn" type="button" id="exportOpp" style="color:var(--accent);padding:0">Exporter la liste des refus (CSV)</button></div>
+  <div class="amain" id="amain"><div id="alist" class="alist"></div></div>
+  <p class="foot-note">Les entreprises « Pas intéressé », « Œuvre achetée » ou qui ont demandé à ne plus être contactées sortent de la liste. Le refus de prospection est daté dans la fiche et conservé 3 ans. Sans réponse, le rappel passe au jour ouvré suivant, sans dépasser 4 appels en 30 jours. Le deuxième cercle (filtre des vagues) réunit les entreprises du top 100 en priorité moyenne : décision souvent prise au siège d'un groupe.</p>
+  <div class="foot-acts"><button class="tbtn" type="button" id="exportOpp" style="color:var(--accent);padding:0">Exporter la liste des refus (CSV)</button></div>
 </section>
 
 <section id="viewFiches" class="gutter content" hidden aria-labelledby="tab-fiches">
+  <nav class="pipeline" id="pipeline" aria-label="Étapes de prospection"></nav>
   <div class="toolbar">
-    <label class="search"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg><input type="search" id="q" placeholder="Rechercher une entreprise, une ville, un dirigeant…" aria-label="Rechercher"></label>
-    <select id="fPrio" aria-label="Priorité"><option value="">Toutes priorités</option><option>Haute</option><option>Moyenne</option><option>Basse</option></select>
-    <select id="fSect" aria-label="Secteur"><option value="">Tous secteurs</option></select>
-    <select id="fTop" aria-label="Classement"><option value="">Tout le classement</option><option value="top">Top 100</option><option value="ext">Rangs 101 à 500</option></select>
-    <select id="fContact" aria-label="Coordonnées"><option value="">Toutes coordonnées</option><option value="tel">Avec téléphone</option><option value="notel">Sans téléphone</option><option value="fin">Avec décideur financier</option><option value="opp">Opposées à la prospection</option></select>
-    <select id="fArt" aria-label="Profil fiscal"><option value="">Tous profils fiscaux</option><option value="isb">À l'IS et bénéficiaires</option><option value="pub">Lieu ouvert au public</option><option value="big">Plafond au-dessus de 20 000 €</option></select>
-    <select id="fSort" aria-label="Trier">
-      <option value="rang">Tri : rang (CA)</option>
-      <option value="prio">Tri : priorité</option>
-      <option value="plafond">Tri : plafond de déduction</option>
-      <option value="dist">Tri : proximité de Cosne</option>
-      <option value="eff">Tri : effectif</option>
-      <option value="relance">Tri : prochain rappel</option>
-    </select>
+    <label class="search"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg><input type="search" id="q" placeholder="Rechercher une entreprise, une ville, un interlocuteur…" aria-label="Rechercher"></label>
+    <button class="btn fbtn" type="button" id="fFiltBtn" aria-expanded="false" aria-controls="fFilt">Filtres</button>
+    <div class="fgroup" id="fFilt">
+      <select id="fTop" aria-label="Entreprises"><option value="">Les 500 entreprises</option><option value="cibles">Cibles des vagues</option><option value="actives">Entreprises actives</option><option value="top">Top 100 (fiches approfondies)</option><option value="ext">Rangs 101 à 500</option></select>
+      <select id="fPrio" aria-label="Priorité"><option value="">Toutes priorités</option><option>Haute</option><option>Moyenne</option><option>Basse</option></select>
+      <select id="fSect" aria-label="Secteur"><option value="">Tous secteurs</option></select>
+      <select id="fContact" aria-label="Coordonnées et interlocuteurs"><option value="">Toutes coordonnées</option><option value="tel">Avec téléphone</option><option value="notel">Sans téléphone</option><option value="aconf">Numéro à confirmer</option><option value="faux">Faux numéro signalé</option><option value="admin">Avec interlocuteur finance, RH ou admin</option><option value="noadmin">Sans interlocuteur finance, RH ou admin</option><option value="direct">Avec ligne directe ou e-mail nominatif</option><option value="nodirect">Sans ligne directe ni e-mail nominatif</option><option value="opp">Opposées à la prospection</option></select>
+      <select id="fArt" aria-label="Profil fiscal"><option value="">Tous profils fiscaux</option><option value="isb">À l'IS et bénéficiaires</option><option value="pub">Lieu ouvert au public</option><option value="big">Plafond au-dessus de 20 000 €</option></select>
+      <select id="fSort" aria-label="Trier">
+        <option value="rang">Tri : rang (CA)</option>
+        <option value="prio">Tri : priorité</option>
+        <option value="plafond">Tri : plafond de déduction</option>
+        <option value="dist">Tri : proximité de Cosne</option>
+        <option value="eff">Tri : effectif</option>
+        <option value="relance">Tri : prochain rappel</option>
+      </select>
+    </div>
     <span class="count num" id="count"></span>
+    <button class="btn xbtn" type="button" id="fExport">Exporter (CSV)</button>
   </div>
   <div class="main">
     <section class="list card" aria-label="Entreprises">
@@ -625,21 +864,14 @@ p.txt{margin:0;max-width:65ch}
 </section>
 
 <section id="viewCulture" class="gutter content" hidden aria-labelledby="tab-culture">
-  <div class="sec-title"><div><span class="kicker">Proposition</span><h2>Le Vieux Relais, lieu d'expo et de rendez-vous</h2></div><span class="tag-valid">Une idée à construire ensemble</span></div>
-  <div class="grid4">
-    <article class="offer card"><span class="ico" data-ic="palette"></span><h3>Une expo qui tourne</h3><p class="muted">Un artiste ou un duo du territoire tous les deux mois sur les murs : peinture, photo, céramique en vitrine.</p></article>
-    <article class="offer card"><span class="ico" data-ic="spark"></span><h3>Un vernissage à chaque expo</h3><p class="muted">Une soirée ouverte au public avec l'artiste, des vins du coin et un musicien local.</p></article>
-    <article class="offer card"><span class="ico" data-ic="users"></span><h3>Un rendez-vous par mois</h3><p class="muted">Co-organisé avec une association : atelier, scène ouverte, conférence, projection.</p></article>
-    <article class="offer card"><span class="ico" data-ic="calendar"></span><h3>Des temps forts</h3><p class="muted">Calés sur le calendrier culturel national et local, voir plus bas.</p></article>
-  </div>
-
-  <div class="sec-title"><div><span class="kicker">Qui contacter</span><h2>Associations, artistes et lieux</h2></div><span class="hint">Clique sur un nom pour ouvrir sa fiche et son message d'approche</span></div>
+  <div class="sec-title"><div><span class="kicker">Le Vieux Relais · volet culture</span><h2>Associations, artistes et lieux</h2></div><span class="hint" id="ckpis"></span></div>
   <div class="toolbar">
     <label class="search"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg><input type="search" id="cq" placeholder="Rechercher un nom, une ville, une discipline…" aria-label="Rechercher un prospect culture"></label>
     <select id="cfam" aria-label="Famille"><option value="">Tout le monde</option></select>
     <select id="cprio" aria-label="Priorité"><option value="">Toutes priorités</option><option>Haute</option><option>Moyenne</option><option>Basse</option></select>
     <select id="cstatut" aria-label="Statut"><option value="">Tous statuts</option></select>
     <span class="count num" id="ccount"></span>
+    <button class="btn xbtn" type="button" id="cExport">Exporter (CSV)</button>
   </div>
   <div class="main">
     <section class="list card" aria-label="Prospects culture">
@@ -648,6 +880,22 @@ p.txt{margin:0;max-width:65ch}
     </section>
     <aside class="detail card closed f2" id="cdetail" aria-label="Fiche prospect culture"></aside>
   </div>
+
+  <details class="card proj" id="cProj"><summary>Le projet du Vieux Relais : feuille de route et proposition</summary><div class="proj-b">
+  <div class="roadmap" aria-label="Feuille de route">
+    <div class="rstep"><div class="rtop"><span class="rn">1</span><span class="rw">Semaines 1–2</span></div><b>Caler le concept</b><span class="rd">Murs disponibles, éclairage, jours d'ouverture, budget des vernissages.</span></div>
+    <div class="rstep"><div class="rtop"><span class="rn">2</span><span class="rw">Semaines 2–4</span></div><b>Contacter les prioritaires</b><span class="rd">Artistes et associations en priorité haute, avec le message prêt dans leur fiche.</span></div>
+    <div class="rstep"><div class="rtop"><span class="rn">3</span><span class="rw">Mois 2</span></div><b>Choisir le premier artiste</b><span class="rd">Convention d'exposition signée, date du vernissage fixée.</span></div>
+    <div class="rstep"><div class="rtop"><span class="rn">4</span><span class="rw">Mois 2–3</span></div><b>Premier vernissage</b><span class="rd">Annoncé dans la presse locale, à l'office de tourisme et sur les réseaux.</span></div>
+    <div class="rstep"><div class="rtop"><span class="rn">5</span><span class="rw">Ensuite</span></div><b>Le rythme de croisière</b><span class="rd">Une nouvelle expo tous les deux mois, un rendez-vous par mois avec une association.</span></div>
+  </div>
+  <div class="grid4">
+    <article class="offer card"><span class="ico" data-ic="palette"></span><h3>Une expo qui tourne</h3><p class="muted">Un artiste ou un duo du territoire tous les deux mois sur les murs : peinture, photo, céramique en vitrine.</p></article>
+    <article class="offer card"><span class="ico" data-ic="spark"></span><h3>Un vernissage à chaque expo</h3><p class="muted">Une soirée ouverte au public avec l'artiste, des vins du coin et un musicien local.</p></article>
+    <article class="offer card"><span class="ico" data-ic="users"></span><h3>Un rendez-vous par mois</h3><p class="muted">Co-organisé avec une association : atelier, scène ouverte, conférence, projection.</p></article>
+    <article class="offer card"><span class="ico" data-ic="calendar"></span><h3>Des temps forts</h3><p class="muted">Calés sur le calendrier culturel national et local, voir plus bas.</p></article>
+  </div>
+  </div></details>
 
   <div class="sec-title"><div><span class="kicker">Idées de soirées</span><h2>Formats d'événements</h2></div></div>
   <div class="grid4" id="formats"></div>
@@ -762,7 +1010,7 @@ const farSite=c=>c.site_cosne&&(c.distance_cosne_km==null||c.distance_cosne_km>5
 const kmEff=c=>farSite(c)?2:(c.distance_cosne_km??0);
 const kmL=d=>d===0?"< 1 km":d+" km";
 
-let allCompanies=[],scope="100",companies=[],byId={},suivi={},sel=null,db=null,userNs=null,myId=null,mode="loading",canWrite=true,ready=false,myName="",routeAnimated=false,view="plan",retView=null;
+let allCompanies=[],companies=[],byId={},suivi={},sel=null,db=null,userNs=null,myId=null,mode="loading",canWrite=true,ready=false,myName="",routeAnimated=false,view="jour",retView=null;
 let filt={q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:"rang"};
 let culture={prospects:[],playbook:null},cById={},csel=null,cfilt={q:"",fam:"",prio:"",statut:""};
 
@@ -837,15 +1085,16 @@ function suiviHTML(x,p,ro){
     <div class="form">
       <div class="field"><label for="${p}statut">Statut</label><select id="${p}statut" ${dis}>${STATUTS.map(o=>`<option value="${o.k}" ${o.k===st?"selected":""}>${o.l}</option>`).join("")}</select></div>
       ${f("resp","Qui s'en occupe",s.responsable,"Mathys, associé…")}
-      ${f("cnom","Interlocuteur",s.contact_nom,"Nom, fonction")}
+      ${f("cnom","Interlocuteur (à rappeler)",s.contact_nom,"Nom, fonction")}
       ${f("ctel","Tél. / e-mail direct",s.contact_coord,"06…, prenom@…")}
       ${f("next","Prochaine action",s.prochaine_action,"Appeler, envoyer la note…")}
       ${f("date","Date de rappel",s.date_relance,"","date")}
       ${f("heure","Heure de rappel",s.rappel_heure,"","time")}
       <div class="field"><span class="flabel">Appels passés</span><span class="fval num">${cl.n}${cl.last?` · <span class="pill ${rcls(cl.last)}">${esc(RLABEL[cl.last]||"")}</span>`:""}</span></div>
+      <details class="rdvbox"${st==="rdv"||s.rdv_date?" open":""}><summary>Rendez-vous${s.rdv_date?" le "+esc(fmtShortDay(s.rdv_date))+(s.rdv_heure?" à "+esc(s.rdv_heure):""):""}</summary><div class="form">
       ${f("rdvd","Rendez-vous le",s.rdv_date,"","date")}
       ${f("rdvh","Rendez-vous à",s.rdv_heure,"","time")}
-      <div class="field full"><label for="${p}rdvn">Rendez-vous : où, avec qui</label><input id="${p}rdvn" value="${esc(s.rdv_note||"")}" placeholder="Dans leurs locaux, avec…" ${dis}></div>
+      <div class="field full"><label for="${p}rdvn">Rendez-vous : où, avec qui</label><input id="${p}rdvn" value="${esc(s.rdv_note||"")}" placeholder="Dans leurs locaux, avec…" ${dis}></div></div></details>
       <div class="field full"><label for="${p}notes">Notes</label><textarea id="${p}notes" placeholder="Ce qu'ils ont répondu, leurs locaux, leur expert-comptable…" ${dis}>${esc(s.notes||"")}</textarea></div>
     </div>
     ${op?`<div class="recent"><b>Refus de prospection</b><span>Noté le ${esc(new Date(op.date).toLocaleDateString("fr-FR"))} (${esc(op.canal||"téléphone")}). Ne plus appeler ni écrire ; garder cette trace 3 ans.</span>${ro?"":`<button class="btn" type="button" id="${p}unopp">Retirer ce refus (erreur de saisie)</button>`}</div>`
@@ -912,6 +1161,7 @@ async function logResult(x,res,txt,extra){
     return {ok,info:" · refus de prospection noté le "+new Date(s.opposition.date).toLocaleDateString("fr-FR")+" : ni statut ni rappel modifiés",undo:()=>patch(x,{journal:{[id]:null}})};
   }
   const ch={journal:{[id]:ent}};let lim4=false;
+  if(s.en_appel)ch.en_appel=null;
   if(res){
     const n=RSTATUT[res],futur=s.date_relance&&s.date_relance>today;
     if(n==="refus"||(n&&SORD[n]>(SORD[st]??0)))ch.statut=n;
@@ -949,32 +1199,71 @@ function personToAsk(c){
   const p=(cfin&&(cfin.type==="DAF/RAF"||cfin.type==="comptable")?cfin:(cd||cfin))||(c.dirigeants||[]).find(isPerson);
   return p?{nom:p.nom,fonction:shortFn(p.fonction)}:null;
 }
-const hasTel=c=>!!(c.telephone||telIn(S(c).contact_coord));
+/* Standard : celui de la fiche, ou celui trouvé et noté par l'équipe */
+const stdOf=c=>c.telephone||telIn(S(c).tel_trouve);
+const hasTel=c=>!!(stdOf(c)||telIn(S(c).contact_coord));
+const telsIn=v=>[...String(v||"").matchAll(/(?:\+33\s?(?:\(0\)\s?)?|0)[1-9](?:[\s.-]?\d{2}){4}/g)].map(m=>m[0]);
+const sameNum=(a,b)=>!!a&&!!b&&e164(a)===e164(b);
+const isActive=c=>!c.exclue&&/^active$/i.test(c.statut||"Active");
+/* Interlocuteurs : finance, direction du site, administration, RH (recherche), puis le dirigeant */
+const ROLE_L={finance:"Finance",rh:"RH",administratif:"Administratif",direction_site:"Direction du site",direction:"Direction",autre:"Contact",equipe:"Noté par l'équipe"};
+const ROLE_ORD={finance:0,direction_site:1,administratif:2,rh:3};
+const adminOf=c=>(c.contacts_admin||[]).slice().sort((a,b)=>(ROLE_ORD[a.role]??9)-(ROLE_ORD[b.role]??9)||(a.fiabilite==="confirme"?0:1)-(b.fiabilite==="confirme"?0:1));
+const FINT=new Set(["DAF/RAF","comptable"]);
+const hasAdmin=c=>!!((c.contacts_admin||[]).length||(isPerson(c.contact_finance)&&FINT.has(c.contact_finance.type)));
+const adminConf=c=>(c.contacts_admin||[]).some(p=>p.fiabilite==="confirme")||(isPerson(c.contact_finance)&&FINT.has(c.contact_finance.type)&&!c.contact_finance.a_confirmer);
+const hasDirect=c=>{const s=S(c);return !!(telIn(s.contact_coord)||/@/.test(s.contact_coord||"")||[c.contact_dirigeant,c.contact_finance,...(c.contacts_admin||[])].some(p=>p&&(p.tel_direct||p.email)))};
+const pkey=n=>norm(n).replace(/[^a-z]/g,"");
+function askList(c){
+  const s=S(c),out=[],seen=new Set();
+  const add=p=>{const k=pkey(p.nom);if(!k||seen.has(k))return;seen.add(k);out.push(p)};
+  if(s.contact_nom)add({nom:s.contact_nom,role:"equipe",team:true});
+  for(const p of adminOf(c))add({nom:p.nom,fonction:shortFn(p.fonction),role:p.role,fiab:p.fiabilite});
+  const cf=c.contact_finance;if(isPerson(cf)&&FINT.has(cf.type))add({nom:cf.nom,fonction:shortFn(cf.fonction),role:"finance",fiab:cf.a_confirmer?"probable":"confirme"});
+  const p=personToAsk(c);if(p)add({nom:p.nom,fonction:p.fonction,role:"direction"});
+  return out;
+}
+const roleTag=p=>p.team?`<span class="rtag r-equipe">noté par l'équipe</span>`:`<span class="rtag r-${esc(p.role)}">${ROLE_L[p.role]||"Contact"}</span>${p.fiab==="probable"?` <span class="rtag r-prob">à confirmer</span>`:""}`;
+function askHTML(c,max){
+  const L=askList(c);
+  if(!L.length)return `<span class="muted">Au standard : demander la direction, ou le responsable administratif et financier</span>`;
+  const sh=L.slice(0,max),rest=L.length-sh.length;
+  return `${sh[0].team?"":`<span class="ask-l">Au standard, demander</span>`}<ul class="asks">${sh.map(p=>`<li>${p.team?"Rappeler ":""}<b>${esc(p.nom)}</b>${p.fonction?` <span class="muted">· ${esc(p.fonction)}</span>`:""} ${roleTag(p)}</li>`).join("")}</ul>${rest>0?`<span class="muted small">+ ${rest} autre${rest>1?"s":""} dans la fiche</span>`:""}`;
+}
 function matchQ(c,q){
   const s=S(c);
-  if(norm([c.nom,c.nom_commercial,c.nom_court,c.ville,c.activite,c.groupe,(c.dirigeants||[]).map(d=>d.nom).join(" "),(c.contact_dirigeant||{}).nom,(c.contact_finance||{}).nom,s.contact_nom,s.notes,c.siren].join(" ")).includes(q))return true;
+  if(norm([c.nom,c.nom_commercial,c.nom_court,c.ville,c.activite,c.groupe,(c.dirigeants||[]).map(d=>d.nom).join(" "),(c.contact_dirigeant||{}).nom,(c.contact_finance||{}).nom,(c.contacts_admin||[]).map(p=>p.nom+" "+(p.fonction||"")).join(" "),s.contact_nom,s.notes,c.siren].join(" ")).includes(q))return true;
   let dq=q.replace(/\D/g,"");if(dq.length<4)return false;
   if(dq.startsWith("33"))dq="0"+dq.slice(2).replace(/^0/,"");
-  const dg=[c.telephone,s.contact_coord,c.siren,(c.contact_dirigeant||{}).tel_direct,(c.contact_finance||{}).tel_direct].map(v=>String(v||"").replace(/\D/g,"")).join(" ");
+  const dg=[c.telephone,s.tel_trouve,s.contact_coord,c.siren,(c.contact_dirigeant||{}).tel_direct,(c.contact_finance||{}).tel_direct,...(c.contacts_admin||[]).map(p=>p.tel_direct)].map(v=>String(v||"").replace(/\D/g,"")).join(" ");
   return dg.includes(dq)||dg.includes(dq.replace(/^0/,""));
 }
-function callGroups(){
-  const today=isoDay(new Date()),resp=$("#aResp").value,vg=$("#aVague").value,q=norm($("#aq").value);
+const tok=v=>norm(v).split(/[\s,]+/)[0]||"";
+function mine(c){const s=S(c);return s.responsable?!!myName&&tok(s.responsable)===tok(myName):!!myId&&(s.responsable_id===myId||callsOf(c).h.some(e=>e.by===myId))}
+const isC2=c=>c.rang<=100&&c.priorite==="Moyenne"&&!c.vague&&!c.exclue&&!/procédure|liquidation|redressement/i.test(c.statut||"");   // deuxième cercle
+/* « En appel » : un associé vient de toucher le numéro ; les autres ne le reprennent pas pendant 20 minutes */
+const enAppel=c=>{const e=S(c).en_appel;return e&&e.t&&e.by!==myId&&Date.now()-Date.parse(e.t)<20*60000?e:null};
+function markEnAppel(c){
+  if(mode!=="db"||!canEdit()||!myId)return;
+  const e=S(c).en_appel;if(e&&e.by===myId&&Date.now()-Date.parse(e.t)<5*60000)return;
+  persist(key(c),{en_appel:{by:myId,nom:myName||"",t:new Date().toISOString()}});
+}
+const nowHM=m=>{const d=new Date(Date.now()+(m||0)*60000);return String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0")};
+const dueRank=(c,today)=>{const s=S(c);return s.date_relance<today?0:!s.rappel_heure||s.rappel_heure<=nowHM(10)?1:2};   // en retard, à faire maintenant, plus tard dans la journée
+function callGroups(o){
+  o=o||{resp:$("#aResp").value,vg:$("#aVague").value,q:norm($("#aq").value)};
+  const today=isoDay(new Date()),{resp,vg,q}=o;
   const VIDE=k=>[k,"",[],""];
   if(q.replace(/\D/g,"").length>=6)   // numéro qui appelle : toutes les entreprises, quel que soit leur statut
-    return [["num","Numéro reconnu",allCompanies.filter(c=>matchQ(c,q)),"Entreprises dont un numéro correspond, quel que soit leur statut"],VIDE("rdv"),VIDE("due"),VIDE("todo"),VIDE("retry"),VIDE("later"),VIDE("nonum")];
-  const tok=v=>norm(v).split(/[\s,]+/)[0]||"";
-  const inScope=new Set(companies);
+    return [["num","Numéro reconnu",allCompanies.filter(c=>matchQ(c,q)),"Entreprises dont un numéro correspond, quel que soit leur statut"],VIDE("due"),VIDE("rdv"),VIDE("todo"),VIDE("retry"),VIDE("later"),VIDE("nonum")];
   const list=allCompanies.filter(c=>{const s=S(c),cl=callsOf(c),st=statutOf(c);
-    if(!inScope.has(c)&&!c.vague&&!s.date_relance&&!cl.n&&st==="a_contacter")return false;   // hors périmètre affiché : les cibles des vagues, ou un suivi en cours
-    const c2=c.rang<=100&&c.priorite==="Moyenne"&&!c.vague&&!c.exclue&&!/procédure|liquidation|redressement/i.test(c.statut||"");   // deuxième cercle
     if(STOP_ST.has(st)||s.opposition||c.exclue)return false;
-    if(resp==="__me"){if(!(s.responsable?!!myName&&tok(s.responsable)===tok(myName):myId&&(s.responsable_id===myId||cl.h.some(e=>e.by===myId))))return false}
+    if(resp==="__me"){if(!mine(c))return false}
     else if(resp&&norm(s.responsable)!==resp)return false;
-    if(vg==="m"){if(!c2)return false}
+    if(vg==="m"){if(!isC2(c))return false}
     else if(vg&&String(c.vague)!==vg)return false;
     if(q&&!matchQ(c,q))return false;
-    return c.vague||(vg==="m"&&c2)||cl.n||s.date_relance||st!=="a_contacter"});
+    return c.vague||(vg==="m"&&isC2(c))||cl.n||s.date_relance||st!=="a_contacter"});
   const rdv=[],due=[],todo=[],retry=[],later=[],nonum=[];
   for(const c of list){const s=S(c),st=statutOf(c);
     if(st==="rdv")rdv.push(c);
@@ -988,11 +1277,15 @@ function callGroups(){
   const byWhen=(a,b)=>when(a)<when(b)?-1:when(a)>when(b)?1:ord(a,b);
   const rw=c=>(S(c).rdv_date||"9999")+" "+(S(c).rdv_heure||"99:99");
   rdv.sort((a,b)=>rw(a)<rw(b)?-1:rw(a)>rw(b)?1:ord(a,b));
-  due.sort(byWhen);later.sort(byWhen);todo.sort(ord);nonum.sort(ord);
+  due.sort((a,b)=>dueRank(a,today)-dueRank(b,today)||byWhen(a,b));later.sort(byWhen);todo.sort(ord);nonum.sort(ord);
   retry.sort((a,b)=>callsOf(a).n-callsOf(b).n||String(callsOf(a).lastT).localeCompare(String(callsOf(b).lastT))||ord(a,b));
-  return [["rdv","Rendez-vous à venir",rdv,"Statut « RDV fixé », par date"],["due","À rappeler aujourd'hui",due,"Rappels prévus aujourd'hui ou en retard"],["todo","Pas encore appelées",todo,vg==="m"?"Deuxième cercle : demander qui décide au siège du groupe":"Cibles des vagues, dans l'ordre d'attaque"],["retry","Sans date de rappel",retry,"Déjà appelées, sans conclusion ni date de rappel"],["later","Prochains rappels",later,"Rappels prévus plus tard"],["nonum","Numéro à trouver",nonum,"Pas de numéro connu : trouver le standard, puis le noter dans la fiche (Tél. / e-mail direct)"]];
+  return [["due","À rappeler aujourd'hui",due,"Rappels en retard, puis ceux du jour par heure"],["rdv","Rendez-vous",rdv,"Statut « RDV fixé », par date"],["todo","Pas encore appelées",todo,vg==="m"?"Deuxième cercle : demander qui décide au siège du groupe":"Cibles des vagues, dans l'ordre d'attaque"],["retry","Sans date de rappel",retry,"Déjà appelées, sans conclusion ni date de rappel"],["later","Prochains rappels",later,"Rappels prévus plus tard"],["nonum","Numéro à trouver",nonum,"Pas de numéro connu : chercher le standard depuis la fiche, puis l'enregistrer"]];
 }
-const telLink=t=>{const u=e164(t);return u?`<a class="mono tel" href="tel:${u}">${esc(t)}</a>`:`<span class="mono">${esc(t)}</span>`};
+function nextCall(groups,skip){
+  const G=k=>(groups.find(x=>x[0]===k)||[0,0,[]])[2],today=isoDay(new Date()),ok=c=>c!==skip&&!enAppel(c);
+  return G("due").find(c=>ok(c)&&dueRank(c,today)<2)||G("todo").find(ok)||G("retry").find(ok)||null;
+}
+const telLink=(t,cls)=>{const u=e164(t);return u?`<a class="mono tel${cls?" "+cls:""}" href="tel:${u}" data-tel="1">${esc(t)}</a>`:`<span class="mono">${esc(t)}</span>`};
 let TELIX={};   // standard → entreprises qui le partagent (sociétés d'un même groupe, holding et exploitant)
 const peersOf=c=>{const k=e164(c.telephone);return k?(TELIX[k]||[]).filter(o=>o!==c):[]};
 const grpTxt=c=>peersOf(c).some(o=>!o.telephone_groupe)?"Standard d'une société du même groupe":"Standard du groupe : demander le site de la Nièvre";   // numéro d'une société sœur déjà dans le CRM, ou siège du groupe hors Nièvre
@@ -1002,79 +1295,122 @@ function peersHTML(c){
 }
 const copyBtn=(v,what)=>`<button class="copy" type="button" data-copy="${esc(v)}" aria-label="Copier ${esc(what||v)}">copier</button>`;
 const pjLink=c=>`<a class="small" href="https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=${encodeURIComponent(nameOf(c).replace(/\s*\([^)]*\)/g,""))}&ou=${encodeURIComponent(c.ville||"Nièvre")}" target="_blank" rel="noopener">Chercher sur PagesJaunes</a>`;
-function askLine(c){
-  const s=S(c),fi=c.fiche||{};
-  if(s.contact_nom)return `Rappeler <b>${esc(s.contact_nom)}</b>`;
-  if(fi.qui_appeler)return `<span class="clamp">${esc(fi.qui_appeler)}</span>`;
-  const p=personToAsk(c);
-  return p?`Demander <b>${esc(p.nom)}</b>${p.fonction?` <span class="muted">— ${esc(p.fonction)}</span>`:""}`:`<span class="muted">Demander la direction, ou le responsable administratif et financier</span>`;
+function findHTML(c,ro){
+  const q=encodeURIComponent(nameOf(c).replace(/\s*\([^)]*\)/g,"")+" "+(c.ville||"")+" téléphone");
+  return `<div class="cb-find"><span class="cb-l">Pas de numéro connu</span><div class="cb-row small">${pjLink(c)}<a href="https://www.google.com/search?q=${q}" target="_blank" rel="noopener">Chercher sur Google</a>${c.siren?`<a href="https://annuaire-entreprises.data.gouv.fr/entreprise/${encodeURIComponent(String(c.siren).replace(/\s/g,""))}" target="_blank" rel="noopener">Annuaire des entreprises</a>`:""}</div>${ro?"":`<form class="inl" data-found="${c.rang}"><input name="t" inputmode="tel" autocomplete="off" placeholder="Numéro trouvé : 03 86 …" aria-label="Numéro trouvé pour ${esc(nameOf(c))}"><button class="btn primary" type="submit">Enregistrer</button></form>`}</div>`;
 }
 function briefHTML(c){
   const fi=c.fiche,a=c.art||{};
-  if(fi)return `${fi.angle_art?`<p>${esc(fi.angle_art)}</p>`:""}${(fi.questions||[]).length?`<b>Questions à poser</b><ul>${fi.questions.map(q=>`<li>${esc(q)}</li>`).join("")}</ul>`:""}${(fi.vigilance||[]).length?`<b>À savoir</b><ul>${fi.vigilance.map(v=>`<li>${esc(v)}</li>`).join("")}</ul>`:""}`;
+  const cons=fi&&fi.qui_appeler?`<b>Consigne d'appel</b><p>${esc(fi.qui_appeler)}</p>`:"";
+  if(fi)return `${cons}${fi.angle_art?`<b>Angle</b><p>${esc(fi.angle_art)}</p>`:""}${(fi.questions||[]).length?`<b>Questions à poser</b><ul>${fi.questions.map(q=>`<li>${esc(q)}</li>`).join("")}</ul>`:""}${(fi.vigilance||[]).length?`<b>À savoir</b><ul>${fi.vigilance.map(v=>`<li>${esc(v)}</li>`).join("")}</ul>`:""}`;
   return `<p>Jusqu'à ${a.ca?esc(fmtE(a.plafond)):"20 000 €"} déductibles par an. Où exposer : ${esc(a.espace_txt||"un lieu ouvert au public ou aux salariés")}.</p><b>Questions à poser</b><ul>${DISPOSITIF.filter(d=>d.q).slice(0,4).map(d=>`<li>${esc(d.q)}</li>`).join("")}</ul>`;
 }
+/* Résultat d'appel : trois résultats fréquents en un geste, les autres dans la liste */
+const QUICK=[["pas_reponse","Pas de réponse"],["repondeur","Répondeur"],["barrage","Bloqué au standard"]];
+function resultCtl(c){
+  if(!canEdit()||S(c).opposition)return "";
+  return `<div class="qres" role="group" aria-label="Résultat de l'appel à ${esc(nameOf(c))}">${QUICK.map(([k,l])=>`<button type="button" class="qchip" data-q="${k}">${l}</button>`).join("")}<select class="ares" aria-label="Autre résultat pour ${esc(nameOf(c))}"><option value="">Autre résultat…</option>${RESULTATS.filter(r=>!QUICK.some(q=>q[0]===r.k)).map(r=>`<option value="${r.k}">${esc(r.m||r.l)}</option>`).join("")}</select></div><div class="aform" hidden></div>`;
+}
+const stdLabel=c=>!c.telephone?"noté par l'équipe":c.telephone_a_confirmer?"à confirmer":c.telephone_groupe?grpTxt(c).replace(/^S/,"s"):"";
 function callRow(c){
   const s=S(c),cl=callsOf(c),st=statutOf(c),today=isoDay(new Date());
-  const tel=c.telephone,direct=telIn(s.contact_coord),late=s.date_relance&&s.date_relance<today;
+  const tel=stdOf(c),direct=telIn(s.contact_coord),late=s.date_relance&&s.date_relance<today,ea=enAppel(c);
   const h=histOf(s),le=h[h.length-1];
   const last=le&&le.txt&&le.txt!==RLABEL[le.res]?`<div class="alast">${esc(fmtStamp(le.t))} : ${esc(le.txt.length>140?le.txt.slice(0,138)+"…":le.txt)}</div>`:"";
   const opp=(s.opposition?` <span class="pill warn">Refus de prospection : ne pas rappeler</span>`:st==="refus"?` <span class="pill warn">Pas intéressé</span>`:"")+(c.opposition_prospection?` <span class="pill warn">Pas de mailing</span>`:"");
   const rdvTxt=st==="rdv"?`<span class="small ${s.rdv_date&&s.rdv_date<today?"late":""}">${s.rdv_date?"RDV "+esc(fmtShortDay(s.rdv_date))+(s.rdv_heure?" à "+esc(s.rdv_heure):"")+(s.rdv_date<today?" (passé : noter la suite)":""):"RDV : date à noter dans la fiche"}${s.rdv_note?" · "+esc(s.rdv_note):""}</span>`:"";
-  return `<div class="arow ${wcls(c)}" data-r="${c.rang}">
-    <span class="rk num">${c.vague?"V"+c.vague:c.rang}</span>
+  const autres=telsIn((c.fiche||{}).qui_appeler).filter(t=>!sameNum(t,tel)&&!sameNum(t,direct)).filter((t,i,a)=>a.findIndex(x=>sameNum(x,t))===i).slice(0,2);
+  const rk=s.date_relance&&s.date_relance<=today&&st!=="rdv"?(late?"Retard":(s.rappel_heure||"Auj.")):c.vague?"V"+c.vague:String(c.rang);
+  const lab=tel?stdLabel(c):"";
+  return `<div class="arow ${wcls(c)}${aOpen&&sel===c.rang?" sel":""}" data-r="${c.rang}">
+    <span class="rk num${late?" lt":""}">${esc(rk)}</span>
     <div class="acol" style="min-width:0">
-      <button type="button" class="aname" data-open="${c.rang}">${esc(nameOf(c))}</button>
+      <div class="anl"><span class="rkm num${late?" lt":""}">${esc(rk)}</span><button type="button" class="aname" data-open="${c.rang}">${esc(nameOf(c))}</button></div>
       <div class="sub">${esc([c.ville,c.priorite?"priorité "+c.priorite.toLowerCase():null,c.art&&c.art.ca?(c.art.plafond_a_recalculer?"plafond à recalculer (holding)":"jusqu'à "+eur(c.art.plafond)+"/an"):null].filter(Boolean).join(" · "))}</div>
-      <div class="ask-who">${askLine(c)}${opp}</div>
+      <div class="ask-who">${askHTML(c,2)}${opp}</div>
       ${last}
-      <details class="abrief"><summary>Discours et questions</summary>${briefHTML(c)}</details>
+      <details class="abrief"><summary>Consigne, discours et questions</summary>${briefHTML(c)}</details>
     </div>
     <div class="acol atel">
-      ${direct?`<span class="contact">${telLink(direct)}${copyBtn(direct,"la ligne directe")}</span><span class="muted small">ligne directe notée</span>`:""}
-      ${tel?`<span class="contact">${telLink(tel)}${copyBtn(tel,"le numéro")}</span>${c.telephone_a_confirmer?`<span class="muted small">à confirmer</span>`:c.telephone_groupe?`<span class="muted small">${esc(grpTxt(c).replace(/^S/,"s"))}</span>`:direct?`<span class="muted small">standard</span>`:""}${peersHTML(c)}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
+      ${direct?`<span class="contact">${telLink(direct,"calllink")}${copyBtn(direct,"la ligne directe")}</span><span class="muted small">ligne directe notée</span>`:""}
+      ${tel?`<span class="contact">${telLink(tel,direct?"":"calllink")}${copyBtn(tel,"le numéro")}</span>${lab?`<span class="muted small">${esc(lab)}</span>`:direct?`<span class="muted small">standard</span>`:""}${peersHTML(c)}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
+      ${autres.map(t=>`<span class="contact tel2">${telLink(t)}<span class="muted">autre numéro cité</span></span>`).join("")}
     </div>
     <div class="acol astate">
-      <span>${cl.last?`<span class="pill ${rcls(cl.last)}">${esc(RLABEL[cl.last]||"")}</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
+      <span>${ea?`<span class="pill s-en_discussion">En appel · ${esc(ea.nom||"un associé")}</span> `:""}${cl.last?`<span class="pill ${rcls(cl.last)}">${esc(RLABEL[cl.last]||"")}</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
       ${rdvTxt}
       <span class="muted small num">${cl.n?cl.n+" appel"+(cl.n>1?"s":""):"Jamais appelée"}${s.date_relance?` · ${late?"<b class=\"late\">en retard</b> ":""}rappel ${esc(fmtShortDay(s.date_relance))}${s.rappel_heure?" "+esc(s.rappel_heure):""}`:""}</span>
-      ${canEdit()&&!s.opposition?`<select class="ares" data-res="${c.rang}" aria-label="Résultat de l'appel à ${esc(nameOf(c))}"><option value="">Noter un appel…</option>${RESULTATS.map(r=>`<option value="${r.k}">${esc(r.m||r.l)}</option>`).join("")}</select>`:""}
-      <div class="aform" id="af-${c.rang}" hidden></div>
+      ${s.responsable?`<span class="muted small">Suivi par ${esc(s.responsable)}</span>`:""}
+      ${resultCtl(c)}
     </div>
   </div>`;
 }
-function openAform(c,res,noFocus){
-  const box=document.getElementById("af-"+c.rang);if(!box)return;
+function qDates(){
+  const nw=nextWorkday(),dm=isoDay(new Date(Date.now()+864e5)),d=new Date(),mon=new Date(d);mon.setDate(d.getDate()+((8-d.getDay())%7||7));
+  const lab=nw===dm?"Demain":capFirst(fmtShortDay(nw).split(" ")[0].replace(".",""));
+  return [[lab+" 9 h",nw,"09:00"],[lab+" 14 h",nw,"14:00"],["Lundi",firstWorkdayFrom(isoDay(mon)),""],["Dans une semaine",addWorkdays(5),""]];
+}
+let dlSeq=0;
+function openAform(c,res,box,noFocus){
+  if(!box)return;
   const s=S(c),rec=callsOf(c).h.map(e=>e.t).filter(v=>Date.parse(v)>Date.now()-30*864e5);
   const lim=rec.length>=3?firstWorkdayFrom(isoDay(new Date(Date.parse(rec[rec.length-3])+30*864e5))):"",nw=nextWorkday();
-  const ok=(l,cls)=>`<button class="btn ${cls||"primary"}" type="button" data-afok="${c.rang}">${l}</button><button class="btn" type="button" data-afno="1">Annuler</button>`;
+  const ok=l=>`<button class="btn primary" type="button" data-afok="1">${l}</button><button class="btn" type="button" data-afno="1">Annuler</button>`;
+  const dl="dlw"+(++dlSeq),who=askList(c).filter(p=>!p.team).map(p=>p.nom+(p.fonction?", "+p.fonction:""));
+  const wIn=ph=>`<input name="w" list="${dl}" placeholder="${ph}" aria-label="${ph}" autocomplete="off"><datalist id="${dl}">${who.map(w=>`<option value="${esc(w)}"></option>`).join("")}</datalist>`;
   const F={
-    rappeler:`${lim>nw?`<p>Déjà 3 appels en 30 jours : sauf rappel demandé par l'entreprise, pas de nouvel essai avant le ${esc(fmtDay(lim))}.</p>`:""}<input type="date" name="d" value="${lim>nw?lim:nw}" aria-label="Date du rappel"><input type="time" name="h" aria-label="Heure du rappel"><input name="n" placeholder="Qui rappeler, pourquoi" aria-label="Note">${ok("Programmer le rappel")}`,
+    rappeler:`${lim>nw?`<p>Déjà 3 appels en 30 jours : sauf rappel demandé par l'entreprise, pas de nouvel essai avant le ${esc(fmtDay(lim))}.</p>`:""}<span class="qdates" role="group" aria-label="Date rapide">${qDates().map(([l,d,h])=>`<button type="button" class="qchip" data-qd="${d}" data-qh="${h}">${esc(l)}</button>`).join("")}</span><input type="date" name="d" value="${lim>nw?lim:nw}" aria-label="Date du rappel"><input type="time" name="h" aria-label="Heure du rappel">${wIn("Demander qui ?")}<input name="n" placeholder="Note (facultatif)" aria-label="Note">${ok("Programmer le rappel")}`,
     rdv:`<input type="date" name="d" value="${esc(s.rdv_date||"")}" aria-label="Date du rendez-vous"><input type="time" name="h" value="${esc(s.rdv_heure||"")}" aria-label="Heure du rendez-vous"><input name="n" value="${esc(s.rdv_note||"")}" placeholder="Où, avec qui" aria-label="Lieu et interlocuteur">${ok("Enregistrer le rendez-vous")}`,
     pas_interesse:`<p>Pas intéressé : l'entreprise sort de la feuille d'appels.</p><input name="n" placeholder="Raison (facultatif)" aria-label="Raison">${ok("Confirmer")}`,
-    stop:`<p>Refus de prospection : plus aucun appel ni mail, la date est gardée 3 ans.</p><input name="n" placeholder="Ce qui a été dit (facultatif)" aria-label="Note">${ok("Confirmer le refus")}`
+    stop:`<p>Refus de prospection : plus aucun appel ni mail, la date est gardée 3 ans.</p><input name="n" placeholder="Ce qui a été dit (facultatif)" aria-label="Note">${ok("Confirmer le refus")}`,
+    nom:`<p>Nom donné par le standard : il s'affichera en tête (« Rappeler … »).</p>${wIn("Nom et fonction")}${ok("Enregistrer le nom")}`
   };
+  if(!F[res])return;
   box.dataset.res=res;box.innerHTML=F[res];box.hidden=false;
-  const first=box.querySelector("input");if(first&&!noFocus)first.focus();
+  const first=box.querySelector(res==="nom"?"input[name=w]":"input");if(first&&!noFocus)first.focus();
 }
-/* Bilan de la campagne : appels notés, résultats, appelants, 7 derniers jours */
-const JOINT=new Set(["rappeler","interesse","rdv","pas_interesse","stop"]);
-async function renderBilan(){
-  const box=$("#bilanB");if(!box)return;
-  const all=allCompanies.flatMap(c=>callsOf(c).h);
-  const n=all.length,joint=all.filter(e=>JOINT.has(e.res)).length,rdv=allCompanies.filter(c=>statutOf(c)==="rdv").length;
-  $("#bilanSum").textContent=n?`${n} appel${n>1?"s":""} · ${Math.round(joint/n*100)} % joints · ${rdv} rendez-vous`:"Aucun appel noté pour l'instant";
-  if(!$("#bilan").open){box.dataset.dirty="1";return}
-  delete box.dataset.dirty;
-  const bars=(rows,max)=>rows.length?`<ul class="bars">${rows.map(([l,v])=>`<li><span>${esc(l)}</span><b class="num">${v}</b><span class="bar"><b style="width:${max?Math.round(v/max*100):0}%"></b></span></li>`).join("")}</ul>`:`<p class="muted small" style="margin:0">Rien à afficher.</p>`;
-  const byRes=RESULTATS.map(r=>[r.l,all.filter(e=>e.res===r.k).length]).filter(x=>x[1]);
-  const days=[];for(let i=6;i>=0;i--){const d=new Date();d.setDate(d.getDate()-i);const k=isoDay(d);days.push([fmtShortDay(k),all.filter(e=>isoDay(new Date(e.t))===k).length])}
-  const who=new Map();for(const e of all){const k=e.by||"?";who.set(k,(who.get(k)||0)+1)}
-  let ps={};const ids=[...who.keys()].filter(k=>k!=="?");
-  if(userNs&&ids.length){try{ps=await userNs.profiles(ids)}catch(e){}}
-  const whoRows=[...who].map(([k,v])=>[k==="?"?"Sur cet appareil":(ps[k]&&ps[k].name)||"Associé",v]).sort((a,b)=>b[1]-a[1]);
-  const mx=a=>Math.max(0,...a.map(x=>x[1]));
-  box.innerHTML=`<div><h4>Résultats des appels</h4>${bars(byRes,mx(byRes))}</div><div><h4>7 derniers jours</h4>${bars(days,mx(days))}</div><div><h4>Par appelant</h4>${bars(whoRows,mx(whoRows))}</div>`;
+const rowC=el=>{const h=el&&el.closest("[data-r]");return h&&/^\d+$/.test(h.dataset.r)?byId[+h.dataset.r]:null};
+/* Saisie d'un résultat, dans la feuille d'appels, la vue Aujourd'hui ou la fiche */
+function bindCalls(root){
+  root.addEventListener("click",async e=>{
+    const qd=e.target.closest("[data-qd]");
+    if(qd){const f=qd.closest(".aform");f.querySelector("[name=d]").value=qd.dataset.qd;f.querySelector("[name=h]").value=qd.dataset.qh;return}
+    const q=e.target.closest(".qchip[data-q]");
+    if(q){const c=rowC(q);if(!c)return;q.disabled=true;const res=q.dataset.q;afterLog(c,res,await logResult(c,res,RLABEL[res]));return}
+    const no=e.target.closest("[data-afno]");
+    if(no){const f=no.closest(".aform");f.hidden=true;f.innerHTML="";const sl=f.previousElementSibling&&f.previousElementSibling.querySelector(".ares");if(sl)sl.value="";return}
+    const ok=e.target.closest("[data-afok]");if(!ok)return;
+    const box=ok.closest(".aform"),c=rowC(box);if(!c)return;
+    const res=box.dataset.res,v=n=>{const el=box.querySelector(`[name="${n}"]`);return el?el.value.trim():""};
+    let extra={},txt=RLABEL[res]||"";
+    if(res==="nom"){if(!v("w")){toast("Écris le nom donné par le standard");return}
+      ok.disabled=true;box.hidden=true;const r=await logResult(c,"","Nom donné par le standard : "+v("w"),{contact_nom:v("w")});
+      if(r.ok)toast("Nom enregistré : « Rappeler "+v("w")+" »",{label:"Annuler",run:async()=>{if(await r.undo()){toast("Annulé");renderAll()}}});
+      renderAll();return}
+    if(res==="rappeler"){if(!v("d")){toast("Choisis la date du rappel");return}extra={date_relance:v("d"),rappel_heure:v("h")};if(v("w"))extra.contact_nom=v("w");txt="À rappeler le "+fmtDay(v("d"))+(v("h")?" à "+v("h"):"")+(v("w")?", demander "+v("w"):"")}
+    if(res==="rdv"){if(!v("d")){toast("Choisis la date du rendez-vous");return}extra={rdv_date:v("d"),rdv_heure:v("h"),rdv_note:v("n"),date_relance:"",rappel_heure:""};txt="Rendez-vous le "+fmtDay(v("d"))+(v("h")?" à "+v("h"):"")}
+    if(v("n"))txt+=" : "+v("n");
+    ok.disabled=true;box.hidden=true;
+    afterLog(c,res,await logResult(c,res,txt,extra));
+  });
+  root.addEventListener("change",async e=>{const sl=e.target.closest(".ares");if(!sl||!sl.value)return;
+    const c=rowC(sl),res=sl.value;if(!c)return;
+    if(FORM_RES.has(res)){openAform(c,res,sl.closest(".qres").nextElementSibling);return}
+    sl.disabled=true;
+    afterLog(c,res,await logResult(c,res,RLABEL[res]));
+  });
+}
+function afterLog(c,res,r){
+  if(r.ok){const acts=[{label:"Annuler",run:async()=>{if(await r.undo()){toast("Annulé");renderAll()}}}];
+    if(res==="barrage")acts.push({label:"Ajouter le nom donné",run:()=>askName(c)});
+    toast("Noté : "+RLABEL[res]+r.info,acts)}
+  renderPipeline();renderList();renderJour(true);renderAppels(true);if(sel===c.rang)renderDetail(true);
+}
+function askName(c){
+  const boxes=[...document.querySelectorAll(`[data-r="${c.rang}"] .aform`)].filter(b=>b.parentElement&&b.parentElement.offsetParent!==null);
+  if(boxes.length){openAform(c,"nom",boxes[0]);boxes[0].scrollIntoView({block:"nearest"});return}
+  openFiche(c.rang,view==="appels"?"appels":view);
+  const b=$("#detail .callbox .aform");if(b)openAform(c,"nom",b);
 }
 /* Agenda : rappels et rendez-vous à venir, au format iCalendar (téléphone, Google Agenda, Outlook) */
 function icsFor(){
@@ -1086,8 +1422,8 @@ function icsFor(){
     return [`DTSTART;TZID=Europe/Paris:${loc(t0)}`,`DTEND;TZID=Europe/Paris:${loc(new Date(t0.getTime()+min*60000))}`]};
   const ev=[];
   for(const x of allCompanies.concat(cPros())){const s=S(x);if(s.opposition)continue;
-    const nm=x.rang?nameOf(x):x.nom,tel=x.rang?(telIn(s.contact_coord)||x.telephone||""):((x.contact||{}).telephone||"");
-    const who=s.contact_nom||(x.rang&&personToAsk(x)?personToAsk(x).nom:"");
+    const nm=x.rang?nameOf(x):x.nom,tel=x.rang?(telIn(s.contact_coord)||stdOf(x)||""):((x.contact||{}).telephone||"");
+    const ask=x.rang?askList(x)[0]:null,who=s.contact_nom||(ask?ask.nom+(ask.fonction?" ("+ask.fonction+")":""):"");
     if(s.date_relance&&s.date_relance>=today&&!STOP_ST.has(statutOf(x)))
       ev.push(["rappel",x,when(s.date_relance,s.rappel_heure,15),`Rappeler ${nm}`,[tel&&"Tél. "+tel,who&&"Demander "+who,s.prochaine_action,s.notes].filter(Boolean).join(" · "),""]);
     if(s.rdv_date&&s.rdv_date>=today&&statutOf(x)==="rdv")
@@ -1099,8 +1435,20 @@ function icsFor(){
     "END:VCALENDAR"];
   return {n:ev.length,data:lines.map(fold).join("\r\n")+"\r\n"};
 }
+/* Garde les petits formulaires ouverts (rappel, rendez-vous…) quand une liste se redessine */
+const keepForms=root=>[...root.querySelectorAll(".aform:not([hidden])")].map(f=>({r:f.closest("[data-r]").dataset.r,res:f.dataset.res,v:[...f.querySelectorAll("input")].map(i=>[i.name,i.value])}));
+function restoreForms(root,garde,sel0){
+  for(const g of garde){const c=byId[+g.r];const f=root.querySelector(`${sel0}[data-r="${g.r}"] .aform`);if(!c||!f)continue;openAform(c,g.res,f,true);for(const [n,v] of g.v){const i=f.querySelector(`[name="${n}"]`);if(i)i.value=v}}
+}
 let appelsDirty=false;
 const appelsBusy=()=>{const b=$("#alist");return !!(b&&b.contains(document.activeElement)&&document.activeElement.matches("select,input"))};
+const ANC_L={due:"À rappeler aujourd'hui",rdv:"Rendez-vous",todo:"Pas encore appelées",retry:"Sans date de rappel",later:"Prochains rappels",nonum:"Numéro à trouver",num:"Numéro reconnu"};
+const nxWhy=c=>{const s=S(c),t=isoDay(new Date());return s.date_relance&&s.date_relance<=t?(s.date_relance<t?"Rappel en retard":"Rappel prévu aujourd'hui"+(s.rappel_heure?" à "+s.rappel_heure:"")):callsOf(c).n?"Déjà appelée, sans date de rappel":"Première cible pas encore appelée, dans l'ordre d'attaque"};
+function rdvBand(l){
+  const today=isoDay(new Date());
+  return `<section class="agroup card rdvband" id="g-rdv" aria-label="Rendez-vous"><header><h3>Rendez-vous <span class="num muted">${l.length}</span></h3><span class="hint">Par date ; un rendez-vous passé attend la suite</span></header><ul class="rdvl">${l.map(c=>{const s=S(c),past=s.rdv_date&&s.rdv_date<today;
+    return `<li class="${past?"late":""}" data-r="${c.rang}"><span class="rdvd">${s.rdv_date?(s.rdv_date===today?"Aujourd'hui":esc(fmtShortDay(s.rdv_date)))+(s.rdv_heure?" · "+esc(s.rdv_heure):""):"Date à noter"}</span><button type="button" class="aname" data-open="${c.rang}">${esc(nameOf(c))}</button><span class="muted small">${esc(s.rdv_note||"")}${past?(s.rdv_note?" · ":"")+"passé : noter la suite dans la fiche":""}</span></li>`}).join("")}</ul></section>`;
+}
 function renderAppels(force){
   const box=$("#alist");if(!box||!allCompanies.length)return;
   if(!force&&appelsBusy()){appelsDirty=true;return}
@@ -1108,45 +1456,128 @@ function renderAppels(force){
   const names=new Map();for(const c of allCompanies){const r=(S(c).responsable||"").trim();if(r&&!names.has(norm(r)))names.set(norm(r),r)}
   const cur=$("#aResp").value;
   $("#aResp").innerHTML=`<option value="">Tous les appelants</option>${myId?`<option value="__me" ${cur==="__me"?"selected":""}>Mes entreprises</option>`:""}`+[...names].sort((a,b)=>a[1].localeCompare(b[1],"fr")).map(([k,r])=>`<option value="${esc(k)}" ${k===cur?"selected":""}>${esc(r)}</option>`).join("");
-  const groups=callGroups();
-  const all=groups.reduce((n,g)=>n+g[2].length,0);
+  const groups=callGroups(),num=groups[0][0]==="num";
+  const nx=num?null:nextCall(groups);
+  const G=groups.map(([k,t,l,sub])=>[k,t,l.filter(c=>c!==nx),sub]);
+  const all=G.reduce((n,g)=>n+g[2].length,0)+(nx?1:0),today=isoDay(new Date());
   $("#acount").textContent=`${all} entreprise${all>1?"s":""} à suivre`;
-  const calls=allCompanies.reduce((n,c)=>n+callsOf(c).n,0),rdv=allCompanies.filter(c=>statutOf(c)==="rdv").length;
-  const g=k=>groups.find(x=>x[0]===k)[2].length;
-  $("#akpis").innerHTML=[
-    ["k1",g("due"),"à rappeler aujourd'hui","Rappels du jour et en retard"],
-    ["",g("todo"),"pas encore appelées",$("#aVague").value==="m"?"Deuxième cercle":"Cibles des vagues 1 à 3, top 100 et rangs suivants"],
-    ["k3",calls,"appels notés","Tous appelants confondus"],
-    ["k2",rdv,"rendez-vous fixés","Statut « RDV fixé »"]
-  ].map(([cl,n,l,sm])=>`<div class="kpi ${cl}"><b class="num">${n}</b><span>${l}</span><small>${sm}</small></div>`).join("");
-  renderBilan();
-  const garde=[...box.querySelectorAll(".aform:not([hidden])")].map(f=>({r:+f.id.slice(3),res:f.dataset.res,v:[...f.querySelectorAll("input")].map(i=>[i.name,i.value])}));
-  const ouverts=new Set([...box.querySelectorAll(".abrief[open]")].map(d=>d.closest(".arow").dataset.r));
-  box.innerHTML=groups.filter(x=>x[2].length).map(([k,t,l,sub])=>`<section class="agroup card" aria-label="${esc(t)}"><header><h3>${esc(t)} <span class="num muted">${l.length}</span></h3><span class="hint">${esc(sub)}</span></header>${l.map(callRow).join("")}</section>`).join("")||`<div class="empty card">Rien à appeler avec ces filtres.</div>`;
-  for(const g0 of garde){const c=byId[g0.r];if(!c||!document.getElementById("af-"+g0.r)||!$(`.arow[data-r="${g0.r}"] .ares`))continue;openAform(c,g0.res,true);const f=document.getElementById("af-"+g0.r);for(const [n,v] of g0.v){const i=f.querySelector(`[name="${n}"]`);if(i)i.value=v}}
+  $("#akpis").innerHTML=(nx?`<button type="button" class="anc nx" data-go="g-next">Prochain appel</button>`:"")+G.filter(g=>g[2].length).map(([k,t,l])=>{const late=k==="due"&&l.some(c=>S(c).date_relance<today);return `<button type="button" class="anc${late?" late":""}" data-go="g-${k}">${esc(ANC_L[k]||t)}<b>${l.length}</b></button>`}).join("");
+  const garde=keepForms(box),ouverts=new Set([...box.querySelectorAll(".abrief[open]")].map(d=>d.closest(".arow").dataset.r));
+  const sec=([k,t,l,sub])=>k==="rdv"?rdvBand(l):`<section class="agroup card" id="g-${k}" aria-label="${esc(t)}"><header><h3>${esc(t)} <span class="num muted">${l.length}</span></h3><span class="hint">${esc(sub)}</span></header>${l.map(callRow).join("")}</section>`;
+  box.innerHTML=(nx?`<section class="agroup card nextcall" id="g-next" aria-label="Prochain appel"><header><h3>Prochain appel</h3><span class="hint">${esc(nxWhy(nx))}</span></header>${callRow(nx)}</section>`:"")
+    +G.filter(g=>g[2].length).map(sec).join("")||`<div class="empty card">Rien à appeler avec ces filtres.</div>`;
+  restoreForms(box,garde,".arow");
   for(const r of ouverts){const d=box.querySelector(`.arow[data-r="${r}"] .abrief`);if(d)d.open=true}
 }
-function renderPlan(){
-  const inW=companies.filter(c=>c.vague===1||c.vague===2||c.vague===3);
-  const count=k=>companies.filter(c=>c.vague===k).length;
-  const tel=companies.filter(c=>c.telephone).length;
-  $("#kpis").innerHTML=[
-    ["",companies.length,"entreprises analysées",scope==="100"?"Les 100 plus grosses de la Nièvre, classement Pappers du 02/09/2026":"Les plus grosses de la Nièvre, d'après Pappers et le registre national"],
-    ["",inW.length,"cibles prioritaires",scope==="100"?"Revues fiche par fiche : bénéficiaires, décideur joignable, lieu d'exposition":"Société à l'IS, bénéfice d'au moins 50 k€, lieu d'exposition tout trouvé"],
-    ["k1",count(1),"à appeler cette semaine","Avec un site à Cosne même"],
-    ["k2",tel,"fiches avec un téléphone",(n=>n?`${n} cible${n>1?"s":""} des vagues sans numéro, à relever à la main`:"Toutes les cibles des vagues ont un numéro")(inW.filter(c=>!c.telephone).length)]
-  ].map(([cl,n,l,s])=>`<div class="kpi ${cl}"><b class="num">${n}</b><span>${l}</span><small>${s}</small></div>`).join("");
-  $("#legend").innerHTML=VAGUES.map(v=>`<span><i style="background:var(--v${v.k})"></i>Vague ${v.k} · ${count(v.k)}</span>`).join("");
+
+const JOINT=new Set(["rappeler","interesse","rdv","pas_interesse","stop"]);   // résultats où quelqu'un a répondu
+/* ---------- Aujourd'hui : la journée, l'avancement, l'équipe, la qualité des fiches ---------- */
+let jourWho="",jourDirty=false;const PROF={};
+const jourBusy=()=>{const b=$("#today");return !!(b&&b.contains(document.activeElement)&&document.activeElement.matches("select,input"))};
+const capFirst=s=>s?s.charAt(0).toUpperCase()+s.slice(1):s;
+const STAGES=["contacte","en_discussion","rdv","partenaire","refus"];
+const STAGE_L={todo:"Pas encore appelée",contacte:"Contactée",en_discussion:"En discussion",rdv:"RDV fixé",partenaire:"Œuvre achetée",refus:"Refus"};
+function stageOf(c){const s=S(c),st=statutOf(c);if(s.opposition||st==="refus")return "refus";if(st!=="a_contacter")return st;return callsOf(c).n?"contacte":"todo"}
+function stageCount(list){const n={todo:0};STAGES.forEach(k=>n[k]=0);for(const c of list)n[stageOf(c)]++;return n}
+const segsHTML=n=>STAGES.concat(["todo"]).filter(k=>n[k]).map(k=>`<i class="sg sg-${k}" style="flex-grow:${n[k]}" title="${STAGE_L[k]} : ${n[k]}"></i>`).join("");
+async function loadProfiles(ids){
+  ids=ids.filter(i=>i&&!(i in PROF));if(!userNs||!ids.length)return false;
+  for(const i of ids)PROF[i]="";
+  try{const ps=await userNs.profiles(ids);for(const i of ids)PROF[i]=(ps&&ps[i]&&ps[i].name)||"";return true}catch(e){return false}
+}
+function renderJour(force){
+  if(!$("#today")||!allCompanies.length)return;
+  if(!force&&jourBusy()){jourDirty=true;return}
+  jourDirty=false;
+  const t=isoDay(new Date()),me=jourWho==="me"&&!!myId;
+  $("#jDate").textContent=capFirst(new Date().toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"}));
+  $("#jWho").hidden=!(mode==="db"&&myId);
+  $("#jWho").querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.who===jourWho)));
+  const live=allCompanies.filter(c=>!c.exclue&&!S(c).opposition&&!STOP_ST.has(statutOf(c)));
+  const keep=c=>!me||mine(c),lim=addWorkdays(5);
+  const rw=c=>(S(c).rdv_date||"")+" "+(S(c).rdv_heure||"99:99");
+  const rdv=live.filter(c=>{const s=S(c);return statutOf(c)==="rdv"&&keep(c)&&s.rdv_date&&s.rdv_date>=t&&s.rdv_date<=lim}).sort((a,b)=>rw(a)<rw(b)?-1:rw(a)>rw(b)?1:a.rang-b.rang);
+  const rap=live.filter(c=>{const s=S(c);return s.date_relance&&s.date_relance<=t&&statutOf(c)!=="rdv"&&keep(c)})
+    .sort((a,b)=>dueRank(a,t)-dueRank(b,t)||String(S(a).date_relance+(S(a).rappel_heure||"99")).localeCompare(String(S(b).date_relance+(S(b).rappel_heure||"99")))||a.rang-b.rang);
+  const groups=callGroups({resp:"",vg:"",q:""}),G=k=>(groups.find(g=>g[0]===k)||[0,0,[]])[2];
+  const nexts=G("todo").filter(c=>!enAppel(c)).slice(0,5);
+  const item=(c,top,kind)=>{const s=S(c),tel=telIn(s.contact_coord)||stdOf(c),ea=enAppel(c);
+    return `<li class="titem" data-r="${c.rang}"><div class="tmeta">${top}</div><button type="button" class="aname" data-open="${c.rang}">${esc(nameOf(c))}</button>${kind==="rdv"?(s.rdv_note?`<span class="muted small">${esc(s.rdv_note)}</span>`:""):`<div class="ask-who">${askHTML(c,kind==="next"?2:1)}</div>`}<div class="cb-row">${tel?telLink(tel,"calllink"):`<span class="muted small">Pas de numéro</span>`}${ea?`<span class="pill s-en_discussion">En appel · ${esc(ea.nom||"un associé")}</span>`:""}</div>${kind==="rdv"?"":resultCtl(c)}</li>`};
+  const col=(id,title,list,top,kind,empty,go)=>`<section class="card tcol" aria-labelledby="${id}"><header><h2 id="${id}">${title}</h2><span class="num muted">${list.length}</span></header>${list.length?`<ul class="tlist">${list.map(c=>item(c,top(c),kind)).join("")}</ul>`:`<p class="tempty">${empty}</p>`}<div class="tfoot"><button type="button" class="tbtn" data-goview="appels" data-go="${go}">Voir dans la feuille d'appels</button></div></section>`;
+  const who=s=>s.responsable?` · ${esc(s.responsable)}`:"";
+  const rdvTop=c=>{const s=S(c);return `<span class="tt">${s.rdv_date===t?"Aujourd'hui":esc(capFirst(fmtShortDay(s.rdv_date)))}${s.rdv_heure?" · "+esc(s.rdv_heure):""}</span>${who(s)}`};
+  const rapTop=c=>{const s=S(c),late=s.date_relance<t;return `<span class="tt${late?" late":""}">${late?"En retard, prévu "+esc(fmtShortDay(s.date_relance)):s.rappel_heure?esc(s.rappel_heure):"Dans la journée"}</span>${who(s)}`};
+  const nxTop=c=>esc([c.vague?"Vague "+c.vague:null,c.ville,c.art&&c.art.ca&&!c.art.plafond_a_recalculer?"jusqu'à "+eur(c.art.plafond)+"/an":null].filter(Boolean).join(" · "));
+  const box=$("#today"),garde=keepForms(box);
+  box.innerHTML=col("tR","Rendez-vous",rdv,rdvTop,"rdv",me?"Aucun rendez-vous à ton nom dans les 5 prochains jours ouvrés.":"Aucun rendez-vous dans les 5 prochains jours ouvrés.","g-rdv")
+    +col("tA","Rappels du jour",rap,rapTop,"rap",me?"Aucun rappel à ton nom aujourd'hui.":"Aucun rappel prévu aujourd'hui.","g-due")
+    +col("tN","Prochains appels",nexts,nxTop,"next","Toutes les cibles ont déjà été appelées.","g-todo");
+  restoreForms(box,garde,".titem");
+  // À traiter : dossiers restés en suspens
+  const rdvPast=allCompanies.filter(c=>statutOf(c)==="rdv"&&S(c).rdv_date&&S(c).rdv_date<t&&!S(c).opposition).length;
+  const inter=live.filter(c=>callsOf(c).last==="interesse").length,faux=live.filter(c=>callsOf(c).last==="faux_numero").length;
+  const nonumT=allCompanies.filter(c=>c.vague&&isActive(c)&&!hasTel(c)).length;
+  const items=[[rdvPast,"rendez-vous passé sans suite notée","rendez-vous passés sans suite notée","rdvpast",1],[inter,"intéressé : infos à envoyer","intéressés : infos à envoyer","inter"],[faux,"faux numéro à corriger","faux numéros à corriger","faux",1],[G("retry").length,"entreprise appelée sans date de rappel","entreprises appelées sans date de rappel","retry"],[nonumT,"cible sans numéro","cibles sans numéro","nonumt",1]].filter(x=>x[0]);
+  $("#atraiter").innerHTML=items.length?`<span class="tlab">À traiter</span>${items.map(([n,l1,l2,k,bad])=>`<button type="button" class="tchip${bad?" bad":""}" data-todo="${k}"><b>${n}</b> ${n>1?l2:l1}</button>`).join("")}`:"";
+  renderAvance();renderEquipe();renderQualite();renderWaves();renderRoute();
+  const P=cPros();
+  $("#cultureLine").innerHTML=P.length?`Volet culture : ${P.filter(x=>x.priorite==="Haute").length} contacts en priorité haute, ${P.filter(x=>statutOf(x)!=="a_contacter").length} déjà contactés, ${P.filter(x=>statutOf(x)==="en_discussion").length} en discussion. <button type="button" class="tbtn" data-goview="culture" style="color:var(--accent);padding:0">Ouvrir le volet culture</button>`:"";
+}
+function renderAvance(){
+  $("#avLegend").innerHTML=STAGES.concat(["todo"]).map(k=>`<span><i class="sg sg-${k}"></i>${STAGE_L[k]}</span>`).join("");
+  const rows=[["Vague 1","1",c=>c.vague===1],["Vague 2","2",c=>c.vague===2],["Vague 3","3",c=>c.vague===3],["Deuxième cercle","m",isC2]].map(([l,k,f])=>[l,k,allCompanies.filter(c=>f(c)&&!c.exclue)]).filter(r=>r[2].length);
+  const max=Math.max(1,...rows.map(r=>r[2].length));
+  const line=([l,k,list],tot)=>{const n=stageCount(list),called=list.length-n.todo;
+    const txt=`${called}/${list.length} appelées${n.rdv?` · ${n.rdv} RDV`:""}${n.partenaire?` · ${n.partenaire} achat${n.partenaire>1?"s":""}`:""}${n.refus?` · ${n.refus} refus`:""}`;
+    return `<div class="avr${tot?" tot":""}"><button type="button" class="avl" data-vg="${k}" title="Ouvrir la feuille d'appels sur ce groupe">${esc(l)} <span class="muted num">${list.length}</span></button><div class="avtrack"><div class="avbar" style="width:${tot?100:Math.max(4,list.length/max*100)}%" role="img" aria-label="${esc(l)} : ${esc(txt)}">${segsHTML(n)}</div></div><span class="avt">${txt}</span></div>`};
+  $("#avance").innerHTML=rows.map(r=>line(r)).join("")+line(["Total","",rows.flatMap(r=>r[2])],true);
+}
+function renderEquipe(){
+  const box=$("#equipe");if(!box)return;
+  const all=allCompanies.flatMap(c=>callsOf(c).h);
+  if(!all.length){box.innerHTML=`<p class="tempty" style="padding:0">Aucun appel noté pour l'instant : le tableau se remplit au premier résultat noté.</p>`;$("#eqSum").textContent="";return}
+  const t=isoDay(new Date()),d0=new Date();d0.setDate(d0.getDate()-((d0.getDay()+6)%7));const wk=isoDay(d0);
+  const ids=[...new Set(all.map(e=>e.by||""))];
+  const missing=ids.filter(i=>i&&!(i in PROF));if(missing.length)loadProfiles(missing).then(ch=>{if(ch)renderEquipe()});
+  const nameBy=(id,i)=>!id?"Sur cet appareil":id===myId&&myName?myName:PROF[id]||"Associé "+(i+1);
+  const day=e=>isoDay(new Date(e.t));
+  const rows=ids.map((id,i)=>{const E=all.filter(e=>(e.by||"")===id),j=E.filter(e=>JOINT.has(e.res)).length;
+    const rap=allCompanies.filter(c=>{const s=S(c);return s.date_relance&&s.date_relance>=t&&!STOP_ST.has(statutOf(c))&&s.responsable_id===id}).length;
+    return [nameBy(id,i),E.filter(e=>day(e)===t).length,E.filter(e=>day(e)>=wk).length,E.length?Math.round(j/E.length*100)+" %":"—",E.filter(e=>e.res==="rdv").length,id?rap:"—",E.length]}).sort((a,b)=>b[6]-a[6]);
+  const days=[];for(const d=new Date();days.length<10;d.setDate(d.getDate()-1))if(ouvre(d))days.unshift(isoDay(d));
+  const per=days.map(k=>{const E=all.filter(e=>day(e)===k);return [k,E.filter(e=>JOINT.has(e.res)).length,E.filter(e=>!JOINT.has(e.res)).length]});
+  const mx=Math.max(1,...per.map(p=>p[1]+p[2]));
+  const joint=all.filter(e=>JOINT.has(e.res)).length,rdvN=allCompanies.filter(c=>statutOf(c)==="rdv").length;
+  $("#eqSum").textContent=`${all.length} appel${all.length>1?"s":""} · ${Math.round(joint/all.length*100)} % joints · ${rdvN} rendez-vous en cours`;
+  const res=RESULTATS.map(r=>[r.l,all.filter(e=>e.res===r.k).length]).filter(x=>x[1]).sort((a,b)=>b[1]-a[1]);
+  box.innerHTML=`<div class="eqwrap"><table class="eqt"><thead><tr><th>Associé</th><th>Aujourd'hui</th><th>Semaine</th><th>Joints</th><th>RDV</th><th>Rappels à venir</th></tr></thead><tbody>${rows.map(r=>`<tr><td>${esc(r[0])}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td></tr>`).join("")}</tbody></table></div>
+    <div><h3>Appels des 10 derniers jours ouvrés</h3><div class="legend" style="margin:4px 0 2px"><span><i style="background:var(--accent)"></i>joints</span><span><i style="background:var(--accent-soft);box-shadow:inset 0 0 0 1px var(--accent)"></i>non joints</span></div>
+    <div class="cols" role="img" aria-label="Appels par jour sur les 10 derniers jours ouvrés">${per.map(([k,j,n])=>`<div class="colw" title="${esc(fmtShortDay(k))} : ${j} joint${j>1?"s":""}, ${n} non joint${n>1?"s":""}"><span class="colv">${j+n||""}</span><span class="colb" style="height:${(j+n)/mx*100}%">${j?`<i class="cj" style="flex-grow:${j}"></i>`:""}${n?`<i class="cn" style="flex-grow:${n}"></i>`:""}</span></div>`).join("")}</div>
+    <div class="cold">${per.map(([k])=>`<span>${esc(fmtShortDay(k).replace(/\.$/,"").split(" ").slice(0,2).join(" "))}</span>`).join("")}</div></div>
+    <div><h3>Résultats</h3><ul class="reslist">${res.map(([l,v])=>`<li>${esc(l)} <b>${v}</b></li>`).join("")}</ul></div>`;
+}
+function renderQualite(){
+  const cib=allCompanies.filter(c=>c.vague&&isActive(c)),act=allCompanies.filter(isActive);
+  const verif=c=>hasTel(c)&&!(c.telephone&&c.telephone_a_confirmer&&!S(c).tel_trouve&&!telIn(S(c).contact_coord));
+  const R=[["Standard connu",hasTel,null,"notel"],["Numéro vérifié, pas seulement en annuaire",verif,null,"aconf"],["Interlocuteur finance, RH ou administration nommé",hasAdmin,adminConf,"noadmin"],["Ligne directe ou e-mail nominatif",hasDirect,null,"nodirect"]];
+  const bar=(list,f,fc,qf,top,lab)=>{const n=list.filter(f).length,nc=fc?list.filter(fc).length:n,w=v=>list.length?v/list.length*100:0;
+    return `<button type="button" class="qb" data-qf="${qf}" data-qt="${top}" title="Voir les ${list.length-n} fiches à compléter"><span class="qk">${lab}</span><span class="qt"><i class="q1" style="width:${w(nc)}%"></i>${fc&&n>nc?`<i class="q2" style="width:${w(n-nc)}%"></i>`:""}</span><span class="qn">${n} / ${list.length}</span></button>`};
+  $("#qualite").innerHTML=R.map(([l,f,fc,qf])=>`<div class="qr"><h3>${l}${fc?` <span class="muted small" style="font-weight:400">(plein : confirmé, clair : à confirmer)</span>`:""}</h3>${bar(cib,f,fc,qf,"cibles","Cibles")}${bar(act,f,fc,qf,"actives","Actives")}</div>`).join("");
+}
+function renderWaves(){
   const ord=(a,b)=>(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||effMin(b.effectif)-effMin(a.effectif)||a.rang-b.rang;
   $("#waves").innerHTML=VAGUES.map(v=>{
-    const list=companies.filter(c=>c.vague===v.k).sort(ord);
-    return `<section class="wave card w${v.k}"><header><span class="wk">${v.w}</span><h3>${v.t}</h3><span class="big num">${list.length}</span><p>${v.d}</p></header>
-    <ol>${list.map(c=>{const st=statutOf(c);const meta=(farSite(c)?"Siège : "+esc(c.ville||"")+" · site à Cosne":esc(c.ville||""))+(c.opposition_prospection||S(c).opposition?" · <b class=\"late\">pas de mailing</b>":"");
-      return `<li><button type="button" data-open="${c.rang}"><span style="min-width:0"><span class="wn">${esc(nameOf(c))}</span><span class="wm">${meta} · ${esc(effShort(c.effectif))} sal.</span></span><span class="km">${farSite(c)?"Cosne":(c.distance_cosne_km!=null?kmL(c.distance_cosne_km):"")}<span class="dot" title="${SLABEL[st]}" style="background:${SCOLOR[st]}"></span></span></button></li>`}).join("")}</ol></section>`}).join("");
-  $("#offers").innerHTML=DISPOSITIF.map(o=>{const n=o.n?companies.filter(o.n).length:null;
+    const list=allCompanies.filter(c=>c.vague===v.k).sort(ord),n=stageCount(list),called=list.length-n.todo;
+    const state=!list.length?"":!called?"à lancer":called===list.length?"tout appelé":"en cours";
+    return `<section class="wave card w${v.k}"><header><span class="wk">Vague ${v.k} · ${state}</span><h3>${v.t}</h3><span class="big num">${called}<small>/${list.length}</small></span><p>${v.d}</p><span class="wprog" aria-hidden="true">${segsHTML(n)}</span></header>
+    <ol>${list.map(c=>{const stg=stageOf(c),st=statutOf(c);const meta=(farSite(c)?"Siège : "+esc(c.ville||"")+" · site à Cosne":esc(c.ville||""))+(c.opposition_prospection||S(c).opposition?" · <b class=\"late\">pas de mailing</b>":"");
+      const right=stg==="todo"?`${farSite(c)?"Cosne":(c.distance_cosne_km!=null?kmL(c.distance_cosne_km):"")}<span class="dot o" title="Pas encore appelée"></span>`:`<span class="pill ${stg==="contacte"?"s-contacte":"s-"+st}">${esc(stg==="contacte"?"Contactée":SLABEL[st])}</span>`;
+      return `<li><button type="button" data-open="${c.rang}"><span style="min-width:0"><span class="wn">${esc(nameOf(c))}</span><span class="wm">${meta} · ${esc(effShort(c.effectif))} sal.</span></span><span class="km">${right}</span></button></li>`}).join("")}</ol></section>`}).join("");
+}
+function renderMemo(){
+  $("#offers").innerHTML=DISPOSITIF.map(o=>{const n=o.n?allCompanies.filter(o.n).length:null;
     return `<article class="offer card"><span class="ico">${icon(o.i)}</span><span class="who">${o.t}</span><h3>${o.h}</h3><p>${o.p}</p>
     <div class="ask"><b>Question à poser</b>${o.q}</div>${n!=null?`<span class="cnt num">${n} entreprise${n>1?"s":""} ${o.cnt}</span>`:""}</article>`}).join("");
-  renderRoute();
 }
 
 /* ---------- Calcul de la déduction ---------- */
@@ -1168,22 +1599,25 @@ function simFrom(c){
   $("#simCa").value=c.art&&c.art.ca?c.art.ca:0;
   $("#simPrix").value=c.art?Math.round(c.art.plafond/1000)*1000:25000;
   $("#simDons").value=0;
-  $("#simFrom").textContent=`Calcul pour ${nameOf(c)}${c.art&&c.art.ca?`, chiffre d'affaires ${eur(c.art.ca)}${c.art.annee?" (exercice "+c.art.annee+(c.art.source==="recherche"?", relevé par la recherche":"")+")":""}`:", comptes non publiés : saisir le CA s'il est connu"}.`;
-  renderSim();setView("plan");
+  simBack={r:c.rang,from:view==="appels"&&aOpen?"appels":retView};
+  $("#simFrom").innerHTML=esc(`Calcul pour ${nameOf(c)}${c.art&&c.art.ca?`, chiffre d'affaires ${eur(c.art.ca)}${c.art.annee?" (exercice "+c.art.annee+(c.art.source==="recherche"?", relevé par la recherche":"")+")":""}`:", comptes non publiés : saisir le CA s'il est connu"}.`)+` <button type="button" class="tbtn" data-backfiche="1" style="color:var(--accent);padding:0">← Retour à la fiche</button>`;
+  renderSim();setView("memo");
   $("#calc").scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"});
 }
 
 function renderRoute(){
   const box=$("#route");
-  if(!box||$("#heroPlan").hidden||!companies.length)return;
+  if(!box||$("#viewJour").hidden||!allCompanies.length)return;
+  $("#legend").innerHTML=VAGUES.map(v=>`<span><i style="background:var(--v${v.k})"></i>Vague ${v.k} · ${allCompanies.filter(c=>c.vague===v.k).length}</span>`).join("")+`<span><i class="ring"></i>pas encore appelée</span><span><i class="full"></i>appelée</span><span><i class="acc"></i>RDV ou achat</span><span><i class="faded"></i>refus</span>`;
   const W=Math.max(300,Math.floor(box.getBoundingClientRect().width));
-  if(box.dataset.w===String(W)&&box.firstChild)return;
-  box.dataset.w=String(W);
+  const sig=W+"|"+allCompanies.filter(c=>c.vague).map(stageOf).join(",");
+  if(box.dataset.sig===sig&&box.firstChild)return;
+  box.dataset.sig=sig;
   const small=W<640,k=small?.78:1,maxKm=75;
   const padL=small?14:22,padR=small?14:22;
   const sx=km=>padL+Math.sqrt(Math.max(0,Math.min(km,maxKm))/maxKm)*(W-padL-padR);
   const rOf=c=>{const e=effMin(c.effectif);return k*(e>=500?11.5:e>=200?10:e>=100?8.8:e>=50?7.6:e>=20?6.4:5.4)};
-  const pts=companies.filter(c=>c.vague===1||c.vague===2||c.vague===3).map(c=>({c,x:sx(kmEff(c)),r:rOf(c)}));
+  const pts=allCompanies.filter(c=>c.vague===1||c.vague===2||c.vague===3).map(c=>({c,x:sx(kmEff(c)),r:rOf(c)}));
   pts.sort((a,b)=>b.r-a.r||a.x-b.x);
   const offs=[0];for(let i=1;i<40;i++)offs.push(i,-i);
   const step=3*k,placed=[];
@@ -1210,7 +1644,7 @@ function renderRoute(){
     if(town)s+=`<text class="tw" x="${x}" y="${axisY+34}" text-anchor="${anchor}">${town}</text>`;});
   s+=`<circle class="origin" cx="${sx(0)}" cy="${axisY}" r="4.5"/>`;
   pts.sort((a,b)=>a.x-b.x).forEach((p,i)=>{const c=p.c;const kmT=farSite(c)?"site à Cosne":(c.distance_cosne_km!=null?kmL(c.distance_cosne_km):"");
-    s+=`<circle class="dotc d${c.vague}" style="--i:${i}" cx="${p.x.toFixed(1)}" cy="${(p.y+shift).toFixed(1)}" r="${p.r.toFixed(1)}" data-open="${c.rang}" tabindex="0" role="button" aria-label="${esc(nameOf(c))}, ${kmT}"><title>${esc(nameOf(c))} · ${kmT} · ${esc(effShort(c.effectif))} sal.</title></circle>`;});
+    const stg=stageOf(c);s+=`<circle class="dotc d${c.vague} st-${stg}" style="--i:${i}" cx="${p.x.toFixed(1)}" cy="${(p.y+shift).toFixed(1)}" r="${p.r.toFixed(1)}" data-open="${c.rang}" tabindex="0" role="button" aria-label="${esc(nameOf(c))}, ${kmT}, ${STAGE_L[stg].toLowerCase()}"><title>${esc(nameOf(c))} · ${kmT} · ${esc(effShort(c.effectif))} sal. · ${STAGE_L[stg]}</title></circle>`;});
   s+=`</svg>`;
   box.innerHTML=s;
   routeAnimated=true;
@@ -1227,15 +1661,24 @@ function renderPipeline(){
 }
 function filtered(){
   const q=norm(filt.q);
-  const list=companies.filter(c=>{
+  const aconf=c=>!!(c.telephone&&c.telephone_a_confirmer&&!S(c).tel_trouve&&!telIn(S(c).contact_coord));
+  const list=allCompanies.filter(c=>{
     if(filt.prio&&c.priorite!==filt.prio)return false;
     if(filt.sect&&c.secteur!==filt.sect)return false;
     if(filt.top==="top"&&c.rang>100)return false;
     if(filt.top==="ext"&&c.rang<=100)return false;
-    if(filt.contact==="tel"&&!(c.telephone||(c.contact_finance||{}).tel_direct))return false;
-    if(filt.contact==="fin"&&!(c.contact_finance&&c.contact_finance.nom))return false;
-    if(filt.contact==="notel"&&(c.telephone||(c.contact_finance||{}).tel_direct||telIn(S(c).contact_coord)))return false;
-    if(filt.contact==="opp"&&!(c.opposition_prospection||S(c).opposition))return false;
+    if(filt.top==="cibles"&&!(c.vague&&isActive(c)))return false;
+    if(filt.top==="actives"&&!isActive(c))return false;
+    const fc=filt.contact;
+    if(fc==="tel"&&!hasTel(c))return false;
+    if(fc==="notel"&&hasTel(c))return false;
+    if(fc==="aconf"&&!aconf(c))return false;
+    if(fc==="faux"&&callsOf(c).last!=="faux_numero")return false;
+    if(fc==="admin"&&!hasAdmin(c))return false;
+    if(fc==="noadmin"&&hasAdmin(c))return false;
+    if(fc==="direct"&&!hasDirect(c))return false;
+    if(fc==="nodirect"&&hasDirect(c))return false;
+    if(fc==="opp"&&!(c.opposition_prospection||S(c).opposition))return false;
     if(filt.art==="isb"&&!isOk(c))return false;
     if(filt.art==="pub"&&!(c.art&&c.art.public))return false;
     if(filt.art==="big"&&!(c.art&&c.art.plafond>PLANCHER))return false;
@@ -1255,21 +1698,24 @@ function filtered(){
 }
 function renderList(){
   const list=filtered();
-  $("#count").textContent=`${list.length} / ${companies.length} entreprises`;
+  $("#count").textContent=`${list.length} / ${allCompanies.length} entreprises`;
+  $("#fExport").textContent=list.length===allCompanies.length?"Exporter (CSV)":`Exporter ces ${list.length} (CSV)`;
+  const nf=[filt.top,filt.prio,filt.sect,filt.contact,filt.art].filter(Boolean).length;$("#fFiltBtn").textContent=nf?`Filtres (${nf})`:"Filtres";
   if(!list.length){$("#rows").innerHTML=`<div class="empty">Aucune entreprise ne correspond à ces filtres.</div>`;return}
   $("#rows").innerHTML=list.map(c=>{
     const st=statutOf(c);const s=S(c);
     const where=farSite(c)?"site à Cosne":(c.distance_cosne_km!=null?kmL(c.distance_cosne_km)+" de Cosne":null);
-    const sub=[alias(c)?c.nom:null,c.ville,where,c.secteur].filter(Boolean).join(" · ");
+    const sub=[alias(c)?c.nom:null,c.ville,where,adminOf(c).length?"interlocuteur finance/RH connu":null,c.secteur].filter(Boolean).join(" · ");
     const proc=(c.statut&&!/^active$/i.test(c.statut)?` <span class="pill warn" title="${esc(c.statut)}">Procédure</span>`:"")+(c.exclue?` <span class="pill warn">Hors campagne</span>`:"")
-      +(s.opposition?` <span class="pill warn">Refus de prospection</span>`:c.opposition_prospection?` <span class="pill warn">Pas de mailing</span>`:"");
-    return `<div class="row ${wcls(c)}${sel===c.rang?" sel":""}" role="button" tabindex="0" data-r="${c.rang}">
-      <span class="rk num">${c.rang}</span>
+      +(s.opposition?` <span class="pill warn">Refus de prospection</span>`:c.opposition_prospection?` <span class="pill warn">Pas de mailing</span>`:"")
+      +(isActive(c)&&!hasTel(c)?` <span class="pill s-en_discussion">N° à trouver</span>`:"");
+    return `<div class="row ${wcls(c)}${sel===c.rang?" sel":""}" role="button" tabindex="0" data-r="${c.rang}" title="${esc(nameOf(c))}">
+      <span class="rk num pz-${esc(c.priorite||"")}">${c.rang}</span>
       <div style="min-width:0"><div class="nm">${esc(nameOf(c))}${proc}</div>
         <div class="sub">${esc(sub)}${s.date_relance?" · rappel "+esc(fmtShortDay(s.date_relance)):""}</div></div>
       <span class="ca num">${c.ca_non_publie?`<em class="nc">CA non publié</em>`:eur(c.ca)}<small>${esc(effShort(c.effectif))} sal.</small></span>
       <span class="pr">${c.priorite?`<span class="pill p-${c.priorite}">${c.priorite}</span>`:""}</span>
-      <span><span class="pill s-${st}">${SLABEL[st]}</span></span>
+      <span>${st==="a_contacter"?`<span class="st0" title="À contacter">—</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
     </div>`}).join("");
 }
 function line(label,val){return val?`<dt>${label}</dt><dd>${val}</dd>`:""}
@@ -1296,44 +1742,79 @@ function refusInfo(x){
   return {d:(s.refus&&s.refus.date)||(e&&e.t)||s.maj||"",canal:(s.refus&&s.refus.origine)||"",l:"« Pas intéressé »"};
 }
 const dateFr=d=>d?new Date(d).toLocaleDateString("fr-FR"):"date inconnue";
+/* Interlocuteurs : une seule liste, sans doublon (contacts finance, RH et administration, nom noté par l'équipe, dirigeant…) */
+function peopleOf(c){
+  const s=S(c),out=[],seen=new Map();
+  const add=p=>{if(!p||!p.nom)return;const k=pkey(p.nom);if(!k)return;
+    if(seen.has(k)){const o=seen.get(k);for(const f of ["tel_direct","email","linkedin","source","fonction"])if(!o[f]&&p[f])o[f]=p[f];return}
+    const o=Object.assign({},p);seen.set(k,o);out.push(o)};
+  if(s.contact_nom)add({nom:s.contact_nom,role:"equipe",team:true,tel_direct:telIn(s.contact_coord)||null,email:(String(s.contact_coord||"").match(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/)||[])[0]||null});
+  for(const p of adminOf(c))add({nom:p.nom,fonction:p.fonction,role:p.role,fiab:p.fiabilite,tel_direct:p.tel_direct,email:p.email,linkedin:p.linkedin,source:p.source});
+  const cd=isPerson(c.contact_dirigeant)?c.contact_dirigeant:null,cf=isPerson(c.contact_finance)?c.contact_finance:null;
+  const fiab=p=>p.a_confirmer?"probable":"confirme";
+  if(cf&&cf.type!=="dirigeant")add(Object.assign({},cf,{role:FINT.has(cf.type)?"finance":"autre",fiab:fiab(cf)}));
+  if(cd)add(Object.assign({},cd,{role:"direction",fiab:fiab(cd)}));
+  if(cf&&cf.type==="dirigeant")add(Object.assign({},cf,{role:"direction",fiab:fiab(cf)}));
+  for(const o of c.autres_contacts||[])add({nom:o.nom,fonction:o.fonction,role:"autre",fiab:o.a_confirmer?"probable":"confirme",tel_direct:o.tel,email:o.email});
+  return out;
+}
+function personRow(p){
+  const fn=String(p.fonction||""),long=fn.length>64;
+  return `<li class="pp"><div class="pp-h"><b>${esc(p.nom)}</b>${roleTag(p)}</div>${fn?`<div class="pp-f">${esc(long?shortFn(fn):fn)}</div>`:""}${long?`<details class="pp-d"><summary>Détail de la fonction et de la source</summary><p>${esc(fn)}</p></details>`:""}
+    ${p.tel_direct||p.email||p.linkedin||p.source?`<div class="pp-c">${p.tel_direct?`<span class="contact">${telLink(p.tel_direct)}${copyBtn(p.tel_direct,"la ligne directe")}</span>`:""}${p.email?`<span class="contact"><span class="mono">${esc(p.email)}</span>${copyBtn(p.email,"l'e-mail")}</span>`:""}${p.linkedin?linkOut(p.linkedin,"Profil LinkedIn"):""}${p.source&&p.source!==p.linkedin?linkOut(p.source,"source"):""}</div>`:""}</li>`;
+}
+const RET_L={jour:"← Retour à Aujourd'hui",memo:"← Retour au mémo"};
+const ficheLink=r=>{const ref=document.referrer||"";const base=/^https:\/\/claude\.ai\/(code\/)?artifact\//.test(ref)?ref.split("#")[0]:location.href.split("#")[0];return base+"#e"+r};
 function renderDetail(force){
   const box=$("#detail");
-  const c=byId[sel];
+  const c=byId[sel],inA=view==="appels";
   box.classList.remove("w0","w1","w2","w3");
-  if(!c){box.classList.add("closed","w0");box.innerHTML=PLACEHOLDER("Sélectionne une entreprise pour voir sa fiche et suivre la prospection.");delete box.dataset.r;return}
+  if(!c||(inA&&!aOpen)){box.classList.add("closed","w0");box.innerHTML=PLACEHOLDER("Sélectionne une entreprise pour voir sa fiche et suivre la prospection.");delete box.dataset.r;box._sig=null;return}
   box.classList.remove("closed");box.classList.add(wcls(c));
-  const sig=[c.rang,suivi[key(c)],canEdit(),retView];
+  const sig=[c.rang,suivi[key(c)],canEdit(),retView,inA];
   if(!force&&box._sig&&sig.every((v,i)=>v===box._sig[i]))return;   // rien n'a changé pour cette fiche : ne pas la redessiner
   const crit=!!refusInfo(c);
   if(!force&&crit===box._crit&&box.dataset.r==String(c.rang)&&fieldFocus(box)){renderHist(c,"f_");box.dataset.stale="1";return}
   flushField(box);
+  const keepF=keepForms(box);
   delete box.dataset.stale;box.dataset.r=c.rang;box._sig=sig;box._crit=crit;
   const st=statutOf(c),s=S(c),op=s.opposition;
   const ro=!canEdit();
   const proc=c.statut&&!/^active$/i.test(c.statut);
   const vg=VAGUES.find(v=>v.k===c.vague);
-  const dir=(c.dirigeants||[]).length?`<ul class="dir">${c.dirigeants.map(d=>`<li>${esc(d.nom)} <span>— ${esc(d.fonction||"")}</span></li>`).join("")}</ul>`:`<span class="muted">${c.ext?"Pas encore recherchés : voir la fiche Pappers.":"Non trouvés"}</span>`;
   const addr=c.adresse&&c.code_postal&&String(c.adresse).includes(c.code_postal)?c.adresse:[c.adresse,[c.code_postal,c.ville].filter(Boolean).join(" ")].filter(Boolean).join(", ");
   const fi=c.fiche||null;
-  const a=c.art||{notes:[]},cf=c.contact_finance,d0=(c.dirigeants||[]).find(isPerson);
-  const cd=isPerson(c.contact_dirigeant)?c.contact_dirigeant:null;
-  const cfin=isPerson(cf)&&!(cd&&cf.type==="dirigeant")?cf:null;   // un dirigeant récent remplace le « décideur = dirigeant » d'une recherche plus ancienne
-  const pick=cfin&&(cfin.type==="DAF/RAF"||cfin.type==="comptable")?cfin:(cd||cfin);   // un DAF de groupe passe après le dirigeant local
-  const who=pick?esc(pick.nom)+(pick.fonction?` <span class="muted">— ${esc(pick.fonction)}</span>`:""):d0?esc(d0.nom)+` <span class="muted">— ${esc(d0.fonction||"dirigeant")}, d'après le registre</span>`:`<span class="muted">Demander la direction au standard</span>`;
-  const direct=telIn(s.contact_coord);
-  const callbox=`<div class="callbox">
-      ${direct?`<div><span class="cb-l">Ligne directe notée</span><span class="contact">${telLink(direct)}${copyBtn(direct,"la ligne directe")}</span></div>`:""}
-      ${c.telephone?`<div><span class="cb-l">${c.telephone_groupe?esc(grpTxt(c)):"Standard"}${c.telephone_a_confirmer?" · numéro à confirmer à l'appel":""}</span><span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>${peersHTML(c)}</div>`
-        :direct?"":`<div><span class="cb-l">Pas de numéro connu</span>${pjLink(c)}</div>`}
-      <div class="cb-who">${askLine(c)}</div>
+  const a=c.art||{notes:[]};
+  const tel=stdOf(c),direct=telIn(s.contact_coord),nm=nameOf(c);
+  const autres=telsIn(fi&&fi.qui_appeler).filter(t=>!sameNum(t,tel)&&!sameNum(t,direct)).filter((t,i,l)=>l.findIndex(x=>sameNum(x,t))===i).slice(0,3);
+  const nxt=inA?nextCall(callGroups(),c):null;
+  const backTxt=inA?"Fermer la fiche":retView&&RET_L[retView]?RET_L[retView]:"";
+  const back=backTxt?`<button class="btn" type="button" data-back="1">${backTxt}</button>`:`<button class="btn close" type="button" data-close="1">← Retour à la liste</button>`;
+  const callbox=`<div class="callbox" data-r="${c.rang}">
+      <div class="cb-nums">
+      ${direct?`<div><span class="cb-l">Ligne directe notée</span><span class="contact">${telLink(direct,"btn-call")}${copyBtn(direct,"la ligne directe")}</span></div>`:""}
+      ${tel?`<div><span class="cb-l">${!c.telephone?"Standard noté par l'équipe":c.telephone_groupe?esc(grpTxt(c)):"Standard"}${c.telephone&&c.telephone_a_confirmer?" · numéro d'annuaire, à confirmer à l'appel":""}</span><span class="contact">${telLink(tel,direct?"":"btn-call")}${copyBtn(tel,"le numéro")}</span>${peersHTML(c)}</div>`:direct?"":findHTML(c,ro)}
+      ${autres.length?`<div class="cb-row small"><span class="muted">Autres numéros cités :</span>${autres.map(t=>`<span class="contact">${telLink(t)}${copyBtn(t)}</span>`).join("")}</div>`:""}
+      </div>
+      <div class="cb-who">${askHTML(c,4)}</div>
+      ${fi&&fi.qui_appeler?`<details class="pp-d"><summary>Consigne d'appel détaillée</summary><p>${esc(fi.qui_appeler)}</p></details>`:""}
+      ${resultCtl(c)}
+      ${nxt?`<button type="button" class="btn" data-open="${nxt.rang}">Appel suivant : ${esc(nameOf(nxt))} →</button>`:""}
     </div>`;
+  const ppl=peopleOf(c),regs=c.dirigeants||[];
+  const off=a.benefice===false||proc||c.exclue;
+  const offWhy=proc?String(c.statut).charAt(0).toLowerCase()+String(c.statut).slice(1):c.exclue?"entreprise hors campagne":`en perte au dernier exercice${a.resultat!=null?" ("+eur(a.resultat)+")":""}`;
+  const yrCa=a.annee?" "+a.annee:(c.annee_ca?" "+c.annee_ca:""),yrRes=(a.annee_resultat||a.annee)?" "+(a.annee_resultat||a.annee):yrCa;
+  const caT=a.ca!=null?a.ca:c.ca,resT=a.resultat!=null?a.resultat:c.resultat;
+  const difClass=!c.ca_non_publie&&c.ca!=null&&(c.ca!==caT||c.resultat!==resT);
   box.innerHTML=`
+  <div class="dbar">${backTxt?`<button class="btn" type="button" data-back="1" aria-label="${esc(backTxt.replace("← ",""))}">←</button>`:`<button class="btn" type="button" data-close="1" aria-label="Retour à la liste">←</button>`}<span class="dn">${esc(nm)}</span>${tel&&!op?telLink(tel,"dcall"):""}</div>
   <div class="d-head">
-    ${retView==="appels"?`<button class="btn" type="button" data-back="1">← Retour à la feuille d'appels</button>`:`<button class="btn close" type="button" data-close="1">← Retour à la liste</button>`}
+    ${back}
     <span class="wchip">${vg?`Vague ${vg.k} · ${vg.t}`:"Hors vagues"}</span>
-    <h2>${esc(c.nom)}</h2>
-    ${alias(c)?`<div class="alias">${esc(alias(c))}</div>`:""}
-    <span class="eyebrow2 num">${c.ca_non_publie?"Comptes non publiés · placée d'après son effectif":"N° "+c.rang+" du classement"}${c.siren?" · SIREN "+esc(c.siren):""}</span>
+    <h2 tabindex="-1" class="${nm.length>45?"long":""}">${esc(nm)}</h2>
+    ${nm!==c.nom?`<div class="alias">Raison sociale : ${esc(c.nom)}</div>`:""}
+    <span class="eyebrow2 num">${c.ca_non_publie?"Comptes non publiés · placée d'après son effectif":"N° "+c.rang+" du classement"}${c.siren?" · SIREN "+esc(c.siren):""} <button class="copy" type="button" data-link="${c.rang}" aria-label="Copier le lien de cette fiche">lien</button></span>
     <div class="tags">
       ${c.priorite?`<span class="pill p-${c.priorite}">Priorité ${c.priorite.toLowerCase()}</span>`:""}
       <span class="pill s-${st}">${SLABEL[st]}</span>
@@ -1343,35 +1824,42 @@ function renderDetail(force){
       ${c.opposition_prospection?`<span class="pill warn">Opposée à la prospection</span>`:""}
       ${op?`<span class="pill warn">Refus de prospection</span>`:""}
       ${c.exclue?`<span class="pill warn">Hors campagne</span>`:""}
+      ${c.cessation?`<span class="pill warn">Activité peut-être cessée</span>`:""}
     </div>
     ${c.priorite_raison?`<span class="eyebrow2">${esc(c.priorite_raison)}</span>`:""}
     ${op?"":callbox}
   </div>
   ${op?`<div class="d-sec"><div class="recent"><b>Refus de prospection</b><span>Noté le ${esc(new Date(op.date).toLocaleDateString("fr-FR"))} (${esc(op.canal||"téléphone")}) : ne plus appeler ni écrire. Trace à garder 3 ans.</span></div></div>`
     :c.opposition_prospection?`<div class="d-sec"><div class="recent"><b>Attention</b><span>Selon Pappers, l'entreprise s'est opposée à l'utilisation de ses données pour de la prospection commerciale. Pas de mailing : privilégier une prise de contact directe et personnelle.</span></div></div>`:""}
+  ${c.cessation?`<div class="d-sec"><div class="recent"><b>Activité peut-être cessée</b><span>${esc(c.cessation.detail||"")} ${linkOut(c.cessation.source,"Source")} À vérifier avant d'appeler.</span></div></div>`:""}
   ${fi?`<div class="d-sec">
     <h3>Pour l'appel</h3>
     ${fi.angle_art?`<div class="angle">${esc(fi.angle_art)}</div>`:""}
-    <dl class="kv">
-      ${line("Comment appeler",fi.qui_appeler?esc(fi.qui_appeler):"")}
-    </dl>
     ${(fi.questions||[]).length?`<span class="who-h">Questions à poser</span><ul class="checks qs">${fi.questions.map(q=>`<li>${esc(q)}</li>`).join("")}</ul>`:""}
     ${(fi.vigilance||[]).length?`<div class="recent"><b>À savoir avant d'appeler</b><ul class="checks">${fi.vigilance.map(v=>`<li>${esc(v)}</li>`).join("")}</ul></div>`:""}
   </div>`:""}
   <div class="d-sec">
+    <h3>Interlocuteurs</h3>
+    ${ppl.length?`<ul class="people">${ppl.map(personRow).join("")}</ul>`:""}
+    ${adminOf(c).length?"":`<p class="muted small" style="margin:0">Aucun contact finance, RH ou administratif identifié${c.note_admin?" par la recherche":""} : au standard, demander le service comptable ou la personne qui gère l'administratif, puis noter son nom (« Interlocuteur » dans le suivi).</p>`}
+    ${c.note_admin?`<details class="pp-d"><summary>Notes de la recherche des interlocuteurs</summary><p>${esc(c.note_admin)}</p></details>`:""}
+    ${c.decision?`<p class="muted small" style="margin:0"><b>Où se décide l'achat :</b> ${esc(c.decision)}</p>`:""}
+    ${regs.length?`<details class="pp-d"><summary>Mandataires au registre (${regs.length})</summary><ul class="dir" style="margin-top:6px">${regs.map(d=>`<li>${esc(d.nom)} <span>— ${esc(d.fonction||"")}</span></li>`).join("")}</ul>${c.ext?`<p>D'après le registre national, qui peut encore lister d'anciens mandataires : à confirmer sur la fiche Pappers avant un appel.</p>`:""}</details>`:`<span class="muted small">Mandataires au registre : ${c.ext?"pas encore recherchés, voir la fiche Pappers.":"non trouvés."}</span>`}
+  </div>
+  ${suiviHTML(c,"f_",ro)}
+  <div class="d-sec">
     <h3>Potentiel œuvres d'art</h3>
-    <div class="figs">
-      <div class="fig"><b class="num">${a.ca?eur(a.plafond):"20 k€ et +"}</b><span>Déductible par an</span></div>
-      <div class="fig"><b class="num">${a.ca?eur(a.prix_max):"100 k€ et +"}</b><span>Œuvres déduites en 5 ans</span></div>
-      <div class="fig"><b class="num">${a.ca?eur(a.economie_max):"25 k€ et +"}</b><span>Impôt en moins, au plus</span></div>
+    ${off?`<p class="offnote">Théorique : ${esc(offWhy)}. Pas d'économie d'impôt tant qu'elle n'est pas bénéficiaire.</p>`:""}
+    <div class="figs${off?" off":""}">
+      <div class="fig"><b class="num">${a.ca?fmtE(a.plafond):"20 000 € et +"}</b><span>Déductible par an${a.ca?(a.plafond>PLANCHER?" (5 ‰ du CA)":" (plancher)"):""}</span></div>
+      <div class="fig"><b class="num">${a.ca?fmtE(a.prix_max):"100 000 € et +"}</b><span>Œuvres déduites en 5 ans</span></div>
+      <div class="fig"><b class="num">${a.ca?fmtE(a.economie_max):"25 000 € et +"}</b><span>Impôt en moins, au plus</span></div>
     </div>
     ${a.plafond_a_recalculer?`<p class="muted small" style="margin:0"><b class="late">Holding :</b> chiffres calculés sur son chiffre d'affaires, souvent consolidé. La limite se calcule sur le chiffre d'affaires de la société du groupe qui achèterait l'œuvre (20 000 € au minimum).</p>`:""}
     <dl class="kv">
       ${line("Régime fiscal",esc(a.regime)+(c.forme_juridique?` <span class="muted">— ${esc(c.forme_juridique)}</span>`:""))}
       ${line("Résultat net",a.resultat!=null?`<span class="num">${eur(a.resultat)}</span>${(a.annee_resultat||a.annee)?` <span class="muted">(exercice ${esc(a.annee_resultat||a.annee)}${a.source==="recherche"&&a.annee_resultat===a.annee?", relevé par la recherche, à confirmer":""})</span>`:""}`:`<span class="muted">Non publié</span>`)}
       ${line("Où exposer",esc(a.espace_txt))}
-      ${line("À qui parler",who)}
-      ${line("Où se décide l'achat",c.decision?esc(c.decision):"")}
     </dl>
     ${!fi&&(a.notes||[]).length?`<ul class="checks">${a.notes.map(n=>`<li>${esc(n)}</li>`).join("")}</ul>`:""}
     ${simTable(c)}
@@ -1388,16 +1876,16 @@ function renderDetail(force){
       <button class="btn" type="button" data-copymail="1" style="margin-top:8px">Copier le texte</button>
     </details>`)(mailFor(c))}
   </div>
-  ${suiviHTML(c,"f_",ro)}
   <div class="d-sec">
-    <h3>${esc(c.fig_src||(c.ext?"Chiffres Pappers (classements par commune, 22/10/2026)":"Chiffres du classement Pappers (02/09/2026)"))}</h3>
+    <h3>Chiffres de l'entreprise</h3>
     <div class="figs">
-      <div class="fig"><b class="num">${c.ca_non_publie?"Non publié":eur(c.ca)}</b><span>Chiffre d'affaires${c.annee_ca?" "+esc(c.annee_ca):""}</span></div>
-      <div class="fig ${c.resultat<0?"neg":""}"><b class="num">${c.ca_non_publie?"Non publié":eur(c.resultat)}</b><span>Résultat net${c.annee_ca?" "+esc(c.annee_ca):""}</span></div>
+      <div class="fig"><b class="num">${caT==null?"Non publié":eur(caT)}</b><span>Chiffre d'affaires${esc(yrCa)}</span></div>
+      <div class="fig ${resT<0?"neg":""}"><b class="num">${resT==null?"Non publié":eur(resT)}</b><span>Résultat net${esc(yrRes)}</span></div>
       <div class="fig"><b class="num">${esc(effShort(c.effectif)||"—")}</b><span>Salariés</span></div>
     </div>
-    ${c.ca_recent!=null||c.res_recent!=null?`<div class="recent"><b>${c.annee_recent?"Registre national, exercice "+esc(c.annee_recent):"Dernier exercice publié"}</b>${[c.ca_recent!=null?"CA "+eur(c.ca_recent):null,c.res_recent!=null?"résultat net "+eur(c.res_recent):null].filter(Boolean).join(" · ")}<span>${c.annee_recent?"Le classement Pappers du 02/09 reprend parfois un exercice plus ancien.":"Le classement mélange parfois des exercices différents : détail dans la contre-vérification plus bas."}</span></div>`:""}
-    ${c.comptes_recherche?`<div class="recent"><b>Exercice ${esc(c.comptes_recherche.annee)} relevé par la recherche</b>${[c.comptes_recherche.ca!=null?"CA "+eur(c.comptes_recherche.ca):null,c.comptes_recherche.resultat!=null?"résultat net "+eur(c.comptes_recherche.resultat):null].filter(Boolean).join(" · ")}<span>« ${esc(c.comptes_recherche.citation)} »${c.comptes_recherche.remarque?" "+esc(c.comptes_recherche.remarque):""} Le plafond et le calcul ci-dessus partent de ces chiffres : à confirmer avec l'entreprise.</span></div>`:""}
+    ${difClass?`<div class="recent"><b>${esc(c.fig_src||(c.ext?"Classements Pappers par commune (22/10/2026)":"Classement Pappers (02/09/2026)"))}</b>CA ${eur(c.ca)} · résultat net ${eur(c.resultat)}${c.annee_ca?" (exercice "+esc(c.annee_ca)+")":""}<span>Chiffres du classement, plus anciens : le plafond et les calculs partent des chiffres ci-dessus.</span></div>`:""}
+    ${c.comptes_recherche?`<div class="recent"><b>Exercice ${esc(c.comptes_recherche.annee)} relevé par la recherche</b>${[c.comptes_recherche.ca!=null?"CA "+eur(c.comptes_recherche.ca):null,c.comptes_recherche.resultat!=null?"résultat net "+eur(c.comptes_recherche.resultat):null].filter(Boolean).join(" · ")}<span>« ${esc(c.comptes_recherche.citation)} »${c.comptes_recherche.remarque?" "+esc(c.comptes_recherche.remarque):""} À confirmer avec l'entreprise.</span></div>`:""}
+    ${(c.ca_recent!=null||c.res_recent!=null)&&(c.ca_recent!==caT||c.res_recent!==resT)?`<div class="recent"><b>${c.annee_recent?"Registre national, exercice "+esc(c.annee_recent):"Dernier exercice publié"}</b>${[c.ca_recent!=null?"CA "+eur(c.ca_recent):null,c.res_recent!=null?"résultat net "+eur(c.res_recent):null].filter(Boolean).join(" · ")}</div>`:""}
     ${c.note_classement?`<div class="recent"><b>À noter</b><span>${esc(c.note_classement)}</span></div>`:""}
     ${c.ca_non_publie?`<div class="recent"><b>Comptes non publiés</b><span>${esc(c.note_comptes||"L'entreprise ne publie pas ses comptes.")} Elle figure dans la liste pour son effectif (10 salariés ou plus), après les entreprises classées par chiffre d'affaires.</span></div>`:""}
     ${/[(;]/.test(c.effectif||"")?`<span class="muted" style="font-size:12.5px">Effectif : ${esc(c.effectif)}</span>`:""}
@@ -1408,26 +1896,13 @@ function renderDetail(force){
       ${line("Adresse",addr?copyable(addr):"")}
       ${line("Distance",c.distance_cosne_km!=null?`<span class="num">${c.distance_cosne_km===0?"À Cosne même":"≈ "+c.distance_cosne_km+" km de Cosne"}</span>`:"")}
       ${line("Site près de Cosne",c.site_local?esc(c.site_local):"")}
-      ${line("Téléphone",c.telephone?`<span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>`+(c.telephone_groupe?`<span class="muted" style="display:block;font-size:12.5px">${esc(grpTxt(c))}</span>`:"")+(c.telephone_a_confirmer?ACONF:""):"")}
+      ${op&&c.telephone?line("Téléphone",`<span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>`):""}
       ${line("E-mail",c.email?copyable(c.email)+(c.email_a_confirmer?ACONF:""):"")}
       ${line("Site web",linkOut(c.site_web))}
       ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise"):"")}
     </dl>
     ${!c.telephone&&!c.email&&!c.site_web?`<span class="muted">${c.ext&&!c.enrichie&&!c.contacts_ok?"Coordonnées pas encore recherchées.":"Pas de coordonnées publiques trouvées."}</span>`:""}
     ${c.note_contacts?`<details class="mailer"><summary>Notes de la recherche de coordonnées</summary><p class="txt muted" style="margin-top:8px;font-size:13.5px">${esc(c.note_contacts)}</p></details>`:""}
-  </div>
-  ${cd||cfin||(c.autres_contacts||[]).length?`<div class="d-sec">
-    <h3>Décideurs</h3>
-    ${cd?`<span class="who-h">Dirigeant</span>${personKV(cd)}`:""}
-    ${cfin?`<span class="who-h">${cfin.type==="dirigeant"?"Dirigeant, qui décide aussi des finances":"Décideur financier"}</span>${personKV(cfin)}`:""}
-    ${cd&&!cfin?`<span class="muted" style="font-size:12.5px">Pas de directeur financier identifié : c'est le dirigeant qui décide.</span>`:""}
-    ${(cd||cfin)&&![cd,cfin].some(p=>p&&(p.tel_direct||p.email))?`<span class="muted" style="font-size:12.5px">Pas de ligne directe publiée : passer par le standard et demander ${cfin&&cfin.type!=="dirigeant"?"le service administratif et financier":"la direction"}.</span>`:""}
-    ${(c.autres_contacts||[]).length?`<span class="who-h">Autres contacts</span><dl class="kv">${c.autres_contacts.map(o=>line(esc(o.fonction||"Contact"),esc(o.nom||"")+(o.a_confirmer?" (à confirmer)":"")+(o.tel?" · "+esc(o.tel):"")+(o.email?" · "+esc(o.email):""))).join("")}</dl>`:""}
-  </div>`:""}
-  <div class="d-sec">
-    <h3>Dirigeants (registre)</h3>
-    ${dir}
-    ${c.ext&&(c.dirigeants||[]).length?`<span class="muted" style="font-size:12.5px;display:block;margin-top:6px">D'après le registre national, qui peut encore lister d'anciens mandataires : à confirmer sur la fiche Pappers avant un appel.</span>`:""}
   </div>
   <div class="d-sec">
     <h3>Activité</h3>
@@ -1447,16 +1922,17 @@ function renderDetail(force){
   ${c.verifie?`<div class="d-sec"><h3>Contre-vérification du 21/10/2026</h3>${(c.corrections||[]).length?`<ul class="checks">${c.corrections.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:`<p class="txt muted">Fiche revérifiée sur les sources officielles : aucune erreur trouvée.</p>`}</div>`:""}
   ${(c.sources||[]).length?`<div class="d-sec"><h3>Sources</h3><div class="src">${c.sources.slice(0,6).map(u=>linkOut(u)).join("")}</div></div>`:""}
   `;
+  restoreForms(box,keepF,".callbox");
   renderHist(c,"f_");
-  if(!ro)bindForm(c,"f_",()=>{renderPipeline();renderList();renderPlan()},()=>renderDetail(true));
+  if(!ro)bindForm(c,"f_",()=>{renderPipeline();renderList();renderJour();renderAppels()},()=>renderDetail(true));
 }
 /* Trois prix d'œuvre types pour le rendez-vous : déduction par an, impôt en moins sur 5 ans (taux normal de 25 %), coût net */
 function simTable(c){
-  const a=c.art||{},lim=a.ca&&!a.plafond_a_recalculer?a.plafond:PLANCHER;
-  const prix=[10000,25000,Math.round(lim*5/1000)*1000].filter((v,i,t)=>v>0&&t.indexOf(v)===i).sort((x,y)=>x-y);
-  const rows=prix.map(p=>{const ded=Math.min(p/5,lim),eco=ded*5*.25;return `<tr><td>${fmtE(p)}</td><td>${fmtE(ded)}</td><td>${fmtE(eco)}</td><td>${fmtE(p-eco)}</td></tr>`}).join("");
+  const a=c.art||{},lim=a.ca&&!a.plafond_a_recalculer?a.plafond:PLANCHER,top=lim*5;
+  const prix=[10000,25000,top].filter((v,i,t)=>v>0&&t.indexOf(v)===i).sort((x,y)=>x-y);
+  const rows=prix.map(p=>{const ded=Math.min(p/5,lim),eco=ded*5*.25;return `<tr><td>${fmtE(p)}${p===top?` <span class="muted">(au plafond)</span>`:""}</td><td>${fmtE(ded)}</td><td>${fmtE(eco)}</td><td>${fmtE(p-eco)}</td></tr>`}).join("");
   return `<details class="mailer"><summary>Simulation à présenter</summary>
-    <table class="simt" style="margin-top:8px"><thead><tr><th>Prix de l'œuvre</th><th>Déduit par an</th><th>Impôt en moins sur 5 ans</th><th>Coût net</th></tr></thead><tbody>${rows}</tbody></table>
+    <div class="simwrap"><table class="simt" style="margin-top:8px"><thead><tr><th>Prix de l'œuvre</th><th>Déduit par an</th><th>Impôt en moins (5 ans)</th><th>Coût net</th></tr></thead><tbody>${rows}</tbody></table></div>
     <p class="muted small" style="margin:6px 0 0">Au taux normal de l'IS (25 %), pour une société bénéficiaire${a.benefice===false?" : <b class=\"late\">en perte au dernier exercice, pas d'économie tant qu'elle ne redevient pas bénéficiaire</b>":""} ; limite de ${fmtE(lim)} par an${a.ca?"":" (plancher, chiffre d'affaires non connu)"}, réduite des dons de mécénat. À valider avec son expert-comptable.</p>
   </details>`;
 }
@@ -1508,12 +1984,7 @@ Objet : acquisition d'œuvres originales d'artistes vivants (article 238 bis AB 
 const cPros=()=>culture.prospects||[];
 function renderCHero(){
   const P=cPros();const n=f=>P.filter(x=>x.famille===f).length;
-  $("#ckpis").innerHTML=[
-    ["k2",n("Associations"),"associations","Culture, musique, patrimoine, fêtes"],
-    ["k1",n("Artistes"),"artistes et artisans d'art","Peinture, photo, céramique…"],
-    ["k3",n("Lieux & institutions")+n("Réseaux & événements"),"lieux, réseaux et événements","Pour s'inscrire dans le circuit local"],
-    ["",P.filter(x=>x.priorite==="Haute").length,"en priorité haute","À contacter en premier"]
-  ].map(([cl,v,l,s])=>`<div class="kpi ${cl}"><b class="num">${v}</b><span>${l}</span><small>${s}</small></div>`).join("");
+  $("#ckpis").textContent=P.length?`${n("Associations")} associations · ${n("Artistes")} artistes · ${n("Lieux & institutions")+n("Réseaux & événements")} lieux et réseaux · ${P.filter(x=>x.priorite==="Haute").length} en priorité haute`:"";
 }
 function cFiltered(){
   const q=norm(cfilt.q);
@@ -1536,7 +2007,7 @@ function renderCList(){
       <span class="rk">${icon(f.ic,18)}</span>
       <div style="min-width:0"><div class="nm">${esc(x.nom)}${S(x).opposition?` <span class="pill warn">Refus de contact</span>`:""}</div><div class="sub">${esc(sub)}</div></div>
       <span class="pr">${x.priorite?`<span class="pill p-${x.priorite}">${x.priorite}</span>`:""}</span>
-      <span><span class="pill s-${st}">${SLABEL[st]}</span></span>
+      <span>${st==="a_contacter"?`<span class="st0" title="À contacter">—</span>`:`<span class="pill s-${st}">${SLABEL[st]}</span>`}</span>
     </div>`}).join("");
 }
 const isUrl=v=>/^https?:\/\//i.test(String(v||""));
@@ -1599,6 +2070,14 @@ function renderCDetail(force){
   const st=statutOf(x),ro=!canEdit(),ct=x.contact||{},rp=x.responsable,op=S(x).opposition;
   const where=[x.discipline,x.ville,x.distance_cosne_km!=null?(x.distance_cosne_km<=3?"à Cosne":"≈ "+x.distance_cosne_km+" km de Cosne"):null].filter(Boolean).join(" · ");
   const hasContact=ct.telephone||ct.email||ct.site||ct.facebook||ct.instagram;
+  const ctel=telIn(ct.telephone)||telIn(S(x).contact_coord),cq=encodeURIComponent(x.nom+" "+(x.ville||""));
+  const ccall=op?"":`<div class="callbox" data-c="${esc(x.id)}">
+      ${rp&&rp.nom?`<div><span class="cb-l">Responsable</span>${esc(rp.nom)}${rp.fonction?` <span class="muted">— ${esc(rp.fonction)}</span>`:""}</div>`:""}
+      ${ctel?`<div><span class="cb-l">Téléphone</span><span class="contact">${telLink(ctel,"btn-call")}${copyBtn(ctel,"le numéro")}</span>${ct.telephone&&telIn(ct.telephone)&&ct.telephone.trim()!==telIn(ct.telephone)?`<span class="muted small" style="display:block">${esc(ct.telephone)}</span>`:""}</div>`:""}
+      ${ct.email?`<div><span class="cb-l">E-mail</span>${copyable(ct.email)}</div>`:""}
+      ${ct.instagram||ct.facebook?`<div class="cb-row">${igLink(ct.instagram)}${fbLink(ct.facebook)}</div>`:""}
+      ${!ctel&&!ct.email&&!ct.instagram&&!ct.facebook?`<div class="cb-find"><span class="cb-l">Pas de coordonnées publiques trouvées</span><div class="cb-row small"><a href="https://www.google.com/search?q=${cq}" target="_blank" rel="noopener">Chercher sur Google</a><a href="https://www.facebook.com/search/top?q=${cq}" target="_blank" rel="noopener">Chercher sur Facebook</a></div>${ro?"":`<form class="inl" data-cfound="${esc(x.id)}"><input name="t" autocomplete="off" placeholder="Téléphone ou e-mail trouvé" aria-label="Coordonnées trouvées pour ${esc(x.nom)}"><button class="btn primary" type="submit">Enregistrer</button></form>`}</div>`:""}
+    </div>`;
   box.innerHTML=`
   <div class="d-head">
     <button class="btn close" type="button" data-close="1">← Retour à la liste</button>
@@ -1606,6 +2085,7 @@ function renderCDetail(force){
     <h2>${esc(x.nom)}</h2>
     ${where?`<div class="alias">${esc(where)}</div>`:""}
     <div class="tags">${x.priorite?`<span class="pill p-${x.priorite}">Priorité ${x.priorite.toLowerCase()}</span>`:""}<span class="pill s-${st}">${SLABEL[st]}</span>${x.a_confirmer?`<span class="pill warn">Activité à confirmer</span>`:""}</div>
+    ${ccall}
   </div>
   <div class="d-sec">
     <h3>Idée d'événement</h3>
@@ -1619,15 +2099,10 @@ function renderCDetail(force){
   <div class="d-sec">
     <h3>Contact</h3>
     <dl class="kv">
-      ${rp&&rp.nom?line("Responsable",esc(rp.nom)+(rp.fonction?` <span class="muted">— ${esc(rp.fonction)}</span>`:"")):""}
       ${line("Adresse",copyable(ct.adresse))}
-      ${line("Téléphone",ct.telephone?`<span class="contact">${telLink(telIn(ct.telephone)||ct.telephone)}${copyBtn(telIn(ct.telephone)||ct.telephone,"le numéro")}</span>${telIn(ct.telephone)&&ct.telephone.trim()!==telIn(ct.telephone)?`<span class="muted small" style="display:block">${esc(ct.telephone)}</span>`:""}`:"")}
-      ${line("E-mail",copyable(ct.email))}
       ${line("Site web",linkOut(ct.site))}
-      ${line("Facebook",fbLink(ct.facebook))}
-      ${line("Instagram",igLink(ct.instagram))}
     </dl>
-    ${hasContact?"":`<span class="muted">Pas de coordonnées publiques trouvées.</span>`}
+    ${hasContact||ccall?"":`<span class="muted">Pas de coordonnées publiques trouvées.</span>`}
   </div>
   <div class="d-sec">
     <h3>Qui sont-ils</h3>
@@ -1657,63 +2132,115 @@ function renderCStatic(){
 }
 
 /* ---------- Rendu global ---------- */
-function renderAll(force){renderPipeline();renderList();renderPlan();renderAppels(force);renderDetail(force);renderCHero();renderCList();renderCDetail(force)}
+function renderAll(force){renderPipeline();renderList();renderJour(force);renderAppels(force);renderDetail(force);renderCHero();renderCList();renderCDetail(force)}
 let tt;
 function toast(m,act){
   let t=$(".toast");if(!t){t=document.createElement("div");t.className="toast";t.setAttribute("role","status");document.body.appendChild(t)}
   t.textContent="";const sp=document.createElement("span");sp.textContent=m;t.appendChild(sp);
-  if(act){const b=document.createElement("button");b.type="button";b.className="tbtn";b.textContent=act.label;b.addEventListener("click",()=>{t.hidden=true;act.run()});t.appendChild(b)}
-  t.hidden=false;clearTimeout(tt);tt=setTimeout(()=>t.hidden=true,act?10000:2600);
+  const acts=Array.isArray(act)?act:act?[act]:[];
+  for(const a of acts){const b=document.createElement("button");b.type="button";b.className="tbtn";b.textContent=a.label;b.addEventListener("click",()=>{t.hidden=true;a.run()});t.appendChild(b)}
+  t.hidden=false;clearTimeout(tt);tt=setTimeout(()=>t.hidden=true,acts.length?10000:2600);
 }
-function setSync(cls,txt){const s=$("#sync");s.className="sync "+cls;s.querySelector("span").textContent=txt}
+function setSync(cls,txt){const s=$("#sync");s.className="sync "+cls;s.querySelector("span").textContent=txt;s.title=txt}
 
-/* ---------- Navigation ---------- */
-const VIEWS={plan:["#viewPlan","#heroPlan","#tab-plan"],appels:["#viewAppels","#heroAppels","#tab-appels"],fiches:["#viewFiches","#heroFiches","#tab-fiches"],culture:["#viewCulture","#heroCulture","#tab-culture"]};
-const EXPORT_L={appels:"Exporter la feuille d'appels (CSV)",culture:"Exporter les prospects culture (CSV)"};
-function setView(v){
-  if(!VIEWS[v])v="plan";view=v;
-  for(const [k,[sec,hero,tab]] of Object.entries(VIEWS)){const on=k===v;$(sec).hidden=!on;$(hero).hidden=!on;$(tab).setAttribute("aria-selected",on)}
-  const xl=EXPORT_L[v]||"Exporter les entreprises (CSV)";$("#exportBtn span").textContent=xl;$("#exportBtn").setAttribute("aria-label",xl);
+/* ---------- Navigation : vues, fiche ouverte, adresse (#appels, #e12…) et geste retour ---------- */
+const VIEWS={jour:["#viewJour","#tab-jour"],appels:["#viewAppels","#tab-appels"],fiches:["#viewFiches","#tab-fiches"],culture:["#viewCulture","#tab-culture"],memo:["#viewMemo","#tab-memo"]};
+const HASH={jour:"aujourdhui",appels:"appels",fiches:"entreprises",culture:"culture",memo:"memo"};
+const HASHV=Object.fromEntries(Object.entries(HASH).map(([k,v])=>[v,k]));
+let aOpen=false,lastHash="",simBack=null;
+const wide=()=>!matchMedia("(max-width:980px)").matches;
+function setHash(h,push,st){
+  try{if(location.hash===h)return;lastHash=h;
+    if(push)history.pushState(Object.assign({crm:1},st||{}),"",h);else history.replaceState(st?Object.assign({crm:1},st):null,"",h)}catch(e){}
+}
+function placeDetail(){
+  const d=$("#detail"),host=view==="appels"?$("#amain"):$("#viewFiches .main");
+  if(host&&d.parentElement!==host)host.appendChild(d);
+  $("#amain").classList.toggle("open",view==="appels"&&aOpen&&sel!=null);
+}
+function markRows(){document.querySelectorAll("#alist .arow").forEach(r=>r.classList.toggle("sel",aOpen&&+r.dataset.r===sel))}
+function setView(v,keepHash){
+  if(!VIEWS[v])v="jour";
+  if(v!=="appels")aOpen=false;
+  view=v;
+  for(const [k,[sec,tab]] of Object.entries(VIEWS)){const on=k===v;$(sec).hidden=!on;$(tab).setAttribute("aria-selected",String(on))}
+  document.body.dataset.view=v;
+  placeDetail();
   try{localStorage.setItem("crm58-view",v)}catch(e){}
-  if(v==="plan")renderRoute();
+  if(!keepHash)setHash("#"+HASH[v],false);
+  if(v==="jour"){if(jourDirty)renderJour(true);renderRoute()}
   if(v==="appels"&&appelsDirty)renderAppels(true);
 }
-function openFiche(r,from){
-  retView=from||null;
-  if(byId[r]&&!companies.includes(byId[r]))setScope("all");
-  sel=r;setView("fiches");
-  filt={q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:filt.sort};$("#q").value="";$("#fPrio").value="";$("#fSect").value="";$("#fTop").value="";$("#fContact").value="";$("#fArt").value="";
+function focusDetail(){const h=$("#detail h2");if(h)try{h.focus({preventScroll:wide()})}catch(e){}}
+function openFiche(r,from,noPush){
+  if(!byId[r])return;
+  sel=r;
+  if(from==="appels"){
+    if(view!=="appels")setView("appels",true);
+    aOpen=true;retView=null;placeDetail();renderDetail(true);markRows();
+    if(!noPush)setHash("#e"+r,true,{from:"appels"});
+    $("#detail").scrollTop=0;focusDetail();return;
+  }
+  retView=from&&from!=="fiches"?from:null;
+  setView("fiches",true);
+  filt={q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:filt.sort};for(const id of ["#q","#fPrio","#fSect","#fTop","#fContact","#fArt"])$(id).value="";
   renderPipeline();renderList();renderDetail(true);
   const row=document.querySelector(`.row[data-r="${r}"]`);
-  if(row&&!matchMedia("(max-width:980px)").matches)row.scrollIntoView({block:"center"});
+  if(row&&wide())row.scrollIntoView({block:"center"});
   $("#detail").scrollTop=0;
+  if(!noPush)setHash("#e"+r,true,{from:retView||"fiches"});
+  focusDetail();
 }
-function backToAppels(){
-  const r=sel;retView=null;setView("appels");renderAppels(true);renderDetail(true);
-  const row=document.querySelector(`.arow[data-r="${r}"]`);if(row)row.scrollIntoView({block:"center"});
+function closeFiche(){
+  const r=sel,inA=view==="appels",ret=retView;
+  sel=null;aOpen=false;retView=null;
+  if(inA){placeDetail();renderDetail(true);markRows();setHash("#appels",false);
+    const row=$(`#alist .arow[data-r="${r}"]`);if(row){row.scrollIntoView({block:"center"});const b=row.querySelector(".aname");if(b)b.focus({preventScroll:true})}return}
+  if(ret&&VIEWS[ret]){setView(ret);renderList();renderDetail(true);return}
+  setHash("#entreprises",false);renderList();renderDetail(true);
+  const row=$(`#rows .row[data-r="${r}"]`);if(row)row.focus({preventScroll:true});
 }
+function goBack(){if(history.state&&history.state.crm&&/^#e\d+$/.test(location.hash)){history.back();return}closeFiche()}
+function cBack(){if(history.state&&history.state.crm&&/^#c/.test(location.hash)){history.back();return}csel=null;setHash("#culture",false);renderCList();renderCDetail(true)}
+function route(pop){
+  const h=decodeURIComponent(location.hash.slice(1));lastHash=location.hash;
+  let m=h.match(/^e(\d+)$/);
+  if(m&&byId[+m[1]]){const st=history.state||{};openFiche(+m[1],st.from||null,true);return true}
+  m=h.match(/^c(.+)$/);
+  if(m&&cById[m[1]]){csel=m[1];setView("culture",true);renderCList();renderCDetail(true);return true}
+  const v=HASHV[h];if(!v)return false;
+  if(pop){sel=null;aOpen=false;retView=null;if(v==="culture")csel=null}
+  setView(v,true);renderList();renderDetail(true);markRows();if(v==="culture"){renderCList();renderCDetail(true)}
+  return true;
+}
+window.addEventListener("popstate",()=>route(true));
+window.addEventListener("hashchange",()=>{if(location.hash!==lastHash)route(true)});
 async function copyFrom(el,label){try{await navigator.clipboard.writeText(el.textContent);toast(label)}catch(err){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);toast("Texte sélectionné, fais Ctrl+C")}}
 async function copyBtnClick(b){try{await navigator.clipboard.writeText(b.dataset.copy);toast("Copié")}catch(err){const t=b.previousElementSibling;if(t){const r=document.createRange();r.selectNodeContents(t);const s=getSelection();s.removeAllRanges();s.addRange(r)}toast("Sélectionné, fais Ctrl+C")}}
+async function copyText(v,label){try{await navigator.clipboard.writeText(v);toast(label)}catch(e){toast("Copie impossible ici : "+v)}}
 function detailClicks(box,onClose){
   box.addEventListener("click",async e=>{
-    if(e.target.closest("[data-close]")){onClose();return}
-    if(e.target.closest("[data-back]")){backToAppels();return}
+    if(e.target.closest("[data-close]")||e.target.closest("[data-back]")){onClose();return}
     for(const [btn,sel2,lab] of [["[data-copymail]","[data-mail]","Texte copié"],["[data-copysubj]","[data-subj]","Objet copié"],["[data-copynote]","[data-note]","Note copiée"]])
       if(e.target.closest(btn)){const m=box.querySelector(sel2);if(m)copyFrom(m,lab);return}
+    const lk=e.target.closest("[data-link]");if(lk){copyText(ficheLink(lk.dataset.link),"Lien de la fiche copié");return}
     const b=e.target.closest(".copy");if(b)copyBtnClick(b);
   });
 }
-document.querySelector(".tabs").addEventListener("click",e=>{const t=e.target.closest(".tab");if(t){retView=null;setView(t.dataset.view);renderDetail()}});
-$("#waves").addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openFiche(+b.dataset.open)});
-$("#route").addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openFiche(+b.dataset.open)});
-$("#route").addEventListener("keydown",e=>{const b=e.target.closest("[data-open]");if(b&&(e.key==="Enter"||e.key===" ")){e.preventDefault();openFiche(+b.dataset.open)}});
-$("#rows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)return;sel=+r.dataset.r;retView=null;renderList();renderDetail(true);$("#detail").scrollTop=0});
-$("#crows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)return;csel=r.dataset.c;renderCList();renderCDetail(true);$("#cdetail").scrollTop=0});
+document.querySelector(".tabs").addEventListener("click",e=>{const t=e.target.closest(".tab");if(!t)return;
+  if(view==="appels"&&aOpen)sel=null;
+  retView=null;setView(t.dataset.view);renderDetail();if(t.dataset.view==="appels")markRows()});
+$("#route").addEventListener("keydown",e=>{const b=e.target.closest("[data-open]");if(b&&(e.key==="Enter"||e.key===" ")){e.preventDefault();openFiche(+b.dataset.open,"jour")}});
+$("#rows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)return;const n=+r.dataset.r,was=sel;sel=n;retView=null;renderList();renderDetail(true);$("#detail").scrollTop=0;if(was!==n)setHash("#e"+n,!wide()||!/^#e\d+$/.test(location.hash),{from:"fiches"});focusDetail()});
+$("#crows").addEventListener("click",e=>{const r=e.target.closest(".row");if(!r)return;csel=r.dataset.c;renderCList();renderCDetail(true);$("#cdetail").scrollTop=0;setHash("#c"+encodeURIComponent(csel),!wide()||!/^#c/.test(location.hash),{from:"culture"})});
 for(const id of ["#rows","#crows"])$(id).addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("row")){e.preventDefault();e.target.click()}});
-detailClicks($("#detail"),()=>{sel=null;renderList();renderDetail(true)});
+detailClicks($("#detail"),goBack);
 for(const [id,fn] of [["#detail",()=>renderDetail()],["#cdetail",()=>renderCDetail()]])
   $(id).addEventListener("focusout",()=>setTimeout(()=>{const b=$(id);if(b.dataset.stale&&!fieldFocus(b))fn()},0));
-detailClicks($("#cdetail"),()=>{csel=null;renderCList();renderCDetail(true)});
+detailClicks($("#cdetail"),cBack);
+document.addEventListener("keydown",e=>{if(e.key!=="Escape"||e.target.closest("input,select,textarea"))return;
+  if(view==="appels"&&aOpen||view==="fiches"&&sel!=null&&!wide()){e.preventDefault();goBack()}
+  else if(view==="culture"&&csel&&!wide()){e.preventDefault();cBack()}});
 $("#pipeline").addEventListener("click",e=>{const b=e.target.closest(".stage");if(!b)return;filt.statut=filt.statut===b.dataset.st?"":b.dataset.st;renderPipeline();renderList()});
 $("#q").addEventListener("input",e=>{filt.q=e.target.value;renderList()});
 $("#fPrio").addEventListener("change",e=>{filt.prio=e.target.value;renderList()});
@@ -1724,32 +2251,58 @@ $("#fArt").addEventListener("change",e=>{filt.art=e.target.value;renderList()});
 $("#aResp").addEventListener("change",()=>renderAppels(true));
 $("#aVague").addEventListener("change",()=>renderAppels(true));
 $("#aq").addEventListener("input",()=>renderAppels(true));
-function afterLog(c,res,r){
-  if(r.ok)toast("Noté : "+RLABEL[res]+r.info,{label:"Annuler",run:async()=>{if(await r.undo()){toast("Annulé");renderAll()}}});
-  renderPipeline();renderList();renderPlan();renderAppels(true);if(sel===c.rang)renderDetail(true);
+for(const [b,g] of [["#aFiltBtn","#aFilt"],["#fFiltBtn","#fFilt"]])$(b).addEventListener("click",()=>{const o=$(g).classList.toggle("open");$(b).setAttribute("aria-expanded",String(o))});
+/* Liste filtrée prête depuis la vue Aujourd'hui (qualité des fiches, dossiers à traiter) */
+function openList(f){
+  filt=Object.assign({q:"",prio:"",sect:"",statut:"",top:"",contact:"",art:"",sort:filt.sort},f);
+  for(const [id,k] of [["#q","q"],["#fPrio","prio"],["#fSect","sect"],["#fTop","top"],["#fContact","contact"],["#fArt","art"]])$(id).value=filt[k]||"";
+  sel=null;retView=null;setView("fiches");renderPipeline();renderList();renderDetail(true);
+  const fg=$("#fFilt");if(!wide()){fg.classList.add("open");$("#fFiltBtn").setAttribute("aria-expanded","true")}
+  $("#viewFiches").scrollIntoView({block:"start"});
 }
-$("#alist").addEventListener("click",async e=>{
+function goCalls(id,vg){
+  setView("appels");
+  if(vg!=null){$("#aVague").value=vg;renderAppels(true)}
+  const t=id&&document.getElementById(id);
+  if(t)setTimeout(()=>t.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}),0);
+  else window.scrollTo(0,0);
+}
+const TODO_GO={rdvpast:()=>goCalls("g-rdv"),inter:()=>openList({statut:"en_discussion"}),faux:()=>openList({contact:"faux"}),retry:()=>goCalls("g-retry"),nonumt:()=>openList({top:"cibles",contact:"notel"})};
+$("#viewJour").addEventListener("click",e=>{
+  const o=e.target.closest("[data-open]");if(o){openFiche(+o.dataset.open,"jour");return}
+  const g=e.target.closest("[data-goview]");if(g){if(g.dataset.goview==="appels")goCalls(g.dataset.go);else setView(g.dataset.goview);return}
+  const td=e.target.closest("[data-todo]");if(td&&TODO_GO[td.dataset.todo]){TODO_GO[td.dataset.todo]();return}
+  const vg=e.target.closest("[data-vg]");if(vg){goCalls(null,vg.dataset.vg);return}
+  const qf=e.target.closest("[data-qf]");if(qf){openList({contact:qf.dataset.qf,top:qf.dataset.qt});return}
+  const w=e.target.closest("[data-who]");if(w){jourWho=w.dataset.who;renderJour(true);return}
+  const b=e.target.closest(".copy");if(b)copyBtnClick(b);
+});
+$("#today").addEventListener("focusout",()=>setTimeout(()=>{if(jourDirty&&!jourBusy())renderJour(true)},0));
+$(".logo").addEventListener("click",e=>{e.preventDefault();setView("jour");window.scrollTo(0,0)});
+$("#akpis").addEventListener("click",e=>{const b=e.target.closest("[data-go]");if(!b)return;const t=document.getElementById(b.dataset.go);if(t)t.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"})});
+$("#alist").addEventListener("click",e=>{
   const o=e.target.closest("[data-open]");if(o){openFiche(+o.dataset.open,"appels");return}
   const b=e.target.closest(".copy");if(b){copyBtnClick(b);return}
-  if(e.target.closest("[data-afno]")){renderAppels(true);return}
-  const ok=e.target.closest("[data-afok]");if(!ok)return;
-  const c=byId[+ok.dataset.afok],box=document.getElementById("af-"+ok.dataset.afok);if(!c||!box)return;
-  const res=box.dataset.res,v=n=>{const el=box.querySelector(`[name="${n}"]`);return el?el.value.trim():""};
-  let extra={},txt=RLABEL[res];
-  if(res==="rappeler"){if(!v("d")){toast("Choisis la date du rappel");return}extra={date_relance:v("d"),rappel_heure:v("h")};txt="À rappeler le "+fmtDay(v("d"))+(v("h")?" à "+v("h"):"")}
-  if(res==="rdv"){if(!v("d")){toast("Choisis la date du rendez-vous");return}extra={rdv_date:v("d"),rdv_heure:v("h"),rdv_note:v("n"),date_relance:"",rappel_heure:""};txt="Rendez-vous le "+fmtDay(v("d"))+(v("h")?" à "+v("h"):"")}
-  if(v("n"))txt+=" : "+v("n");
-  ok.disabled=true;box.hidden=true;
-  afterLog(c,res,await logResult(c,res,txt,extra));
 });
-$("#alist").addEventListener("change",async e=>{const sl=e.target.closest(".ares");if(!sl||!sl.value)return;
-  const c=byId[+sl.dataset.res],res=sl.value;if(!c)return;
-  if(FORM_RES.has(res)){openAform(c,res);return}
-  sl.disabled=true;
-  afterLog(c,res,await logResult(c,res,RLABEL[res]));
-});
+for(const r of ["#alist","#today","#detail"])bindCalls($(r));
 $("#alist").addEventListener("focusout",()=>setTimeout(()=>{if(appelsDirty&&!appelsBusy())renderAppels(true)},0));
-$("#detail").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o){openFiche(+o.dataset.open,retView);return}if(e.target.closest("[data-sim]")&&byId[sel])simFrom(byId[sel])});
+$("#detail").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o){openFiche(+o.dataset.open,view==="appels"?"appels":retView);return}if(e.target.closest("[data-sim]")&&byId[sel])simFrom(byId[sel])});
+$("#viewMemo").addEventListener("click",e=>{if(e.target.closest("[data-backfiche]")&&simBack){const b=simBack;openFiche(b.r,b.from==="appels"?"appels":b.from)}});
+/* Un associé touche un numéro : « En appel » pour les autres pendant 20 minutes */
+document.addEventListener("click",e=>{const a=e.target.closest("a[data-tel]");if(!a)return;const c=rowC(a);if(c)markEnAppel(c)});
+/* Numéro trouvé (entreprise) ou coordonnées trouvées (culture), enregistrés dans le suivi partagé */
+document.addEventListener("submit",async e=>{
+  const f=e.target.closest("form[data-found],form[data-cfound]");if(!f)return;e.preventDefault();
+  const raw=f.querySelector("input").value.trim();if(!raw)return;
+  if(f.dataset.found){const c=byId[+f.dataset.found];const t=telIn(raw);if(!c)return;if(!t){toast("Numéro non reconnu : écris-le sous la forme 03 86 12 34 56");return}
+    const by=await whoAmI(),ts=new Date().toISOString(),id=newId(ts),ent={t:ts,txt:"Standard trouvé et noté : "+t};if(by)ent.by=by;
+    if(await patch(c,{tel_trouve:t,journal:{[id]:ent}}))toast("Numéro enregistré pour toute l'équipe",{label:"Annuler",run:async()=>{if(await patch(c,{tel_trouve:"",journal:{[id]:null}})){toast("Annulé");renderAll(true)}}});
+    renderAll(true);return}
+  const x=cById[f.dataset.cfound];if(!x)return;
+  const by=await whoAmI(),ts=new Date().toISOString(),id=newId(ts),ent={t:ts,txt:"Coordonnées trouvées et notées : "+raw};if(by)ent.by=by;
+  if(await patch(x,{contact_coord:raw,journal:{[id]:ent}}))toast("Coordonnées enregistrées");
+  renderCList();renderCDetail(true);
+});
 $("#calcForm").addEventListener("input",renderSim);
 $("#calcForm").addEventListener("submit",e=>e.preventDefault());
 $("#fSort").addEventListener("change",e=>{filt.sort=e.target.value;renderList();try{localStorage.setItem("crm58-sort",filt.sort)}catch(err){}});
@@ -1757,7 +2310,11 @@ $("#cq").addEventListener("input",e=>{cfilt.q=e.target.value;renderCList()});
 $("#cfam").addEventListener("change",e=>{cfilt.fam=e.target.value;renderCList()});
 $("#cprio").addEventListener("change",e=>{cfilt.prio=e.target.value;renderCList()});
 $("#cstatut").addEventListener("change",e=>{cfilt.statut=e.target.value;renderCList()});
-let rz;window.addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(renderRoute,150)});
+let rz;window.addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{renderRoute();placeDetail()},150)});
+if(window.ResizeObserver){
+  const setH=()=>{const ab=$("#abar"),ap=$("#appbar");if(ap)document.documentElement.style.setProperty("--bar-h",ap.offsetHeight+"px");document.documentElement.style.setProperty("--abar-h",(ab&&ab.offsetParent?ab.offsetHeight:0)+"px")};
+  const ro=new ResizeObserver(setH);ro.observe($("#abar"));ro.observe($("#appbar"));
+}
 
 /* ---------- Exports CSV (séparateur « ; », BOM pour Excel ; une cellule qui commence par = + - @ est neutralisée) ---------- */
 const RAW=v=>({raw:v});   // valeur exportée telle quelle (numéro +33…)
@@ -1765,34 +2322,36 @@ const csvq=v=>{if(v==null)return "";let t;if(typeof v==="number")t=String(v);els
 const csvOf=(cols,rows)=>"﻿"+cols.join(";")+"\n"+rows.map(r=>r.map(csvq).join(";")).join("\n");
 const histTxt=x=>histOf(S(x)).map(e=>`${fmtStamp(e.t)} · ${e.res&&RLABEL[e.res]?RLABEL[e.res]+" · ":""}${e.txt||""}`).join(" | ");
 const oppD=x=>{const o=S(x).opposition;return o?[isoDay(new Date(o.date)),o.canal||""]:["",""]};
+const adminTxt=c=>adminOf(c).map(p=>`${p.nom} — ${shortFn(p.fonction)} (${ROLE_L[p.role]||p.role}${p.fiabilite==="probable"?", à confirmer":""})`).join(" / ");
 async function saveFile(filename,data,mime){
   const dl=window.claude&&window.claude.use?await window.claude.use("downloads").catch(()=>null):null;
   if(dl){try{await dl.save({filename,data})}catch(e){if(e&&e.code!=="declined")toast("Export impossible pour le moment")}return}
   try{const u=URL.createObjectURL(new Blob([data],{type:mime||"text/csv;charset=utf-8"}));const a=document.createElement("a");a.href=u;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),3000)}
   catch(e){toast("Export indisponible dans cette vue")}
 }
-$("#exportBtn").addEventListener("click",()=>{
-  if(view==="appels"){
-    const cols=["entreprise","telephone","telephone_e164","ligne_directe","interlocuteur","a_demander","fonction","vague","priorite","plafond_annuel","ville","siren","statut","dernier_resultat","appels","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appelant","pas_de_mailing","argument","notes"];
-    const rows=callGroups().flatMap(g=>g[2]).map(c=>{const s=S(c),w=personToAsk(c)||{},cl=callsOf(c),dt=telIn(s.contact_coord);
-      return [nameOf(c),c.telephone,RAW(e164(c.telephone)),dt,s.contact_nom,w.nom,w.fonction,c.vague,c.priorite,(c.art||{}).plafond,c.ville,c.siren,SLABEL[statutOf(c)],RLABEL[cl.last]||"",cl.n,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,s.responsable,c.opposition_prospection?"oui":"",(c.fiche||{}).angle_art,s.notes]});
-    return saveFile("feuille-appels-nievre.csv",csvOf(cols,rows));
-  }
-  if(view==="culture"){
-    const cols=["nom","famille","type","discipline","ville","distance_cosne_km","priorite","responsable","telephone","email","site","facebook","instagram","idee_evenement","statut_prospection","qui_s_en_occupe","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","notes","refus_contact_date","refus_canal","historique"];
-    const rows=cPros().map(x=>{const s=S(x),ct=x.contact||{},rp=x.responsable||{};return [x.nom,x.famille,x.type,x.discipline,x.ville,x.distance_cosne_km,x.priorite,rp.nom?rp.nom+(rp.fonction?" ("+rp.fonction+")":""):"",ct.telephone,ct.email,ct.site,ct.facebook,ct.instagram,x.idee_evenement,SLABEL[statutOf(x)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.notes,...oppD(x),histTxt(x)]});
-    return saveFile("prospects-culture-cosne.csv",csvOf(cols,rows));
-  }
-  const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","telephone_e164","email","site_web","dirigeants","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appels","dernier_resultat","dernier_appel","notes","refus_prospection_date","refus_canal","historique","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","lieu_decision","argument_appel","comment_appeler","vigilance","raison_priorite","a_confirmer","opposition_pappers","adresse","code_postal"];
-  const rows=allCompanies.map(c=>{const s=S(c),cf=c.contact_finance||{},cd=c.contact_dirigeant||{},a=c.art||{},fi=c.fiche||{},cl=callsOf(c);return [c.rang,c.nom,c.nom_commercial||"",c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,RAW(e164(c.telephone)),c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+(d.fonction?" ("+d.fonction+")":"")).join(" / "),SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,cl.n,RLABEL[cl.last]||"",cl.lastT?fmtStamp(cl.lastT):"",s.notes,...oppD(c),histTxt(c),cd.nom,cd.fonction,cd.tel_direct,cd.email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,fi.angle_art,fi.qui_appeler,(fi.vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":c.opposition_prospection===false?"non":"non vérifiée",c.adresse,c.code_postal]});
-  saveFile("crm-entreprises-nievre.csv",csvOf(cols,rows));
+$("#aExport").addEventListener("click",()=>{
+  const cols=["entreprise","telephone","telephone_e164","ligne_directe","interlocuteur","a_demander","fonction","role","vague","priorite","plafond_annuel","ville","siren","statut","dernier_resultat","appels","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appelant","pas_de_mailing","argument","notes"];
+  const rows=callGroups().flatMap(g=>g[2]).map(c=>{const s=S(c),w=askList(c).find(p=>!p.team)||{},cl=callsOf(c),dt=telIn(s.contact_coord),tel=stdOf(c);
+    return [nameOf(c),tel,RAW(e164(tel)),dt,s.contact_nom,w.nom,w.fonction,ROLE_L[w.role]||"",c.vague,c.priorite,(c.art||{}).plafond,c.ville,c.siren,SLABEL[statutOf(c)],RLABEL[cl.last]||"",cl.n,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,s.responsable,c.opposition_prospection?"oui":"",(c.fiche||{}).angle_art,s.notes]});
+  saveFile("feuille-appels-nievre.csv",csvOf(cols,rows));
+});
+$("#cExport").addEventListener("click",()=>{
+  const list=cFiltered();
+  const cols=["nom","famille","type","discipline","ville","distance_cosne_km","priorite","responsable","telephone","email","site","facebook","instagram","idee_evenement","statut_prospection","qui_s_en_occupe","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","notes","refus_contact_date","refus_canal","historique"];
+  const rows=list.map(x=>{const s=S(x),ct=x.contact||{},rp=x.responsable||{};return [x.nom,x.famille,x.type,x.discipline,x.ville,x.distance_cosne_km,x.priorite,rp.nom?rp.nom+(rp.fonction?" ("+rp.fonction+")":""):"",ct.telephone,ct.email,ct.site,ct.facebook,ct.instagram,x.idee_evenement,SLABEL[statutOf(x)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.notes,...oppD(x),histTxt(x)]});
+  saveFile(`prospects-culture-cosne-${list.length}.csv`,csvOf(cols,rows));
+});
+$("#fExport").addEventListener("click",()=>{
+  const list=filtered();
+  const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","telephone_e164","standard_note_equipe","email","site_web","dirigeants","interlocuteurs_finance_rh_admin","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appels","dernier_resultat","dernier_appel","notes","refus_prospection_date","refus_canal","historique","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","lieu_decision","argument_appel","comment_appeler","vigilance","raison_priorite","a_confirmer","opposition_pappers","adresse","code_postal"];
+  const rows=list.map(c=>{const s=S(c),cf=c.contact_finance||{},cd=c.contact_dirigeant||{},a=c.art||{},fi=c.fiche||{},cl=callsOf(c);return [c.rang,c.nom,c.nom_commercial||"",c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,RAW(e164(c.telephone)),telIn(s.tel_trouve),c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+(d.fonction?" ("+d.fonction+")":"")).join(" / "),adminTxt(c),SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,cl.n,RLABEL[cl.last]||"",cl.lastT?fmtStamp(cl.lastT):"",s.notes,...oppD(c),histTxt(c),cd.nom,cd.fonction,cd.tel_direct,cd.email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,fi.angle_art,fi.qui_appeler,(fi.vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":c.opposition_prospection===false?"non":"non vérifiée",c.adresse,c.code_postal]});
+  saveFile(list.length===allCompanies.length?"crm-entreprises-nievre.csv":`crm-entreprises-nievre-${list.length}.csv`,csvOf(cols,rows));
 });
 $("#exportIcs").addEventListener("click",()=>{
   const r=icsFor();
   if(!r.n){toast("Aucun rappel ni rendez-vous à venir");return}
   saveFile("agenda-prospection-nievre.ics",r.data,"text/calendar;charset=utf-8");
 });
-$("#bilan").addEventListener("toggle",()=>{if($("#bilan").open)renderBilan()});
 $("#exportOpp").addEventListener("click",()=>{   // liste d'exclusion : refus notés dans le CRM et oppositions relevées sur Pappers
   const rows=[];
   const jour=d=>{const t=new Date(d);return isNaN(t)?"":isoDay(t)};
@@ -1801,37 +2360,20 @@ $("#exportOpp").addEventListener("click",()=>{   // liste d'exclusion : refus no
   saveFile("refus-prospection-nievre.csv",csvOf(["type","nom","siren","date","canal","origine"],rows));
 });
 
-/* ---------- Périmètre : les 100 entreprises du classement initial, ou les 500 ---------- */
+/* ---------- Note de méthode (classement et priorités) ---------- */
 function renderMethod(){
   {const xa=companies.filter(c=>c.ext&&!c.ca_non_publie),xn=companies.filter(c=>c.ca_non_publie),n0=companies.length-xa.length-xn.length;
    const minCA=xa.length?Math.min(...xa.map(c=>c.ca||0)):0;
    $("#methodNote").textContent=`Rangs 1 à ${n0} : classement Pappers du 02/09/2026. `+(xa.length?`Rangs ${n0+1} à ${n0+xa.length} : entreprises classées par le chiffre d'affaires de leur dernier exercice publié (2023 ou plus récent), d'après le registre national ou, à défaut, leur fiche Pappers ; seuil d'entrée ${eur(minCA)}. `:"")+(xn.length?`Rangs ${n0+xa.length+1} à ${n0+xa.length+xn.length} : entreprises qui ne publient pas leurs comptes et emploient au moins 10 salariés, classées par effectif. `:"")+(xa.length||xn.length?`Candidates repérées le 22/10/2026 sur les classements Pappers par commune et au registre national. `:"")
    +`Priorités pour la vente d'œuvres : haute = société à l'IS, bénéfice d'au moins 50 k€ au dernier exercice connu, lieu ouvert au public ou au moins 10 salariés, et au-delà de 30 km de Cosne plus de 4 M€ de CA ; moyenne = autres entreprises bénéficiaires ; basse = pertes, procédure en cours ou régime fiscal à vérifier. Plafond de déduction calculé sur le dernier CA connu (comptes 2025 relevés par la recherche quand ils existent). Pour les 100 premières, priorité revue fiche par fiche (rentabilité, lieu de décision, autonomie du site).`}
 }
-function applyScope(first){
-  companies=scope==="all"?allCompanies:allCompanies.filter(c=>c.rang<=100);
-  document.querySelectorAll("#scope button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.scope===scope));
-  $("#tab-fiches .tlong").textContent=scope==="all"?"Les 500 entreprises":"Les 100 entreprises";
-  $("#fTop").hidden=scope!=="all";
-  if(scope!=="all"){filt.top="";$("#fTop").value=""}
-  if(sel!=null&&!companies.includes(byId[sel]))sel=null;
-  const box=$("#route");if(box)delete box.dataset.w;
-  renderMethod();
-  if(!first)renderAll(true);
-}
-function setScope(v){
-  scope=v==="all"?"all":"100";
-  try{localStorage.setItem("crm58-scope",scope)}catch(e){}
-  applyScope();
-}
-$("#scope").addEventListener("click",e=>{const b=e.target.closest("[data-scope]");if(b&&b.dataset.scope!==scope)setScope(b.dataset.scope)});
 
 /* Suivi noté sur cet appareil hors connexion : proposé à l'envoi dans le suivi partagé (historiques réunis, refus conservés) */
 function offerLocal(){
   const loc=loadLocal()||{},ks=Object.keys(loc).filter(k=>loc[k]&&typeof loc[k]==="object");
   if(!ks.length||!canEdit()||$("#pushLocal"))return;
   const b=document.createElement("button");b.className="btn-ghost";b.type="button";b.id="pushLocal";
-  b.textContent=`Envoyer le suivi de cet appareil (${ks.length})`;b.title="Des fiches ont été suivies sur cet appareil hors connexion : les ajouter au suivi partagé";
+  b.textContent=`Envoyer le suivi local (${ks.length})`;b.title="Des fiches ont été suivies sur cet appareil hors connexion : les ajouter au suivi partagé";
   b.addEventListener("click",async()=>{if(!canEdit())return;b.disabled=true;let n=0,conf=0;const reste={};
     for(const k of ks){const L=loc[k],R=suivi[k]||{},ch={},bloque=!!(R.opposition||R.statut==="refus");
       for(const [f,v] of Object.entries(L)){
@@ -1850,7 +2392,7 @@ function offerLocal(){
     const m=Object.keys(reste).length;
     try{if(m)localStorage.setItem("crm58-suivi",JSON.stringify(reste));else localStorage.removeItem("crm58-suivi")}catch(e){}
     toast(`${n} fiche${n>1?"s":""} ajoutée${n>1?"s":""} au suivi partagé`+(m?` · ${m} non envoyée${m>1?"s":""}, gardée${m>1?"s":""} sur cet appareil`:"")+(conf?` · ${conf} champ${conf>1?"s":""} déjà rempli${conf>1?"s":""} autrement, non remplacé${conf>1?"s":""}`:""));
-    if(m){b.disabled=false;b.textContent=`Envoyer le suivi de cet appareil (${m})`}else b.remove();
+    if(m){b.disabled=false;b.textContent=`Envoyer le suivi local (${m})`}else b.remove();
     renderAll()});
   $(".top-actions").prepend(b);
 }
@@ -1861,14 +2403,10 @@ function offerLocal(){
   $("#cstatut").insertAdjacentHTML("beforeend",STATUTS.map(s=>`<option value="${s.k}">${s.l}</option>`).join(""));
   const [cj,uj]=await Promise.all([fetch("companies.json").then(r=>r.json()).catch(()=>null),fetch("culture.json").then(r=>r.ok?r.json():null).catch(()=>null)]);
   if(!cj){$("#rows").innerHTML=`<div class="empty">Les fiches n'ont pas pu être chargées. Recharge la page.</div>`;return}
-  allCompanies=cj;allCompanies.forEach(c=>{c.id=c.ext&&c.siren?"s"+c.siren:"r"+c.rang;byId[c.rang]=c;const k=e164(c.telephone);if(k)(TELIX[k]=TELIX[k]||[]).push(c)});
-  try{if(localStorage.getItem("crm58-scope")==="all")scope="all"}catch(e){}
-  let startView="plan";
-  try{const v=localStorage.getItem("crm58-view");if(VIEWS[v])startView=v}catch(e){}
-  if(/^#e\d+$/.test(location.hash)){const r=+location.hash.slice(2);if(byId[r]){if(r>100)scope="all";sel=r;startView="fiches"}}
-  else if(location.hash==="#culture")startView="culture";
-  applyScope(true);
-  renderSim();
+  allCompanies=cj;companies=allCompanies;allCompanies.forEach(c=>{c.id=c.ext&&c.siren?"s"+c.siren:"r"+c.rang;byId[c.rang]=c;const k=e164(c.telephone);if(k)(TELIX[k]=TELIX[k]||[]).push(c)});
+  let startView="jour";   // vue Aujourd'hui à la première visite du jour, sinon la dernière vue ouverte
+  try{const v=localStorage.getItem("crm58-view"),d=localStorage.getItem("crm58-jour"),t=isoDay(new Date());if(d===t&&VIEWS[v])startView=v;localStorage.setItem("crm58-jour",t)}catch(e){}
+  renderMethod();renderSim();renderMemo();
   if(uj){culture=uj;(culture.prospects||[]).forEach(x=>cById[x.id]=x)}
   else $("#crows").innerHTML=`<div class="empty">Les prospects culture n'ont pas pu être chargés.</div>`;
   const sects=[...new Set(allCompanies.map(c=>c.secteur).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"fr"));
@@ -1880,8 +2418,10 @@ function offerLocal(){
     window.addEventListener("storage",e=>{if(e.key==="crm58-suivi"){suivi=loadLocal()||suivi;renderAll()}})};
   if(rt){suivi={};mode="loading";ready=false;setSync("","Chargement du suivi…")}else goLocal("Suivi enregistré sur cet appareil");
   renderCStatic();
-  setView(startView);
+  setView(startView,true);
+  if(!route(false))setHash("#"+HASH[startView],false);
   renderAll(true);
+  setInterval(()=>{if(document.visibilityState==="visible"){renderJour();renderAppels()}},60000);   // l'heure avance : rappels du jour et « en appel »
   if(!rt)return;
   const [d,u]=await Promise.all([window.claude.use("db").catch(()=>null),window.claude.use("user").catch(()=>null)]);
   userNs=u;
