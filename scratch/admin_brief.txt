@@ -13,6 +13,8 @@ Search with WebSearch (load it with ToolSearch; WebFetch and curl are blocked). 
 - LinkedIn, with allowed_domains ["linkedin.com"]: "<company or trading name> <town> financier", "... comptable", "... ressources humaines", "... assistante de direction", "... directeur de site". LinkedIn titles show "Name – Role – Company"; keep only people whose CURRENT position is at this company (not "ex-", not a past experience) and, for a group, at the Nièvre site.
 - The company's own website (équipe, qui sommes-nous, organigramme, contact, mentions légales).
 - Press (Le Journal du Centre, Kopines, local news), job offers naming the manager ("rattaché(e) à Mme X, DAF"), group annual reports, public procurement or association pages naming the person with her role.
+- B2B company directories that list key people with their function (Manageo, Verif, Societe.com "dirigeants et contacts", Kompass, Corporama): query "<company> <SIREN> manageo" or "<company> <town> responsable financier". Their data can be old: such a person is "probable", with the directory page as source.
+The search tool returns a short summary, not the page: put the role words in the query itself (for example "<company>" "responsable administratif et financier" or "<company>" DRH Nevers) so that the summary states the title next to the name. A LinkedIn result that shows a person at this company without any title is not enough. If only a first name is visible (masked surname) but the role is explicit, record "Prénom (nom non affiché)".
 Use mode "extended" when a standard search returns nothing useful.
 
 Rules:
