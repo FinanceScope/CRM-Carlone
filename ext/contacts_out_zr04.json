@@ -1,0 +1,127 @@
+[
+ {
+  "siren": "491387023",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : aucun numéro trouvé (angles dirigeant + transport à Cosne, ancien établissement de Saint-Martin-sur-Nohain, adresse rue des Fondeurs) ; la société d'exploitation est la SARL EL FAYZI (SIREN 811 119 403, transport routier de fret, rue des Fondeurs à Cosne, gérants Mustapha et Ibrahim El Fayzi, https://www.pappers.fr/entreprise/el-fayzi-811119403), mais aucun numéro publié pour elle non plus (Hoodspot : 0000000000, Kompass : 01 43 34 34 34 générique, écartés). L'établissement de Saint-Martin-sur-Nohain est fermé depuis 2019, la société elle-même reste active. Vérification : relecture sans recherche : cohérent (aucun numéro, la fermeture concerne seulement l'établissement de Saint-Martin-sur-Nohain, pas de cessation de la société).",
+  "recherches": 3
+ },
+ {
+  "siren": "502997745",
+  "standard": {
+   "tel": "03 86 57 44 75",
+   "source": "https://www.nievre-amenagement.com/contact/",
+   "fiabilite": "groupe"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : angle groupe : standard de Nièvre Aménagement (SAEM présidée par la même présidente, Jocelyne Guérin, et hébergeant la SEM Patrimoniale au 11 rue Bovet à Nevers), publié sur sa page contact (lundi-vendredi 9h-12h / 14h-16h). Le 09 67 01 36 91 de Cylex et le standard du Département (03 86 60 67 00) n'ont pas été retenus. Vérification : 1 recherche (numéro + rue Bovet) : ni le numéro ni l'adresse de Nièvre Aménagement n'ont été retrouvés dans les résultats, sans élément contraire ; numéro conservé en « groupe », lien avec la SEM Patrimoniale reposant sur les sources de la deuxième passe.",
+  "recherches": 2
+ },
+ {
+  "siren": "882956204",
+  "standard": null,
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : aucun numéro retenu (angles dirigeante, adresse 19 rue Saint-Martin, greffe) : l'adresse est celle du greffe du tribunal de commerce de Nevers (03 86 61 06 71, https://www.cngtc.fr/fr/greffe.php?g=60), dont Emmanuelle Paillé a été greffière en 2019-2020 (JORF) mais dont le greffier affiché est Philippe Kinna ; aucune source ne montre de lien actuel entre la SPFPL et l'exploitant du greffe, numéro non retenu. La SPFPL reste active (comptes 2025 déposés). Vérification : relecture sans recherche : cohérent, aucun numéro retenu.",
+  "recherches": 3
+ },
+ {
+  "siren": "383622479",
+  "standard": {
+   "tel": "03 86 57 73 11",
+   "source": "https://www.gomes-sas.com/contact/",
+   "fiabilite": "officielle"
+  },
+  "email_generique": null,
+  "site_web": "https://www.gomes-sas.com/",
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : angle enseigne : la société exerce sous le nom « Gomes SAS » (métallerie, chaudronnerie, charpente, fondée par Jean-Claude Gomes), dont le site donne ce numéro au 12 rue des Grands Prés à Nevers ; même numéro sur PagesJaunes (Gomès SA, fax 03 86 61 19 96) et sur la fiche Artisanat Bourgogne au SIREN 383622479. Vérification : relecture sans recherche (budget) : site propre à l'adresse du registre et SIREN cité par Artisanat Bourgogne, cohérent ; numéro conservé.",
+  "recherches": 3
+ },
+ {
+  "siren": "952338515",
+  "standard": {
+   "tel": "06 69 75 80 37",
+   "source": "https://www.pagesjaunes.fr/pros/63452925",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : angle adresse : numéro de portable publié comme contact de l'entreprise sur sa fiche PagesJaunes « Nivernais Bâtiment Construction » (maçonnerie, 11 rue des Chailloux à Nevers). Aucun site ni ligne fixe trouvés. Vérification : 1 recherche (nom + numéro) : numéro non retrouvé dans les résultats, sans élément contraire ; conservé en « annuaire » sur la foi de la fiche PagesJaunes de l'entreprise, déjà signalée en deuxième passe comme affichant un portable.",
+  "recherches": 2
+ },
+ {
+  "siren": "491233797",
+  "standard": {
+   "tel": "03 86 58 51 35",
+   "source": "https://www.sotec-salledebain-cuisine.fr/mentions-legales",
+   "fiabilite": "officielle"
+  },
+  "email_generique": {
+   "email": "sotec@orange.fr",
+   "source": "https://www.sotec-salledebain-cuisine.fr/mentions-legales"
+  },
+  "site_web": "https://www.sotec-salledebain-cuisine.fr/",
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : angle enseigne : les mentions légales du site sotec-salledebain-cuisine.fr nomment Tardivat et Chardonneret au 29 rue de la Badelle à Saint-Benin-d'Azy, ce qui rattache le site à la société, avec ce numéro et l'e-mail sotec@orange.fr (même numéro sur PagesJaunes, 29 rue Badelle). Accueil du lundi au vendredi, 14h30-18h30. Vérification : 1 recherche : numéro confirmé (PagesJaunes « Sotec », 29 rue Badelle à Saint-Benin-d'Azy, mentions légales du site, koikispass, verif.com au SIREN 491233797) ; e-mail publié sur le site de l'entreprise, conservé ; horaires divergents selon les sources (une indique 15h-19h et samedi matin) ; portable d'annuaire retiré de la note.",
+  "recherches": 3
+ },
+ {
+  "siren": "879790616",
+  "standard": {
+   "tel": "03 86 29 65 58",
+   "source": "https://www.guipy.fr/commerce-artisans",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : angle mairie et page sociale : la page commerces et artisans de la commune de Guipy donne ce numéro pour la menuiserie Brade au 24 rue Saint-Jacques-de-Compostelle, et la page Facebook « Menuiserie Artisanale BRADE » affiche le même. C'est aussi l'ancienne ligne de l'entreprise individuelle de René Brade sur PagesJaunes, reprise avec l'enseigne. Vérification : relecture sans recherche (budget) : page de la mairie de Guipy à l'adresse du siège et page Facebook à l'enseigne, cohérent ; numéro conservé.",
+  "recherches": 2
+ },
+ {
+  "siren": "438561789",
+  "standard": {
+   "tel": "03 86 59 81 82",
+   "source": "https://tpilocation.fr/",
+   "fiabilite": "groupe"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : angle groupe : standard de la filiale TPI Travaux Publics et Industriels (TPI Location, location de matériel, SIREN 350 408 183, présidée par AFIC selon la deuxième passe), au 2 rue Thomas Edison à Varennes-Vauzelles, même adresse que la holding. Aucun numéro trouvé pour CMG, dont les établissements actifs sont hors de la Nièvre ; le 01 43 34 34 34 de Kompass est écarté. Vérification : 1 recherche (numéro + rue Thomas Edison) : numéro non retrouvé dans les résultats, sans élément contraire ; conservé en « groupe » (lien AFIC-TPI établi en deuxième passe d'après le registre).",
+  "recherches": 3
+ },
+ {
+  "siren": "901643510",
+  "standard": {
+   "tel": "03 58 05 01 34",
+   "source": "https://www.unae.fr/frais-de-livraison-et-retours/",
+   "fiabilite": "groupe"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : angle groupe : numéro du Laboratoire UNAE, marque exploitée par la SAS Les Pattes Douces (SIREN 840 504 427, Brinon-sur-Beuvron), présidée par la holding (Pappers, societe.com). Le 01 84 80 33 48 de Doctrine (numéro d'annuaire probable) n'est pas retenu. Vérification : 1 recherche : numéro non retrouvé dans les résultats, sans élément contraire ; conservé en « groupe ». Le document du registre (https://production-sbg-01.annuaire-entreprises.infra.api.gouv.fr/documents/840504427) confirme que la marque UNAE est celle de la SAS Les Pattes Douces, mais la situe au 19 rue Commandant Victor Guerreau à Brinon-sur-Beuvron, d'où le retrait de l'adresse « 2 rue de Veaupoule » attribuée à cette filiale.",
+  "recherches": 3
+ },
+ {
+  "siren": "892315128",
+  "standard": {
+   "tel": "03 58 07 33 84",
+   "source": "https://www.pagesjaunes.fr/pros/60650901",
+   "fiabilite": "annuaire"
+  },
+  "email_generique": null,
+  "site_web": null,
+  "cessation": null,
+  "note": "Troisième passe (27/10/2026) : opposition à la prospection : seul le numéro fixe de l'entreprise est retenu, celui de sa fiche PagesJaunes « TÝR Sécurité » (rue des Bertranges, 58400, gardiennage 24h/24). Un autre fixe (03 45 52 12 76) et le site tyr-securite.com, vus seulement dans des annuaires, ne sont pas retenus. Vérification : relecture sans recherche (budget) : fixe d'entreprise à l'adresse du registre, compatible avec l'opposition à la prospection ; portable et e-mail d'annuaire retirés de la note.",
+  "recherches": 3
+ }
+]

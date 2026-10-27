@@ -1,0 +1,158 @@
+[
+ {
+  "siren": "301420626",
+  "contacts": [
+   {
+    "nom": "Christine POUENAT",
+    "fonction": "Directrice administrative et financière",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/christine-pouenat-333aa820/",
+    "linkedin": "https://www.linkedin.com/in/christine-pouenat-333aa820/",
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Valérie SAISON",
+    "fonction": "Responsable RH",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/val%C3%A9rie-saison-128b3a1b8/",
+    "linkedin": "https://www.linkedin.com/in/val%C3%A9rie-saison-128b3a1b8/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : sur LinkedIn, Christine Pouenat se présente comme directrice administrative et financière de Textilot à Varennes-Vauzelles (poste indiqué depuis février 2015, profil non daté, ce qui recoupe le poste de DAF signalé sans nom par zeliq) et Valérie Saison comme responsable RH de Textilot (extrait de profil ; ne pas confondre avec une homonyme d'INSIDESecure). Le nom de Mme Pouenat ne ressort nulle part ailleurs ; les offres d'emploi renvoient à l'adresse générique ressources.humaines@textilot.fr, non rattachée à une personne. Vérification : une recherche LinkedIn (Textilot, Pouenat, Saison) retrouve les deux profils, dont l'en-tête actuel est bien TEXTILOT à Varennes-Vauzelles (Christine Pouenat y relaie des offres de directeur commercial et d'acheteur, Valérie Saison des recrutements et une titularisation de CDD) ; les intitulés de poste n'apparaissent pas dans ces extraits, d'où le maintien en « probable ».",
+  "recherches": 3
+ },
+ {
+  "siren": "327098364",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : trois recherches (LinkedIn RH et comptabilité, offres du centre de Coulanges-lès-Nevers, raison sociale SOC NEVERS DIS) ne nomment aucun responsable financier, RH ou administratif : seules ressortent une offre d'assistant(e) comptable du magasin (2026, sans nom de responsable) et un profil LinkedIn de Jean-François Mousset chez E.Leclerc, cohérent avec le registre. Décision chez les adhérents Mousset : demander au standard le nom de la personne responsable de la comptabilité et de l'assistante de direction. Vérification : relecture sans recherche, aucune personne retenue, note cohérente.",
+  "recherches": 3
+ },
+ {
+  "siren": "350293221",
+  "contacts": [
+   {
+    "nom": "Pascale BORDET",
+    "fonction": "DAF",
+    "role": "finance",
+    "fiabilite": "confirme",
+    "source": "https://www.pasori.fr/contact/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": "p.bordet@pasori.fr"
+   },
+   {
+    "nom": "Frédérique BORDET",
+    "fonction": "PDG et DRH",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.pasori.fr/contacts.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": "f.bordet@pasori.fr"
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : le site officiel pasori.fr nomme Pascale Bordet DAF (page Contact, adresse p.bordet@pasori.fr publiée) et, sur une page Contacts plus ancienne du même site, Frédérique Bordet PDG et DRH (la page Recrutement la présente comme directrice) ; cette ancienne page cite aussi un directeur, Carlo Ferrari, sans fonction administrative précisée, à vérifier au standard. LinkedIn ne fait ressortir aucun profil RH, comptable ou d'assistante de direction rattaché à Pasori. Vérification : la page Contact officielle (pasori.fr/contact) indique bien « Me Pascale Bordet DAF : p.bordet@pasori.fr », confirmée, et range Frédérique Bordet sous « Direction » avec l'adresse f.bordet@pasori.fr publiée telle quelle, ajoutée ; son titre de DRH ne vient que de l'ancienne page Contacts, d'où le maintien en « probable » (2 recherches, la première sans résultat).",
+  "recherches": 2
+ },
+ {
+  "siren": "334898277",
+  "contacts": [
+   {
+    "nom": "Séverine GRANGEOT",
+    "fonction": "Directeur Financier",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/334898277.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : seul l'annuaire Manageo (dirigeants fonctionnels, données non datées) nomme Séverine Grangeot directeur financier de Clamecy Distribution ; Verif donne le même titre à cinq personnes (dont Véronique Claisse, Emmanuel Hery, Christian Joly et Joël Mouton), liste peu crédible non retenue, et LinkedIn ne nomme aucun comptable ni responsable RH du magasin. À faire confirmer au standard ; à défaut, la présidente Letitia Bellanger décide. Vérification : une recherche sur le nom de Séverine Grangeot avec Leclerc et Clamecy ne l'a pas retrouvée ; maintenue en « probable » sur la seule foi de Manageo, sans preuve de départ, à confirmer au standard.",
+  "recherches": 2
+ },
+ {
+  "siren": "507757672",
+  "contacts": [
+   {
+    "nom": "Delphine MARCELOT",
+    "fonction": "Responsable financière",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.verif.com/en/company/DECIZE-DISTRIBUTION-68d9c0551299230338d2cc24/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : l'annuaire Verif (données non datées) cite Delphine Marcelot comme responsable financière de Decize Distribution, seule personne nommée ; LinkedIn et les offres d'emploi (secrétaire comptable, directeur de magasin) ne donnent aucun autre nom. À faire confirmer au standard, la décision restant au couple Martin (président et directrice générale). Vérification : une recherche sur le nom de Delphine Marcelot avec Leclerc et Decize ne l'a pas retrouvée ; maintenue en « probable » sur la seule foi de Verif, sans preuve de départ, à confirmer au standard.",
+  "recherches": 2
+ },
+ {
+  "siren": "530572775",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : trois recherches (LinkedIn finance et RH, nom de Charles-Édouard Vigneron, offres comptables ou RH) ne nomment aucun DAF, RH ni assistante de direction : Indeed affiche pour Nexson Group une offre de « Responsable Administratif et Comptable » (non datée, sans nom) et Charles Vigneron, directeur de la publication du site, a un profil LinkedIn chez Nexson-Group sans fonction affichée. La décision se prend probablement au siège de Garchizy, à la holding Nexson Corporation : demander au standard le nom du responsable administratif et comptable. Vérification : relecture sans recherche, aucune personne retenue, note cohérente.",
+  "recherches": 3
+ },
+ {
+  "siren": "631880408",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : ni LinkedIn ni le site bongard-bazot.fr (contact, mentions légales, historique) ne nomment de comptable, de responsable administratif ou RH : le site ne donne que le standard du siège et celui de la scierie de La Machine, et décrit une entreprise familiale de plus de 120 salariés sur deux sites, dirigée par les 3e et 4e générations Bongard et Bazot. Décision au siège de Saint-Péreuse : demander au standard la personne chargée de la comptabilité. Vérification : relecture sans recherche, aucune personne retenue, note cohérente.",
+  "recherches": 2
+ },
+ {
+  "siren": "523229268",
+  "contacts": [
+   {
+    "nom": "Stéphane GUILLAUMAIN",
+    "fonction": "Directeur (Ets Simonneau), présenté par le groupe comme directeur de la concession Renault Nevers",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/st%C3%A9phane-guillaumain-9837aa213/",
+    "linkedin": "https://www.linkedin.com/in/st%C3%A9phane-guillaumain-9837aa213/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Stéphane Guillaumain se présente sur LinkedIn comme directeur chez Ets Simonneau (Cosne et Nevers, depuis 2001), et une publication LinkedIn du groupe Simonneau, vue en extrait seulement, le présente comme directeur de la concession Renault de Nevers (remise d'une Clio pour le bal des pompiers de Nevers). Aucun DAF, comptable ni RH nommé : la comptabilité semble centralisée à Saint-Doulchard (offre de comptable du groupe), où Anita Duarte figure sur LinkedIn chez Philippe Simonneau Holding sans fonction affichée. Vérification : relecture sans recherche (budget épuisé), fiche cohérente : Stéphane Guillaumain reste « probable », sans e-mail ni ligne directe.",
+  "recherches": 3
+ },
+ {
+  "siren": "422593491",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : deux recherches LinkedIn ne nomment aucun DAF, DRH, chef comptable ni directeur de la concession Toyota : elles montrent seulement que le siège du groupe Vincent à Varennes-Vauzelles recrute un chef comptable et des comptables (offres sans nom) et qu'un poste de gestionnaire de paie existe au garage Citroën Vincent voisin (autre société). La finance du groupe est donc à Varennes-Vauzelles, auprès de Rodolphe Vincent : demander au standard le responsable administratif et financier du groupe. Vérification : relecture sans recherche, aucune personne retenue, note cohérente.",
+  "recherches": 2
+ },
+ {
+  "siren": "483276820",
+  "contacts": [
+   {
+    "nom": "Juliette CATINAUD",
+    "fonction": "Directrice des ressources humaines (DRH)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://fr.linkedin.com/company/ligierautomotive",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Sandra GARCIA",
+    "fonction": "Responsable Ressources Humaines en environnement industriel",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/sandra-garcia-96634bb4/",
+    "linkedin": "https://www.linkedin.com/in/sandra-garcia-96634bb4/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : des extraits LinkedIn (publication relayant un article local de 2025, non ouverte) nomment Juliette Catinaud DRH de Ligier Automotive à Magny-Cours, aux côtés de Nicolas Monteil, directeur technique, et Sandra Garcia, dont le poste actuel est chez Ligier Automotive, se présente comme responsable RH en milieu industriel. Le DAF recruté en 2025 reste sans nom (aucun profil trouvé) : le demander au standard ou à la DRH. Vérification : une recherche LinkedIn retrouve Sandra Garcia avec Ligier Automotive comme employeur actuel, à Magny-Cours, titre « Responsable Ressources Humaines en environnement industriel » (elle a aussi reçu pour l'entreprise la charte RSE de l'UIMM), et reprend l'article nommant Juliette Catinaud DRH ; une homonyme possible liée à l'ADAPEI de la Nièvre apparaît dans les profils similaires, sans preuve d'un départ : les deux restent « probable ».",
+  "recherches": 3
+ }
+]
