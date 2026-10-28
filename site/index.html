@@ -1207,6 +1207,7 @@ async function renderHist(x,p){
   ul.innerHTML=h.map(e=>`<li><time>${esc(fmtStamp(e.t))}</time>${e.by&&ps[e.by]&&ps[e.by].name?` <span class="by">· ${esc(ps[e.by].name)}</span>`:""}${e.src==="hermes"?` <span class="by">· Hermes360${e.agent?" ("+esc(e.agent)+")":""}</span>`:""}${e.res&&RLABEL[e.res]?` <span class="pill ${rcls(e.res)}">${esc(RLABEL[e.res])}</span>`:""}<div>${esc(e.txt)}</div></li>`).join("");
 }
 const deb={};
+const DECIS=new Set(["statut","date_relance","rappel_heure","rdv_date","rdv_heure"]);   // décision prise à la main : un appel importé plus ancien ne la défait pas
 function bindForm(x,p,refresh,redetail){
   const map={statut:"statut",resp:"responsable",cnom:"contact_nom",ctel:"contact_coord",next:"prochaine_action",date:"date_relance",heure:"rappel_heure",rdvd:"rdv_date",rdvh:"rdv_heure",rdvn:"rdv_note",notes:"notes"};
   for(const [suffix,field] of Object.entries(map)){
@@ -1214,7 +1215,7 @@ function bindForm(x,p,refresh,redetail){
     const choix=el.tagName==="SELECT"||el.type==="date"||el.type==="time";
     const commit=()=>{if(!choix&&!el.dataset.dirty)return;delete el.dataset.dirty;   // un champ non modifié n'écrase jamais la saisie d'un associé
       const v=el.tagName==="TEXTAREA"?el.value.replace(/\s+$/,""):el.value.trim();if((S(x)[field]||"")===v)return;
-      const ch={[field]:v};if(field==="statut"&&v==="refus"&&!S(x).refus)ch.refus={date:new Date().toISOString(),origine:"statut « Pas intéressé » choisi dans la fiche"};
+      const ch={[field]:v};if(DECIS.has(field))ch.decision=new Date().toISOString();if(field==="statut"&&v==="refus"&&!S(x).refus)ch.refus={date:new Date().toISOString(),origine:"statut « Pas intéressé » choisi dans la fiche"};
       patch(x,ch).then(ok=>{const sv=document.getElementById(p+"saved");if(ok&&sv)sv.textContent="Enregistré"});
       refresh();};
     el._commit=commit;
@@ -1922,6 +1923,7 @@ function personRow(p){
 }
 const RET_L={jour:"← Retour à Aujourd'hui",memo:"← Retour au mémo"};
 const ficheLink=r=>{const ref=document.referrer||"";const base=/^https:\/\/claude\.ai\/(code\/)?artifact\//.test(ref)?ref.split("#")[0]:location.href.split("#")[0];return base+"#e"+r};
+const logDraft={};
 function renderDetail(force){
   const box=$("#detail");
   const c=byId[sel],inA=view==="appels";
@@ -1936,7 +1938,9 @@ function renderDetail(force){
   const keepF=keepForms(box),same=box.dataset.r===String(c.rang);
   const dKey=d=>{const l=[...box.querySelectorAll("details")].filter(x=>x.className===d.className);return d.className+"|"+l.indexOf(d)};
   const openD=same?new Set([...box.querySelectorAll("details[open]")].map(dKey)):null;
-  const fl=same&&$("#f_log")?[$("#f_log").value,($("#f_res")||{}).value||""]:null;
+  const fl0=$("#f_log")?[$("#f_log").value,($("#f_res")||{}).value||""]:null;
+  if(!same&&fl0&&box.dataset.r&&(fl0[0].trim()||fl0[1]))logDraft[box.dataset.r]=fl0;   // note en cours gardée pour la fiche quittée
+  const fl=same?fl0:(logDraft[c.rang]||null);if(!same)delete logDraft[c.rang];
   delete box.dataset.stale;box.dataset.r=c.rang;box._sig=sig;box._crit=crit;
   const st=statutOf(c),s=S(c),op=s.opposition;
   const ro=!canEdit();
@@ -2389,7 +2393,7 @@ function route(pop){
   if(m&&byId[+m[1]]){const st=history.state||{};openFiche(+m[1],st.from||null,true);return true}
   m=h.match(/^c(.+)$/);
   if(m&&cById[m[1]]){csel=m[1];setView("culture",true);renderCList();renderCDetail(true);return true}
-  if(/^(t\+?[\d .()-]{9,22}|s\d{9}|hermes)$/.test(h))return routeHermes(h.replace(/^t\+?([\d .()-]+)$/,(a,n)=>"t"+n.replace(/\D/g,"")));
+  if(/^(t\+?[\d .()-]{9,22}|s\d{9}|hermes)$/.test(h))return routeHermes(h.replace(/^t\+?([\d .()-]+)$/,(a,n)=>"t"+n.replace(/\D/g,"")),pop);
   const v=HASHV[h];if(!v)return false;
   const prev=sel,prevC=csel;
   if(pop){sel=null;aOpen=false;retView=null;if(v==="culture")csel=null}
@@ -2597,113 +2601,147 @@ function offerLocal(){
 const HSET_DEF={crm:"https://claude.ai/artifact/CrKrSAuH9mUAaey2wN8uSV",tel:"tel:{e164}",sep:";",qualif:[],agents:[],cols:[]};
 let hset=Object.assign({},HSET_DEF),hsetLoaded=false;
 const HTEL_OK=/^(tel:|callto:|sip:|https:\/\/)/i;
-async function loadHset(){
-  let v=null;
-  if(mode==="db"&&db){try{const d=await db.collection("reglages").doc("hermes").get();if(d.exists)v=d.data()}catch(e){}}
-  else{try{v=JSON.parse(localStorage.getItem("crm58-hermes")||"null")}catch(e){}}
+function applyHset(v){
   hset=Object.assign({},HSET_DEF,v&&typeof v==="object"?v:{});
   if(!HTEL_OK.test(hset.tel||""))hset.tel=HSET_DEF.tel;
   for(const k of ["qualif","agents","cols"])if(!Array.isArray(hset[k]))hset[k]=[];
   hsetLoaded=true;
 }
-async function saveHset(ch){
-  hset=Object.assign({},hset,ch);
-  if(mode==="db"&&db){if(!canWrite){toast("Lecture seule : réglages non enregistrés");return false}
-    try{await db.collection("reglages").doc("hermes").set(hset);return true}catch(e){toast("Réglages non enregistrés ("+((e&&e.code)||"erreur")+")");return false}}
-  try{localStorage.setItem("crm58-hermes",JSON.stringify(hset));return true}catch(e){toast("Réglages gardés seulement jusqu'à la fermeture de la page");return false}
+async function loadHset(){
+  let v=null;
+  if(mode==="db"&&db){try{const d=await db.collection("reglages").doc("hermes").get();if(d.exists)v=d.data()}catch(e){}}
+  else{try{v=JSON.parse(localStorage.getItem("crm58-hermes")||"null")}catch(e){}}
+  applyHset(v);
 }
 const pairGet=(arr,k)=>{const p=(arr||[]).find(x=>Array.isArray(x)&&x[0]===k);return p?p[1]:undefined};
 const pairSet=(arr,k,v)=>[...(arr||[]).filter(x=>Array.isArray(x)&&x[0]!==k),[k,v]];
+/* Enregistre seulement les champs changés, sur le document relu juste avant : deux associés ne s'écrasent pas.
+   Un tableau de paires (qualif, agents, cols) s'ajoute aux paires déjà enregistrées. */
+async function saveHset(ch){
+  const ref=mode==="db"&&db?db.collection("reglages").doc("hermes"):null;
+  if(ref&&!canWrite){toast("Lecture seule : réglages non enregistrés");return false}
+  let cur=hset,ex=false;
+  try{if(ref){const d=await ref.get();ex=d.exists;cur=ex?d.data():{}}else cur=JSON.parse(localStorage.getItem("crm58-hermes")||"null")||hset}
+  catch(e){if(ref){toast("Réglages non enregistrés ("+((e&&e.code)||"erreur")+")");return false}}
+  const up={};
+  for(const [k,v] of Object.entries(ch))up[k]=Array.isArray(v)?v.reduce((a,p)=>pairSet(a,p[0],p[1]),Array.isArray(cur[k])?cur[k]:[]):v;
+  const prev=hset;applyHset(Object.assign({},cur,up));
+  if(ref){try{await (ex?ref.update(up):ref.set(Object.assign({},HSET_DEF,up)));return true}catch(e){hset=prev;toast("Réglages non enregistrés ("+((e&&e.code)||"erreur")+")");return false}}
+  try{localStorage.setItem("crm58-hermes",JSON.stringify(hset));return true}catch(e){toast("Réglages gardés seulement jusqu'à la fermeture de la page");return false}
+}
 /* Lien d'appel : « tel: » par défaut, ou le modèle donné par Vocalcom ({e164} +33…, {national} 0…, {chiffres} 33…) */
 function telHref(t){
   const u=e164(t);if(!u)return "";
-  const tpl=HTEL_OK.test(hset.tel||"")?hset.tel:HSET_DEF.tel,nat="0"+u.slice(3);
-  const enc=/^https:/i.test(tpl)?encodeURIComponent:v=>v;
+  const tpl=HTEL_OK.test(hset.tel||"")?hset.tel:HSET_DEF.tel,nat="0"+u.slice(3),enc=/^https:/i.test(tpl)?encodeURIComponent:v=>v;
   return tpl.replace(/\{e164\}/g,enc(u)).replace(/\{national\}/g,nat).replace(/\{chiffres\}/g,u.slice(1));
 }
-/* Numéro → fiches (standard, numéro noté par l'équipe, ligne directe, autre numéro publié, interlocuteurs) */
+/* Tous les numéros d'une fiche (standard, noté par l'équipe, ligne directe, autre numéro publié, interlocuteurs) */
+const telsOf=c=>{const s=S(c);return [c.telephone,telIn(s.tel_trouve),telIn(s.contact_coord),(c.telephone_alternatif||{}).tel,(c.contact_dirigeant||{}).tel_direct,(c.contact_finance||{}).tel_direct,...(c.contacts_admin||[]).map(p=>p&&p.tel_direct),...(c.autres_contacts||[]).map(p=>p&&(p.tel||p.tel_direct))].filter((n,i,a)=>n&&e164(n)&&a.findIndex(x=>e164(x)===e164(n))===i)};
 function fichesParNumero(num){
   const k=e164(num);if(!k)return [];
   const hit=[];
   for(const c of allCompanies){
-    const s=S(c),std=[c.telephone,s.tel_trouve],autres=[telIn(s.contact_coord),(c.telephone_alternatif||{}).tel,(c.contact_dirigeant||{}).tel_direct,(c.contact_finance||{}).tel_direct,...(c.contacts_admin||[]).map(p=>p&&p.tel_direct)];
-    if(std.some(n=>n&&e164(n)===k))hit.push([c,0]);else if(autres.some(n=>n&&e164(n)===k))hit.push([c,1]);
+    const s=S(c);
+    if([c.telephone,s.tel_trouve].some(n=>n&&e164(n)===k))hit.push([c,0]);else if(telsOf(c).some(n=>e164(n)===k))hit.push([c,1]);
   }
   return hit.sort((a,b)=>a[1]-b[1]||(vivant(b[0])?1:0)-(vivant(a[0])?1:0)||a[0].rang-b[0].rang).map(x=>x[0]);
 }
 const cleCRM=c=>"e"+c.rang;
 const urlFiche=c=>String(hset.crm||HSET_DEF.crm).replace(/#.*$/,"")+"#"+cleCRM(c);
-function ficheParCle(v){
+function ficheParCle(v){   // « e12 » ou SIREN à 9 chiffres ; jamais un nombre nu (identifiant interne de Hermes360)
   const t=String(v||"").trim().toLowerCase().replace(/^#/,"");if(!t)return null;
   let m=t.match(/^e(\d{1,4})$/);if(m)return byId[+m[1]]||null;
   m=t.replace(/\s/g,"").match(/^\d{9}$/);if(m)return allCompanies.find(c=>String(c.siren||"").replace(/\s/g,"")===m[0])||null;
-  m=t.match(/^\d{1,3}$/);if(m)return byId[+m[0]]||null;   // rang seul
   return null;
 }
-/* Levée de fiche : #t0386123456 ou #t33386123456 (numéro), #s123456789 (SIREN) */
-function routeHermes(h){
+/* Levée de fiche : #t0386123456 (numéro), #s123456789 (SIREN), #hermes (panneau). L'entrée d'historique est remplacée sans
+   marque « crm » : « Fermer la fiche » et l'onglet ramènent à la liste au lieu de quitter la page. */
+let hLeve=null;   // fiche levée avant le chargement du suivi partagé : « en appel » posé dès qu'il arrive
+const hEnAppel=c=>{if(mode==="db"&&ready)markEnAppel(c);else hLeve=c.rang};
+function hOuvre(c,from){
+  const fl=$("#f_log");if(fl&&sel!=null&&sel!==c.rang&&fl.value.trim())toast("Note non enregistrée gardée sur "+nameOf(byId[sel]));
+  openFiche(c.rang,from,true);lastHash="#e"+c.rang;try{history.replaceState({from},"",lastHash)}catch(e){}
+}
+function routeHermes(h,pop){
   let m=h.match(/^t(\d{9,13})$/);
   if(m){
     const l=fichesParNumero(m[1]);
-    if(l.length){openFiche(l[0].rang,"appels",true);setHash("#e"+l[0].rang,false,{from:"appels"});
-      if(l.length>1)toast(`Numéro présent dans ${l.length} fiches : ${l.slice(0,3).map(nameOf).join(", ")}`);return true}
-    setView("appels",true);$("#aq").value=m[1];renderAppels(true);setHash("#appels",false);toast("Aucune fiche pour ce numéro : "+m[1]);return true;
+    if(l.length){hOuvre(l[0],"appels");
+      if(l.length>1)toast(`Numéro présent dans ${l.length} fiches : ${l.slice(0,3).map(nameOf).join(", ")}. Vérifier la société en décrochant.`);else hEnAppel(l[0]);return true}
+    if(view==="appels"&&aOpen){sel=null;aOpen=false;retView=null}
+    setView("appels",true);renderDetail(true);markRows();$("#aq").value=m[1];renderAppels(true);setHash("#appels",false);toast("Aucune fiche pour ce numéro : "+m[1]);return true;
   }
   m=h.match(/^s(\d{9})$/);
-  if(m){const c=ficheParCle(m[1]);if(c){openFiche(c.rang,"fiches",true);setHash("#e"+c.rang,false,{from:"fiches"});return true}
+  if(m){const c=ficheParCle(m[1]);if(c){hOuvre(c,"fiches");hEnAppel(c);return true}
     toast("Aucune fiche pour le SIREN "+m[1]);return false}
-  if(h==="hermes"){setView("appels",true);openHermes(true);return true}
+  if(h==="hermes"){
+    if(pop){const prev=sel;sel=null;aOpen=false;retView=null;setView("appels",true);renderDetail(true);markRows();if(prev!=null)refocusRow(prev,true)}else setView("appels",true);
+    openHermes(true);return true}
   return false;
 }
 /* ---- Fichiers CSV ---- */
 const csvSep=(cols,rows,sep)=>"﻿"+cols.join(sep)+"\n"+rows.map(r=>r.map(v=>{const q=csvq(v);return sep!==";"&&!/^"/.test(q)&&q.includes(sep)?'"'+q.replace(/"/g,'""')+'"':q}).join(sep)).join("\n");
 const natTel=t=>{const u=e164(t);return u?"0"+u.slice(3).replace(/(\d)(?=(\d{2})+$)/g,"$1 "):""};
+const motifExcl=c=>{const s=S(c),st=statutOf(c);return s.opposition?"refus de prospection":st==="refus"?"pas intéressé":c.exclue?"hors campagne":c.cessation?"activité peut-être cessée":/^active$/i.test(c.statut||"Active")?"":"procédure collective"};
+function exclIndex(){const m=new Map();for(const c of allCompanies){const mo=motifExcl(c);if(mo)for(const n of telsOf(c))if(!m.has(e164(n)))m.set(e164(n),[c,mo])}return m}
+const stdOk=c=>fauxStd(c)?"":stdOf(c);   // standard signalé faux : on ne le fait pas composer
+let hBloq=[];   // entreprises retenues hors campagne parce que leur numéro est sur la liste d'exclusion (standard partagé)
 function campagneListe(){
-  const g=callGroups(),pick=k=>(g.find(x=>x[0]===k)||[0,0,[]])[2];
-  return ["due","todo","retry","later"].flatMap(pick).filter((c,i,a)=>a.indexOf(c)===i&&vivant(c)&&isActive(c)&&!c.cessation&&!S(c).opposition&&(stdOf(c)||telIn(S(c).contact_coord)));
+  const g=callGroups({resp:$("#aResp").value,vg:$("#aVague").value,q:""}),pick=k=>(g.find(x=>x[0]===k)||[0,0,[]])[2],X=exclIndex();hBloq=[];
+  return ["due","todo","retry","later"].flatMap(pick).filter((c,i,a)=>{
+    if(!(a.indexOf(c)===i&&vivant(c)&&isActive(c)&&!c.cessation&&!S(c).opposition))return false;
+    const n=stdOk(c)||telIn(S(c).contact_coord);if(!n)return false;
+    const x=X.get(e164(n));if(x&&x[0]!==c){hBloq.push([c,x[0],x[1]]);return false}
+    return true;
+  });
 }
+const coupeMots=(t,n)=>{t=String(t||"").trim();const k=" … (suite dans la fiche)";if(t.length<=n)return t;return t.slice(0,n-k.length+1).replace(/\s+\S*$/,"").replace(/[\s,;:(–-]+$/,"").slice(0,n-k.length)+k};
 function exportCampagne(){
   const list=campagneListe();if(!list.length){toast("Aucune entreprise à appeler avec ces filtres");return}
   const cols=["cle_crm","siren","raison_sociale","entreprise","telephone","telephone_national","telephone_chiffres","ligne_directe","interlocuteur_a_demander","fonction","ville","code_postal","priorite","vague","plafond_annuel","statut","dernier_resultat","nb_appels","date_rappel","heure_rappel","appelant","pas_de_mailing","pourquoi_maintenant","consigne","url_fiche"];
-  const rows=list.map(c=>{const s=S(c),w=askList(c).find(p=>!p.team)||{},cl=callsOf(c),tel=stdOf(c),dt=telIn(s.contact_coord);
-    return [cleCRM(c),c.siren,c.nom,nameOf(c),RAW(e164(tel||dt)),natTel(tel||dt),RAW(e164(tel||dt).slice(1)),dt&&tel?RAW(e164(dt)):"",s.contact_nom||w.nom||"",w.fonction?shortFn(w.fonction):"",c.ville,c.code_postal,c.priorite,c.vague,(c.art||{}).plafond,SLABEL[statutOf(c)],RLABEL[cl.last]||"",cl.n,s.date_relance,s.rappel_heure,s.responsable,c.opposition_prospection?"oui":"non",c.declencheur||"",String((c.fiche||{}).qui_appeler||"").slice(0,300),urlFiche(c)]});
+  const rows=list.map(c=>{const s=S(c),w=s.contact_nom?{}:askList(c).find(p=>!p.team)||{},cl=callsOf(c),tel=stdOk(c),dt=telIn(s.contact_coord),n=tel||dt;
+    return [cleCRM(c),c.siren,c.nom,nameOf(c),RAW(e164(n)),natTel(n),RAW(e164(n).slice(1)),dt&&tel&&e164(dt)!==e164(tel)?RAW(e164(dt)):"",s.contact_nom||w.nom||"",w.fonction?shortFn(w.fonction):"",c.ville,c.code_postal,c.priorite,c.vague,(c.art||{}).plafond,SLABEL[statutOf(c)],RLABEL[cl.last]||"",cl.n,s.date_relance,s.rappel_heure,s.responsable,c.opposition_prospection?"oui":"non",c.declencheur||"",coupeMots((c.fiche||{}).qui_appeler,300),urlFiche(c)]});
   saveFile(`hermes360-campagne-${isoDay(new Date())}.csv`,csvSep(cols,rows,hset.sep===","?",":";"));
+  if(hBloq.length)toast(`${hBloq.length} entreprise${hBloq.length>1?"s":""} laissée${hBloq.length>1?"s":""} hors campagne : standard partagé avec une société à ne plus appeler (${hBloq.slice(0,2).map(b=>nameOf(b[1])+", "+b[2]).join(" ; ")})`);
 }
 function exportExclusions(){
   const rows=[];
   for(const c of allCompanies){
-    const s=S(c),st=statutOf(c),motif=s.opposition?"refus de prospection":st==="refus"?"pas intéressé":c.exclue?"hors campagne":c.cessation?"activité peut-être cessée":/^active$/i.test(c.statut||"Active")?"":"procédure collective";
-    if(!motif)continue;
-    const d=s.opposition?isoDay(new Date(s.opposition.date)):s.refus&&s.refus.date?isoDay(new Date(s.refus.date)):"";
-    const nums=[stdOf(c),telIn(s.contact_coord)].filter((n,i,a)=>n&&e164(n)&&a.findIndex(x=>e164(x)===e164(n))===i);
-    for(const n of nums)rows.push([RAW(e164(n)),natTel(n),cleCRM(c),nameOf(c),motif,d]);
+    const motif=motifExcl(c);if(!motif)continue;
+    const s=S(c),d=s.opposition?isoDay(new Date(s.opposition.date)):s.refus&&s.refus.date?isoDay(new Date(s.refus.date)):"";
+    for(const n of telsOf(c))rows.push([RAW(e164(n)),natTel(n),cleCRM(c),nameOf(c),motif,d]);
   }
   if(!rows.length){toast("Aucun numéro à exclure pour l'instant");return}
   saveFile(`hermes360-exclusions-${isoDay(new Date())}.csv`,csvSep(["telephone","telephone_national","cle_crm","entreprise","motif","date"],rows,hset.sep===","?",":";"));
 }
-/* Lecture d'un CSV (séparateur deviné, guillemets, BOM) */
+/* Lecture d'un CSV : ligne « sep=; » d'Excel, séparateur deviné, guillemets (un guillemet jamais refermé est lu comme un caractère), BOM */
 function parseCSV(txt){
   txt=String(txt||"").replace(/^﻿/,"");
-  const first=(txt.match(/^[^\r\n]*/)||[""])[0];
-  const sep=[";","\t",",","|"].map(s=>[s,first.split(s).length]).sort((a,b)=>b[1]-a[1])[0][0];
-  const rows=[];let row=[],f="",q=false;
-  for(let i=0;i<txt.length;i++){
-    const ch=txt[i];
-    if(q){if(ch==='"'){if(txt[i+1]==='"'){f+='"';i++}else q=false}else f+=ch;continue}
-    if(ch==='"'&&f==="")q=true;
-    else if(ch===sep){row.push(f);f=""}
-    else if(ch==="\n"||ch==="\r"){if(ch==="\r"&&txt[i+1]==="\n")i++;row.push(f);f="";if(row.some(v=>v.trim()!==""))rows.push(row);row=[]}
-    else f+=ch;
+  let sep="";const sm=txt.match(/^sep=(.)[ \t]*(?:\r\n|\r|\n|$)/i);if(sm){sep=sm[1];txt=txt.slice(sm[0].length)}
+  if(!sep){const first=(txt.match(/^[^\r\n]*/)||[""])[0];sep=[";","\t",",","|"].map(s=>[s,first.split(s).length]).sort((a,b)=>b[1]-a[1])[0][0]}
+  const lit=new Set();
+  for(let tour=0;tour<50;tour++){
+    const rows=[];let row=[],f="",q=false,q0=-1;
+    for(let i=0;i<txt.length;i++){
+      const ch=txt[i];
+      if(q){if(ch==='"'){if(txt[i+1]==='"'){f+='"';i++}else q=false}else f+=ch;continue}
+      if(ch==='"'&&f===""&&!lit.has(i)){q=true;q0=i}
+      else if(ch===sep){row.push(f);f=""}
+      else if(ch==="\n"||ch==="\r"){if(ch==="\r"&&txt[i+1]==="\n")i++;row.push(f);f="";if(row.some(v=>v.trim()!==""))rows.push(row);row=[]}
+      else f+=ch;
+    }
+    if(q){lit.add(q0);continue}
+    row.push(f);if(row.some(v=>v.trim()!==""))rows.push(row);
+    return rows.map(r=>r.map(v=>v.trim()));
   }
-  row.push(f);if(row.some(v=>v.trim()!==""))rows.push(row);
-  return rows.map(r=>r.map(v=>v.trim()));
+  return [];
 }
 const hn=s=>norm(String(s||"")).replace(/[^a-z0-9]/g,"");
 const HCHAMPS=[
-  ["date","Date (ou date et heure)",["dateheure","datetime","horodatage","datedappel","dateappel","datedebut","datedelappel","calldate","starttime","debut","date"]],
-  ["heure","Heure (si à part)",["heure","heuredappel","heuredebut","time","hour"]],
+  ["date","Date (ou date et heure)",["dateheure","datetime","horodatage","datedappel","dateappel","datedebut","datedelappel","calldate","date","starttime","debut"]],
+  ["heure","Heure (si à part)",["heure","heuredappel","heuredebut","horaire","debut","starttime","time","hour"]],
   ["numero","Numéro appelé",["numeroappele","numerocompose","numero","telephone","tel","phonenumber","phone","callednumber","called","destination","dnis","ani","contactnumber"]],
-  ["cle","Clé CRM (cle_crm ou SIREN)",["clecrm","idcrm","crmid","cle","customerid","idclient","externalid","reference","ref","idcontact","siren"]],
+  ["cle","Clé CRM (cle_crm ou SIREN)",["clecrm","idcrm","crmid","cle","siren"]],
   ["qualif","Qualification / résultat",["qualification","qualif","statutdappel","statut","status","resultat","result","disposition","issue","codefin","wrapup","callstatus","motif"]],
   ["agent","Agent / appelant",["agent","nomagent","operateur","conseiller","teleconseiller","utilisateur","user","appelant"]],
   ["duree","Durée",["dureeappel","duree","duration","talktime","dureecommunication","temps"]],
@@ -2715,30 +2753,44 @@ function guessCols(head){
   for(const [k,,syn] of HCHAMPS){
     const saved=pairGet(hset.cols,k);
     let i=saved!=null?head.indexOf(saved):-1;
+    if(i>=0&&used.has(i))i=-1;
     if(i<0)for(const s of syn){i=H.findIndex((h,j)=>!used.has(j)&&h===s);if(i>=0)break}
-    if(i<0)for(const s of syn){if(s.length<4)continue;i=H.findIndex((h,j)=>!used.has(j)&&h.includes(s));if(i>=0)break}
+    if(i<0)for(const s of syn){if(s.length<4)continue;i=H.findIndex((h,j)=>!used.has(j)&&h.includes(s)&&!(k!=="rappel"&&/rappel|callback|relance/.test(h))&&!(/^(date|heure)$/.test(k)&&/end|fin/.test(h)));if(i>=0)break}
     if(i>=0){out[k]=i;used.add(i)}
   }
   return out;
 }
-const QGUESS=[["stop",/ne plus|stop|bloctel|opposition|liste rouge|do not call|\bdnc\b|ne pas rappeler/],["pas_interesse",/pas int[eé]ress|non int[eé]ress|refus|not interested|sans int[eé]r/],["faux_numero",/faux|erron|invalide|wrong|non attribu|hors service|inexistant|n'existe/],["rdv",/rdv|rendez|meeting/],["rappeler",/rappel|callback|recontact|rappeler|call back/],["repondeur",/r[eé]pondeur|messagerie|voicemail|answering|\bmessage\b|\bamd\b/],["barrage",/barrage|secr[eé]tari|standard|filtr|absent|indisponible|pas l[aà]/],["pas_reponse",/pas de r[eé]ponse|no answer|\bnrp\b|non r[eé]pon|sonne|occup|busy|injoignable|[eé]chec/],["interesse",/int[eé]ress|documentation|envoi|devis|brochure|interested/]];
-const qKey=v=>norm(String(v||"")).trim();
-function guessQualif(v){const s=pairGet(hset.qualif,qKey(v));if(s!==undefined)return s;const t=qKey(v);for(const [k,re] of QGUESS)if(re.test(t))return k;return ""}
+const QGUESS=[["stop",/ne plus|stop|bloctel|opposition|liste rouge|do not call|\bdnc\b|ne pas rappeler|refus de (prospection|demarchage)/],["pas_interesse",/pas interess|non interess|refus|not interested|sans interet/],["faux_numero",/faux|erron|invalide|wrong|non attribu|hors service|inexistant|n'existe/],["rdv",/rdv|rendez|meeting/],["rappeler",/rappel|callback|recontact|rappeler|call back/],["repondeur",/repondeur|messagerie|voicemail|answering|\bmessage\b|\bamd\b/],["barrage",/barrage|secreta|standard|filtr|absent|indisponible|pas la/],["pas_reponse",/pas de reponse|no answer|\bnrp\b|non repon|sonne|occup|busy|injoignable|echec/],["interesse",/interess|documentation|envoi|devis|brochure|interested/]];
+const qKey=v=>norm(String(v||"")).replace(/\s+/g," ").trim();
+function guessQualif(v){
+  const s=pairGet(hset.qualif,qKey(v));if(s!==undefined)return s;const t=qKey(v);
+  if(/refus|interess/.test(t)&&!/refus de (prospection|demarchage)/.test(t)&&/peu interess|\bmais\b|secreta|standard|barrage|filtr/.test(t))return "";   // formulation mêlée : à choisir
+  for(const [k,re] of QGUESS)if(re.test(t))return k;return "";
+}
+/* Dates : 28/10/2026 14:05, 2026-10-28T14:05:33Z, 28/10/2026 + colonne heure, 2:05 PM ; jamais une date impossible */
+const HM="(\\d{1,2})[:h](\\d{2})(?::(\\d{2})(?:[.,]\\d+)?)?(?:\\s*([ap])\\.?m\\.?)?";
+const RE_ISO=new RegExp("^(\\d{4})-(\\d{2})-(\\d{2})(?:(?:T|\\s+)"+HM+"\\s*(z|[+-]\\d\\d:?\\d\\d)?)?$","i");
+const RE_FR=new RegExp("^(\\d{1,2})[\\/.-](\\d{1,2})[\\/.-](\\d{4}|\\d{2})(?:(?:,?\\s+|T)"+HM+")?$","i");
+const RE_H=new RegExp("^"+HM+"$","i");
 function parseWhen(d,h){
   d=String(d||"").trim();h=String(h||"").trim();
-  let m=d.match(/^(\d{4})-(\d{2})-(\d{2})(?:[T ](\d{1,2}):(\d{2})(?::(\d{2}))?)?/),y,mo,j,hh=0,mi=0,ss=0;
-  if(m){[y,mo,j]=[+m[1],+m[2],+m[3]];if(m[4]!=null){hh=+m[4];mi=+m[5];ss=+(m[6]||0)}}
-  else if((m=d.match(/^(\d{1,2})[\/.-](\d{1,2})[\/.-](\d{2,4})(?:[ T]+(\d{1,2})[:h](\d{2})(?::(\d{2}))?)?/))){[j,mo,y]=[+m[1],+m[2],+m[3]<100?2000+(+m[3]):+m[3]];if(m[4]!=null){hh=+m[4];mi=+m[5];ss=+(m[6]||0)}}
+  let m,y,mo,j,hh=0,mi=0,ss=0,ap="",tz="",heure=false;
+  if((m=d.match(RE_ISO))){[y,mo,j]=[+m[1],+m[2],+m[3]];tz=m[8]||""}
+  else if((m=d.match(RE_FR))){[j,mo]=[+m[1],+m[2]];y=m[3].length<3?2000+(+m[3]):+m[3]}
   else return null;
-  const t2=h.match(/^(\d{1,2})[:h](\d{2})(?::(\d{2}))?/);if(t2){hh=+t2[1];mi=+t2[2];ss=+(t2[3]||0)}
-  if(/z$|[+-]\d\d:?\d\d$/i.test(d)&&!t2){const x=new Date(d);return isNaN(x)?null:x}
-  const x=new Date(y,mo-1,j,hh,mi,ss);
-  return isNaN(x)||x.getMonth()!==mo-1||y<2020?null:x;
+  if(m[4]!=null){hh=+m[4];mi=+m[5];ss=+(m[6]||0);ap=(m[7]||"").toLowerCase();heure=true}
+  if(h){const t=h.match(RE_H);if(!t)return null;hh=+t[1];mi=+t[2];ss=+(t[3]||0);ap=(t[4]||"").toLowerCase();tz="";heure=true}
+  if(ap){if(hh<1||hh>12)return null;hh=hh%12+(ap==="p"?12:0)}
+  if(hh>23||mi>59||ss>59)return null;
+  let x;
+  if(tz&&heure){x=new Date(d);if(isNaN(x))return null}
+  else{x=new Date(y,mo-1,j,hh,mi,ss);if(isNaN(x)||x.getMonth()!==mo-1||x.getDate()!==j||y<2020)return null}
+  x.heure=heure;return x;
 }
 const parseDur=v=>{v=String(v||"").trim();let m=v.match(/^(?:(\d+):)?(\d{1,2}):(\d{2})$/);if(m)return (+(m[1]||0))*3600+(+m[2])*60+(+m[3]);m=v.match(/^\d+$/);return m?+v:null};
 const fmtDur=s=>s==null?"":s<60?s+" s":Math.floor(s/60)+" min "+String(s%60).padStart(2,"0");
 function hashStr(s){let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return (h>>>0).toString(36)}
-let himp=null;   // import en cours : {head, rows, cols, file}
+let himp=null,hLast=null;   // import en cours ; dernier import (pour l'annuler)
 function knownCallers(){
   const ids=new Set();if(myId)ids.add(myId);
   for(const s of Object.values(suivi))for(const e of histOf(s))if(typeof e.by==="string"&&e.by)ids.add(e.by);
@@ -2747,41 +2799,49 @@ function knownCallers(){
 const callerName=id=>id===myId?(myName||PROF[id]||"Moi")+" (moi)":(PROF[id]||"Associé "+String(id).slice(-4));
 function hRows(){
   if(!himp)return [];
-  const C=himp.cols,g=(r,k)=>C[k]!=null?r[C[k]]||"":"";
+  const C=himp.cols,g=(r,k)=>C[k]!=null?r[C[k]]||"":"",vus=new Set(),now=Date.now();
   return himp.rows.map((r,i)=>{
-    const when=parseWhen(g(r,"date"),g(r,"heure")),num=g(r,"numero"),cle=g(r,"cle"),q=g(r,"qualif"),ag=g(r,"agent");
-    let cands=[];const byKey=ficheParCle(cle);if(byKey)cands=[byKey];else if(num)cands=fichesParNumero(num);
-    const pickR=himp.pick[i],x=pickR!=null?byId[pickR]:cands[0]||null;
+    const when=parseWhen(g(r,"date"),g(r,"heure")),raw=g(r,"numero"),num=/^\s*[1-9]\d{8}\s*$/.test(raw)?"0"+raw.trim():raw,cle=g(r,"cle"),q=g(r,"qualif"),ag=g(r,"agent");
+    const byKey=ficheParCle(cle),byNum=num?fichesParNumero(num):[],conflit=!!(byKey&&byNum.length&&!byNum.includes(byKey));
+    const cands=byKey?(conflit?[byKey,...byNum.filter(c=>c!==byKey)]:[byKey]):byNum;
+    const pickR=himp.pick[i],x=(pickR!=null&&cands.find(c=>c.rang===pickR))||(cands.length===1?cands[0]:null);
     const res=himp.qmap[qKey(q)]!==undefined?himp.qmap[qKey(q)]:guessQualif(q);
-    const id="hx"+hashStr([cle||e164(num)||num,when?when.toISOString():g(r,"date"),q].join("|"));
+    const wk=when?[when.getFullYear(),when.getMonth()+1,when.getDate(),when.getHours(),when.getMinutes()].join("-"):"";
+    const id="hx"+hashStr([x?cleCRM(x):cle||e164(num)||num,wk,qKey(q)].join("|"));
+    const J=x?S(x).journal||{}:{};
+    const deja=!!x&&!!when&&(!!J[id]||Object.values(J).some(e=>e&&e.src==="hermes"&&e.res===res&&Math.abs(Date.parse(e.t)-when)<=60000));
     let etat="ok";
-    if(!when)etat="date";else if(!x)etat="fiche";else if(!res)etat="qualif";else if(res==="ignore")etat="ignore";else if(S(x).journal&&S(x).journal[id])etat="deja";
+    if(!when)etat="date";else if(!when.heure)etat="heure";else if(when-now>36e5)etat="futur";
+    else if(!x)etat=/^\s*\d[.,]?\d*e\+?\d+\s*$/i.test(raw)?"excel":conflit?"conflit":cands.length>1?"choix":"fiche";
+    else if(!res)etat="qualif";else if(res==="ignore")etat="ignore";else if(deja||vus.has(id))etat="deja";
+    if(etat==="ok")vus.add(id);
     return {i,when,num,cle,q,ag,x,cands,res,id,etat,dur:parseDur(g(r,"duree")),comm:g(r,"comm"),rappel:g(r,"rappel")};
   });
 }
-const HETAT={ok:"à importer",deja:"déjà importé",date:"date illisible",fiche:"fiche introuvable",qualif:"qualification à associer",ignore:"ignoré"};
+const HETAT={ok:"à importer",deja:"déjà importé",date:"date illisible",heure:"heure manquante (choisir la colonne Heure)",futur:"date dans le futur",fiche:"fiche introuvable",choix:"fiche à choisir (numéro partagé)",conflit:"clé et numéro en désaccord (choisir la fiche)",excel:"numéro abîmé par Excel",qualif:"qualification à associer",ignore:"ignoré"};
 function renderImport(){
   const box=$("#hImp");if(!box)return;
-  if(!himp){box.innerHTML="";return}
-  const head=himp.head,C=himp.cols,rows=hRows();
-  const colSel=([k,l])=>`<label class="hfield"><span>${l}</span><select data-hcol="${k}"><option value="">—</option>${head.map((h,i)=>`<option value="${i}"${C[k]===i?" selected":""}>${esc(h||"colonne "+(i+1))}</option>`).join("")}</select></label>`;
+  if(!himp){box.innerHTML=hLast&&hLast.undos.length?`<div class="hacts"><button class="btn" type="button" id="hUndo">Annuler le dernier import (${hLast.undos.length} appel${hLast.undos.length>1?"s":""})</button></div>`:"";return}
+  const head=himp.head,C=himp.cols,rows=hRows(),dis=himp.busy?" disabled":"";
+  const colSel=([k,l])=>`<label class="hfield"><span>${l}</span><select data-hcol="${k}"${dis}><option value="">—</option>${head.map((h,i)=>`<option value="${i}"${C[k]===i?" selected":""}>${esc(h||"colonne "+(i+1))}</option>`).join("")}</select></label>`;
   const qs=[...new Set(rows.map(r=>qKey(r.q)).filter(Boolean))].sort();
   const qraw=k=>(rows.find(r=>qKey(r.q)===k)||{}).q||k;
   const qn=k=>rows.filter(r=>qKey(r.q)===k).length;
-  const qSel=k=>{const v=himp.qmap[k]!==undefined?himp.qmap[k]:guessQualif(k);return `<select data-hq="${esc(k)}"><option value="">— à choisir —</option>${RESULTATS.map(r=>`<option value="${r.k}"${v===r.k?" selected":""}>${esc(r.l)}</option>`).join("")}<option value="ignore"${v==="ignore"?" selected":""}>Ignorer (pas un appel)</option></select>`};
+  const qSel=k=>{const v=himp.qmap[k]!==undefined?himp.qmap[k]:guessQualif(k);return `<select data-hq="${esc(k)}" aria-label="Résultat CRM pour « ${esc(qraw(k))} »"${dis}><option value="">— à choisir —</option>${RESULTATS.map(r=>`<option value="${r.k}"${v===r.k?" selected":""}>${esc(r.l)}</option>`).join("")}<option value="ignore"${v==="ignore"?" selected":""}>Ignorer (pas un appel)</option></select>`};
   const ags=[...new Set(rows.map(r=>r.ag).filter(Boolean))].sort();
   const callers=knownCallers();
-  const aSel=a=>{const v=himp.amap[a]!==undefined?himp.amap[a]:pairGet(hset.agents,a)||"";return `<select data-ha="${esc(a)}"><option value="">Non attribué</option>${callers.map(id=>`<option value="${esc(id)}"${v===id?" selected":""}>${esc(callerName(id))}</option>`).join("")}</select>`};
+  const aSel=a=>{const v=himp.amap[a]!==undefined?himp.amap[a]:pairGet(hset.agents,a)||"";return `<select data-ha="${esc(a)}" aria-label="Associé pour ${esc(a)}"${dis}><option value="">Non attribué</option>${callers.map(id=>`<option value="${esc(id)}"${v===id?" selected":""}>${esc(callerName(id))}</option>`).join("")}</select>`};
   const cnt=Object.fromEntries(Object.keys(HETAT).map(k=>[k,rows.filter(r=>r.etat===k).length]));
-  const shown=rows.slice(0,150);
+  const shown=rows.filter((r,i)=>i<150||r.cands.length>1||r.etat==="conflit");
+  const ok=cnt.ok&&canWrite&&!himp.busy;
   box.innerHTML=`
     <p class="small muted" style="margin:0">${esc(himp.file)} · ${rows.length} ligne${rows.length>1?"s":""}. Vérifie les colonnes, associe chaque qualification de Hermes360 à un résultat du CRM, puis importe : un appel déjà importé n'est jamais repris deux fois.</p>
     <div class="hcols">${HCHAMPS.map(([k,l])=>colSel([k,l])).join("")}</div>
     ${qs.length?`<h4>Qualifications</h4><div class="hscroll"><table class="htab"><thead><tr><th>Dans Hermes360</th><th>Appels</th><th>Dans le CRM</th></tr></thead><tbody>${qs.map(k=>`<tr><td>${esc(qraw(k))}</td><td class="num">${qn(k)}</td><td>${qSel(k)}</td></tr>`).join("")}</tbody></table></div>`:""}
     ${ags.length?`<h4>Appelants</h4><div class="hscroll"><table class="htab"><thead><tr><th>Agent Hermes360</th><th>Associé dans le CRM</th></tr></thead><tbody>${ags.map(a=>`<tr><td>${esc(a)}</td><td>${aSel(a)}</td></tr>`).join("")}</tbody></table></div>`:""}
     <p class="hsum">${Object.entries(cnt).filter(([,n])=>n).map(([k,n])=>`<span class="pill ${k==="ok"?"lv-haute":k==="deja"||k==="ignore"?"lv-aucune":"lv-basse"}">${n} ${HETAT[k]}</span>`).join(" ")}</p>
-    <div class="hprev" tabindex="0" aria-label="Aperçu de l'import"><table class="htab"><thead><tr><th>Date</th><th>Numéro</th><th>Fiche</th><th>Qualification</th><th>État</th></tr></thead><tbody>${shown.map(r=>`<tr class="${r.etat==="ok"?"":"hmuted"}"><td>${r.when?esc(fmtStamp(r.when.toISOString())):esc(r.q?"":"")}</td><td class="mono">${esc(r.num||r.cle||"")}</td><td>${r.cands.length>1?`<select data-hpick="${r.i}">${r.cands.map(c=>`<option value="${c.rang}"${r.x===c?" selected":""}>${esc(nameOf(c))}</option>`).join("")}</select>`:r.x?esc(nameOf(r.x)):"<span class=\"late\">introuvable</span>"}</td><td>${esc(r.q)}${r.res&&r.res!=="ignore"?` → ${esc(RLABEL[r.res]||"")}`:""}</td><td>${esc(HETAT[r.etat])}</td></tr>`).join("")}</tbody></table>${rows.length>shown.length?`<p class="small muted">… et ${rows.length-shown.length} autres lignes.</p>`:""}</div>
-    <div class="hacts"><button class="btn primary" type="button" id="hGo"${cnt.ok&&canWrite?"":" disabled"}>Importer ${cnt.ok} appel${cnt.ok>1?"s":""}</button><button class="btn" type="button" id="hCancel">Abandonner</button>${canWrite?"":`<span class="small muted">Lecture seule : import impossible.</span>`}</div>`;
+    <div class="hprev" tabindex="0" role="region" aria-label="Aperçu de l'import"><table class="htab"><thead><tr><th>Date</th><th>Numéro</th><th>Fiche</th><th>Qualification</th><th>État</th></tr></thead><tbody>${shown.map(r=>`<tr class="${r.etat==="ok"?"":"hmuted"}"><td>${r.when?esc(fmtStamp(r.when.toISOString())):""}</td><td class="mono">${esc(r.num||r.cle||"")}</td><td>${r.cands.length>1?`<select data-hpick="${r.i}" aria-label="Fiche pour ${esc(r.num||r.cle||"la ligne "+(r.i+2))}"${dis}><option value=""${r.x?"":" selected"}>— à choisir —</option>${r.cands.map(c=>`<option value="${c.rang}"${r.x===c?" selected":""}>${esc(nameOf(c))}</option>`).join("")}</select>`:r.x?esc(nameOf(r.x)):"<span class=\"late\">introuvable</span>"}</td><td>${esc(r.q)}${r.res&&r.res!=="ignore"?` → ${esc(RLABEL[r.res]||"")}`:""}</td><td>${esc(HETAT[r.etat])}</td></tr>`).join("")}</tbody></table>${rows.length>shown.length?`<p class="small muted">… et ${rows.length-shown.length} autres lignes.</p>`:""}</div>
+    <div class="hacts"><button class="btn primary" type="button" id="hGo"${ok?"":" disabled"}>${himp.busy?"Import en cours…":`Importer ${cnt.ok} appel${cnt.ok>1?"s":""}`}</button><button class="btn" type="button" id="hCancel"${dis}>Abandonner</button>${canWrite?"":`<span class="small muted">Lecture seule : import impossible.</span>`}</div>`;
 }
 async function readFileText(file){
   const rd=enc=>new Promise((ok,ko)=>{const r=new FileReader();r.onload=()=>ok(String(r.result||""));r.onerror=()=>ko(r.error);r.readAsText(file,enc)});
@@ -2789,49 +2849,67 @@ async function readFileText(file){
   return t;
 }
 function startImport(txt,name){
+  if(himp&&himp.busy)return;
   const all=parseCSV(txt);
   if(all.length<2){toast("Fichier vide ou illisible : il faut une ligne d'en-têtes puis les appels");return}
-  himp={head:all[0],rows:all.slice(1).filter(r=>r.length>1||r[0]),file:name||"Texte collé",cols:guessCols(all[0]),qmap:{},amap:{},pick:{}};
-  renderImport();loadProfiles(knownCallers()).then(ch=>{if(ch)renderImport()});
+  himp={head:all[0],rows:all.slice(1).filter(r=>r.length>1||r[0]),file:name||"Texte collé",cols:guessCols(all[0]),qmap:{},amap:{},pick:{},busy:false};
+  renderImport();loadProfiles(knownCallers()).then(ch=>{if(ch&&himp)renderImport()});
+}
+/* Effets d'un appel importé : mêmes règles que logResult (statut qui ne recule pas, 4 appels en 30 jours, rappel du jour fait),
+   à la date de l'appel. Un refus reçu s'applique toujours ; sinon, une décision plus récente du CRM garde la main. */
+function effetsImport(x,r,t,by){
+  const s=S(x),today=isoDay(new Date()),st=statutOf(x),ch={},nst=RSTATUT[r.res];
+  if(s.opposition)return ch;
+  const plusRecent=callsOf(x).h.some(e=>String(e.t)>t)||String(s.decision||"")>t;
+  const decide=callsOf(x).h.some(e=>String(e.t)>t&&(RSTATUT[e.res]||e.res==="rappeler"))||String(s.decision||"")>t;
+  const refusRecu=r.res==="stop"||(r.res==="pas_interesse"&&!decide);
+  if(plusRecent&&!refusRecu)return ch;
+  if(nst==="refus"||(nst&&SORD[nst]>(SORD[st]??0)))ch.statut=nst;else if(st==="a_contacter")ch.statut="contacte";
+  if(r.res==="stop")ch.opposition={date:t,canal:"téléphone (Hermes360)"};
+  if(nst==="refus"){ch.date_relance="";ch.rappel_heure="";if(!s.refus)ch.refus={date:t,origine:RLABEL[r.res]+" (Hermes360)"}}
+  else{
+    const rp=r.rappel?parseWhen(r.rappel,""):null,futur=s.date_relance&&s.date_relance>today;
+    if(rp&&isoDay(rp)>=today){ch.date_relance=isoDay(rp);ch.rappel_heure=rp.heure?String(rp.getHours()).padStart(2,"0")+":"+String(rp.getMinutes()).padStart(2,"0"):""}
+    else if(RELANCE_AUTO.has(r.res)&&!futur){
+      const rec=callsOf(x).h.map(e=>e.t).filter(v=>Date.parse(v)>Date.parse(t)-30*864e5).concat([t]).sort(),nw=nextWorkday();
+      const lim=rec.length>=4?firstWorkdayFrom(isoDay(new Date(Date.parse(rec[rec.length-4])+30*864e5))):"";
+      ch.date_relance=lim>nw?lim:nw;ch.rappel_heure="";
+    }
+    else if(r.res==="interesse"&&!futur){ch.date_relance=addWorkdays(3);ch.rappel_heure=""}
+    else if(!RELANCE_AUTO.has(r.res)&&s.date_relance&&s.date_relance<=today){ch.date_relance="";ch.rappel_heure=""}
+  }
+  if(r.res==="faux_numero"&&!s.prochaine_action)ch.prochaine_action="Trouver le bon numéro";
+  if(by&&!s.responsable_id)ch.responsable_id=by;
+  return ch;
 }
 async function runImport(){
-  if(!himp||!canWrite)return;
-  const btn=$("#hGo");if(btn){if(btn.disabled)return;btn.disabled=true;btn.textContent="Import en cours…"}
+  if(!himp||!canWrite||himp.busy)return;
+  const imp=himp;imp.busy=true;renderImport();
   const rows=hRows().filter(r=>r.etat==="ok").sort((a,b)=>a.when-b.when);
-  // mémoriser les choix pour le prochain import
-  let qual=hset.qualif,ags=hset.agents,cols=hset.cols;
-  for(const [k,v] of Object.entries(himp.qmap))qual=pairSet(qual,k,v);
-  for(const [k,v] of Object.entries(himp.amap))ags=pairSet(ags,k,v);
-  for(const [k] of HCHAMPS)if(himp.cols[k]!=null)cols=pairSet(cols,k,himp.head[himp.cols[k]]);
-  saveHset({qualif:qual,agents:ags,cols});
+  const cm=[];for(const [k] of HCHAMPS)if(imp.cols[k]!=null)cm.push([k,imp.head[imp.cols[k]]]);
+  saveHset({qualif:Object.entries(imp.qmap),agents:Object.entries(imp.amap),cols:cm});   // choix gardés pour le prochain import
   const undos=[];let n=0,fail=0;
   for(const r of rows){
     const x=r.x,s=S(x);if(s.journal&&s.journal[r.id])continue;
-    const t=r.when.toISOString(),today=isoDay(new Date()),st=statutOf(x),by=himp.amap[r.ag]!==undefined?himp.amap[r.ag]:pairGet(hset.agents,r.ag)||"";
+    const t=r.when.toISOString(),by=imp.amap[r.ag]!==undefined?imp.amap[r.ag]:pairGet(hset.agents,r.ag)||"";
     const ent={t,txt:"Hermes360 : "+(r.q||RLABEL[r.res])+(r.comm?" · "+r.comm:"")+(r.dur!=null?" ("+fmtDur(r.dur)+")":""),res:r.res,src:"hermes"};
     if(by)ent.by=by;if(r.ag)ent.agent=r.ag;if(r.dur!=null)ent.duree=r.dur;
-    const ch={journal:{[r.id]:ent}};
-    const plusRecent=callsOf(x).h.some(e=>String(e.t)>t);   // un échange plus récent dans le CRM : on garde ses décisions
-    if(!s.opposition&&!plusRecent){
-      const nst=RSTATUT[r.res];
-      if(nst==="refus"||(nst&&SORD[nst]>(SORD[st]??0)))ch.statut=nst;else if(st==="a_contacter")ch.statut="contacte";
-      if(r.res==="stop")ch.opposition={date:t,canal:"téléphone (Hermes360)"};
-      const rp=r.rappel?parseWhen(r.rappel,""):null;
-      if(rp&&isoDay(rp)>=today&&nst!=="refus"){ch.date_relance=isoDay(rp);ch.rappel_heure=/\d{1,2}[:h]\d{2}/.test(r.rappel)?String(rp.getHours()).padStart(2,"0")+":"+String(rp.getMinutes()).padStart(2,"0"):""}
-      else if(RELANCE_AUTO.has(r.res)&&!(s.date_relance&&s.date_relance>today)){ch.date_relance=nextWorkday();ch.rappel_heure=""}
-      if(nst==="refus"){ch.date_relance="";ch.rappel_heure="";if(!s.refus)ch.refus={date:t,origine:RLABEL[r.res]+" (Hermes360)"}}
-      if(r.res==="faux_numero"&&!s.prochaine_action)ch.prochaine_action="Trouver le bon numéro";
-      if(by&&!s.responsable_id)ch.responsable_id=by;
-    }
+    const ch=Object.assign({journal:{[r.id]:ent}},effetsImport(x,r,t,by));
     const prev={journal:{[r.id]:null}};
     for(const k of Object.keys(ch))if(k!=="journal")prev[k]=s[k]===undefined?(k==="opposition"||k==="refus"?null:""):s[k];
     if(await patch(x,ch)){n++;undos.push([x,prev])}else fail++;
   }
-  himp=null;renderImport();renderAll();
-  toast(`${n} appel${n>1?"s":""} reporté${n>1?"s":""} dans le CRM${fail?` · ${fail} en échec (réessayer)`:""}`,n?{label:"Annuler l'import",run:async()=>{for(const [x,p] of undos.reverse())await patch(x,p);toast("Import annulé");renderAll()}}:undefined);
+  if(himp===imp)himp=null;
+  hLast=n?{undos}:hLast;renderImport();renderAll();
+  toast(`${n} appel${n>1?"s":""} reporté${n>1?"s":""} dans le CRM${fail?` · ${fail} en échec : relancer l'import (les appels déjà reportés ne seront pas repris)`:""}`,n?{label:"Annuler l'import",run:undoImport}:undefined);
+}
+async function undoImport(){
+  const L=hLast;if(!L||!L.undos.length)return;hLast=null;renderImport();
+  for(const [x,p] of L.undos.slice().reverse())await patch(x,p);
+  toast("Import annulé");renderAll();
 }
 function hCount(){const p=$("#hpanel");if(!p||p.hidden)return;const camp=campagneListe().length;
-  $("#hCampN").textContent=`${camp} entreprise${camp>1?"s":""} à appeler avec les filtres de la feuille d'appels (appelant, vague)`}
+  $("#hCampN").textContent=`${camp} entreprise${camp>1?"s":""} à appeler avec les filtres de la feuille d'appels (appelant, vague)`+(hBloq.length?` · ${hBloq.length} laissée${hBloq.length>1?"s":""} de côté : standard partagé avec une société à ne plus appeler`:"")}
 function renderHermes(){
   const p=$("#hpanel");if(!p||p.hidden)return;
   hCount();
@@ -2882,7 +2960,9 @@ function bindHermes(){
     const crm=$("#hCrm").value.trim(),tel=$("#hTel").value.trim(),sep=$("#hSep").value;
     if(!/^https:\/\//.test(crm)){toast("L'adresse du CRM doit commencer par https://");return}
     if(!HTEL_OK.test(tel)||!/\{(e164|national|chiffres)\}/.test(tel)){toast("Le lien d'appel doit commencer par tel:, callto:, sip: ou https:// et contenir {e164}, {national} ou {chiffres}");return}
-    if(await saveHset({crm,tel,sep})){toast("Réglages enregistrés pour toute l'équipe");renderAll()}
+    const ch={};if(crm!==hset.crm)ch.crm=crm;if(tel!==hset.tel)ch.tel=tel;if(sep!==hset.sep)ch.sep=sep;
+    if(!Object.keys(ch).length){toast("Rien à enregistrer");return}
+    if(await saveHset(ch)){toast("Réglages enregistrés pour toute l'équipe");renderHermes();renderAll()}
   });
   $("#hReset").addEventListener("click",async()=>{if(await saveHset({tel:HSET_DEF.tel})){toast("Lien d'appel remis à « tel: »");renderHermes();renderAll()}});
   $("#hFile").addEventListener("change",async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;try{startImport(await readFileText(f),f.name)}catch(err){toast("Fichier illisible")}e.target.value=""});
@@ -2890,16 +2970,16 @@ function bindHermes(){
   for(const id of ["#hPopCopy","#hPopSCopy","#hPopKCopy"])$(id).addEventListener("click",e=>copyText($(e.currentTarget.dataset.src).textContent,"Adresse copiée"));
   const box=$("#hImp");
   box.addEventListener("change",e=>{
-    const t=e.target;if(!himp)return;
+    const t=e.target;if(!himp||himp.busy)return;
     if(t.dataset.hcol){const k=t.dataset.hcol;if(t.value==="")delete himp.cols[k];else himp.cols[k]=+t.value}
     else if(t.dataset.hq!==undefined)himp.qmap[t.dataset.hq]=t.value;
     else if(t.dataset.ha!==undefined)himp.amap[t.dataset.ha]=t.value;
-    else if(t.dataset.hpick!==undefined)himp.pick[+t.dataset.hpick]=+t.value;
+    else if(t.dataset.hpick!==undefined){if(t.value==="")delete himp.pick[+t.dataset.hpick];else himp.pick[+t.dataset.hpick]=+t.value}
     else return;
     const f=t.dataset.hcol?`[data-hcol="${t.dataset.hcol}"]`:t.dataset.hq!==undefined?`[data-hq="${CSS.escape(t.dataset.hq)}"]`:t.dataset.ha!==undefined?`[data-ha="${CSS.escape(t.dataset.ha)}"]`:`[data-hpick="${t.dataset.hpick}"]`;
     renderImport();const again=box.querySelector(f);if(again)again.focus();
   });
-  box.addEventListener("click",e=>{if(e.target.closest("#hGo"))runImport();else if(e.target.closest("#hCancel")){himp=null;renderImport()}});
+  box.addEventListener("click",e=>{if(e.target.closest("#hGo"))runImport();else if(e.target.closest("#hCancel")&&himp&&!himp.busy){himp=null;renderImport()}else if(e.target.closest("#hUndo"))undoImport()});
 }
 
 /* ---------- Démarrage ---------- */
@@ -2924,7 +3004,8 @@ function bindHermes(){
   if(rt){suivi={};mode="loading";ready=false;setSync("","Chargement du suivi…")}else{goLocal("Suivi enregistré sur cet appareil");loadHset().then(()=>{if(hset.tel!==HSET_DEF.tel)renderAll(true)})}
   renderCStatic();bindHermes();renderGuide();
   setView(startView,true);
-  if(!route(false))setHash("#"+HASH[startView],false);
+  const tWait=rt&&/^#t/.test(location.hash)?location.hash:"";   // levée de fiche par numéro : attendre le suivi partagé (numéros notés par l'équipe)
+  if(tWait)setView("appels",true);else if(!route(false))setHash("#"+HASH[startView],false);
   renderAll(true);
   setInterval(()=>{if(document.visibilityState==="visible"){renderJour();renderAppels()}},60000);   // l'heure avance : rappels du jour et « en appel »
   if(!rt)return;
@@ -2932,7 +3013,7 @@ function bindHermes(){
   userNs=u;
   if(u){try{myId=await u.id()}catch(e){}
     if(myId){try{const ps=await u.profiles([myId]);myName=(ps&&ps[myId]&&ps[myId].name)||""}catch(e){}}}
-  if(!d){goLocal("Suivi enregistré sur cet appareil uniquement");loadHset().then(()=>renderAll(true));renderAll(true);return}
+  if(!d){goLocal("Suivi enregistré sur cet appareil uniquement");loadHset().then(()=>renderAll(true));renderAll(true);if(tWait&&location.hash===tWait)route(false);return}
   db=d;mode="db";loadHset().then(()=>{if(hset.tel!==HSET_DEF.tel)renderAll(true);renderHermes()});
   if(u){try{const w=await u.can("data.write");if(w===false)canWrite=false}catch(e){}}
   db.collection("suivi").onSnapshot(snap=>{
@@ -2943,7 +3024,8 @@ function bindHermes(){
     suivi={};for(const k of new Set([...Object.keys(base),...Object.keys(pend)]))recompute(k);
     setSync(ready?"on":"",ready?(canWrite?"Suivi partagé, synchronisé":"Suivi partagé (lecture seule)"):"Chargement du suivi…");
     renderAll(first);
-    if(first)offerLocal();
-  },()=>{canWrite=false;setSync("local","Synchronisation interrompue : recharge la page");renderAll(true)});
+    if(first){offerLocal();if(tWait&&location.hash===tWait)route(false);
+      if(hLeve!=null){const c=byId[hLeve];hLeve=null;if(c&&sel===c.rang)markEnAppel(c)}}
+  },()=>{canWrite=false;setSync("local","Synchronisation interrompue : recharge la page");renderAll(true);if(tWait&&location.hash===tWait)route(false)});
 })();
 </script>
