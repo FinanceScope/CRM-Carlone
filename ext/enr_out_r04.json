@@ -1,0 +1,115 @@
+[
+ {
+  "siren": "327098364",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : deux recherches (travaux ou agrandissement 2025-2026, puis presse locale) sans fait daté de 2024 ou après propre au magasin de Coulanges-lès-Nevers ; seules des offres d'emploi en CDD (hypermarché, drive de Nevers, Saint-Éloi) et la page officielle e.leclerc déjà connue ressortent ; aucun e-mail générique publié ni page LinkedIn propre au magasin.",
+  "recherches": 2
+ },
+ {
+  "siren": "334898277",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : deux recherches (investissement ou agrandissement 2025-2026, puis presse locale et direction) sans fait daté de 2024 ou après ; seule une extension de 340 m² autorisée en CDAC en 2014 et des offres d'emploi (centre présenté comme créé en 1998) ressortent ; aucun e-mail générique publié ni page LinkedIn propre au magasin.",
+  "recherches": 2
+ },
+ {
+  "siren": "507757672",
+  "site_web": "https://www.e.leclerc/mag/e-leclerc-decize",
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : page officielle du magasin trouvée sur e.leclerc (route de Champvert, tél. 03 86 25 50 00, horaires possiblement anciens) ; pas d'e-mail générique publié, pas de page LinkedIn propre, et aucune actualité datée de 2024 ou après en dehors de la participation à des opérations commerciales nationales de l'enseigne.",
+  "recherches": 2
+ },
+ {
+  "siren": "530572775",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [
+   {
+    "date": "07/2026",
+    "fait": "Nexson Group présente la fabrication de 22 échangeurs spiralés en super duplex conçus pour des environnements extrêmes.",
+    "source": "https://www.nexson-group.com/fr/actualites/"
+   },
+   {
+    "date": "01/2026",
+    "fait": "Nexson Group a livré 16 échangeurs de chaleur sur mesure pour une unité de régénération de MEG d'un important projet FPSO.",
+    "source": "https://www.nexson-group.com/fr/nexson-group-a-livre-16-echangeurs-de-chaleur-sur-mesure-pour-un-important-projet-fpso/"
+   },
+   {
+    "date": "06/2026",
+    "fait": "Nexson Group annonce un partenariat stratégique avec Shaanxi Zhituo pour l'ingénierie des échangeurs PCHE.",
+    "source": "https://www.nexson-group.com/fr/nexson-group-shaanxi-zhituo-un-partenariat-strategique-majeur-pour-propulser-lingenierie-des-echangeurs-thermiques-pche-a-lechelle-mondiale/"
+   }
+  ],
+  "declencheur": "Carnet de commandes international très actif en 2026 et nouvel établissement ouvert en octobre 2025 dans la zone industrielle Nevers-Garchizy (déjà en fiche) : des locaux récents à aménager, bon moment pour proposer des œuvres.",
+  "note": "Enrichissement (28/10/2026) : la page d'actualités de nexson-group.com donne trois faits de 2026 (livraisons offshore, partenariat PCHE) ; la recherche presse n'a rien ajouté sur Garchizy ; site, e-mail et LinkedIn déjà connus, effectif LinkedIn non trouvé ; le déclencheur s'appuie aussi sur le nouvel établissement déjà noté dans la fiche.",
+  "recherches": 2
+ },
+ {
+  "siren": "631880408",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : les mentions légales et la page contact de bongard-bazot.fr confirment le siège de Saint-Péreuse (tél. 03 86 84 40 12, scierie ZI du Pré Charpin à La Machine, 03 86 50 93 50) mais ne publient pas d'e-mail générique (formulaire) ; aucune actualité datée de 2024 ou après ; le site met en avant le sciage de bois pour la charpente de Notre-Dame de Paris (non daté), bonne accroche de conversation.",
+  "recherches": 2
+ },
+ {
+  "siren": "523229268",
+  "site_web": null,
+  "email_generique": {
+   "email": "contact@groupesimonneau.fr",
+   "source": "https://www.renault-nevers.fr/"
+  },
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : e-mail générique du groupe (contact@groupesimonneau.fr) publié sur renault-nevers.fr avec l'adresse 2 rue Léonard de Vinci et le 03 86 93 00 00 ; aucune actualité datée de 2024 ou après sur la concession de Varennes-Vauzelles ; LinkedIn du groupe déjà connu, effectif LinkedIn non trouvé.",
+  "recherches": 2
+ },
+ {
+  "siren": "422593491",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : deux recherches (actualité 2025-2026 puis LinkedIn) sans fait daté de 2024 ou après ni page LinkedIn du Groupe Vincent ; Pappers et le réseau toyota.fr confirment la société au 1 route de Paris à Varennes-Vauzelles (créée en 1999, dirigée par Rodolphe Vincent) ; site et e-mail déjà connus.",
+  "recherches": 2
+ },
+ {
+  "siren": "483276820",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [
+   {
+    "date": "03/2026",
+    "fait": "Ligier Automotive publie une offre de recrutement pour un directeur des programmes.",
+    "source": "https://ligierautomotive.com/wp-content/uploads/2026/03/2026-offre-ligier-directeur-des-programmes.pdf"
+   }
+  ],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : page LinkedIn de l'entreprise non trouvée (seul un profil de salarié ressort) et effectif LinkedIn inconnu (estimations tierces 51-100 à 51-200, environ une centaine selon Ligier) ; une offre de directeur des programmes de mars 2026 ajoutée ; les autres actualités récentes (Mygale, LMP2, Le Mans 2028) étaient déjà en fiche.",
+  "recherches": 2
+ }
+]

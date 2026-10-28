@@ -1,0 +1,106 @@
+[
+ {
+  "siren": "350293221",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : deux recherches (presse locale puis actualités du site pasori.fr) sans fait nouveau daté de 2024 ou après ; site, e-mail et LinkedIn déjà connus, effectif LinkedIn non trouvé ; à signaler, une page en anglais sans lien avec le centre (pasori.fr/2025/06/14/…) apparaît sur son domaine.",
+  "recherches": 2
+ },
+ {
+  "siren": "333222214",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [
+   {
+    "date": "10/2024",
+    "fait": "Geficca annonce sur son site de nouvelles installations (actualité du 30/10/2024).",
+    "source": "https://www.geficca.fr/en/media-center/news"
+   },
+   {
+    "date": "05/2025",
+    "fait": "Geficca dévoile un nouveau logo (actualité du 05/05/2025).",
+    "source": "https://www.geficca.fr/en/media-center/news"
+   },
+   {
+    "date": "01/2025",
+    "fait": "Geficca organise une journée d'ouverture de l'entreprise aux jeunes (actualité du 31/01/2025).",
+    "source": "https://www.geficca.fr/en/media-center/news"
+   }
+  ],
+  "declencheur": "Nouvelles installations annoncées fin 2024 et nouveau logo en mai 2025 : l'occasion de proposer des œuvres qui accompagnent cette nouvelle image dans ses locaux.",
+  "note": "Enrichissement (28/10/2026) : la page d'actualités de geficca.fr donne trois faits récents (nouvelles installations, nouveau logo, journée pour les jeunes) ; la recherche de presse locale n'a rien donné ; site, e-mail et LinkedIn déjà connus.",
+  "recherches": 2
+ },
+ {
+  "siren": "328162284",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : deux recherches (presse puis site evorial.fr) sans actualité datée de 2024 ou après en dehors du changement de gouvernance déjà connu ; pas d'e-mail recherché (opposition à la prospection) ; le site evorial.fr semble ne plus être mis à jour depuis plusieurs années.",
+  "recherches": 2
+ },
+ {
+  "siren": "400674875",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : les mentions légales de chrboissons.com confirment le siège (31 B rue de Caqueret, Decize, SIRET 40067487500010) mais ne publient aucune adresse e-mail ; aucune actualité datée de 2024 ou après trouvée dans la presse.",
+  "recherches": 2
+ },
+ {
+  "siren": "412880445",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : deux recherches (projet d'agrandissement, presse locale et recrutement) sans e-mail générique, page LinkedIn propre au magasin ni actualité datée de 2024 ou après ; les articles trouvés portent sur le Bricomarché de La Charité-sur-Loire, pas sur celui de Cosne.",
+  "recherches": 2
+ },
+ {
+  "siren": "444611933",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : deux recherches (travaux, presse locale, recrutement, direction) sans actualité datée de 2024 ou après ni e-mail générique ; seules des fiches d'annuaire situent l'établissement avenue du 85e-de-Ligne (parking Carrefour Market, Champ de la Dispute).",
+  "recherches": 2
+ },
+ {
+  "siren": "794456921",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : deux recherches sans site officiel, page LinkedIn ni actualité datée de 2024 ou après ; seuls des annuaires reprennent l'adresse du 7 allée des Entrepreneurs et l'e-mail déjà connu.",
+  "recherches": 2
+ },
+ {
+  "siren": "394518096",
+  "site_web": null,
+  "email_generique": null,
+  "linkedin": null,
+  "effectif_linkedin": null,
+  "actualites": [],
+  "declencheur": null,
+  "note": "Enrichissement (28/10/2026) : le site cvloire58.fr est confirmé (16 rue Robert Nabéris) mais aucune page LinkedIn ni actualité datée de 2024 ou après n'a été trouvée ; à noter, l'e-mail déjà connu utilise le domaine cvloire.fr, différent de celui du site.",
+  "recherches": 2
+ }
+]
