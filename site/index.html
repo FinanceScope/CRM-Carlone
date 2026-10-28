@@ -1308,20 +1308,33 @@ let TELIX={};   // standard → entreprises qui le partagent (sociétés d'un m�
 const peersOf=c=>{const k=e164(c.telephone);return k?(TELIX[k]||[]).filter(o=>o!==c):[]};
 const grpTxt=c=>peersOf(c).some(o=>!o.telephone_groupe)?"Standard d'une société du même groupe":"Standard du groupe : demander le site de la Nièvre";   // numéro d'une société sœur déjà dans le CRM, ou siège du groupe hors Nièvre
 function peersHTML(c){
-  const p=peersOf(c);if(!p.length)return "";
-  return `<span class="peers">Même standard que ${p.map(o=>{const n=callsOf(o).n;return `<button type="button" class="plink" data-open="${o.rang}">${esc(nameOf(o))}</button>${n?` (${n} appel${n>1?"s":""})`:""}`}).join(", ")} : traiter ${p.length>1?"toutes ces sociétés":"les deux sociétés"} dans le même appel.</span>`;
+  const p=peersOf(c);if(!p.length)return "";const ok=p.filter(ensemble);
+  return `<span class="peers">Même standard que ${p.map(o=>{const n=callsOf(o).n;return `<button type="button" class="plink" data-open="${o.rang}">${esc(nameOf(o))}</button>${n?` (${n} appel${n>1?"s":""})`:""}${ensemble(o)?"":etatPills(o)}`}).join(", ")}${ok.length===p.length?` : traiter ${p.length>1?"toutes ces sociétés":"les deux sociétés"} dans le même appel.`:ok.length?` : traiter aussi ${ok.map(o=>esc(nameOf(o))).join(", ")} dans le même appel, pas les autres.`:" : ne pas évoquer ces sociétés."}</span>`;
 }
 /* Comptes liés (même dirigeant au registre, société dirigeante ou dirigée) : un appel peut couvrir plusieurs fiches */
+const etatPills=o=>{const so=S(o);return (so.opposition?` <span class="pill warn">Refus de prospection : ne pas évoquer</span>`:statutOf(o)==="refus"?` <span class="pill warn">Pas intéressé</span>`:"")+(o.exclue?` <span class="pill warn">Hors campagne</span>`:"")+(!/^active$/i.test(o.statut||"Active")?` <span class="pill warn" title="${esc(o.statut)}">Procédure</span>`:"")+(o.cessation?` <span class="pill warn">Activité peut-être cessée</span>`:"")+(o.opposition_prospection&&!so.opposition?` <span class="pill warn">Pas de mailing</span>`:"")};
+const ensemble=o=>vivant(o)&&isActive(o)&&!o.cessation;   // société qu'on peut évoquer dans le même appel
 function linkedHTML(c){
   const l=(c.comptes_lies||[]).filter(x=>byId[x.rang]);if(!l.length)return "";
-  return `<div class="d-sec"><h3>Comptes liés</h3><ul class="linked">${l.map(x=>{const o=byId[x.rang],n=callsOf(o).n;return `<li><button type="button" class="plink" data-open="${o.rang}">${esc(nameOf(o))}</button> <span>(${esc(o.ville||"")}) · ${esc(x.lien)}${n?` · ${n} appel${n>1?"s":""}`:""}</span></li>`}).join("")}</ul><p class="muted small" style="margin:6px 0 0">Un nom identique au registre ne prouve pas qu'il s'agit de la même personne : le faire confirmer à l'appel, puis traiter les sociétés ensemble.</p></div>`;
+  const ok=l.filter(x=>ensemble(byId[x.rang])),nom=l.some(x=>x.type==="personne");
+  return `<div class="d-sec"><h3>Comptes liés</h3><ul class="linked">${l.map(x=>{const o=byId[x.rang],n=callsOf(o).n;return `<li><button type="button" class="plink" data-open="${o.rang}">${esc(nameOf(o))}</button>${etatPills(o)} <span>(${esc(o.ville||"")}) · ${esc(x.lien)}${n?` · ${n} appel${n>1?"s":""}`:""}</span></li>`}).join("")}</ul><p class="muted small" style="margin:6px 0 0">${nom?"Un nom identique au registre ne prouve pas qu'il s'agit de la même personne : le faire confirmer à l'appel. ":""}${ok.length?`Sociétés à traiter dans le même appel : ${ok.map(x=>esc(nameOf(byId[x.rang]))).join(", ")}.`:"Aucune de ces sociétés n'est à évoquer pendant l'appel."}</p></div>`;
 }
 /* Fiabilité des données : niveau, source et date par champ, score de complétude (enrichissement) */
 const FIAB_L={standard:"Standard",dirigeant:"Dirigeant",chiffres:"Chiffres",effectif:"Effectif",interlocuteurs:"Interlocuteurs",opposition:"Opposition à la prospection"};
 const LV_L={haute:"fiable",moyenne:"moyen",basse:"à vérifier",aucune:"manquant"};
+/* Complétude vue par l'équipe : le score des sources, plus ce que l'équipe a noté (standard trouvé, interlocuteur) */
+function compl(c){if(c.completude==null)return null;const s=S(c);let v=c.completude;if(!c.telephone&&telIn(s.tel_trouve))v+=20;if(s.contact_nom&&!(c.contacts_admin||[]).length&&c.fiab&&c.fiab.interlocuteurs&&c.fiab.interlocuteurs[0]==="aucune")v+=10;if(fauxStd(c))v-=15;return Math.max(0,Math.min(100,v))}
+function fiabRows(c){
+  const f=Object.assign({},c.fiab),s=S(c),op=s.opposition;
+  if(fauxStd(c))f.standard=["basse","faux numéro signalé par l'équipe",fmtStamp(callsOf(c).lastT)];
+  else if(!c.telephone&&telIn(s.tel_trouve))f.standard=["moyenne","noté par l'équipe",null];
+  if(s.contact_nom&&f.interlocuteurs&&f.interlocuteurs[0]==="aucune")f.interlocuteurs=["moyenne","noté par l'équipe : "+s.contact_nom,null];
+  if(op)f.opposition=["haute",`refus de prospection noté le ${new Date(op.date).toLocaleDateString("fr-FR")} (${op.canal||"téléphone"}) : ni appel ni e-mail`,null];
+  return f;
+}
 function fiabHTML(c){
-  const f=c.fiab;if(!f)return "";
-  return `<div class="d-sec"><details class="pp-d"><summary>Fiabilité des données · complétude ${c.completude}/100</summary><table class="fiab"><tbody>${Object.keys(FIAB_L).filter(k=>f[k]).map(k=>{const [lv,src,dt]=f[k];return `<tr><th scope="row">${FIAB_L[k]}</th><td><span class="pill lv-${esc(lv)}">${LV_L[lv]||esc(lv)}</span>${esc(src)}${dt?` · ${esc(dt)}`:""}</td></tr>`}).join("")}</tbody></table>${c.telephone_verifie?`<p class="muted small" style="margin:6px 0 0">Standard retrouvé sur : ${c.telephone_verifie.sources.map(u=>linkOut(u)).join(" ")}</p>`:""}</details></div>`;
+  if(!c.fiab)return "";const f=fiabRows(c);
+  return `<div class="d-sec"><details class="pp-d"><summary>Fiabilité des données · complétude ${compl(c)}/100</summary><table class="fiab"><tbody>${Object.keys(FIAB_L).filter(k=>f[k]).map(k=>{const [lv,src,dt]=f[k];return `<tr><th scope="row">${FIAB_L[k]}</th><td><span class="pill lv-${esc(lv)}">${LV_L[lv]||esc(lv)}</span>${esc(src)}${dt?` · ${esc(dt)}`:""}</td></tr>`}).join("")}</tbody></table>${c.telephone_verifie&&!fauxStd(c)?`<p class="muted small" style="margin:6px 0 0">Standard retrouvé sur : ${[].concat(c.telephone_verifie.sources||[]).filter(u=>typeof u==="string").map(u=>linkOut(u)).join(" ")}</p>`:""}${c.telephone_doute&&(c.telephone_doute.sources||[]).length?`<p class="muted small" style="margin:6px 0 0">Numéro aussi publié pour un autre titulaire sur : ${c.telephone_doute.sources.map(u=>linkOut(u)).join(" ")}</p>`:""}</details></div>`;
 }
 const copyBtn=(v,what)=>`<button class="copy" type="button" data-copy="${esc(v)}" aria-label="Copier ${esc(what||v)}">copier</button>`;
 const pjLink=c=>`<a class="small" href="https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=${encodeURIComponent(nameOf(c).replace(/\s*\([^)]*\)/g,""))}&ou=${encodeURIComponent(c.ville||"Nièvre")}" target="_blank" rel="noopener">Chercher sur PagesJaunes</a>`;
@@ -1341,7 +1354,9 @@ function resultCtl(c){
   if(!canEdit()||S(c).opposition)return "";
   return `<div class="qres" role="group" aria-label="Résultat de l'appel à ${esc(nameOf(c))}">${QUICK.map(([k,l])=>`<button type="button" class="qchip" data-q="${k}">${l}</button>`).join("")}<select class="ares" aria-label="Autre résultat pour ${esc(nameOf(c))}"><option value="">Autre résultat…</option>${RESULTATS.filter(r=>!QUICK.some(q=>q[0]===r.k)).map(r=>`<option value="${r.k}">${esc(r.m||r.l)}</option>`).join("")}</select></div><div class="aform" hidden></div>`;
 }
-const stdLabel=c=>!c.telephone?"noté par l'équipe":c.telephone_a_confirmer?"à confirmer":c.telephone_groupe?grpTxt(c).replace(/^S/,"s"):"";
+const fauxStd=c=>!!c.telephone&&callsOf(c).last==="faux_numero";   // dernier appel : faux numéro
+const stdWarn=c=>fauxStd(c)||!!c.telephone_doute;
+const stdLabel=c=>!c.telephone?"noté par l'équipe":fauxStd(c)?"signalé faux numéro":c.telephone_doute?"aussi publié pour un autre titulaire : vérifier le nom":c.telephone_a_confirmer?"à confirmer":c.telephone_groupe?grpTxt(c).replace(/^S/,"s"):c.telephone_verifie?"confirmé par deux sources":"";
 function callRow(c){
   const s=S(c),cl=callsOf(c),st=statutOf(c),today=isoDay(new Date());
   const tel=stdOf(c),direct=telIn(s.contact_coord),late=s.date_relance&&s.date_relance<today,ea=enAppel(c);
@@ -1363,7 +1378,7 @@ function callRow(c){
     </div>
     <div class="acol atel">
       ${direct?`<span class="contact">${telLink(direct,"calllink")}${copyBtn(direct,"la ligne directe")}</span><span class="muted small">ligne directe notée</span>`:""}
-      ${tel?`<span class="contact">${telLink(tel,direct?"":"calllink")}${copyBtn(tel,"le numéro")}</span>${lab?`<span class="muted small">${esc(lab)}</span>`:direct?`<span class="muted small">standard</span>`:""}${peersHTML(c)}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
+      ${tel?`<span class="contact">${telLink(tel,direct?"":"calllink")}${copyBtn(tel,"le numéro")}</span>${lab?`<span class="${stdWarn(c)&&sameNum(tel,c.telephone)?"late":"muted"} small">${esc(lab)}</span>`:direct?`<span class="muted small">standard</span>`:""}${peersHTML(c)}`:direct?"":`<span class="muted small">Pas de numéro connu</span>${pjLink(c)}`}
       ${autres.map(t=>`<span class="contact tel2">${telLink(t)}<span class="muted">autre numéro cité</span></span>`).join("")}
     </div>
     <div class="acol astate">
@@ -1610,7 +1625,7 @@ function renderQualite(){
   const R=[["Standard connu",hasTel,null,"notel"],["Numéro vérifié, pas seulement en annuaire",verif,null,"noverif"],["Interlocuteur finance, RH ou administration nommé",hasAdmin,adminConf,"noadmin"],["Ligne directe ou e-mail nominatif",hasDirect,null,"nodirect"]];
   const bar=(list,f,fc,qf,top,lab)=>{const n=list.filter(f).length,nc=fc?list.filter(fc).length:n,w=v=>list.length?v/list.length*100:0;
     return `<button type="button" class="qb" data-qf="${qf}" data-qt="${top}" title="Voir les ${list.length-n} fiches à compléter"><span class="qk">${lab}</span><span class="qt"><i class="q1" style="width:${w(nc)}%"></i>${fc&&n>nc?`<i class="q2" style="width:${w(n-nc)}%"></i>`:""}</span><span class="qn">${n} / ${list.length}</span></button>`};
-  const avg=l=>{const v=l.filter(c=>c.completude!=null);return v.length?Math.round(v.reduce((t,c)=>t+c.completude,0)/v.length):null},ac=avg(cib),aa=avg(act);
+  const avg=l=>{const v=l.filter(c=>c.completude!=null);return v.length?Math.round(v.reduce((t,c)=>t+compl(c),0)/v.length):null},ac=avg(cib),aa=avg(act);
   $("#qualite").innerHTML=R.map(([l,f,fc,qf])=>`<div class="qr"><h3>${l}${fc?` <span class="muted small" style="font-weight:400">(plein : confirmé, clair : à confirmer)</span>`:""}</h3>${bar(cib,f,fc,qf,"cibles","Cibles")}${bar(act,f,fc,qf,"actives","Actives")}</div>`).join("")
     +(aa!=null?`<p class="muted small" style="margin:4px 0 0">Complétude moyenne des fiches : ${ac}/100 pour les cibles, ${aa}/100 pour les actives. Dans Entreprises, « Tri : fiches à enrichir d'abord » les classe de la moins complète à la plus complète ; le détail est dans « Fiabilité des données » de chaque fiche.</p>`:"");
 }
@@ -1736,7 +1751,7 @@ function filtered(){
     if(filt.statut&&statutOf(c)!==filt.statut)return false;
     if(q&&!matchQ(c,q))return false;
     return true});
-  const rel=c=>S(c).date_relance||"9999";
+  const rel=c=>S(c).date_relance||"9999",enr=c=>vivant(c)&&isActive(c)&&!c.cessation?0:1;
   const by={
     rang:(a,b)=>a.rang-b.rang,
     prio:(a,b)=>(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||a.rang-b.rang,
@@ -1744,7 +1759,7 @@ function filtered(){
     eff:(a,b)=>effMin(b.effectif)-effMin(a.effectif)||a.rang-b.rang,
     plafond:(a,b)=>((b.art||{}).plafond||0)-((a.art||{}).plafond||0)||((b.art||{}).resultat||0)-((a.art||{}).resultat||0)||a.rang-b.rang,
     relance:(a,b)=>rel(a)<rel(b)?-1:rel(a)>rel(b)?1:a.rang-b.rang,
-    completude:(a,b)=>(a.completude??100)-(b.completude??100)||(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||a.rang-b.rang
+    completude:(a,b)=>enr(a)-enr(b)||(compl(a)??100)-(compl(b)??100)||(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||a.rang-b.rang
   };
   return list.sort(by[filt.sort]||by.rang);
 }
@@ -1841,15 +1856,16 @@ function renderDetail(force){
   const fi=c.fiche||null;
   const a=c.art||{notes:[]};
   const tel=stdOf(c),direct=telIn(s.contact_coord),nm=nameOf(c);
-  const autres=telsIn(fi&&fi.qui_appeler).filter(t=>!sameNum(t,tel)&&!sameNum(t,direct)).filter((t,i,l)=>l.findIndex(x=>sameNum(x,t))===i).slice(0,3);
+  const alt=(c.telephone_alternatif||{}).tel,altOn=!!alt&&!sameNum(alt,tel)&&!sameNum(alt,direct),stdSame=!!c.telephone&&sameNum(tel,c.telephone);
+  const autres=telsIn(fi&&fi.qui_appeler).filter(t=>!sameNum(t,tel)&&!sameNum(t,direct)&&!(altOn&&sameNum(t,alt))).filter((t,i,l)=>l.findIndex(x=>sameNum(x,t))===i).slice(0,3);
   const nxt=inA?nextCall(callGroups(),c):null;
   const backTxt=inA?"Fermer la fiche":retView&&RET_L[retView]?RET_L[retView]:"";
   const back=backTxt?`<button class="btn" type="button" data-back="1">${backTxt}</button>`:`<button class="btn close" type="button" data-close="1">← Retour à la liste</button>`;
   const callbox=`<div class="callbox" data-r="${c.rang}">
       <div class="cb-nums">
       ${direct?`<div><span class="cb-l">Ligne directe notée</span><span class="contact">${telLink(direct,"btn-call")}${copyBtn(direct,"la ligne directe")}</span></div>`:""}
-      ${tel?`<div><span class="cb-l">${!c.telephone?"Standard noté par l'équipe":c.telephone_groupe?esc(grpTxt(c)):"Standard"}${c.telephone&&c.telephone_a_confirmer?" · numéro d'annuaire, à confirmer à l'appel":c.telephone&&c.telephone_verifie&&sameNum(tel,c.telephone)?" · confirmé par deux sources":""}</span><span class="contact">${telLink(tel,direct?"":"btn-call")}${copyBtn(tel,"le numéro")}</span>${peersHTML(c)}${c.telephone_doute&&sameNum(tel,c.telephone)?`<span class="peers"><b class="late">Attention :</b> ce numéro est aussi publié pour un autre titulaire. Vérifier le nom en décrochant.</span>`:""}</div>`:direct?"":findHTML(c,ro)}
-      ${c.telephone_alternatif&&!sameNum(c.telephone_alternatif.tel,tel)?`<div class="cb-row small"><span class="muted">Autre numéro publié${c.telephone_alternatif.date?" (relevé le "+esc(c.telephone_alternatif.date)+")":""} :</span><span class="contact">${telLink(c.telephone_alternatif.tel)}${copyBtn(c.telephone_alternatif.tel)}</span>${linkOut(c.telephone_alternatif.source,"source")}</div>`:""}
+      ${tel?`<div><span class="cb-l">${!c.telephone?"Standard noté par l'équipe":c.telephone_groupe?esc(grpTxt(c)):"Standard"}${stdSame&&fauxStd(c)?" · signalé faux numéro le "+esc(fmtStamp(callsOf(c).lastT)):c.telephone&&c.telephone_a_confirmer?" · numéro d'annuaire, à confirmer à l'appel":stdSame&&c.telephone_verifie&&!c.telephone_doute?" · confirmé par deux sources":""}</span><span class="contact">${telLink(tel,direct?"":"btn-call")}${copyBtn(tel,"le numéro")}</span>${peersHTML(c)}${c.telephone_doute&&stdSame?`<span class="peers"><b class="late">Attention :</b> ce numéro est aussi publié pour un autre titulaire. Vérifier le nom en décrochant. ${(c.telephone_doute.sources||[]).map(u=>linkOut(u,"source")).join(" ")}</span>`:""}</div>`:direct?"":findHTML(c,ro)}
+      ${altOn?`<div class="cb-row small"><span class="muted">Autre numéro publié${c.telephone_alternatif.date?" (relevé le "+esc(c.telephone_alternatif.date)+")":""} :</span><span class="contact">${telLink(c.telephone_alternatif.tel)}${copyBtn(c.telephone_alternatif.tel)}</span>${linkOut(c.telephone_alternatif.source,"source")}</div>`:""}
       ${autres.length?`<div class="cb-row small"><span class="muted">Autres numéros cités :</span>${autres.map(t=>`<span class="contact">${telLink(t)}${copyBtn(t)}</span>`).join("")}</div>`:""}
       </div>
       ${c.declencheur?`<div class="cb-row small"><span class="muted">Pourquoi appeler maintenant :</span> <span>${esc(c.declencheur)}</span></div>`:""}
@@ -1865,7 +1881,7 @@ function renderDetail(force){
   const caT=a.ca!=null?a.ca:c.ca,resT=a.resultat!=null?a.resultat:c.resultat;
   const difClass=!c.ca_non_publie&&c.ca!=null&&(c.ca!==caT||c.resultat!==resT);
   box.innerHTML=`
-  <div class="dbar">${backTxt?`<button class="btn" type="button" data-back="1" aria-label="${esc(backTxt.replace("← ",""))}">←</button>`:`<button class="btn" type="button" data-close="1" aria-label="Retour à la liste">←</button>`}<span class="dn">${esc(nm)}</span>${tel&&!op?telLink(tel,"dcall"):""}</div>
+  <div class="dbar">${backTxt?`<button class="btn" type="button" data-back="1" aria-label="${esc(backTxt.replace("← ",""))}">←</button>`:`<button class="btn" type="button" data-close="1" aria-label="Retour à la liste">←</button>`}<span class="dn">${esc(nm)}</span>${tel&&!op?telLink(tel,"dcall").replace("<a ",stdWarn(c)&&sameNum(tel,c.telephone)?`<a title="${esc(stdLabel(c))}" aria-label="Appeler (${esc(stdLabel(c))})" `:"<a "):""}</div>
   <div class="d-head">
     ${back}
     <span class="wchip">${vg?`Vague ${vg.k} · ${vg.t}`:"Hors vagues"}</span>
@@ -1956,7 +1972,7 @@ function renderDetail(force){
       ${op&&c.telephone?line("Téléphone",`<span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>`):""}
       ${line("E-mail",c.email?copyable(c.email)+(c.email_a_confirmer?ACONF:"")+(c.email_source?" "+linkOut(c.email_source,"source"):""):"")}
       ${line("Site web",linkOut(c.site_web))}
-      ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise")+(c.effectif_linkedin?` <span class="muted">(${esc(c.effectif_linkedin)})</span>`:""):"")}
+      ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise")+(c.effectif_linkedin?` <span class="muted">(${esc(c.effectif_linkedin.effectif||"")})</span>`:""):"")}
     </dl>
     ${!c.telephone&&!c.email&&!c.site_web?`<span class="muted">${c.ext&&!c.enrichie&&!c.contacts_ok?"Coordonnées pas encore recherchées.":"Pas de coordonnées publiques trouvées."}</span>`:""}
     ${c.note_contacts?`<details class="mailer"><summary>Notes de la recherche de coordonnées</summary><p class="txt muted" style="margin-top:8px;font-size:13.5px">${esc(c.note_contacts)}</p></details>`:""}
@@ -2429,8 +2445,8 @@ $("#cExport").addEventListener("click",()=>{
 });
 $("#fExport").addEventListener("click",()=>{
   const list=filtered();
-  const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","telephone_e164","standard_note_equipe","email","site_web","dirigeants","interlocuteurs_finance_rh_admin","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appels","dernier_resultat","dernier_appel","notes","refus_prospection_date","refus_canal","historique","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","lieu_decision","argument_appel","comment_appeler","vigilance","raison_priorite","a_confirmer","opposition_pappers","adresse","code_postal","completude","fiabilite_standard","autre_numero_publie","comptes_lies","pourquoi_maintenant","actualites_recentes"];
-  const rows=list.map(c=>{const s=S(c),cf=c.contact_finance||{},cd=c.contact_dirigeant||{},a=c.art||{},fi=c.fiche||{},cl=callsOf(c);return [c.rang,c.nom,c.nom_commercial||"",c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,RAW(e164(c.telephone)),telIn(s.tel_trouve),c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+(d.fonction?" ("+d.fonction+")":"")).join(" / "),adminTxt(c),SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,cl.n,RLABEL[cl.last]||"",cl.lastT?fmtStamp(cl.lastT):"",s.notes,...oppD(c),histTxt(c),cd.nom,cd.fonction,cd.tel_direct,cd.email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,fi.angle_art,fi.qui_appeler,(fi.vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":c.opposition_prospection===false?"non":"non vérifiée",c.adresse,c.code_postal,c.completude,((c.fiab||{}).standard||[])[1]||"",(c.telephone_alternatif||{}).tel||"",(c.comptes_lies||[]).filter(x=>byId[x.rang]).map(x=>nameOf(byId[x.rang])).join(" / "),c.declencheur||"",(c.actualites||[]).map(x=>x.date+" : "+x.fait).join(" | ")]});
+  const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","telephone_e164","standard_note_equipe","email","site_web","dirigeants","interlocuteurs_finance_rh_admin","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appels","dernier_resultat","dernier_appel","notes","refus_prospection_date","refus_canal","historique","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","lieu_decision","argument_appel","comment_appeler","vigilance","raison_priorite","a_confirmer","opposition_pappers","adresse","code_postal","completude","fiabilite_standard","fiabilite_standard_source","autre_numero_publie","autre_numero_source","email_source","comptes_lies","pourquoi_maintenant","actualites_recentes"];
+  const rows=list.map(c=>{const s=S(c),cf=c.contact_finance||{},cd=c.contact_dirigeant||{},a=c.art||{},fi=c.fiche||{},cl=callsOf(c);return [c.rang,c.nom,c.nom_commercial||"",c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,RAW(e164(c.telephone)),telIn(s.tel_trouve),c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+(d.fonction?" ("+d.fonction+")":"")).join(" / "),adminTxt(c),SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,cl.n,RLABEL[cl.last]||"",cl.lastT?fmtStamp(cl.lastT):"",s.notes,...oppD(c),histTxt(c),cd.nom,cd.fonction,cd.tel_direct,cd.email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,fi.angle_art,fi.qui_appeler,(fi.vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":c.opposition_prospection===false?"non":"non vérifiée",c.adresse,c.code_postal,compl(c),(fiabRows(c).standard||[])[0]||"",(fiabRows(c).standard||[]).slice(1).filter(Boolean).join(" · "),(c.telephone_alternatif||{}).tel||"",(c.telephone_alternatif||{}).source||"",c.email_source||"",(c.comptes_lies||[]).filter(x=>byId[x.rang]).map(x=>nameOf(byId[x.rang])+" ("+x.lien+(ensemble(byId[x.rang])?"":", à ne pas évoquer")+")").join(" / "),c.declencheur||"",(c.actualites||[]).map(x=>x.date+" : "+x.fait+" ("+x.source+")").join(" | ")]});
   saveFile(list.length===allCompanies.length?"crm-entreprises-nievre.csv":`crm-entreprises-nievre-${list.length}.csv`,csvOf(cols,rows));
 });
 $("#exportIcs").addEventListener("click",()=>{
