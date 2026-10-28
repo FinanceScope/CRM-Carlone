@@ -1,0 +1,75 @@
+[
+ {
+  "rang": 427,
+  "siren": "887715563",
+  "nom": "LRV LE RELAIS VAUBAN",
+  "ville": "Saint-Didier",
+  "activite": "Restauration",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 170,
+  "siren": "512311390",
+  "nom": "SALERNO CONSTRUCTION",
+  "ville": "Sermoise-sur-Loire",
+  "adresse": "ZONE INDUSTRIELLE DES TRAPPES",
+  "activite": "Construction de bâtiments",
+  "effectif": "0 salarié (donnée 2026)"
+ },
+ {
+  "rang": 208,
+  "siren": "801649526",
+  "nom": "COSNE",
+  "nom_commercial": "Noz",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE HENRI DUNANT",
+  "activite": "Activités immobilières",
+  "effectif": "0 salarié"
+ },
+ {
+  "rang": 211,
+  "siren": "844706655",
+  "nom": "PARC +",
+  "ville": "Clamecy",
+  "adresse": "ALL CLEMENT ADER",
+  "activite": "Activités de location et location-bail",
+  "effectif": "0 salarié"
+ },
+ {
+  "rang": 266,
+  "siren": "920839941",
+  "nom": "S.S.P. SERVICE SPORT PROMOTION",
+  "ville": "Decize",
+  "adresse": "113 AVENUE DE VERDUN",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "0 salarié",
+  "site_web": "https://ssp-vehicules.com/"
+ },
+ {
+  "rang": 276,
+  "siren": "824094163",
+  "nom": "CHALEUR DE COSNE COURS SUR LOIRE - C3L",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ROUTE DEPARTEMENTALE 138 RUE DU COLONEL RABIER",
+  "activite": "Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné",
+  "effectif": "0 salarié"
+ },
+ {
+  "rang": 291,
+  "siren": "920006046",
+  "nom": "AXENCE",
+  "ville": "Saint-Aubin-des-Chaumes",
+  "adresse": "2 CHEMIN DE LA GARDE",
+  "activite": "Activités immobilières",
+  "effectif": "0 salarié"
+ },
+ {
+  "rang": 296,
+  "siren": "378800726",
+  "nom": "SOCOFIG SOCIETE COMMERCIALE ET FINANCIERE DES INDUSTRIES GRAPHIQUES",
+  "ville": "Clamecy",
+  "adresse": "ALLEE LOUIS BLERIOT",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "effectif": "0 salarié"
+ }
+]

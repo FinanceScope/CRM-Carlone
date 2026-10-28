@@ -1,0 +1,80 @@
+[
+ {
+  "rang": 188,
+  "siren": "530717867",
+  "nom": "L'AGRICOLE",
+  "ville": "Nevers",
+  "adresse": "10 PLACE CARNOT",
+  "activite": "Restauration",
+  "effectif": "20-49 salariés",
+  "site_web": "https://brasserie-lagricole.fr"
+ },
+ {
+  "rang": 193,
+  "siren": "538548199",
+  "nom": "EVRARD & FILS",
+  "ville": "Château-Chinon (Ville)",
+  "adresse": "1 T RUE DIDEROT",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "http://www.evrard-chauffage.com"
+ },
+ {
+  "rang": 201,
+  "siren": "440852895",
+  "nom": "SARL CHOROBATE",
+  "ville": "Luzy",
+  "adresse": "51 ROUTE DE TOULON-SUR-ARROUX",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://chorobate.com/"
+ },
+ {
+  "rang": 204,
+  "siren": "753212240",
+  "nom": "F.M BOURGUIGNON",
+  "ville": "Coulanges-lès-Nevers",
+  "adresse": "74 AVENUE DU 8 MAI 1945",
+  "activite": "Industries alimentaires",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 212,
+  "siren": "321675712",
+  "nom": "S.I.C.A.F.O.M.E. STE COOPERATIVE D'INTERET COLLECTIF AGRICOLE ANONYME DE LA FOIRE ORGANISEE DES MARCHES DE MOULINS-ENGILBERT",
+  "ville": "Moulins-Engilbert",
+  "adresse": "29 ROUTE DE CHATILLON",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.sicafome.fr/",
+  "email": "cadran@sicafome.fr"
+ },
+ {
+  "rang": 213,
+  "siren": "333749216",
+  "nom": "N.T.B. NOUVELLES TECHNIQUES DU BATIMENT",
+  "ville": "Urzy",
+  "adresse": "47 RUE DE L'USINE",
+  "activite": "Construction de bâtiments",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 230,
+  "siren": "803113612",
+  "nom": "TAXI CAROLA",
+  "ville": "Nevers",
+  "adresse": "20 RUE DES SABLONS",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 254,
+  "siren": "820232791",
+  "nom": "ADAPEI 58 SAS",
+  "ville": "Urzy",
+  "adresse": "120 ROUTE DE BEAUREGARD",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.adapei58.org/"
+ }
+]

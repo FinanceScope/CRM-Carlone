@@ -1,0 +1,81 @@
+[
+ {
+  "rang": 191,
+  "siren": "491904207",
+  "nom": "ASSISTANCE DEMENAGEMENT",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "39 RUE DE VERDUN",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "10-19 salariés",
+  "site_web": "https://gentlemen-demenagement-andre.com/"
+ },
+ {
+  "rang": 196,
+  "siren": "379781610",
+  "nom": "DENIS ET FILS",
+  "ville": "Guérigny",
+  "adresse": "ZI DE VILLEMENANT",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.menuiserie-denis-58.fr/"
+ },
+ {
+  "rang": 197,
+  "siren": "538153586",
+  "nom": "TERRINES DU MORVAN",
+  "ville": "Onlay",
+  "adresse": "RTE DU MONT BEUVRAY",
+  "activite": "Industries alimentaires",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 198,
+  "siren": "979433992",
+  "nom": "DLS DISTRIBUTION",
+  "nom_commercial": "Carrefour Contact",
+  "ville": "Fourchambault",
+  "adresse": "12 RUE GAMBETTA",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.carrefour.fr"
+ },
+ {
+  "rang": 199,
+  "siren": "541880043",
+  "nom": "MANGEON SOC",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "24 BOULEVARD CAMILLE DAGONNEAU",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "site_web": "http://www.entreprise-mangeon.fr/"
+ },
+ {
+  "rang": 207,
+  "siren": "414839274",
+  "nom": "POBI INDUSTRIE",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "LA VALLEE PIQUET",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.pobi.fr/"
+ },
+ {
+  "rang": 210,
+  "siren": "450023338",
+  "nom": "FINANCIERE BONGARD",
+  "ville": "Challuy",
+  "adresse": "183 ROUTE DE LYON",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 214,
+  "siren": "438536393",
+  "nom": "JULIEN CATEL",
+  "ville": "Sichamps",
+  "adresse": "15 ROUTE DE NEVERS",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.catel-couverture.fr/"
+ }
+]

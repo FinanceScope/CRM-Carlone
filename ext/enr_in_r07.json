@@ -1,0 +1,102 @@
+[
+ {
+  "rang": 83,
+  "siren": "398711283",
+  "nom": "TECHNIC'ELEC 58",
+  "nom_commercial": "Technic Elec 58",
+  "nom_court": "Technic'Elec 58 (Nevers)",
+  "ville": "Nevers",
+  "adresse": "31 Boulevard du Pré Plantin, 58000 Nevers",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49",
+  "groupe": "Holding Technic'Elec 58 (créée en 2023) ; adhérent du groupement GESEC",
+  "email": "technic.e.58@wanadoo.fr",
+  "linkedin": "https://www.linkedin.com/company/technic-elec-58",
+  "description": "Entreprise d'installation électrique (électricité générale, courants faibles) basée à Nevers, intervenant pour particuliers, entreprises et marchés publics. Certifiée RGE (Qualifelec, QualiPV) pour la pose de panneaux photovoltaïques.",
+  "actualite": "CA 2025 de 9,02 M€ (+10,9 %) ; marché public notifié en septembre 2026 (lot électricité pour le CCAS de Nevers)."
+ },
+ {
+  "rang": 101,
+  "siren": "950499673",
+  "nom": "SALDIA",
+  "nom_commercial": "Intermarché",
+  "nom_court": "Intermarché Super Guérigny",
+  "ville": "Guérigny",
+  "adresse": "RUE DE LANESSAN",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 116,
+  "siren": "350408183",
+  "nom": "TPI TRAVAUX PUBLICS ET INDUSTRIELS",
+  "nom_court": "TPI Location (Varennes-Vauzelles)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZI DES CHAMONDS RUE THOMAS EDISON",
+  "activite": "Activités de location et location-bail",
+  "effectif": "20-49 salariés",
+  "site_web": "https://tpilocation.fr/",
+  "email": "contact@tpilocation.fr"
+ },
+ {
+  "rang": 120,
+  "siren": "354045205",
+  "nom": "A.E. PRODUCTION ALAIN ELINAS PRODUCTION",
+  "nom_court": "AE Production (Pougues-les-Eaux)",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "1298 AVENUE DE PARIS",
+  "activite": "Fabrication de meubles",
+  "effectif": "20-49 salariés",
+  "site_web": "https://aelinasprod.fr",
+  "email": "contact@aelinasprod.fr"
+ },
+ {
+  "rang": 126,
+  "siren": "393717863",
+  "nom": "LES ETABLISSEMENTS HUGUET",
+  "nom_court": "Paysagiste Huguet, Saint-Honoré-les-Bains",
+  "ville": "Saint-Honoré-les-Bains",
+  "adresse": "24 RUE DU CHEMIN FERRE",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "effectif": "20-49 salariés",
+  "site_web": "http://www.paysagiste-huguet.com",
+  "email": "etablissement.huguet@gmail.com"
+ },
+ {
+  "rang": 128,
+  "siren": "311665913",
+  "nom": "ENTREPRISE BERNARD POTIER ANCIENNE ENTREPRISE RENE PERROT",
+  "nom_court": "Entreprise Bernard Potier, Nevers",
+  "ville": "Nevers",
+  "adresse": "101 FAUBOURG DE LA BARATTE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "email": "sarl.bernard.potier@wanadoo.fr"
+ },
+ {
+  "rang": 86,
+  "siren": "420237398",
+  "nom": "DAJAZY",
+  "nom_commercial": "Intermarché Contact (Saint-Benin-d'Azy)",
+  "nom_court": "Intermarché Contact Saint-Benin-d'Azy",
+  "ville": "Saint-Benin-d'Azy",
+  "adresse": "ZAC de la Badelle, 58270 Saint-Benin-d'Azy",
+  "activite": "Commerce de détail",
+  "effectif": "10-19",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "site_web": "https://www.intermarche.com/magasins/50264/saint-benin-d'azy-58270/infos-pratiques",
+  "description": "Société d'exploitation du supermarché Intermarché Contact de Saint-Benin-d'Azy, avec drive et station-service. Magasin indépendant du Groupement Les Mousquetaires."
+ },
+ {
+  "rang": 130,
+  "siren": "792570335",
+  "nom": "CORIMAR",
+  "nom_commercial": "Intermarché",
+  "nom_court": "Intermarché Contact Magny-Cours",
+  "ville": "Magny-Cours",
+  "adresse": "LD DU PRE AUX SAINTS RUE DE PARIS",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.intermarche.com/magasins/07038/magny-cours-58470/infos-pratiques"
+ }
+]

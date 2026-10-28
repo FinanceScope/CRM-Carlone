@@ -1,0 +1,82 @@
+[
+ {
+  "rang": 287,
+  "siren": "749853057",
+  "nom": "VILLEMIN ETIENNE",
+  "nom_commercial": "Optique Poulain",
+  "ville": "Clamecy",
+  "adresse": "6/8 RUE MARIE DAVY",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.optique-poulain.fr/",
+  "email": "optique.poulain@orange.fr"
+ },
+ {
+  "rang": 289,
+  "siren": "533201596",
+  "nom": "EVERTZ FRANCE CENTRE",
+  "ville": "Billy-Chevannes",
+  "adresse": "CROIX DE CRIENS",
+  "activite": "Métallurgie",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.evertz-group.com/",
+  "email": "info@evertz-group.com"
+ },
+ {
+  "rang": 290,
+  "siren": "329950604",
+  "nom": "FAVRAC",
+  "ville": "Urzy",
+  "adresse": "465 ROUTE DU GREUX",
+  "activite": "Fabrication de machines et équipements n.c.a.",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 292,
+  "siren": "824070981",
+  "nom": "MAVAL",
+  "ville": "Saint-Éloi",
+  "adresse": "40 ROUTE DE BOURGOGNE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 294,
+  "siren": "378124291",
+  "nom": "SOCIETE MICHOT",
+  "ville": "Garchizy",
+  "adresse": "RUE DURAND",
+  "activite": "Réparation et installation de machines et d'équipements",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 295,
+  "siren": "448807214",
+  "nom": "CENTRE DU GUE DE FRISE",
+  "ville": "Arquian",
+  "adresse": "LD LE GUE DE FRISE",
+  "activite": "Enseignement",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.guedefrise.com"
+ },
+ {
+  "rang": 301,
+  "siren": "348765199",
+  "nom": "DE SOUZA FILS",
+  "ville": "Corbigny",
+  "adresse": "62 AVENUE SAINT-JEAN",
+  "activite": "Autres services personnels",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 308,
+  "siren": "950499582",
+  "nom": "SOCIETE MAILLOT DISTRIBUTION",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "4 RUE JOSEPH MARIE JACQUARD",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "http://maillot-distribution.fr/",
+  "email": "contact@maillot-distribution.fr"
+ }
+]

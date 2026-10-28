@@ -1,0 +1,80 @@
+[
+ {
+  "rang": 215,
+  "siren": "428920243",
+  "nom": "HOTEL LOIRE",
+  "nom_commercial": "Mercure Nevers Pont de Loire",
+  "ville": "Nevers",
+  "adresse": "QUAI DE MEDINE",
+  "activite": "Hébergement",
+  "effectif": "10-19 salariés",
+  "site_web": "https://all.accor.com/hotel/3480/index.en.shtml"
+ },
+ {
+  "rang": 216,
+  "siren": "799194881",
+  "nom": "AKBAYIN MURAT",
+  "ville": "Marzy",
+  "adresse": "A RUE AUX CHEVAUX",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.maconnerie-akbayin.fr/"
+ },
+ {
+  "rang": 217,
+  "siren": "309516318",
+  "nom": "GARAGE SAINT LOUIS",
+  "ville": "Fourchambault",
+  "adresse": "6 RUE SAINT ELOI",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 219,
+  "siren": "950379529",
+  "nom": "SARL LARTEAU",
+  "ville": "Luzy",
+  "adresse": "5 AVENUE DU DOCTEUR DOLLET",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 221,
+  "siren": "437845100",
+  "nom": "CPL CHARLOIS PREMIUM LOGISTIQUE",
+  "ville": "Clamecy",
+  "adresse": "ZI ALL CLEMENT ADER",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 224,
+  "siren": "495025884",
+  "nom": "CILOC",
+  "nom_commercial": "Omnimat",
+  "ville": "Saint-Éloi",
+  "adresse": "ROUTE DE BOURGOGNE",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.omnimat-jcb.com/"
+ },
+ {
+  "rang": 227,
+  "siren": "484652227",
+  "nom": "TRAVAUX PUBLICS DES AMOGNES (T.P.A.)",
+  "ville": "Saint-Benin-d'Azy",
+  "adresse": "PARC D'ACTIVITES DES AMOGNES, 1 RUE FRANCOIS ARCHER",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.travaux-publics-des-amognes.fr/"
+ },
+ {
+  "rang": 228,
+  "siren": "433728326",
+  "nom": "SARL DU HAUT MORVAN",
+  "ville": "Montsauche-les-Settons",
+  "adresse": "RTE DE PLANCHEZ",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés"
+ }
+]

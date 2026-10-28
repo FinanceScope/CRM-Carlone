@@ -1,0 +1,25 @@
+Context. Business partners based in Cosne-Cours-sur-Loire (Nièvre, France) phone companies of the Nièvre to offer them original artworks. Each company in this file has a switchboard number that rests on a single source (one directory, or an old page): the callers lose time on wrong numbers. Your job is CRM enrichment by cross-checking: for each record, look for a SECOND, INDEPENDENT source for the number already noted, and report a different number only if a reliable source publishes it.
+
+Input: <racine du dépôt>/ext/{INFILE} — an array of company records: legal and trading name, town, registry address, activity, "telephone" (the number to check), "sources" and "note_contacts" (where the number came from: read them, so that you do not count the same page twice).
+
+Method (WebSearch only: load it with ToolSearch; WebFetch and curl are blocked). At most 2 searches per company and at most {BUDGET} for the whole file; most companies need only one.
+1. Search the exact number in quotes, written with spaces as in the file (for example "03 86 71 62 08"). The result summaries show which businesses publish it.
+2. Only if the first search shows nothing useful: "<trading or legal name> <town> téléphone" (or the network's store page, e.g. "Intermarché <town>").
+
+Verdict for each company:
+- "confirme": the number appears with this business's name, trading name, shop sign or registry address on a source DIFFERENT from the ones already listed in "sources" / "note_contacts". It counts if it is the business's own site, its network's store page, its own social page, a town hall / tourism / trade association page, or a second directory of another family (Pages Jaunes and its copies such as 118712, Mappy or annuaire-pagesjaunes count as ONE family; Kompass, Societe.com, Cylex, Justacoté, Hoodspot, Infobel, Waze, Google listings each count as another).
+- "conflit": a source that is the business's own page or network page, or any listing dated 2024 or later, gives a DIFFERENT number for this business: report it in "autre_numero" with its source. Do not discard the old number.
+- "autre_titulaire": a source shows that the number belongs to ANOTHER business or person (positive evidence: other name AND other address). Say whose.
+- "non_retrouve": nothing conclusive.
+Never take a number from a page that does not name this business; never a private mobile unless the business publishes it as its contact.
+
+Output: write valid JSON (UTF-8, indent 1) to <racine du dépôt>/ext/{OUTFILE}: an array, one object per input record, in input order:
+{"siren": "...", "telephone": "the number checked, as in the input",
+ "verdict": "confirme" | "conflit" | "autre_titulaire" | "non_retrouve",
+ "sources": ["url", ...] (the new pages that show the number with this business; empty for non_retrouve),
+ "autre_numero": "0X XX XX XX XX" or null, "autre_source": "url" or null,
+ "note": one French sentence starting with "Vérification du standard (28/10/2026) : " — what was found, on which kind of source,
+ "recherches": number of searches used}
+No other keys. Then check the file with:
+python3 -I -c "import json,re,sys; d=json.load(open(sys.argv[1])); i=json.load(open(sys.argv[2])); assert [x['siren'] for x in d]==[x['siren'] for x in i]; V={'confirme','conflit','autre_titulaire','non_retrouve'}; [print(x['siren'],'clés') for x in d if set(x)!={'siren','telephone','verdict','sources','autre_numero','autre_source','note','recherches'}]; [print(x['siren'],'verdict') for x in d if x['verdict'] not in V]; [print(x['siren'],'tel') for x,y in zip(d,i) if x['telephone']!=y['telephone']]; [print(x['siren'],'sources') for x in d if x['verdict'] in ('confirme',) and not x['sources']]; [print(x['siren'],'autre') for x in d if x['verdict']=='conflit' and not (x['autre_numero'] and re.fullmatch(r'0\d( \d\d){4}', x['autre_numero']) and x['autre_source'])]; [print(x['siren'],'note') for x in d if not str(x.get('note','')).startswith('Vérification du standard')]; from collections import Counter; print(len(d),'fiches,', dict(Counter(x['verdict'] for x in d)), sum(x.get('recherches',0) for x in d),'recherches')" <output path> <input path>
+and fix every line it prints. Do not modify any other file.

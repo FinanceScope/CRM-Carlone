@@ -1,0 +1,87 @@
+[
+ {
+  "rang": 439,
+  "siren": "852030253",
+  "nom": "DL INTERNATIONAL",
+  "nom_commercial": "David Lange",
+  "ville": "Varzy",
+  "adresse": "2 ROUTE DE CORVOL",
+  "activite": "Fabrication de meubles",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.davidlange.com/",
+  "email": "contact@davidlange.fr"
+ },
+ {
+  "rang": 440,
+  "siren": "753975994",
+  "nom": "SARL MTMS",
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "18 RUE DU PERE CASTOR",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.transports-mtms.fr/",
+  "email": "mtms@transports-mtms.fr"
+ },
+ {
+  "rang": 441,
+  "siren": "914452230",
+  "nom": "BGN",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "116 RUE HENRI BOUQUILLARD",
+  "activite": "Restauration",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.buffalo-grill.fr/nos-restaurants/nevers-varennes-vauzelles"
+ },
+ {
+  "rang": 442,
+  "siren": "497496430",
+  "nom": "FRANCOIS POUENAT",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "MODULE NO 3 20 RUE JOSEPH MARIE JACQUARD",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.atelierfrancoispouenat.com/",
+  "email": "contact@francoispouenat.com"
+ },
+ {
+  "rang": 443,
+  "siren": "731880258",
+  "nom": "GENEOL GENIE CLIMATIQUE",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "Z.A. DES CHAMONDS RUE EDOUARD BRANLY",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.geneol.fr/"
+ },
+ {
+  "rang": 444,
+  "siren": "323326512",
+  "nom": "INORE GROUPE IMPRESSION",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "PARC D'ACTIV DE VARENNES VAUZ GARCHIZY 4 RUE THOMAS EDISON",
+  "activite": "Imprimerie et reproduction d'enregistrements",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.imprimerie-normalisee.fr/",
+  "email": "contact@inoregroupe.fr"
+ },
+ {
+  "rang": 445,
+  "siren": "452446586",
+  "nom": "SAMICOLOR",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "6 RUE COLETTE",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.groupesertip.fr/en/samicolor-2/"
+ },
+ {
+  "rang": 446,
+  "siren": "306809716",
+  "nom": "SERTIP STE D'ETUDES ET DE REALISATIONS TECHNIQUES INDUSTRIELLES ET PUBLICITAIRES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "6 RUE COLETTE",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.groupesertip.fr/"
+ }
+]

@@ -1,0 +1,99 @@
+[
+ {
+  "rang": 74,
+  "siren": "453481244",
+  "nom": "SARL BOUILLET FRERES",
+  "nom_commercial": "Bouillet Frères",
+  "nom_court": "Bouillet Frères (Decize)",
+  "ville": "Decize",
+  "adresse": "ZA Les Champs Monarès, 58300 Decize",
+  "activite": "Commerce de gros",
+  "effectif": "10-19 (tranche INSEE la plus récente : 6-9)",
+  "site_web": "https://www.bouillet-acier.com",
+  "email": "sarlbouillet@orange.fr",
+  "description": "Négoce de produits métallurgiques et de matériaux, avec profilage de tôles, aménagements intérieurs de bâtiments, mécano-soudure et constructions métalliques. Entreprise familiale dirigée par trois frères.",
+  "actualite": "Transfert du siège à la ZA Les Champs Monarès à Decize (BODACC du 19/05/2026)."
+ },
+ {
+  "rang": 93,
+  "siren": "692007768",
+  "nom": "LITHOPRESS",
+  "nom_court": "Lithopress, Luzy (groupe Graphilys)",
+  "ville": "Luzy",
+  "adresse": "La Maladière, 58170 Luzy",
+  "activite": "Imprimerie",
+  "effectif": "10-19 (16 salariés en 2025)",
+  "groupe": "Graphilys",
+  "email": "commercial@graphilys.fr",
+  "description": "Imprimerie de labeur à Luzy, dans le sud du Morvan, dont l'objet déclaré est la commercialisation des fabrications de l'Imprimerie Blonde. Présidée par la société Graphilys depuis 2017.",
+  "actualite": "CA 2025 de 8,09 M€ (+5,6 %) et résultat net de 445 K€."
+ },
+ {
+  "rang": 106,
+  "siren": "909990079",
+  "nom": "APOCF",
+  "nom_commercial": "Carrefour Contact",
+  "ville": "Saint-Amand-en-Puisaye",
+  "adresse": "56 ROUTE DE COSNE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "groupe": "Enseigne Carrefour Contact (réseau Carrefour)",
+  "site_web": "https://www.carrefour.fr/magasin/contact-saint-amand-en-puisaye",
+  "description": "Supérette Carrefour Contact de Saint-Amand-en-Puisaye (56 route de Cosne), ouverte 7 jours sur 7 : alimentation de proximité, livraison à domicile, station-service 24h/24, laverie et gaz.",
+  "opposition_prospection": false
+ },
+ {
+  "rang": 108,
+  "siren": "431863752",
+  "nom": "NAUDET SAPINS DE NOEL",
+  "nom_court": "Naudet Sapins de Noël (Planchez)",
+  "ville": "Planchez",
+  "adresse": "LA GUTTELEAU PLANCHEZ EN MORVAN",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.pepinieres-naudet.com/",
+  "email": "contact@pepinieres-naudet.com"
+ },
+ {
+  "rang": 115,
+  "siren": "929918241",
+  "nom": "AQUACLAIRE",
+  "ville": "Nevers",
+  "adresse": "ZI SAINT 24 RUE GEORGES DUFAUD",
+  "activite": "Collecte et traitement des eaux usées",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 118,
+  "siren": "535209654",
+  "nom": "DAVEMARIS",
+  "nom_commercial": "Carrefour Contact",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "95 RUE ALFRED MASSE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 134,
+  "siren": "518047618",
+  "nom": "SARL ROCHES",
+  "nom_commercial": "Garage Didier Peinture",
+  "ville": "Bouhy",
+  "adresse": "13 RUE DE LA FORTERRE",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "10-19 salariés",
+  "groupe": "Réseau Renault (agent Renault et Dacia)",
+  "site_web": "https://www.garage-roches.fr/",
+  "description": "Garage familial fondé en 1994, agent Renault et Dacia : mécanique, carrosserie, pneumatiques, vente de véhicules neufs et d'occasion, dépannage. Deux ateliers en Puisaye : 13 rue de la Forterre à Bouhy (siège) et route de Saint-Sauveur à Saint-Amand-en-Puisaye.",
+  "opposition_prospection": false
+ },
+ {
+  "rang": 137,
+  "siren": "849265954",
+  "nom": "ETS MARCHAND",
+  "ville": "Gouloux",
+  "adresse": "METZ GARNIER",
+  "activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+  "effectif": "10-19 salariés"
+ }
+]

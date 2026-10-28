@@ -1,0 +1,78 @@
+[
+ {
+  "rang": 299,
+  "siren": "328899141",
+  "nom": "SOCIETE NEVERLEC",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "1 IMPASSE AMBROISE CROIZAT",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.neverlec.com/",
+  "email": "contact@neverlec.com"
+ },
+ {
+  "rang": 300,
+  "siren": "898704309",
+  "nom": "CERTUS BETON",
+  "ville": "La Machine",
+  "adresse": "LES FONTAINES DOUCES",
+  "activite": "Construction de bâtiments",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 305,
+  "siren": "445089469",
+  "nom": "PIERRE NATURELLE DE BOURGOGNE",
+  "ville": "Mesves-sur-Loire",
+  "adresse": "RN 7 ROUTE NATIONALE 7",
+  "activite": "Autres industries extractives",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 310,
+  "siren": "848323390",
+  "nom": "CABINET VETERINAIRE DU DOCTEUR AURELIA PRADEAU",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "138 RUE DE DONZY",
+  "activite": "Activités vétérinaires",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 313,
+  "siren": "527639934",
+  "nom": "E.T.",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "1 RUE ANDRE DESVIGNES",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 329,
+  "siren": "431756550",
+  "nom": "SARL S.E.F.C.O",
+  "nom_commercial": "Astrea",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "23-25 BOULEVARD CAMILLE DAGONNEAU",
+  "activite": "Hébergement",
+  "effectif": "6-9 salariés",
+  "email": "hotelastrea@orange.fr"
+ },
+ {
+  "rang": 340,
+  "siren": "802626952",
+  "nom": "SHPE SOCIETE HOTELIERE DE POUGUES LES EAUX",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "1315 AVENUE DE PARIS",
+  "activite": "Hébergement",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 341,
+  "siren": "384042107",
+  "nom": "C.G.R.",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "3 RUE SAINT-AGNAN",
+  "activite": "Restauration",
+  "effectif": "6-9 salariés"
+ }
+]

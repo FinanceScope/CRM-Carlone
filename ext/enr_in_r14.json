@@ -1,0 +1,88 @@
+[
+ {
+  "rang": 149,
+  "siren": "381215102",
+  "nom": "QUALIJURIS 58",
+  "ville": "Nevers",
+  "adresse": "2 AVENUE SAINT JUST",
+  "activite": "Activités juridiques",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 157,
+  "siren": "498917202",
+  "nom": "AMBULANCES TISSIER",
+  "ville": "Nevers",
+  "adresse": "119 RUE DE MARZY",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.ambulancestissier.com"
+ },
+ {
+  "rang": 161,
+  "siren": "528031750",
+  "nom": "V 2 RESTAURATION",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "88 BOULEVARD CAMILLE DAGONNEAU",
+  "activite": "Restauration",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.mcdonalds.fr/restaurants/mcdonalds-varennes-vauzelles/1282"
+ },
+ {
+  "rang": 165,
+  "siren": "305065658",
+  "nom": "ETABLISSEMENTS GAUBIER",
+  "nom_commercial": "Pompes Funèbres Gaubier",
+  "nom_court": "Pompes Funèbres Gaubier, Cosne",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "92 RUE SAINT-AGNAN",
+  "activite": "Autres services personnels",
+  "effectif": "20-49 salariés",
+  "groupe": "Infini Développement – Maison Dabrigeon (groupe funéraire de Beaumont, Puy-de-Dôme)",
+  "site_web": "https://www.pfgaubier.com",
+  "description": "Entreprise de pompes funèbres et de marbrerie funéraire active depuis 1975 (obsèques, crémation, contrats obsèques, monuments, entretien de cimetières) pour les familles et les collectivités. Siège et agence au 92 rue Saint-Agnan à Cosne, autres agences à Nevers (marbrerie Rasles), La Charité-sur-Loire et Sancergues (Doucet Campos).",
+  "actualite": "06/01/2026 : création d'un nouvel établissement funéraire au parc d'activités des Bertranges à La Charité-sur-Loire.",
+  "opposition_prospection": false
+ },
+ {
+  "rang": 169,
+  "siren": "489664300",
+  "nom": "MARC PESCAGLINI",
+  "ville": "Marzy",
+  "adresse": "ZA LES BELLES BARBES",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.pescaglini.com"
+ },
+ {
+  "rang": 173,
+  "siren": "804785566",
+  "nom": "LOLLIPOP",
+  "ville": "Decize",
+  "adresse": "83 AVENUE DU 14 JUILLET",
+  "activite": "Restauration",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 181,
+  "siren": "952050292",
+  "nom": "BKCSL",
+  "nom_commercial": "Burger King",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "132 AVENUE DU 85EME DE LIGNE",
+  "activite": "Restauration",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.burgerking.fr"
+ },
+ {
+  "rang": 185,
+  "siren": "309230084",
+  "nom": "LES CARS CHARLES",
+  "ville": "Dun-les-Places",
+  "adresse": "LE BOURG",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.lescarscharles.fr",
+  "email": "carscharles@orange.fr"
+ }
+]

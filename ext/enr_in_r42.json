@@ -1,0 +1,68 @@
+[
+ {
+  "rang": 399,
+  "siren": "517424685",
+  "nom": "YANN CLEMENT (LA TABATIERE)",
+  "ville": "Prémery",
+  "adresse": "88 GRANDE RUE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 401,
+  "siren": "884750811",
+  "nom": "MONTESPAN EVENTS",
+  "ville": "Entrains-sur-Nohain",
+  "activite": "Activités sportives, récréatives et de loisirs",
+  "effectif": "1-2 salariés",
+  "site_web": "https://www.domainedureveillon.com/"
+ },
+ {
+  "rang": 402,
+  "siren": "922361506",
+  "nom": "MAALONE",
+  "ville": "Bulcy",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 410,
+  "siren": "952823607",
+  "nom": "GAIA TR",
+  "ville": "Marzy",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 412,
+  "siren": "931083836",
+  "nom": "DELIVRER DES MOTS",
+  "ville": "Champvert",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 417,
+  "siren": "404439200",
+  "nom": "BOURGOGNE AUTOMECA",
+  "ville": "Armes",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 420,
+  "siren": "889275467",
+  "nom": "BATI HOMME 58",
+  "ville": "Varennes-Vauzelles",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 426,
+  "siren": "388006702",
+  "nom": "CALISTE",
+  "ville": "Montenoison",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "1-2 salariés"
+ }
+]

@@ -1,0 +1,124 @@
+[
+ {
+  "siren": "403027485",
+  "telephone": "03 86 23 00 22",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; numéro toujours repris de l'ancienne fiche sans seconde source, à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "412077745",
+  "telephone": "03 86 71 68 68",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; seule la page magasin Intermarché déjà citée reste en appui, numéro à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "397727397",
+  "telephone": "03 86 36 33 33",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; l'écart déjà relevé (fiche 118712 au 03 86 71 63 00, numéro de LOOK Cycle) n'est ni levé ni confirmé, numéro à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "404570160",
+  "telephone": "03 86 21 08 00",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; aucune source indépendante pour le standard du site de Magny-Cours, à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "631880192",
+  "telephone": "03 86 59 75 75",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; seule la fiche Santé en France déjà citée donne ce standard, à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "571880301",
+  "telephone": "03 86 71 45 00",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; standard toujours appuyé sur les annuaires déjà cités (Justacoté, Cylex), à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "315564443",
+  "telephone": "03 86 93 52 58",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; numéro toujours attribué à la Polyclinique du Val de Loire (ELSAN) d'après etablissementsdesante.fr seul, à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "408194686",
+  "telephone": "03 86 27 90 00",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; numéro toujours appuyé sur les seuls annuaires déjà cités, à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "879402949",
+  "telephone": "03 58 07 60 80",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; numéro toujours appuyé sur les seuls annuaires déjà cités (Hoodspot, Pages Jaunes), à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "482066487",
+  "telephone": "03 86 90 70 00",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; numéro toujours vu sur le seul agrégateur CB Insights, à valider au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "391484730",
+  "telephone": "03 86 50 44 21",
+  "verdict": "confirme",
+  "sources": [
+   "https://www.bonial.fr/Magasins/La-Machine/Intermarche-La-Machine-Route-de-Decize-Foret-des-Glenons-Intermarche-Super/v-f421312114"
+  ],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la fiche magasin Bonial « Intermarché Super La Machine » (Route de Decize, Forêt des Glénons, 58260 La Machine) publie le 03 86 50 44 21, ce qui confirme le numéro par une source non encore citée (la recherche du numéro exact n'avait rien donné, et Que Choisir situe un Intermarché Super au 15 rue Clémence Bonde, sans numéro, peut-être le futur magasin).",
+  "recherches": 2
+ },
+ {
+  "siren": "404816712",
+  "telephone": "03 86 90 96 10",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets n'a renvoyé aucune page le mentionnant (résultats sans rapport, hors de France pour la plupart) ; numéro toujours appuyé sur les annuaires déjà cités (PagesJaunes, Cylex, e-pro), à valider au premier appel.",
+  "recherches": 1
+ }
+]

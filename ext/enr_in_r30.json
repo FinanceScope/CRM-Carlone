@@ -1,0 +1,81 @@
+[
+ {
+  "rang": 267,
+  "siren": "403937048",
+  "nom": "ETS MARTIN SAS",
+  "ville": "Fourchambault",
+  "adresse": "25 RUE GAMBETTA",
+  "activite": "Autres services personnels",
+  "effectif": "6-9 salariés",
+  "site_web": "https://pompes-funebres-caton.fr/nos-agences/nievre/fourchambault/68-pompes-funebres-martin-fourchambault/"
+ },
+ {
+  "rang": 272,
+  "siren": "513172320",
+  "nom": "Dr KHALDI Lakhdar",
+  "ville": "Nevers",
+  "adresse": "15 RUE SAINT MARTIN",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 277,
+  "siren": "328559125",
+  "nom": "OPTIQUE PIANET",
+  "ville": "Nevers",
+  "adresse": "80-82 RUE DE NIEVRE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://opticien.optic2000.com/bourgogne-franche-comte/nievre/nevers/c00168-opticien-nevers-optic-2000-682"
+ },
+ {
+  "rang": 281,
+  "siren": "523433886",
+  "nom": "TRIANON",
+  "ville": "Corbigny",
+  "adresse": "ZONE D'ACTIVITE ROUTE DE SAINT-SAULGE",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.facebook.com/sarltrianoncarrosseriedumorvan/",
+  "email": "carrosseriedumorvan@gmail.com"
+ },
+ {
+  "rang": 286,
+  "siren": "453034787",
+  "nom": "EURL GARAGE DES COURLIS",
+  "ville": "Nevers",
+  "adresse": "40 RUE DE LA FOSSE AUX LOUPS",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.eurorepar.fr/garage-des-courlis-nevers-840.html"
+ },
+ {
+  "rang": 293,
+  "siren": "478129612",
+  "nom": "Supembouts",
+  "ville": "Nevers",
+  "adresse": "11 AVENUE PIERRE BEREGOVOY",
+  "activite": "Fabrication de produits informatiques, électroniques et optiques",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.supembouts.fr/"
+ },
+ {
+  "rang": 297,
+  "siren": "711880229",
+  "nom": "LIBAULT",
+  "ville": "Nevers",
+  "adresse": "28 RUE DE LA ROTONDE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 298,
+  "siren": "400110318",
+  "nom": "SARL GARAGE PERREAU",
+  "ville": "Clamecy",
+  "adresse": "LA GALETTE",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://concessions.peugeot.fr/clamecy/"
+ }
+]

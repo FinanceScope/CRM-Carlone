@@ -1,0 +1,80 @@
+[
+ {
+  "rang": 142,
+  "siren": "325414019",
+  "nom": "SOSEMAT",
+  "ville": "Neuvy-sur-Loire",
+  "adresse": "SABLIERES LES PELUS",
+  "activite": "Autres industries extractives",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 159,
+  "siren": "321816571",
+  "nom": "PHARMACIE COLBERT",
+  "ville": "Nevers",
+  "adresse": "37 B AVENUE COLBERT",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 160,
+  "siren": "479140758",
+  "nom": "ANSSEMS REMORQUES",
+  "ville": "Garchizy",
+  "adresse": "RUE PIERRE BROSSOLETTE",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.anssems.eu"
+ },
+ {
+  "rang": 162,
+  "siren": "393762919",
+  "nom": "LA BUSSIERE",
+  "ville": "Rix",
+  "adresse": "LA BUSSIERE",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 174,
+  "siren": "309916021",
+  "nom": "FRANCO ET FILS DISTRIBUTION",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "760 AVENUE DE PARIS",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.francofils.com"
+ },
+ {
+  "rang": 192,
+  "siren": "799045968",
+  "nom": "SOCIETE ELISEE",
+  "ville": "Nevers",
+  "adresse": "33 RUE DES GRANDS PRES",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "https://voshuiles.com"
+ },
+ {
+  "rang": 257,
+  "siren": "889322970",
+  "nom": "ESSIAN",
+  "ville": "Nevers",
+  "adresse": "8 RUE ANDRE LHOTE",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.cabinet-dentaire-des-ducs.fr/"
+ },
+ {
+  "rang": 262,
+  "siren": "883417917",
+  "nom": "SSN DISTRIB'",
+  "nom_commercial": "Carrefour City",
+  "ville": "Clamecy",
+  "adresse": "10 RUE MARIE DAVY",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.carrefour.fr/magasin/city-clamecy"
+ }
+]

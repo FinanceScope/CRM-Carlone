@@ -1,0 +1,82 @@
+[
+ {
+  "rang": 447,
+  "siren": "429628324",
+  "nom": "SOCIETE LOUIS CHARPENET",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "54 BOULEVARD CAMILLE DAGONNEAU",
+  "activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.charpenet1951.com/",
+  "email": "contact@sarl-charpenet.fr"
+ },
+ {
+  "rang": 448,
+  "siren": "581880382",
+  "nom": "STDC DUMAS ET COLINOT SOC",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "16 RUE GAY - LUSSAC",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.dumas-colinot.fr/"
+ },
+ {
+  "rang": 449,
+  "siren": "442587440",
+  "nom": "T.3.C",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZA LE CHAMP MALE 12 RUE GAY - LUSSAC",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 450,
+  "siren": "817976657",
+  "nom": "BKN",
+  "ville": "Marzy",
+  "adresse": "57 ROUTE DE NEVERS",
+  "activite": "Restauration",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 451,
+  "siren": "351142807",
+  "nom": "CEGEPLAST",
+  "ville": "Nevers",
+  "adresse": "130 RUE FRANCIS GARNIER",
+  "activite": "Industrie automobile",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.cegeplast.fr",
+  "email": "contact@cegeplast.com"
+ },
+ {
+  "rang": 452,
+  "siren": "325843050",
+  "nom": "PONGE MATERIEL AGRICOLE",
+  "ville": "Guipy",
+  "adresse": "12 RUE SAINT JACQUES DE COMPOSTELLE",
+  "activite": "Fabrication de machines et équipements n.c.a.",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.ponge.fr",
+  "email": "info@ponge.fr"
+ },
+ {
+  "rang": 453,
+  "siren": "691880389",
+  "nom": "SNDFT SOCIETE NIVERNAISE DE DEBARDAGE FORESTIER & DE TRANSPORTS",
+  "ville": "Saint-Benin-d'Azy",
+  "adresse": "LES VARENNES",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.sndt-transport-bois.fr/"
+ },
+ {
+  "rang": 454,
+  "siren": "493995484",
+  "nom": "DECIZE CARRELAGES",
+  "ville": "Decize",
+  "adresse": "176 AVENUE DE VERDUN",
+  "activite": "Fabrication d'autres produits minéraux non métalliques",
+  "effectif": "20-49 salariés"
+ }
+]

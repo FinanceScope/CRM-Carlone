@@ -1,0 +1,79 @@
+[
+ {
+  "rang": 309,
+  "siren": "316742527",
+  "nom": "TNP",
+  "ville": "Lormes",
+  "adresse": "BOUSSEGRE",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 311,
+  "siren": "531707545",
+  "nom": "CHEMINEES DELRAN",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "42 LES QUATRE CHEMINEES",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.cheminees-poeles-nevers.fr/"
+ },
+ {
+  "rang": 312,
+  "siren": "902897073",
+  "nom": "CLAIR PERE ET FILS",
+  "ville": "Avrée",
+  "adresse": "1 LE HAUT D'AVREE",
+  "activite": "Réparation et installation de machines et d'équipements",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 318,
+  "siren": "400874798",
+  "nom": "MECA-SOUD 58",
+  "ville": "Alligny-Cosne",
+  "adresse": "14 ROUTE DE DONZY",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.meca-soud-58.fr",
+  "email": "meca-soud-58@wanadoo.fr"
+ },
+ {
+  "rang": 321,
+  "siren": "521577031",
+  "nom": "AMISTAD DEVELOPPEMENT",
+  "ville": "Decize",
+  "adresse": "12 RUE DU MARQUIS D'ANCRE",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 323,
+  "siren": "507534758",
+  "nom": "GRIMARD PERE ET FILS",
+  "ville": "Nevers",
+  "adresse": "4 RUE AUGUSTE MAHAUT",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.menuiseries-grimard-nievre-lpa.fr/"
+ },
+ {
+  "rang": 324,
+  "siren": "379453640",
+  "nom": "ERCAEE (ETUDE ET REALISATION DE CABLAGE D'AUTOMATISMES ELECTRIQUES ET ELECTRONIQUES)",
+  "ville": "Saint-Léger-des-Vignes",
+  "adresse": "ZA LA CHAUME AUX SABLES",
+  "activite": "Fabrication d'équipements électriques",
+  "effectif": "3-5 salariés",
+  "site_web": "https://ercaee.com/"
+ },
+ {
+  "rang": 325,
+  "siren": "841590581",
+  "nom": "COURLIS MARKET",
+  "ville": "Nevers",
+  "adresse": "1 PLACE DU GRAND COURLIS",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés"
+ }
+]

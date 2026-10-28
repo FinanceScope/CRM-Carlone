@@ -1,0 +1,92 @@
+[
+ {
+  "rang": 304,
+  "siren": "900082157",
+  "nom": "LUCAS NEVERS CARNOT",
+  "ville": "Nevers",
+  "adresse": "1 RUE DU 14 JUILLET",
+  "activite": "Industries alimentaires",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 317,
+  "siren": "400163820",
+  "nom": "ENTREPRISE HOUSSIN ET FILS",
+  "ville": "Corbigny",
+  "adresse": "ZONE ARTISANALE, ROUTE DE SAINT-SAULGE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 320,
+  "siren": "835401936",
+  "nom": "SARL LAMOUREUX ET MAIZIERES",
+  "ville": "Luzy",
+  "adresse": "RUE DE PONT",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 322,
+  "siren": "823687033",
+  "nom": "FREDERIC BOURGEOIS BOULANGERIE PATISSERIE",
+  "nom_commercial": "Boulangerie Bourgeois",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "28 BOULEVARD DE LA REPUBLIQUE",
+  "activite": "Industries alimentaires",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.boulangerie-bourgeois.fr/",
+  "description": "Boulangerie-pâtisserie artisanale tenue par Frédéric et Marion Bourgeois au 28 boulevard de la République à Cosne-Cours-sur-Loire : pains traditionnels à fermentation longue, viennoiseries, pâtisseries, snacking salé et pièces montées sur commande. Seconde boutique « La P'tite Boulang' d'Alligny » à Alligny-Cosne depuis janvier 2026.",
+  "actualite": "Janvier 2026 : ouverture d'une seconde boutique, « La P'tite Boulang' d'Alligny », 22 route de Cosne à Alligny-Cosne (création inscrite au registre le 16/01/2026).",
+  "opposition_prospection": false
+ },
+ {
+  "rang": 345,
+  "siren": "320926249",
+  "nom": "ETABLISSEMENTS BILLEBAULT",
+  "ville": "La Celle-sur-Loire",
+  "adresse": "1 RUE JOLIN",
+  "activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.moulurebillebault.fr/",
+  "description": "Fabrication de moulures pour encadrement et travail du bois en général, dans son atelier du 1 rue Jolin à La Celle-sur-Loire (11 km de Cosne). PME de 10 à 19 salariés.",
+  "actualite": "01/02/2025 : nouvelle direction, la société INIGO (holding de Biarritz présidée par François-Régis de Reboul) devenant présidente après le départ de la gérante Brigitte Le Sellier de Chezelles fin 2024, avec transformation en SAS (BODACC du 08/04/2025).",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 366,
+  "siren": "892315128",
+  "nom": "TÝR Sécurité",
+  "nom_court": "TÝR Sécurité (Raveau)",
+  "ville": "Raveau",
+  "adresse": "5 ROUTE DES BERTRANGES",
+  "activite": "Enquêtes et sécurité",
+  "effectif": "10-19 salariés",
+  "description": "Entreprise de sécurité privée (surveillance humaine et électronique, gardiennage, sécurité des personnes, prévention et sécurité incendie) au service des particuliers, entreprises et collectivités. Siège au 5 route des Bertranges à Raveau, près de La Charité-sur-Loire ; son gérant a aussi créé en 2023 TÝR Sécurité Renforcée.",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 383,
+  "siren": "814733986",
+  "nom": "FORET ENVIRONNEMENT (FORET ENVIRONNEMENT)",
+  "ville": "Nevers",
+  "adresse": "1 PETITE RUE DU RIVAGE",
+  "activite": "Sylviculture et exploitation forestière",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 69,
+  "siren": "753221092",
+  "nom": "SUMA MOTORS",
+  "nom_commercial": "Hyundai Nevers – Groupe Suma",
+  "nom_court": "Hyundai Nevers (groupe Suma)",
+  "ville": "Nevers",
+  "adresse": "33 boulevard du Grand Pré des Bordes, 58000 Nevers",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "6-9",
+  "groupe": "Groupe Suma (Suma Invest, dirigé par Richard Vivès)",
+  "linkedin": "https://www.linkedin.com/company/suma-auto",
+  "description": "Concession automobile du groupe Suma (Richard Vivès), qui distribue notamment Hyundai à Nevers ainsi que Volkswagen, Audi et Honda dans la Nièvre, la Saône-et-Loire, le Rhône et l'Allier. Établissements à Nevers, Montceau-les-Mines, Chalon-sur-Saône et Saint-Rémy-en-Rollat.",
+  "actualite": "Rachat d'un fonds à Zenith Motors fin 2024 et ouverture d'établissements à Montceau, Chalon (2024) et Saint-Rémy-en-Rollat (fin 2025) ; CA 2024 en hausse de 83 %."
+ }
+]

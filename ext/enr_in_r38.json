@@ -1,0 +1,81 @@
+[
+ {
+  "rang": 391,
+  "siren": "918444506",
+  "nom": "L'ALISHA",
+  "nom_commercial": "LE KASHMIR",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "74 BOULEVARD CAMILLE DAGONNEAU",
+  "activite": "Restauration",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 392,
+  "siren": "853573731",
+  "nom": "H2MOTRONICS (H2MOTRONICS ADVANCED RESEARCH)",
+  "ville": "Nevers",
+  "adresse": "BATIMENT L'INKUB 7 RUE DU 13E DE LIGNE",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.h2motronics.com/fr/",
+  "email": "contact@h2motronics.com"
+ },
+ {
+  "rang": 395,
+  "siren": "803677749",
+  "nom": "CAMORELLO (CAVIAR ET COQUILLETTES)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "14 RUE DENIS PAPIN",
+  "activite": "Restauration",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.caviaretcoquillettes.fr/"
+ },
+ {
+  "rang": 398,
+  "siren": "980519524",
+  "nom": "SAS MENUISERIE LEMAITRE",
+  "ville": "Fléty",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 400,
+  "siren": "477803357",
+  "nom": "BOURGOGNE FORMATION INCENDIE (BOURGOGNE FORMATION INCENDIE) (B F I & S T)",
+  "ville": "Nevers",
+  "adresse": "19 RUE EDMEE LABORDE",
+  "activite": "Enseignement",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.bourgogne-formation-incendie.fr/",
+  "email": "bourgogneformationincendie@wanadoo.fr"
+ },
+ {
+  "rang": 403,
+  "siren": "399006063",
+  "nom": "Amandio DE OLIVEIRA",
+  "ville": "Saint-Firmin",
+  "adresse": "18 RUE DU LAVOIR BUSSY",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.de-oliveira-couverture.fr/"
+ },
+ {
+  "rang": 422,
+  "siren": "341389096",
+  "nom": "PARFUMERIE L'ECHOPPE",
+  "ville": "Armes",
+  "adresse": "13 rue de la Monnaie, 58500 Clamecy",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.institut-parfumerie-clamecy.fr/"
+ },
+ {
+  "rang": 423,
+  "siren": "980267769",
+  "nom": "KONUS",
+  "ville": "Nevers",
+  "adresse": "19 RUE LOUIS PERGAUD",
+  "activite": "Sylviculture et exploitation forestière",
+  "effectif": "3-5 salariés"
+ }
+]

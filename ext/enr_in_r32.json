@@ -1,0 +1,80 @@
+[
+ {
+  "rang": 349,
+  "siren": "952338515",
+  "nom": "NIVERNAIS BATIMENT CONSTRUCTION",
+  "ville": "Nevers",
+  "adresse": "11 RUE DES CHAILLOUX",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 351,
+  "siren": "319559829",
+  "nom": "SAS MIROITERIE DU CENTRE",
+  "ville": "Coulanges-lès-Nevers",
+  "adresse": "CLOS DE LA PIQUE",
+  "activite": "Fabrication d'autres produits minéraux non métalliques",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 378,
+  "siren": "501266480",
+  "nom": "AGENCE BERRY NIVERNAIS",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "5 PLACE DU GENERAL DE GAULLE",
+  "activite": "Activités immobilières",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 379,
+  "siren": "884510207",
+  "nom": "RIGNAULT JULIE",
+  "nom_commercial": "TAXI JULIE RIGNAULT",
+  "ville": "Rouy",
+  "adresse": "LE GRAND CHAMP",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 390,
+  "siren": "441775632",
+  "nom": "ACD",
+  "ville": "Bulcy",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 414,
+  "siren": "922199443",
+  "nom": "ISOLE 58",
+  "ville": "Nevers",
+  "adresse": "19 B RUE PERE DE FOUCAULD",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 419,
+  "siren": "510376668",
+  "nom": "DevCSI (Développement et Conception de Systèmes d'Information)",
+  "ville": "Saint-Père",
+  "adresse": "45 rue du Général Binot, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Programmation, conseil et autres activités informatiques",
+  "effectif": "6-9 salariés",
+  "site_web": "https://devcsi.fr/",
+  "email": "info@devcsi.fr"
+ },
+ {
+  "rang": 5,
+  "siren": "978029817",
+  "nom": "DUMANGE FAMILY",
+  "nom_court": "Dumange Family (holding de Textilot)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "5 rue Denis Papin, 58640 Varennes-Vauzelles",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "effectif": "3-5 (holding)",
+  "groupe": "Holding familiale Dumange (Textilot, Catering USON Plus)",
+  "site_web": "https://www.textilot.fr",
+  "description": "Holding de la famille Dumange créée en 2023, présidente de Textilot (prêt-à-porter) et de Catering USON Plus (CUP, restauration – NAF 56.10A, liée à l'univers du rugby USON Nevers). Le CA consolidé reflète principalement l'activité de Textilot."
+ }
+]

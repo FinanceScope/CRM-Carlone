@@ -1,0 +1,79 @@
+[
+ {
+  "rang": 242,
+  "siren": "420533093",
+  "nom": "ELEAS ASSURANCES",
+  "nom_commercial": "Cabinet Mercier Lecrot",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "1 B RUE PAUL ELUARD",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 245,
+  "siren": "448447771",
+  "nom": "MERCURE FINANCES",
+  "ville": "Nevers",
+  "adresse": "30 AVENUE PIERRE BEREGOVOY",
+  "activite": "Activités des sièges sociaux ; conseil de gestion",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 249,
+  "siren": "392638243",
+  "nom": "SAS VANNIER",
+  "ville": "Saint-Martin-d'Heuille",
+  "adresse": "2 ROUTE DE NEVERS",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.sasvannier.fr/"
+ },
+ {
+  "rang": 251,
+  "siren": "323448175",
+  "nom": "SOCIETE CLAMECYCOISE D'AMEUBLEMENT",
+  "ville": "Clamecy",
+  "adresse": "LA GALETTE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://lecreux.lesexpertsmeubles.fr/"
+ },
+ {
+  "rang": 252,
+  "siren": "418762761",
+  "nom": "MENUISERIES QUALITE SERVICE - M.Q.S.",
+  "ville": "Saint-Éloi",
+  "adresse": "1 LA BARATTE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 261,
+  "siren": "404191702",
+  "nom": "A2G ISOLATION",
+  "ville": "Marzy",
+  "adresse": "13 LES GOUARDS",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés",
+  "site_web": "http://www.a2g-couverture-bois.com"
+ },
+ {
+  "rang": 264,
+  "siren": "495186884",
+  "nom": "MENUISERIE PINO",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "62 RUE DE GERIGNY",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.menuiserie-pino.fr/"
+ },
+ {
+  "rang": 265,
+  "siren": "849343512",
+  "nom": "ENT. BAZOT",
+  "ville": "Marzy",
+  "adresse": "116 ROUTE DE NEVERS",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "effectif": "6-9 salariés"
+ }
+]

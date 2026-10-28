@@ -1,0 +1,197 @@
+[
+ {
+  "rang": 269,
+  "siren": "412611550",
+  "nom": "JABA PRODUCTION",
+  "nom_commercial": "ITI COMMUNICATION - ITI CONSEIL",
+  "ville": "Nevers",
+  "adresse": "12 AVENUE MARCEAU",
+  "code_postal": "58000",
+  "activite": "Publicité et études de marché",
+  "telephone": "03 86 61 56 52",
+  "site_web": "https://www.iti-conseil.com",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/412611550",
+   "https://www.pappers.fr/entreprise/jaba-production-412611550"
+  ],
+  "note_contacts": "le registre uniquement (non recoupé par une source récente). Deuxième passe (27/10/2026) : 03 86 61 56 52 = standard de l'agence de communication itiConseil (enseigne de JABA PRODUCTION, 12 avenue Marceau, Nevers ; fondée par Jacques Ansault), relevé dans des annuaires (guide Stratégies, fiche PagesJaunes ITI CONSEIL Nevers), site iti-conseil.com. Seule adresse vue : ja@iti-conseil.com, nominative (Jacques Ansault), donc non retenue comme email générique. Vérification : numéro confirmé pour itiConseil, 12 avenue Marceau à Nevers, par PagesJaunes (SIRET 412 611 550 00044, autre nom JABA PRODUCTION), Cylex, Bottin et la page Facebook de l'agence ; le site iti-conseil.com l'afficherait aussi d'après les extraits (non vu directement, fiabilité laissée « annuaire ») ; le 06 07 27 72 72 de Cylex (mobile) et le 03 86 61 98 03 de Koikispass (autre activité à la même adresse) ne sont pas retenus."
+ },
+ {
+  "rang": 270,
+  "siren": "840688428",
+  "nom": "EMH",
+  "nom_court": "EMH – ibis budget Cosne (à confirmer)",
+  "ville": "Mesves-sur-Loire",
+  "adresse": "114 ROUTE D'ANTIBES",
+  "code_postal": "58400",
+  "activite": "Hébergement",
+  "telephone": "08 92 70 05 76",
+  "site_web": "https://all.accor.com/hotel/7266/index.en.shtml",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/840688428",
+   "https://www.pappers.fr/entreprise/emh-840688428"
+  ],
+  "note_contacts": "illes (A77, Les Broussailles), mais aucun lien avec EMH n'est confirmé. Le président est une holding (Eric Morin Entreprises) ; son représentant, probablement Eric Morin, n'est pas vérifié. 2e passe : 3 recherches (adresse 114 route d'Antibes, hôtel route d'Antibes à Mesves, « EMH » + SIREN) sans résultat ; le seul hébergement référencé à Mesves reste le Motel Les Broussailles (A77), sans lien établi avec EMH. Vérification : Recherche « Eric Morin » + Mesves-sur-Loire : aucun lien trouvé entre Eric Morin (ou sa holding) et un hébergement de la commune. Seuls ressortent le Motel Les Broussailles et l'annonce de vente d'un motel 3 étoiles de 12 chambres à Mesves (https://www.etreproprio.com/immobilier-25070234-vente-commerce-404-m-a-mesves-sur-loire-mesves-sur-loire), sans lien établi avec EMH. Président = holding au registre, représentant non vérifié. Standard non enregistré, non vérifié."
+ },
+ {
+  "rang": 271,
+  "siren": "448766857",
+  "nom": "SAS MECAPRECIS",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE NORBERT NABERIS LE TREMBLAT",
+  "code_postal": "58200",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "telephone": "03 86 28 23 84",
+  "groupe": "Holding J CUBE (Méreau, Cher), présidente depuis 2025, qui préside aussi les sociétés de mécanique industrielle SOMG et Aeromax à Méreau",
+  "opposition_prospection": true,
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/448766857",
+   "https://www.pappers.fr/entreprise/sas-mecaprecis-448766857",
+   "https://www.societe.com/societe/sas-mecaprecis-448766857.html"
+  ],
+  "note_contacts": "Opposition à la prospection : seules les coordonnées société ont été recherchées. Mécanique de précision / usinage (ZI Le Tremblat). Numéro issu de PagesJaunes (annuaire), horaires lun-jeu 8h-17h, ven 8h-12h. Kompass a une fiche (https://fr.kompass.com/c/sas-mecaprecis/fr3382765/). Aucun site web propre trouvé."
+ },
+ {
+  "rang": 275,
+  "siren": "881900690",
+  "nom": "LE LORD",
+  "ville": "Nevers",
+  "adresse": "6-8 PLACE SAINT SEBASTIEN",
+  "code_postal": "58000",
+  "activite": "Restauration",
+  "telephone": "03 86 61 32 00",
+  "site_web": "https://www.facebook.com/lelordnevers/",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/881900690",
+   "https://www.pappers.fr/entreprise/le-lord-881900690"
+  ],
+  "note_contacts": "Brasserie 'Le Lord Pub', 6 place Saint-Sébastien, Nevers (fiches PagesJaunes https://www.pagesjaunes.fr/pros/51609797 et 118712 sans numéro visible dans les extraits). Numéro A CONFIRMER : la fiche Cylex affiche 03 86 61 32 00 pour le 6/8 place Saint-Sébastien sans nommer explicitement Le Lord. Site = page Facebook uniquement."
+ },
+ {
+  "rang": 278,
+  "siren": "389583568",
+  "nom": "PMG DGV MECANIQUE DE PRECISION",
+  "ville": "Nevers",
+  "adresse": "ZI DES TAUPIERES 144 RUE FRANCIS GARNIER",
+  "code_postal": "58000",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "telephone": "03 86 61 59 81",
+  "site_web": "https://www.pmg-nevers.fr",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/389583568",
+   "https://www.pappers.fr/entreprise/pmg-dgv-mecanique-de-precision-389583568"
+  ],
+  "note_contacts": "Nom d'usage : PMG - Précision Mécanique Guérin (raison sociale DGV MECANIQUE DE PRECISION), 144 rue Francis Garnier, ZI des Taupières, Nevers. Le site officiel n'affiche qu'un formulaire de contact (pas de téléphone ni d'email dans les extraits). Le 03 86 61 59 81 vient des annuaires (PagesJaunes / 118712), fiabilité moyenne ; un annuaire donne aussi un portable non retenu. Changement de gérant très récent (juin 2026) : Kompass et les fiches anciennes indiquent encore Patrick Guérin (fondateur, gérant depuis 2004)."
+ },
+ {
+  "rang": 288,
+  "siren": "908944739",
+  "nom": "DEMOLTECH",
+  "ville": "Challuy",
+  "adresse": "LOT 1 RUE DE LA RIOLLE",
+  "code_postal": "58000",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "06 72 36 47 19",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/908944739",
+   "https://www.pappers.fr/entreprise/demoltech-908944739"
+  ],
+  "note_contacts": "Démolition, désamiantage, terrassement (SAS créée en 2022), Lot 1 rue / impasse de la Riolle, Challuy. Seul numéro trouvé : un portable affiché comme numéro de l'entreprise dans les listes PagesJaunes (démolition / désamiantage Nièvre) - fiabilité annuaire, pas de ligne fixe trouvée. Aucun site web trouvé. Dirigeant(e) d'après le registre uniquement."
+ },
+ {
+  "rang": 304,
+  "siren": "900082157",
+  "nom": "LUCAS NEVERS CARNOT",
+  "ville": "Nevers",
+  "adresse": "1 RUE DU 14 JUILLET",
+  "code_postal": "58000",
+  "activite": "Industries alimentaires",
+  "telephone": "03 86 61 56 76",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/900082157",
+   "https://www.pappers.fr/entreprise/lucas-nevers-carnot-900082157"
+  ],
+  "note_contacts": "as Nevers Carnot', 1 rue du 14 Juillet, 58000 Nevers (https://www.myboulange.fr/58/nevers/artisan-boulanger-patissier-lucas-nevers-carnot-112413 ; aussi listée sur https://www.118000.fr/v_nevers_58/c_boulangerie-et-patisserie), mais aucun numéro de téléphone dans les extraits (3 requêtes). Personne physique derrière HOLDING LUCAS non identifiée. Deuxième passe (27/10/2026) : 03 86 61 56 76 = boulangerie-pâtisserie 'Lucas Nevers Carnot' (enseigne 'Artisan Boulanger Pâtissier'), 1 rue du 14 Juillet, Nevers, d'après les annuaires (Mapstr ; fiche PagesJaunes https://www.pagesjaunes.fr/pros/61006470). Pas de site propre trouvé. Vérification : la recherche de contrôle confirme l'enseigne 'Artisan Boulanger Pâtissier Lucas Nevers Carnot' au 1 rue du 14 Juillet, Nevers (MyBoulange, 118000.fr), mais aucun extrait n'affiche de numéro ; 03 86 61 56 76 non reconfirmé, fiabilité 'annuaire' maintenue."
+ },
+ {
+  "rang": 320,
+  "siren": "835401936",
+  "nom": "SARL LAMOUREUX ET MAIZIERES",
+  "ville": "Luzy",
+  "adresse": "RUE DE PONT",
+  "code_postal": "58170",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "03 86 30 52 44",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/835401936",
+   "https://www.pappers.fr/entreprise/sarl-lamoureux-et-maizieres-835401936"
+  ],
+  "note_contacts": "Aucune fiche annuaire ni site trouvés via WebSearch (4 requêtes), malgré 10-19 salariés. Deuxième passe (27/10/2026) : numéro de l'entreprise générale du bâtiment « Lamoureux & Maizières », rue de Pont à Luzy, relevé dans les extraits d'annuaires (fiche Pages Jaunes « Isolation » et fiche achetezaluzy.fr à l'appui, fiche précise non isolée) ; à confirmer au premier appel. Vérification : non revérifié en ligne (budget épuisé) ; la note dit la fiche précise non isolée alors qu'une URL Pages Jaunes précise est citée : rattachement de cette fiche non confirmé, fiabilité « annuaire » maintenue, indicatif 03 86 30 cohérent avec Luzy."
+ },
+ {
+  "rang": 345,
+  "siren": "320926249",
+  "nom": "ETABLISSEMENTS BILLEBAULT",
+  "ville": "La Celle-sur-Loire",
+  "adresse": "1 RUE JOLIN",
+  "code_postal": "58440",
+  "activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+  "telephone": "03 86 26 02 15",
+  "site_web": "https://www.moulurebillebault.fr/",
+  "opposition_prospection": true,
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/320926249",
+   "https://www.pappers.fr/entreprise/etablissements-billebault-320926249"
+  ],
+  "note_contacts": "Opposition à la prospection : seules des coordonnées d'entreprise ont été recherchées. Avis SIRENE (https://api-avis-situation-sirene.insee.fr/identification/pdf/32092624900014) : société active, siège 1 rue Jolin, NAF 16.29Z. Aucun site ni numéro trouvés (3 recherches) ; pas de décideur sur un site propre, d'où decideur_financier null. Dirigeant d'après le registre. Deuxième passe (27/10/2026) : 03 86 26 02 15 est le numéro de l'atelier de moulures « Billebault ETS » au 1 rue Jolin à La Celle-sur-Loire, relevé dans les annuaires (PagesJaunes, Kompass, 118712) et à confirmer sur le site moulurebillebault.fr. Opposition à la prospection : seules des coordonnées d'entreprise sont retenues. Vérification : non recherchée faute de budget ; nom, adresse et commune concordent avec le registre, fiabilité annuaire maintenue et standard d'entreprise conservé malgré l'opposition à la prospection."
+ },
+ {
+  "rang": 366,
+  "siren": "892315128",
+  "nom": "TÝR Sécurité",
+  "nom_court": "TÝR Sécurité (Raveau)",
+  "ville": "Raveau",
+  "adresse": "5 ROUTE DES BERTRANGES",
+  "code_postal": "58400",
+  "activite": "Enquêtes et sécurité",
+  "telephone": "03 58 07 33 84",
+  "opposition_prospection": true,
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/892315128",
+   "https://www.pappers.fr/entreprise/tyr-securite-892315128",
+   "https://www.pagesjaunes.fr/annuaire/departement/nievre-58/entreprises-de-surveillance-de-gardiennage-de-protection"
+  ],
+  "note_contacts": "rait (https://www.118712.fr/annuaire/departement/cher/entreprise-de-securite) ; un arrêté de la préfecture du Cher de 2022 (gardiennage d'un festival aux Aix-d'Angillon) confirme le siège à Raveau. Troisième passe (27/10/2026) : opposition à la prospection : seul le numéro fixe de l'entreprise est retenu, celui de sa fiche PagesJaunes « TÝR Sécurité » (rue des Bertranges, 58400, gardiennage 24h/24). Un autre fixe (03 45 52 12 76) et le site tyr-securite.com, vus seulement dans des annuaires, ne sont pas retenus. Vérification : relecture sans recherche (budget) : fixe d'entreprise à l'adresse du registre, compatible avec l'opposition à la prospection ; portable et e-mail d'annuaire retirés de la note. Vérification : Opposition à la prospection : seuls les éléments d'entreprise étaient à vérifier, et aucun n'est enregistré (ni téléphone, ni e-mail). Aucune recherche faite, rien à vérifier."
+ },
+ {
+  "rang": 110,
+  "siren": "500113691",
+  "nom": "LE PRIMEUR DE NEVERS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "LES COMMAILLES",
+  "code_postal": "58640",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "telephone": "03 86 71 01 96",
+  "site_web": "https://www.grandfrais.com/magasins/varennes-vauzelles",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/500113691",
+   "https://www.pappers.fr/entreprise/le-primeur-de-nevers-500113691"
+  ],
+  "note_contacts": "e au 2e trimestre 2026, https://www.boursorama.com/bourse/actualites/apollo-acquisition-d-une-participation-majoritaire-dans-prosol-b858d6405ea08e4b5aaf09533e696ce1). Aucun téléphone du magasin trouvé dans les extraits (3 requêtes). Prospect peu pertinent (filiale de grand groupe). Deuxième passe (27/10/2026) : 03 86 71 01 96, numéro du magasin Grand Frais de Varennes-Vauzelles (ZAC des Commailles, rue Léonard de Vinci), standard commun du magasin et non du seul rayon fruits et légumes ; le 03 86 38 00 68 de Despi Le Boucher (autre exploitant du magasin) n'est pas retenu. Présence du numéro sur la page grandfrais.com non vérifiée. Vérification : une recherche confirme deux magasins Grand Frais distincts (Nevers rue Henri Bouquillard et Varennes-Vauzelles ZAC des Commailles) mais n'affiche pas de numéro ; 03 86 71 01 96 conservé en « annuaire », page grandfrais.com indiquée non confirmée."
+ },
+ {
+  "rang": 111,
+  "siren": "400672762",
+  "nom": "FOUCHER-LEBRUN VAL DE LOIRE",
+  "ville": "Alligny-Cosne",
+  "adresse": "29 ROUTE DE BOUHY",
+  "code_postal": "58200",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "telephone": "03 86 26 87 27",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/400672762",
+   "https://www.pappers.fr/entreprise/foucher-lebrun-val-de-loire-400672762"
+  ],
+  "note_contacts": "foucher-lebrun/ ; historique aussi sur https://creamwine.com/brand.php?id=294). Aucun téléphone, e-mail ni site officiel trouvé dans les extraits (3 requêtes, dont une interprétée comme une recherche de personne). SA à conseil d'administration : président du CA Gabriel PICARD (registre), sans source publique récente sur son rôle. Deuxième passe (27/10/2026) : 03 86 26 87 27 relevé sur plusieurs annuaires pour Foucher Lebrun Val de Loire (enseigne « Maison Foucher », 29 route de Bouhy) ; PagesJaunes affiche un autre numéro, 03 86 24 09 92, à essayer si le premier ne répond pas. E-mail contact@maisonfoucher.com d'après Kompass ; site maisonfoucher.com non vérifié. Vérification : une recherche ne trouve ni le site maisonfoucher.com ni le numéro ; l'e-mail, publié par Kompass et non par l'entreprise, est retiré, et le 03 86 26 87 27 reste en « annuaire » (numéro discordant avec PagesJaunes)."
+ }
+]

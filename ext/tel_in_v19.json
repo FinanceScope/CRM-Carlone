@@ -1,0 +1,205 @@
+[
+ {
+  "rang": 330,
+  "siren": "671880235",
+  "nom": "CASINO DE ST HONORE",
+  "ville": "Saint-Honoré-les-Bains",
+  "adresse": "PARC THERMAL",
+  "code_postal": "58360",
+  "activite": "Organisation de jeux de hasard et d'argent",
+  "telephone": "03 86 30 70 99",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/671880235",
+   "https://www.pappers.fr/entreprise/casino-de-st-honore-671880235"
+  ],
+  "note_contacts": "Casino exploité sous le nom 'Casino Le Vegas' (av. Jean Mermoz, 58360 Saint-Honoré-les-Bains ; 50 machines, 1 table) selon World Casino Directory et Casinosavenue (https://www.casinosavenue.com/fr/casino/casino-le-vegas-saint-honore-les-bains/8423). Numéro issu d'annuaires uniquement. Directeur d'établissement non trouvé. Administrateurs au registre : Manon BOUILLOT, Sophie LEPERE (confirmés par Xerfi). Aucun site officiel trouvé."
+ },
+ {
+  "rang": 456,
+  "siren": "808472484",
+  "nom": "LE CHENE ET LE ROSEAU",
+  "nom_commercial": "Biocoop Cosne",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ZI DES PRES MAILLARDS 108 AVENUE DU 85EME DE LIGNE",
+  "code_postal": "58200",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "telephone": "03 86 22 42 94",
+  "site_web": "http://www.biocoop-cosne.com",
+  "groupe": "Réseau coopératif Biocoop",
+  "opposition_prospection": true,
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/808472484",
+   "https://www.pappers.fr/entreprise/le-chene-et-le-roseau-808472484",
+   "https://certificat.ecocert.com/entreprise/FFD98184-C267-4B4A-880E-F965B42A442F",
+   "https://www.biocoop.fr/bourgogne-franche-comte/nievre/COSNE-COURS-SUR-LOIRE/BIOCOOP-COSNE",
+   "http://www.biocoop-cosne.com",
+   "https://www.biocoop.fr/centre-val-de-loire/cher/SAINT-SATUR/BIOCOOP-ST-SATUR"
+  ],
+  "note_contacts": "Opposition à la prospection : coordonnées société uniquement. Numéro du magasin Biocoop Cosne (108 avenue du 85e de Ligne) confirmé par l'annuaire Bible des Marques, identique à 'deja'. Aucun e-mail générique trouvé. Présidente selon le registre : Maya BERGERON (depuis le 16/09/2025), non reprise car non vue sur le site de la société."
+ },
+ {
+  "rang": 457,
+  "siren": "393733191",
+  "nom": "OPTIQUE BAPTESTE",
+  "nom_commercial": "Opticien Krys Cosne Saint-Jacques",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "17-19-21 17 RUE SAINT-JACQUES",
+  "code_postal": "58200",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "telephone": "03 86 28 58 55",
+  "site_web": "https://www.krys.com/opticien/france/nievre/opticien-cosne-cours-sur-loire/cosne-stjacques",
+  "groupe": "Krys Group (enseignes Krys et Le Collectif des Lunetiers)",
+  "opposition_prospection": false,
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/393733191",
+   "https://www.pappers.fr/entreprise/optique-bapteste-393733191",
+   "https://www.krys.com/opticien/france/nievre/opticien-cosne-cours-sur-loire/cosne-stjacques",
+   "https://www.au-magasin.fr/58200-cosne-cours-sur-loire/opticiens-krys-28463.html",
+   "https://www.cylex-locale.fr/cosne-cours-sur-loire/opticien/?ho=1",
+   "https://www.lecollectifdeslunetiers.fr/opticien/france/nievre/opticien-cosne-cours-sur-loire/cosne"
+  ],
+  "note_contacts": "Magasin Krys, 17/19 rue Saint-Jacques ; numéro identique à 'deja', confirmé par l'annuaire 118000. Pas de DAF (10-19 salariés) : le président décide. Aucune source web en ligne ne cite O. Bapteste en dehors du registre."
+ },
+ {
+  "rang": 458,
+  "siren": "382085215",
+  "nom": "CHATEAU DE TRACY COMTESSE A.D ASSAY",
+  "nom_commercial": "Château de Tracy",
+  "ville": "Tracy-sur-Loire",
+  "adresse": "LE CHATEAU DE TRACY",
+  "code_postal": "58150",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "telephone": "03 86 26 15 12",
+  "site_web": "https://www.chateau-de-tracy.com/",
+  "opposition_prospection": false,
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/382085215",
+   "https://www.pappers.fr/entreprise/chateau-de-tracy-comtesse-ad-assay-382085215",
+   "https://www.chateau-de-tracy.com/",
+   "https://www.tracy-et-cie.com/nos-visites-20.html",
+   "https://www.ruedesvignerons.com/fr/domaine/897/chateau-de-tracy"
+  ],
+  "note_contacts": "Domaine viticole (Pouilly-Fumé). Standard identique à 'deja', confirmé par la fiche Falstaff (+33 3 86 26 15 12). E-mail contact@ repris de 'deja' (attribué au site officiel, non revérifié dans un extrait de recherche). Rôle exact de Maxime Bourret non trouvé en ligne."
+ },
+ {
+  "rang": 459,
+  "siren": "394326854",
+  "nom": "SARL DELIN J.",
+  "ville": "Guérigny",
+  "adresse": "57 GRANDE RUE",
+  "code_postal": "58130",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "03 86 60 48 03",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/394326854",
+   "https://www.pappers.fr/entreprise/sarl-delin-j-394326854"
+  ],
+  "note_contacts": "Aucune présence web trouvée en 3 recherches (ni téléphone, ni site, ni annuaire visible dans les extraits). Dirigeants d'après le registre uniquement ; la co-gérante Séverine Delin peut aussi suivre la gestion. Deuxième passe (27/10/2026) : 03 86 60 48 03, numéro de l'entreprise de couverture/isolation (RGE) à Guérigny d'après l'annuaire d'artisans Hellowatt ; aucun site propre trouvé. Vérification : relecture sans recherche ; numéro conservé (annuaire), l'e-mail générique tiré de Hellowatt a été retiré car il n'est pas publié par l'entreprise elle-même (domaine delin-couverture.fr introuvable)."
+ },
+ {
+  "rang": 460,
+  "siren": "351271127",
+  "nom": "MORVAN CHARCUTERIES SALAISONS",
+  "ville": "Clamecy",
+  "adresse": "ZI DE SURGY RUE HELENE BOUCHER",
+  "code_postal": "58500",
+  "activite": "Industries alimentaires",
+  "telephone": "03 86 27 00 14",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/351271127",
+   "https://www.pappers.fr/entreprise/morvan-charcuteries-salaisons-351271127"
+  ],
+  "note_contacts": "Fabricant de l'andouillette de Clamecy (fiche Bourgogne Tourisme : https://www.burgundy-tourism.com/regional-products/morvan-charcuteries-salaisons-landouillette-de-clamecy). Président = la société GUSTEO (holding) ; personne physique qui la dirige non trouvée en 3 recherches. Ni téléphone ni site trouvés dans les extraits. Deuxième passe (27/10/2026) : 03 86 27 00 14, numéro de l'usine publié par Pages Jaunes et d'autres annuaires sous le nom commercial « Morvan Andouillette », rue Hélène Boucher, ZI de Surgy, Clamecy (fax 03 86 27 01 13 selon Kompass). Fichesociete.fr cite Thierry Mosson comme dirigeant, à confirmer. Vérification : relecture sans recherche ; le nom commercial « Morvan Andouillette » est publié à la même adresse (rue Hélène Boucher, Clamecy), numéro conservé en annuaire."
+ },
+ {
+  "rang": 461,
+  "siren": "405156274",
+  "nom": "SARL AMBULANCES MARTIN",
+  "ville": "Clamecy",
+  "adresse": "PRESSURES 16 RUE DES HIRONDELLES",
+  "code_postal": "58500",
+  "activite": "Activités pour la santé humaine",
+  "telephone": "03 86 24 97 23",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/405156274",
+   "https://www.pappers.fr/entreprise/sarl-ambulances-martin-405156274"
+  ],
+  "note_contacts": "Aucun numéro trouvé en 3 recherches. Un annuaire (trouver-ouvert.fr) liste 'Ambulances Martin SARL' au 16 route de Pressures / Hirondelles, Clamecy, et un établissement 'Ambulances Martin' au 12 rue du Faubourg de Marcy, 58210 Varzy, ouverts 24h/24 (https://trouver-ouvert.fr/varzy/ambulances-martin-2655846), sans téléphone visible dans l'extrait. Gérante d'après le registre uniquement. Deuxième passe (27/10/2026) : 03 86 24 97 23, siège de Clamecy (16 rue des Hirondelles, Pressures) d'après Pages Jaunes et Cylex ; l'établissement de Varzy (12 faubourg de Marcy) répond au 03 86 29 42 29. Un annuaire cite Pascal Martin comme gérant, d'autres Kelly Martin. Vérification : relecture sans recherche ; numéro du siège de Clamecy conservé (annuaire). Le numéro de Varzy, autre commune, n'a pas été revérifié et son rattachement à cette société reste à confirmer."
+ },
+ {
+  "rang": 462,
+  "siren": "352722649",
+  "nom": "SARL HOSTELLERIE DE LA POSTE",
+  "ville": "Clamecy",
+  "adresse": "9 PLACE EMILE ZOLA",
+  "code_postal": "58500",
+  "activite": "Hébergement",
+  "telephone": "03 86 27 01 55",
+  "site_web": "https://www.logishotels.com/fr/hotel/logis-hostellerie-de-la-poste-6276",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/352722649",
+   "https://www.pappers.fr/entreprise/sarl-hostellerie-de-la-poste-352722649"
+  ],
+  "note_contacts": "Hôtel-restaurant 3 étoiles Logis, 9 place Émile Zola. Standard 03 86 27 01 55 concordant sur l'office de tourisme de Clamecy et plusieurs annuaires (Sluurpy, Koifaire, Foodle) ; fax 03 86 27 05 99. Site = page Logis Hotels (non ouverte). E-mail masqué dans les extraits ; attention, lhostellerieposte@gmail.com appartient à un homonyme de Tarascon-sur-Ariège."
+ },
+ {
+  "rang": 463,
+  "siren": "315548925",
+  "nom": "SAS AMBULANCE JACSON",
+  "ville": "Clamecy",
+  "adresse": "ZONE ARTISANALE RUE HELENE BOUCHER",
+  "code_postal": "58500",
+  "activite": "Activités pour la santé humaine",
+  "telephone": "03 86 24 47 48",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/315548925",
+   "https://www.pappers.fr/entreprise/sas-ambulance-jacson-315548925"
+  ],
+  "note_contacts": "9 de mars 2026 (rachat de parts et changement de dirigeant) — https://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/irecontenu/telechargement/136450/997663/file/recueil-bfc-2026-049-recueil-des-actes-administratifs-nominatifs.pdf ; vérifier que C. Sanchez est bien le dirigeant actuel. SIRENE indique aussi un établissement au 28 chemin de la Côte d'Or, Clamecy, et un autre à LD Cervenon, 58210 Saint-Germain-des-Bois ; implantation Clamecy / Tannay. Deuxième passe (27/10/2026) : 03 86 24 47 48, établissement de Clamecy (rue Hélène Boucher) selon Pages Jaunes et itaxis ; le site de Tannay (5 place Charles Chaigneau) est au 03 86 29 32 32. Un 03 86 27 26 14 donné pour Saint-Germain-des-Bois n'est pas confirmé. Vérification : relecture sans recherche ; numéro de l'établissement de Clamecy conservé (annuaire), les numéros de Tannay et de Saint-Germain-des-Bois ne sont que des pistes."
+ },
+ {
+  "rang": 465,
+  "siren": "381751171",
+  "nom": "A.MAILHARRO SARL",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZONE INDUSTRIELLE LES CHAMPS MALES",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "03 86 38 25 18",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/381751171",
+   "https://www.pappers.fr/entreprise/amailharro-sarl-381751171"
+  ],
+  "note_contacts": "Plâtrerie-peinture / isolation (RGE). Numéro concordant sur deux annuaires (les-energies-renouvelables.eu et Cylex : https://www.cylex-locale.fr/varennes-vauzelles/peintre+en+b%C3%A2timent.html), adresse postale Champ Mâle, BP 60037, Varennes-Vauzelles ; fiches non vérifiées par leurs éditeurs. Président = la société CAREMA INVESTISSEMENTS (holding) ; personne physique non trouvée en 3 recherches."
+ },
+ {
+  "rang": 466,
+  "siren": "489272518",
+  "nom": "ALFONSO BUJAN ASSOCIES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZONE INDUSTRIELLE",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "03 86 71 00 56",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/489272518",
+   "https://www.pappers.fr/entreprise/alfonso-bujan-associes-489272518"
+  ],
+  "note_contacts": "t aussi suivre la gestion. Deuxième passe (27/10/2026) : aucun numéro trouvé dans les extraits ; une fiche Pages Jaunes « Alfonso Bujan Associés à Nevers » existe (https://www.pagesjaunes.fr/pros/05983997), liée à l'établissement secondaire du 4 faubourg de la Baratte, Nevers. Activité : peinture, plâtrerie, isolation, ravalement. Vérification : relecture sans recherche, cohérente (pas de numéro retenu). Troisième passe (27/10/2026) : la recherche sur l'établissement du 4 faubourg de la Baratte (Nevers) a donné le numéro de la fiche Pages Jaunes « Alfonso Bujan Associés » (la recherche inverse ne renvoie qu'à cette fiche). D'autres annuaires (dont Kompass) indiquent le 03 86 37 95 69, introuvable en recherche inverse et donc non retenu. Vérification : relecture sans recherche, cohérente (fiche Pages Jaunes au nom de la société, établissement de Nevers ; second numéro Kompass non retenu)."
+ },
+ {
+  "rang": 468,
+  "siren": "434598173",
+  "nom": "GALLOIS ROBERT ET ASSOCIES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "50 RUE MARCEL ROBIN",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "03 86 57 06 67",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/434598173",
+   "https://www.pappers.fr/entreprise/gallois-robert-et-associes-434598173"
+  ],
+  "note_contacts": "Aucune présence web trouvée en 3 recherches (ni téléphone, ni site, ni annuaire). Gérant d'après le registre uniquement. Deuxième passe (27/10/2026) : 03 86 57 06 67, numéro de l'entreprise de chauffage (« Gallois Robert & Ass. », RGE QualiPAC) à Varennes-Vauzelles d'après l'annuaire Hellowatt ; aucun site propre trouvé (www.sarl-gallois-lpa.fr non retrouvé). Vérification : 1 recherche : le numéro n'apparaît que sur Hellowatt, sans élément contraire, il reste en annuaire ; l'e-mail générique tiré de Hellowatt a été retiré car il n'est pas publié par l'entreprise elle-même."
+ }
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "rang": 269,
+  "siren": "412611550",
+  "nom": "JABA PRODUCTION",
+  "nom_commercial": "ITI COMMUNICATION - ITI CONSEIL",
+  "ville": "Nevers",
+  "adresse": "12 AVENUE MARCEAU",
+  "activite": "Publicité et études de marché",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.iti-conseil.com"
+ },
+ {
+  "rang": 270,
+  "siren": "840688428",
+  "nom": "EMH",
+  "nom_court": "EMH – ibis budget Cosne (à confirmer)",
+  "ville": "Mesves-sur-Loire",
+  "adresse": "114 ROUTE D'ANTIBES",
+  "activite": "Hébergement",
+  "effectif": "10-19 salariés",
+  "site_web": "https://all.accor.com/hotel/7266/index.en.shtml"
+ },
+ {
+  "rang": 271,
+  "siren": "448766857",
+  "nom": "SAS MECAPRECIS",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE NORBERT NABERIS LE TREMBLAT",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "effectif": "10-19 salariés",
+  "groupe": "Holding J CUBE (Méreau, Cher), présidente depuis 2025, qui préside aussi les sociétés de mécanique industrielle SOMG et Aeromax à Méreau",
+  "description": "Atelier de mécanique générale et de précision (NAF 25.62B, « tous travaux de mécanique générale ou de précision ») installé rue Norbert Naberis, dans la zone industrielle du Tremblat à Cosne-Cours-sur-Loire.",
+  "actualite": "Avril 2025 (annonce BODACC du 08/04/2025) : la holding J CUBE de Méreau (Cher), créée en janvier 2025, remplace D & G Industrie à la présidence de la société.",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 275,
+  "siren": "881900690",
+  "nom": "LE LORD",
+  "ville": "Nevers",
+  "adresse": "6-8 PLACE SAINT SEBASTIEN",
+  "activite": "Restauration",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.facebook.com/lelordnevers/"
+ },
+ {
+  "rang": 278,
+  "siren": "389583568",
+  "nom": "PMG DGV MECANIQUE DE PRECISION",
+  "ville": "Nevers",
+  "adresse": "ZI DES TAUPIERES 144 RUE FRANCIS GARNIER",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.pmg-nevers.fr"
+ },
+ {
+  "rang": 282,
+  "siren": "405146051",
+  "nom": "PARADIS - ECOLE DE CONDUITE NIVERNAISE",
+  "ville": "Nevers",
+  "adresse": "QUARTIER DE LA JONCTION ROUTE DE SERMOISE",
+  "activite": "Enseignement",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.paradisformation.com/"
+ },
+ {
+  "rang": 288,
+  "siren": "908944739",
+  "nom": "DEMOLTECH",
+  "ville": "Challuy",
+  "adresse": "LOT 1 RUE DE LA RIOLLE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 302,
+  "siren": "408337434",
+  "nom": "GEOFFROY",
+  "ville": "Nevers",
+  "adresse": "69 FAUBOURG DE LA BARATTE",
+  "activite": "Fabrication de machines et équipements n.c.a.",
+  "effectif": "10-19 salariés",
+  "site_web": "http://www.geoffroysa.com/",
+  "email": "geoffroy@geoffroysa.com"
+ }
+]

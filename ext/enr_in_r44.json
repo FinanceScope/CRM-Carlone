@@ -1,0 +1,79 @@
+[
+ {
+  "rang": 319,
+  "siren": "792448409",
+  "nom": "DECIZ58",
+  "nom_commercial": "Noz",
+  "ville": "Decize",
+  "adresse": "119 AVENUE DE VERDUN",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "0 salarié",
+  "site_web": "https://www.noz.fr"
+ },
+ {
+  "rang": 332,
+  "siren": "502997745",
+  "nom": "SOCIETE PATRIMONIALE DE LA NIEVRE",
+  "ville": "Nevers",
+  "adresse": "HOTEL DU DEPARTEMENT 30 RUE DE LA PREFECTURE",
+  "activite": "Construction de bâtiments",
+  "effectif": "0 salarié"
+ },
+ {
+  "rang": 334,
+  "siren": "882956204",
+  "nom": "SPFPL E. PAILLE",
+  "ville": "Nevers",
+  "adresse": "19 RUE SAINT MARTIN",
+  "activite": "Activités juridiques",
+  "effectif": "0 salarié"
+ },
+ {
+  "rang": 339,
+  "siren": "511672032",
+  "nom": "FRENCH BOOK DISTRIBUTION",
+  "ville": "Nevers",
+  "adresse": "22 RUE ANTONY DUVIVIER",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "0 salarié",
+  "site_web": "https://www.frenchbookdistribution.com/",
+  "email": "info@frenchbookdistribution.com"
+ },
+ {
+  "rang": 364,
+  "siren": "851257634",
+  "nom": "FG AUTOMOBILE",
+  "ville": "Nevers",
+  "adresse": "26 RUE DES DOCKS",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "Non employeuse",
+  "site_web": "https://www.fg-automobile.com"
+ },
+ {
+  "rang": 376,
+  "siren": "812962827",
+  "nom": "DOMAINE DE BACCHUS",
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "3 PLACE DES FRERES MOLLET",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "0 salarié"
+ },
+ {
+  "rang": 396,
+  "siren": "537867970",
+  "nom": "INFIRMIERS DU BEUVRON",
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "2 RUE VICTOR GUERREAU",
+  "activite": "Activités pour la santé humaine",
+  "effectif": "0 salarié"
+ },
+ {
+  "rang": 413,
+  "siren": "927460154",
+  "nom": "E PLURIBUS UNUM",
+  "ville": "Nevers",
+  "adresse": "20 RUE DES SABLONS",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "effectif": "Non employeuse"
+ }
+]

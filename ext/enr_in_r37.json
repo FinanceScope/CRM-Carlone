@@ -1,0 +1,79 @@
+[
+ {
+  "rang": 356,
+  "siren": "922477708",
+  "nom": "EUROPUB MPE",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZI LES CHAMONDS 5 RUE THOMAS EDISON",
+  "activite": "Publicité et études de marché",
+  "effectif": "3-5 salariés",
+  "site_web": "https://europub58.fr"
+ },
+ {
+  "rang": 357,
+  "siren": "388705444",
+  "nom": "SARL DOMAINE MICHEL DUTARTE",
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "LES LOGES",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 359,
+  "siren": "840080410",
+  "nom": "LUDOVIC MANON",
+  "ville": "Nevers",
+  "adresse": "3 RUE DE LA PREFECTURE",
+  "activite": "Activités auxiliaires de services financiers et d'assurance",
+  "effectif": "3-5 salariés",
+  "site_web": "https://agence.allianz.fr/nevers-prefecture-58000-H95809"
+ },
+ {
+  "rang": 361,
+  "siren": "884511155",
+  "nom": "SARL BOULANGERIE PATISSERIE RAVEAU",
+  "ville": "Saint-Parize-le-Châtel",
+  "adresse": "6 AVENUE DE LA MAIRIE",
+  "activite": "Industries alimentaires",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 374,
+  "siren": "840106405",
+  "nom": "DAROTO",
+  "ville": "Fours",
+  "adresse": "15 PLACE POUYAT",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "3-5 salariés",
+  "site_web": "https://garage-fours.proximeca.fr/"
+ },
+ {
+  "rang": 375,
+  "siren": "878196088",
+  "nom": "SASU ERKA CONSTRUCTION",
+  "ville": "Imphy",
+  "adresse": "1 RUE DE LA PLAGE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "3-5 salariés",
+  "site_web": "https://www.erka-construction.fr/",
+  "email": "erka.construction@hotmail.com"
+ },
+ {
+  "rang": 380,
+  "siren": "480634682",
+  "nom": "MILLE ET 1 SERVICES",
+  "ville": "Corvol-d'Embernard",
+  "adresse": "CIDEX 209, LE BOURG",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 386,
+  "siren": "888401601",
+  "nom": "NEVERS HOTEL",
+  "ville": "Nevers",
+  "adresse": "28 RUE DU PETIT MOUESSE",
+  "activite": "Hébergement",
+  "effectif": "3-5 salariés"
+ }
+]

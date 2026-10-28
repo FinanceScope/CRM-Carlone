@@ -1,0 +1,122 @@
+[
+ {
+  "siren": "834179566",
+  "telephone": "03 86 61 02 10",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets ne renvoie aucune page le publiant (résultats sans rapport : Matmut, ARCEP, listes PCO), donc aucune seconde source indépendante en plus de la liste ARS déjà citée ; le site radiologie-nevers.com reste à lire.",
+  "recherches": 1
+ },
+ {
+  "siren": "493717102",
+  "telephone": "03 86 50 57 26",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets ne renvoie aucune page le publiant (résultats sans rapport), la fiche PagesJaunes déjà citée reste la seule source du 03 86 50 57 26.",
+  "recherches": 1
+ },
+ {
+  "siren": "333857605",
+  "telephone": "03 86 90 17 70",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets ne renvoie aucune page le publiant (résultats sans rapport), et l'origine du 03 86 90 17 70 n'est pas indiquée dans les notes existantes, qui parlent même d'un standard null : numéro à confirmer au premier appel.",
+  "recherches": 1
+ },
+ {
+  "siren": "320130735",
+  "telephone": "03 86 90 90 13",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : le numéro exact entre guillemets ne ressort sur aucune page, et la recherche « Lagoutte & Fils Guérigny téléphone » ne retrouve le 03 86 90 90 13 que sur l'annuaire les-energies-renouvelables.eu (fiche Lagoutte & Fils SARL, zone de Villemenant), qui est l'annuaire de la rénovation énergétique déjà cité, sans confirmation par le site lagoutte-fils.fr.",
+  "recherches": 2
+ },
+ {
+  "siren": "441254968",
+  "telephone": "03 86 71 09 50",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets avec « Varennes-Vauzelles » ne renvoie aucune page le publiant (seuls la mairie, un hôtel et le service des eaux ressortent), donc rien de plus que les annuaires déjà cités, dont les-energies-renouvelables.eu.",
+  "recherches": 1
+ },
+ {
+  "siren": "507604106",
+  "telephone": "03 86 36 01 10",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets avec « Marzy » ne renvoie aucune page le publiant (seuls la mairie, le centre médical et des commerces sans rapport ressortent), le 03 86 36 01 10 reste fondé sur la seule fiche bible-marques.fr du McDonald's de Marzy.",
+  "recherches": 1
+ },
+ {
+  "siren": "381215102",
+  "telephone": "03 86 59 73 40",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets avec « Nevers » ne renvoie aucune page le publiant (la Banque de France de Nevers est au 03 86 59 77 40, sans lien), donc pas de source nouvelle en plus de l'annuaire des commissaires de justice, de PagesJaunes et d'Allaw déjà cités.",
+  "recherches": 1
+ },
+ {
+  "siren": "498917202",
+  "telephone": "03 86 57 02 39",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact entre guillemets avec « Nevers » ne renvoie aucune page le publiant (résultats sans rapport : santé, cabinets comptables, diocèse), donc pas de source nouvelle en plus de PagesJaunes, Cylex et Koikispass déjà cités ; le site ambulancestissier.com reste à lire.",
+  "recherches": 1
+ },
+ {
+  "siren": "528031750",
+  "telephone": "03 86 36 60 21",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact avec « McDonald's Varennes-Vauzelles » ne ressort que sur bible-marques.fr (McDonald's du 88 boulevard Camille Dagonneau), source déjà citée, Custplace ne donnant que la ligne nationale 01 30 48 60 00 : aucune seconde source indépendante.",
+  "recherches": 1
+ },
+ {
+  "siren": "804785566",
+  "telephone": "03 86 30 55 03",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact avec « McDonald's Decize » ne montre le 03 86 30 55 03 que sur bible-marques.fr (McDonald's du 83 avenue du 14 Juillet), source déjà citée ; Cybo et Sluurpy ressortent sans que le numéro y apparaisse dans les extraits.",
+  "recherches": 1
+ },
+ {
+  "siren": "952050292",
+  "telephone": "03 73 58 01 15",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact avec « Burger King Cosne-Cours-sur-Loire » montre le 03 73 58 01 15 sous l'adresse du 132 avenue du 85e de Ligne sur une page d'annuaire non identifiée avec certitude (vraisemblablement Cylex, déjà citée), eat-list.fr et ac-franchise.com ne confirmant que l'adresse.",
+  "recherches": 1
+ },
+ {
+  "siren": "530717867",
+  "telephone": "03 86 71 65 30",
+  "verdict": "non_retrouve",
+  "sources": [],
+  "autre_numero": null,
+  "autre_source": null,
+  "note": "Vérification du standard (28/10/2026) : la recherche du numéro exact avec « L'Agricole Nevers » ne ressort que sur enprimeurclub.com, source déjà citée, sans que le numéro apparaisse dans l'extrait ; aucune seconde source indépendante.",
+  "recherches": 1
+ }
+]

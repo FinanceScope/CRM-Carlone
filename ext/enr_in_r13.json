@@ -1,0 +1,85 @@
+[
+ {
+  "rang": 117,
+  "siren": "811119403",
+  "nom": "EL FAYZI",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "RUE DES FONDEURS",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés",
+  "groupe": "EF Transports (holding de la famille El Fayzi, Cosne)",
+  "description": "Transporteur routier de fret de proximité spécialisé dans le transport de béton et les prestations de services liées au béton, installé depuis 2018 rue des Fondeurs à Cosne-Cours-sur-Loire. PME de 20 à 49 salariés dirigée par Mustapha et Ibrahim El Fayzi.",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 131,
+  "siren": "333857605",
+  "nom": "EIFFAGE ENERGIE SYSTEMES - BOURGEOT",
+  "nom_court": "Eiffage Énergie Systèmes, Fourchambault",
+  "ville": "Fourchambault",
+  "adresse": "33 RUE GAMBETTA",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.eiffageenergiesystemes.com"
+ },
+ {
+  "rang": 132,
+  "siren": "320130735",
+  "nom": "SOCIETE LAGOUTTE & FILS",
+  "ville": "Guérigny",
+  "adresse": "ZONE DE VILLEMENANT RUE DE VILLEMENANT",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.lagoutte-fils.fr"
+ },
+ {
+  "rang": 138,
+  "siren": "441254968",
+  "nom": "R.C.H. (REGION CENTRE HABITAT)",
+  "nom_commercial": "Groupe Le Carré",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "LES CHAMONDS",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.rch-nevers.com"
+ },
+ {
+  "rang": 141,
+  "siren": "507604106",
+  "nom": "EVEREST",
+  "nom_commercial": "McDonald's",
+  "ville": "Marzy",
+  "adresse": "CENTRE COMMERCIAL CARREFOUR CD 40",
+  "activite": "Restauration",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 144,
+  "siren": "452486673",
+  "nom": "SIFLEURS",
+  "ville": "Nevers",
+  "adresse": "5 RUE VOLTAIRE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "20-49 salariés"
+ },
+ {
+  "rang": 146,
+  "siren": "549879096",
+  "nom": "SAPEM SOCIETE D'APPLICATIONS ELECTRIQUES ET MECANIQUES",
+  "ville": "Cizely",
+  "adresse": "LE BOURG",
+  "activite": "Fabrication de machines et équipements n.c.a.",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.sapem-sa.com",
+  "email": "commercial@sapem-sa.com"
+ },
+ {
+  "rang": 147,
+  "siren": "852275684",
+  "nom": "LA BOULANGERIE DES DOCKS",
+  "ville": "Nevers",
+  "adresse": "2 RUE DES DOCKS",
+  "activite": "Industries alimentaires",
+  "effectif": "20-49 salariés"
+ }
+]

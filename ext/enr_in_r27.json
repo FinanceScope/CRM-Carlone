@@ -1,0 +1,81 @@
+[
+ {
+  "rang": 110,
+  "siren": "500113691",
+  "nom": "LE PRIMEUR DE NEVERS",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "LES COMMAILLES",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.grandfrais.com/magasins/varennes-vauzelles"
+ },
+ {
+  "rang": 111,
+  "siren": "400672762",
+  "nom": "FOUCHER-LEBRUN VAL DE LOIRE",
+  "ville": "Alligny-Cosne",
+  "adresse": "29 ROUTE DE BOUHY",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 113,
+  "siren": "449840974",
+  "nom": "LES JARDINS DE NEVERS",
+  "ville": "Nevers",
+  "adresse": "RUE HENRY BOUQUILLARD",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 122,
+  "siren": "749981304",
+  "nom": "MALVICHE DISTRIBUTION",
+  "ville": "Saint-Martin-du-Puy",
+  "adresse": "1/3 ROUTE DE CHALAUX",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://malviche-distribution.fr"
+ },
+ {
+  "rang": 139,
+  "siren": "326891702",
+  "nom": "ETABLISSEMENTS GUILBAULT",
+  "ville": "Saint-Pierre-le-Moûtier",
+  "adresse": "10 AVENUE RAYMOND COUTIN",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 148,
+  "siren": "492601133",
+  "nom": "AMIS BATISSEURS",
+  "ville": "Marzy",
+  "adresse": "94 ROUTE DE NEVERS",
+  "activite": "Construction de bâtiments",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 152,
+  "siren": "899839492",
+  "nom": "TSF GERIN EXPLOITATION",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "ROUTE N7 LE GRAND CHAMP",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés",
+  "groupe": "AH EXPLOITATION (holding d'Alban Grondard, Garchy) depuis 2025 ; auparavant SGH EXPANSION (Stéphane Gérin), aussi présidente de BLONDEAU LESAGE, magasin BUT de Pithiviers",
+  "site_web": "https://www.but.fr/magasins/389/But-Cosne-Sur-Loire.html",
+  "description": "Société d'exploitation d'un magasin d'ameublement (négoce et réparation de meubles, location-gérance d'un fonds de commerce d'ameublement) située route N7, lieudit Le Grand Champ à Cosne. Cette adresse est celle où les annuaires locaux situent le magasin BUT de Cosne, sans confirmation de l'enseigne.",
+  "actualite": "04/04/2025 : AH EXPLOITATION, holding créée en mars 2025 et gérée par Alban Grondard, devient présidente à la place de SGH EXPANSION (holding de Stéphane Gérin) ; modification publiée au BODACC le 10/06/2025.",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 176,
+  "siren": "504703588",
+  "nom": "RHEVEA",
+  "ville": "Cercy-la-Tour",
+  "adresse": "37 RUE DE LA GUETTE",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "6-9 salariés"
+ }
+]

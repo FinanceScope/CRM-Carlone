@@ -1,0 +1,95 @@
+[
+ {
+  "rang": 435,
+  "siren": "408194686",
+  "nom": "J.L. TRANSPORTS",
+  "ville": "Clamecy",
+  "adresse": "LA VIGNE DOREE MOULOT",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "50-99 salariés"
+ },
+ {
+  "rang": 436,
+  "siren": "879402949",
+  "nom": "SARL CHRONO'TRANS 58",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "5 RUE LEON BLUM",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "50-99 salariés"
+ },
+ {
+  "rang": 437,
+  "siren": "482066487",
+  "nom": "TRANSPORTS RESSAT",
+  "ville": "Langeron",
+  "adresse": "16 RUE DES CRAIES",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "50-99 salariés"
+ },
+ {
+  "rang": 438,
+  "siren": "340991926",
+  "nom": "VOYAGES GONIN",
+  "ville": "Saint-Léger-des-Vignes",
+  "adresse": "52 ROUTE DE LA MACHINE",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "50-99 salariés",
+  "site_web": "https://www.voyages-gonin.com/"
+ },
+ {
+  "rang": 9,
+  "siren": "510317191",
+  "nom": "GROUPE ROUSSEAU",
+  "nom_court": "Groupe Rousseau (transports, Clamecy)",
+  "ville": "Clamecy",
+  "adresse": "Allée Clément Ader, 58500 Clamecy",
+  "activite": "Services financiers",
+  "effectif": "20-49 (registre) ; 10-19 selon le classement",
+  "groupe": "Holding de Transports Rousseau Eric",
+  "site_web": "https://rousseau-groupe.com",
+  "email": "contact@rousseau-groupe.com",
+  "description": "Holding financière de la famille Rousseau, présidente de Transports Rousseau Eric (transport routier de marchandises, Corvol-l'Orgueilleux/Clamecy). Le CA consolidé (≈91 M€) correspond à l'activité transport du groupe."
+ },
+ {
+  "rang": 38,
+  "siren": "621880012",
+  "nom": "ETABLISSEMENTS SIMONNEAU",
+  "nom_commercial": "Renault Cosne-sur-Loire (Groupe Simonneau)",
+  "nom_court": "Renault Cosne (groupe Simonneau)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "80 avenue du 85e de Ligne, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49",
+  "groupe": "Groupe Simonneau (holding Philippe Simonneau Holding, Saint-Doulchard (18), présidée par Philippe Simonneau ; environ 12 sites et 385 salariés selon L'argus, déc. 2020)",
+  "site_web": "https://www.renault-cosne.fr",
+  "linkedin": "https://www.linkedin.com/company/groupe-simonneau/",
+  "description": "Concession Renault/Dacia de Cosne-Cours-sur-Loire (80 avenue du 85e de Ligne), berceau du groupe familial Simonneau : le premier contrat Renault y a été signé en 1970. Le groupe distribue aujourd'hui Renault, Dacia et Alpine (et, selon L'argus 2020, Nissan, Mazda et Volvo) dans la Nièvre, le Cher, l'Indre et l'Allier ; il réalisait environ 170 M€ de CA en 2019 (L'argus).",
+  "actualite": "Comptes 2025 : CA 19,8 M€ et résultat net 249 K€, après une perte de 167 K€ en 2024 (CA 18,2 M€)."
+ },
+ {
+  "rang": 51,
+  "siren": "307049437",
+  "nom": "GARAGE NEVERS SUD",
+  "nom_court": "Garage Nevers Sud (poids lourds, Challuy)",
+  "ville": "Challuy",
+  "adresse": "183-185 route de Lyon",
+  "activite": "Commerce et réparation automobile",
+  "effectif": "20-49 (24 salariés en 2023)",
+  "groupe": "Financière Bongard",
+  "linkedin": "https://www.linkedin.com/company/garage-nevers-sud",
+  "description": "Garage de véhicules industriels et utilitaires : vente, pièces et réparation de poids lourds, véhicules agricoles et de travaux publics, location sans chauffeur. Remporte de nombreux marchés publics (châssis de bennes à ordures, pièces Scania) ; sites secondaires à Toulon-sur-Allier et Bourges."
+ },
+ {
+  "rang": 76,
+  "siren": "391484730",
+  "nom": "MADELIE",
+  "nom_commercial": "Intermarché Super La Machine",
+  "nom_court": "Intermarché Super La Machine",
+  "ville": "La Machine",
+  "adresse": "Route de Decize, Forêt des Glénons, 58260 La Machine",
+  "activite": "Commerce de détail",
+  "effectif": "20-49",
+  "groupe": "Groupement Les Mousquetaires (enseigne Intermarché, adhérent indépendant)",
+  "description": "Supermarché Intermarché Super avec station-service 24/24 à La Machine, entre Nevers et Decize, exploité par la famille Ponti."
+ }
+]

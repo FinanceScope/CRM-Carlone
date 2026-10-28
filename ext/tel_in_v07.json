@@ -1,0 +1,198 @@
+[
+ {
+  "rang": 166,
+  "siren": "421129891",
+  "nom": "LAC LES ATELIERS COMPLEMENTAIRES",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "CHAMP DU TREMBLAT P A DU VAL DE LOIRE 4 RUE DES FORGERONS",
+  "code_postal": "58200",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "telephone": "03 86 28 16 52",
+  "site_web": "https://www.lacdirect.com",
+  "opposition_prospection": true,
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/421129891",
+   "https://www.pappers.fr/entreprise/lac-les-ateliers-complementaires-421129891",
+   "https://www.societe.com/societe/lac-les-ateliers-complementaires-421129891.html",
+   "https://ccibusiness.fr/en/node/31358",
+   "https://www.lacdirect.com/",
+   "https://www.lacdirect.com/contact/"
+  ],
+  "note_contacts": "OPPOSITION À LA PROSPECTION (Pappers) : seules les coordonnées de l'entreprise sont retenues. Standard 03 86 28 16 52, e-mail contact@lacdirect.com et site lacdirect.com repris des données déjà connues ; 3 recherches n'ont fait remonter aucune page (ni le site, ni un annuaire) les confirmant, d'où email_generique laissé à null faute de source vérifiée. Aucun nom de dirigeant ou de responsable financier vu sur le site de l'entreprise dans les résultats : non repris (cf. interlocuteur déjà connu)."
+ },
+ {
+  "rang": 172,
+  "siren": "484649561",
+  "nom": "HYDR'ELEC",
+  "ville": "Saint-Benin-d'Azy",
+  "adresse": "21 B RUE DE LA BADELLE",
+  "code_postal": "58270",
+  "activite": "Captage, traitement et distribution d'eau",
+  "telephone": "03 86 58 48 18",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/484649561",
+   "https://www.pappers.fr/entreprise/hydrelec-484649561"
+  ],
+  "note_contacts": "SAS créée en 2005 : maintenance et construction de stations de pompage, traitement des eaux, chaudronnerie (Pappers). Numéro vu uniquement sur la fiche Selectra 'Hydr Elec' (délégataire du service d'eau potable de Raveau et Myennes, adresse rue de la Badelle à Saint-Benin-d'Azy) — source agrégateur, non confirmé ailleurs ; pas de site ni d'e-mail connus d'après Selectra. Une fiche 118712 (https://www.118712.fr/fiches/WUFSXlZQHwc) apparaît aussi dans les résultats, numéro masqué. Président d'après le registre."
+ },
+ {
+  "rang": 178,
+  "siren": "414871772",
+  "nom": "V.A.R.V.",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "33 BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "telephone": "03 86 21 92 88",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/414871772",
+   "https://www.pappers.fr/entreprise/varv-414871772"
+  ],
+  "note_contacts": "Enseigne du magasin non identifiée. Le numéro vient d'une fiche Cylex sans nom d'enseigne pour le 33 bd Camille Dagonneau (catégories déstockage, meubles, livres, électroménager, prêt-à-porter, bricolage) : source faible, à confirmer à l'appel. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 184,
+  "siren": "792018814",
+  "nom": "M.L.K.M.C.",
+  "nom_commercial": "Carrefour City",
+  "ville": "Nevers",
+  "adresse": "10 AVENUE DU GENERAL DE GAULLE",
+  "code_postal": "58000",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "telephone": "03 86 21 21 30",
+  "site_web": "https://www.carrefour.fr",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/792018814",
+   "https://www.pappers.fr/entreprise/mlkmc-792018814"
+  ],
+  "note_contacts": "Carrefour City franchisé, 10 av. du Général de Gaulle. Le 03 86 21 21 30 apparaît dans deux annuaires (Bible-Marques et coparking.ch) ; Bonial donne un autre numéro (03 86 90 00 77) pour un Carrefour City « 12 rue du Général de Gaulle » : à vérifier. Lionel DECOSSE est aussi gérant de DLS DISTRIBUTION (Carrefour Contact Fourchambault). site_web = site de l'enseigne. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 187,
+  "siren": "790066799",
+  "nom": "TC SERVICES",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 RUE DE LA GUETTE",
+  "code_postal": "58340",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "telephone": "03 86 50 89 52",
+  "site_web": "https://distributeur.mptruck.fr/fr/france-FR/CUST-000803/tc-services/details",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/790066799",
+   "https://www.pappers.fr/entreprise/tc-services-790066799"
+  ],
+  "note_contacts": "86 50 89 52 sur la page des implantations de tc-transports.fr (société TC Transports, lien non établi). La fiche du réseau (distributeur.mptruck.fr/fr/france-FR/CUST-000803/tc-services/details) est à consulter pour trancher. Troisième passe (27/10/2026) : la fiche du réseau MP Truck confirme TC SERVICES au 45 rue de la Guette (distributeur multimarque de pièces poids lourds) et la fiche PagesJaunes « TC Services SARL Cercy la Tour » (garage poids lourds) donne le 03 86 50 89 52, numéro aussi affiché pour Cercy-la-Tour sur la page des implantations de tc-transports.fr. Numéro lu dans l'extrait de recherche, non retrouvé par une recherche du numéro exact ; le 03 86 50 57 26 reste non confirmé. Vérification : relecture seule (pas de recherche) ; numéro publié sous le nom TC Services à Cercy-la-Tour, fiabilité « annuaire » maintenue, page du réseau MP Truck cohérente avec l'adresse du siège."
+ },
+ {
+  "rang": 190,
+  "siren": "445382310",
+  "nom": "PHARMACIE DU PAYS CORBIGEOIS",
+  "ville": "Corbigny",
+  "adresse": "26 AVENUE DU CHAMP DE FOIRE",
+  "code_postal": "58800",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "telephone": "03 86 26 64 56",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/445382310",
+   "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
+  ],
+  "note_contacts": "Officine issue du regroupement en 2023 de la Pharmacie Saint-Louis et de la Pharmacie de l'Anguison (arrêté ARS BFC 2023-1103, recueil des actes de la préfecture de la Nièvre) au 26 av. du Champ de Foire. Numéro vu uniquement sur Pharmao. Dirigeantes d'après le registre uniquement."
+ },
+ {
+  "rang": 196,
+  "siren": "379781610",
+  "nom": "DENIS ET FILS",
+  "ville": "Guérigny",
+  "adresse": "ZI DE VILLEMENANT",
+  "code_postal": "58130",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "03 86 90 97 99",
+  "site_web": "https://www.menuiserie-denis-58.fr/",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/379781610",
+   "https://www.pappers.fr/entreprise/denis-et-fils-379781610"
+  ],
+  "note_contacts": "Menuiserie / charpente (annuaires Obat : travaux.obat.fr/menuisier/nievre, et Villepratique : « Denis et Fils (sarl) - menuisier », zone industrielle de Villemenant). Aucun numéro trouvé (attention : le 03 86 90 90 13 vu dans la même zone est celui d'une autre entreprise, LAGOUTTE & FILS). L'adresse d'entrée (ZI de Villemenant) n'a pas de rue et aucune adresse plus précise n'a été trouvée. Personne physique derrière ROSAWOOD non identifiée. Deuxième passe (27/10/2026) : 03 86 90 97 99 = numéro de la menuiserie Denis et Fils (menuiserie bois/PVC/alu, ZI de Villemenant, Guérigny) relevé dans les annuaires (PagesJaunes « Menuiserie Denis Et Fils à Guérigny »), distinct du 03 86 90 90 13 de LAGOUTTE & FILS. L'entreprise a un site (menuiserie-denis-58.fr) où le numéro reste à confirmer."
+ },
+ {
+  "rang": 197,
+  "siren": "538153586",
+  "nom": "TERRINES DU MORVAN",
+  "ville": "Onlay",
+  "adresse": "RTE DU MONT BEUVRAY",
+  "code_postal": "58370",
+  "activite": "Industries alimentaires",
+  "telephone": "03 86 84 33 66",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/538153586",
+   "https://www.pappers.fr/entreprise/terrines-du-morvan-538153586"
+  ],
+  "note_contacts": "Conserverie (terrines, plats cuisinés) avec magasin d'usine, route du Mont Beuvray à Onlay (Gault&Millau, Burgundy Tourism). Le numéro vient d'un ancien numéro du magazine Vents du Morvan : possiblement périmé, à vérifier. Lien Sabatier / Fernand Dussert : burgundy-tourism.com/regional-products/fernand-dussert et agriculture.gouv.fr (« Le jambon sec du Morvan d'Arnaud Sabatier »). Dirigeant de Terrines du Morvan d'après le registre."
+ },
+ {
+  "rang": 198,
+  "siren": "979433992",
+  "nom": "DLS DISTRIBUTION",
+  "nom_commercial": "Carrefour Contact",
+  "ville": "Fourchambault",
+  "adresse": "12 RUE GAMBETTA",
+  "code_postal": "58600",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "telephone": "03 86 58 18 27",
+  "site_web": "https://www.carrefour.fr",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/979433992",
+   "https://www.pappers.fr/entreprise/dls-distribution-979433992"
+  ],
+  "note_contacts": "Carrefour Contact franchisé, 12 rue Gambetta. Le 03 86 58 18 27 apparaît sur une page Bible-Marques (liste des Carrefour proches) ; Bonial donne un autre numéro, 09 50 42 04 85, pour un « Carrefour Proximité » à la même adresse : à vérifier. Même gérant que M.L.K.M.C. (Carrefour City Nevers). site_web = site de l'enseigne. Dirigeant d'après le registre uniquement."
+ },
+ {
+  "rang": 199,
+  "siren": "541880043",
+  "nom": "MANGEON SOC",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "24 BOULEVARD CAMILLE DAGONNEAU",
+  "code_postal": "58640",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "03 86 61 03 57",
+  "site_web": "http://www.entreprise-mangeon.fr/",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/541880043",
+   "https://www.pappers.fr/entreprise/mangeon-soc-541880043"
+  ],
+  "note_contacts": " sans numéro : seule une fiche annuaire Justacoté 'Entreprise Mangeon, 24 bd Camille Dagonneau, Varennes-Vauzelles' apparaît, sans téléphone visible. Aucun site web trouvé. Dirigeants issus du registre (Pappers) uniquement. Deuxième passe (27/10/2026) : 03 86 61 03 57 = numéro de l'Entreprise Mangeon (couverture, plomberie, chauffage, RGE QualiPAC), publié par PagesJaunes et d'autres annuaires au 24 bd Camille Dagonneau à Varennes-Vauzelles (adresse du registre) ; une fiche plus ancienne (les-energies-renouvelables.eu) le donnait au 32 rue des Récollets à Nevers. Vérification : la fiche PagesJaunes « Entreprise Mangeon à Varennes Vauzelles » et plusieurs annuaires associent bien ce numéro à l'adresse du registre, ce qui lève le doute sur la ville ; le site entreprise-mangeon.fr afficherait le même numéro selon l'extrait de recherche (non vu directement), fiabilité laissée à « annuaire »."
+ },
+ {
+  "rang": 215,
+  "siren": "428920243",
+  "nom": "HOTEL LOIRE",
+  "nom_commercial": "Mercure Nevers Pont de Loire",
+  "ville": "Nevers",
+  "adresse": "QUAI DE MEDINE",
+  "code_postal": "58000",
+  "activite": "Hébergement",
+  "telephone": "03 86 93 93 86",
+  "site_web": "https://all.accor.com/hotel/3480/index.en.shtml",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/428920243",
+   "https://www.pappers.fr/entreprise/hotel-loire-428920243"
+  ],
+  "note_contacts": "Hôtel Mercure Nevers Pont de Loire (59 chambres, quai de Médine). Numéro de l'accueil concordant sur plusieurs annuaires hôteliers (successfulmeetings, Kayak) mais non vu sur la page Accor elle-même. Président = personne morale HPVA PARTICIPATIONS (groupe HPVA, investissement et gestion hôtelière, ~20 hôtels, créé en 2013 selon https://hospitality-on.com/fr/ouverture/hpva-et-ihg-sassocient-pour-un-nouveau-projet) : représentant légal et directeur de l'hôtel non trouvés. Les décisions financières relèvent probablement du siège HPVA, pas de l'hôtel."
+ },
+ {
+  "rang": 216,
+  "siren": "799194881",
+  "nom": "AKBAYIN MURAT",
+  "ville": "Marzy",
+  "adresse": "A RUE AUX CHEVAUX",
+  "code_postal": "58180",
+  "activite": "Travaux de construction spécialisés",
+  "telephone": "03 86 21 42 21",
+  "site_web": "https://www.maconnerie-akbayin.fr/",
+  "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/799194881",
+   "https://www.pappers.fr/entreprise/akbayin-murat-799194881"
+  ],
+  "note_contacts": "Maçonnerie générale et gros œuvre. Listée sur l'annuaire 118000 (https://www.118000.fr/v_marzy_58/c_entreprise-de-maconnerie) au 15A rue Chevaux, 58180 Marzy, mais le numéro n'est pas visible dans les extraits. Gérant issu du registre uniquement. Deuxième passe (27/10/2026) : 03 86 21 42 21 est le numéro de l'entreprise de maçonnerie Akbayin Murat (15 A rue aux Chevaux, Marzy) sur PagesJaunes ; l'entreprise a un site maconnerie-akbayin.fr (page contact) où le numéro n'a pas pu être lu. Vérification : relu sans recherche, numéro PagesJaunes à l'adresse de Marzy cohérent, fiabilité « annuaire » maintenue."
+ }
+]

@@ -1,0 +1,88 @@
+[
+ {
+  "rang": 166,
+  "siren": "421129891",
+  "nom": "LAC LES ATELIERS COMPLEMENTAIRES",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "CHAMP DU TREMBLAT P A DU VAL DE LOIRE 4 RUE DES FORGERONS",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.lacdirect.com",
+  "email": "contact@lacdirect.com",
+  "linkedin": "https://www.linkedin.com/company/ateliers-complementaires",
+  "description": "Fabricant de PLV (publicité sur le lieu de vente) et agenceur de points de vente : bureau d'études, ateliers métal et menuiserie, impression numérique grand format, corners, présentoirs et signalétique, de la conception à la pose, pour des marques nationales (Somfy, Magimix, Decathlon…). Site unique au 4 rue des Forgerons, parc d'activités du Val de Loire (Champ du Tremblat) à Cosne-Cours-sur-Loire.",
+  "actualite": "Avril 2026 : exposant au salon Shop! 2026 à Paris Expo Porte de Versailles (1er-2 avril, stand G07, pavillon 4), le salon du marketing point de vente.",
+  "opposition_prospection": true
+ },
+ {
+  "rang": 168,
+  "siren": "519373401",
+  "nom": "CURT BATIMENT",
+  "nom_commercial": "EG Curt",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "12 RUE ISAAC NEWTON",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.curt-sarl.com/",
+  "email": "info@egcurt.fr"
+ },
+ {
+  "rang": 172,
+  "siren": "484649561",
+  "nom": "HYDR'ELEC",
+  "ville": "Saint-Benin-d'Azy",
+  "adresse": "21 B RUE DE LA BADELLE",
+  "activite": "Captage, traitement et distribution d'eau",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 178,
+  "siren": "414871772",
+  "nom": "V.A.R.V.",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "33 BOULEVARD CAMILLE DAGONNEAU",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 184,
+  "siren": "792018814",
+  "nom": "M.L.K.M.C.",
+  "nom_commercial": "Carrefour City",
+  "ville": "Nevers",
+  "adresse": "10 AVENUE DU GENERAL DE GAULLE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.carrefour.fr"
+ },
+ {
+  "rang": 186,
+  "siren": "422413567",
+  "nom": "SPORT COMM",
+  "ville": "Nevers",
+  "adresse": "41 BOULEVARD DU PRE PLANTIN",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://sportcomm.fr/",
+  "email": "communication@sportcomm.fr"
+ },
+ {
+  "rang": 187,
+  "siren": "790066799",
+  "nom": "TC SERVICES",
+  "ville": "Cercy-la-Tour",
+  "adresse": "45 RUE DE LA GUETTE",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://distributeur.mptruck.fr/fr/france-FR/CUST-000803/tc-services/details"
+ },
+ {
+  "rang": 190,
+  "siren": "445382310",
+  "nom": "PHARMACIE DU PAYS CORBIGEOIS",
+  "ville": "Corbigny",
+  "adresse": "26 AVENUE DU CHAMP DE FOIRE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés"
+ }
+]

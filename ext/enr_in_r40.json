@@ -1,0 +1,79 @@
+[
+ {
+  "rang": 343,
+  "siren": "408482636",
+  "nom": "SAS Domaine de la Gagère",
+  "ville": "Luzy",
+  "adresse": "LA GAGERE",
+  "activite": "Hébergement",
+  "effectif": "1-2 salariés",
+  "site_web": "https://la-gagere.com",
+  "email": "info@la-gagere.com"
+ },
+ {
+  "rang": 350,
+  "siren": "419212816",
+  "nom": "SARL C.P.",
+  "nom_commercial": "Proximarché",
+  "ville": "Chantenay-Saint-Imbert",
+  "adresse": "PLACE DE L'EGLISE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "1-2 salariés",
+  "site_web": "https://www.facebook.com/proximarchechantenaysaintimbert/"
+ },
+ {
+  "rang": 358,
+  "siren": "879790616",
+  "nom": "MENUISERIE BRADE",
+  "nom_commercial": "MENUISERIE ARTISANALE BRADE",
+  "ville": "Guipy",
+  "adresse": "24 RUE SAINT JACQUES DE COMPOSTELLE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 360,
+  "siren": "438561789",
+  "nom": "AFIC",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "2 RUE THOMAS EDISON",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 362,
+  "siren": "901643510",
+  "nom": "HOLDING VEGEO GROUPE",
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "2 RUE DE VEAUPOULE",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 370,
+  "siren": "949641534",
+  "nom": "MATHUSALEM",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "17 RUE DU 14 JUILLET",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 372,
+  "siren": "691880173",
+  "nom": "MECAMACHINE HOLDING",
+  "ville": "La Machine",
+  "adresse": "LES ZAGOTS",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "effectif": "1-2 salariés"
+ },
+ {
+  "rang": 373,
+  "siren": "324950039",
+  "nom": "ELINA",
+  "ville": "Châteauneuf-Val-de-Bargis",
+  "adresse": "11 GRANDE RUE",
+  "activite": "Activités des services financiers, hors assurance et caisses de retraite",
+  "effectif": "1+ salarié"
+ }
+]

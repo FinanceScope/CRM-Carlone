@@ -1,0 +1,81 @@
+[
+ {
+  "rang": 425,
+  "siren": "951603471",
+  "nom": "LE FOURNIL ADRIEN",
+  "ville": "Pouilly-sur-Loire",
+  "adresse": "9 place des Frères Mollet, 58150 Pouilly-sur-Loire",
+  "activite": "Industries alimentaires",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 432,
+  "siren": "901616516",
+  "nom": "MAISON ROLLON",
+  "ville": "Saint-Père",
+  "activite": "Industries alimentaires",
+  "effectif": "3-5 salariés"
+ },
+ {
+  "rang": 218,
+  "siren": "753715762",
+  "nom": "ANDIMAN & CO",
+  "ville": "Nevers",
+  "adresse": "8 T PL DU CHAMP DE FOIRE AUX MOUTONS",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "1-2 salariés",
+  "site_web": "http://www.andiman.eu"
+ },
+ {
+  "rang": 243,
+  "siren": "449498245",
+  "nom": "LES RUCHERS DU MORVAN s.a.r.l.",
+  "ville": "Corancy",
+  "adresse": "LD PORT DE L HOMME",
+  "activite": "Culture et production animale, chasse et services annexes",
+  "effectif": "1+ salarié",
+  "site_web": "https://www.ruchers-du-morvan.fr/"
+ },
+ {
+  "rang": 268,
+  "siren": "522099209",
+  "nom": "CARS AND CO",
+  "nom_court": "Ucar Cosne (CARS AND CO, à confirmer)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "97 AVENUE DU MARECHAL LECLERC",
+  "activite": "Activités de location et location-bail",
+  "effectif": "1-2 salariés",
+  "site_web": "https://ucar.fr/fr/agences/cosne-cours-sur-loire-58200"
+ },
+ {
+  "rang": 315,
+  "siren": "810592634",
+  "nom": "HC FROID",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "9 ROUTE DE L'ETANG DES GRANGES",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "1-2 salariés",
+  "site_web": "https://www.hc-froid.com/"
+ },
+ {
+  "rang": 316,
+  "siren": "851715821",
+  "nom": "IMS Consulting Europe",
+  "ville": "Tamnay-en-Bazois",
+  "adresse": "2261 RTE IMPERIALE ECO PARC DE LA NIEVR",
+  "activite": "Autres activités spécialisées, scientifiques et techniques",
+  "effectif": "1-2 salariés",
+  "site_web": "https://ims-carbon.com/",
+  "email": "info@imsplc.com"
+ },
+ {
+  "rang": 326,
+  "siren": "400725560",
+  "nom": "SARL MARI",
+  "ville": "Montsauche-les-Settons",
+  "adresse": "LAC DES SETTONS",
+  "activite": "Hébergement",
+  "effectif": "1-2 salariés",
+  "site_web": "https://settons-camping.fr/"
+ }
+]

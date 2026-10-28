@@ -291,6 +291,17 @@ a{color:var(--accent);text-underline-offset:2px}
 .s-partenaire{background:var(--v2-soft);color:var(--v2)}
 .s-refus{background:var(--bad-soft);color:var(--bad)}
 .warn{background:var(--bad-soft);color:var(--bad)}
+.lv-haute{background:var(--v2-soft);color:var(--v2)}
+.lv-moyenne{background:var(--warm-soft);color:var(--warm)}
+.lv-basse{background:var(--bad-soft);color:var(--bad)}
+.lv-aucune{background:var(--v0-soft);color:var(--muted)}
+.fiab{width:100%;border-collapse:collapse;font-size:13px;margin-top:6px}
+.fiab th{text-align:left;font-weight:600;padding:6px 8px 6px 0;vertical-align:top;white-space:nowrap}
+.fiab td{padding:6px 0;border-top:1px solid var(--line-2);vertical-align:top}
+.fiab tr:first-child td{border-top:0}
+.fiab .pill{margin-right:6px}
+.linked{list-style:none;margin:0;padding:0;display:grid;gap:6px;font-size:13.5px}
+.linked span{color:var(--muted)}
 
 /* Fiche */
 .detail{position:sticky;top:calc(env(safe-area-inset-top,0px) + 14px);max-height:calc(100vh - 28px);overflow:auto}
@@ -852,6 +863,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
         <option value="dist">Tri : proximité de Cosne</option>
         <option value="eff">Tri : effectif</option>
         <option value="relance">Tri : prochain rappel</option>
+        <option value="completude">Tri : fiches à enrichir d'abord</option>
       </select>
     </div>
     <span class="count num" id="count"></span>
@@ -1299,6 +1311,18 @@ function peersHTML(c){
   const p=peersOf(c);if(!p.length)return "";
   return `<span class="peers">Même standard que ${p.map(o=>{const n=callsOf(o).n;return `<button type="button" class="plink" data-open="${o.rang}">${esc(nameOf(o))}</button>${n?` (${n} appel${n>1?"s":""})`:""}`}).join(", ")} : traiter ${p.length>1?"toutes ces sociétés":"les deux sociétés"} dans le même appel.</span>`;
 }
+/* Comptes liés (même dirigeant au registre, société dirigeante ou dirigée) : un appel peut couvrir plusieurs fiches */
+function linkedHTML(c){
+  const l=(c.comptes_lies||[]).filter(x=>byId[x.rang]);if(!l.length)return "";
+  return `<div class="d-sec"><h3>Comptes liés</h3><ul class="linked">${l.map(x=>{const o=byId[x.rang],n=callsOf(o).n;return `<li><button type="button" class="plink" data-open="${o.rang}">${esc(nameOf(o))}</button> <span>(${esc(o.ville||"")}) · ${esc(x.lien)}${n?` · ${n} appel${n>1?"s":""}`:""}</span></li>`}).join("")}</ul><p class="muted small" style="margin:6px 0 0">Un nom identique au registre ne prouve pas qu'il s'agit de la même personne : le faire confirmer à l'appel, puis traiter les sociétés ensemble.</p></div>`;
+}
+/* Fiabilité des données : niveau, source et date par champ, score de complétude (enrichissement) */
+const FIAB_L={standard:"Standard",dirigeant:"Dirigeant",chiffres:"Chiffres",effectif:"Effectif",interlocuteurs:"Interlocuteurs",opposition:"Opposition à la prospection"};
+const LV_L={haute:"fiable",moyenne:"moyen",basse:"à vérifier",aucune:"manquant"};
+function fiabHTML(c){
+  const f=c.fiab;if(!f)return "";
+  return `<div class="d-sec"><details class="pp-d"><summary>Fiabilité des données · complétude ${c.completude}/100</summary><table class="fiab"><tbody>${Object.keys(FIAB_L).filter(k=>f[k]).map(k=>{const [lv,src,dt]=f[k];return `<tr><th scope="row">${FIAB_L[k]}</th><td><span class="pill lv-${esc(lv)}">${LV_L[lv]||esc(lv)}</span>${esc(src)}${dt?` · ${esc(dt)}`:""}</td></tr>`}).join("")}</tbody></table>${c.telephone_verifie?`<p class="muted small" style="margin:6px 0 0">Standard retrouvé sur : ${c.telephone_verifie.sources.map(u=>linkOut(u)).join(" ")}</p>`:""}</details></div>`;
+}
 const copyBtn=(v,what)=>`<button class="copy" type="button" data-copy="${esc(v)}" aria-label="Copier ${esc(what||v)}">copier</button>`;
 const pjLink=c=>`<a class="small" href="https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=${encodeURIComponent(nameOf(c).replace(/\s*\([^)]*\)/g,""))}&ou=${encodeURIComponent(c.ville||"Nièvre")}" target="_blank" rel="noopener">Chercher sur PagesJaunes</a>`;
 function findHTML(c,ro){
@@ -1586,7 +1610,9 @@ function renderQualite(){
   const R=[["Standard connu",hasTel,null,"notel"],["Numéro vérifié, pas seulement en annuaire",verif,null,"noverif"],["Interlocuteur finance, RH ou administration nommé",hasAdmin,adminConf,"noadmin"],["Ligne directe ou e-mail nominatif",hasDirect,null,"nodirect"]];
   const bar=(list,f,fc,qf,top,lab)=>{const n=list.filter(f).length,nc=fc?list.filter(fc).length:n,w=v=>list.length?v/list.length*100:0;
     return `<button type="button" class="qb" data-qf="${qf}" data-qt="${top}" title="Voir les ${list.length-n} fiches à compléter"><span class="qk">${lab}</span><span class="qt"><i class="q1" style="width:${w(nc)}%"></i>${fc&&n>nc?`<i class="q2" style="width:${w(n-nc)}%"></i>`:""}</span><span class="qn">${n} / ${list.length}</span></button>`};
-  $("#qualite").innerHTML=R.map(([l,f,fc,qf])=>`<div class="qr"><h3>${l}${fc?` <span class="muted small" style="font-weight:400">(plein : confirmé, clair : à confirmer)</span>`:""}</h3>${bar(cib,f,fc,qf,"cibles","Cibles")}${bar(act,f,fc,qf,"actives","Actives")}</div>`).join("");
+  const avg=l=>{const v=l.filter(c=>c.completude!=null);return v.length?Math.round(v.reduce((t,c)=>t+c.completude,0)/v.length):null},ac=avg(cib),aa=avg(act);
+  $("#qualite").innerHTML=R.map(([l,f,fc,qf])=>`<div class="qr"><h3>${l}${fc?` <span class="muted small" style="font-weight:400">(plein : confirmé, clair : à confirmer)</span>`:""}</h3>${bar(cib,f,fc,qf,"cibles","Cibles")}${bar(act,f,fc,qf,"actives","Actives")}</div>`).join("")
+    +(aa!=null?`<p class="muted small" style="margin:4px 0 0">Complétude moyenne des fiches : ${ac}/100 pour les cibles, ${aa}/100 pour les actives. Dans Entreprises, « Tri : fiches à enrichir d'abord » les classe de la moins complète à la plus complète ; le détail est dans « Fiabilité des données » de chaque fiche.</p>`:"");
 }
 function renderWaves(){
   const ord=(a,b)=>(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||effMin(b.effectif)-effMin(a.effectif)||a.rang-b.rang;
@@ -1717,7 +1743,8 @@ function filtered(){
     dist:(a,b)=>kmEff(a)-kmEff(b)||a.rang-b.rang,
     eff:(a,b)=>effMin(b.effectif)-effMin(a.effectif)||a.rang-b.rang,
     plafond:(a,b)=>((b.art||{}).plafond||0)-((a.art||{}).plafond||0)||((b.art||{}).resultat||0)-((a.art||{}).resultat||0)||a.rang-b.rang,
-    relance:(a,b)=>rel(a)<rel(b)?-1:rel(a)>rel(b)?1:a.rang-b.rang
+    relance:(a,b)=>rel(a)<rel(b)?-1:rel(a)>rel(b)?1:a.rang-b.rang,
+    completude:(a,b)=>(a.completude??100)-(b.completude??100)||(PRIO_ORD[a.priorite]??3)-(PRIO_ORD[b.priorite]??3)||a.rang-b.rang
   };
   return list.sort(by[filt.sort]||by.rang);
 }
@@ -1821,9 +1848,11 @@ function renderDetail(force){
   const callbox=`<div class="callbox" data-r="${c.rang}">
       <div class="cb-nums">
       ${direct?`<div><span class="cb-l">Ligne directe notée</span><span class="contact">${telLink(direct,"btn-call")}${copyBtn(direct,"la ligne directe")}</span></div>`:""}
-      ${tel?`<div><span class="cb-l">${!c.telephone?"Standard noté par l'équipe":c.telephone_groupe?esc(grpTxt(c)):"Standard"}${c.telephone&&c.telephone_a_confirmer?" · numéro d'annuaire, à confirmer à l'appel":""}</span><span class="contact">${telLink(tel,direct?"":"btn-call")}${copyBtn(tel,"le numéro")}</span>${peersHTML(c)}</div>`:direct?"":findHTML(c,ro)}
+      ${tel?`<div><span class="cb-l">${!c.telephone?"Standard noté par l'équipe":c.telephone_groupe?esc(grpTxt(c)):"Standard"}${c.telephone&&c.telephone_a_confirmer?" · numéro d'annuaire, à confirmer à l'appel":c.telephone&&c.telephone_verifie&&sameNum(tel,c.telephone)?" · confirmé par deux sources":""}</span><span class="contact">${telLink(tel,direct?"":"btn-call")}${copyBtn(tel,"le numéro")}</span>${peersHTML(c)}${c.telephone_doute&&sameNum(tel,c.telephone)?`<span class="peers"><b class="late">Attention :</b> ce numéro est aussi publié pour un autre titulaire. Vérifier le nom en décrochant.</span>`:""}</div>`:direct?"":findHTML(c,ro)}
+      ${c.telephone_alternatif&&!sameNum(c.telephone_alternatif.tel,tel)?`<div class="cb-row small"><span class="muted">Autre numéro publié${c.telephone_alternatif.date?" (relevé le "+esc(c.telephone_alternatif.date)+")":""} :</span><span class="contact">${telLink(c.telephone_alternatif.tel)}${copyBtn(c.telephone_alternatif.tel)}</span>${linkOut(c.telephone_alternatif.source,"source")}</div>`:""}
       ${autres.length?`<div class="cb-row small"><span class="muted">Autres numéros cités :</span>${autres.map(t=>`<span class="contact">${telLink(t)}${copyBtn(t)}</span>`).join("")}</div>`:""}
       </div>
+      ${c.declencheur?`<div class="cb-row small"><span class="muted">Pourquoi appeler maintenant :</span> <span>${esc(c.declencheur)}</span></div>`:""}
       <div class="cb-who">${askHTML(c,4)}</div>
       ${fi&&fi.qui_appeler?`<details class="pp-d"><summary>Consigne d'appel détaillée</summary><p>${esc(fi.qui_appeler)}</p></details>`:""}
       ${resultCtl(c)}
@@ -1925,9 +1954,9 @@ function renderDetail(force){
       ${line("Distance",c.distance_cosne_km!=null?`<span class="num">${c.distance_cosne_km===0?"À Cosne même":"≈ "+c.distance_cosne_km+" km de Cosne"}</span>`:"")}
       ${line("Site près de Cosne",c.site_local?esc(c.site_local):"")}
       ${op&&c.telephone?line("Téléphone",`<span class="contact">${telLink(c.telephone)}${copyBtn(c.telephone,"le numéro")}</span>`):""}
-      ${line("E-mail",c.email?copyable(c.email)+(c.email_a_confirmer?ACONF:""):"")}
+      ${line("E-mail",c.email?copyable(c.email)+(c.email_a_confirmer?ACONF:"")+(c.email_source?" "+linkOut(c.email_source,"source"):""):"")}
       ${line("Site web",linkOut(c.site_web))}
-      ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise"):"")}
+      ${line("LinkedIn",c.linkedin?linkOut(c.linkedin,"Page entreprise")+(c.effectif_linkedin?` <span class="muted">(${esc(c.effectif_linkedin)})</span>`:""):"")}
     </dl>
     ${!c.telephone&&!c.email&&!c.site_web?`<span class="muted">${c.ext&&!c.enrichie&&!c.contacts_ok?"Coordonnées pas encore recherchées.":"Pas de coordonnées publiques trouvées."}</span>`:""}
     ${c.note_contacts?`<details class="mailer"><summary>Notes de la recherche de coordonnées</summary><p class="txt muted" style="margin-top:8px;font-size:13.5px">${esc(c.note_contacts)}</p></details>`:""}
@@ -1936,6 +1965,7 @@ function renderDetail(force){
     <h3>Activité</h3>
     <p class="txt">${esc(fi&&fi.resume||c.description||c.activite)}</p>
     ${c.actualite?`<p class="txt"><b>Actualité :</b> ${esc(c.actualite)}</p>`:""}
+    ${(c.actualites||[]).length?`<div class="txt"><b>Actualités récentes</b><ul class="checks">${c.actualites.map(x=>`<li>${esc(x.date)} : ${esc(x.fait)} ${linkOut(x.source,"source")}</li>`).join("")}</ul></div>`:""}
     <dl class="kv">
       ${line("Secteur",esc(c.activite))}
       ${line("Ce qu'elle fait",fi&&fi.activite?esc(fi.activite):"")}
@@ -1948,6 +1978,8 @@ function renderDetail(force){
     </dl>
   </div>
   ${c.verifie?`<div class="d-sec"><h3>Contre-vérification du 21/10/2026</h3>${(c.corrections||[]).length?`<ul class="checks">${c.corrections.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:`<p class="txt muted">Fiche revérifiée sur les sources officielles : aucune erreur trouvée.</p>`}</div>`:""}
+  ${linkedHTML(c)}
+  ${fiabHTML(c)}
   ${(c.sources||[]).length?`<div class="d-sec"><h3>Sources</h3><div class="src">${c.sources.slice(0,6).map(u=>linkOut(u)).join("")}</div></div>`:""}
   `;
   restoreForms(box,keepF,".callbox");
@@ -2397,8 +2429,8 @@ $("#cExport").addEventListener("click",()=>{
 });
 $("#fExport").addEventListener("click",()=>{
   const list=filtered();
-  const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","telephone_e164","standard_note_equipe","email","site_web","dirigeants","interlocuteurs_finance_rh_admin","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appels","dernier_resultat","dernier_appel","notes","refus_prospection_date","refus_canal","historique","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","lieu_decision","argument_appel","comment_appeler","vigilance","raison_priorite","a_confirmer","opposition_pappers","adresse","code_postal"];
-  const rows=list.map(c=>{const s=S(c),cf=c.contact_finance||{},cd=c.contact_dirigeant||{},a=c.art||{},fi=c.fiche||{},cl=callsOf(c);return [c.rang,c.nom,c.nom_commercial||"",c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,RAW(e164(c.telephone)),telIn(s.tel_trouve),c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+(d.fonction?" ("+d.fonction+")":"")).join(" / "),adminTxt(c),SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,cl.n,RLABEL[cl.last]||"",cl.lastT?fmtStamp(cl.lastT):"",s.notes,...oppD(c),histTxt(c),cd.nom,cd.fonction,cd.tel_direct,cd.email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,fi.angle_art,fi.qui_appeler,(fi.vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":c.opposition_prospection===false?"non":"non vérifiée",c.adresse,c.code_postal]});
+  const cols=["rang","nom","nom_commercial","siren","ville","distance_cosne_km","vague","activite","ca","resultat","effectif","priorite","regime_fiscal","resultat_retenu","exercice","plafond_annuel","oeuvres_deductibles_5_ans","lieu_exposition","telephone","telephone_e164","standard_note_equipe","email","site_web","dirigeants","interlocuteurs_finance_rh_admin","statut_prospection","responsable","interlocuteur","coordonnees_directes","prochaine_action","date_rappel","heure_rappel","rdv_date","rdv_heure","rdv_note","appels","dernier_resultat","dernier_appel","notes","refus_prospection_date","refus_canal","historique","dirigeant_contact","fonction_dirigeant","tel_direct_dirigeant","email_dirigeant","decideur_financier","fonction_decideur","type_decideur","tel_direct_decideur","email_decideur","linkedin_decideur","source_decideur","lieu_decision","argument_appel","comment_appeler","vigilance","raison_priorite","a_confirmer","opposition_pappers","adresse","code_postal","completude","fiabilite_standard","autre_numero_publie","comptes_lies","pourquoi_maintenant","actualites_recentes"];
+  const rows=list.map(c=>{const s=S(c),cf=c.contact_finance||{},cd=c.contact_dirigeant||{},a=c.art||{},fi=c.fiche||{},cl=callsOf(c);return [c.rang,c.nom,c.nom_commercial||"",c.siren,c.ville,c.distance_cosne_km,c.vague,c.activite,c.ca,c.resultat,c.effectif,c.priorite,a.regime,a.resultat,a.annee,a.plafond,a.prix_max,a.espace_txt,c.telephone,RAW(e164(c.telephone)),telIn(s.tel_trouve),c.email,c.site_web,(c.dirigeants||[]).map(d=>d.nom+(d.fonction?" ("+d.fonction+")":"")).join(" / "),adminTxt(c),SLABEL[statutOf(c)],s.responsable,s.contact_nom,s.contact_coord,s.prochaine_action,s.date_relance,s.rappel_heure,s.rdv_date,s.rdv_heure,s.rdv_note,cl.n,RLABEL[cl.last]||"",cl.lastT?fmtStamp(cl.lastT):"",s.notes,...oppD(c),histTxt(c),cd.nom,cd.fonction,cd.tel_direct,cd.email,cf.nom,cf.fonction,cf.type,cf.tel_direct,cf.email,cf.linkedin,cf.source,c.decision,fi.angle_art,fi.qui_appeler,(fi.vigilance||[]).join(" | "),c.priorite_raison,[c.telephone_a_confirmer?"téléphone":null,c.email_a_confirmer?"e-mail":null,cf.a_confirmer?"décideur":null].filter(Boolean).join(", "),c.opposition_prospection?"oui":c.opposition_prospection===false?"non":"non vérifiée",c.adresse,c.code_postal,c.completude,((c.fiab||{}).standard||[])[1]||"",(c.telephone_alternatif||{}).tel||"",(c.comptes_lies||[]).filter(x=>byId[x.rang]).map(x=>nameOf(byId[x.rang])).join(" / "),c.declencheur||"",(c.actualites||[]).map(x=>x.date+" : "+x.fait).join(" | ")]});
   saveFile(list.length===allCompanies.length?"crm-entreprises-nievre.csv":`crm-entreprises-nievre-${list.length}.csv`,csvOf(cols,rows));
 });
 $("#exportIcs").addEventListener("click",()=>{

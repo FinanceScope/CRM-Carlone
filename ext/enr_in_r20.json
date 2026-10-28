@@ -1,0 +1,89 @@
+[
+ {
+  "rang": 143,
+  "siren": "409109360",
+  "nom": "VERTINE",
+  "ville": "Decize",
+  "adresse": "ROUTE DE CHAMPVERT",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.bricomarche.com/magasin/decize/01832"
+ },
+ {
+  "rang": 150,
+  "siren": "412264111",
+  "nom": "LES FORGES DU MORVAN",
+  "ville": "Luzy",
+  "adresse": "RTE DE TOULON",
+  "activite": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+  "effectif": "10-19 salariés"
+ },
+ {
+  "rang": 153,
+  "siren": "318908837",
+  "nom": "SELAS PIERRE JOURDIER MARIE CHERAMY ET JEAN-CHARLES REROLLE",
+  "ville": "Nevers",
+  "adresse": "3 RUE HENRI BARBUSSE",
+  "activite": "Activités juridiques",
+  "effectif": "10-19 salariés",
+  "site_web": "https://cheramy-nevers.notaires.fr",
+  "email": "etude.cheramy@notaires.fr"
+ },
+ {
+  "rang": 155,
+  "siren": "500433289",
+  "nom": "BORFLEX CORVOL",
+  "ville": "Corvol-l'Orgueilleux",
+  "adresse": "57 GR GRANDE RUE",
+  "activite": "Fabrication de produits en caoutchouc et en plastique",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.borflex-group.com",
+  "email": "borflex-corvol@borflex.fr"
+ },
+ {
+  "rang": 156,
+  "siren": "353683089",
+  "nom": "COIGNET PNEUS",
+  "ville": "Clamecy",
+  "adresse": "ROUTE DE COSNE LE FOULON",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "10-19 salariés",
+  "site_web": "https://clamecy-pneus.eurotyre.fr/",
+  "email": "atelier.coignet@gmail.com"
+ },
+ {
+  "rang": 158,
+  "siren": "442496816",
+  "nom": "CLEMENCIEL",
+  "nom_commercial": "Bricomarché La Charité",
+  "ville": "La Charité-sur-Loire",
+  "adresse": "ZONE INDUSTRIELLE 130 RUE PLANTES DES RELIGIEUSES",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés",
+  "groupe": "Groupement Les Mousquetaires (enseigne Bricomarché) ; présidée jusqu'en septembre 2026 par la holding XENT, qui préside le Bricomarché de Cosne (Ravine)",
+  "site_web": "https://www.bricomarche.com/magasin/la-charite-sur-loire/04656",
+  "description": "Magasin de bricolage et d'aménagement de la maison sous enseigne Bricomarché à La Charité-sur-Loire (adresse affichée par l'enseigne : rue de Gérigny ; siège déclaré : ZI, 130 rue Plantes des Religieuses), pour particuliers et artisans, à 29 km de Cosne.",
+  "actualite": "Septembre 2026 (annonce BODACC du 22/09/2026) : Isabelle Joby (née Venuat) devient présidente à la place de la holding XENT.",
+  "opposition_prospection": false
+ },
+ {
+  "rang": 163,
+  "siren": "691880454",
+  "nom": "ETABLISSEMENTS FRANCO ET FILS",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "760 AVENUE DE PARIS",
+  "activite": "Autres industries manufacturières",
+  "effectif": "10-19 salariés",
+  "site_web": "https://www.francofils.com",
+  "email": "info@francofils.com"
+ },
+ {
+  "rang": 164,
+  "siren": "444489033",
+  "nom": "DISTRI BIO",
+  "ville": "Nevers",
+  "adresse": "47 BOULEVARD GRANDS PRES DES BORDES",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "10-19 salariés"
+ }
+]

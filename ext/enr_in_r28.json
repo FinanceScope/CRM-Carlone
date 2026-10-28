@@ -1,0 +1,78 @@
+[
+ {
+  "rang": 180,
+  "siren": "883750721",
+  "nom": "PHARMACIE DES VIGNES",
+  "ville": "Saint-Léger-des-Vignes",
+  "adresse": "58 ROUTE NATIONALE",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://pharmacie-des-vignes-saint-leger-des-vignes.giropharm.fr"
+ },
+ {
+  "rang": 182,
+  "siren": "538141094",
+  "nom": "TEXYS HD",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZA DES CHAMONDS 16 RUE EDOUARD BRANLY",
+  "activite": "Commerce de gros, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 203,
+  "siren": "810992081",
+  "nom": "L.P.C.",
+  "ville": "Champvert",
+  "adresse": "LE PRE CHARPIN",
+  "activite": "Fabrication d'autres produits minéraux non métalliques",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 222,
+  "siren": "305690950",
+  "nom": "CINE MAZARIN",
+  "ville": "Nevers",
+  "adresse": "120 RUE DE CHARLEVILLE-MEZIERES",
+  "activite": "Production de films cinématographiques, de vidéo et de programmes de télévision ; enregistrement sonore et édition musicale",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 223,
+  "siren": "499431286",
+  "nom": "GP AUTO 58",
+  "ville": "Nevers",
+  "adresse": "10 PLACE DU CHAMP DE FOIRE",
+  "activite": "Commerce et réparation d'automobiles et de motocycles",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.gp-auto.fr/",
+  "email": "gpauto58@orange.fr"
+ },
+ {
+  "rang": 236,
+  "siren": "841401722",
+  "nom": "DB INFORMATIQUE",
+  "ville": "Nevers",
+  "adresse": "18 RUE DE CHARLEVILLE-MEZIERES",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "6-9 salariés"
+ },
+ {
+  "rang": 238,
+  "siren": "828037218",
+  "nom": "PALEXPRESS",
+  "ville": "Saint-Martin-du-Puy",
+  "adresse": "1 ROUTE DE CHALAUX",
+  "activite": "Entreposage et services auxiliaires des transports",
+  "effectif": "6-9 salariés",
+  "site_web": "https://www.palexpress.fr/"
+ },
+ {
+  "rang": 240,
+  "siren": "444863005",
+  "nom": "PAUL GUILLOT SARL",
+  "ville": "Arquian",
+  "adresse": "54 RTE DE ST AMAND",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "6-9 salariés"
+ }
+]
