@@ -1,0 +1,105 @@
+[
+ {
+  "siren": "780060190",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun comptable, assistant(e) de gestion ni RH de la scierie trouvé en 3 recherches (LinkedIn et web) : la page LinkedIn de la scierie (Dirol, 11-50 salariés) ne fait ressortir qu'Émilie Moitré, responsable de production (non retenue, rôle hors cible), et un profil TFF Group sans intitulé. Depuis le rachat par TFF Group (2024), la finance relève probablement du groupe (Saint-Romain, Côte-d'Or) : demander à M. Didier Petitrenaud qui tient la comptabilité, sur place ou chez TFF. Vérification : relecture sans recherche, note cohérente avec la fiche (aucun contact retenu).",
+  "recherches": 3
+ },
+ {
+  "siren": "317750313",
+  "contacts": [
+   {
+    "nom": "Fabrice LIBERT",
+    "fonction": "Directeur (signature des réponses aux avis clients de l'ibis Nevers sur le site Accor)",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://all.accor.com/hotel/0947/index.ko.shtml",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : Fabrice Libert signe « Directeur » des réponses aux avis clients sur la fiche Accor « ibis Nevers » (code 0947, rue du Plateau de la Bonne Dame ; le site_web du fichier pointe vers le code 0882, à vérifier), réponses non datées et aucune autre source le reliant à l'hôtel, d'où « probable » ; aucun DAF ni RH de HPVA trouvé (3 recherches). La décision financière se prend vraisemblablement au siège de HPVA : demander au directeur de l'hôtel le bon interlocuteur. Vérification : 1 recherche ; les pages Accor du code 0947 (all.accor.com en français et en coréen, accorhotels.com « hotel-0947-ibis-nevers ») sont bien celles de l'ibis Nevers, RN 7 rue du Plateau de la Bonne Dame, adresse de la société : c'est le lien 0882 du fichier qui semble erroné ; M. Libert y signe « Directeur » (et « F.LIBERT Manager » sur la page française), réponses toujours non datées, aucune autre source : « probable » maintenu.",
+  "recherches": 3
+ },
+ {
+  "siren": "344037098",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun(e) secrétaire, assistant(e) ni comptable trouvé(e) en 3 recherches : LinkedIn ne montre que le gérant Jean-Luc Bouvart (profil « POUSSEAUX BATIMENT », https://www.linkedin.com/in/jean-luc-bouvart-58120a97/) et un salarié sans intitulé. Entreprise familiale : la gestion est probablement assurée par le gérant ou un membre de la famille, la comptabilité peut-être externalisée ; noter qu'une fiche Cylex donne le 03 86 27 04 01 et l'indique « fermé » au moment de la fiche. Vérification : relecture sans recherche, note cohérente (aucun contact ; le numéro cité est un standard d'annuaire, pas une ligne personnelle).",
+  "recherches": 3
+ },
+ {
+  "siren": "821203999",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : pas de nouveau nom en 2 recherches (LinkedIn et web) : rien ne vient compléter ni contredire la page équipe déjà relevée (Mégane Delpech administratrice, Laurent Codair secrétaire général, Christelle Bernigaud secrétaire comptable). Demander Mme Delpech ou M. Codair, et vérifier à l'appel que la page équipe est à jour. Vérification : relecture sans recherche, cohérent avec la page équipe déjà relevée dans le fichier.",
+  "recherches": 2
+ },
+ {
+  "siren": "955500194",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun responsable de carrière ni RAF nommé en 2 recherches : LinkedIn ne montre qu'un ancien stagiaire et un intérimaire de laboratoire (2022-2023) à Picampoix, et des publications repartagées (non datées) d'une offre Eiffage Route de chef de carrière à Corbigny, signe que le poste a pu changer de titulaire depuis le dossier DREAL. Décision au sein d'Eiffage Route : demander au standard le chef de carrière actuel et l'entité qui tient la comptabilité. Vérification : relecture sans recherche, note cohérente avec la fiche.",
+  "recherches": 2
+ },
+ {
+  "siren": "338657604",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun comptable, assistant(e) ni RH local trouvé en 3 recherches ; une publication LinkedIn de Raphaël Croiset, responsable commercial des marques Cercle Entreprise, Maison et Jardin et Styl'Habitat (Nevers, Varennes-Vauzelles, Cosne, Bourges), confirme qu'Arnaud Labaune dirige Cercle Entreprise et Styl'Habitat au sein du groupe Babeau Seguin, et aucun DRH, DAF ou contrôleur de gestion du groupe n'est ressorti. La décision se prend vraisemblablement entre M. Labaune et le siège de Babeau Seguin à Troyes. Vérification : relecture sans recherche ; cohérent, à noter que le fichier cite déjà Vincent Castaing comme DAF du groupe Babeau Seguin (annuaire ESCP Alumni, à confirmer).",
+  "recherches": 3
+ },
+ {
+  "siren": "302331889",
+  "contacts": [
+   {
+    "nom": "Pierre DE LOYNES",
+    "fonction": "Directeur de Faurie Trucks de la plaque Allier-Nièvre (publication LinkedIn du groupe ; profil : commercial Faurie Trucks depuis 2017, Moulins)",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/de-loynes-pierre-8b848a97/",
+    "linkedin": "https://www.linkedin.com/in/de-loynes-pierre-8b848a97/",
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Clara FAURIE",
+    "fonction": "Directrice du développement RH (Groupe Faurie, siège)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/clara-faurie/",
+    "linkedin": "https://www.linkedin.com/in/clara-faurie/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : des publications LinkedIn du Groupe Faurie (non datées, URL non affichées) présentent Pierre de Loynes comme « notre directeur de Faurie Trucks de la plaque Allier-Nièvre » et indiquent qu'Eric Martin a été « directeur du site pendant 15 ans », ce qui laisse penser que M. Martin a été remplacé ; Clara Faurie y apparaît comme directrice du développement RH du groupe, et l'ancien directeur financier Jean-Louis Picard est parti en retraite (non retenu, successeur non trouvé, 2 recherches). La finance est centralisée au siège du groupe : demander M. de Loynes, puis le service comptable du groupe. Vérification : 2 recherches LinkedIn ; des publications de salariés du groupe (Dominique Duchenne Cretier, Clara Faurie) présentent bien Pierre de Loynes comme directeur des garages Faurie Trucks de l'Allier et de la Nièvre, alors que son profil affiche encore « Commercial - Faurie Trucks » : « probable » maintenu ; Clara Faurie figure toujours chez GROUPE FAURIE comme directrice du développement RH (Brive-la-Gaillarde, publications 2022-2024, titre actuel non daté) : « probable » maintenu.",
+  "recherches": 2
+ },
+ {
+  "siren": "302555222",
+  "contacts": [
+   {
+    "nom": "Amandine (nom non affiché)",
+    "fonction": "Service comptabilité (comptabilité et fiscalité, trésorerie, relances clients) ; arrivée annoncée sur LinkedIn",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/emilie-lavie-743718256/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : une publication relayée sur le profil LinkedIn d'Emilie Lavie (DIF, Cosne-Cours-sur-Loire, intitulé non affiché) annonce l'arrivée d'Amandine au service comptabilité (comptabilité, fiscalité, trésorerie, relances clients), publication non datée et URL exacte non affichée ; aucun autre profil administratif ou RH trouvé (3 recherches, seul Thomas Lecointre, R&D, ressort). Demander au standard le service comptable (Amandine), la décision restant probablement chez Novarc. Vérification : 2 recherches LinkedIn ; l'annonce de l'arrivée d'Amandine au service comptabilité est bien retrouvée (avec celle de Cécile, alternante au laboratoire), toujours sans nom de famille ni date : « probable » maintenu ; Emilie Lavie est en fait alternante technicienne chimiste en formulation (élève ingénieure ESCOM), pas une responsable administrative : la mention « ou Mme Lavie qui semble l'encadrer » a été retirée.",
+  "recherches": 3
+ },
+ {
+  "siren": "390681260",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun(e) assistant(e), comptable ni responsable administratif trouvé(e) en 1 recherche LinkedIn : la page LRS Formula ne fait ressortir qu'un responsable technique (Frédéric Galizzi) et une salariée événementiel sans intitulé administratif. Petite structure : le gérant Laurent Redon décide et gère probablement lui-même. Vérification : relecture sans recherche, note cohérente avec la fiche.",
+  "recherches": 1
+ },
+ {
+  "siren": "418515938",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucun comptable ni assistant(e) de gestion trouvé(e) en 2 recherches : LinkedIn confirme Nicolas Nogier sous « SAS HNJ - SOPADEC » et montre une vendeuse et quelques salariés sans intitulé administratif (page entreprise : environ 6 salariés). Petite structure : M. Nogier décide et gère probablement lui-même ; un profil évoque une « convention annuelle » Sopadec, à rattacher ou non à cette société. Vérification : relecture sans recherche, note cohérente avec la fiche.",
+  "recherches": 2
+ }
+]
