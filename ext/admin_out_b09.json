@@ -1,0 +1,49 @@
+[
+ {
+  "siren": "805334141",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucune personne finance, RH ou administration nommée (3 recherches : web « Taxi Cercycois » secrétaire / comptable, LinkedIn « Taxi Cercycois », LinkedIn « Groupe Nohain » fonctions administratives). Point à vérifier : une publication LinkedIn d'une salariée de Jussieu Secours Nièvre – Groupe Nohain (https://www.linkedin.com/in/jade-teixeira-41597b33a/) cite Taxi Cercycois parmi les sites du Groupe Nohain (fête de fin d'année 2025), ce qui laisse penser que la gestion se fait au niveau de ce groupe ; demander au standard si le président Thomas Damien décide toujours ou qui gère l'administratif. Vérification : 3 recherches (web et LinkedIn « Groupe Nohain » / « Taxi Cercycois », Keolis Santé) ; une publication du groupe, reprise sur le profil cité, range bien Taxi Cercycois parmi ses sites à côté de Taxi du Nohain et Taxi Sud Nivernais (groupe de transport sanitaire implanté à Cosne-sur-Loire, Nevers et Decize, environ 130 salariés), et un profil LinkedIn au nom de Thomas Damien (localisé au Tampon, La Réunion) le présente comme président des centres ambulanciers du groupe : la décision se prend donc au niveau du Groupe Nohain ; un partenariat avec Keolis Santé évoqué sur LinkedIn n'a pas été confirmé. Aucune personne à contrôler.",
+  "recherches": 3
+ },
+ {
+  "siren": "453672891",
+  "contacts": [
+   {
+    "nom": "Laure TRINQUET",
+    "fonction": "Comptable",
+    "role": "finance",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/laure-trinquet-905b17347/",
+    "linkedin": "https://www.linkedin.com/in/laure-trinquet-905b17347/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (27/10/2026) : sur LinkedIn, Laure Trinquet se présente comme comptable de SIGNANET, basée à Decize (profil non daté, poste actuel) ; aucune assistante, secrétaire ni responsable RH nommé (3 recherches, dont une sur le site et les agences Decize / Moulins / Brécy sans résultat). Les cogérants Maxime Buchez et Christian Saget décident ; demander Mme Trinquet pour la préparation et le règlement. Vérification : 2 recherches ; le profil LinkedIn ressort toujours « Laure Trinquet - Comptable - SIGNANET », localisé à Decize, poste actuel mais sans date : maintenue en « probable » ; le site signanet.fr (page contact, ancienne) publie un service comptable au siège de Decize joignable au standard 03 86 77 13 05 avec l'adresse générique compta@signanet.fr, sans nom, donc non attribuée à Mme Trinquet (e-mail laissé à null).",
+  "recherches": 3
+ },
+ {
+  "siren": "391204351",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucune secrétaire, comptable ou assistante nommée (3 recherches : web « SAS Toulouse » Verneuil, LinkedIn « SAS / Sarl Toulouse » Verneuil 58300, LinkedIn électricité Verneuil fonctions administratives) ; le nom se confond avec la ville de Toulouse et seul l'avis SIRENE (électricité, 43.21A) ressort. La directrice générale Nadine Toulouse, déjà au registre, est l'interlocutrice probable pour la gestion ; le président Romain Toulouse décide. Vérification : relecture sans recherche, fiche cohérente (aucune personne retenue, code 43.21A conforme à l'activité, dirigeants du registre seulement, aucun e-mail ni numéro).",
+  "recherches": 3
+ },
+ {
+  "siren": "834449225",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucune secrétaire, comptable ou assistante nommée (3 recherches : web secrétaire / comptable, LinkedIn « Carrosserie Delaporte » Moulins-Engilbert, presse Journal du Centre) ; seuls des annuaires (Michelin, idGarages, AD, réseau Peugeot) et des homonymes Delaporte ailleurs ressortent. Le président Philippe Delaporte reste le seul interlocuteur ; demander au standard qui tient le secrétariat de l'atelier. Vérification : relecture sans recherche, fiche cohérente (aucune personne retenue, homonymes écartés à juste titre, aucune coordonnée).",
+  "recherches": 3
+ },
+ {
+  "siren": "343908042",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucune secrétaire, comptable ni responsable d'exploitation nommé (3 recherches : web Gouloux fonctions administratives, LinkedIn Taboureau autocars Morvan, LinkedIn « Cars Taboureau » fonctions) ; seul ressort le profil LinkedIn de Carole Taboureau, déjà cogérante au registre (localisée à Moux-en-Morvan), sans fonction administrative précisée. Les cogérants Carole et Patrick Taboureau restent les interlocuteurs. Vérification : relecture sans recherche, fiche cohérente (aucune personne retenue, Carole Taboureau déjà au registre et sans fonction administrative publiée, aucune coordonnée).",
+  "recherches": 3
+ },
+ {
+  "siren": "447698069",
+  "contacts": [],
+  "note": "Décideurs (27/10/2026) : aucune secrétaire, assistante ou comptable nommée (3 recherches : web « Maingaud Frères » fonctions administratives, site maingaudfreres.com non indexé, LinkedIn Maingaud paysagiste) ; aucun profil ni page d'équipe ne ressort. Les cogérants Bruno et Stéphane Maingaud restent les interlocuteurs ; demander au standard qui gère la facturation. Vérification : relecture sans recherche ; aucune personne retenue, cohérent ; « non indexé » signifie qu'aucune page d'équipe du site n'est ressortie, le site maingaudfreres.com existant bien (numéro de contact relevé à la passe précédente).",
+  "recherches": 3
+ }
+]
