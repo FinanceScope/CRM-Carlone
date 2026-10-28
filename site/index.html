@@ -327,6 +327,15 @@ a{color:var(--accent);text-underline-offset:2px}
 .hguide summary{font-weight:600;cursor:pointer}
 .hguide ol,.hguide ul{margin:6px 0;padding-left:20px;font-size:13.5px}
 .hguide li{margin:3px 0}
+.cren{grid-column:1/-1;min-width:0}
+.crwrap{overflow-x:auto}
+.crt{border-collapse:separate;border-spacing:3px;font-size:12px;min-width:420px}
+.crt th{font-weight:600;color:var(--muted);text-align:center;padding:0 2px}
+.crt td{width:34px;height:26px;text-align:center;border-radius:6px;background:color-mix(in srgb,var(--accent) calc(var(--a,0)*100%),var(--sunk));color:var(--ink);font-variant-numeric:tabular-nums}
+.crt td.cz{background:var(--sunk)}
+.crt td.cf{color:var(--muted)}
+.crt td.ch{color:var(--accent-ink);font-weight:600}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .lv-haute{background:var(--v2-soft);color:var(--v2)}
 .lv-moyenne{background:var(--warm-soft);color:var(--warm)}
 .lv-basse{background:var(--bad-soft);color:var(--bad)}
@@ -1684,7 +1693,21 @@ function renderEquipe(){
     <div><h3>Appels des 10 derniers jours ouvrés</h3><div class="legend" style="margin:4px 0 2px"><span><i style="background:var(--accent)"></i>joints</span><span><i style="background:var(--accent-soft);box-shadow:inset 0 0 0 1px var(--accent)"></i>non joints</span></div>
     <div class="cols" role="img" aria-label="Appels par jour sur les 10 derniers jours ouvrés">${per.map(([k,j,n])=>`<div class="colw" title="${esc(fmtShortDay(k))} : ${j} joint${j>1?"s":""}, ${n} non joint${n>1?"s":""}"><span class="colv">${j+n||""}</span><span class="colb" style="height:calc((100% - 20px) * ${((j+n)/mx).toFixed(4)})">${j?`<i class="cj" style="flex-grow:${j}"></i>`:""}${n?`<i class="cn" style="flex-grow:${n}"></i>`:""}</span></div>`).join("")}</div>
     <div class="cold">${per.map(([k])=>{const d=new Date(k+"T12:00");return `<span><b class="dw">${esc(d.toLocaleDateString("fr-FR",{weekday:"short"}))} </b>${d.getDate()}</span>`}).join("")}</div></div>
-    <div><h3>Résultats</h3><ul class="reslist">${res.map(([l,v])=>`<li>${esc(l)} <b>${v}</b></li>`).join("")}</ul></div>`;
+    <div><h3>Résultats</h3><ul class="reslist">${res.map(([l,v])=>`<li>${esc(l)} <b>${v}</b></li>`).join("")}</ul></div>
+    ${creneauxHTML(all)}`;
+}
+/* Meilleurs créneaux : part des appels où quelqu'un a répondu, par jour ouvré et par heure (appels notés ou importés de Hermes360) */
+function creneauxHTML(all){
+  const H=[8,9,10,11,12,13,14,15,16,17,18],J=["lun.","mar.","mer.","jeu.","ven."],g={};
+  for(const e of all){const d=new Date(e.t),wd=(d.getDay()+6)%7,h=d.getHours();if(wd>4||h<8||h>18)continue;const k=wd+"-"+h;(g[k]=g[k]||[0,0])[0]++;if(JOINT.has(e.res))g[k][1]++}
+  const tot=Object.values(g).reduce((t,v)=>t+v[0],0);if(tot<10)return `<div class="cren"><h3>Meilleurs créneaux</h3><p class="muted small" style="margin:0">Le tableau apparaît à partir de 10 appels notés en semaine entre 8 h et 19 h (${tot} pour l'instant).</p></div>`;
+  const best=Object.entries(g).filter(([,v])=>v[0]>=3).map(([k,v])=>[k,v[1]/v[0],v[0]]).sort((a,b)=>b[1]-a[1]||b[2]-a[2]).slice(0,3);
+  const lab=k=>{const [w,h]=k.split("-").map(Number);return `${J[w]} ${h} h`};
+  const cell=(w,h)=>{const v=g[w+"-"+h];if(!v)return `<td class="cz" title="${J[w]} ${h} h : aucun appel"></td>`;const r=v[1]/v[0],a=v[0]<3?.12:.15+.75*r;
+    return `<td title="${J[w]} ${h} h : ${v[0]} appel${v[0]>1?"s":""}, ${v[1]} joint${v[1]>1?"s":""}" style="--a:${a.toFixed(2)}"${v[0]<3?' class="cf"':a>.55?' class="ch"':""}>${v[0]<3?v[0]:Math.round(r*100)}</td>`};
+  return `<div class="cren"><h3>Meilleurs créneaux</h3><p class="muted small" style="margin:0 0 6px">Part des appels où quelqu'un a répondu (rappel demandé, intéressé, rendez-vous, refus), par jour et par heure. Une case pâle compte moins de 3 appels : le chiffre est alors le nombre d'appels.</p>
+    <div class="crwrap"><table class="crt"><thead><tr><th scope="col"><span class="sr-only">Jour</span></th>${H.map(h=>`<th scope="col">${h}h</th>`).join("")}</tr></thead><tbody>${J.map((j,w)=>`<tr><th scope="row">${j}</th>${H.map(h=>cell(w,h)).join("")}</tr>`).join("")}</tbody></table></div>
+    ${best.length?`<p class="small" style="margin:6px 0 0"><b>À privilégier :</b> ${best.map(([k,r,n])=>`${lab(k)} (${Math.round(r*100)} % sur ${n} appels)`).join(" · ")}</p>`:""}</div>`;
 }
 function renderQualite(){
   const cib=allCompanies.filter(c=>c.vague&&isActive(c)),act=allCompanies.filter(isActive);
