@@ -2845,7 +2845,7 @@ function renderImport(){
 }
 async function readFileText(file){
   const rd=enc=>new Promise((ok,ko)=>{const r=new FileReader();r.onload=()=>ok(String(r.result||""));r.onerror=()=>ko(r.error);r.readAsText(file,enc)});
-  let t=await rd("utf-8");if(/�/.test(t))t=await rd("windows-1252");   // export Excel en ANSI
+  let t=await rd("utf-8");if(/\uFFFD/.test(t))t=await rd("windows-1252");   // export Excel en ANSI
   return t;
 }
 function startImport(txt,name){
