@@ -1,0 +1,17 @@
+@page { size: A4; margin: 18mm 16mm 20mm 16mm; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { font-family: Inter, "Liberation Sans", Arial, sans-serif; font-size: 10.2pt; line-height: 1.5; color: #2B211A; margin: 0; max-width: none; }
+header#title-block-header { border-bottom: 2px solid #7B2D3A; padding-bottom: 10pt; margin-bottom: 14pt; }
+h1.title { font-size: 23pt; line-height: 1.15; margin: 0 0 4pt; color: #7B2D3A; letter-spacing: -.01em; }
+p.subtitle { font-size: 12pt; margin: 0 0 6pt; color: #6C5D50; }
+p.date { font-size: 9.5pt; margin: 0; color: #6C5D50; }
+h2 { font-size: 14.5pt; color: #7B2D3A; margin: 18pt 0 6pt; padding-top: 6pt; border-top: 1px solid #E5D9C9; break-after: avoid; }
+p { margin: 0 0 7pt; } ul, ol { margin: 0 0 8pt; padding-left: 16pt; } li { margin: 2pt 0; }
+strong { color: #2B211A; }
+a { color: #7B2D3A; text-decoration: none; }
+table { width: 100%; border-collapse: collapse; font-size: 8.6pt; line-height: 1.35; margin: 6pt 0 10pt; break-inside: auto; }
+th { background: #F1E9DE; text-align: left; font-weight: 600; }
+th, td { border: 1px solid #E5D9C9; padding: 4pt 5pt; vertical-align: top; }
+tr { break-inside: avoid; }
+figure { margin: 8pt 0; break-inside: avoid; } figure img { width: 100%; border: 1px solid #E5D9C9; border-radius: 6pt; } figcaption { display: none; }
+ul.task-list { list-style: none; padding-left: 4pt; } ul.task-list li input { margin-right: 6pt; }
