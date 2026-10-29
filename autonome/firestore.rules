@@ -1,19 +1,44 @@
 rules_version = '2';
-// CRM Entreprises Nièvre : seuls les associés listés ci-dessous, connectés avec une adresse vérifiée, lisent et écrivent.
-// Pour ajouter un associé : ajouter son adresse (en minuscules) dans la liste, puis publier les règles
-// (console Firebase > Firestore > Règles > Publier, ou « firebase deploy --only firestore:rules »).
+// CRM Entreprises Nièvre : qui peut lire et écrire.
+// - Associés : connectés avec leur compte Google, adresse listée dans associe() (en minuscules) ; ils lisent tout et notent le suivi.
+// - Propriétaire : adresse listée aussi dans proprietaire() ; seul à pouvoir charger une nouvelle version du CRM et des données.
+// Ce fichier est la seule référence : après modification, le publier depuis le dossier autonome avec
+//   firebase deploy --only firestore:rules
+// (une modification faite dans la console Firebase serait effacée au déploiement suivant).
 service cloud.firestore {
   match /databases/{database}/documents {
-    function associe() {
+    function google() {
       return request.auth != null
-        && request.auth.token.email_verified == true
-        && request.auth.token.email.lower() in [
-          'adresse.associe1@exemple.fr',
-          'adresse.associe2@exemple.fr'
-        ];
+        && request.auth.token.firebase.sign_in_provider == 'google.com'
+        && request.auth.token.email_verified == true;
     }
-    match /{document=**} {
+    function associe() {
+      return google() && request.auth.token.email.lower() in [
+        'adresse.proprietaire@exemple.fr',
+        'adresse.associe@exemple.fr'
+      ];
+    }
+    function proprietaire() {
+      return google() && request.auth.token.email.lower() in [
+        'adresse.proprietaire@exemple.fr'
+      ];
+    }
+    // le CRM, les fiches, les prospects culture et l'étude : lus par les associés, chargés par le propriétaire
+    match /donnees/{id} {
+      allow read: if associe();
+      allow write: if proprietaire();
+    }
+    // suivi des appels et réglages Hermes360 : partagés entre associés
+    match /suivi/{id} {
       allow read, write: if associe();
+    }
+    match /reglages/{id} {
+      allow read, write: if associe();
+    }
+    // fiche de chaque associé (nom affiché dans l'équipe) : lue par tous, écrite par l'intéressé
+    match /membres/{uid} {
+      allow read: if associe();
+      allow write: if associe() && request.auth.uid == uid;
     }
   }
 }

@@ -6,9 +6,10 @@ Le CRM est **le même** que sur claude.ai : mêmes vues, mêmes fiches, même pa
 
 ## Ce qui est protégé
 
-- L'adresse publique ne montre qu'un écran de connexion. Le CRM, les 500 fiches, le suivi des appels et les prospects culture sont dans la base Firestore et ne sont lisibles **qu'après connexion d'un associé autorisé**.
-- Un associé est autorisé quand son adresse e-mail figure dans les règles de la base (`firestore.rules`) **et** qu'elle est vérifiée (toujours le cas avec un compte Google).
-- Testé le 29/10/2026 avec les émulateurs officiels de Firebase : lecture refusée sans connexion, compte non autorisé refusé, adresse non vérifiée refusée, deux associés synchronisés en direct.
+- L'adresse publique ne montre qu'un écran de connexion. Le CRM, les 500 fiches, le suivi des appels, les prospects culture et l'étude Hermes360 sont dans la base Firestore et ne sont lisibles **qu'après connexion d'un associé autorisé**.
+- La connexion se fait **uniquement avec un compte Google**. Un associé est autorisé quand son adresse figure dans `autonome/firestore.rules`. Un associé sans Gmail peut créer un compte Google avec son adresse habituelle (accounts.google.com, « Utiliser mon adresse e-mail actuelle »).
+- Seul le **propriétaire** (adresse listée aussi dans `proprietaire()`) peut charger une nouvelle version du CRM et des données : un associé ne peut pas modifier le code que les autres exécutent.
+- Testé avec les émulateurs officiels de Firebase : lecture refusée sans connexion, compte non autorisé refusé, chargement refusé à un associé non propriétaire, deux associés synchronisés en direct, écriture refusée hors ligne puis reprise.
 
 ## Installation (une fois, environ 30 minutes)
 
@@ -23,12 +24,12 @@ Il faut un compte Google (celui qui « possède » le CRM), un ordinateur avec P
 ### 2. Activer la connexion
 
 1. Menu **Authentication** > « Commencer ».
-2. Onglet « Mode de connexion » : activer **Google**. Facultatif : activer aussi « Adresse e-mail/Mot de passe » pour un associé sans compte Google (son compte se crée ensuite dans l'onglet « Utilisateurs » ; il recevra un e-mail de vérification à sa première connexion).
+2. Onglet « Mode de connexion » : activer **Google**, et seulement Google. N'activez pas « Adresse e-mail/Mot de passe » : n'importe qui pourrait alors créer un compte au nom d'une adresse autorisée.
 
 ### 3. Créer la base et ses règles
 
 1. Menu **Firestore Database** > « Créer une base de données », en **mode production**, emplacement **europe-west9 (Paris)**.
-2. Onglet « Règles » : remplacer tout le contenu par celui du fichier `autonome/firestore.rules`, en mettant **les adresses e-mail des associés** (en minuscules) à la place des deux adresses d'exemple. Cliquer sur « Publier ».
+2. Ouvrir le fichier `autonome/firestore.rules` du dépôt et remplacer les adresses d'exemple : dans `associe()`, les adresses Google de **tous** les associés, propriétaire compris ; dans `proprietaire()`, l'adresse de celui qui chargera les mises à jour. En minuscules. Ne pas modifier les règles dans la console : elles sont publiées par la commande de l'étape 4.
 
 ### 4. Mettre le CRM en ligne
 
@@ -48,16 +49,16 @@ La dernière commande affiche l'adresse du CRM : `https://<votre-projet>.web.app
 ### 5. Première connexion et chargement du CRM
 
 1. Ouvrir cette adresse et se connecter avec Google (une adresse autorisée à l'étape 3).
-2. L'écran « Première installation » s'affiche : choisir ensemble les trois fichiers du dossier `site` du dépôt, **index.html**, **companies.json** et **culture.json**, puis « Charger dans le CRM ».
+2. L'écran « Première installation » s'affiche (pour le propriétaire) : choisir ensemble les trois fichiers du dossier `site` du dépôt, **index.html**, **companies.json** et **culture.json**, plus l'étude **docs/hermes.html** si on veut la lire depuis le Mémo d'appel, puis « Charger dans le CRM ».
 3. Le CRM s'ouvre. Les autres associés n'ont plus qu'à ouvrir l'adresse et se connecter.
 
 ## Au quotidien
 
-- **Ajouter un associé** : ajouter son adresse dans les règles (console Firebase > Firestore > Règles) et publier.
-- **Mettre à jour le CRM** (nouvelle version ou nouvelles données dans le dépôt) : bouton « Mettre à jour » en haut à droite du CRM, puis les trois mêmes fichiers. Le suivi des appels n'est pas touché.
+- **Ajouter un associé** : ajouter son adresse (en minuscules) dans `autonome/firestore.rules`, puis, dans le dossier `autonome` : `firebase deploy --only firestore:rules`.
+- **Mettre à jour le CRM** (nouvelle version ou nouvelles données dans le dépôt) : le propriétaire clique sur « Mettre à jour » en haut à droite du CRM, puis choisit les mêmes fichiers. Le suivi des appels n'est pas touché ; sans culture.json, les prospects culture actuels sont conservés.
 - **Se déconnecter** : bouton « Déconnexion » en haut à droite.
 - **Sauvegarder** : « Exporter (CSV) » dans Entreprises et dans la feuille d'appels ; les données restent aussi dans votre projet Firebase.
-- **Hermes360** : dans le panneau Hermes360, l'adresse du CRM est celle du site Firebase ; c'est elle qu'on donne à Hermes360 pour ouvrir les fiches au décroché.
+- **Hermes360** : dans le panneau Hermes360, l'adresse du CRM est celle du site Firebase ; c'est elle qu'on donne à Hermes360 pour ouvrir les fiches au décroché. Régler Hermes360 pour ouvrir la fiche **dans le même onglet** : un nouvel onglet recharge tout le CRM à chaque appel.
 
 ## Coûts
 
@@ -67,9 +68,9 @@ L'offre gratuite de Firebase (Spark) suffit pour 2 à 4 associés : la grille co
 
 | Fichier | Rôle |
 | --- | --- |
-| `build_autonome.py` | Prépare `autonome/public` (écran de connexion, SDK Firebase, étude Hermes360) ; ne touche jamais `config.js` |
+| `build_autonome.py` | Prépare `autonome/public` (écran de connexion, SDK Firebase) ; ne touche jamais `config.js` |
 | `autonome/source/` | Sources de l'écran de connexion et du raccord Firebase (`crm-firebase.js`), SDK Firebase 10.14.1 copié tel quel |
 | `autonome/public/` | Dossier mis en ligne par `firebase deploy` |
-| `autonome/firestore.rules` | Qui peut lire et écrire (liste des adresses des associés) |
+| `autonome/firestore.rules` | Qui peut lire et écrire (adresses des associés et du propriétaire) |
 | `autonome/firebase.json` | Réglages d'hébergement et des émulateurs de test |
-| `site/index.html`, `site/companies.json`, `site/culture.json` | Le CRM et ses données, chargés depuis l'écran « Mettre à jour » |
+| `site/index.html`, `site/companies.json`, `site/culture.json`, `docs/hermes.html` | Le CRM, ses données et l'étude, chargés depuis l'écran « Mettre à jour » |

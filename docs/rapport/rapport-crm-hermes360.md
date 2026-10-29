@@ -11,10 +11,10 @@ Le CRM est prêt à servir : 500 entreprises de la Nièvre classées, 471 numér
 
 Le CRM ne dépend pas de Claude : il est hébergé sur Firebase, le service de Google, sous le compte des associés, à une adresse du type crm-nievre.web.app. Il s'ouvre dans le navigateur, sur ordinateur comme sur téléphone, sans rien installer.
 
-- **Pour y accéder**, chaque associé se connecte avec son compte Google. Son adresse doit avoir été autorisée une fois par l'administrateur, dans les réglages de la base.
+- **Pour y accéder**, chaque associé se connecte avec son compte Google (un compte Google peut être créé avec une adresse non Gmail). Son adresse doit avoir été autorisée une fois par l'administrateur, dans les réglages de la base.
 - **Personne d'autre ne lit les fiches ni le suivi** : l'adresse publique ne montre qu'un écran de connexion.
 - **Le suivi est partagé en temps réel** : un appel noté par un associé apparaît chez les autres en quelques secondes. Le témoin en haut à droite indique « Suivi partagé, synchronisé ».
-- **Mettre à jour le CRM** (nouvelles données, nouvelle version) : bouton « Mettre à jour », puis les trois fichiers du dépôt ; le suivi des appels n'est pas touché.
+- **Mettre à jour le CRM** (nouvelles données, nouvelle version) : le propriétaire clique sur « Mettre à jour », puis choisit les fichiers du dépôt ; le suivi des appels n'est pas touché. Les autres associés ne peuvent pas modifier le CRM lui-même.
 - **Installation** : environ 30 minutes, une seule fois, décrite pas à pas dans le guide du dépôt (autonome/LISEZMOI.md). L'offre gratuite de Firebase suffit pour 2 à 4 associés.
 - **Propriété** : le code, les données et le suivi restent chez les associés, dans leur dépôt GitHub et leur projet Firebase.
 

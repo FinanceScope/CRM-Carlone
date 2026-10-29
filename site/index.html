@@ -2929,7 +2929,7 @@ function renderGuide(){
   <ol>
     <li><b>Campagne</b> : filtrer la feuille d'appels (appelant, vague), exporter la campagne, l'importer dans Hermes360 en mode « aperçu » (preview) ou « progressif », en gardant la colonne cle_crm comme champ libre.</li>
     <li><b>Exclusions</b> : charger la liste d'exclusion dans Hermes360 avant chaque campagne.</li>
-    <li><b>Levée de fiche</b> : régler l'ouverture de l'adresse « par clé CRM » au décroché (à préférer : seize standards sont partagés par plusieurs sociétés), sinon « par numéro composé ». L'appelant doit être connecté à claude.ai dans ce navigateur.</li>
+    <li><b>Levée de fiche</b> : régler l'ouverture de l'adresse « par clé CRM » au décroché (à préférer : seize standards sont partagés par plusieurs sociétés), sinon « par numéro composé ». L'appelant doit être connecté ${window.CRM_URL?`au CRM (${esc(window.CRM_URL)}, avec un compte autorisé)`:"à claude.ai"} dans ce navigateur.</li>
     <li><b>Qualifications</b> : créer dans Hermes360 des qualifications qui portent exactement nos libellés (Pas de réponse, Répondeur, Bloqué au standard, À rappeler, Intéressé, Rendez-vous fixé, Faux numéro, Pas intéressé, Ne plus contacter) : l'import les reconnaît seul.</li>
     <li><b>Le soir</b> : exporter le rapport des appels de la journée et l'importer ici ; rappels, refus et rendez-vous se mettent à jour, un appel déjà importé n'est jamais repris, et un échange plus récent noté dans le CRM garde la main.</li>
   </ol>
