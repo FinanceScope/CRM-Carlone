@@ -1,0 +1,19 @@
+rules_version = '2';
+// CRM Entreprises Nièvre : seuls les associés listés ci-dessous, connectés avec une adresse vérifiée, lisent et écrivent.
+// Pour ajouter un associé : ajouter son adresse (en minuscules) dans la liste, puis publier les règles
+// (console Firebase > Firestore > Règles > Publier, ou « firebase deploy --only firestore:rules »).
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function associe() {
+      return request.auth != null
+        && request.auth.token.email_verified == true
+        && request.auth.token.email.lower() in [
+          'adresse.associe1@exemple.fr',
+          'adresse.associe2@exemple.fr'
+        ];
+    }
+    match /{document=**} {
+      allow read, write: if associe();
+    }
+  }
+}

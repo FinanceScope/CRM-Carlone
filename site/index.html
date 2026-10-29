@@ -2598,7 +2598,7 @@ function offerLocal(){
    Pas de serveur : Hermes360 ouvre la fiche par une adresse (#t numéro, #s SIREN, #e clé), le CRM exporte la campagne et la liste
    d'exclusion en CSV, puis l'export des appels de Hermes360 est importé ici (aperçu, correspondance des qualifications,
    réimport sans doublon, annulation). Réglages partagés : document reglages/hermes (ou ce navigateur hors base). */
-const HSET_DEF={crm:"https://claude.ai/artifact/CrKrSAuH9mUAaey2wN8uSV",tel:"tel:{e164}",sep:";",qualif:[],agents:[],cols:[]};
+const HSET_DEF={crm:window.CRM_URL||"https://claude.ai/artifact/CrKrSAuH9mUAaey2wN8uSV",tel:"tel:{e164}",sep:";",qualif:[],agents:[],cols:[]};
 let hset=Object.assign({},HSET_DEF),hsetLoaded=false;
 const HTEL_OK=/^(tel:|callto:|sip:|https:\/\/)/i;
 function applyHset(v){
@@ -3003,6 +3003,7 @@ function bindHermes(){
     window.addEventListener("storage",e=>{if(e.key==="crm58-suivi"){suivi=loadLocal()||suivi;renderAll()}})};
   if(rt){suivi={};mode="loading";ready=false;setSync("","Chargement du suivi…")}else{goLocal("Suivi enregistré sur cet appareil");loadHset().then(()=>{if(hset.tel!==HSET_DEF.tel)renderAll(true)})}
   renderCStatic();bindHermes();renderGuide();
+  if(window.CRM_ETUDE)document.querySelectorAll('a[href*="7CxFvbouc5d9Y4Xcxq4wMk"]').forEach(a=>a.href=window.CRM_ETUDE);   // version hors claude.ai : étude hébergée avec le CRM
   setView(startView,true);
   const tWait=rt&&/^#t/.test(location.hash)?location.hash:"";   // levée de fiche par numéro : attendre le suivi partagé (numéros notés par l'équipe)
   if(tWait)setView("appels",true);else if(!route(false))setHash("#"+HASH[startView],false);
