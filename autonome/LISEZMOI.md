@@ -13,7 +13,7 @@ Le CRM est **le même** que sur claude.ai : mêmes vues, mêmes fiches, même pa
 
 ## Installation (une fois, environ 30 minutes)
 
-Il faut un compte Google (celui qui « possède » le CRM), un ordinateur avec Python 3 et [Node.js](https://nodejs.org) installés, et une copie du dépôt du CRM.
+Il faut un compte Google (celui qui « possède » le CRM), un ordinateur Windows ou Mac avec [Node.js](https://nodejs.org) installé (version « LTS »), et une copie du dépôt du CRM : sur GitHub, choisir la branche du CRM, bouton vert « Code » > « Download ZIP », puis décompresser le dossier.
 
 ### 1. Créer le projet Firebase
 
@@ -33,23 +33,28 @@ Il faut un compte Google (celui qui « possède » le CRM), un ordinateur avec P
 
 ### 4. Mettre le CRM en ligne
 
-Dans un terminal, à la racine du dépôt :
+Ouvrir un terminal : sous Windows, l'« Invite de commandes » (plutôt que PowerShell, qui peut refuser de lancer `firebase`) ; sur Mac, l'application « Terminal ». Puis taper, une ligne à la fois :
 
 ```
-python3 build_autonome.py
 npm install -g firebase-tools
 firebase login
-cd autonome
-firebase use --add        (choisir le projet créé à l'étape 1)
+cd <dossier du dépôt>/autonome
+firebase use --add
 firebase deploy --only hosting,firestore:rules
 ```
 
-La dernière commande affiche l'adresse du CRM : `https://<votre-projet>.web.app`.
+- Sur Mac, si la première ligne répond « permission denied », la retaper précédée de `sudo ` (le mot de passe du Mac est demandé).
+- `firebase login` ouvre le navigateur : se connecter avec le compte Google propriétaire et accepter.
+- Pour la ligne `cd`, taper `cd ` (avec l'espace), faire glisser le dossier `autonome` dans la fenêtre du terminal, puis Entrée.
+- `firebase use --add` demande de choisir le projet créé à l'étape 1 (flèches puis Entrée), puis un alias : taper `default`.
+- Le dossier `autonome/public` est déjà prêt dans le dépôt. `python3 build_autonome.py` ne sert qu'après une modification de `autonome/source`.
+
+La dernière commande se termine par « Deploy complete! » et affiche l'adresse du CRM (Hosting URL) : `https://<votre-projet>.web.app`.
 
 ### 5. Première connexion et chargement du CRM
 
 1. Ouvrir cette adresse et se connecter avec Google (une adresse autorisée à l'étape 3).
-2. L'écran « Première installation » s'affiche (pour le propriétaire) : choisir ensemble les trois fichiers du dossier `site` du dépôt, **index.html**, **companies.json** et **culture.json**, plus l'étude **docs/hermes.html** si on veut la lire depuis le Mémo d'appel, puis « Charger dans le CRM ».
+2. L'écran « Première installation » s'affiche (pour le propriétaire) : « Choisir les fichiers », puis sélectionner ensemble les trois fichiers du dossier `site` du dépôt, **index.html**, **companies.json** et **culture.json** (Ctrl+clic sous Windows, Cmd+clic sur Mac). Pour pouvoir lire l'étude depuis le Mémo d'appel, cliquer une seconde fois sur « Choisir les fichiers » et ajouter **docs/hermes.html**. Quand la ligne commence par « Prêt », cliquer sur « Charger dans le CRM ».
 3. Le CRM s'ouvre. Les autres associés n'ont plus qu'à ouvrir l'adresse et se connecter.
 
 ## Au quotidien
