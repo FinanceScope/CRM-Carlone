@@ -1,0 +1,355 @@
+[
+ {
+  "rang": 254,
+  "siren": "820232791",
+  "nom": "ADAPEI 58 SAS",
+  "ville": "Urzy",
+  "adresse": "120 ROUTE DE BEAUREGARD",
+  "activite": "Activités administratives et autres activités de soutien aux entreprises",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.adapei58.org/",
+  "contacts_admin": [
+   {
+    "nom": "Juliette CATINAUD",
+    "fonction": "DRH de l'Adapei de la Nièvre (association mère, siège d'Urzy)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/juliette-catinaud-4832a5171/",
+    "linkedin": "https://www.linkedin.com/in/juliette-catinaud-4832a5171/",
+    "tel_direct": null,
+    "email": "rh@adapei58.org"
+   },
+   {
+    "nom": "Marylou SILVA DOS REIS",
+    "fonction": "Assistante RH",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/marylou-silva-dos-reis-568752222/",
+    "linkedin": "https://www.linkedin.com/in/marylou-silva-dos-reis-568752222/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note_contacts": "Filiale (SAS) de l'association ADAPEI de la Nièvre, dont le siège est à la même adresse (120 route de Beauregard, 58130 Urzy : IME, ESAT, foyer de vie, MAS, FAM) selon https://www.pour-les-personnes-agees.gouv.fr/annuaire-association-parents-usagers-familles-soutien/nievre-58. Cet annuaire n'affiche qu'un numéro de portable pour l'association, non retenu (pas un standard, peut être personnel). Aucun dirigeant au registre (deja vide) et aucun DAF / directeur général de l'ADAPEI de la Nièvre trouvé en 3 recherches. Site officiel non confirmé dans les résultats. Deuxième passe (27/10/2026) : standard du siège de l'Adapei de la Nièvre, 120 route de Beauregard à Urzy (site adapei58.org et annuaires), où la SAS est domiciliée (fiche Pages Jaunes « Adapei58 Sas Urzy ») : ce n'est pas une ligne propre à la SAS. Les mentions légales du site donnent un autre numéro pour la même adresse, 03 76 15 00 38. Vérification : numéro publié pour l'association Adapei de la Nièvre et non pour la SAS (entité distincte domiciliée à la même adresse) : fiabilité ramenée de « officielle » à « annuaire » ; non revérifié par recherche faute de budget.",
+  "note_admin": "Décideurs (27/10/2026) : une offre d'emploi diffusée en 2026 par l'Adapei de la Nièvre sur LinkedIn (aide-comptable au siège d'Urzy) demande d'écrire à « Madame CATINAUD Juliette, DRH : rh@adapei58.org » ; elle relève de l'association mère et non de la SAS (même adresse, d'où « probable »). Aucun DAF ni chef comptable nommé (offres de comptable « en lien avec la direction financière » sans nom) ; une publication LinkedIn cite Thierry Le Goaziou comme directeur général de l'association, à confirmer : la décision se prend vraisemblablement au siège associatif d'Urzy. Vérification (2 recherches) : Juliette Catinaud retrouvée sur LinkedIn comme responsable des ressources humaines de l'Adapei de la Nièvre, avec une activité de 2025, et dans une offre de CDD d'assistant(e) RH qui demande d'écrire à « Madame CATINAUD Juliette, DRH », rh@adapei58.org (boîte générique publiée par l'association pour elle, gardée) ; rattachement à l'association mère qui décide pour la SAS, « probable » maintenu. La même recherche a fait sortir Marylou Silva Dos Reis, « Assistante RH – ADAPEI 58 SAS » sur LinkedIn (titre sans date, d'où « probable »), ajoutée en second contact ; le nom de Thierry Le Goaziou n'a pas été recontrôlé."
+ },
+ {
+  "rang": 337,
+  "siren": "821203999",
+  "nom": "LA MAISON - MAISON DE LA CULTURE DE NEVERS AGGLOMERATION",
+  "nom_commercial": "Maison de la Culture Nevers Agglomération",
+  "ville": "Nevers",
+  "adresse": "2 BOULEVARD PIERRE DE COUBERTIN",
+  "activite": "Activités créatives, artistiques et de spectacle",
+  "effectif": "20-49 salariés",
+  "site_web": "https://maisonculture.fr",
+  "dirigeants": [
+   {
+    "nom": "Jean-Luc REVOL",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Jean-Luc REVOL",
+   "fonction": "Directeur (gérant au registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://maisonculture.fr/la-maison/equipe"
+  },
+  "contact_finance": {
+   "nom": "Mégane DELPECH",
+   "fonction": "Administratrice",
+   "type": "DAF/RAF",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://maisonculture.fr/la-maison/equipe"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Laurent CODAIR",
+    "fonction": "Secrétaire général",
+    "tel": "03 86 93 09 04",
+    "email": "laurent.codair@maisonculture.fr",
+    "source": "https://maisonculture.fr/la-maison/equipe"
+   },
+   {
+    "nom": "Christelle BERNIGAUD",
+    "fonction": "Secrétaire comptable",
+    "tel": null,
+    "email": null,
+    "source": "https://maisonculture.fr/la-maison/equipe"
+   }
+  ],
+  "note_contacts": "Page équipe du site officiel : pôle Administration = Mégane Delpech (Administratrice, fonction équivalente à RAF dans le spectacle vivant), Emilie Gomichon (Administratrice de production et de coordination), Christelle Bernigaud (Secrétaire comptable) ; Laurent Codair, secrétaire général, est indiqué comme contact partenariats avec ligne et e-mail publiés. Accueil-billetterie : 03 86 93 09 09. Standard 'Administration 03.86.93.09.00' confirmé aussi par une plaquette 2023-24 du site. Page équipe possiblement pas à jour : à confirmer à l'appel.",
+  "note_admin": "Décideurs (27/10/2026) : pas de nouveau nom en 2 recherches (LinkedIn et web) : rien ne vient compléter ni contredire la page équipe déjà relevée (Mégane Delpech administratrice, Laurent Codair secrétaire général, Christelle Bernigaud secrétaire comptable). Demander Mme Delpech ou M. Codair, et vérifier à l'appel que la page équipe est à jour. Vérification : relecture sans recherche, cohérent avec la page équipe déjà relevée dans le fichier."
+ },
+ {
+  "rang": 439,
+  "siren": "852030253",
+  "nom": "DL INTERNATIONAL",
+  "nom_commercial": "David Lange",
+  "ville": "Varzy",
+  "adresse": "2 ROUTE DE CORVOL",
+  "activite": "Fabrication de meubles",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.davidlange.com/",
+  "dirigeants": [
+   {
+    "nom": "JAMES EBENISTES",
+    "fonction": "Président"
+   }
+  ],
+  "note_contacts": "Enseigne David Lange (marque historique de mobilier en plexiglas/PMMA fondée vers 1969). Aucun résultat ne relie la marque à Varzy ni ne donne de coordonnées (3 recherches). Présidence assurée par la holding JAMES EBENISTES : personne physique qui la dirige non trouvée. Deuxième passe (27/10/2026) : 03 86 29 40 73 = ligne de la manufacture David Lange (SAS DL International, ZI de l'Étang, Varzy) sur la page contact du site officiel. Le site indique aussi un service commercial au 02 97 32 58 45 (indicatif breton, hors Nièvre). Vérification : 03 86 29 40 73 (Manufacture, ZI de l'Étang, Varzy) confirmé sur la page contact de davidlange.com au nom de DL International (officielle maintenue).",
+  "note_admin": "Décideurs (27/10/2026) : aucun comptable, assistant(e) de direction ni responsable de la manufacture David Lange de Varzy trouvé (3 recherches : LinkedIn et web ne renvoient que des annonces de mobilier vintage ou des homonymes « DLM International ») ; la personne physique derrière la holding présidente JAMES EBENISTES reste inconnue. Vérification : relu sans recherche, aucune personne retenue, note cohérente (3 recherches annoncées)."
+ },
+ {
+  "rang": 440,
+  "siren": "753975994",
+  "nom": "SARL MTMS",
+  "ville": "Brinon-sur-Beuvron",
+  "adresse": "18 RUE DU PERE CASTOR",
+  "activite": "Transports terrestres et transport par conduites",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.transports-mtms.fr/",
+  "dirigeants": [
+   {
+    "nom": "Tony METTENDORFF",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Tony METTENDORFF",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
+  },
+  "contact_finance": {
+   "nom": "Tony METTENDORFF",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sarl-mtms-753975994"
+  },
+  "note_contacts": "Aucun téléphone trouvé (3 recherches). Une fiche PagesJaunes (https://www.pagesjaunes.fr/pros/51050907) semble correspondre à la SARL MTMS, 18 rue du Père Castor, mais le numéro n'apparaît pas dans l'extrait. Gérant repris du registre (deja), non revérifié. Deuxième passe (27/10/2026) : 03 86 24 04 18 = agence de Brinon-sur-Beuvron de Transports MTMS (messagerie Nièvre-Yonne, point Mondial Relay), publié sur la page contact du site de l'entreprise ; ouvert du mardi au vendredi 7h30-18h et le samedi matin. Vérification : 03 86 24 04 18 confirmé sur transports-mtms.fr (« Nous contacter », 18 rue du Père Castor, Brinon-sur-Beuvron), officielle maintenue.",
+  "note_admin": "Décideurs (27/10/2026) : aucune personne administrative ou comptable trouvée pour Transports MTMS ; le seul profil LinkedIn lié est celui du gérant Tony Mettendorff (« Gérant principal – MTMS transports », agence Mondial Relay de Brinon), déjà connu. PagesJaunes donne 10 à 19 salariés : la gestion passe très probablement par le gérant lui-même. Vérification : relu sans recherche, aucune personne retenue ; le gérant reste l'interlocuteur, note cohérente."
+ },
+ {
+  "rang": 441,
+  "siren": "914452230",
+  "nom": "BGN",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "116 RUE HENRI BOUQUILLARD",
+  "activite": "Restauration",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.buffalo-grill.fr/nos-restaurants/nevers-varennes-vauzelles",
+  "dirigeants": [
+   {
+    "nom": "SMART FOOD",
+    "fonction": "Président"
+   },
+   {
+    "nom": "FOOD & SEE",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "note_contacts": "Enseigne non identifiée (3 recherches). Piste non confirmée : rue Henri Bouquillard accueille un Buffalo Grill (03 86 61 01 69 selon un annuaire, mais adressé RD 40) et un 'Grillardin Steak House' ; rien ne relie BGN à l'un d'eux, numéro non retenu. Président SMART FOOD et DG FOOD & SEE sont des sociétés : personnes physiques non trouvées. Deuxième passe (27/10/2026) : le 116 rue Henri Bouquillard (RD 40) est exactement l'adresse du Buffalo Grill Nevers / Varennes-Vauzelles : BGN en est très probablement l'exploitant franchisé (enseigne déduite de l'adresse, non écrite en toutes lettres). 03 86 61 01 69 = numéro du restaurant relevé dans les annuaires (Tripadvisor, Toutendroit), non vu sur la page officielle Buffalo Grill dans les extraits. Vérification : 03 86 61 01 69 retrouvé pour le Buffalo Grill de Varennes-Vauzelles (RD 40 / rue Henri Bouquillard) dans des annuaires (Bible des Marques, Rankeat, PagesJaunes) ; aucune page officielle ni mention de BGN, le lien BGN = exploitant reste déduit de l'adresse : fiabilité annuaire maintenue.",
+  "note_admin": "Décideurs (27/10/2026) : aucun directeur ni manager du Buffalo Grill de Varennes-Vauzelles trouvé sur LinkedIn (seuls des managers d'autres restaurants de l'enseigne) et rien ne relie SMART FOOD ou FOOD & SEE à ce franchisé : la décision se prend vraisemblablement dans la holding SMART FOOD, dont le dirigeant reste inconnu ; demander le directeur du restaurant au standard. Vérification : relu sans recherche, aucune personne retenue, note cohérente."
+ },
+ {
+  "rang": 442,
+  "siren": "497496430",
+  "nom": "FRANCOIS POUENAT",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "MODULE NO 3 20 RUE JOSEPH MARIE JACQUARD",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.atelierfrancoispouenat.com/",
+  "dirigeants": [
+   {
+    "nom": "Francois POUENAT",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "François POUENAT",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
+  },
+  "contact_finance": {
+   "nom": "François POUENAT",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/francois-pouenat-497496430"
+  },
+  "note_contacts": "Aucune trace en ligne de l'entreprise (3 recherches) : ni téléphone, ni site, ni corps de métier précis. Gérant repris du registre (deja), non revérifié. Deuxième passe (27/10/2026) : l'entreprise exerce sous le nom « Atelier François Pouenat » (AFP), ferronnerie d'art et métallerie sur mesure, environ 15 à 49 salariés ; aucun numéro ni site officiel n'apparaît dans les résultats (2 recherches). Piste : chercher « Atelier François Pouenat » ferronnerie Varennes-Vauzelles. Troisième passe (27/10/2026) : l'angle nom commercial a fonctionné : la page contact du site officiel de l'Atelier François Pouenat (ferronnerie d'art, Entreprise du Patrimoine Vivant, 20 rue Joseph-Marie Jacquard) publie le 03 86 38 04 85, repris par Pages Jaunes. Ne pas confondre avec la Maison Pouenat de Moulins (03), autre entreprise. Vérification : aucune recherche de contrôle n'a pu être faite (quota de recherches web de la session épuisé), ce numéro venant de surcroît du nom commercial et non d'un angle indirect ; relecture : source sur le propre site de l'atelier, adresse identique au registre, fiabilité « officielle » et courriel générique publiés par l'entreprise elle-même conservés. Vérification (contrôle du 27/10/2026) : pas de recherche (angle direct par le nom commercial, pas un angle indirect) ; relecture : page contact du site de l'atelier, même adresse que le registre, fiabilité « officielle » conservée ; le courriel, sur le domaine francoispouenat.com, est publié par l'entreprise sur cette page et reste donc.",
+  "note_admin": "Décideurs (27/10/2026) : aucune assistante, comptable ni responsable administratif nommé pour l'Atelier François Pouenat (3 recherches : LinkedIn et web) ; seules apparaissent une offre France Travail de dessinateur chargé d'affaires (septembre 2026) et des pages sur la Maison Pouenat de Moulins, autre entreprise. Interlocuteur : le gérant François Pouenat. Vérification : relu sans recherche, aucune personne retenue, note cohérente."
+ },
+ {
+  "rang": 443,
+  "siren": "731880258",
+  "nom": "GENEOL GENIE CLIMATIQUE",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "Z.A. DES CHAMONDS RUE EDOUARD BRANLY",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.geneol.fr/",
+  "dirigeants": [
+   {
+    "nom": "AURIA HOLDING",
+    "fonction": "Président"
+   },
+   {
+    "nom": "Loïc PANSE",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Loïc PANSE",
+   "fonction": "Directeur Général (présidence assurée par la holding AURIA HOLDING, dont le dirigeant n'a pas été identifié)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
+  },
+  "contact_finance": {
+   "nom": "Loïc PANSE",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/geneol-genie-climatique-731880258"
+  },
+  "note_contacts": "Aucun téléphone trouvé (3 recherches). Entreprise RGE / Qualibat-RGE créée en 2009 (Pappers) ; l'annuaire Justacoté la liste comme 'Societe Geneol', 11 rue Edouard Branly, vente et installation de chauffage (https://www.justacote.com/varennes-vauzelles-58640/chauffage/). Dirigeants repris du registre (deja). Deuxième passe (27/10/2026) : 03 86 57 54 33 = standard de Généol (chauffage, ventilation, climatisation, plomberie pour le tertiaire), 11 rue Édouard Branly, ZA des Chamonds, donné par le site de l'entreprise et par PagesJaunes ; ouvert du lundi au jeudi 7h-12h / 13h-18h. Vérification : 03 86 57 54 33 confirmé sur geneol.fr (11 rue Édouard Branly, Varennes-Vauzelles), officielle maintenue.",
+  "note_admin": "Décideurs (27/10/2026) : aucun DAF, comptable ni assistant(e) nommé pour Généol (profils LinkedIn de techniciens seulement) ; Généol a rejoint le groupe AURIA (avec Smart System Group et GB à Nantes, auria-groupe.com), qui dit laisser à chaque filiale « ses équipes » : la gestion reste probablement locale, sous le directeur général Loïc Panse, avec un contrôle possible au niveau du groupe. Vérification : relu sans recherche, aucune personne retenue, note cohérente."
+ },
+ {
+  "rang": 445,
+  "siren": "452446586",
+  "nom": "SAMICOLOR",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "6 RUE COLETTE",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.groupesertip.fr/en/samicolor-2/",
+  "dirigeants": [
+   {
+    "nom": "HOLSER",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "HOLSER (personne morale)",
+   "fonction": "Président (holding ; personne physique la représentant non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/samicolor-452446586"
+  },
+  "contact_finance": {
+   "nom": "HOLSER (personne morale)",
+   "fonction": "Président (holding ; personne physique la représentant non identifiée)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/samicolor-452446586"
+  },
+  "note_contacts": "3 recherches sans résultat (nom confondu avec des pages sans rapport). Même adresse (6 rue Colette) et même président (HOLSER) que SERTIP (SIREN 306809716) : sociétés sœurs d'un même groupe, un seul interlocuteur probable. Dirigeant uniquement d'après le registre (deja). Deuxième passe (27/10/2026) : 03 86 38 06 13 = standard « SERTIP – SAMICOLOR » au 6 rue Colette, publié sur la page contact du Groupe Sertip ; Samicolor (marquage industriel : sérigraphie, claviers membranes, plaques signalétiques) est filiale du groupe et partage ce numéro avec SERTIP. Kompass donne un 01 43 34 34 34 non retenu. Vérification : 03 86 38 06 13 confirmé sur la page contact de groupesertip.fr (« SERTIP (SAMICOLOR) », 6 rue Colette, Varennes-Vauzelles), officielle maintenue.",
+  "note_admin": "Décideurs (27/10/2026) : aucun responsable administratif, comptable ou RH nommé pour Samicolor / Groupe SERTIP ; un article LinkedIn sur le rachat de Chimicolor (Clairfield) indique que Guillaume Cocquet dirige SERTIP et SAMI à Varennes-Vauzelles, vraisemblablement pour la holding HOLSER. Un profil « Stéphanie B. – Responsable administrative, RH et comptable » est sorti d'une recherche sur Sertip sans que l'employeur soit visible : non retenu. Vérification (1 recherche) : le profil « Stéphanie B. » n'a pas été retrouvé chez Sertip ou Samicolor (aucune personne administrative, RH ou comptable sortie), il reste écarté ; l'article Clairfield confirme que Guillaume Cocquet dirige SERTIP et SAMI à Varennes-Vauzelles."
+ },
+ {
+  "rang": 446,
+  "siren": "306809716",
+  "nom": "SERTIP STE D'ETUDES ET DE REALISATIONS TECHNIQUES INDUSTRIELLES ET PUBLICITAIRES",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "6 RUE COLETTE",
+  "activite": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.groupesertip.fr/",
+  "dirigeants": [
+   {
+    "nom": "HOLSER",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "HOLSER (personne morale)",
+   "fonction": "Président (holding ; personne physique la représentant non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sertip-ste-detudes-et-de-realisations-techniques-industrielles-et-publicitaires-306809716"
+  },
+  "contact_finance": {
+   "nom": "HOLSER (personne morale)",
+   "fonction": "Président (holding ; personne physique la représentant non identifiée)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/sertip-ste-detudes-et-de-realisations-techniques-industrielles-et-publicitaires-306809716"
+  },
+  "note_contacts": "Recherches sans numéro. annuaire-entreprises (https://production-sbg-01.annuaire-entreprises.infra.api.gouv.fr/documents/306809716) confirme : SAS créée le 01/01/1976, ingénierie/études techniques, siège 6 rue Colette 58640 Varennes-Vauzelles, 20-49 salariés, un seul établissement. Même adresse et même président (HOLSER) que SAMICOLOR (SIREN 452446586). Deuxième passe (27/10/2026) : 03 86 38 06 13 = standard du Groupe Sertip (« SERTIP – SAMICOLOR », 6 rue Colette) publié sur la page contact du groupe, trouvé lors de la recherche faite pour Samicolor ; même numéro que SAMICOLOR, un seul appel pour les deux sociétés. Activité réelle : sérigraphie industrielle et publicitaire (fiche PagesJaunes https://www.pagesjaunes.fr/pros/00307166). Vérification : 03 86 38 06 13 confirmé sur la page contact de groupesertip.fr (« SERTIP (SAMICOLOR) », 6 rue Colette, Varennes-Vauzelles), officielle maintenue.",
+  "note_admin": "Décideurs (27/10/2026) : 3 recherches (LinkedIn Sertip / Samicolor + comptable / assistante de direction / RH, recherche générale « Groupe SERTIP » + directeur / RAF / comptable / RH, LinkedIn « Groupe SERTIP » + directeur général / responsable administrative) : aucun responsable financier, RH ou administratif nommé ; les profils du groupe trouvés sont sans fonction (Jordan Derimais, Raphaël Da Silva, Xavier Charvet) ou commerciaux (Xavier Vita, présenté dans un extrait comme directeur commercial chez HOLSER, la holding présidente), donc non retenus. Le groupe (sites de Nevers, La Roche-sur-Yon et Toulouse, rachat de Chimicolor) décide sans doute au niveau de la holding HOLSER : demander au standard (commun avec Samicolor) le service comptabilité ou administratif. Vérification : relecture sans recherche, aucune personne retenue et note cohérente avec les données (profils sans fonction ou commerciaux écartés à juste titre)."
+ },
+ {
+  "rang": 447,
+  "siren": "429628324",
+  "nom": "SOCIETE LOUIS CHARPENET",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "54 BOULEVARD CAMILLE DAGONNEAU",
+  "activite": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+  "effectif": "20-49 salariés",
+  "site_web": "https://www.charpenet1951.com/",
+  "dirigeants": [
+   {
+    "nom": "HOLDING R.C",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "HOLDING R.C (personne morale)",
+   "fonction": "Président (holding ; personne physique la représentant non identifiée)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/societe-louis-charpenet-429628324"
+  },
+  "contact_finance": {
+   "nom": "HOLDING R.C (personne morale)",
+   "fonction": "Président (holding ; personne physique la représentant non identifiée)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/societe-louis-charpenet-429628324"
+  },
+  "contacts_admin": [
+   {
+    "nom": "Fabienne BIOJOUX GUILLAUME",
+    "fonction": "Assistante administrative et commerciale",
+    "role": "administratif",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/fabienne-biojoux-guillaume-4199651a5/",
+    "linkedin": "https://www.linkedin.com/in/fabienne-biojoux-guillaume-4199651a5/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note_contacts": "Enseigne « Charpenet 1951 » (traitement des bois, isolation, traitement de l'humidité ; créée en 1951 ; CTBa+, RGE, Qualibat), 54 bd Camille Dagonneau, 58640 Varennes-Vauzelles, lun-ven 8h30-12h30 / 13h30-18h (https://fr.mappy.com/poi/510adeea84ae62bd3d447ed4). Fiches PagesJaunes (https://www.pagesjaunes.fr/pros/00307136) et 118712 (https://www.118712.fr/professionnels/WkZSXVJQHgE) existent mais le numéro n'apparaît pas dans les extraits. Dirigeant uniquement d'après le registre (deja). Deuxième passe (27/10/2026) : 03 86 37 11 47 = agence « Charpenet 1951 » de Nevers, 54 bd Camille Dagonneau à Varennes-Vauzelles (page agence du site de l'entreprise, même numéro dans les annuaires). E-mail générique relevé sur la page LinkedIn de l'entreprise (domaine sarl-charpenet.fr, distinct du site). Vérification : numéro confirmé (recherche sur le numéro exact : il renvoie à Charpenet 1951, 54 bd Camille Dagonneau à Varennes-Vauzelles, et à la page agence de Nevers du site) ; e-mail LinkedIn conservé car publié sur la page de l'entreprise (domaine de l'ancienne raison sociale SARL Louis Charpenet) mais non revérifié.",
+  "note_admin": "Décideurs (27/10/2026) : Fabienne Biojoux Guillaume se présente sur LinkedIn comme assistante administrative et commerciale chez Charpenet 1951, et la page LinkedIn de l'entreprise la félicite pour environ trois ans dans ce poste (extraits non datés, d'où « probable ») ; 3 recherches (générale, LinkedIn gérant / responsable, LinkedIn assistante / comptable) n'ont nommé aucun comptable ni RH. Autres noms vus sur LinkedIn, hors rôles recherchés : Rémi Rousset, « Gérant chez Charpenet 1951 » (peut-être la personne derrière HOLDING R.C, non vérifié), et Patrice Mabeau, « Responsable opérationnel » (agence non précisée) ; la décision revient au gérant. Vérification : 1 recherche LinkedIn (nom + fonction) ; la page LinkedIn de l'entreprise Charpenet 1951 nomme toujours Fabienne Biojoux Guillaume comme assistante administrative et commerciale (publication d'anniversaire d'environ trois ans, non datée), rien n'indique un départ ; fiabilité « probable » maintenue, son profil personnel n'est pas ressorti dans les résultats. Rémi Rousset ressort bien comme « Gérant - Charpenet 1951 »."
+ }
+]

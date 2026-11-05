@@ -1,0 +1,550 @@
+[
+ {
+  "rang": 101,
+  "siren": "950499673",
+  "nom": "SALDIA",
+  "nom_commercial": "Intermarché",
+  "nom_court": "Intermarché Super Guérigny",
+  "ville": "Guérigny",
+  "adresse": "RUE DE LANESSAN",
+  "activite": "Commerce de détail, à l'exception des automobiles et des motocycles",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "FANALONA",
+    "fonction": "Président"
+   },
+   {
+    "nom": "SA SALVAN ET ASSOCIES",
+    "fonction": null
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Nathalie Dufour",
+   "fonction": "Adhérente Intermarché (exploitante du magasin) ; présidente de la holding FANALONA, elle-même présidente de SALDIA (à confirmer)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://labellenievre.fr/adherent/intermarche-3/"
+  },
+  "contact_finance": {
+   "nom": "Nathalie Dufour",
+   "fonction": "Présidente de FANALONA (présidente de SALDIA) (à confirmer)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/fanalona-501897763"
+  },
+  "decision": "Décision locale, à Guérigny : Nathalie Dufour, adhérente indépendante du Groupement des Mousquetaires, détient le magasin via sa holding FANALONA domiciliée rue de Lanessan ; un achat de ce type relève a priori de l'adhérente, pas de la centrale.",
+  "note_contacts": "Exploitant de l'Intermarché Super de Guérigny, 5 rue de Lanessan (lien SALDIA / magasin vu sur zagaz.com). Numéro du magasin vu uniquement sur un annuaire tiers (coparking.ch), à vérifier sur la page magasin intermarche.com. Personne physique derrière la holding FANALONA non trouvée en 3 recherches. Commissaire aux comptes : SA SALVAN ET ASSOCIES. Profil : supermarché Intermarché Super de Guérigny (5 rue de Lanessan) avec station-service et drive, ouvert du lundi au samedi et le dimanche matin ; surface de vente, accueil et bureaux sur place, un seul site connu. SALDIA (SIREN de 2023) semble être une société d'exploitation récente portée par la holding FANALONA (créée en 2008, Nathalie Dufour présidente depuis 2013) : montage ou restructuration récente, à confirmer. Cibles 101-500 (27/10/2026) : 4 recherches. Personne physique derrière FANALONA identifiée : Nathalie Dufour, présidente au registre (Pappers) et nommée adhérente du magasin sur le site de l'association La Belle Nièvre (page non datée). Le 03 86 90 09 34, déjà confirmé sur la page officielle du magasin Intermarché lors de la vérification, est conservé (source PagesJaunes ici). Pas de DAF : dans un magasin indépendant de cette taille, la comptabilité est souvent suivie par l'adhérente avec un cabinet ; demander à l'appel Mme Dufour ou la personne qui gère l'administratif. Aucun e-mail public trouvé. Vérification : 1 recherche : le 03 86 90 09 34 est confirmé pour l'Intermarché Super de Guérigny, 5 rue de Lanessan, mais seulement par des annuaires (coparking.ch, au-magasin.fr ; source retenue PagesJaunes) ; aucune page officielle Intermarché dans les résultats : fiabilité ramenée de « officielle » à « annuaire ». Nathalie Dufour : aucun résultat ne la relie au magasin, marquée « à confirmer » (le registre de SALDIA ne donne que la holding FANALONA). Vérification : Numéro 03 86 90 09 34 retrouvé sur la page officielle du magasin Intermarché Super Guérigny (5 rue Lanessan) et sur PagesJaunes (https://www.pagesjaunes.fr/pros/00738659). FANALONA (président personne morale) : aucun résultat web, confirmé par le registre seulement ; personne physique toujours non identifiée.",
+  "note_admin": "Décideurs (27/10/2026) : deux recherches (LinkedIn comptable, responsable administratif ou directeur de l'Intermarché de Guérigny, puis web avec Dufour / SALDIA / directeur de magasin) ne nomment aucun responsable financier, RH ou administratif : seule la page La Belle Nièvre cite Nathalie Dufour, adhérente, déjà connue, et les offres de directeur de magasin concernent d'autres villes. Décision chez Mme Dufour ; demander au standard qui gère l'administratif et la comptabilité. Vérification : relecture seule (aucune personne à vérifier), note cohérente avec la fiche. Décideurs (27/10/2026) : deux recherches (SALDIA / FANALONA / Dufour avec codirigeant, comptable ou assistante de direction ; LinkedIn Intermarché Guérigny avec comptable, assistante administrative ou directeur de magasin) ne nomment personne : Zagaz confirme seulement « Saldia SA » comme exploitant, et les profils LinkedIn Intermarché trouvés sont d'autres magasins. Décision chez Mme Nathalie Dufour (adhérente) ; demander au standard qui gère l'administratif et la comptabilité. Vérification : relecture seule (aucune personne à vérifier), note cohérente avec la fiche.",
+  "qui_appeler": "Appeler le standard du magasin au 03 86 90 09 34 et demander Mme Nathalie Dufour, adhérente et présidente de la holding FANALONA (à confirmer), ou la personne qui gère l'administratif du magasin. À défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 116,
+  "siren": "350408183",
+  "nom": "TPI TRAVAUX PUBLICS ET INDUSTRIELS",
+  "nom_court": "TPI Location (Varennes-Vauzelles)",
+  "ville": "Varennes-Vauzelles",
+  "adresse": "ZI DES CHAMONDS RUE THOMAS EDISON",
+  "activite": "Activités de location et location-bail",
+  "effectif": "20-49 salariés",
+  "site_web": "https://tpilocation.fr/",
+  "dirigeants": [
+   {
+    "nom": "AFIC",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "AFIC (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale) de TPI",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+  },
+  "contact_finance": {
+   "nom": "AFIC (société holding, personne physique non identifiée)",
+   "fonction": "Président (personne morale)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/tpi-travaux-publics-et-industriels-350408183"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Rémy (nom non publié)",
+    "fonction": "Responsable de l'agence de Nevers",
+    "tel": null,
+    "email": null,
+    "source": "https://tpilocation.fr/"
+   }
+  ],
+  "decision": "Décision locale au siège de Varennes-Vauzelles : entreprise indépendante fondée en 1989 par Marie-Hélène Bernard, détenue par la holding AFIC (personne physique et localisation de la holding non vérifiées).",
+  "note_contacts": "Aucun numéro, site ni contact trouvé en 3 recherches. SIRENE : SAS TRAVAUX PUBLICS ET INDUSTRIELS (TPI), active depuis 1990, APE 77.32Z (location de machines et équipements pour la construction) ; l'ancien établissement ZA Champ Mâle, rue Jacques Duclos est fermé depuis 2009 (https://api-avis-situation-sirene.insee.fr/identification/pdf/35040818300019). Personne physique derrière AFIC non identifiée. Profil : loueur de matériel de BTP et d'industrie sous l'enseigne TPI Location (pelles, mini-pelles, compacteurs, chariots télescopiques, nacelles, camions-bennes, compresseurs, groupes électrogènes ; location aux professionnels et aux particuliers), siège et agence de Nevers au 2 rue Thomas Edison, ZI des Chamonds à Varennes-Vauzelles (comptoir d'accueil et parc de matériel), ouvert en semaine de 7h30 à 12h et de 13h30 à 18h ; autres agences à Cosne-sur-Loire (03 86 28 84 84, route de Nevers), Moulins (03) et Auxerre (89), 5 agences selon LinkedIn, 11 à 50 salariés. Cibles 101-500 (27/10/2026) : 4 recherches ; l'entreprise, introuvable aux passes précédentes sous sa raison sociale, est identifiée par son enseigne TPI Location : site officiel tpilocation.fr avec standard 03 86 59 81 82 et contact@tpilocation.fr (adresse d'agence nevers@tpilocation.fr vue sur le compte X de l'entreprise). Dirigeant : le registre donne la holding AFIC comme présidente ; le catalogue de l'entreprise présente la fondatrice Marie-Hélène Bernard comme présidente (document non daté, peut-être ancien) : à confirmer à l'appel, ainsi que l'éventuelle succession. Aucun responsable financier trouvé. Le site nomme seulement « Rémy », responsable de l'agence de Nevers : bon point d'entrée au standard. À l'appel : demander Mme Bernard ou le dirigeant actuel de la holding AFIC, et qui suit la comptabilité. Vérification : 2 recherches (la première, non limitée, sans résultat ; la seconde limitée à tpilocation.fr) : le 03 86 59 81 82 (agence de Nevers et siège, ZI des Chamonds) et contact@tpilocation.fr figurent sur le site officiel : confirmés ; agence de Cosne au 03 86 28 84 84 également confirmée. Marie-Hélène Bernard n'apparaît dans aucun extrait vu (catalogue non daté) : marquée « à confirmer » ; le registre ne donne que la holding AFIC. Aucun numéro, site ni contact trouvé en 3 recherches. SIRENE : SAS TRAVAUX PUBLICS ET INDUSTRIELS (TPI), active depuis 1990, APE 77.32Z (location de machines et équipements pour la construction) ; l'ancien établissement ZA Champ Mâle, rue Jacques Duclos est fermé depuis 2009 (https://api-avis-situation-sirene.insee.fr/identification/pdf/35040818300019). Personne physique derrière AFIC non identifiée. 2e passe : 3 recherches (TPI + rue Thomas Edison, raison sociale complète, loueurs de matériel BTP de la ZA des Chamonds) sans numéro ni enseigne identifiée ; aucun annuaire ne montre TPI à la ZI des Chamonds (loueurs voisins vus : Loxam Le Bengy, Kiloutou, non liés). Vérification : Aucun résultat web sur TPI à Varennes-Vauzelles (homonyme TPI à Hasparren, 64, sans lien) : président AFIC confirmé par le registre seulement.",
+  "note_admin": "Décideurs (27/10/2026) : aucun responsable financier, RH ou administratif publié (LinkedIn et web, 3 recherches) ; un article de ConstructionBTP de septembre 2026 (https://www.constructionbtp.com/terrassements-carrieres/article/2026/09/03/156045/cmg-reste-toujours-seul-contre-tous-dans-nievre) montre la présidente Marie-Hélène Bernard (aussi citée présidente par le Centre Jean Perrin en 2022 et au BODACC selon Pappers) aux côtés d'Anthony Soudry, qui dirige l'activité des cinq agences. Demander Mme Bernard ou M. Soudry et qui tient la comptabilité ; « Rémy » reste le responsable de l'agence de Nevers. Vérification : une recherche limitée à constructionbtp.com confirme l'article de septembre 2026 : Anthony Soudry y dirige l'activité des 5 agences TPI Location, présentée comme la branche location du distributeur familial CMG (Case, Nièvre et Allier, nouveau siège en construction à Nevers), ce qui fait aussi de CMG un lieu de décision possible ; le rôle de présidente de Marie-Hélène Bernard n'apparaît pas dans les extraits vus et le registre ne cite que la holding AFIC : à confirmer. Une recherche web libre (Soudry, TPI, Bernard) n'a rien donné. Décideurs (27/10/2026) : trois recherches (TPI Location avec comptable / assistante de direction / RH, holding AFIC dans les annuaires B2B, LinkedIn TPI Location) ne nomment aucun responsable financier, RH ou administratif : AFIC reste introuvable et la page LinkedIn de TPI Location (11-50 salariés, 5 agences) ne donne aucun nom de fonction administrative. Décision chez Marie-Hélène Bernard ou Anthony Soudry, voire chez CMG (distributeur familial dont TPI est la branche location) : demander au standard qui tient la comptabilité. Vérification : relecture seule (aucune personne à vérifier), note cohérente avec la fiche.",
+  "qui_appeler": "Appeler le standard du siège au 03 86 59 81 82 (site officiel) et demander Mme Marie-Hélène Bernard, fondatrice (présidente à confirmer), ou le dirigeant actuel de la holding AFIC ; Rémy, responsable de l'agence de Nevers, peut orienter. À défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 120,
+  "siren": "354045205",
+  "nom": "A.E. PRODUCTION ALAIN ELINAS PRODUCTION",
+  "nom_court": "AE Production (Pougues-les-Eaux)",
+  "ville": "Pougues-les-Eaux",
+  "adresse": "1298 AVENUE DE PARIS",
+  "activite": "Fabrication de meubles",
+  "effectif": "20-49 salariés",
+  "site_web": "https://aelinasprod.fr",
+  "dirigeants": [
+   {
+    "nom": "Alain MANNS",
+    "fonction": null
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alain MANNS",
+   "fonction": "Dirigeant (titre exact non précisé dans le registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+  },
+  "contact_finance": {
+   "nom": "Alain MANNS",
+   "fonction": "Dirigeant (titre exact non précisé dans le registre)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/ae-production-alain-elinas-production-354045205"
+  },
+  "contacts_admin": [
+   {
+    "nom": "Nadine GUERIN",
+    "fonction": "Responsable des ressources humaines",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/354045205.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Anne Cecile SIMOES",
+    "fonction": "Directrice générale déléguée",
+    "role": "administratif",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/354045205.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "decision": "Décision prise sur place à Pougues-les-Eaux par le président Alain Manns : SAS indépendante sans groupe ni établissement secondaire connus.",
+  "note_contacts": "Aucun numéro ni site trouvé en 3 recherches. Xerfi : fabrication de meubles de bureau et de magasin (31.01Z), CA 4 732 k€ en 2024, 36 personnes, siège avenue de Paris à Pougues-les-Eaux sans établissement secondaire (https://www.xerfi.com/etudes-par-entreprise/alain-elinas-production_354045205). Profil : AE Production (marque commerciale d'Alain Elinas Production) conçoit, fabrique et pose du mobilier commercial et de la PLV (mélaminé, stratifié, combiné métal, plastique, verre) pour l'agencement d'espaces de vente ; usine-atelier unique au 1298 avenue de Paris à Pougues-les-Eaux (menuiserie, usinage, tôlerie, impression, tabletterie, installation-maintenance), environ 36 à 45 salariés, référencée La French Fab (https://www.lafrenchfab.fr/entreprise/ae-production/). Cibles 101-500 (27/10/2026) : site officiel identifié (aelinasprod.fr, absent du CRM) ; standard 03 86 90 99 80 donné par les mentions légales et la page contact du site (https://aelinasprod.fr/contact/), aussi sur 118000.fr. Email générique contact@aelinasprod.fr dans les mentions légales ; la même page affiche aussi contact@aeproduction.fr dans son bloc contact : deux variantes publiées, demander laquelle utiliser. Président Alain Manns confirmé par verif.com, Kompass et manageo (président depuis 2012 selon un annuaire) ; Pappers affiche aussi une ligne « ancien président » 2021-2022 au même nom, sans autre dirigeant visible : à faire confirmer au standard. Aucun DAF, RAF ni comptable trouvé (4 recherches) : demander au standard qui suit la comptabilité et les achats (assistante de direction ou comptable interne ?). Vérification : 2 recherches (numéro exact avec « AE Production » Pougues-les-Eaux ; aelinasprod.fr + agencement + Pougues) : ni le site aelinasprod.fr, ni ses mentions légales, ni le 03 86 90 99 80 ne ressortent ; seule la fiche Xerfi (siège 1298 avenue de Paris, sans établissement secondaire) apparaît. Standard rétrogradé de « officielle » à « annuaire » (source déclarée non revue) ; site et emails contact@aelinasprod.fr / contact@aeproduction.fr également non confirmés : faire confirmer le numéro et l'adresse email au premier appel. Aucun numéro ni site trouvé en 3 recherches. Xerfi : fabrication de meubles de bureau et de magasin (31.01Z), CA 4 732 k€ en 2024, 36 personnes, siège avenue de Paris à Pougues-les-Eaux sans établissement secondaire (https://www.xerfi.com/etudes-par-entreprise/alain-elinas-production_354045205). 2e passe : 3 recherches (Elinas + Pougues, adresse 1298 avenue de Paris, A.E. Production + agencement) sans numéro, site ni enseigne commerciale identifiée. Vérification : Aucun résultat web sur Alain Manns ni sur « Alain Elinas » à Pougues-les-Eaux : dirigeant confirmé par le registre seulement (titre exact absent du registre). Vérification du standard (28/10/2026) : la recherche exacte du 03 86 90 99 80 ne fait ressortir aucune page (résultats sans rapport : bases de marques et de numéros étrangères) : numéro toujours non confirmé pour A.E. Production.",
+  "note_admin": "Décideurs (27/10/2026) : trois recherches (LinkedIn de l'entreprise et du site aelinasprod.fr) ne nomment aucun comptable, RH ou assistante de direction : les salariés visibles d'AEProduction sont des chargés d'affaires, de projet graphisme et d'achats, et la page entreprise LinkedIn ne montre pas de fonction administrative. Décision chez le président Alain Manns ; demander au standard qui suit la comptabilité et l'administratif. Vérification : relecture seule (aucune personne à vérifier), note cohérente avec la fiche. Décideurs (27/10/2026) : l'annuaire Manageo cite Nadine Guérin, responsable des ressources humaines, et Anne Cécile Simoes, directrice générale déléguée (absente du registre actuel, qui ne donne qu'Alain Manns : peut-être ancienne), aucune autre source ne les reliant à l'entreprise (recherche nominative sans résultat) ; Verif cite aussi Marie-Anne Guyon (directrice des achats) et Alain Elinas (directeur général délégué, probablement ancien). Au standard, demander Mme Guérin ou Mme Simoes et vérifier qu'elles sont toujours en poste, sinon M. Manns. Vérification : 5 recherches (noms + AE Production / Pougues sur le web et LinkedIn, SIREN + noms, Anne-Cécile Simoes seule) : ni Nadine Guérin ni Anne-Cécile Simoes ne sont retrouvées, ni chez AE Production ni ailleurs ; source annuaire seule, elles restent « probable » et à confirmer au standard. Mme Simoes, absente du registre (qui ne cite qu'Alain Manns), n'est probablement plus directrice générale déléguée ; son rôle « administratif » est une approximation (pas de catégorie direction).",
+  "qui_appeler": "Appeler le standard au 03 86 90 99 80 (numéro d'annuaire, à confirmer) et demander M. Alain Manns, président. À défaut, demander le responsable administratif et financier ou la personne qui suit la comptabilité et les achats."
+ },
+ {
+  "rang": 126,
+  "siren": "393717863",
+  "nom": "LES ETABLISSEMENTS HUGUET",
+  "nom_court": "Paysagiste Huguet, Saint-Honoré-les-Bains",
+  "ville": "Saint-Honoré-les-Bains",
+  "adresse": "24 RUE DU CHEMIN FERRE",
+  "activite": "Services relatifs aux bâtiments et aménagement paysager",
+  "effectif": "20-49 salariés",
+  "site_web": "http://www.paysagiste-huguet.com",
+  "dirigeants": [
+   {
+    "nom": "Fabien HUGUET",
+    "fonction": "Gérant"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Fabien HUGUET",
+   "fonction": "Gérant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+  },
+  "contact_finance": {
+   "nom": "Fabien HUGUET",
+   "fonction": "Gérant",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/les-etablissements-huguet-393717863"
+  },
+  "decision": "Décision prise à Saint-Honoré-les-Bains par le gérant Fabien Huguet : entreprise familiale indépendante (depuis 1975), sans groupe connu.",
+  "note_contacts": "Aucun numéro ni site trouvé en 3 recherches (les résultats « Huguet » concernent d'autres sociétés : groupe Huguet de Luçon en Vendée, notaire à Houilles). Dirigeant issu du registre uniquement. Profil : « Paysagiste Huguet » (Ets Huguet), paysagiste, pisciniste (piscines enterrées, maçonnées et hors-sol depuis 2005, spas), horticulteur et pépiniériste : création et entretien de parcs, jardins et espaces verts (tonte, élagage sur corde), production de plantes et vente au détail et en gros, rayon d'intervention d'environ 90 km. Deux sites : siège, pépinière et jardinerie au 24 rue du Chemin Ferré à Saint-Honoré-les-Bains (depuis 1975, équipe de production de 8 à 10 personnes) et jardinerie de Bourbon-Lancy (71, lieu-dit Les Alouettes, ouverte en 2017 ; 03 85 85 62 70, huguet.bourbonlancy@gmail.com) ; un ancien site à Fours (58) est fermé. Clients reçus en jardinerie et pépinière. Cibles 101-500 (27/10/2026) : la passe précédente n'avait rien trouvé ; site officiel paysagiste-huguet.com identifié, standard 03 86 30 75 89 et email générique etablissement.huguet@gmail.com publiés sur sa page contact (même numéro sur Petit Futé, PagesJaunes https://www.pagesjaunes.fr/pros/00382405 et 118712). Gérant Fabien Huguet confirmé par Pappers et societe.com, mais son nom n'apparaît pas sur le site ni dans la presse. Aucun responsable administratif ou comptable trouvé (4 recherches) : demander au standard M. Huguet et qui gère la comptabilité ou l'administratif (souvent un membre de la famille dans ce type d'entreprise). Vérification : 2 recherches (paysagiste Huguet + Saint-Honoré-les-Bains + pépinière ; domaine paysagiste-huguet.com ou numéro exact) : ni le site paysagiste-huguet.com ni le 03 86 30 75 89 n'apparaissent ; seule une fiche « Ets Huguet » (produits régionaux, plantes) sur burgundy-tourism.com (https://www.burgundy-tourism.com/regional-products/ets-huguet) confirme l'activité horticole en Bourgogne, sans numéro. Standard rétrogradé de « officielle » à « annuaire » ; site et email générique gmail également non confirmés : à faire confirmer au premier appel. Aucun numéro ni site trouvé en 3 recherches (les résultats « Huguet » concernent d'autres sociétés : groupe Huguet de Luçon en Vendée, notaire à Houilles). Dirigeant issu du registre uniquement. 2e passe : 3 recherches (Huguet + Saint-Honoré-les-Bains + paysagiste/nettoyage, adresse rue du Chemin Ferré, Ets/Etablissements Huguet + 58360) sans numéro ; seul résultat local : un Garage Huguet au 48 avenue du Général d'Espeuilles, Saint-Honoré-les-Bains (https://www.michelin.fr/auto/dealer-locator/saint-honore-les-bains/ydeddbr-garage-huguet), autre adresse et autre activité, lien non établi, non retenu. Vérification : Aucun résultat web sur Fabien Huguet à Saint-Honoré-les-Bains (seuls des homonymes psychologues ailleurs) ni sur un numéro rue du Chemin Ferré : gérant confirmé par le registre seulement. Vérification du standard (28/10/2026) : la recherche exacte du 03 86 30 75 89 ne fait ressortir aucune page, ni pour Les Établissements Huguet ni pour un autre titulaire : numéro toujours non confirmé.",
+  "note_admin": "Décideurs (27/10/2026) : aucun responsable administratif, comptable ou RH nommé en 3 recherches (LinkedIn, site paysagiste-huguet.com, annuaires PagesJaunes/Petit Futé, presse locale) ; seuls des profils Huguet sans fonction administrative déclarée apparaissent. Décision chez le gérant Fabien Huguet à Saint-Honoré-les-Bains : demander au standard qui tient la comptabilité ou le secrétariat. Vérification : relecture sans recherche, fiche cohérente (aucune personne retenue, décision chez le gérant du registre). Décideurs (27/10/2026) : aucun comptable, secrétaire ni co-gérant administratif nommé en 3 recherches (fonctions administratives + Saint-Honoré-les-Bains, annuaires Manageo/Verif/Kompass par SIREN, presse locale en mode étendu) : gowork.fr ne liste que des postes de vendeuse, piscinier, horticultrice et pépiniériste, et Pappers mentionne seulement une cession de parts de Jackie Huguet à Fabien et Yann Huguet (associés, sans fonction administrative publiée). Décision chez le gérant Fabien Huguet : demander au standard qui tient la comptabilité (Yann Huguet ou un proche, à vérifier).",
+  "qui_appeler": "Appeler le 03 86 30 75 89 (numéro d'annuaire, à confirmer) et demander Fabien Huguet, gérant. À défaut, demander le responsable administratif et financier ou la personne qui gère la comptabilité."
+ },
+ {
+  "rang": 128,
+  "siren": "311665913",
+  "nom": "ENTREPRISE BERNARD POTIER ANCIENNE ENTREPRISE RENE PERROT",
+  "nom_court": "Entreprise Bernard Potier, Nevers",
+  "ville": "Nevers",
+  "adresse": "101 FAUBOURG DE LA BARATTE",
+  "activite": "Travaux de construction spécialisés",
+  "effectif": "20-49 salariés",
+  "dirigeants": [
+   {
+    "nom": "Alexis Florent DE WITTE",
+    "fonction": "Président"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Alexis Florent DE WITTE",
+   "fonction": "Président",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/societe/ent-bernard-potier-ancien-ent-r-perrot-311665913.html"
+  },
+  "contact_finance": {
+   "nom": "Alexis Florent DE WITTE",
+   "fonction": "Président",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.societe.com/societe/ent-bernard-potier-ancien-ent-r-perrot-311665913.html"
+  },
+  "decision": "Décision probablement prise à Nevers par le président Alexis De Witte (repreneur ou dirigeant récent d'une PME artisanale indépendante) ; aucune holding ni groupe identifié.",
+  "note_contacts": "Société connue sous le nom « Potier Bernard (SARL) », couverture-plomberie-chauffage, RGE QualiBat, 101 faubourg de la Baratte, Nevers. Téléphone identique sur deux annuaires RGE (les-energies-renouvelables.eu et https://www.hellowatt.fr/artisans/potier-bernard-sarl/). Email générique (adresse wanadoo au nom de la société) vu sur ces annuaires, non confirmé sur un site officiel. Les deux annuaires donnent des SIRET différents (…00019 / …00035), possible transfert d'établissement. Aucun résultat sur Alexis De Witte en ligne ; président issu du registre uniquement. Profil : entreprise artisanale du bâtiment fondée en 1977, 101 faubourg de la Baratte à Nevers : couverture-zinguerie (tuile, ardoise, gouttières), plomberie-sanitaire, chauffage (chaudières, bois, pompes à chaleur) et isolation, certifiée RGE / QualiBAT et labellisée Qualitoit (https://qualitoit.fr/artisan-couvreur/bourgogne-franche-comte/58-nievre/nevers/58000-nevers/entreprise-couverture-entreprise-bernard-potier) ; dépôt-atelier et bureaux au faubourg de la Baratte, 20-49 salariés, CA 4,2 M€ en 2024 ; passage de SARL à SAS en 2025. Cibles 101-500 (27/10/2026) : 4 recherches. Standard 03 86 61 02 25 toujours vu uniquement sur des annuaires (PagesJaunes https://www.pagesjaunes.fr/pros/00768826, Hellowatt, Travaux-RGE, 118000) ; aucun site officiel trouvé et la recherche du numéro exact ne renvoie aucune page : fiabilité « annuaire ». Email wanadoo également issu d'annuaires seulement. Président Alexis De Witte confirmé par verif.com et societe.com ; societe.com garde trace d'un ancien gérant René Brissard (période SARL) ; un résultat LinkedIn associe un Alexis De Witte à cette société à Nevers, URL non affichée. Aucun responsable administratif, financier ou comptable trouvé : demander au standard M. De Witte et qui gère la comptabilité (secrétaire-comptable interne ?). Vérification : Le numéro exact 03 86 61 02 25 ne ressort dans aucune recherche indépendante : seulement sur les deux annuaires RGE déjà cités (les-energies-renouvelables.eu, hellowatt.fr) ; les fiches PagesJaunes (https://www.pagesjaunes.fr/pros/00768826) et 118712 existent mais leur numéro n'apparaît pas dans les extraits. L'adresse wanadoo n'apparaît que sur ces mêmes annuaires. Alexis De Witte indiqué comme dirigeant par societe.com ; annonces légales de juillet 2025 sur un changement de forme juridique (SARL → SAS), cohérent avec un président récent. Vérification du standard (28/10/2026) : la recherche exacte du 03 86 61 02 25 ne fait ressortir aucune page en dehors des annuaires RGE déjà cités, ni aucun autre titulaire : numéro toujours à confirmer pour l'Entreprise Bernard Potier.",
+  "note_admin": "Décideurs (27/10/2026) : aucun DAF, comptable ou assistant(e) nommé avec sa fonction en 3 recherches (LinkedIn) ; un profil LinkedIn de Charlotte Ridde indique « Sarl bernard potier » comme employeur, poste non précisé (https://www.linkedin.com/in/charlotte-ridde-98b0b7204/) : demander au standard si elle gère l'administratif. Décision à Nevers par le président Alexis De Witte. Vérification : 1 recherche LinkedIn ; le profil de Charlotte Ridde affiche toujours « Sarl bernard potier » (formation EGC Nevers, Poiseux ; extrait d'environ un an et demi) et relaie les offres d'emploi de l'entreprise, mais ne donne aucune fonction : à ne pas classer comme contact tant que son rôle n'est pas confirmé au standard. Décideurs (27/10/2026) : aucun comptable ni assistant(e) de gestion nommé en 3 recherches (fonctions administratives + Bernard Potier Nevers sur le web et LinkedIn, nom de Charlotte Ridde) : LinkedIn ne montre qu'une offre de couvreur relayée par Synergie Nevers, et le poste de Charlotte Ridde reste inconnu. Décision à Nevers par le président Alexis De Witte : demander au standard qui tient l'administratif.",
+  "qui_appeler": "Appeler le 03 86 61 02 25 (numéro d'annuaire, à confirmer) et demander Alexis De Witte, président. À défaut, demander le responsable administratif et financier ou la personne qui tient la comptabilité."
+ },
+ {
+  "rang": 2,
+  "siren": "350693586",
+  "nom": "FPT POWERTRAIN TECHNOLOGIES FRANCE",
+  "nom_commercial": "FPT Industrial",
+  "nom_court": "FPT Industrial (siège France, Garchizy)",
+  "ville": "Garchizy",
+  "adresse": "5 rue Pierre Timbaud, 58600 Garchizy",
+  "activite": "Industrie automobile",
+  "effectif": "1000-1999 (≈1 200 salariés en 2024 ; siège de Garchizy : tranche 100-199)",
+  "groupe": "Iveco Group (marque FPT Industrial) ; rachat d'Iveco Group par Tata Motors annoncé le 30/07/2025, finalisation prévue au 1er semestre 2026 (statut non vérifié)",
+  "site_web": "https://www.fptindustrial.com",
+  "linkedin": "https://www.linkedin.com/company/fpt-industrial",
+  "dirigeants": [
+   {
+    "nom": "Simone CURTI",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Vincent BARBOSA",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Simone CURTI",
+   "fonction": "Président de SAS (registre) ; président de la Powertrain Business Unit d'Iveco Group (FPT Industrial) à compter du 30/06/2026",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.oemoffhighway.com/engines/article/22965539/fpt-industrial-iveco-group-names-simone-curti-president-of-powertrain-business-unit"
+  },
+  "contact_finance": {
+   "nom": "Simone CURTI",
+   "fonction": "Président de SAS ; président de la Powertrain Business Unit d'Iveco Group (aucun DAF France identifié)",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.oemoffhighway.com/engines/article/22965539/fpt-industrial-iveco-group-names-simone-curti-president-of-powertrain-business-unit"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Vincent BARBOSA",
+    "fonction": "Directeur Général (registre, non confirmé par une source récente)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/350693586",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Au siège d'Iveco Group à Turin (Italie) : FPT Powertrain Technologies France est une filiale présidée par le président de la Powertrain Business Unit du groupe, et le rachat d'Iveco par Tata Motors (Mumbai) pourrait encore déplacer ce centre de décision.",
+  "note_contacts": "Aucun numéro propre au siège de Garchizy trouvé dans les extraits (le 080 026 603 78 du site FPT est une ligne d'assistance mondiale, non retenue). Aucun DAF ou contrôleur de gestion France identifié via WebSearch : à demander au standard. Grand site de production en France : Bourbon-Lancy (71), où Panjiva situe aussi la société. Filiale d'Iveco Group. 2e passe : 03 85 89 40 00 affiché par l'annuaire L'Usine Nouvelle pour une fiche établissement de FPT Powertrain Technologies France ; l'indicatif 03 85 89 est celui de Bourbon-Lancy (71), l'usine principale de la société : ce n'est donc probablement pas le siège de Garchizy (la fiche Usine Nouvelle de Garchizy n'affiche pas de numéro) ; ville non visible dans l'extrait, à confirmer. Le +39 011 0073111 (siège FPT à Turin) n'est pas retenu. 2e niveau : 6 recherches. Registre à jour : Simone Curti a remplacé Sylvain Blaise (parti diriger Manitou) à la tête de la Powertrain Business Unit d'Iveco Group au 30/06/2026, selon la presse ; il est déjà président de la SAS au registre. Aucune trace publique récente de Vincent Barbosa (DG au registre) : à confirmer au standard ; c'est sans doute l'interlocuteur France le plus accessible. Aucun numéro propre au site de Garchizy (rue Pierre Timbaud) : ni les annuaires ni le site FPT n'en affichent. Le 03 85 89 40 00 (annuaire L'Usine Nouvelle, 1re passe) est un indicatif de Bourbon-Lancy (71), l'usine principale d'environ 1 200 salariés (150 ans en 2025) : à utiliser faute de mieux et demander le site de Garchizy. Aucun DAF, RAF ni contrôleur de gestion France trouvé ; seul un ancien DAF de Fiat Powertrain Technologies France (2006-2009, Nevers) apparaît sur Viadeo, non retenu. Au téléphone : demander le DAF France ou le contrôleur de gestion du site de Bourbon-Lancy, et vérifier que le DG est toujours Vincent Barbosa. Vérification : « Vincent Barbosa » + FPT Powertrain Technologies France : aucun résultat ne le nomme, mais rien n'indique un départ (dirigeant issu du registre). Attention : le communiqué Business Wire 2024 sur la nomination d'un CEO de la filiale française concerne FPT Software (groupe vietnamien), sans rapport. Recherche « Vincent Barbosa » + FPT Industrial + Garchizy : aucun résultat ne le cite. Les résultats ne donnent que la direction du groupe (Iveco/FPT) et une fiche registre sans dirigeant. Registre seul, rien de récent. Vérification du standard (28/10/2026) : la recherche exacte du 03 85 89 40 00 ne fait ressortir aucune page le publiant pour FPT ou un autre titulaire ; à noter que l'indicatif 03 85 correspond à la Saône-et-Loire (site de Bourbon-Lancy) et non au siège de Garchizy (Nièvre).",
+  "note_admin": "Décideurs (27/10/2026, passe DAF) : aucun DAF, RAF, contrôleur de gestion ni chef comptable actuel nommé pour FPT Powertrain Technologies France, ni au siège de Garchizy ni à l'usine de Bourbon-Lancy (71, environ 1 200 salariés), en 4 recherches (directeur financier FPT Industrial France, LinkedIn « plant controller » / contrôleur de gestion Bourbon-Lancy, recherche étendue, fiches Manageo / Verif) : seuls apparaissent d'anciens contrôleurs de gestion et un ancien « finance manager » de Bourbon-Lancy (2015-2016) et une contrôleuse « FPT Global Manufacturing Operations » aujourd'hui chez CNH Industrial, non retenus. La finance de la filiale dépend d'Iveco Group / FPT Industrial (Turin) : au standard, demander le contrôleur de gestion (plant controller) de l'usine de Bourbon-Lancy ou le responsable financier France. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée, 4 recherches annoncées). Décideurs (27/10/2026) : aucun DAF, contrôleur de gestion, RH ni directeur de site actuel trouvé pour Garchizy (3 recherches LinkedIn et presse) : seuls apparaissent un ancien contrôleur de gestion d'usine (2016-2020, parti chez Essity) et une assistante RH à Garchizy de 2020 à 2022 (Dorine Serment, poste actuel non établi), non retenus. La décision se prend chez Iveco Group / FPT Industrial (Turin) : au standard, demander le responsable administratif et financier ou le RH du site de Garchizy. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée).",
+  "qui_appeler": "Appeler le 03 85 89 40 00 (numéro d'annuaire, probablement l'usine de Bourbon-Lancy, à confirmer) et demander le siège de Garchizy, puis Vincent Barbosa, directeur général de la filiale (à confirmer). À défaut, demander le directeur administratif et financier France ou le contrôleur de gestion."
+ },
+ {
+  "rang": 7,
+  "siren": "775722218",
+  "nom": "PARAGON TRANSACTION",
+  "nom_commercial": "Paragon Transaction",
+  "nom_court": "Paragon Transaction (Cosne-Cours-sur-Loire)",
+  "ville": "Cosne-Cours-sur-Loire",
+  "adresse": "39 rue des Rivières, Saint-Agnan, 58200 Cosne-Cours-sur-Loire",
+  "activite": "Imprimerie",
+  "effectif": "250-499 (374 salariés à la clôture du 30/06/2025, 326 un an plus tôt ; site principal de Cosne : tranche 100-199)",
+  "groupe": "Groupe Paragon (Paragon France)",
+  "site_web": "https://www.paragon.world/fr",
+  "dirigeants": [
+   {
+    "nom": "PARAGON FRANCE (personne morale, SIREN 908242787)",
+    "fonction": "Président de SAS (depuis le 20/12/2024)"
+   },
+   {
+    "nom": "Pauric CREAN",
+    "fonction": "Directeur général (depuis le 20/12/2024)"
+   },
+   {
+    "nom": "Liam DEVANE",
+    "fonction": "Directeur général (depuis le 20/12/2024)"
+   },
+   {
+    "nom": "Laurent ESTIVAL",
+    "fonction": "Directeur général (depuis le 28/11/2025)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Laurent ESTIVAL",
+   "fonction": "Directeur général (depuis le 28/11/2025) ; président : PARAGON FRANCE (personne morale)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/775722218"
+  },
+  "contact_finance": {
+   "nom": "Laurent ESTIVAL",
+   "fonction": "Directeur général (depuis le 28/11/2025) — aucun DAF/RAF/contrôleur de gestion de Paragon Transaction ou de Paragon France nommé trouvé",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/775722218"
+  },
+  "contacts_admin": [
+   {
+    "nom": "Christine BERNEAU",
+    "fonction": "Responsable ressources humaines (Paragon Transaction, Cosne-Cours-sur-Loire)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://fr.linkedin.com/posts/paragon-france_caroussel-rse-activity-7030812698988695552-Oi40",
+    "linkedin": "https://www.linkedin.com/in/christine-berneau-5a80b6169/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "decision": "Décision probablement au niveau du groupe : Paragon Transaction est présidée par PARAGON FRANCE (siège à Nanterre, 92) et co-dirigée par des DG du groupe Paragon (Pauric Crean, Liam Devane) ; le DG Laurent Estival, nommé fin 2025, est l'interlocuteur local à Cosne, siège social et site industriel de la société.",
+  "note_contacts": "Standard publié sur le site du groupe Paragon pour le site de Cosne (39 rue des Rivières, Saint-Agnan, 58200 Cosne-Cours-sur-Loire). Aucun DAF/RAF/contrôleur de gestion nommé trouvé (2 recherches dédiées) malgré 374 salariés : la fonction finance est probablement portée par PARAGON FRANCE / le groupe ; le DG reste l'interlocuteur par défaut. Autres DG au registre : Pauric CREAN et Liam DEVANE (depuis le 20/12/2024, dirigeants groupe). Laurent SALMON apparaît comme directeur général délégué de Paragon Transaction SA depuis 2014 sur MarketScreener (https://uk.marketscreener.com/insider/LAURENT-SALMON-A27MXL/) — probablement ancien, absent du registre actuel. Contacts cités dans deja d'après Kompass (Christine Berneau, responsable du personnel ; Benoît Collin, directeur de site) non revérifiés. 2e niveau : 6 recherches. Le 03 86 26 51 51 vient du premier passage (site du groupe Paragon, page du site de Cosne) ; une recherche exacte sur ce numéro ne l'a pas fait ressortir dans les extraits, à confirmer à l'appel (ne pas confondre avec Paragon ID, autre société cotée, siège à Argent-sur-Sauldre 02 48 81 61 00). Une offre d'emploi France Travail (2026) indique 9 établissements en France dont « le siège social, également site industriel, est implanté à Cosne-Cours-sur-Loire » (https://candidat.francetravail.fr/offres/recherche/detail/210MCWF) ; Xerfi donne ~326 salariés et 91 M€ de CA 2024 (https://www.xerfi.com/etudes-par-entreprise/paragon-transaction_775722218). PARAGON FRANCE est domiciliée à Nanterre, présidée par IMMOBILIERE PARAGON FRANCE (https://www.lejournaldesentreprises.com/entreprise/paragon-france). Aucune trace publique de Laurent ESTIVAL associée à Paragon (nomination récente, registre seule source). Aucun DAF, RAF, contrôleur de gestion ni chef comptable nommé (3 recherches dédiées : Paragon Transaction, Paragon France). Laurent SALMON, DG délégué de Paragon Transaction SA depuis 2014 selon MarketScreener, est absent du registre actuel : probablement ancien. À l'appel : demander le secrétariat de direction de M. Estival et le responsable administratif et financier du site (avec 9 établissements et 370 salariés, une fonction finance existe probablement à Cosne). Vérification : Le numéro 03 86 26 51 51 n'apparaît dans aucun résultat lié à Paragon (2 recherches).",
+  "note_admin": "Décideurs (27/10/2026) : une publication de recrutement de Paragon sur LinkedIn (vers 2023, URL exacte du post non affichée) présente Christine Berneau comme « notre responsable RH », ce qui recoupe la fiche Kompass déjà notée (responsable du personnel à Cosne) ; aucun DAF, RAF, contrôleur de gestion ni chef comptable du site trouvé (3 recherches, LinkedIn et annuaires), Benoît Collin (directeur de site selon Kompass) non retrouvé. La finance semble portée par Paragon France (Nanterre) : demander à Mme Berneau ou au secrétariat de M. Estival qui prépare les achats. Vérification : son profil LinkedIn affiche un poste en cours chez PARAGON FRANCE (présidente de la société), à Cosne-Cours-sur-Loire, sans intitulé ni date, et un post de Paragon Western Europe de février 2023 (« Caroussel RSE », désormais en source) la présente comme responsable RH ; aucune source de 2024 ou plus récente sur l'intitulé, donc « probable » maintenu (1 recherche). Décideurs (27/10/2026, passe DAF) : aucun DAF, RAF, contrôleur de gestion ni comptable de Paragon Transaction, de Paragon France ou de Paragon Western Europe nommé en 3 recherches (contrôleur de gestion / chef comptable à Cosne, LinkedIn Paragon Cosne + finance, DAF / CFO Paragon Western Europe et Paragon France) ; les homonymes Paragon ID (Argent-sur-Sauldre) et paragon GmbH (Allemagne) sont sans rapport. La page LinkedIn de Paragon Western Europe situe son site principal rue des Rivières à Cosne : la finance de la division peut donc s'y trouver ; au standard, demander le responsable administratif et financier ou le contrôleur de gestion du site, sinon passer par Mme Berneau (RH). Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée ; Mme Berneau, RH, figure déjà dans les contacts connus).",
+  "qui_appeler": "Appeler le 03 86 26 51 51 (standard du site de Cosne publié par le groupe, à confirmer) et demander le secrétariat de Laurent Estival, directeur général. À défaut, demander le responsable administratif et financier du site."
+ },
+ {
+  "rang": 14,
+  "siren": "393635230",
+  "nom": "TRANSPORTS ROUSSEAU ERIC",
+  "nom_commercial": "Transports Rousseau",
+  "nom_court": "Transports Rousseau, Corvol-l'Orgueilleux",
+  "ville": "Corvol-l'Orgueilleux",
+  "adresse": "Quartier de la Gare, 58460 Corvol-l'Orgueilleux",
+  "activite": "Transports terrestres",
+  "effectif": "250-499 (≈360 salariés selon une offre France Travail d'avril 2025 ; groupe de plus de 700)",
+  "groupe": "Groupe Rousseau",
+  "site_web": "https://rousseau-groupe.com",
+  "linkedin": "https://www.linkedin.com/company/transports-rousseau-eric",
+  "dirigeants": [
+   {
+    "nom": "GROUPE ROUSSEAU (personne morale)",
+    "fonction": "Président de SAS"
+   },
+   {
+    "nom": "Eric Ernest ROUSSEAU",
+    "fonction": "Autre (dirigeant)"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Dirigeant (registre : « Autre ») ; président de la holding Groupe Rousseau, présidente de la SAS",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/393635230"
+  },
+  "contact_finance": {
+   "nom": "Eric ROUSSEAU",
+   "fonction": "Président de la holding Groupe Rousseau, présidente de Transports Rousseau Eric",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/393635230"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Jade ROUSSEAU",
+    "fonction": "Directrice générale du groupe (source tierce faible, non confirmée)",
+    "tel": null,
+    "email": null,
+    "source": "https://copeps.fr/actualites/sarl-rousseau-eric/",
+    "a_confirmer": true
+   }
+  ],
+  "contacts_admin": [
+   {
+    "nom": "Colette CENDRE",
+    "fonction": "Contact recrutement de l'offre France Travail 191MYKZ (titre non publié)",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://candidat.francetravail.fr/offres/recherche/detail/191MYKZ",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "decision": "Dans la Nièvre, au niveau de la holding familiale Groupe Rousseau, présidée par Eric Rousseau, dont le siège a été transféré à Clamecy en 2021 : entreprise familiale sans groupe extérieur.",
+  "note_contacts": "Aucun téléphone ni site officiel trouvé via WebSearch. Le numéro PagesJaunes 05 45 82 15 10 correspond à une autre société, Transports Rousseau SAS à Cognac : à ne pas confondre. Établissement secondaire à Clamecy. Environ 360 salariés, plus de 700 pour le groupe : un DAF ou RAF existe probablement mais n'a pas été identifié publiquement. Le rôle de Jade Rousseau vient d'un site tiers (copeps.fr) : source faible, à vérifier. 2e passe : 3 recherches (Corvol + « 03 86 », Groupe Rousseau Corvol / Clamecy, « Transports Rousseau Eric » téléphone) sans numéro ni site ; seuls réapparaissent l'offre France Travail 191MYKZ et le numéro de Transports Rousseau SAS (Cognac), à ne pas utiliser. 2e niveau : 6 recherches, toujours aucun numéro ni site officiel. Le 05 45 82 15 10 (PagesJaunes) est celui de Transports Rousseau SAS à Cognac, une autre société : ne pas l'utiliser ; le 03 86 29 13 77 est celui de la mairie de Corvol et le 03 86 27 02 51 celui de l'office de tourisme de Clamecy. Selon un annuaire d'entreprises, le siège du groupe a été transféré à Clamecy en 2021 ; établissement secondaire rue Clément Ader à Clamecy (selon copeps.fr). Activités du groupe (offre France Travail 191MYKZ) : distribution de palettes, température dirigée, lots, vrac, matières dangereuses, transport de fûts, location de véhicules ; présent dans la Nièvre depuis 1994, 360 salariés, plus de 700 pour le groupe. Copeps.fr cite Eric Rousseau comme président du groupe et Jade Rousseau comme directrice générale (source faible). Aucun DAF, RAF ni comptable nommé, bien que la taille du groupe en suppose un. Prochaine étape : appeler les renseignements ou passer par l'offre France Travail pour obtenir le standard, puis demander le service comptable ou administratif du groupe. 2e niveau : 6 recherches, toujours aucun numéro ni site officiel. Le 05 45 82 15 10 (PagesJaunes) est celui de Transports Rousseau SAS à Cognac, une autre société : ne pas l'utiliser ; le 03 86 29 13 77 est celui de la mairie de Corvol et le 03 86 27 02 51 celui de l'office de tourisme de Clamecy. Selon un annuaire d'entreprises, le siège du groupe a été transféré à Clamecy en 2021 ; établissement secondaire rue Clément Ader à Clamecy (selon copeps.fr). Activités du groupe (offre France Travail 191MYKZ) : distribution de palettes, température dirigée, lots, vrac, matières dangereuses, transport de fûts, location de véhicules ; présent dans la Nièvre depuis 1994, 360 salariés, plus de 700 pour le groupe. Copeps.fr cite Eric Rousseau comme président du groupe et Jade Rousseau comme directrice générale (source faible). Aucun DAF, RAF ni comptable nommé, bien que la taille du groupe en suppose un. Prochaine étape : appeler les renseignements ou passer par l'offre France Travail pour obtenir le standard, puis demander le service comptable ou administratif du groupe. 3e passe : 5 recherches (site de Clamecy rue Clément Ader, « Groupe Rousseau » transports Clamecy, offres d'emploi Corvol, Rousseau + 58460 + 03 86, « Transports Rousseau Eric » + standard) sans aucun numéro ni site officiel. L'offre France Travail 191MYKZ nomme Mme Colette Cendre comme contact de recrutement, sans téléphone. Le seul numéro rencontré, le 05 45 82 15 10, est celui de Transports Rousseau SAS à Cognac, une autre société. Standard toujours manquant. Deuxième cercle (27/10/2026) : 03 86 29 94 94, numéro du site Transports Rousseau, quartier de la Gare à Corvol-l'Orgueilleux, publié sur le site officiel du groupe (rousseau-groupe.com, rubrique implantations) ; ne pas le confondre avec le 05 45 82 15 10 de Transports Rousseau SAS à Cognac. La décision se prend à la holding Groupe Rousseau, au siège de Clamecy (allée Clément Ader, 03 58 05 30 57). Vérification : 03 86 29 94 94 confirmé pour Transports Rousseau, quartier de la Gare à Corvol-l'Orgueilleux, sur la page contact de rousseau-groupe.com et chez PagesJaunes et 118712 ; l'e-mail retenu est l'adresse générique du groupe publiée sur son site. Vérification : « Eric Rousseau » + Transports Rousseau Corvol : les résultats (offre France Travail, travail-industrie.com, copeps.fr) ne nomment aucun dirigeant. La fiche Pappers d'un Eric Rousseau né en 1960 concerne une société forestière de la Creuse : homonyme probable, sans lien établi. Son titre de président de la holding Groupe Rousseau n'est pas confirmé. Recherche « Jade Rousseau » + Transports Rousseau + Corvol : aucun résultat. Seul ressort un homonyme d'entreprise (Transports Rousseau SAS à Cognac, sans rapport). Source tierce faible non recoupée.",
+  "note_admin": "Décideurs (27/10/2026, passe DAF) : aucun comptable, RAF, contrôleur de gestion ni assistante de direction actuel nommé pour Transports Rousseau Eric ou la holding Groupe Rousseau en 3 recherches (offres et fonctions finance Clamecy / Corvol, fiches Manageo / Verif, LinkedIn) : seules apparaissent d'anciennes assistantes administratives (saisie, 2018 et 2022) et une agente d'exploitation, non retenues ; la page LinkedIn « Transports Rousseau » (Poix-Terron, 08) est un homonyme. La holding Groupe Rousseau (Clamecy, environ 18 salariés en 2023 selon copeps.fr) porte probablement la comptabilité du groupe : au standard, demander le service comptable ou le responsable administratif et financier de la holding. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée). Décideurs (27/10/2026) : seule Colette Cendre, contact recrutement de l'offre France Travail 191MYKZ (avril 2025), est nommée côté RH ; aucun comptable, RAF ni DRH trouvé sur LinkedIn ni sur rousseau-groupe.com, la page LinkedIn du groupe affichant seulement une offre de « Responsable des ressources humaines » sans nom. La décision se prend à la holding Groupe Rousseau (Clamecy), où Jade Rousseau est directrice générale depuis le 06/02/2025 selon le registre. Vérification : aucune trace de Colette Cendre hors de l'offre France Travail 191MYKZ (recherche nom + Transports Rousseau + RH sans résultat) ; rien n'indique un départ, elle reste « probable », titre et présence actuelle à confirmer au standard ; le mandat de Jade Rousseau n'a pas été revérifié.",
+  "qui_appeler": "Appeler le 03 86 29 94 94, standard du site de Corvol-l'Orgueilleux (quartier de la Gare), et demander Eric Rousseau, dirigeant ; la décision se prend à la holding, au siège du groupe à Clamecy (03 58 05 30 57). À défaut, demander le responsable administratif et financier ou le service comptable du groupe."
+ },
+ {
+  "rang": 6,
+  "siren": "334934304",
+  "nom": "BOIS ET SCIAGES DE SOUGY",
+  "nom_commercial": "MS Bois (Monnet-Sève Sougy)",
+  "nom_court": "Scierie Monnet-Sève (Sougy-sur-Loire)",
+  "ville": "Sougy-sur-Loire",
+  "adresse": "ZI de Teinte, 58300 Sougy-sur-Loire",
+  "activite": "Travail du bois",
+  "effectif": "100-249",
+  "groupe": "Groupe Monnet-Sève (scieries familiales, fondé en 1929)",
+  "site_web": "http://monnet-seve.com",
+  "linkedin": "https://www.linkedin.com/company/monnet-seve-sougy/",
+  "dirigeants": [
+   {
+    "nom": "Stéphane VIVES",
+    "fonction": "Président du conseil d'administration et directeur général"
+   },
+   {
+    "nom": "Guillaume CRUZILLE",
+    "fonction": "Directeur général délégué"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Stéphane VIVES",
+   "fonction": "Président du conseil d'administration et directeur général (registre)",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/334934304"
+  },
+  "contact_finance": {
+   "nom": "Stéphane VIVES",
+   "fonction": "Président du conseil d'administration et directeur général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/334934304"
+  },
+  "autres_contacts": [
+   {
+    "nom": "David MOREL",
+    "fonction": "Administrateur de Bois et Sciages de Sougy et directeur général délégué de Monnet-Sève SA (depuis avril 2024)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.societe.com/manager/David.MOREL.7OB2vDbsj_l.html"
+   },
+   {
+    "nom": "Guillaume CRUZILLE",
+    "fonction": "Directeur général délégué (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/334934304",
+    "a_confirmer": true
+   }
+  ],
+  "contacts_admin": [
+   {
+    "nom": "Ilona DEVILLE",
+    "fonction": "Assistante RH chez Monnet-Sève Sougy",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://fr.linkedin.com/in/ilona-deville-7851691a0",
+    "linkedin": "https://fr.linkedin.com/in/ilona-deville-7851691a0",
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Jonathan PERNOT",
+    "fonction": "Directeur de la scierie Monnet-Sève Sougy",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://cndb.org/site/wp-content/uploads/2023/07/VISITE-FSC-programme-CNDB-NEVERS-.pdf",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "decision": "Au siège du groupe familial Monnet-Sève à Outriaz (Ain) : la scierie de Sougy appartient au groupe, dont un dirigeant (David Morel, DG délégué de Monnet-Sève SA) siège au conseil d'administration ; un achat de ce type serait sans doute validé au niveau du groupe.",
+  "note_contacts": "Scierie du groupe Monnet-Sève (environ 800 salariés, siège à Outriaz, 01). Aucun numéro propre au site de Sougy trouvé. Standard du siège du groupe : 04 74 76 32 58 (source faible : fiche vendeur Monnet Sève SA sur natureetdecouvertes.com, https://www.natureetdecouvertes.com/produit/ShopProducts/2651?Agec=1). Aucun DAF du groupe identifié ; la fonction finance est probablement centralisée à Outriaz. David Morel est directeur général délégué de Monnet-Sève SA depuis 2024 (societe.com). 2e passe : 3 recherches (scierie Monnet-Sève Sougy, « Bois et Sciages de Sougy » + « 03 86 », annuaires ZI de Teinte) sans numéro propre au site : les fiches Usine Nouvelle et 118712 trouvées n'en affichent pas ; les numéros 03 86 60 7x xx de l'arrêté préfectoral de 2022 sur le site sont ceux de la préfecture, non retenus. 2e niveau : 6 recherches. Toujours aucun numéro propre au site de Sougy-sur-Loire (les fiches 118712 trouvées masquent le numéro) ; standard du siège du groupe à défaut : 04 74 76 32 58 (source faible, 1re passe), non retenu comme standard du site. Gouvernance remaniée en 2024 : passage d'un directoire à un conseil d'administration, où siègent David Morel (DG délégué de Monnet-Sève SA, ancien DG de Bois Génération Avenir) et la société CEBFC LT. Le groupe exploite cinq scieries (Maîche, Outriaz, Saint-Vulbas, Sougy-sur-Loire et un site pyrénéen repris en 2021) et se présente comme le premier scieur de Douglas en Europe ; Verif cite Thomas Sève comme président du conseil de Monnet-Sève SA. Aucune source récente ne cite Stéphane Vives (PDG au registre) ni Guillaume Cruzille : registre non contredit mais non confirmé. Aucun DAF, RAF, chef comptable ni contrôleur de gestion trouvé pour le site ou le groupe ; la finance est probablement centralisée à Outriaz. Au téléphone (via le siège) : demander le directeur du site de Sougy et le directeur financier du groupe. 2e niveau : 6 recherches. Toujours aucun numéro propre au site de Sougy-sur-Loire (les fiches 118712 trouvées masquent le numéro) ; standard du siège du groupe à défaut : 04 74 76 32 58 (source faible, 1re passe), non retenu comme standard du site. Gouvernance remaniée en 2024 : passage d'un directoire à un conseil d'administration, où siègent David Morel (DG délégué de Monnet-Sève SA, ancien DG de Bois Génération Avenir) et la société CEBFC LT. Le groupe exploite cinq scieries (Maîche, Outriaz, Saint-Vulbas, Sougy-sur-Loire et un site pyrénéen repris en 2021) et se présente comme le premier scieur de Douglas en Europe ; Verif cite Thomas Sève comme président du conseil de Monnet-Sève SA. Aucune source récente ne cite Stéphane Vives (PDG au registre) ni Guillaume Cruzille : registre non contredit mais non confirmé. Aucun DAF, RAF, chef comptable ni contrôleur de gestion trouvé pour le site ou le groupe ; la finance est probablement centralisée à Outriaz. Au téléphone (via le siège) : demander le directeur du site de Sougy et le directeur financier du groupe. 3e passe : 5 recherches (ZI de Teinte + téléphone, « Bois et Sciages de Sougy » + téléphone, offres d'emploi Monnet-Sève Sougy, standard du siège à Outriaz, vérification du 04 74 76 32 58) sans numéro pour le site de Sougy (fiches 118712 au numéro masqué ; l'arrêté préfectoral sur BSS ne donne que le numéro de la préfecture). Côté groupe, aucun numéro trouvé sur le site officiel monnet-seve.com : le 04 74 76 32 58 apparaît seulement sur la fiche vendeur de MONNET SEVE SA chez Nature & Découvertes (https://www.natureetdecouvertes.com/produit/ShopProducts/2651?Agec=1), et la fiche vendeur Truffaut donne un autre numéro, le 04 74 76 33 99 (https://www.truffaut.com/vendeurs-marketplace/mon-petit-potager.html?p=2). Ces deux pistes ne viennent pas d'une source officielle et ne sont donc pas retenues comme standard ; la mairie d'Outriaz est au 04 74 76 32 08, à ne pas confondre. Deuxième cercle (27/10/2026) : 03 86 77 55 00 est le numéro du site de Sougy-sur-Loire (ZI Teinte) sur la page contact officielle du groupe MS Bois (ex-Monnet-Sève), qui donne aussi le standard du siège d'Outriaz (Ain), 04 74 76 33 99, et l'adresse contact@msbois.com ; le 04 74 76 32 58 des passes précédentes n'y figure pas. La décision étant probablement prise au siège d'Outriaz, appeler Sougy pour le directeur du site, puis le siège pour la direction financière du groupe. Vérification : 03 86 77 55 00 confirmé pour le site de Sougy-sur-Loire (ZI Teinte) sur la page contact de msbois.com, ainsi que PagesJaunes et Industrie Explorer (Bois et Sciages de Sougy) ; contact@msbois.com et le standard du siège d'Outriaz (04 74 76 33 99) figurent bien sur cette page officielle. Vérification : « Stéphane Vives » + Monnet-Sève/Sougy : aucun résultat ne le cite. societe.com (https://www.societe.com/manager/David.MOREL.7OB2vDbsj_l.html) rattache David Morel à Monnet-Sève SA et à Bois et Sciages de Sougy (mandat depuis le 13/01/2016), ce qui ne contredit pas Stéphane Vives au registre. Seule la fiche societe.com déjà citée (DG délégué Monnet-Sève SA depuis 04/2024) ; homonymes nombreux, pas de source indépendante. Recherche « Guillaume Cruzille » + Monnet-Sève : seule trace, la fiche societe.com de David Morel (liée à Monnet-Sève SA et à Bois et Sciages de Sougy, la société de ce SIREN) affiche un mandat de Guillaume Cruzille du 04/08/2022 au 19/04/2024, donc TERMINÉ ; extrait illisible sur la société concernée. David Morel est devenu DG délégué de Monnet-Sève SA en avril 2024, ce qui laisse penser qu'il a remplacé Cruzille. Départ probable mais non établi pour Sougy : ne pas appeler sans vérifier.",
+  "note_admin": "Décideurs (27/10/2026, passe DAF) : aucun DAF, RAF, chef comptable ni contrôleur de gestion trouvé pour le site de Sougy ni pour le groupe MS Bois (ex-Monnet-Sève) en 3 recherches (presse, LinkedIn, recherche étendue) : n'apparaissent que des profils de production, une offre d'assistant(e) de gestion des achats au siège d'Outriaz et un profil « Guillaume Cruzille – Monnet-Sève Sougy » sans titre ni date (son mandat a pris fin en 2024 selon societe.com). La finance est vraisemblablement centralisée au siège d'Outriaz (Ain) : demander au 04 74 76 33 99 le directeur administratif et financier du groupe. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée personnelle ; le 04 74 76 33 99 est le standard du siège publié sur la page contact officielle de MS Bois). Décideurs (27/10/2026) : Ilona Deville se présente sur LinkedIn comme assistante / chargée RH chez « Monnet-Sève Sougy », et un programme de visite CNDB de 2023 nomme Jonathan Pernot directeur de la scierie (et Guillaume Cruzille, DG délégué au registre, responsable du site). Aucun comptable ni RAF du site trouvé ; un contrôleur de gestion recruté par MS Bois (Matteo Bertogli, site non précisé) n'est pas retenu, la finance étant probablement au siège d'Outriaz. Vérification : le profil d'Ilona Deville est retrouvé (« Assistante RH chez Monnet-Sève Sougy », « Chargée des Ressources Humaines chez Monnet Sève »), mais « Monnet-Sève Sougy » est le nom de la page LinkedIn de tout le groupe (800 salariés, six sites) et le profil la situe en région lyonnaise, étudiante à MBway : son rattachement au site de Sougy n'est pas établi, elle reste « probable ». Jonathan Pernot n'est cité par aucune source plus récente que le programme CNDB de 2023 (recherche sans résultat) : il reste « probable », à faire confirmer au standard ; le mandat de Guillaume Cruzille a pris fin en avril 2024 selon societe.com (notes antérieures).",
+  "qui_appeler": "Appeler le 03 86 77 55 00, standard du site de Sougy-sur-Loire, et demander le directeur du site ; pour le directeur financier du groupe, appeler le siège d'Outriaz au 04 74 76 33 99. Stéphane Vives, PDG au registre, n'est cité par aucune source récente ; à défaut, demander le responsable administratif et financier."
+ },
+ {
+  "rang": 20,
+  "siren": "775732811",
+  "nom": "EUROSIT",
+  "nom_commercial": "Eurosit",
+  "nom_court": "Eurosit, Saint-Éloi (Nevers)",
+  "ville": "Saint-Éloi",
+  "adresse": "ZI de Nevers – Saint-Éloi, 58000 Saint-Éloi",
+  "activite": "Fabrication de meubles",
+  "effectif": "100-199",
+  "groupe": "Actionnaire administrateur : SOFIKOA SAS",
+  "site_web": "http://www.eurosit.fr",
+  "dirigeants": [
+   {
+    "nom": "Timothée ACHERITOGARAY",
+    "fonction": "Président du conseil d'administration"
+   },
+   {
+    "nom": "Massimiliano PRESTIFILIPPO",
+    "fonction": "Directeur Général"
+   }
+  ],
+  "contact_dirigeant": {
+   "nom": "Massimiliano PRESTIFILIPPO",
+   "fonction": "Directeur Général",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/775732811"
+  },
+  "contact_finance": {
+   "nom": "Massimiliano PRESTIFILIPPO",
+   "fonction": "Directeur Général",
+   "type": "dirigeant",
+   "tel_direct": null,
+   "email": null,
+   "linkedin": null,
+   "source": "https://www.pappers.fr/entreprise/775732811"
+  },
+  "autres_contacts": [
+   {
+    "nom": "Timothée ACHERITOGARAY",
+    "fonction": "Président du conseil d'administration (registre)",
+    "tel": null,
+    "email": null,
+    "source": "https://www.pappers.fr/entreprise/775732811",
+    "a_confirmer": true
+   }
+  ],
+  "decision": "Probablement au siège du groupe Sokoa à Hendaye (Pyrénées-Atlantiques), via sa holding Sofikoa, actionnaire d'Eurosit : le directeur général de Nevers peut porter le dossier, mais la validation remonterait au groupe.",
+  "note_contacts": "Le numéro vient de la fiche Usine Nouvelle (annuaire), non confirmé sur eurosit.fr. Le site et l'adresse postale (10 rue Georges Dufaud, BP 11, 58028 Nevers Cedex) viennent de la fiche Maison&Objet (https://mom.maison-objet.com/en/brand/13415/eurosit), qui donne aussi un service client à Paris : 01 44 29 03 52. Environ 135 salariés, usine à Nevers depuis 1973. Aucun DAF ni contrôleur de gestion identifié via WebSearch. 2e niveau : Eurosit appartient au groupe Sokoa (mobilier de bureau, plus de 100 M€ de CA consolidé, siège 26 route de Behobie à Hendaye, avec Genexco et Sellex) selon motherbase.ai et Xerfi ; l'actionnaire SOFIKOA SAS est très probablement la holding de ce groupe. Le standard 03 86 21 68 00 ne vient toujours que de la fiche Usine Nouvelle (annuaire), il n'apparaît sur aucune page eurosit.fr indexée. Aucune source récente ne confirme ni ne contredit le registre (Massimiliano Prestifilippo DG, Timothée Acheritogaray président du conseil). Xerfi cite aussi Sébastien Paulini et Michel Videgain parmi les mandataires, sans fonction claire. Aucun DAF, RAF ni contrôleur de gestion trouvé, ni chez Eurosit ni chez Sokoa. CA 2024 d'environ 32 M€ selon Xerfi (en baisse). À demander au standard : le nom du responsable administratif et financier du site de Nevers, ou à défaut celui du DAF du groupe Sokoa à Hendaye. Vérification : Trois recherches n'ont fait ressortir le 03 86 21 68 00 que sur la fiche Usine Nouvelle déjà citée, et non sur eurosit.fr. « Prestifilippo » + Eurosit ne donne aucun résultat pertinent. Aucun résultat pour ce nom associé à Eurosit. Vérification du standard (28/10/2026) : la recherche exacte du 03 86 21 68 00 ne fait ressortir aucune page, en dehors de la fiche Usine Nouvelle déjà connue, ni pour Eurosit ni pour un autre titulaire : numéro toujours à source unique.",
+  "note_admin": "Décideurs (27/10/2026, passe DAF) : aucun RAF, comptable ni contrôleur de gestion nommé pour Eurosit ni pour le groupe Sokoa (Hendaye) en 4 recherches (LinkedIn, offres d'emploi, presse) ; l'offre d'Eurosit pour un(e) assistant(e) accueil & administratif (https://eurosit.fr/Application/eurosit.fr/StoredData/Offre_emploi_Assistant_accueil-administratif.pdf) place le poste sous le « Responsable ressources humaines », sans le nommer. Chez Sokoa, le registre ne montre que des administrateurs sans fonction financière : demander au standard le responsable administratif et financier du site de Nevers, ou à défaut le DAF du groupe Sokoa. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée). Décideurs (27/10/2026) : aucun RAF, comptable, RH ni assistante de direction identifié : les profils LinkedIn rattachés à Eurosit (Delphine Leclerc, Nathalie Gorge…) n'affichent pas de titre et ne sont pas retenus. La décision remonte probablement au groupe Sokoa (Hendaye) via Sofikoa : demander au standard le responsable administratif et financier du site de Nevers. Vérification : relecture sans recherche, fiche cohérente (aucun contact retenu, aucune coordonnée).",
+  "qui_appeler": "Standard du site 03 86 21 68 00, à confirmer (vu seulement sur une fiche Usine Nouvelle) : demander Massimiliano Prestifilippo, directeur général. À défaut, demander le responsable administratif et financier du site, ou celui du groupe Sokoa à Hendaye."
+ }
+]
