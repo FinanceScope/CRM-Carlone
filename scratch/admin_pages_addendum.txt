@@ -1,0 +1,16 @@
+Addendum (06/11/2026) to admin_brief.txt — reading full pages.
+
+The network now lets you read web pages from the shell. WebFetch does not work yet in this session: do not use it. Read a page with
+    python3 -I /home/user/CRM-Carlone/scratch/page.py "<url>" [max characters, default 6000]
+It prints the visible text and the useful links (équipe, contact, mentions légales, recrutement, société, groupe…). Rules:
+- Never disguise the client (no browser user agent, no headers, no proxies, no retries to get around a refusal). A site that answers REFUS (403, 409, 429, captcha) is left aside: note it and move on. Known refusals: lejdc.fr, societe.com, candidat.francetravail.fr.
+- Never read linkedin.com pages directly (login wall): for LinkedIn use WebSearch with allowed_domains ["linkedin.com"] as before.
+- At most 8 page reads per company; they do not count in the WebSearch budget.
+
+Method for each company, before or alongside WebSearch:
+1. Its own website ("site_web", or the domain found by a search): home page, then the pages listed under LIENS UTILES — équipe / qui sommes-nous / notre histoire / organigramme / contact / recrutement / mentions légales. A team page or an organigram naming the comptable, the RAF, the assistante de direction or the DRH is "confirme". The "directeur de la publication" in the legal notice is usually the manager already known: not a finance person by itself.
+2. For a site of a group: the group site's pages for this site (directeur de site, contact local) and the group's governance or finance pages (directeur financier du groupe, who decides for the site).
+3. Pages surfaced by WebSearch (job offers on hellowork / indeed / welcometothejungle / the company's career page, local press other than lejdc.fr, association or public-procurement pages): read the full page when the summary hints at a name with a role (for example "rattaché(e) à la responsable administrative", "contact : Mme X, RH").
+4. Small companies (under 50 employees) with no in-house finance person found: if a page names the external accounting firm (expert-comptable) of the company, add it to the note as "Expert-comptable : <cabinet> (<source>)". It is not a contact of the company: never put it in "contacts".
+
+The source of a person found this way is the exact page URL read. Everything else in admin_brief.txt applies (roles, fiabilité, no guessed e-mail, opposition_prospection, output format, check command).
