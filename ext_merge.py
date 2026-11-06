@@ -630,6 +630,28 @@ for c in base + ext:
             c['opposition_prospection'] = False
             c['opposition_source'] = f'registre national des entreprises (relevé du {jour})'
         elif c.get('opposition_prospection') is True: n_api['opposées ailleurs, pas au registre (opposition gardée)'] += 1
+# dirigeants absents de nos fiches : repris du registre (jamais à la place d'une liste existante ; commissaires aux comptes et anciens dirigeants écartés)
+def nom_registre(x):
+    if x.get('type_dirigeant') == 'personne morale' or x.get('denomination'): return (x.get('denomination') or '').strip()
+    pre = re.sub(r'[^\W\d_]+', lambda m: m.group(0).capitalize(), ' '.join((x.get('prenoms') or '').lower().split()))
+    return (pre + ' ' + (x.get('nom') or '').strip()).strip()
+for c in base + ext:
+    a = API_ETAT.get(c['siren'])
+    if not a or c.get('dirigeants'): continue
+    jour, d = a
+    anciens = set(ANCIENS_DIRIGEANTS.get(c['siren'], ())) | set(ANCIENS_DIRIGEANTS['*'] if 'AP NEVERS' in c['nom'] else ())
+    dirs, vus = [], []
+    for x in d.get('dirigeants') or []:
+        q = x.get('qualite') or ''
+        if re.search('commissaire', q, re.I): continue
+        nm = nom_registre(x)
+        cle = (norm(x.get('prenoms') or x.get('denomination')), norm(x.get('nom')))
+        if not nm or nm in anciens or any(cle[0] == v[0] and (cle[1] in v[1] or v[1] in cle[1]) for v in vus): continue   # « METIVIER (BERTRAND) » = « BERTRAND »
+        vus.append(cle)
+        pm = ' (personne morale)' if x.get('type_dirigeant') == 'personne morale' else ''
+        dirs.append({'nom': nm, 'fonction': f'{q}{pm} (registre national au {jour})'})
+    if dirs:
+        c['dirigeants'] = dirs; n_api['dirigeants repris du registre'] += 1
 print('registre national :', len(API_ETAT), 'fiches |', dict(n_api))
 
 # ---- coordonnées et décideur financier (recherche de contacts, top 100 compris) ----
