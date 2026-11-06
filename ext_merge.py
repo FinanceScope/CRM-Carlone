@@ -696,9 +696,7 @@ for c in base + ext:
         m = re.search(r'\b(58\d{3})\b', c['adresse'])
         if m and not c.get('code_postal'): c['code_postal'] = m.group(1)
     ac = [x for x in (e.get('autres_contacts') or []) if isinstance(x, dict) and x.get('nom')][:2]
-    if ac and c.get('opposition_prospection'):   # contact direct par le standard : le nom sert à demander la bonne personne
-        ac = [dict(x, **{k: None for k in ('tel', 'tel_direct', 'email') if k in x}) for x in ac]
-    if ac: c['autres_contacts'] = ac
+    if ac and not c.get('opposition_prospection'): c['autres_contacts'] = ac   # opposée : pas de noms tirés du registre à cibler
     # format_email_observe non repris : afficher un format inviterait à deviner des adresses
 print('contacts :', len(CONTACTS), dict(n_ct), '| avec téléphone :', sum(1 for c in base + ext if c.get('telephone')), '/ 500')
 

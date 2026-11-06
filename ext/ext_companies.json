@@ -3371,15 +3371,6 @@
 "linkedin": null,
 "source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
 },
-"autres_contacts": [
-{
-"nom": "Laurent BERNARDIN",
-"fonction": "Service contact (après-vente / atelier)",
-"tel": null,
-"email": null,
-"source": "https://www.renault-trucks.co.uk/dealer/faurie-trucks-nevers-varennes-vauzelles-1460-030576"
-}
-],
 "contacts_admin": [
 {
 "nom": "Clara FAURIE",
@@ -4241,22 +4232,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
 },
-"autres_contacts": [
-{
-"nom": "Sophie Marie Elisabeth COIGNET",
-"fonction": "Directrice générale",
-"tel": null,
-"email": null,
-"source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
-},
-{
-"nom": "Alain Daniel COIGNET",
-"fonction": "Directeur général délégué",
-"tel": null,
-"email": null,
-"source": "https://www.pappers.fr/entreprise/coignet-pneus-353683089"
-}
-],
 "note_admin": "Décideurs (27/10/2026) : aucune personne administrative, comptable ou RH trouvée en 2 recherches (LinkedIn, offres d'emploi) ; des offres relayées par le réseau Eurotyre placent aussi un centre Coignet Pneus à La Charité-sur-Loire (recrutement de mécaniciens), en plus de Clamecy et Ciez. Entreprise familiale (Guillaume, Sophie et Alain Coignet) : demander au standard qui tient la comptabilité et la paie des centres. Vérification : relecture sans recherche ; aucune personne retenue, dirigeants conformes au registre : rien à corriger."
 },
 {
@@ -5945,6 +5920,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "L'officine du 63 Grande Rue, La Charité-sur-Loire, est référencée dans les annuaires sous les noms « Pharmacie Appert » (ancien titulaire Philippe Appert) et « Giropharm » (enseigne). Standard 03 86 69 66 67 (fax 03 86 70 24 64) vu uniquement sur un agrégateur (santeenfrance.fr) sous le nom Pharmacie Appert ; Pharmao affiche un numéro tronqué commençant différemment (« 03 86 31… ») : à confirmer. Le gérant Laurent Mingeau (registre) n'apparaît dans aucun résultat de recherche.",
 "telephone": "03 86 69 66 67",
@@ -6012,6 +5989,8 @@
 "eff_annee": "2024",
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (fiche Pappers)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Le numéro est listé sous l'ancien nom « Pharmacie Rignaud » à la même adresse (58 route Nationale), seule pharmacie de la commune : très probablement la même ligne, à confirmer. Site Giropharm de la pharmacie (pas de numéro visible dans l'extrait). Gérantes d'après le registre uniquement ; « titulaire » est une déduction de leur statut de gérantes.",
 "telephone": "03 86 25 19 48",
@@ -6085,6 +6064,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (fiche Pappers)",
+"opposition_prospection": true,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Restaurant Burger King franchisé (132 av. du 85e de Ligne). Numéro vu seulement sur Cylex : source faible. Aucune source publique trouvée sur la holding DPLF ni sur la personne qui la dirige ; à demander à l'accueil. site_web = site de l'enseigne.",
 "telephone": "03 73 58 01 15",
@@ -6150,6 +6131,8 @@
 "eff_annee": null,
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)",
+"opposition_prospection": true,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "TEXYS HD est une société du groupe Texys (capteurs, 16 rue Edouard Branly, ZA des Chamonds), cédé en 2024 par Isatis Capital et son président-fondateur Philippe Leuwers à Fogale Sensors (lemondedudroit.fr, cfnews.net). Le standard est celui du groupe Texys vu sur un agrégateur (CB Insights) : à confirmer. La holding TECHUSFAR n'apparaît dans aucune source publique ; le dirigeant actuel est à demander à l'accueil. Un groupe de cette taille peut avoir un responsable financier au niveau Texys/Fogale, non trouvé.",
 "telephone": "03 86 21 27 18",
@@ -6171,15 +6154,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/texys-hd-538141094"
 },
-"autres_contacts": [
-{
-"nom": "Thomas BATAS-BJELIC",
-"fonction": "Responsable commercial et marketing de Texys",
-"tel": null,
-"email": null,
-"source": "https://www.usinenouvelle.com/publi-redactionnel/publiscopie/publiscopie-fogale-texys-et-thermo-est-la-dream-team-francaise-de-la-mesure-de-precision.YZRIUD2K7ZERHIWN6ZMPWJD6VY"
-}
-],
 "email": null
 },
 {
@@ -6222,6 +6196,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (fiche Pappers)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Exploite l'hôtel ibis Nevers (56 chambres, code Accor 0882 d'après https://www.businesstravelnews.com/Hotels/Nevers-France/Ibis-Hotel-Nevers-p3213145), 3 rue du Plateau de la Bonne Dame (RN 7). Standard vu sur des sites de réservation (momondo) : source agrégateur ; certains annuaires hôteliers américains affichent un numéro erroné. HPVA est un groupe d'investissement et de gestion hôtelière créé en 2013, environ 20 hôtels (https://hospitality-on.com/fr/ouverture/hpva-et-ihg-sassocient-pour-un-nouveau-projet) : la finance est vraisemblablement gérée au siège du groupe, mais ni le président ni le DAF de HPVA n'ont été identifiés en 3 recherches. Directeur de l'hôtel non identifié.",
 "telephone": "03 86 37 56 00",
@@ -6299,6 +6275,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Carrefour City franchisé, 10 av. du Général de Gaulle. Le 03 86 21 21 30 apparaît dans deux annuaires (Bible-Marques et coparking.ch) ; Bonial donne un autre numéro (03 86 90 00 77) pour un Carrefour City « 12 rue du Général de Gaulle » : à vérifier. Lionel DECOSSE est aussi gérant de DLS DISTRIBUTION (Carrefour Contact Fourchambault). site_web = site de l'enseigne. Dirigeant d'après le registre uniquement.",
 "telephone": "03 86 21 21 30",
@@ -6364,6 +6342,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Autocariste (cars de 9 à 61 places, transport scolaire, excursions). Aucun numéro visible dans les extraits de recherche ; fiches existantes sur Mappy, PagesJaunes (pagesjaunes.fr/pros/00756779) et Mariages.net (mariages.net/bus-mariage/les-cars-charles--e38409) à consulter. Adresse d'après Mappy (pas de numéro de rue). Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : le 03 86 84 61 67 est le standard de l'autocariste, publié sur la page contact de son site (19 rue du 19 Mars 1962, Dun-les-Places) et repris par les annuaires. Le site donne des horaires du lundi au vendredi, 8 h-12 h et 14 h-18 h. Vérification : non confirmée, le site lescarscharles.fr n'est pas ressorti dans la recherche ciblée ; numéro et e-mail laissés tels quels faute d'élément contraire, à confirmer au premier appel.",
 "telephone": "03 86 84 61 67",
@@ -6428,6 +6408,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Aucune trace publique de SPORT COMM (41 bd du Pré Plantin, Nevers) dans les résultats de recherche (3 requêtes : nom + adresse, nom + gérant, nom + activité) ; activité exacte et numéro inconnus. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : aucun numéro visible ; Kompass classe SPORT COMM en matériel pour les sports collectifs (grossiste), et une adresse ancienne au 7 allée du Docteur Subert à Nevers apparaît. Les fiches Kompass (fr.kompass.com/c/sport-comm/fr0845045/) et e-pro (grossiste.e-pro.fr/nievre/sport-comm_f782297) peuvent afficher un numéro à l'ouverture. Troisième passe (27/10/2026) : l'adresse du siège (41 bd du Pré Plantin) héberge un centre de gestion comptable (AGC AS BFC), probablement une domiciliation ; la recherche sur le gérant et l'activité fait ressortir le site propre sportcomm.fr (matériel sportif et textile pour clubs, agences à Nevers, Autun, Mâcon, Dijon et Metz), mais aucun numéro de l'agence de Nevers dans les extraits. Numéro à relever sur la page contact du site ; l'établissement du 7 allée du Docteur Subert est donné fermé en 2015 par un annuaire. Vérification : relecture seule (pas de recherche) ; aucun numéro retenu, site sportcomm.fr conservé (grossiste en matériel pour clubs avec agence à Nevers, cohérent avec la fiche Kompass), fiche cohérente. Quatrième passe (27/10/2026) : angle site propre (recherche limitée à sportcomm.fr) : les mentions légales (SARL SPORT COMM, 41 bd du Pré Plantin, Nevers) et la page contact (agence SPORT COMM NEVERS, même adresse, lun-ven 9h-12h/14h-18h, http://sportcomm.fr/contact/) publient le 03 86 61 23 46 ; l'adresse du siège est donc bien l'agence et non une simple domiciliation. Les 03 85 52 66 95 et 03 85 51 02 28 du site concernent l'agence d'Autun et les boutiques club, non retenus. Vérification : relecture sans recherche (site propre, pas un angle indirect) : cohérent, numéro et e-mail publiés par la société elle-même dans ses mentions légales, à la même adresse que le siège.",
 "telephone": "03 86 61 23 46",
@@ -6492,6 +6474,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Aucune fiche « TC SERVICES » trouvée à Cercy-la-Tour (45 rue de la Guette) ; les annuaires de la commune listent d'autres garages (AMP Automobile au 1 rue de la Guette, Garage de Cercy La Tour, Garage des 3 R) sans lien établi avec TC SERVICES. Numéro inconnu. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : TC SERVICES (45 rue de la Guette) est un atelier poids lourds et distributeur de pièces du réseau MP Truck ; deux numéros non vérifiés apparaissent : le 03 86 50 57 26 dans un annuaire non identifié et le 03 86 50 89 52 sur la page des implantations de tc-transports.fr (société TC Transports, lien non établi). La fiche du réseau (distributeur.mptruck.fr/fr/france-FR/CUST-000803/tc-services/details) est à consulter pour trancher. Troisième passe (27/10/2026) : la fiche du réseau MP Truck confirme TC SERVICES au 45 rue de la Guette (distributeur multimarque de pièces poids lourds) et la fiche PagesJaunes « TC Services SARL Cercy la Tour » (garage poids lourds) donne le 03 86 50 89 52, numéro aussi affiché pour Cercy-la-Tour sur la page des implantations de tc-transports.fr. Numéro lu dans l'extrait de recherche, non retrouvé par une recherche du numéro exact ; le 03 86 50 57 26 reste non confirmé. Vérification : relecture seule (pas de recherche) ; numéro publié sous le nom TC Services à Cercy-la-Tour, fiabilité « annuaire » maintenue, page du réseau MP Truck cohérente avec l'adresse du siège.",
 "telephone": "03 86 50 89 52",
@@ -6561,6 +6545,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": true,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Brasserie L'Agricole, 10 place Carnot. Numéro dans deux annuaires (koifaire « Café Agricole » et enprimeurclub.com). Présidente = holding FT PRESTATIONS : la personne physique qui la représente n'est pas confirmée (les initiales évoquent Flavien Thibault, simple hypothèse non vérifiée). Site brasserie-lagricole.fr cité dans un résultat mais non vérifié directement.",
 "telephone": "03 86 71 65 30",
@@ -6583,15 +6569,6 @@
 "linkedin": null,
 "source": "https://www.fooderise.com/en/societes/530717867"
 },
-"autres_contacts": [
-{
-"nom": "Flavien THIBAULT",
-"fonction": "Contact employeur cité dans une offre d'emploi de la brasserie (rôle exact non précisé)",
-"tel": null,
-"email": null,
-"source": "https://candidat.francetravail.fr/offres/recherche/detail/188ZJWD"
-}
-],
 "email": null,
 "note_admin": "Décideurs (27/10/2026) : aucun gérant, directeur de salle ou responsable administratif nommé pour la brasserie (recherche générale et LinkedIn ; seul un cas client Baresto cite l'établissement sans nom). La gestion relève probablement de la holding FT PRESTATIONS et du directeur général Jean-Pierre Thibault : demander Jean-Pierre ou Flavien Thibault au standard. Vérification : relecture sans recherche ; « famille Thibault » retiré (lien familial non sourcé), Flavien Thibault n'étant cité que comme contact d'une offre d'emploi sans rôle précisé."
 },
@@ -6635,6 +6612,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Agence Adéquat Intérim de Nevers (1-2 salariés), filiale du réseau Groupe Adéquat (plus de 350 agences). Standard tiré d'une offre d'emploi de l'agence « ADEQUAT NEVERS » reprise sur Wizbii (« vous pouvez nous joindre au 03 86 38 10 82 ») ; adresse rue du Ravelin non confirmée par la source. Aucun site ni fiche agence trouvé dans les résultats. Louis-Mathieu Perrin, nommé directeur financier en février 2025, est devenu président du directoire du groupe le 7 octobre 2025 : son successeur à la direction financière n'a pas été identifié. Pour une agence de cette taille, la finance est gérée au siège du groupe.",
 "telephone": "03 86 38 10 82",
@@ -6711,6 +6690,8 @@
 "eff_annee": "2024",
 "annee_ca": "2023",
 "fig_src": "Derniers comptes publiés : exercice 2023 (registre national)",
+"opposition_prospection": true,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Officine issue du regroupement en 2023 de la Pharmacie Saint-Louis et de la Pharmacie de l'Anguison (arrêté ARS BFC 2023-1103, recueil des actes de la préfecture de la Nièvre) au 26 av. du Champ de Foire. Numéro vu uniquement sur Pharmao. Dirigeantes d'après le registre uniquement.",
 "telephone": "03 86 26 64 56",
@@ -6732,15 +6713,6 @@
 "linkedin": null,
 "source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
 },
-"autres_contacts": [
-{
-"nom": "Eugénie MARTIN",
-"fonction": "Directrice générale",
-"tel": null,
-"email": null,
-"source": "https://www.pappers.fr/entreprise/pharmacie-du-pays-corbigeois-445382310"
-}
-],
 "email": null,
 "note_admin": "Décideurs (27/10/2026) : aucun(e) comptable, secrétaire ni pharmacien(ne) adjoint(e) nommé(e) en 2 recherches (annuaires de pharmacies, LinkedIn) ; seules les deux dirigeantes du registre sont connues (Marie-Anne Bongard, présidente, et Eugénie Martin, directrice générale). Petite officine dont la gestion est sans doute tenue par les titulaires, comptabilité probablement confiée à un cabinet : demander à la pharmacie qui suit l'administratif. Vérification : relecture sans recherche ; aucune personne retenue, note cohérente avec la fiche (dirigeantes du registre seulement, nombre de recherches conforme)."
 },
@@ -6784,6 +6756,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Déménageur membre du réseau Les Gentlemen du Déménagement (agences « André » à Varennes-Vauzelles, Cosne-Cours-sur-Loire, Bourges ; Xerfi signale aussi Châteauroux). Aucun numéro local visible dans les extraits ; le seul numéro trouvé est la ligne nationale du réseau (0 806 110 205, gentlemen-demenagement.com/en/quote-contact/contact/), qui n'est pas le standard de la société. site_web = page de l'agence sur le site du réseau. Dirigeant d'après le registre uniquement. Deuxième passe (27/10/2026) : le 03 86 71 85 34 est le numéro de l'agence « Les Gentlemen du Déménagement André Nevers », 39 rue de Verdun à Varennes-Vauzelles, publié sur le site des agences André et repris par Cylex et PagesJaunes. Le 0 806 11 02 05 est la ligne nationale du réseau ; le site de l'agence affiche par erreur le code postal 58460. Vérification : le site gentlemen-demenagement-andre.com (agences André) existe et ses mentions légales listent plusieurs agences avec leurs numéros ; le rattachement du 03 86 71 85 34 à l'agence de Varennes-Vauzelles n'est pas ressorti mot pour mot, fiabilité « officielle » maintenue.",
 "telephone": "03 86 71 85 34",
@@ -6848,6 +6822,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "SAS Elisée (33 rue des Grands Prés, Nevers) est membre de Cosmebio : cosmétiques bio vendus sous marque propre (nom de la marque non trouvé). La holding L OLIVERAIE préside aussi FRENCH BOOK DISTRIBUTION (Nevers) depuis 2021 (origami-entreprises.fr). Aucun numéro ni site trouvé dans les extraits ; la fiche Cosmebio contient peut-être des coordonnées. Deuxième passe (27/10/2026) : 03 86 58 56 85 = numéro de la SAS Elisée (33 rue des Grands Prés, Nevers) sur sa fiche adhérent Cosmebio, qui donne aussi le site voshuiles.com (marque de vente d'huiles/cosmétiques bio) et l'e-mail nominatif caroline.terrier@voshuiles.com ; PagesJaunes (fiche « Elisée Nevers », même adresse) affiche un autre numéro, le 09 67 57 56 85.",
 "telephone": "03 86 58 56 85",
@@ -6912,6 +6888,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Chauffagiste (installation de chaudières gaz/fioul, climatisation, carrelage), qualifié QUALIBAT-RGE, 1 ter rue Diderot. Numéro et site d'après un annuaire qui précise ne pas vérifier ses données ; le site evrard-chauffage.com propose un formulaire de contact (aucune adresse e-mail publiée vue). Dirigeant d'après le registre uniquement.",
 "telephone": "03 86 78 22 25",
@@ -6977,6 +6955,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Enseigne « Sopadec » (commerce de gros, 10-19 salariés) introuvable en ligne en 3 recherches (ni téléphone, ni site, ni presse) ; une fiche PagesJaunes non identifiée est apparue sur la recherche « Sopadec rue des Docks » sans permettre de la rattacher. Président issu du registre uniquement (nom complet Nicolas Jean-Claude Daniel Nogier), non revérifié par une source récente. Deuxième passe (27/10/2026) : site officiel trouvé (sopadec.com, mentions légales de Sopadec, boutique emballages, fête et décoration à Nevers) mais aucun numéro dans les extraits, ni sur les fiches Cylex et Hoodspot. Relever le numéro sur la page contact du site. Troisième passe (27/10/2026) : La page contact du site sopadec.com donne le 03 86 90 19 90 et l'e-mail adv@sopadec.com pour Sopadec, 7 rue des Docks, Nevers (fax 03 86 37 50 64 dans les mentions légales, Nicolas Nogier directeur de publication). Vérification : relecture seule (pas de recherche) : numéro et e-mail publiés par le site propre de Sopadec (président du registre en directeur de publication), cohérents ; conservés.",
 "telephone": "03 86 90 19 90",
@@ -7041,6 +7021,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Entreprise familiale de maçonnerie, gros œuvre, couverture et rénovation (« POUSSEAUX BATIMENT », plus de 30 ans d'activité, une trentaine de compagnons selon PagesJaunes : https://www.pagesjaunes.fr/annuaire/departement/nievre-58/amenagement-exterieur). Standard vu uniquement sur des annuaires (les-energies-renouvelables.eu, repris par d'autres annuaires) : à confirmer. Une société « POUSSEAUX BTP » à Clamecy apparaît aussi, peut-être une entité distincte. Aucun site, email ni responsable administratif ou comptable trouvé.",
 "telephone": "03 86 27 04 01",
@@ -7105,6 +7087,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": true,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Menuiserie / charpente (annuaires Obat : travaux.obat.fr/menuisier/nievre, et Villepratique : « Denis et Fils (sarl) - menuisier », zone industrielle de Villemenant). Aucun numéro trouvé (attention : le 03 86 90 90 13 vu dans la même zone est celui d'une autre entreprise, LAGOUTTE & FILS). L'adresse d'entrée (ZI de Villemenant) n'a pas de rue et aucune adresse plus précise n'a été trouvée. Personne physique derrière ROSAWOOD non identifiée. Deuxième passe (27/10/2026) : 03 86 90 97 99 = numéro de la menuiserie Denis et Fils (menuiserie bois/PVC/alu, ZI de Villemenant, Guérigny) relevé dans les annuaires (PagesJaunes « Menuiserie Denis Et Fils à Guérigny »), distinct du 03 86 90 90 13 de LAGOUTTE & FILS. L'entreprise a un site (menuiserie-denis-58.fr) où le numéro reste à confirmer.",
 "telephone": "03 86 90 97 99",
@@ -7170,6 +7154,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Conserverie (terrines, plats cuisinés) avec magasin d'usine, route du Mont Beuvray à Onlay (Gault&Millau, Burgundy Tourism). Le numéro vient d'un ancien numéro du magazine Vents du Morvan : possiblement périmé, à vérifier. Lien Sabatier / Fernand Dussert : burgundy-tourism.com/regional-products/fernand-dussert et agriculture.gouv.fr (« Le jambon sec du Morvan d'Arnaud Sabatier »). Dirigeant de Terrines du Morvan d'après le registre.",
 "telephone": "03 86 84 33 66",
@@ -7234,6 +7220,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Carrefour Contact franchisé, 12 rue Gambetta. Le 03 86 58 18 27 apparaît sur une page Bible-Marques (liste des Carrefour proches) ; Bonial donne un autre numéro, 09 50 42 04 85, pour un « Carrefour Proximité » à la même adresse : à vérifier. Même gérant que M.L.K.M.C. (Carrefour City Nevers). site_web = site de l'enseigne. Dirigeant d'après le registre uniquement.",
 "telephone": "03 86 58 18 27",
@@ -7303,6 +7291,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "3 recherches sans numéro : seule une fiche annuaire Justacoté 'Entreprise Mangeon, 24 bd Camille Dagonneau, Varennes-Vauzelles' apparaît, sans téléphone visible. Aucun site web trouvé. Dirigeants issus du registre (Pappers) uniquement. Deuxième passe (27/10/2026) : 03 86 61 03 57 = numéro de l'Entreprise Mangeon (couverture, plomberie, chauffage, RGE QualiPAC), publié par PagesJaunes et d'autres annuaires au 24 bd Camille Dagonneau à Varennes-Vauzelles (adresse du registre) ; une fiche plus ancienne (les-energies-renouvelables.eu) le donnait au 32 rue des Récollets à Nevers. Vérification : la fiche PagesJaunes « Entreprise Mangeon à Varennes Vauzelles » et plusieurs annuaires associent bien ce numéro à l'adresse du registre, ce qui lève le doute sur la ville ; le site entreprise-mangeon.fr afficherait le même numéro selon l'extrait de recherche (non vu directement), fiabilité laissée à « annuaire ».",
 "telephone": "03 86 61 03 57",
@@ -7377,6 +7367,8 @@
 "eff_annee": "2024",
 "annee_ca": "2024",
 "fig_src": "Derniers comptes publiés : exercice 2024 (registre national)",
+"opposition_prospection": false,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Garage agent Citroën (atelier après-vente) avec station-service AVIA, 68 route d'Alluy / lieu-dit Petite Come d'Ouron (D978), Châtillon-en-Bazois. Standard vu uniquement sur un annuaire automobile (lesvoitures.fr) : à confirmer. Annonces de véhicules d'occasion sur AutoScout24 (https://www.autoscout24.fr/garages/garage-du-bazois). Gérant issu du registre uniquement, non cité dans les résultats.",
 "telephone": "03 86 84 14 67",
@@ -7440,6 +7432,8 @@
 "eff_annee": "2024",
 "annee_ca": "2025",
 "fig_src": "Derniers comptes publiés : exercice 2025 (registre national)",
+"opposition_prospection": true,
+"opposition_source": "registre national des entreprises (relevé du 05/11/2026)",
 "contacts_ok": true,
 "note_contacts": "Maçonnerie générale (NAF 43.99C). Aucun numéro visible dans les extraits ; une fiche 118000 (https://www.118000.fr/v_luzy_58/c_entreprise-de-maconnerie) liste la société avec une autre adresse (impasse privée du Mattrait, Luzy) : numéro à vérifier sur cette fiche. Pas de site web trouvé. Deuxième passe (27/10/2026) : 06 07 18 67 67 = portable publié comme numéro de contact de l'entreprise sur sa fiche « CHOROBATE : Éco-artisan à Luzy » (plateforme des commerçants achetezaluzy.fr, adresse indiquée 1 rue de Pont, Luzy). Vérification : l'entreprise a son propre site (chorobate.com : « SARL Chorobate », créée en 2002 à Luzy, Mathieu Milleret), dont la page Infos & contacts donne ce même numéro et l'adresse du registre (51 route de Toulon, Luzy) : fiabilité relevée à « officielle » ; l'adresse gmail de la fiche achetezaluzy.fr est retirée de email_generique car elle n'a pas été vue sur le site de l'entreprise.",
 "telephone": "06 07 18 67 67",
