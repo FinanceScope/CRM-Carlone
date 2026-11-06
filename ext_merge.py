@@ -910,6 +910,17 @@ MAJ_DIRIGEANTS = {
                   'ajouter': [{'nom': n, 'fonction': 'Gérant (registre national au 05/11/2026)'} for n in
                               ('Sylvain FOSCOLO', 'Victor GRAND', 'Isabelle CHOLLEY (LEBLAN)', 'Christophe ROUQUETTE')]},
     '831929161': {'ajouter': [{'nom': 'Patrice MEUNIER', 'fonction': 'Gérant (nommé le 09/10/2026, BODACC du 13/10/2026)'}]},
+    '340991926': {   # Voyages Gonin : entrée dans un groupe extérieur ; Olivier Roussat n'a plus de mandat au registre (mis à jour le 04/11/2026)
+        'retirer': ('Olivier ROUSSAT',),
+        'ajouter': [{'nom': 'LA PLANCHETTE FINANCIERE', 'fonction': 'Président (personne morale, holding parisienne du groupe Transarc Développement ; registre national au 05/11/2026)'},
+                    {'nom': 'Emmanuel CHEVALIER', 'fonction': 'Directeur général (registre national au 05/11/2026)'}],
+        'interlocuteur': {'nom': 'Emmanuel CHEVALIER', 'fonction': "Directeur général (registre national au 05/11/2026 ; Olivier Roussat n'a plus de mandat)",
+                          'source': REG + '340991926'}},
+    '817976657': {   # BKN : Maud Belin n'a plus de mandat au registre (mis à jour le 30/09/2026) ; SERENIUM préside, gérée par Benoît Rondet
+        'retirer': ('Maud BELIN',),
+        'fonctions': {'SERENIUM': 'Président (personne morale : holding de Moulins, gérant Benoît Rondet ; registre national au 05/11/2026)'},
+        'interlocuteur': {'nom': 'Benoît RONDET', 'fonction': 'Gérant de SERENIUM, holding présidente de BKN (registre national ; Maud Belin n\'a plus de mandat)',
+                          'source': REG + '481261741'}},
 }
 for c in base + ext:
     m = MAJ_DIRIGEANTS.get(c['siren'])

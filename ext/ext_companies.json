@@ -23146,8 +23146,12 @@
 "date_creation": null,
 "dirigeants": [
 {
-"nom": "Olivier ROUSSAT",
-"fonction": "Président"
+"nom": "LA PLANCHETTE FINANCIERE",
+"fonction": "Président (personne morale, holding parisienne du groupe Transarc Développement ; registre national au 05/11/2026)"
+},
+{
+"nom": "Emmanuel CHEVALIER",
+"fonction": "Directeur général (registre national au 05/11/2026)"
 }
 ],
 "priorite": "Basse",
@@ -23171,21 +23175,21 @@
 "telephone": "03 86 77 11 44",
 "site_web": "https://www.voyages-gonin.com/",
 "contact_finance": {
-"nom": "Olivier ROUSSAT",
-"fonction": "Président",
-"type": "dirigeant",
+"nom": "Emmanuel CHEVALIER",
+"fonction": "Directeur général (registre national au 05/11/2026 ; Olivier Roussat n'a plus de mandat)",
+"source": "https://annuaire-entreprises.data.gouv.fr/dirigeants/340991926",
 "tel_direct": null,
 "email": null,
 "linkedin": null,
-"source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+"type": "dirigeant"
 },
 "contact_dirigeant": {
-"nom": "Olivier ROUSSAT",
-"fonction": "Président",
+"nom": "Emmanuel CHEVALIER",
+"fonction": "Directeur général (registre national au 05/11/2026 ; Olivier Roussat n'a plus de mandat)",
+"source": "https://annuaire-entreprises.data.gouv.fr/dirigeants/340991926",
 "tel_direct": null,
 "email": null,
-"linkedin": null,
-"source": "https://www.pappers.fr/entreprise/voyages-gonin-340991926"
+"linkedin": null
 },
 "email": null,
 "contacts_admin": [
@@ -23955,12 +23959,8 @@
 "date_creation": null,
 "dirigeants": [
 {
-"nom": "Maud BELIN",
-"fonction": "Directeur Général"
-},
-{
 "nom": "SERENIUM",
-"fonction": "Président"
+"fonction": "Président (personne morale : holding de Moulins, gérant Benoît Rondet ; registre national au 05/11/2026)"
 }
 ],
 "priorite": "Basse",
@@ -23984,21 +23984,21 @@
 "telephone": "03 73 00 00 08",
 "telephone_a_confirmer": true,
 "contact_finance": {
-"nom": "Maud BELIN",
-"fonction": "Directrice générale (président : SERENIUM, personne morale)",
-"type": "dirigeant",
+"nom": "Benoît RONDET",
+"fonction": "Gérant de SERENIUM, holding présidente de BKN (registre national ; Maud Belin n'a plus de mandat)",
+"source": "https://annuaire-entreprises.data.gouv.fr/dirigeants/481261741",
 "tel_direct": null,
 "email": null,
 "linkedin": null,
-"source": "https://www.pappers.fr/entreprise/bkn-817976657"
+"type": "dirigeant"
 },
 "contact_dirigeant": {
-"nom": "Maud BELIN",
-"fonction": "Directrice générale (président : SERENIUM, personne morale ; personne physique la représentant non identifiée)",
+"nom": "Benoît RONDET",
+"fonction": "Gérant de SERENIUM, holding présidente de BKN (registre national ; Maud Belin n'a plus de mandat)",
+"source": "https://annuaire-entreprises.data.gouv.fr/dirigeants/481261741",
 "tel_direct": null,
 "email": null,
-"linkedin": null,
-"source": "https://www.pappers.fr/entreprise/bkn-817976657"
+"linkedin": null
 },
 "email": null,
 "note_admin": "Décideurs (27/10/2026) : 2 recherches (LinkedIn Burger King Marzy / Nevers + directeur / responsable administratif / comptable / RH, recherche sur la holding SERENIUM et le franchisé) : seuls des profils nationaux de Burger King France (RH, opérations) ou d'équipiers sans fonction ressortent, aucun responsable administratif, comptable ni directeur du restaurant de Marzy n'est nommé. Décision chez le franchisé : Maud Belin (DG) et la holding SERENIUM ; le rattachement de BKN au Burger King de Marzy reste à confirmer à l'appel. Vérification : relecture sans recherche, aucune personne retenue, note cohérente (rattachement de BKN au Burger King de Marzy toujours non confirmé). Décideurs (06/11/2026) : 3 recherches nouvelles (franchisé Burger King Marzy / Nevers + Belin / SERENIUM, « Maud Belin » ou « Benoît Rondet » Burger King, offres d'emploi de directeur ou manager du Burger King de Marzy) sans directeur de restaurant, comptable ni responsable administratif nommé ; pas de site propre. Seul indice : un article de Toute la Franchise du 26/05/2016 (https://www.toute-la-franchise.com/news-burger-king-moulins) indique que le franchisé Benoît Rondet (Burger King d'Avermes) préparait l'ouverture d'un Burger King à Nevers en juillet 2016, ce qui concorde avec la création de BKN, mais son lien avec BKN, Maud Belin (DG) et la holding SERENIUM n'est pas établi. Vérification (06/11/2026) : sans recherche ; l'article de Toute la Franchise relu (publié le 26/05/2016, mis à jour le 12/03/2019) dit bien que Benoît Rondet, franchisé d'Avermes, préparait un Burger King à Nevers pour début juillet 2016 : indice ancien et indirect, laissé en note à juste titre, aucun contact."
