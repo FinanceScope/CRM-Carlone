@@ -1,0 +1,95 @@
+[
+ {
+  "siren": "334925070",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026, seconde passe) : aucune recherche ni lecture de page : la SARL n'a pas de site propre (seule une page Facebook, non lue car derrière un mur de connexion) et les annuaires déjà vus (Cylex, copeps) ne nomment personne ; budget gardé pour les plus grandes entreprises, aucun expert-comptable relevé sur une page. Opposition à la prospection : décision chez le gérant Michel Beauvois, demander la personne qui tient la comptabilité. Vérification : relecture sans recherche ; aucune personne, opposition à la prospection respectée, note cohérente avec la fiche vide et avec 0 recherche.",
+  "recherches": 0
+ },
+ {
+  "siren": "384831046",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026, seconde passe) : le site ambulancescharitoises-taxis.fr n'a pas pu être lu (connexion refusée par le réseau, avec et sans « www », deux tentatives) et aucune recherche n'a été ajoutée : aucun nom nouveau, aucun expert-comptable relevé sur une page. Décision locale par Laurent Girard (président) et David Gonin (DG) : demander à la régulation qui gère la facturation et l'administratif. Vérification : relecture sans recherche ; aucune personne, dirigeants du registre seulement, note cohérente avec la fiche vide et avec 0 recherche.",
+  "recherches": 0
+ },
+ {
+  "siren": "327098364",
+  "contacts": [
+   {
+    "nom": "Philippe RENAULT",
+    "fonction": "Responsable Ressources Humaines",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.manageo.fr/entreprises/327098364.html",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (06/11/2026, seconde passe) : la page du magasin sur e.leclerc (boulevard Beauregard) ne nomme personne, pas plus que les offres lisibles (Jobijoba, offre expirée de recrutement.leclerc) ; Meteojob (offre « responsable RH et gestionnaire de paie » de 2025), HelloWork, Manageo et Kompass ont refusé la lecture. Seul nom nouveau : l'extrait de recherche de la fiche Manageo de SOC NEVERS DIS donne Philippe Renault « Responsable Ressources Humaines » (annuaire non daté, page refusée, aucun profil LinkedIn concordant parmi les homonymes) : probable, à faire confirmer au standard, sans coordonnée directe (opposition à la prospection). Quatre recherches (une de plus que le plafond par entreprise), sept lectures. Décision chez les adhérents Mousset. Vérification : la fiche Manageo citée refuse toujours la lecture (403) et l'API publique des entreprises n'a pas répondu pour SOC NEVERS DIS (connexion coupée) ; trois recherches (LinkedIn sur son nom avec E.Leclerc Nevers, raison sociale avec « Renault » et RH, nom avec Coulanges-lès-Nevers) ne le retrouvent nulle part : seuls des homonymes sans lien (conseil, expertise comptable en Île-de-France, industrie), aucune preuve de départ ni d'homonymie. Philippe Renault, absent du registre (Mousset seuls), n'est pas un dirigeant étiqueté par l'annuaire : il reste « probable » sur la seule foi de Manageo, sans coordonnée ; une offre France Travail « E.Leclerc – Responsable RH – Coulanges-lès-Nevers » (non lue, site refusé) et l'offre Meteojob de 2025 laissent penser que le poste a changé de titulaire : vérifier au standard qu'il est toujours en poste. Deux offres Jobijoba relevées répondent 410 (expirées).",
+  "recherches": 4
+ },
+ {
+  "siren": "631880408",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026, seconde passe) : huit lectures (bongard-bazot.fr : accueil, contact, mentions légales, historique, engagements, la page « présentation » répondant 404 ; Industrie Explorer, contacts réservés aux abonnés) sans aucun nom : le site ne donne que le standard du siège, « plus de 120 salariés sur 2 sites » (Saint-Péreuse et La Machine) et l'index égalité. Deux recherches : un extrait Kompass signale un « responsable comptabilité » nommé, sans le nom dans l'extrait (fiche d'environ cinq ans, Kompass refusant la lecture), et un ancien profil d'assistante comptable (2007-2013), non retenu. Décision familiale au siège de Saint-Péreuse : demander au standard le responsable de la comptabilité. Vérification : relecture sans recherche ; aucune personne, l'extrait Kompass sans nom et l'ancienne assistante comptable (2007-2013) écartés à juste titre, note cohérente avec 2 recherches.",
+  "recherches": 2
+ },
+ {
+  "siren": "422593491",
+  "contacts": [
+   {
+    "nom": "Max ETHEVE",
+    "fonction": "Directeur (Central Parc Automobile, Toyota Groupe Vincent)",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://www.bourges.infoptimum.com/pro/saint-doulchard/concessionnaire-automobile-toyota/central-parc-automobile-toyota-groupe-vincent-827.html",
+    "linkedin": "https://www.linkedin.com/in/max-etheve-45608968/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (06/11/2026, seconde passe) : groupevincent.fr (accueil, histoire, concessions, recrutement, contact, offre de secrétaire commerciale de la concession Toyota de Nevers, rattachée au chef des ventes) ne nomme aucun responsable financier, RH ni directeur de concession ; le groupe y annonce 450 à 460 salariés et 18 à 20 points de vente, dirigé par Rodolphe Vincent. La fiche Infoptimum de Central Parc Automobile (concession de Saint-Doulchard, mise en ligne en 2020) nomme Max Ethève « Directeur » aux côtés du PDG Rodolphe Vincent : probable (source de 2020, rattachement à la concession de Varennes-Vauzelles non précisé), aucune coordonnée directe (opposition à la prospection). Deux recherches, sept lectures ; finance au siège du groupe à Varennes-Vauzelles : demander M. Ethève ou le chef comptable du groupe. Vérification : la fiche Infoptimum relue est celle de la concession Toyota de Saint-Doulchard (1147 route d'Orléans), qui est bien un établissement de la même société (SIRET 42259349100026 selon l'API publique des entreprises, 4 établissements, siège à Varennes-Vauzelles) ; elle nomme Max Ethève « Directeur » de Central Parc Automobile avec le chef des ventes et le responsable d'atelier, fiche mise en ligne en 2020 mais tenue à jour (gamme Toyota 2025-2026). Deux recherches LinkedIn : son profil affiche GROUPE VINCENT (Toyota Central Parc Automobile) comme employeur actuel, et la page LinkedIn « Toyota Central Parc Automobile Bourges, Montluçon, Moulins et Nevers » (siège à Varennes-Vauzelles) le présente comme « Directeur - Toyota Central Parc Automobile » à propos de la Foire de Nevers (non daté) : il dirige la société qui exploite aussi la concession de la Nièvre ; une recherche web ne le relie pas nommément à Varennes-Vauzelles. Maintenu « probable » (annuaire et publication non datée), sans coordonnée (opposition à la prospection) ; les pages groupevincent.fr des concessions de Nevers et de Bourges ne nomment personne.",
+  "recherches": 2
+ },
+ {
+  "siren": "483276820",
+  "contacts": [
+   {
+    "nom": "Sandra GARCIA",
+    "fonction": "Responsable Ressources Humaines en environnement industriel",
+    "role": "rh",
+    "fiabilite": "probable",
+    "source": "https://www.linkedin.com/in/sandra-garcia-96634bb4/",
+    "linkedin": "https://www.linkedin.com/in/sandra-garcia-96634bb4/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (06/11/2026, seconde passe) : six lectures de ligierautomotive.com (accueil, carrière, « qui sommes-nous » renvoyée vers l'accueil, personnalités, mentions légales) : aucun DAF ni responsable RH nommé, la page carrière n'ayant aucune offre en finance ou RH et citant une « chargée RH » sans nom ; la politique de confidentialité donne encore une adresse au Mans (Technoparc des 24 Heures). Deux recherches (site Ligier avec comité de direction et titres finance ou RH : seuls Richard Tur, COO, Nicolas Monteil, directeur technique, et Franck Tiné, directeur motorsport ; charte RSE de l'UIMM avec Sandra Garcia : rien) ; Sandra Garcia, responsable RH probable, n'est reconfirmée par aucune page lue. Décision chez Pierre Nicolet : demander au standard le DAF arrivé en 2025 (opposition à la prospection). Vérification : Sandra Garcia avait été retirée sans preuve de départ ; une recherche LinkedIn retrouve son profil (https://www.linkedin.com/in/sandra-garcia-96634bb4/) avec Ligier Automotive comme employeur actuel, titre « Responsable Ressources Humaines en environnement industriel », basée à Marzy, profil non daté : réintégrée en « probable », sans coordonnée (opposition à la prospection) ; la DRH Juliette Catinaud, citée par un ancien post, reste écartée (désormais à l'Adapei de la Nièvre).",
+  "recherches": 2
+ },
+ {
+  "siren": "825065279",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026, seconde passe) : une recherche retrouve la page officielle intermarche.com de l'Intermarché Hyper Nevers (rue Bernard Palissy, 03 86 93 24 00), mais le site refuse la lecture (403) : aucune page lue ne nomme l'exploitant, le directeur ni un comptable, et le lien avec NEVINO reste à confirmer. Décision chez l'adhérent Laurent Pommier : demander à l'accueil qui tient la comptabilité et la paie. Vérification : relecture sans recherche ; aucune personne, lien entre NEVINO et l'Intermarché Hyper Nevers toujours à confirmer, note cohérente avec 1 recherche.",
+  "recherches": 1
+ },
+ {
+  "siren": "308530690",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026, seconde passe) : aucune lecture ni recherche : pas de site propre ni de page officielle Auchan trouvée lors des passes précédentes, budget gardé pour les plus grandes entreprises ; aucun nom nouveau. Décision chez le couple De Matteis : demander au standard qui tient la comptabilité. Vérification : relecture sans recherche ; aucune personne, le couple De Matteis n'étant que dirigeant au registre, note cohérente avec 0 recherche.",
+  "recherches": 0
+ },
+ {
+  "siren": "392607545",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026, seconde passe) : le site laballery.fr (une seule page, lue en entier) ne cite qu'Émilie Sagnelonge, présidente et directrice de la publication, et décrit un service client de 6 fabricantes et 2 deviseurs et 4 commerciaux, sans aucun nom administratif, comptable ou RH ; la page La French Fab de l'entreprise est en maintenance. Une recherche ajoute seulement Roselyne Leroux, « responsable financier » de la filiale Imprimerie Floch à Mayenne selon Manageo, non retenue pour Clamecy. Décision chez la PDG (et le conseil d'administration selon le montant) : demander le service administratif et comptable (opposition à la prospection). Vérification : relecture sans recherche ; aucune personne, la responsable financière de la filiale Floch (Mayenne) écartée à juste titre, opposition à la prospection respectée, note cohérente avec 1 recherche.",
+  "recherches": 1
+ },
+ {
+  "siren": "338339146",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026, seconde passe) : tc-transports.fr (accueil, histoire, mentions légales, contact, implantation, actualités) ne nomme que Jean-François Cassier, « PDG de la Holding Cassier » et directeur de la publication (holding propriétaire du site, 33 avenue Louis Coudant à Cercy-la-Tour, siège commercial à Digoin), et confirme le 03 86 50 57 26 pour TC58 et TC VRAC ; le site emploi ne répond pas. Trois recherches : une offre HelloWork de Holding Cassier (vers février 2026, page refusée) recrutait un DAF du groupe à Digoin, comptabilité externalisée selon l'extrait, sans nom du titulaire ; LinkedIn ne montre aucun DAF actuel (Marie-Anne Cassier, à Digoin, sans fonction affichée). Décision à la holding Cassier : demander au standard le DAF du groupe recruté en 2026. Vérification : relecture sans recherche ; aucune personne, le DAF de la holding recruté en 2026 restant sans nom et Marie-Anne Cassier sans fonction affichée écartée à juste titre, note cohérente avec 3 recherches.",
+  "recherches": 3
+ }
+]
