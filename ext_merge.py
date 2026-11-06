@@ -604,6 +604,34 @@ json.dump([{'siren': c['siren'], 'nom': c['nom'], 'url': c.get('url'), 'ca': c['
 chosen_ids = {c['siren'] for c in chosen}
 json.dump([{'siren': c['siren'], 'nom': c['nom'], 'url': c.get('url'), 'ca': c['ca']} for c in grp_c if c['siren'] not in chosen_ids][:20],
           open(EXT + '/margin.json', 'w', encoding='utf-8'), ensure_ascii=False)
+# ---- registre national des entreprises (API Recherche d'entreprises, relevé lent par api_etat.py) ----
+# opposition_diffusion_commerciale : opposition à l'usage commercial des données inscrite au RNE. Une opposition relevée par
+# une source (registre, Pappers, page de l'entreprise) l'emporte ; « non opposée » ne s'applique qu'à une fiche encore non vérifiée.
+API_ETAT = {}
+for f in sorted(glob.glob(EXT + '/api_etat/recherche_entreprises_*.json')):
+    r = json.load(open(f, encoding='utf-8'))
+    jour = '/'.join(reversed(r['date'].split('-')))
+    for s, v in r['fiches'].items():
+        if v.get('trouve') and v.get('data'): API_ETAT[s] = (jour, v['data'])
+n_api = Counter()
+for c in base + ext:
+    a = API_ETAT.get(c['siren'])
+    if not a: continue
+    jour, d = a
+    op = d.get('opposition_diffusion_commerciale')
+    if op is True:
+        n_api['opposées au registre'] += 1
+        if c.get('opposition_prospection') is not True: n_api['dont nouvelles'] += 1
+        c['opposition_prospection'] = True
+        c['opposition_source'] = f'registre national des entreprises (relevé du {jour})'
+    elif op is False:
+        n_api['non opposées au registre'] += 1
+        if c.get('opposition_prospection') is None:
+            c['opposition_prospection'] = False
+            c['opposition_source'] = f'registre national des entreprises (relevé du {jour})'
+        elif c.get('opposition_prospection') is True: n_api['opposées ailleurs, pas au registre (opposition gardée)'] += 1
+print('registre national :', len(API_ETAT), 'fiches |', dict(n_api))
+
 # ---- coordonnées et décideur financier (recherche de contacts, top 100 compris) ----
 CONTACTS = {}
 for f in sorted(glob.glob(EXT + '/contacts_out_*.json')):
@@ -668,7 +696,9 @@ for c in base + ext:
         m = re.search(r'\b(58\d{3})\b', c['adresse'])
         if m and not c.get('code_postal'): c['code_postal'] = m.group(1)
     ac = [x for x in (e.get('autres_contacts') or []) if isinstance(x, dict) and x.get('nom')][:2]
-    if ac and not c.get('opposition_prospection'): c['autres_contacts'] = ac
+    if ac and c.get('opposition_prospection'):   # contact direct par le standard : le nom sert à demander la bonne personne
+        ac = [dict(x, **{k: None for k in ('tel', 'tel_direct', 'email') if k in x}) for x in ac]
+    if ac: c['autres_contacts'] = ac
     # format_email_observe non repris : afficher un format inviterait à deviner des adresses
 print('contacts :', len(CONTACTS), dict(n_ct), '| avec téléphone :', sum(1 for c in base + ext if c.get('telephone')), '/ 500')
 

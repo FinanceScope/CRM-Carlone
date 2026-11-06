@@ -2552,7 +2552,7 @@ $("#exportIcs").addEventListener("click",()=>{
 $("#exportOpp").addEventListener("click",()=>{   // liste d'exclusion : refus notés dans le CRM et oppositions relevées sur Pappers
   const rows=[];
   const jour=d=>{const t=new Date(d);return isNaN(t)?"":isoDay(t)};
-  for(const c of allCompanies){const ri=refusInfo(c);if(ri||c.opposition_prospection)rows.push(["entreprise",c.nom,c.siren,ri?jour(ri.d):"",ri?ri.canal:"",ri?(S(c).opposition?"refus de prospection noté dans le CRM":"pas intéressé, noté dans le CRM"):"opposition relevée sur Pappers ou un annuaire"])}
+  for(const c of allCompanies){const ri=refusInfo(c);if(ri||c.opposition_prospection)rows.push(["entreprise",c.nom,c.siren,ri?jour(ri.d):"",ri?ri.canal:"",ri?(S(c).opposition?"refus de prospection noté dans le CRM":"pas intéressé, noté dans le CRM"):c.opposition_source?"opposition inscrite au "+c.opposition_source:"opposition relevée sur Pappers ou un annuaire"])}
   for(const x of cPros()){const ri=refusInfo(x);if(ri)rows.push(["culture",x.nom,"",jour(ri.d),ri.canal,S(x).opposition?"refus de contact noté dans le CRM":"pas intéressé, noté dans le CRM"])}
   saveFile("refus-prospection-nievre.csv",csvOf(["type","nom","siren","date","canal","origine"],rows));
 });

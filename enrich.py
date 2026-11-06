@@ -211,7 +211,8 @@ def fiab(c):
     else: f['interlocuteurs'] = ['aucune', 'pas encore recherché', None]
     if c.get('site_web'): score += 10
     op = c.get('opposition_prospection')
-    f['opposition'] = ['haute', 'vérifiée lors de la recherche : ' + ('opposée, pas de mailing' if op else 'non opposée'), None] if op in (True, False) \
+    lieu = 'vérifiée au ' + c['opposition_source'] if c.get('opposition_source') else 'vérifiée lors de la recherche'
+    f['opposition'] = ['haute', lieu + ' : ' + ('opposée, pas de mailing' if op else 'non opposée'), None] if op in (True, False) \
         else ['basse', 'non vérifiée : contrôler la fiche Pappers avant tout e-mail', None]
     if op in (True, False): score += 10
     return f, max(0, min(100, score))
