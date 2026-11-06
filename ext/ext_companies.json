@@ -105,6 +105,22 @@
 {
 "nom": "Marc FOINANT",
 "fonction": "Gérant"
+},
+{
+"nom": "Sylvain FOSCOLO",
+"fonction": "Gérant (registre national au 05/11/2026)"
+},
+{
+"nom": "Victor GRAND",
+"fonction": "Gérant (registre national au 05/11/2026)"
+},
+{
+"nom": "Isabelle CHOLLEY (LEBLAN)",
+"fonction": "Gérant (registre national au 05/11/2026)"
+},
+{
+"nom": "Christophe ROUQUETTE",
+"fonction": "Gérant (registre national au 05/11/2026)"
 }
 ],
 "priorite": "Basse",
@@ -140,7 +156,7 @@
 },
 "contact_dirigeant": {
 "nom": "Marc FOINANT",
-"fonction": "Co-gérant (un des 4 co-gérants inscrits au registre) — médecin radiologue",
+"fonction": "Co-gérant (un des 8 co-gérants inscrits au registre) — médecin radiologue",
 "tel_direct": null,
 "email": null,
 "linkedin": null,
@@ -1138,16 +1154,16 @@
 "fonction": "Président du conseil d’administration"
 },
 {
-"nom": "David VERHILLE",
-"fonction": "Directeur Général"
-},
-{
 "nom": "Sandrine AZEMARD",
 "fonction": "Administrateur"
 },
 {
 "nom": "Bénédicte AMELAINE (BASTIEN)",
 "fonction": "Administrateur"
+},
+{
+"nom": "Guillaume FRANGVILLE",
+"fonction": "Directeur général (registre national au 05/11/2026)"
 }
 ],
 "priorite": "Basse",
@@ -1172,21 +1188,21 @@
 "telephone": "03 86 71 57 13",
 "telephone_a_confirmer": true,
 "contact_finance": {
-"nom": "David VERHILLE",
-"fonction": "Directeur général (registre)",
-"type": "dirigeant",
+"nom": "Guillaume FRANGVILLE",
+"fonction": "Directeur général (registre national au 05/11/2026 ; remplace David Verhille, à confirmer au standard)",
+"source": "https://annuaire-entreprises.data.gouv.fr/dirigeants/929918241",
 "tel_direct": null,
 "email": null,
 "linkedin": null,
-"source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+"type": "dirigeant"
 },
 "contact_dirigeant": {
-"nom": "David VERHILLE",
-"fonction": "Directeur général (registre)",
+"nom": "Guillaume FRANGVILLE",
+"fonction": "Directeur général (registre national au 05/11/2026 ; remplace David Verhille, à confirmer au standard)",
+"source": "https://annuaire-entreprises.data.gouv.fr/dirigeants/929918241",
 "tel_direct": null,
 "email": null,
-"linkedin": null,
-"source": "https://www.pappers.fr/entreprise/aquaclaire-929918241"
+"linkedin": null
 },
 "autres_contacts": [
 {
@@ -1205,7 +1221,7 @@
 }
 ],
 "email": null,
-"note_admin": "Décideurs (27/10/2026) : aucune personne administrative, financière ou RH propre à Aquaclaire en 3 recherches (LinkedIn, presse des EPL, BOAMP) : un post LinkedIn parle des équipes « Veolia Eau Nevers / Aquaclaire » et une offre Veolia indique que le département Exploitation Nièvre (46 personnes) gère les contrats d'assainissement de l'agglomération ; Kevin Devaux, directeur de territoire Veolia Eau France – Terres de Bourgogne selon LinkedIn, n'est pas explicitement rattaché à Aquaclaire (non retenu). Gestion assurée par Veolia Eau Centre-Est, décision entre le DG David Verhille et Nevers Agglomération (actionnaire public). Vérification : relecture sans recherche ; aucune personne retenue, DG et actionnaires conformes au registre, Kevin Devaux à juste titre écarté (pas de lien explicite avec Aquaclaire) : rien à corriger."
+"note_admin": "Décideurs (27/10/2026) : aucune personne administrative, financière ou RH propre à Aquaclaire en 3 recherches (LinkedIn, presse des EPL, BOAMP) : un post LinkedIn parle des équipes « Veolia Eau Nevers / Aquaclaire » et une offre Veolia indique que le département Exploitation Nièvre (46 personnes) gère les contrats d'assainissement de l'agglomération ; Kevin Devaux, directeur de territoire Veolia Eau France – Terres de Bourgogne selon LinkedIn, n'est pas explicitement rattaché à Aquaclaire (non retenu). Gestion assurée par Veolia Eau Centre-Est, décision entre le DG (Guillaume Frangville au registre du 05/11/2026) et Nevers Agglomération (actionnaire public). Vérification : relecture sans recherche ; aucune personne retenue, DG et actionnaires conformes au registre, Kevin Devaux à juste titre écarté (pas de lien explicite avec Aquaclaire) : rien à corriger."
 },
 {
 "rang": 116,
@@ -14670,6 +14686,10 @@
 {
 "nom": "Charles Edouard Andre COLAS",
 "fonction": "Gérant"
+},
+{
+"nom": "Patrice MEUNIER",
+"fonction": "Gérant (nommé le 09/10/2026, BODACC du 13/10/2026)"
 }
 ],
 "priorite": "Basse",

@@ -139,6 +139,23 @@ for c in companies:
         if syn.get('nom_affiche'): c['nom_court'] = syn['nom_affiche'].strip()
     c['offres'] = []
 
+# fiches d'appel : corrections après le contrôle des dirigeants du 06/11/2026 (registre national et presse)
+FICHE_MAJ = {
+    '571880301': [('qui_appeler', "Demander Didier Martinez, PDG au registre, ou le directeur délégué du journal",
+                   "Demander Francis Gaunand, directeur général (du journal au registre, du groupe Centre France depuis le 17/12/2025), ou son assistante"),
+                  ('vigilance', "Didier Martinez, PDG au registre, n'apparaît dans aucune source de presse : vérifier qu'il est en poste.",
+                   "Didier Martinez reste président du conseil d'administration ; la direction générale est passée à Francis Gaunand (registre national au 05/11/2026)."),
+                  ('vigilance', "Groupe en restructuration : nouveau DG, Francis Gaunand, depuis décembre 2025 et 152 suppressions de postes annoncées en avril 2026.",
+                   "Groupe en restructuration : 152 suppressions de postes annoncées en avril 2026.")],
+}
+for c in companies:
+    for champ, avant, apres in FICHE_MAJ.get(c.get('siren'), ()):
+        f = c.get('fiche') or {}
+        v = f.get(champ)
+        if isinstance(v, str) and avant in v: f[champ] = v.replace(avant, apres)
+        elif isinstance(v, list) and avant in v: f[champ] = [apres if x == avant else x for x in v]
+        else: print('ATTENTION correction de fiche non appliquée :', c['rang'], champ, avant[:40])
+
 # garde-fou : aucune mention des établissements des associés dans les textes générés
 INTERDIT = re.compile(r"vieux relais|\ble m\b|\bdu m\b|\bau m\b|nos établissements|\bbar\b|\brestaurants?\b|chambres|bar-restaurant", re.I)
 for c in companies:

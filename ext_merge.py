@@ -869,6 +869,47 @@ for c in base + ext:
     c['note_admin'] = ' '.join(a['notes'])
 if ADMIN: print('décideurs finance / RH / administration :', dict(n_adm))
 
+# ---- dirigeants : écarts avec le registre national (relevé du 05/11/2026) tranchés sur sources datées le 06/11/2026 ----
+# Écarts sans suite : GEFICCA (Catherine Kraft, ancienne membre du conseil de surveillance, ligne restée au registre),
+# Julien Catel (Florent Freguin, absent de toute autre source), Polyclinique (« ELSANS » : coquille du registre), VGB (personne morale absente du registre).
+REG = 'https://annuaire-entreprises.data.gouv.fr/dirigeants/'
+MAJ_DIRIGEANTS = {
+    '929918241': {   # Aquaclaire : seul le registre est daté ; David Verhille n'y figure plus
+        'retirer': ('David VERHILLE',),
+        'ajouter': [{'nom': 'Guillaume FRANGVILLE', 'fonction': 'Directeur général (registre national au 05/11/2026)'}],
+        'interlocuteur': {'nom': 'Guillaume FRANGVILLE', 'fonction': 'Directeur général (registre national au 05/11/2026 ; remplace David Verhille, à confirmer au standard)',
+                          'source': REG + '929918241'}},
+    '571880301': {   # Journal du Centre : Francis Gaunand, DG du groupe Centre France depuis le 17/12/2025, inscrit DG au registre
+        'fonctions': {'Didier Martinez': "Président du conseil d'administration (encore « et directeur général » au registre)"},
+        'ajouter': [{'nom': 'Francis GAUNAND', 'fonction': 'Directeur général (aussi directeur général du groupe Centre France depuis le 17/12/2025)'}],
+        'interlocuteur': {'nom': 'Francis GAUNAND', 'fonction': 'Directeur général du Journal du Centre (registre) et du groupe Centre France depuis le 17/12/2025 (presse)',
+                          'source': 'https://www.cbnews.fr/node/97656'}},
+    '834179566': {'textes': (('un des 4 co-gérants inscrits au registre', 'un des 8 co-gérants inscrits au registre'),),
+                  'ajouter': [{'nom': n, 'fonction': 'Gérant (registre national au 05/11/2026)'} for n in
+                              ('Sylvain FOSCOLO', 'Victor GRAND', 'Isabelle CHOLLEY (LEBLAN)', 'Christophe ROUQUETTE')]},
+    '831929161': {'ajouter': [{'nom': 'Patrice MEUNIER', 'fonction': 'Gérant (nommé le 09/10/2026, BODACC du 13/10/2026)'}]},
+}
+for c in base + ext:
+    m = MAJ_DIRIGEANTS.get(c['siren'])
+    if not m: continue
+    dirs = [d for d in c.get('dirigeants') or [] if d.get('nom') not in m.get('retirer', ())]
+    for d in dirs:
+        if d.get('nom') in m.get('fonctions', {}): d['fonction'] = m['fonctions'][d['nom']]
+    noms = {d.get('nom') for d in dirs}
+    c['dirigeants'] = dirs + [d for d in m.get('ajouter', []) if d['nom'] not in noms]
+    it = m.get('interlocuteur')
+    if it:
+        anciens = {norm(x) for x in m.get('retirer', ())} | {norm(n) for n in m.get('fonctions', {})}
+        new = dict(it, tel_direct=None, email=None, linkedin=None)
+        if norm((c.get('contact_dirigeant') or {}).get('nom') or '') in anciens: c['contact_dirigeant'] = new
+        cf = c.get('contact_finance') or {}
+        if norm(cf.get('nom') or '') in anciens: c['contact_finance'] = dict(new, type='dirigeant')
+    for avant, apres in m.get('textes', ()):
+        for k in ('contact_dirigeant', 'contact_finance'):
+            if (c.get(k) or {}).get('fonction'): c[k]['fonction'] = c[k]['fonction'].replace(avant, apres)
+    if c['siren'] == '929918241' and c.get('note_admin'):
+        c['note_admin'] = c['note_admin'].replace('le DG David Verhille', 'le DG (Guillaume Frangville au registre du 05/11/2026)')
+
 json.dump(ext, open(EXT + '/ext_companies.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 json.dump(base + ext, open(SITE + '/companies.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
 
