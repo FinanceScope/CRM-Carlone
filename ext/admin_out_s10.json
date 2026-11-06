@@ -1,0 +1,114 @@
+[
+ {
+  "siren": "452486673",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026) : aucun responsable administratif, comptable ou RH nommé : l'article de L'Officiel de la franchise (2016, https://officieldelafranchise.fr/un-nouveau-point-de-vente-monceau-fleurs-a-nevers-la-belle-saga-des-freres-signoret/) ne cite que Frédéric et Pascal Signoret (7 points de vente dont 2 Rapid'Flore, le magasin de Cosne étant un Rapid'Flore, plus de 30 fleuristes), et les nouvelles recherches (rôles « responsable de magasin », « assistante », « comptable », SIREN avec « expert-comptable ») ne donnent aucun salarié de la franchise nivernaise ni cabinet comptable ; observatoiredelafranchise.fr a refusé la lecture (403). Le registre donne 8 établissements ouverts pour SIFLEURS, gérant Frédéric Signoret : demander au magasin du centre de Nevers qui tient la gestion et la paie pour les magasins des frères Signoret. Vérification : relecture sans recherche ; aucune personne retenue, cohérent (Pascal et Frédéric Signoret déjà connus, chiffres de 2016 datés, aucun cabinet comptable cité donc rien à ajouter ; aucune coordonnée).",
+  "recherches": 3
+ },
+ {
+  "siren": "549879096",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026) : aucun contact finance, RH ou administration retenu : le site sapem-sa.com refuse la lecture (403), le communiqué d'Aurignac Finance (https://aurfi.com/hps-international-sapem/, 06/11/2025) confirme le rachat par HPS International (rapprochement avec sa filiale Codipro) sans nommer personne, et les recherches LinkedIn sur « contrôleur de gestion », « comptable », « assistante de direction » ne donnent aucun salarié de SAPEM avec un titre. Un résumé d'extrait de registre indique que Joël Archer a laissé la direction générale à Grégory Poitrasson, président d'HPS International (lui-même présidé par le fonds MBO+ selon le registre) : la décision se prend vraisemblablement au groupe HPS International, demander au standard de Cizely le responsable du site et la personne qui tient la comptabilité. Vérification : relecture sans recherche, registre relu (API Recherche d'entreprises) ; aucune personne retenue, cohérent avec l'opposition à la prospection ; précision : au registre, la présidente de SAPEM est HPS INTERNATIONAL GROUP (Paris 8e), elle-même présidée par la société MBO+ ; le titre de Grégory Poitrasson ne repose que sur le résumé d'extrait cité, à confirmer au standard.",
+  "recherches": 3
+ },
+ {
+  "siren": "852275684",
+  "contacts": [
+   {
+    "nom": "Lionel VINCENT",
+    "fonction": "Président de la holding L3AP, présidente de La Boulangerie des Docks (franchise Feuillette) ; contact employeur des offres France Travail",
+    "role": "direction_site",
+    "fiabilite": "probable",
+    "source": "https://recherche-entreprises.api.gouv.fr/search?q=919400200",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (06/11/2026) : le registre (API Recherche d'entreprises) confirme que la holding L3AP, présidente de la société, a pour président Lionnel Jean-Pierre Vincent et pour directeur général Alexis Vincent : M. Lionel Vincent, déjà contact des offres France Travail, est donc bien l'exploitant (source remplacée par le registre). Aucun comptable, assistant administratif ni responsable de boutique nommé (recherches presse franchise et LinkedIn « Feuillette » Nevers / Varennes-Vauzelles) ; opposition à la prospection : nom et rôle seulement, sans coordonnées directes. Vérification : 1 recherche (presse « Lionel Vincent » Feuillette Nevers rue des Docks) et registre relu : L3AP (2 rue des Docks, Nevers), présidente de La Boulangerie des Docks, a bien pour président Lionnel Jean-Pierre Vincent et pour DG Alexis Vincent ; mais la presse franchise (toute-la-franchise.com, 2024) ne le présente que comme franchisé Feuillette à la tête de deux boulangeries sans nommer celle des Docks, et la seule source qui le relie à la société est le registre (annuaire, pas le site de l'entreprise ni la presse) : « confirme » ramené à « probable » ; il est en fait le dirigeant derrière la holding présidente, pas un directeur de site distinct ; aucune coordonnée, conforme à l'opposition.",
+  "recherches": 2
+ },
+ {
+  "siren": "381215102",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026) : aucun salarié administratif actuel nommé : la page LinkedIn QUALIJURIS 58 (11-50 salariés, 2 avenue Saint-Just) ne fait ressortir aucun clerc, secrétaire ou comptable en poste avec un titre, et les offres « Qualijuris » trouvées concernent des études de Toulouse et Villefranche-de-Lauragais portant le même nom (à ne pas confondre). Le registre donne 3 établissements ouverts et une SPFPL QUALIJURIS (Nevers) présidée aussi par Alexandre Lovato : demander au standard le clerc ou la secrétaire qui gère la comptabilité de l'étude. Vérification : relecture sans recherche ; aucune personne retenue, cohérent avec l'opposition à la prospection (homonymes de Toulouse et Villefranche-de-Lauragais écartés à juste titre, anciens clercs non repris ; aucune coordonnée).",
+  "recherches": 2
+ },
+ {
+  "siren": "498917202",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026) : aucun nom : la page Présentation du site (https://www.ambulancestissier.com/presentation/) indique « 35 ambulanciers dont 22 diplômés d'État, et 3 secrétaires » sans les nommer, et les pages contact et mentions légales ne citent que la société ; LinkedIn ne montre qu'un salarié d'AMBULANCES TISSIER sans intitulé (Loïc Le Beuvant, non retenu) et aucune offre de secrétaire ou de facturation de la société n'est publiée. Demander au standard la secrétaire qui gère la facturation et la comptabilité, sinon les cogérants Cédric et Ghislaine Tissier. Vérification : relecture sans recherche ; aucune personne retenue, cohérent (Loïc Le Beuvant sans intitulé écarté à juste titre, les 3 secrétaires restent anonymes ; aucune coordonnée).",
+  "recherches": 2
+ },
+ {
+  "siren": "528031750",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026) : aucune personne du franchisé nommée : la page recrutement du restaurant (https://www.mcdonalds-recrute.fr/nos-restaurants/varennes-vauzelles/) n'a aucune offre et ses témoignages (« Samuel, directeur de restaurant »…) sont des textes types identiques à ceux de Decize, donc non retenus ; les recherches sur Yannick Andrieux et sur les rôles « office manager », « gestionnaire de paie », « comptable » des McDonald's de Nevers, Marzy et Varennes-Vauzelles ne donnent que des profils non localisés dans la Nièvre. Demander au restaurant le bureau administratif commun aux sociétés de Yannick Andrieux (V 2 Restauration et EVEREST, McDonald's de Marzy). Vérification : relecture sans recherche ; aucune personne retenue, cohérent (témoignages types de mcdonalds-recrute.fr écartés à juste titre, profils non localisés non repris ; aucune coordonnée).",
+  "recherches": 3
+ },
+ {
+  "siren": "305065658",
+  "contacts": [
+   {
+    "nom": "Maria (nom non affiché)",
+    "fonction": "Directrice Financière (holding Infini Développement, Beaumont, qui exerce les fonctions support du groupe Dabrigeon)",
+    "role": "finance",
+    "fiabilite": "confirme",
+    "source": "https://www.infini-developpement.com/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Yamina HOTMANI",
+    "fonction": "Comptable - INFINI DEVELOPPEMENT (holding, Beaumont ; « Service Comptabilité » sur le site du groupe)",
+    "role": "finance",
+    "fiabilite": "confirme",
+    "source": "https://www.linkedin.com/in/yamina-hotmani-763837220/",
+    "linkedin": "https://www.linkedin.com/in/yamina-hotmani-763837220/",
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Aurélie (nom non affiché)",
+    "fonction": "Directrice RH (holding Infini Développement, Beaumont)",
+    "role": "rh",
+    "fiabilite": "confirme",
+    "source": "https://www.infini-developpement.com/",
+    "linkedin": null,
+    "tel_direct": null,
+    "email": null
+   },
+   {
+    "nom": "Amandine BARRAUD",
+    "fonction": "Responsable Ressources humaines et Juridique - INFINI DEVELOPPEMENT (holding, Beaumont)",
+    "role": "rh",
+    "fiabilite": "confirme",
+    "source": "https://www.linkedin.com/in/amandine-barraud-021b8132/",
+    "linkedin": "https://www.linkedin.com/in/amandine-barraud-021b8132/",
+    "tel_direct": null,
+    "email": null
+   }
+  ],
+  "note": "Décideurs (06/11/2026) : le site pfgaubier.com (accueil, agence de Cosne, mentions légales : directeur de la publication Bruno Spagnuolo, siège indiqué 3 rue Jean Gautherin à Nevers) ne nomme aucun administratif local, mais la page d'accueil d'Infini Développement, holding qui préside la société et assure les fonctions support du groupe (photos de 2024), présente Maria, Directrice Financière, Ana-bela (service financier), Aurélie, Directrice RH, Marie, Assistante de direction, et Cécile, Yamina et Denise au service comptabilité ; LinkedIn donne les noms complets de Yamina Hotmani (comptable depuis 04/2023), Amandine Barraud (responsable RH et juridique depuis 09/2023) et Océane Loussert (assistante RH depuis 04/2025). La décision se prend au siège de Beaumont (63) : demander à l'agence de Cosne le nom de famille de Maria, directrice financière, ou Marie, assistante de direction. Vérification : 2 recherches LinkedIn et 3 lectures de pages : la page d'accueil d'infini-developpement.com, relue le 06/11/2026, affiche toujours Maria (Directrice Financière), Aurélie (Directrice RH), Amandine (Service RH & Juridique) et Yamina (Service Comptabilité), sans date visible ; LinkedIn confirme Yamina Hotmani, « Comptable - INFINI DEVELOPPEMENT » depuis 04/2023 (extrait indexé vers mi-2024, Clermont-Ferrand), et Amandine Barraud, « Responsable Ressources humaines et Juridique - INFINI DEVELOPPEMENT » depuis 09/2023 (Chamalières) ; les mentions légales de pfgaubier.com confirment le directeur de publication Bruno Spagnuolo et le siège 3 rue Jean Gautherin à Nevers ; la holding préside la société et exerce les fonctions support du groupe : les 4 personnes sont maintenues « confirme » ; le nom de famille de Maria reste introuvable (recherche LinkedIn sans résultat) ; une gestionnaire de paie Séverine Domingues Perrin citée par la page LinkedIn de la société, absente de la page d'équipe et non datée, n'est pas ajoutée.",
+  "recherches": 3
+ },
+ {
+  "siren": "489664300",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026) : aucune assistante, secrétaire ou comptable nommée : les pages accueil, contact et mentions légales de pescaglini.com ne citent que la société (« SARL MARC PESCAGLINI », directeur de la publication) et une recherche avec les rôles « secrétaire », « assistante », « comptable », « conducteur de travaux » ne renvoie que Xerfi, Pappers et une offre de plaquiste. La gestion reste vraisemblablement tenue par Barbara et Marc Pescaglini : demander au standard qui tient l'administratif et la comptabilité. Vérification : relecture sans recherche ; aucune personne retenue, cohérent (dirigeants déjà connus, aucun salarié administratif nommé ; aucune coordonnée).",
+  "recherches": 1
+ },
+ {
+  "siren": "804785566",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026) : aucune personne du restaurant nommée : la page recrutement du McDonald's de Decize (https://www.mcdonalds-recrute.fr/nos-restaurants/decize/, 45 collaborateurs) ne porte que des témoignages types (dont « Samuel, directeur de restaurant », identique sur d'autres restaurants, non retenu) et aucune recherche ne nomme le directeur ni un administratif. Le registre donne pour la holding STAG (Rueil-Malmaison), présidente de LOLLIPOP, le gérant Sébastien Jonvel, et un profil LinkedIn « Sébastien Jonvel, franchisé chez McDonald's » (Île-de-France) existe : la décision se prend chez ce franchisé, demander au restaurant qui gère l'administratif et la paie pour STAG. Vérification : relecture sans recherche, registre relu : LOLLIPOP est présidée par STAG (25 rue Henri Regnault, Rueil-Malmaison), dont le gérant est Sébastien Jonvel ; aucune personne retenue, cohérent (témoignage type « Samuel » écarté à juste titre ; aucune coordonnée).",
+  "recherches": 3
+ },
+ {
+  "siren": "952050292",
+  "contacts": [],
+  "note": "Décideurs (06/11/2026) : aucune personne finance, RH ou administration retenue : le registre donne pour la holding DPLF (Niort), présidente de BKCSL, le gérant François Renard (et non « Frenard »), qui a un profil LinkedIn « BURGER KING® France » (https://www.linkedin.com/in/francois-renard-a32b38121/), et la page LinkedIn « Burger King Bourges - Saint Doulchard - Cosne sur Loire » évoque des contacts RH (partenariat avec la Mission locale de Cosne) sans les nommer ; Loïc Gressin (Burger King Bourges, sans titre) et Amélie Creusot (assistante administrative RH Burger King, mais à Belfort) ne sont pas retenus. La décision se prend chez le franchisé de Bourges : demander au restaurant le nom de la personne RH ou administrative du groupe (opposition à la prospection : pas de coordonnées directes). Vérification : relecture sans recherche, registre relu : BKCSL est présidée par DPLF (Niort), dont le gérant est François Renard, ce qui corrige bien « Frenard » ; aucune personne retenue, cohérent avec l'opposition à la prospection (Loïc Gressin sans titre et Amélie Creusot, à Belfort, écartés à juste titre) ; la fiche déclare 4 recherches, au-delà du plafond de 3 par entreprise.",
+  "recherches": 4
+ }
+]
